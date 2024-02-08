@@ -1,0 +1,464 @@
+"appid" "1282100"
+"common"
+{
+	"name" "Remnant II"
+	"type" "Game"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1282100_eula_1"
+			"name" "Remnant 2 EULA"
+			"url" "https://store.steampowered.com//eula/1282100_eula_1"
+			"version" "2"
+		}
+	}
+	"icon" "7223e40d6e1d9a25db48cce857d1b83c5f2c5704"
+	"clienticon" "e8ea92bb3c60e1073c4fa5dc6e6e51b0595b1648"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "遗迹2"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"clienttga" "f811e77ec58ca31e8d2b4d26025dd9ad60717ddd"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"has_adult_content" "1"
+	"has_adult_content_violence" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1692748800"
+		"tested_build_id" "11968242"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1706660434"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gunfire Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gearbox Publishing"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1690304400"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1282100"
+	"store_tags"
+	{
+		"0" "29482"
+		"1" "19"
+		"2" "21"
+		"3" "122"
+		"4" "1685"
+		"5" "3814"
+		"6" "1774"
+		"7" "4342"
+		"8" "4106"
+		"9" "3835"
+		"10" "3993"
+		"11" "3859"
+		"12" "1697"
+		"13" "3843"
+		"14" "4166"
+		"15" "1667"
+		"16" "6730"
+		"17" "7481"
+		"18" "4182"
+		"19" "4345"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Gunfire Games"
+	"publisher" "Gearbox Publishing"
+	"homepage" "https://www.remnantgame.com/"
+	"listofdlc" "2384070,2384071,2384072,2384073,2384076"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Remnant2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Remnant2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1282101"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8443500333291332296"
+				"size" "78656064680"
+				"download" "76219671200"
+			}
+			"arc750_beta"
+			{
+				"gid" "8443500333291332296"
+				"size" "78656064680"
+				"download" "76219671200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"compatibility"
+			{
+				"gid" "6DE551828B1B61248126854C0C59FE6F"
+				"size" "3550A2951286F938FECA3415ED130459"
+				"download" "66631C37D90B901B3A1C332EA5A4E75C"
+			}
+			"feature_test"
+			{
+				"gid" "ADE8D6EC24F2DACBBCCF1375FCE977ED"
+				"size" "EBC01D36C6ADE769BEA50D8649AFD610"
+				"download" "4CE81CABD6316C22DDE9F07CF285BC81"
+			}
+			"internal"
+			{
+				"gid" "9F15A4EC48D3EC061D0127691A15C161"
+				"size" "06D7EDAC1524AF4BFFF0C1AC64371F37"
+				"download" "ABF7C95A2501EE4875432BD8148A918E"
+			}
+			"playtest"
+			{
+				"gid" "FC47AF8CE2A3AE881CC35EC1756BC7B0"
+				"size" "F0342A485DB7814A20E1A6831BD7C560"
+				"download" "4D54886C49685CC09051CE13B29CA48E"
+			}
+			"playtest_dev"
+			{
+				"gid" "9D3B7606A68FEFC1FCB1D5FEF5E8CB72"
+				"size" "96FE1C75FE1E22BD20CB309CC189E9F6"
+				"download" "5831A444F3EC47217B48788C1D64D1C8"
+			}
+			"pr_dlc"
+			{
+				"gid" "3E5AE48384772900AADE320C3CABBF1B"
+				"size" "06E79B118CEE569DB3209BFAC77AC1B2"
+				"download" "8FD230B8755894C57256971C8A00D4EB"
+			}
+			"staging_release"
+			{
+				"gid" "3548C66A496689E747161CA217617A65"
+				"size" "86A3FDE35269A5A81A312FF5A553E13E"
+				"download" "94CED61D42A0FC51CAE40A6BD240D42A"
+			}
+			"testgate"
+			{
+				"gid" "F2152FA89F224C38ADF9D67ADA2067CE"
+				"size" "53DA87F952A9587AF41FC55226F5168A"
+				"download" "A4B906E0F045FF9573456AAEBE7D7086"
+			}
+			"testgate_playthrough"
+			{
+				"gid" "C159919AD4DB02A96F8BB891D578DC12"
+				"size" "221F14EB4B08A21A450EF434B8805153"
+				"download" "5E74585B516D3A9872874759B50E3AB3"
+			}
+			"testgate_ps5"
+			{
+				"gid" "5A14693B18A420E64F866D0A74406BAE"
+				"size" "F88A68B83B7DB70DE2A0A28A374FB415"
+				"download" "FBD61932870E4EF7D59039CC48CE5CAA"
+			}
+			"testgate_testbuild"
+			{
+				"gid" "9EA991B7A62FC3B98EA39A7337373458"
+				"size" "7BB502738385A90DC48EE37A9189B2D5"
+				"download" "517B7E1DD86FB56CE36021524AF1DF21"
+			}
+			"testgate_xbox"
+			{
+				"gid" "BA98BA962B7FC7092BF2E25A8B12E706"
+				"size" "89E40099702DB8560D4A6283D985B010"
+				"download" "0EEECDC2B5DD3C21F202256039E0E93D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13180728"
+			"timeupdated" "1705512985"
+		}
+		"arc750_beta"
+		{
+			"buildid" "13180728"
+			"description" "Beta Test Branch ARC750 video cards only"
+			"timeupdated" "1705512935"
+		}
+		"compatibility"
+		{
+			"buildid" "12939564"
+			"pwdrequired" "1"
+			"timeupdated" "1702390159"
+		}
+		"feature_test"
+		{
+			"buildid" "13393693"
+			"pwdrequired" "1"
+			"timeupdated" "1707318859"
+		}
+		"internal"
+		{
+			"buildid" "13392274"
+			"pwdrequired" "1"
+			"timeupdated" "1707309525"
+		}
+		"playtest"
+		{
+			"buildid" "13325095"
+			"pwdrequired" "1"
+			"timeupdated" "1706710621"
+		}
+		"playtest_dev"
+		{
+			"buildid" "13392644"
+			"pwdrequired" "1"
+			"timeupdated" "1707312227"
+		}
+		"pr_dlc"
+		{
+			"buildid" "12896120"
+			"pwdrequired" "1"
+			"timeupdated" "1702390185"
+		}
+		"staging_release"
+		{
+			"buildid" "13298370"
+			"pwdrequired" "1"
+			"timeupdated" "1706531525"
+		}
+		"testgate"
+		{
+			"buildid" "13323650"
+			"pwdrequired" "1"
+			"timeupdated" "1706715016"
+		}
+		"testgate_playthrough"
+		{
+			"buildid" "13298370"
+			"pwdrequired" "1"
+			"timeupdated" "1706531548"
+		}
+		"testgate_ps5"
+		{
+			"buildid" "12630238"
+			"pwdrequired" "1"
+			"timeupdated" "1699376806"
+		}
+		"testgate_testbuild"
+		{
+			"buildid" "13392870"
+			"pwdrequired" "1"
+			"timeupdated" "1707313647"
+		}
+		"testgate_xbox"
+		{
+			"buildid" "12660644"
+			"pwdrequired" "1"
+			"timeupdated" "1699904556"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "40000000"
+	"maxnumfiles" "12"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Remnant2/Steam/{Steam3AccountID}"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22245722"
+"_sha" "fdcd103667cae0dd962d01151630e4955aad8bea"
+"_size" "8851"
