@@ -1,0 +1,185 @@
+"appid" "2555190"
+"common"
+{
+	"name" "Poppy Playtime - Chapter 3"
+	"type" "DLC"
+	"parent" "1721470"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2555190_eula_0"
+			"name" "Poppy Playtime - Chapter 3 EULA"
+			"url" "https://store.steampowered.com//eula/2555190_eula_0"
+			"version" "1"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_logo" "en"
+	}
+	"store_asset_mtime" "1706657679"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mob Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1706634022"
+	"gameid" "2555190"
+	"exfgls" "1"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "19"
+		"2" "492"
+		"3" "1667"
+		"4" "1664"
+		"5" "4182"
+		"6" "3839"
+		"7" "4342"
+		"8" "3978"
+		"9" "42089"
+		"10" "4191"
+		"11" "4667"
+		"12" "5716"
+		"13" "1742"
+		"14" "5228"
+		"15" "1721"
+		"16" "1662"
+		"17" "4166"
+		"18" "4106"
+		"19" "4345"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"dlcforappid" "1721470"
+	"mustownapptopurchase" "1721470"
+	"developer" "Mob Entertainment"
+	"homepage" "https://www.mobentertainment.com/poppy-playtime"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2555198"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6195016546179599385"
+				"size" "39223763291"
+				"download" "21158309312"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_alpha"
+			{
+				"gid" "26DE049A7B627E12855D162357B79F4F"
+				"size" "5335AACC00F1893D057EC6556056EC8E"
+				"download" "3338B0A7FC41F762A61824E022EE839A"
+			}
+		}
+		"dlcappid" "2555190"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13306992"
+			"timeupdated" "1706572384"
+		}
+		"dev_alpha"
+		{
+			"buildid" "13306992"
+			"pwdrequired" "1"
+			"timeupdated" "1706570914"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22252566"
+"_sha" "d55c67024d32d8d65be59a3422688343696d1f72"
+"_size" "2902"
