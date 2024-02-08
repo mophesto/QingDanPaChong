@@ -55,8 +55,9 @@ class MyJson(dict):
             self.update(json.load(f))
 
     def dump(self):
-        with self.path.open('w', encoding='utf-8') as f:
-            json.dump(self, f)
+        data_to_dump = copy.deepcopy(self)
+        with data_to_dump.path.open('w', encoding='utf-8') as f:
+            json.dump(data_to_dump, f)
 
 
 class LogExceptions:
