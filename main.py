@@ -2,6 +2,7 @@ import os
 import git
 import sys
 import json
+import copy
 import time
 import base64
 import gevent
