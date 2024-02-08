@@ -1,0 +1,355 @@
+"appid" "2290000"
+"common"
+{
+	"name" "TerraScape"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "99547fba140d16a485099fbb16c13a8b0fbb4b63"
+	"clienttga" "a6d987c4aa2412bf392951fbbf3ebba820f1e175"
+	"clienticon" "727c3c4b27af43d3edd08a2870f650ec3ecfc3c9"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681516800"
+		"tested_build_id" "10996285"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "32.92536273350859"
+			"height_pct" "67.36111111111111"
+		}
+	}
+	"store_asset_mtime" "1705480662"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bitfall Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bitfall Studios"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_2" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_47" "1"
+		"category_25" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_48" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1680706868"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2290000"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "1664"
+		"2" "9"
+		"3" "597"
+		"4" "12057"
+		"5" "4166"
+		"6" "1666"
+		"7" "1717"
+		"8" "1770"
+		"9" "1654"
+		"10" "4172"
+		"11" "1643"
+		"12" "4975"
+		"13" "4305"
+		"14" "6129"
+		"15" "4182"
+		"16" "12472"
+		"17" "599"
+		"18" "4791"
+		"19" "4726"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Bitfall Studios"
+	"publisher" "Bitfall Studios"
+	"homepage" "https://terrascape.de/"
+}
+"config"
+{
+	"installdir" "TerraScape"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TerraScape.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,dutch,brazilian"
+	"2290001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2736417223906307580"
+				"size" "1391382800"
+				"download" "1155442224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"preview"
+			{
+				"gid" "4D5EDC467AB2991DC71B64B9A3351ADD"
+				"size" "E014159B461CBE94ECFBD1A3D8B12CF2"
+				"download" "716D4082B436B089392605B3FAAA3939"
+			}
+			"testing"
+			{
+				"gid" "1749D3838333BA3FD293869777BE9ACB"
+				"size" "1566E69897F64F440A3C87D4848C09BE"
+				"download" "1CDDF800F5679A9680D4C285EBC643EA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13346778"
+			"timeupdated" "1706877691"
+		}
+		"preview"
+		{
+			"buildid" "11956957"
+			"pwdrequired" "1"
+			"timeupdated" "1692204904"
+		}
+		"testing"
+		{
+			"buildid" "13346778"
+			"pwdrequired" "1"
+			"timeupdated" "1706875548"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Bitfall Studios/TerraScape"
+			"pattern" "*.save"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Bitfall Studios/TerraScape/saves"
+			"pattern" "*.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Bitfall Studios/TerraScape"
+					"replace" ".config/unity3d/Bitfall Studios/TerraScape"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Bitfall Studios/TerraScape"
+					"replace" "unity.Bitfall Studios.TerraScape"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22244220"
+"_sha" "8561c7ff12c04a7b354608d6b74b749bd137837c"
+"_size" "6308"
