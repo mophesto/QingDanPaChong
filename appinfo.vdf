@@ -1,0 +1,581 @@
+"appid" "381210"
+"common"
+{
+	"name" "Dead by Daylight"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"clienticon" "ba79062ed34a8dd2e028d2ff84b7e101b85cc0d2"
+	"clienttga" "e0b606848426773aee545fbec5855bc3e4788a03"
+	"icon" "aa152097a700fd6f4707397ce41794ea30874790"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"logo" "234111758152b0c49efdf3f182e4b068f3b6f12d"
+	"logo_small" "234111758152b0c49efdf3f182e4b068f3b6f12d_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "381210_eula_0"
+			"name" "Dead by Daylight EULA"
+			"url" "http://store.steampowered.com//eula/381210_eula_0"
+			"version" "4"
+		}
+	}
+	"osarch" "64"
+	"name_localized"
+	{
+		"schinese" "黎明杀机"
+		"japanese" "デッドバイデイライト"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"has_adult_content" "1"
+	"has_adult_content_violence" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1683676800"
+		"tested_build_id" "10989455"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "32.52526065361923"
+			"height_pct" "87.05882739409228"
+		}
+	}
+	"store_asset_mtime" "1706649396"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Behaviour Interactive Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Behaviour Interactive Inc."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dead by Daylight"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_27" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1465887600"
+	"steam_release_date" "1465887600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "381210"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3978"
+		"2" "3859"
+		"3" "3843"
+		"4" "1685"
+		"5" "1662"
+		"6" "4345"
+		"7" "5711"
+		"8" "1687"
+		"9" "5228"
+		"10" "1697"
+		"11" "4667"
+		"12" "3839"
+		"13" "1721"
+		"14" "19"
+		"15" "4166"
+		"16" "9"
+		"17" "1719"
+		"18" "5611"
+		"19" "4026"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/5233584512664666008/"
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"appid" "1826330"
+			"comment" "EAC runtime"
+		}
+	}
+	"developer" "Behaviour Interactive Inc."
+	"publisher" "Behaviour Interactive Inc."
+	"homepage" "http://www.deadbydaylight.com"
+	"listofdlc" "489980,492360,509060,509061,516780,528320,528321,528322,528323,528324,530710,530711,534130,534131,554380,554381,556360,556370,556371,562130,566500,573240,573940,577900,577901,582600,620230,627510,639710,661770,700280,700282,724650,750380,750381,799200,925750,971790,1009820,1009821,1089270,1135280,1199880,1251000,1324970,1324971,1408020,1474030,1557310,1622940,1622941,1634040,1734080,1763310,1804690,1899750,1985790,2102730,2198470,2294610,2399750,2405130,2405140,2469400"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dead by Daylight"
+	"verifyupdates" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DeadByDaylight.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "start_protected_game.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nnc-live-internal"
+			}
+			"description_loc"
+			{
+				"english" "For NNC testing"
+			}
+			"description" "For NNC testing"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2125226009"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"381211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4524343298220737988"
+				"size" "41383776835"
+				"download" "40923905456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"kraken-qa-internal"
+			{
+				"gid" "EEF64518E3D05ACA18B5BB3D83F5472C"
+				"size" "1DBBE3A695FEE1B7BFF31451E47EFED2"
+				"download" "95D5FB16B6EEA0802C810A03C5B894B5"
+			}
+			"nnc-live-internal"
+			{
+				"gid" "5B913F10716618961CC6139937A5514C"
+				"size" "18C6ED656AA2A8AD92EAEEAA090E80B7"
+				"download" "1990B7B3BB831C954E58F18F9A2876F1"
+			}
+			"public-test-internal"
+			{
+				"gid" "C96047BBD3D6BDC8F49AC72CAA0C637B"
+				"size" "769C385CC1B89F632AA71B77B83B8FF1"
+				"download" "18293A87A5BA5CF9454A8DAA75D53D21"
+			}
+			"shipping-cert-internal"
+			{
+				"gid" "05CFB22ACFC757A3C74EB323AB2E34B8"
+				"size" "95FBDC8EEA284FA17DDDDB069878147F"
+				"download" "40A23E0BB721BDDA03656892FB6B4D3A"
+			}
+			"shipping-live-internal"
+			{
+				"gid" "A41B0175CA41AA217BADD4971D5899B1"
+				"size" "3BF3B172FB7362571291371E0199A3A7"
+				"download" "33AC2FDAD6DB0241B18753B29EDA7AB2"
+			}
+			"shipping-qa-internal"
+			{
+				"gid" "0C619150D382317069D93DC2AF6A4B71"
+				"size" "8F0AEA58E7E6687ECEDBE879FA3658D0"
+				"download" "3925C3EFFDB015B14FC89A018A812A82"
+			}
+			"shipping-qa-internal2"
+			{
+				"gid" "4A7B26245EE686AA8EEE1DCD472F634E"
+				"size" "6EFBAFAC42176FAD1B53F6CBF3A7C4EE"
+				"download" "865BE76CE73A21B03636C4ED83DC3123"
+			}
+			"shipping-stage-internal"
+			{
+				"gid" "8D4869CDE21A44C95E0A3C9B04BAB643"
+				"size" "833BD8BAD497F85EED66B01474622463"
+				"download" "6C66F399327D7D4098781582839EDE3C"
+			}
+			"shipping-uat-internal"
+			{
+				"gid" "EE3E8819CD6EF42939BBB55A3B4BEE13"
+				"size" "7AA4802750C1F2F1D0B828D185B0799F"
+				"download" "8949C56F40140C0B7036B7ACFCFCB5D3"
+			}
+		}
+	}
+	"381212"
+	{
+		"dlcappid" "492360"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5921550076694751899"
+				"size" "31578081"
+				"download" "31327728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"kraken-qa-internal"
+			{
+				"gid" "B86CB8FFAF6C382447C82B739B33CBBB"
+				"size" "C5494A89A30D64D4F05B5BAA2CD955DA"
+				"download" "0870546D1421A4FC029EAD7A06B90EEB"
+			}
+			"nnc-live-internal"
+			{
+				"gid" "9B07E5992724464D8729D493E9755522"
+				"size" "74CBD58D3B7C04A754069ADFC942041B"
+				"download" "7A3078C78456F6C3A9C7803F7929DECD"
+			}
+			"public-test-internal"
+			{
+				"gid" "6CCA5C1D8D1B1BB3EBF042E7C6DDDE0B"
+				"size" "9606268B6022378B2B927E707A7F5E14"
+				"download" "FAAB2287ED9ABE55EA892DD960B8BC40"
+			}
+			"shipping-cert-internal"
+			{
+				"gid" "87E4DD22723F914749EC478974F37DE6"
+				"size" "F7656DB651A92743BD528AE3DCAB88B8"
+				"download" "E2BBAE5359B706631A83A0876B9E92AC"
+			}
+			"shipping-live-internal"
+			{
+				"gid" "CA23CCF9636AC8ECA681A2E206F73BF0"
+				"size" "71989AFAAB70631D284C626ADB0EF000"
+				"download" "5E88462BD8B73375BB2692E1DA45450F"
+			}
+			"shipping-qa-internal"
+			{
+				"gid" "60C4B165AA1A2A0BE32A10A84F555A46"
+				"size" "09A490B3F69422EA4F8685C56C7D9743"
+				"download" "09678D163E6101598A1B05AB5E48415E"
+			}
+			"shipping-qa-internal2"
+			{
+				"gid" "6FC208B4DE8B7FD90AE862E5DB534971"
+				"size" "0E3AD55BD550DD9957875F8918F02687"
+				"download" "9EE582D8BD1A98BEF9B4A1CD8F7EA1E4"
+			}
+			"shipping-stage-internal"
+			{
+				"gid" "5E9EB72B6C20D6F7D695DA672B696DCF"
+				"size" "38374BDE995D34B5C1C93120FF295D03"
+				"download" "DF55DE03F8E4D485371ED83C81B4703C"
+			}
+			"shipping-uat-internal"
+			{
+				"gid" "454E6681E98BAA58DFC917380C241623"
+				"size" "B6CFB8AA57DDA26D6F5EB4A49183AF00"
+				"download" "1B122739075468C68A5597B735BBC62B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13319983"
+			"timeupdated" "1706725673"
+		}
+		"kraken-qa-internal"
+		{
+			"buildid" "13319983"
+			"pwdrequired" "1"
+			"timeupdated" "1706725693"
+		}
+		"nnc-live-internal"
+		{
+			"buildid" "12907140"
+			"pwdrequired" "1"
+			"timeupdated" "1702499839"
+		}
+		"public-test-internal"
+		{
+			"buildid" "12977877"
+			"pwdrequired" "1"
+			"timeupdated" "1704815621"
+		}
+		"shipping-cert-internal"
+		{
+			"buildid" "13400298"
+			"pwdrequired" "1"
+			"timeupdated" "1707370632"
+		}
+		"shipping-live-internal"
+		{
+			"buildid" "13400298"
+			"pwdrequired" "1"
+			"timeupdated" "1707370630"
+		}
+		"shipping-qa-internal"
+		{
+			"buildid" "13400298"
+			"pwdrequired" "1"
+			"timeupdated" "1707370621"
+		}
+		"shipping-qa-internal2"
+		{
+			"buildid" "13178217"
+			"pwdrequired" "1"
+			"timeupdated" "1705345559"
+		}
+		"shipping-stage-internal"
+		{
+			"buildid" "13400298"
+			"pwdrequired" "1"
+			"timeupdated" "1707370631"
+		}
+		"shipping-uat-internal"
+		{
+			"buildid" "13319983"
+			"pwdrequired" "1"
+			"timeupdated" "1707256965"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "22256146"
+"_sha" "6e1d08a85c0491c1667854e45cb23b96808dfde9"
+"_size" "12289"
