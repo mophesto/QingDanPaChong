@@ -1,0 +1,254 @@
+"appid" "214150"
+"common"
+{
+	"name" "Galactic Civilizations I: Ultimate Edition"
+	"type" "Game"
+	"logo" "74f13398ec03396511f578b430fa3a14a669dc5e"
+	"logo_small" "74f13398ec03396511f578b430fa3a14a669dc5e_thumb"
+	"clienticon" "9a9e4654524f399dcf7af9fea6141612d7168def"
+	"clienttga" "63768c14e43a8642250db4f9bc8d8a7977ced9cc"
+	"icon" "66df956909f51af564f8d6086c201004ab81aa51"
+	"oslist" "windows"
+	"metacritic_name" "Galactic Civilizations"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1667921875"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stardock Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stardock Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Galactic Civilizations"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Stardock"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+		}
+	}
+	"original_release_date" "1048406400"
+	"steam_release_date" "1344963600"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/galactic-civilizations\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "214150"
+	"store_tags"
+	{
+		"0" "1670"
+		"1" "4364"
+		"2" "9"
+		"3" "1677"
+		"4" "6730"
+		"5" "4026"
+		"6" "1741"
+		"7" "3871"
+		"8" "3810"
+		"9" "4791"
+		"10" "1755"
+		"11" "3942"
+		"12" "6310"
+		"13" "1643"
+		"14" "7926"
+		"15" "1673"
+		"16" "4295"
+		"17" "8945"
+		"18" "4182"
+		"19" "4190"
+	}
+	"review_score" "5"
+	"review_percentage" "46"
+}
+"extended"
+{
+	"developer" "Stardock Entertainment"
+	"gamedir" "Galactic Civilizations I: Ultimate Edition"
+	"homepage" "https://www.galciv1.com/"
+	"icon" ""
+	"legacykeyregistrationmethod" "registry"
+	"legacykeyregistrylocation" "HKEY_CURRENT_USER\\Software\\Valve\\TestApp214150\\SteamKey"
+	"noservers" "0"
+	"showcdkeyonlaunch" "1"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"supportscdkeycopytoclipboard" "1"
+	"visibleonlywhensubscribed" "1"
+	"publisher" "Stardock Entertainment"
+	"gamemanualurl" "https://store.steampowered.com/manual/214150/"
+	"listofdlc" "648840"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Galactic Civilizations I Ultimate Edition"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AltarianProphecy/GalCiv.exe"
+			"workingdir" "AltarianProphecy"
+			"type" "default"
+			"description_loc"
+			{
+				"english" "GalCiv - Altarian Prophecy (Full Screen)"
+			}
+			"description" "GalCiv - Altarian Prophecy (Full Screen)"
+		}
+		"2"
+		{
+			"executable" "GalCiv/galciv.exe"
+			"workingdir" "GalCiv"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Galactic Civilizations I (Full Screen)"
+			}
+			"description" "Galactic Civilizations I (Full Screen)"
+		}
+		"3"
+		{
+			"executable" "AltarianProphecy/GalCiv.exe"
+			"arguments" "w"
+			"workingdir" "AltarianProphecy"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Altarian Prophecy (Windowed)"
+			}
+			"description" "Altarian Prophecy (Windowed)"
+		}
+		"4"
+		{
+			"executable" "GalCiv/galciv.exe"
+			"arguments" "w"
+			"workingdir" "GalCiv"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "GalCiv (Windowed)"
+			}
+			"description" "GalCiv (Windowed)"
+		}
+	}
+}
+"depots"
+{
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"214151"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3255816285209261835"
+				"size" "638606481"
+				"download" "505936400"
+			}
+			"opt-in"
+			{
+				"gid" "3255816285209261835"
+				"size" "638606481"
+				"download" "505936400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publishing"
+			{
+				"gid" "51F651DCF1EFF41DDD38286220AF991E"
+				"size" "C7EB97BE0BFDD4B9AB9D9FE9C702814C"
+				"download" "82645E57F2C1DED7BF09D87CFBFCA905"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "6694552"
+			"timeupdated" "1620913991"
+		}
+		"opt-in"
+		{
+			"buildid" "6694552"
+			"description" "Full-screen Test"
+			"timeupdated" "1621269632"
+		}
+		"publishing"
+		{
+			"buildid" "6694552"
+			"pwdrequired" "1"
+			"timeupdated" "1620913754"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "20408368"
+"_sha" "56803826a3900847a9142b760779acbe92b40b22"
+"_size" "4920"
