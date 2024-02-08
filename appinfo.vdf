@@ -1,0 +1,213 @@
+"appid" "236890"
+"common"
+{
+	"name" "PCMark 8"
+	"type" "Application"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "cfb53fde0549118d6b2536c873aed083821be805"
+	"logo_small" "cfb53fde0549118d6b2536c873aed083821be805_thumb"
+	"clienticon" "28e7e7186e7f1ed66df48b68b6139fe69d2cc107"
+	"clienttga" "63b03c56262c4b3ff9f99e75602e0734663898cf"
+	"icon" "89f0768123fb439b14078cb4a3b026364e93a001"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "236890_eula_0"
+			"name" "PCMark 8 EULA"
+			"url" "http://store.steampowered.com/eula/236890_eula_0"
+			"version" "1"
+		}
+	}
+	"app_retired_publisher_request" "1"
+	"metacritic_name" "PCMark 8"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1607956900"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "UL"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "UL"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "57"
+	}
+	"category"
+	{
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1382381313"
+	"community_hub_visible" "1"
+	"gameid" "236890"
+	"exfgls" "2"
+	"store_tags"
+	{
+		"0" "87"
+		"1" "5407"
+	}
+	"review_score" "5"
+	"review_percentage" "52"
+}
+"extended"
+{
+	"checkpkgstate" "1"
+	"developer" "UL"
+	"gamedir" "ValveTestApp236890"
+	"homepage" "https://benchmarks.ul.com/pcmark8"
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateComingSoonNoPreload"
+	"visibleonlywhensubscribed" "1"
+	"legacykeyregistrylocation" "HKEY_CURRENT_USER\\Software\\Futuremark\\PCMark8\\KeyCode"
+	"legacykeyregistrationmethod" "registry"
+	"supportscdkeycopytoclipboard" "1"
+	"disableoverlay" "1"
+	"publisher" "UL"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "PCMark 8"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin/PCMark8.exe"
+			"description" "Launch"
+			"workingdir" "bin"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"236891"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2799103793618795316"
+				"size" "4096380981"
+				"download" "2978353792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "33419591903980DA8554B2C0E3E67EA5"
+				"size" "3D3A1D6CD334BAFD17BC29105E4D3B6A"
+				"download" "E62C17908CD316C6604B0CC9ADA3542D"
+			}
+			"system_info"
+			{
+				"gid" "7FCC67603E11192E22109E2FD15EE0CA"
+				"size" "FD8C1F607255E378E6DC2A786A567ED0"
+				"download" "9A4D78401B358A2F220D421129CC48D6"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12868678"
+			"timeupdated" "1701948402"
+		}
+		"beta"
+		{
+			"buildid" "5553144"
+			"pwdrequired" "1"
+			"timeupdated" "1600268592"
+		}
+		"system_info"
+		{
+			"buildid" "12868678"
+			"pwdrequired" "1"
+			"timeupdated" "1701691631"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+}
+"_missing_token" "False"
+"_change_number" "22023379"
+"_sha" "4ea249784b968e58725d71dfa75216b7dd0d47cf"
+"_size" "3648"
