@@ -374,18 +374,18 @@
 		{
 			"public"
 			{
-				"gid" "4524343298220737988"
-				"size" "41383776835"
-				"download" "40923905456"
+				"gid" "8135987037375511795"
+				"size" "41439411961"
+				"download" "40977771824"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"kraken-qa-internal"
 			{
-				"gid" "EEF64518E3D05ACA18B5BB3D83F5472C"
-				"size" "1DBBE3A695FEE1B7BFF31451E47EFED2"
-				"download" "95D5FB16B6EEA0802C810A03C5B894B5"
+				"gid" "8D82F38503FC4E1B1B533F3E3797E5B4"
+				"size" "1193498071ABC3BA2359D370676FA297"
+				"download" "CB614FFDF3425D707B50E0BE50FCE57E"
 			}
 			"nnc-live-internal"
 			{
@@ -511,14 +511,14 @@
 	{
 		"public"
 		{
-			"buildid" "13319983"
-			"timeupdated" "1706725673"
+			"buildid" "13333380"
+			"timeupdated" "1707407929"
 		}
 		"kraken-qa-internal"
 		{
-			"buildid" "13319983"
+			"buildid" "13333380"
 			"pwdrequired" "1"
-			"timeupdated" "1706725693"
+			"timeupdated" "1707407943"
 		}
 		"nnc-live-internal"
 		{
@@ -576,6 +576,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "22256146"
-"_sha" "6e1d08a85c0491c1667854e45cb23b96808dfde9"
+"_change_number" "22263358"
+"_sha" "29fac02e41b8237cc5fe08a2c96627510a20a06f"
 "_size" "12289"
