@@ -1,0 +1,72 @@
+"appid" "2667530"
+"common"
+{
+	"name" "Sunkenland Dedicated Server"
+	"type" "Tool"
+	"parent" "2080690"
+	"icon" "71b4c41f64ccdd73272f3d29d66613199a109177"
+	"clienticon" "562e329e8af6965ae3da0eb4df0688b5006ed3ef"
+	"clienttga" "0f90005ee13e42da90c5bb392397b06a4f1314ac"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "2667530"
+}
+"config"
+{
+	"installdir" "Sunkenland Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sunkenland-DedicatedServer.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2667531"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6133583151488851699"
+				"size" "1575491068"
+				"download" "622070976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal_testing_release_build"
+			{
+				"gid" "348516EF38419DEB637186F1DEE07E59"
+				"size" "B48C1AACFACD3340AA4117167B203D82"
+				"download" "983B1F264BBB140471302EC2BD222751"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13360367"
+			"timeupdated" "1707073893"
+		}
+		"internal_testing_release_build"
+		{
+			"buildid" "13097073"
+			"pwdrequired" "1"
+			"timeupdated" "1704420530"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22198027"
+"_sha" "457cc6103526d41165426bc99ca09121f4b69b74"
+"_size" "1208"
