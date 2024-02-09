@@ -315,9 +315,9 @@
 		{
 			"public"
 			{
-				"gid" "7838785221059290491"
-				"size" "34784093271"
-				"download" "33866563104"
+				"gid" "6367041966391353990"
+				"size" "34782409808"
+				"download" "33864540032"
 			}
 		}
 		"encryptedmanifests"
@@ -354,9 +354,9 @@
 			}
 			"goldqatest"
 			{
-				"gid" "BA0C0AE5FE1F2EECBEB495EC384CF9F8"
-				"size" "4BE127FAE51D543BE5389BF090BFA1C3"
-				"download" "6FDC25EEB8BB4FD54527933C5FEC4A79"
+				"gid" "AC7CE1249B2F69E7B638FE4CA8E09BD3"
+				"size" "13057F88ABB52A2D1453ECCC587203CA"
+				"download" "E7A58EF9F5EBA6242ACB3EEA57FDFFDE"
 			}
 			"gpudebug"
 			{
@@ -438,9 +438,9 @@
 			}
 			"zerogoldtest"
 			{
-				"gid" "B32A717B4F5A44E134DFEB20769DEC34"
-				"size" "26B8BA3FD921FCA80AE9B9067E4267FD"
-				"download" "5915B0926A46FB4ACCFDF5F2398C6746"
+				"gid" "F9C77ED19A242DA3CFF146316D894F17"
+				"size" "1250E0E6C9266E9F70F5E7933EC0DE3B"
+				"download" "C468D61AE7E0862EBF259DF3CD87A8E1"
 			}
 		}
 	}
@@ -449,8 +449,8 @@
 	{
 		"public"
 		{
-			"buildid" "13349346"
-			"timeupdated" "1706908582"
+			"buildid" "13396289"
+			"timeupdated" "1707412240"
 		}
 		"amdtesting"
 		{
@@ -484,9 +484,9 @@
 		}
 		"goldqatest"
 		{
-			"buildid" "13382266"
+			"buildid" "13407449"
 			"pwdrequired" "1"
-			"timeupdated" "1707238121"
+			"timeupdated" "1707420752"
 		}
 		"gpudebug"
 		{
@@ -568,9 +568,9 @@
 		}
 		"zerogoldtest"
 		{
-			"buildid" "13392935"
+			"buildid" "13408717"
 			"pwdrequired" "1"
-			"timeupdated" "1707313966"
+			"timeupdated" "1707430732"
 		}
 	}
 }
@@ -641,6 +641,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22249826"
-"_sha" "c62bd9d6902ef59670c70c9e2fa1a981133ded0b"
+"_change_number" "22268507"
+"_sha" "d0ebc40443dc185704f6bba4e6fa2ea61c71b76b"
 "_size" "13317"
