@@ -91,23 +91,23 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1702404323"
+	"store_asset_mtime" "1707415600"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Offworld Industries"
+			"name" "Offworld"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "Offworld Industries"
+			"name" "Offworld"
 		}
 		"2"
 		{
 			"type" "franchise"
-			"name" "Offworld Industries"
+			"name" "Offworld"
 		}
 	}
 	"primary_genre" "1"
@@ -177,8 +177,8 @@
 {
 	"gamedir" "squad"
 	"serverbrowsername" "Squad"
-	"developer" "Offworld Industries"
-	"publisher" "Offworld Industries"
+	"developer" "Offworld"
+	"publisher" "Offworld"
 	"homepage" "http://joinsquad.com"
 	"listofdlc" "421270,421271,421272,421273,421274,421275,422950,422960,422961,1123920,2222340,2222341,2222342,2417350,2417351,2522000,2584870,2598380"
 	"dlcavailableonstore" "1"
@@ -266,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "3349478555665457988"
-				"size" "83955311640"
-				"download" "32716102480"
+				"gid" "4485260543570316359"
+				"size" "88240799869"
+				"download" "34432773056"
 			}
 			"squad_experimental"
 			{
@@ -377,9 +377,9 @@
 			}
 			"squad_main"
 			{
-				"gid" "85C6945FCFBDB748836C00F25866A6D7"
-				"size" "F4A89068D86B43B6EDBD5878987497FE"
-				"download" "0D289C8E7C8AED2E7D59467E06019D71"
+				"gid" "A4F897737F6636E7756CA06A41A5FDB9"
+				"size" "545AE29A876BFBF522CA55D591A953CC"
+				"download" "4324A876C64C35ADAEF72517A3A7CAF3"
 			}
 			"squad_previous"
 			{
@@ -389,9 +389,9 @@
 			}
 			"squad_release"
 			{
-				"gid" "71CD2618AA0ED403247B204D06672B07"
-				"size" "3DAD48980C0FDA5146AAFC6996728C0F"
-				"download" "8A00CAEF9E087DB6BCFA40F65C729F82"
+				"gid" "50D87ADE877B35A682BD203B56B86B64"
+				"size" "5CC555E97A8967679F601DAF32DFCEC0"
+				"download" "1085687B0EA916F0AE69D1061E3185AA"
 			}
 			"squad_steamfix"
 			{
@@ -508,8 +508,8 @@
 	{
 		"public"
 		{
-			"buildid" "12960466"
-			"timeupdated" "1702580414"
+			"buildid" "13380273"
+			"timeupdated" "1707418805"
 		}
 		"alpha-1.0"
 		{
@@ -609,9 +609,9 @@
 		}
 		"squad_main"
 		{
-			"buildid" "13380273"
+			"buildid" "13406277"
 			"pwdrequired" "1"
-			"timeupdated" "1707218970"
+			"timeupdated" "1707412471"
 		}
 		"squad_previous"
 		{
@@ -621,9 +621,9 @@
 		}
 		"squad_release"
 		{
-			"buildid" "13403787"
+			"buildid" "13399381"
 			"pwdrequired" "1"
-			"timeupdated" "1707397904"
+			"timeupdated" "1707413502"
 		}
 		"squad_steamfix"
 		{
@@ -663,6 +663,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "22261065"
-"_sha" "e5409f59f8cf442b8b2ccab0b6d25c2357d9f1ec"
-"_size" "14298"
+"_change_number" "22266136"
+"_sha" "fd31e2a8b367cc904e77b979db877f3bbba7be95"
+"_size" "14243"
