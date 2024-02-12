@@ -1,0 +1,268 @@
+"appid" "1746030"
+"common"
+{
+	"name" "山河旅探 Murders on the Yangtze River"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"icon" "8cc7a3d8ddfbe56e9ecb769c506a652edf4b2b24"
+	"logo" "22368ea7e4a4f55a5ee0d33c13c53ca8a37f469f"
+	"logo_small" "22368ea7e4a4f55a5ee0d33c13c53ca8a37f469f_thumb"
+	"clienttga" "a840664d84d478ff314be07ceaf22a70b79e4024"
+	"clienticns" "df1ffb609aa2d923309ab0038eb56e584c2dd555"
+	"linuxclienticon" "ef5aa9d7d95b8c65698edabd56bc4de8fd555e75"
+	"clienticon" "8fd8c1de25003c1209aa72e48437c4504cfa0aba"
+	"name_localized"
+	{
+		"sc_schinese" "山河旅探"
+		"english" "Murders on the Yangtze River"
+		"tchinese" "山河旅探 Murders on the Yangtze River"
+		"schinese" "山河旅探 - Murders on the Yangtze River"
+	}
+	"releasestatesteamchina" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1746030_eula_0"
+			"name" "山河旅探 EULA"
+			"url" "https://store.steampowered.com//eula/1746030_eula_0"
+			"version" "1"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "zh-cn,en"
+		"library_logo" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1706663423"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "OMEGAMES STUDIO"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "OMEGAMES STUDIO"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1706683918"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1746030"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "492"
+		"2" "1664"
+		"3" "5613"
+		"4" "1742"
+		"5" "3834"
+		"6" "5537"
+		"7" "5984"
+		"8" "5716"
+		"9" "6129"
+		"10" "8369"
+		"11" "3854"
+		"12" "3987"
+		"13" "122"
+		"14" "4182"
+		"15" "31275"
+		"16" "3839"
+		"17" "3916"
+		"18" "4305"
+		"19" "3871"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "OMEGAMES STUDIO"
+	"publisher" "OMEGAMES STUDIO"
+	"homepage" "https://resource.itaotuo.com/website/shanhelvtan/index.html"
+}
+"config"
+{
+	"installdir" "山河旅探"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "shanhelvtan.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "shanhelvtan.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"branches"
+	{
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+			"buildid" "13429408"
+			"pwdrequired" "1"
+			"timeupdated" "1707700013"
+		}
+		"public"
+		{
+			"buildid" "13429405"
+			"timeupdated" "1707699966"
+		}
+		"test_branch"
+		{
+			"buildid" "13426534"
+			"pwdrequired" "1"
+			"timeupdated" "1707647592"
+		}
+	}
+	"baselanguages" "english,schinese"
+	"1746031"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5001004997643853369"
+				"size" "6673705043"
+				"download" "5156130640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "622827E01E827FEA10A6690FECA78817"
+				"size" "3BE65802B2CE19BB0086F8904F242DCF"
+				"download" "42FCE44E3C4F5FADE96BD32D8EC614D4"
+			}
+			"test_branch"
+			{
+				"gid" "8FF8D3A50226F6B792ABFC83A9740727"
+				"size" "758DCEC4C5F89CFE7EE242FC7D971DD8"
+				"download" "B0BD52B24EB61084D458FED6A86B3265"
+			}
+		}
+	}
+	"1746032"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5205488611751935472"
+				"size" "6653911207"
+				"download" "5179933264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "0594927CA2895740453F3B5744C677D2"
+				"size" "40C16BD3A582C7B46E3F4D0CCBAC5524"
+				"download" "0E600B60C59D066ABF98BAB53BA3BB72"
+			}
+			"test_branch"
+			{
+				"gid" "A2275E453AB07D2C7108B86770DEFF98"
+				"size" "57CADFADA595C8292A685639D75011B7"
+				"download" "6B5B158B9C7D069768A70BA5E9FAE142"
+			}
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "OMESCAPE/山河旅探/SaveData"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22303112"
+"_sha" "2079ce5a2ce0a5fa0c10907a684a46b1f8c7f4ed"
+"_size" "4978"
