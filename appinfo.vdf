@@ -1,0 +1,128 @@
+"appid" "740210"
+"common"
+{
+	"name" "Sorry, James Demo"
+	"type" "Demo"
+	"parent" "659190"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "91c8e62b185cbfd521d7d5a8dd251ac4489eb1db"
+	"clienttga" "1bc8e241a306c56aa0b0204b92605f3b4b96ce91"
+	"icon" "86cd26e132e9449916abd1c94b9c148b830ae4ee"
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"has_adult_content" "1"
+	"has_adult_content_sex" "1"
+	"metacritic_name" "Sorry, James Demo"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1509735904"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Konstructors"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Konstructors"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "GrabTheGames"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "71"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1510342108"
+	"gameid" "740210"
+}
+"extended"
+{
+	"demoofappid" "659190"
+	"developer" "Konstructors"
+	"publisher" "Konstructors"
+}
+"config"
+{
+	"installdir" "SorryJamesDemo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sorry, James DEMO.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"740211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8840174266017517006"
+				"size" "121198759"
+				"download" "75057232"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2356257"
+			"timeupdated" "1512950243"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "3"
+}
+"_missing_token" "False"
+"_change_number" "18903802"
+"_sha" "7361c0118efa3ff85b23accb000f185859749b44"
+"_size" "1868"
