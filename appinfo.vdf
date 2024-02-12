@@ -1,0 +1,356 @@
+"appid" "1512050"
+"common"
+{
+	"name" "World Turtles"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"logo" "3ee500f4402efb8996b0b119ea3b8317e3cc7445"
+	"logo_small" "3ee500f4402efb8996b0b119ea3b8317e3cc7445_thumb"
+	"icon" "3285d7a92bc1f63dc7301ab21b79ef2f7824dc02"
+	"clienticon" "3a057f9dd31ee13390198f798e5bda41bd87a1ae"
+	"clienttga" "dccda9d91b3d567ba45a3817bc0e88b8dddf152b"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1685491200"
+		"tested_build_id" "11201400"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"5"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "81.1861116637719"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1706539586"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Re: cOg Mission"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Freedom Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Freedom Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"afrikaans"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1682954927"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1512050"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "220585"
+		"2" "4182"
+		"3" "9"
+		"4" "4172"
+		"5" "9204"
+		"6" "30358"
+		"7" "1717"
+		"8" "4191"
+		"9" "4695"
+		"10" "5350"
+		"11" "6815"
+		"12" "4252"
+		"13" "12472"
+		"14" "5300"
+		"15" "3813"
+		"16" "3834"
+		"17" "599"
+		"18" "3810"
+		"19" "1643"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Re: cOg Mission"
+	"publisher" "Freedom Games"
+	"homepage" "https://www.worldturtles.com"
+}
+"config"
+{
+	"installdir" "World Turtles"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "World Turtles.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "World Turtles Demo.app\\Contents\\MacOS\\World Turtles"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "World Turtles Demo.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1512051"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4540779022211031283"
+				"size" "1985183367"
+				"download" "1566808928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"freedom_testing"
+			{
+				"gid" "7A1C72CBCD97EE36F41ADBC7CB27A17A"
+				"size" "4435DDCE8217AE5FEDD99D5EECEF72BE"
+				"download" "53C27C8C713F08435AACD195C37F405F"
+			}
+		}
+	}
+	"1512052"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "367103686881525406"
+				"size" "2002145481"
+				"download" "1565184016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"freedom_testing"
+			{
+				"gid" "A11BC921A6599BA460FE0EE87214BC13"
+				"size" "657418DA4EC74C4E6F7E37575DEE4D2C"
+				"download" "781BF9935C423944C4C579612A950E03"
+			}
+		}
+	}
+	"1512053"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1023573610313962469"
+				"size" "1932279991"
+				"download" "1533673232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"freedom_testing"
+			{
+				"gid" "92E668C846C3F3822DDABF97ABA37468"
+				"size" "FBC73BBF92A4BDA28E8432FA3177EC3D"
+				"download" "917F373755E5296257051BFE223DF463"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12760043"
+			"timeupdated" "1700569577"
+		}
+		"freedom_testing"
+		{
+			"buildid" "13301462"
+			"pwdrequired" "1"
+			"timeupdated" "1706531348"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Re cOg Mission/World Turtles"
+			"pattern" "*.gnu"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Re cOg Mission/World Turtles"
+			"pattern" "*.gnu"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"2"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "unity3d"
+			"pattern" "*.gnu"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22101434"
+"_sha" "331fe245c7202ef9dbd6fe15f1dfdaa78ad8b2df"
+"_size" "6293"
