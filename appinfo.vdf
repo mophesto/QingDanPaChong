@@ -1,0 +1,158 @@
+"appid" "1324020"
+"common"
+{
+	"name" "SuchArt! Demo"
+	"type" "Demo"
+	"parent" "1293180"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "60b90c5ad0d71912cdb512ee75b8ca80cdf990bf"
+	"clienttga" "3c36d5ff911d985716a07486a743c915379e459e"
+	"icon" "88e5ee4ae4dc3bf8694a29fd8f2eb173336f0b0e"
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "52.059496567505725"
+			"height_pct" "55.54500118736642"
+		}
+	}
+	"store_asset_mtime" "1596013635"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Voolgi"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" " Voolgi"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1602091680"
+	"gameid" "1324020"
+}
+"extended"
+{
+	"demoofappid" "1293180"
+	"developer" "Voolgi"
+	"publisher" " Voolgi"
+}
+"config"
+{
+	"installdir" "SuchArtDemo"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SuchArt.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1324021"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4732155324176290419"
+				"size" "1098674628"
+				"download" "621698032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "C286D6ADD240DB11B04ED44536102986"
+				"size" "8D5B480B282E875E23ED08DD5C7D5011"
+				"download" "01EECF095957A3C674B20B5A703BC3C4"
+			}
+			"prologue"
+			{
+				"gid" "A803A87E2900862E5FFC76CE494C0E1C"
+				"size" "FCE4ECC73EB083B18E11F7E82831E7A1"
+				"download" "F09E8D6D1834B3C618C3DCBDB1A7EF3E"
+			}
+			"public_beta"
+			{
+				"gid" "FD1388F03C7986C5B78AED9C105F74CC"
+				"size" "B057EDD328B556484C3AE1DF6DF7CECC"
+				"download" "C6115A2D543F97F47918EE346B9DDF4F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5719915"
+			"timeupdated" "1603351384"
+		}
+		"beta"
+		{
+			"buildid" "5719915"
+			"pwdrequired" "1"
+			"timeupdated" "1603351191"
+		}
+		"prologue"
+		{
+			"buildid" "5770960"
+			"pwdrequired" "1"
+			"timeupdated" "1604310419"
+		}
+		"public_beta"
+		{
+			"buildid" "5588128"
+			"pwdrequired" "1"
+			"timeupdated" "1600931689"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "18736181"
+"_sha" "0295411c52a58697482668dae7ae656c3b2a03b9"
+"_size" "2631"
