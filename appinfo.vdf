@@ -1,0 +1,814 @@
+"appid" "1778820"
+"common"
+{
+	"name" "TEKKEN 8"
+	"type" "Game"
+	"icon" "379f0bd7dcf0b6b20bd9041ddfaba05fdaa77a6e"
+	"clienticon" "3ffacb2d80bbe1d77f006ce9244db1fc75ee7759"
+	"clienttga" "6daaaf1942d064765301ce7a10ec5efe8947a4af"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "鉄拳8"
+		"tchinese" "鐵拳8"
+		"schinese" "铁拳8"
+		"koreana" "철권 8"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1778820_eula_0"
+			"name" "TEKKEN 8 EULA"
+			"url" "https://store.steampowered.com//eula/1778820_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1706659200"
+		"tested_build_id" "13261262"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-hotfix"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Tekken 8"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1707121466"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bandai Namco Studios Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "TEKKEN"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_33" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1706223720"
+	"metacritic_score" "92"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/tekken-8\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1778820"
+	"store_tags"
+	{
+		"0" "1743"
+		"1" "19"
+		"2" "6506"
+		"3" "3859"
+		"4" "5055"
+		"5" "7368"
+		"6" "1773"
+		"7" "1775"
+		"8" "4182"
+		"9" "597"
+		"10" "3878"
+		"11" "1756"
+		"12" "4026"
+		"13" "4747"
+		"14" "4085"
+		"15" "1742"
+		"16" "12095"
+		"17" "6915"
+		"18" "7481"
+		"19" "4736"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Bandai Namco Studios Inc."
+	"publisher" "Bandai Namco Entertainment"
+	"homepage" "https://tk8.tekken-official.jp/"
+	"listofdlc" "2512940,2512950,2512960,2512970,2512980,2512990,2513000,2741980,2741990"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "TEKKEN 8"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TEKKEN 8.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1912244110"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,build-review,compat,dev-51,dev-debug,dev-nxt-debug,dev-nxt-release,dev-release,dev-release-latest,dev-tmp,hands-on-debug,hands-on-release,mc-debug,mc-production,mc-release,press,qa-debug,qa-release,rating"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1778821"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8863236885692335430"
+				"size" "92947415626"
+				"download" "83397715616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"compat"
+			{
+				"gid" "D734A4916B130DFD5835FC1327D9641B"
+				"size" "14D514323FD828875CECC29472B56CF6"
+				"download" "8445B533537A758C6E6D809480F4CDD2"
+			}
+			"dev-default-debug"
+			{
+				"gid" "0A1884CABB53BED3EC1D188BAE2D0A0F"
+				"size" "D19B26E81A4E4956911972C4A5F22950"
+				"download" "0D42D59C9F2F1B45E85027F32B446E5B"
+			}
+			"dev-default-release"
+			{
+				"gid" "AEB7244CA004B9C4C3E3C6C77D53CA5B"
+				"size" "1BF5AB89A9E53BFB7E9BFFA40FCB8E7F"
+				"download" "A6E99E9BD848A0D84EE9882D24F22769"
+			}
+			"dev-nxt-debug"
+			{
+				"gid" "CFE348AEC3CDB31A2B93C970ED263F18"
+				"size" "36EADC7C821727E41015F0268DEA98DD"
+				"download" "F311CC65A8AB68A4E1CD7F711F8943B3"
+			}
+			"dev-nxt-debug2"
+			{
+				"gid" "63261931EB9ECD4CC59775383287FE45"
+				"size" "514F0510E4B854F730DB9357C14D71EF"
+				"download" "273C146134E014E386F153A1521BF73E"
+			}
+			"dev-nxt-debug3"
+			{
+				"gid" "7BD85F96840A79337F656A520C499E7F"
+				"size" "704EAD928BC83C5A1CEBE27AF7EE6BBB"
+				"download" "79CED2C0BB44E331DCBB76AF5C41B8BC"
+			}
+			"dev-nxt-debug4"
+			{
+				"gid" "4F7F813B135E3E825D0D3872E75142B8"
+				"size" "B4EEC1480A0E2B1B934E6CEFB7141593"
+				"download" "B2683F83FFB5D9CF6F21476E88D269B8"
+			}
+			"dev-nxt-release"
+			{
+				"gid" "BF08EC06C0DC86303ED1EB553BF01722"
+				"size" "ADB75DCE7E6A32ECD77BE92F24384FB6"
+				"download" "B54998D90E41B757DFA15C2231D0D974"
+			}
+			"dev-nxt-release2"
+			{
+				"gid" "0E47FE4488ED756E77C5B51FA09A1B33"
+				"size" "5BA5725A8044CA0EAF69E7F823812EAA"
+				"download" "C496F2CFEA4C58EBE46F8CF61CAF9F09"
+			}
+			"dev-nxt-release3"
+			{
+				"gid" "E3C3CDAE1351405D7C4E340191D56D63"
+				"size" "825A79C759BBA6B73A70D48B28419BE7"
+				"download" "A414D3486F678F499E85AB0171D41166"
+			}
+			"dev-nxt-release4"
+			{
+				"gid" "CAA570B52632E8F65299BE085D1EE57A"
+				"size" "29BADC686F2FD5BCB25A6157E6B68ACC"
+				"download" "A44B9A43DABEA363515A049DF9A4E366"
+			}
+			"dev-release"
+			{
+				"gid" "6DE71B9A6E8BBD6A6222C47682F64B0C"
+				"size" "A739F3923FCE815325ABFA8E35EDBC73"
+				"download" "4534E6945C83E8BEE26A40F0460F018E"
+			}
+			"dev-release-latest"
+			{
+				"gid" "99582EFA24E6B3F7ABF54540AD805FF5"
+				"size" "E1427CF85D798027F6CAF306F5C5E19C"
+				"download" "5A55D21AFB614652725C0F6FBA89BE7A"
+			}
+			"dev-tmp"
+			{
+				"gid" "FB93637D31662CFCB3C21BF15FD822A1"
+				"size" "0CBA365724C203CE12E959D30068C8C9"
+				"download" "F49E2F58080BF4867EF74A2D3AB0112D"
+			}
+			"qa-debug"
+			{
+				"gid" "56EA4E1D1857E604281BA9FC9AC0EA25"
+				"size" "D2D01D06521B63FC269A6394AD60DFCB"
+				"download" "EDFB17636951F3F23766183CDCE0FDD4"
+			}
+			"qa-debug2"
+			{
+				"gid" "5FD7F0A35DD74B32DF711E05FBED5B33"
+				"size" "F941AA5DC3EC68554687464AC1B8A704"
+				"download" "CD0B9492ACD82FB8934A383F168537E4"
+			}
+			"qa-debug3"
+			{
+				"gid" "9E1D65B823FF9C76E62DDF341CB34CD6"
+				"size" "E65B4E642AFBE257947B2E0FB1FA9E2E"
+				"download" "21853579B2B854141B944D82D9F615E9"
+			}
+			"qa-debug4"
+			{
+				"gid" "E10174E30CB179F202FFAACCFB286B4A"
+				"size" "B9A3EA52DC84CE4CCE1B082BA04B8CAA"
+				"download" "09E96FAAAA17B4E061121F2CF472649D"
+			}
+			"qa-release"
+			{
+				"gid" "D8789A847800F26C99404AAEF70C5857"
+				"size" "576DB679124E45C092B947ECF2B180E7"
+				"download" "A143D1D1F41A439F251CBA30C7A1F13D"
+			}
+			"qa-release2"
+			{
+				"gid" "A7092643754CABED75E25B44A82BE01B"
+				"size" "22541D784D769DA3D14083ED34838127"
+				"download" "71BBAC1F9E5FD48A581138FCCC1B375B"
+			}
+			"qa-release3"
+			{
+				"gid" "DC7C203E0B90A2B3DC86CF05BD160AE7"
+				"size" "C07FE0B1B95E7D0B619AE853BB50C148"
+				"download" "CD72C2164C330B6524056C46F6945250"
+			}
+			"qa-release4"
+			{
+				"gid" "DF08364D2624B51D642256DFD26BA2B7"
+				"size" "426A6318723197A629DCDC44FCA1510F"
+				"download" "2CDA7BC70F883D608EB176270272734E"
+			}
+		}
+	}
+	"1778822"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8757494497849322284"
+				"size" "1606405545"
+				"download" "287732816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"compat"
+			{
+				"gid" "0AE4FD954C5144439BBD3CCB9CFBB8A4"
+				"size" "C5770FB903B1CA7CF9258138920B78BF"
+				"download" "333B5F50686E407FE0184E27C349C36C"
+			}
+			"dev-default-debug"
+			{
+				"gid" "2A968BD79B690FA0682C11206661B2CD"
+				"size" "98F7F9848883E14314205CCA9B2DCD50"
+				"download" "4672E9F4A373011647002053B40B6000"
+			}
+			"dev-default-release"
+			{
+				"gid" "3AD455A141A6A97A539849C7F2AC3323"
+				"size" "957843333C4C589637A9613C261B1AD0"
+				"download" "02A9AEBE3A8A70784512541AAEDB89E1"
+			}
+			"dev-nxt-debug"
+			{
+				"gid" "2CBFBD1983DBC626DB0DAB04AD3CDE60"
+				"size" "4D81C72558BA294AA5BDF117541F7FA0"
+				"download" "5CD6AF3913C3227374915039C36CDE4D"
+			}
+			"dev-nxt-debug2"
+			{
+				"gid" "C1D95D99A7019D02FA9E5EC729C9F6B5"
+				"size" "E6FE1C0BC248AB89500B4A1D8BB66CB1"
+				"download" "866C0E11520D5E8B271F5B1B039CA6AE"
+			}
+			"dev-nxt-debug3"
+			{
+				"gid" "20E355CE7578ADFE97DCF47FFE9B8688"
+				"size" "53D27628910B1B73F138AA1D817FAE0A"
+				"download" "2BD57E134222D87545B2B6F459A789F6"
+			}
+			"dev-nxt-debug4"
+			{
+				"gid" "CEF5A271BD3A0050DDD2C6CC34B43643"
+				"size" "1B4ED5CBAC676B7462DE47101CCFD8BE"
+				"download" "0E85705598A19F53EAC5D5C2024DAF38"
+			}
+			"dev-nxt-release"
+			{
+				"gid" "87A09E9E4ED5921561333312CDCBD985"
+				"size" "75788433ACB6CF55492DBCE57E712B7A"
+				"download" "569E376F900A78CB3A4FF2B7D84755BB"
+			}
+			"dev-nxt-release2"
+			{
+				"gid" "610B3B75A88619199A54C9537450FF26"
+				"size" "BF1754826D3E98ED1767314DDB4199B0"
+				"download" "496B1DE32021C91D10096C522FD8CB32"
+			}
+			"dev-nxt-release3"
+			{
+				"gid" "9C42F28934DDC3BDC4F072C19C52B0F8"
+				"size" "820E0AC4C6F6C062C6770A6697BE7728"
+				"download" "3D6F6894F0FA9752A1E0D160B74F26A9"
+			}
+			"dev-nxt-release4"
+			{
+				"gid" "9F9FDB0ADDD942B56F40B47D32AA1FF3"
+				"size" "3D5962E25447451C702F54F60E06D803"
+				"download" "EF2C262EF13B40EDD8D581E87D3D3818"
+			}
+			"dev-release"
+			{
+				"gid" "CEB20D55F453C57C8B8A9CD3376652A9"
+				"size" "22A85C86E5E4FBF50A28BF2CB8877FAA"
+				"download" "2A2D23FC1F5696906DD58E9F12BA7C0E"
+			}
+			"dev-release-latest"
+			{
+				"gid" "505A820A55A85B109187A06B5C086EC6"
+				"size" "6AC6DC80DCE37BA077A4099F5E4261B8"
+				"download" "C066E1872CA9725E90A1991B471611CA"
+			}
+			"dev-tmp"
+			{
+				"gid" "260D3D377D42B85ED3448097C807D0C0"
+				"size" "1C245E13C2ACA8A597CCF1A0623363C9"
+				"download" "2C25884B51D646EA61F46F2B78B10DC7"
+			}
+			"qa-debug"
+			{
+				"gid" "A04EAEA48CCBC80A03B6C748832481AE"
+				"size" "8F332CE971902807E4000D0C7D8DC08F"
+				"download" "9000DE94D6FC167FD0E09A6E509AE046"
+			}
+			"qa-debug2"
+			{
+				"gid" "3874D441860ABF813288741BB69FCB7C"
+				"size" "6499A03C97F42A64DF20489FCA173697"
+				"download" "11AD1C55FC27D8B3ACF66B671BC56019"
+			}
+			"qa-debug3"
+			{
+				"gid" "82638AE06854051F8124A5278525C424"
+				"size" "73F461BBE167B27FCFDBA1F7CFFABB7F"
+				"download" "F5CEB49BACA85F13D233EC91AE638286"
+			}
+			"qa-debug4"
+			{
+				"gid" "B7EBD51601FA05C07F05F3F02971307A"
+				"size" "BBD798B961BFA8BDEED79CD635C5C79B"
+				"download" "577D23428BA0C48F62F1D0C12A6AF1F3"
+			}
+			"qa-release"
+			{
+				"gid" "F9D7687B5C9BC88257FFB8057CA5070A"
+				"size" "90BF3DF61FDFB36E9C7AA843361C6907"
+				"download" "CAB2A8134AF666AA7595F23B61EBFE50"
+			}
+			"qa-release2"
+			{
+				"gid" "14726F3E7CD0A8AFE0F6D1F87670BFB3"
+				"size" "1E41769DA87B055298AE26988A328DD1"
+				"download" "31E817BC307EA9375F4911CFED1BF5F0"
+			}
+			"qa-release3"
+			{
+				"gid" "B5C07E5E8C4762036FD86BF37CFCBBEB"
+				"size" "7714F9D3668525269E448E52591F7C08"
+				"download" "994C2E1ED31FA9622AAE86E43FC88236"
+			}
+			"qa-release4"
+			{
+				"gid" "0DE75436C79F348550E2A909E9B75AF3"
+				"size" "8488BFA48BA20B24180F34DEBDEAAEB2"
+				"download" "D1FE5FC015F7EFB3F44703BB22553EB6"
+			}
+		}
+	}
+	"2497260"
+	{
+		"dlcappid" "2497260"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"dev-nxt-debug"
+			{
+				"gid" "3F802FECE49E8F6FDB2DFE8C38EBE3BF"
+				"size" "60061F5FA22D271BA47E5756DB518A74"
+				"download" "AFEB4CF794C907FFDFD363F8E5DF8977"
+			}
+			"dev-tmp"
+			{
+				"gid" "ECEE923DED9E3E128901345C431ECC39"
+				"size" "E84B7E0B28FB852A6A3356A0545228EC"
+				"download" "77780857D674772D0611913072B28E42"
+			}
+			"qa-debug"
+			{
+				"gid" "7F6FD39F006FFAE378003DAF457A8B8E"
+				"size" "A91CABDF9595121B707578D47A08F698"
+				"download" "39878B467D14E696C295B2D4254C1C4D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13299098"
+			"timeupdated" "1707271227"
+		}
+		"compat"
+		{
+			"buildid" "12705509"
+			"pwdrequired" "1"
+			"timeupdated" "1700017251"
+		}
+		"dev-default-debug"
+		{
+			"buildid" "13153543"
+			"pwdrequired" "1"
+			"timeupdated" "1705974723"
+		}
+		"dev-default-release"
+		{
+			"buildid" "13153931"
+			"pwdrequired" "1"
+			"timeupdated" "1705997474"
+		}
+		"dev-nxt-debug"
+		{
+			"buildid" "13429590"
+			"pwdrequired" "1"
+			"timeupdated" "1707702883"
+		}
+		"dev-nxt-debug2"
+		{
+			"buildid" "13298716"
+			"pwdrequired" "1"
+			"timeupdated" "1706509159"
+		}
+		"dev-nxt-debug3"
+		{
+			"buildid" "13349988"
+			"pwdrequired" "1"
+			"timeupdated" "1706893815"
+		}
+		"dev-nxt-debug4"
+		{
+			"buildid" "13416592"
+			"pwdrequired" "1"
+			"timeupdated" "1707495718"
+		}
+		"dev-nxt-release"
+		{
+			"buildid" "13429882"
+			"pwdrequired" "1"
+			"timeupdated" "1707707798"
+		}
+		"dev-nxt-release2"
+		{
+			"buildid" "13299098"
+			"pwdrequired" "1"
+			"timeupdated" "1706513963"
+		}
+		"dev-nxt-release3"
+		{
+			"buildid" "13350694"
+			"pwdrequired" "1"
+			"timeupdated" "1706898617"
+		}
+		"dev-nxt-release4"
+		{
+			"buildid" "13417356"
+			"pwdrequired" "1"
+			"timeupdated" "1707501073"
+		}
+		"dev-release"
+		{
+			"buildid" "13416702"
+			"pwdrequired" "1"
+			"timeupdated" "1707496442"
+		}
+		"dev-release-latest"
+		{
+			"buildid" "13416862"
+			"pwdrequired" "1"
+			"timeupdated" "1707497408"
+		}
+		"dev-tmp"
+		{
+			"buildid" "12885552"
+			"pwdrequired" "1"
+			"timeupdated" "1701828936"
+		}
+		"qa-debug"
+		{
+			"buildid" "13392158"
+			"pwdrequired" "1"
+			"timeupdated" "1707387018"
+		}
+		"qa-debug2"
+		{
+			"buildid" "13298716"
+			"pwdrequired" "1"
+			"timeupdated" "1706522124"
+		}
+		"qa-debug3"
+		{
+			"buildid" "13349988"
+			"pwdrequired" "1"
+			"timeupdated" "1706915526"
+		}
+		"qa-debug4"
+		{
+			"buildid" "13389042"
+			"pwdrequired" "1"
+			"timeupdated" "1707352931"
+		}
+		"qa-release"
+		{
+			"buildid" "13392844"
+			"pwdrequired" "1"
+			"timeupdated" "1707386995"
+		}
+		"qa-release2"
+		{
+			"buildid" "13299098"
+			"pwdrequired" "1"
+			"timeupdated" "1706522109"
+		}
+		"qa-release3"
+		{
+			"buildid" "13350694"
+			"pwdrequired" "1"
+			"timeupdated" "1706915584"
+		}
+		"qa-release4"
+		{
+			"buildid" "13389540"
+			"pwdrequired" "1"
+			"timeupdated" "1707352913"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "TEKKEN 8/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22303827"
+"_sha" "f27f8b6430c0a5704feb4edc8bd2569796e8e12a"
+"_size" "17987"
