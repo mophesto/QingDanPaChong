@@ -172,8 +172,8 @@
 	{
 		"0" "493"
 		"1" "4291"
-		"2" "1755"
-		"3" "1643"
+		"2" "1643"
+		"3" "1755"
 		"4" "3810"
 		"5" "255534"
 		"6" "16598"
@@ -185,10 +185,10 @@
 		"12" "3968"
 		"13" "3834"
 		"14" "3843"
-		"15" "4791"
-		"16" "5363"
-		"17" "220585"
-		"18" "1702"
+		"15" "1702"
+		"16" "4791"
+		"17" "5363"
+		"18" "220585"
 		"19" "599"
 	}
 	"review_score" "9"
@@ -286,9 +286,9 @@
 		{
 			"public"
 			{
-				"gid" "7676069812184732235"
-				"size" "1214406373"
-				"download" "1177091984"
+				"gid" "2772070995077601830"
+				"size" "1218159675"
+				"download" "1180865904"
 			}
 			"0.21.0"
 			{
@@ -316,15 +316,15 @@
 			}
 			"previous-build"
 			{
-				"gid" "8860705928867832818"
+				"gid" "7676069812184732235"
 				"size" "1214406373"
 				"download" "1177091984"
 			}
 			"unstable"
 			{
-				"gid" "2314896357676640810"
-				"size" "1218159551"
-				"download" "1180865888"
+				"gid" "2772070995077601830"
+				"size" "1218159675"
+				"download" "1180865904"
 			}
 		}
 		"encryptedmanifests"
@@ -337,9 +337,9 @@
 			}
 			"developer"
 			{
-				"gid" "D8C9A1DBAC1861AC9F79993AC9DE0418"
-				"size" "235CC71E7E32182A94102CABFDEB2F37"
-				"download" "9ECBED83397C9EE9E041B16875635801"
+				"gid" "6424AAD85DDEA8D01D6359EECF4C2537"
+				"size" "7D5F6EC361ACE750F47AAF7747085014"
+				"download" "E955F2EE55C453F45A1FDBF2A50C9032"
 			}
 			"preview"
 			{
@@ -366,9 +366,9 @@
 		{
 			"public"
 			{
-				"gid" "8046930243118644340"
-				"size" "236797685"
-				"download" "73410912"
+				"gid" "6272299086633440497"
+				"size" "236813707"
+				"download" "73414592"
 			}
 			"0.21.0"
 			{
@@ -396,15 +396,15 @@
 			}
 			"previous-build"
 			{
-				"gid" "2841666203656119770"
-				"size" "236797689"
-				"download" "73413568"
+				"gid" "8046930243118644340"
+				"size" "236797685"
+				"download" "73410912"
 			}
 			"unstable"
 			{
-				"gid" "5697021715937493038"
-				"size" "236817803"
-				"download" "73421168"
+				"gid" "6272299086633440497"
+				"size" "236813707"
+				"download" "73414592"
 			}
 		}
 		"encryptedmanifests"
@@ -417,9 +417,9 @@
 			}
 			"developer"
 			{
-				"gid" "071E096E10BCD59397F827735F175BC0"
-				"size" "9470302F6807671CA7B0A0441CDE0678"
-				"download" "C0BA521D0349B13DB3059A968185CE50"
+				"gid" "35A652476B46B726D862B71C3BCA5AAC"
+				"size" "242FBE0ED4D9BE9EE58B04207388D725"
+				"download" "1B9060CD0D89CEBF2B94B7D9B5356504"
 			}
 			"preview"
 			{
@@ -446,9 +446,9 @@
 		{
 			"public"
 			{
-				"gid" "8960095448090928913"
-				"size" "254282523"
-				"download" "80859600"
+				"gid" "5692925090519809807"
+				"size" "254298545"
+				"download" "80866512"
 			}
 			"0.21.0"
 			{
@@ -476,15 +476,15 @@
 			}
 			"previous-build"
 			{
-				"gid" "4561934118032278334"
-				"size" "254282527"
-				"download" "80858304"
+				"gid" "8960095448090928913"
+				"size" "254282523"
+				"download" "80859600"
 			}
 			"unstable"
 			{
-				"gid" "7921877300454350074"
+				"gid" "5692925090519809807"
 				"size" "254298545"
-				"download" "80866560"
+				"download" "80866512"
 			}
 		}
 		"encryptedmanifests"
@@ -497,9 +497,9 @@
 			}
 			"developer"
 			{
-				"gid" "7A488DF6D7A3CBCC465F336284CF26A5"
-				"size" "34E3EA755151923BE1C173DEC6EDC62B"
-				"download" "1BD4ABAAC9916242AD4B8461CD48CC9D"
+				"gid" "3A743EA648DF710ACEBAB0B7ABB41C51"
+				"size" "512130AE45452467D30415571C589353"
+				"download" "6755F434C7F0F4542C7926170A702F51"
 			}
 			"preview"
 			{
@@ -521,8 +521,8 @@
 	{
 		"public"
 		{
-			"buildid" "13341016"
-			"timeupdated" "1706829960"
+			"buildid" "13438140"
+			"timeupdated" "1707782173"
 		}
 		"0.21.0"
 		{
@@ -556,9 +556,9 @@
 		}
 		"developer"
 		{
-			"buildid" "13386243"
+			"buildid" "13438140"
 			"pwdrequired" "1"
-			"timeupdated" "1707262398"
+			"timeupdated" "1707781857"
 		}
 		"preview"
 		{
@@ -568,9 +568,9 @@
 		}
 		"previous-build"
 		{
-			"buildid" "13288436"
+			"buildid" "13341016"
 			"description" "The previous game build, in case the latest build has any issues."
-			"timeupdated" "1706829904"
+			"timeupdated" "1707782117"
 		}
 		"test"
 		{
@@ -580,9 +580,9 @@
 		}
 		"unstable"
 		{
-			"buildid" "13376436"
+			"buildid" "13438140"
 			"description" "Bleeding-edge updates; possibly very buggy!"
-			"timeupdated" "1707187989"
+			"timeupdated" "1707782141"
 		}
 	}
 }
@@ -608,6 +608,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22234931"
-"_sha" "40ec9edfeea0ec3902e4feef1d28f45935618995"
+"_change_number" "22316921"
+"_sha" "44eae2a4e9a85904000ceeba30c553356b246930"
 "_size" "12443"
