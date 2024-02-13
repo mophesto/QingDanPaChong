@@ -98,7 +98,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1698421518"
+	"store_asset_mtime" "1707833570"
 	"associations"
 	{
 		"0"
@@ -251,36 +251,36 @@
 		{
 			"public"
 			{
-				"gid" "3015710408810961590"
-				"size" "415659952"
-				"download" "235257104"
+				"gid" "1282876723203727180"
+				"size" "417417750"
+				"download" "236720800"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "B86B7952D3484E1D81C7CBDC19C32471"
-				"size" "9F39905E4481866EE0386D5B012E185F"
-				"download" "5A642496FEE747A0542FCF5466935D1F"
+				"gid" "5A6CD960D378CD1A1F28D68C2DD84AEA"
+				"size" "4C6C77EFB5971365B5F9C8D1BD2F2437"
+				"download" "C7132A590C307E17444A9A05DF88F42C"
 			}
 			"development"
 			{
-				"gid" "8904F9E434B8FED363EDBB7737EEC41B"
-				"size" "5DC16689F2B645DFBBE7E8DDFA5D1E24"
-				"download" "6A7AA5FA4032A76F4E2830ABE8A9415B"
+				"gid" "3837AAF41B0FCDBA8A47C3388D853ECC"
+				"size" "1E79E19FAA60BB5732697B257F88EE8F"
+				"download" "812BFFC4A89EF6F0F98E20796278A94B"
 			}
 			"partners"
 			{
-				"gid" "AAE75C9D497C131410E494E98F576591"
-				"size" "DE1554CDA39FA56534D03D23C19BF152"
-				"download" "0BA4C3CB4D94E55A50E74CDE6EC720B0"
+				"gid" "1CA73D4DF91EC0BD9504C2FB9919C20C"
+				"size" "0B608EDA8781E81D8662519B06BAE537"
+				"download" "41611AC07C3AFA7817036E356972A709"
 			}
 			"steamdeck"
 			{
-				"gid" "CC9C3D7FF6848257C7DB8A8B60CBDB2B"
-				"size" "9FA500312FDAB7C663AF6E475EEF4201"
-				"download" "83AD6C9221BD62B062FC320626020E46"
+				"gid" "07244172CD79BD749705C21AE4C91949"
+				"size" "6AF7754DAF2BB8D72EABED1E949F2C19"
+				"download" "5F1A94E67FE1EA5CDECE9B068344420D"
 			}
 		}
 	}
@@ -295,18 +295,18 @@
 		{
 			"public"
 			{
-				"gid" "6789458515621385570"
-				"size" "476098119"
-				"download" "243436832"
+				"gid" "1730399096663483441"
+				"size" "477855911"
+				"download" "245150928"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "073E96F2C98B8F6CD27FE3781AAF6863"
-				"size" "1BE1D179D3AEDC4B838BE70441C65FBE"
-				"download" "76F5FAC278666DF53A3B7A6E3267F479"
+				"gid" "A21AEEB3CB3F111CB5B47DFBD01CC587"
+				"size" "C06331FFADB3759391DAB1BBCDECBCCC"
+				"download" "5816E4A0FB39D10A20979923317C4305"
 			}
 			"development"
 			{
@@ -316,15 +316,15 @@
 			}
 			"partners"
 			{
-				"gid" "8AD2A7CABA2BFED6B3D28E1DDD8C62B0"
-				"size" "D7765A4D3ACBCEEA6747EF6C0B635392"
-				"download" "F5410393A522BEF793AA1464970BC6D6"
+				"gid" "610F9CD2EC5E0562B36EF1825C97E1CD"
+				"size" "4782FA3AC4B35825C7C101332D4647C7"
+				"download" "5931CF3D31C359FE43953EBEE5FBC088"
 			}
 			"steamdeck"
 			{
-				"gid" "B635B37D3AF1BE4FB64DE206C9061391"
-				"size" "EFDAEBC1F88E44A5839C4B7D24F1B618"
-				"download" "9CF54144F1979B702104227D103A5881"
+				"gid" "57ED582A7682A7B8192C224F816AE73F"
+				"size" "19B636DDAA355A86D2E2427C02B4A6DF"
+				"download" "50371CE68E2F29F21B4CBE74E36BECEB"
 			}
 		}
 	}
@@ -338,18 +338,18 @@
 		{
 			"public"
 			{
-				"gid" "8515403935983781877"
-				"size" "533233544"
-				"download" "246860368"
+				"gid" "4658989587216011629"
+				"size" "534991343"
+				"download" "248574896"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "61C70AD04284A613B4CB035E1C43D583"
-				"size" "B4F2B75C9C45180F81DC31B0BE192DBD"
-				"download" "7063F5E1119F4FB435C55B45C1574B4F"
+				"gid" "0CBCC735A5DE4D00A9D96A890A84F4A7"
+				"size" "9E540401ACD9D0EBDE20D5BC72F8F0AB"
+				"download" "63815C1AA3038AE96216E1E801A96DB2"
 			}
 			"development"
 			{
@@ -359,15 +359,15 @@
 			}
 			"partners"
 			{
-				"gid" "080D87B55C6B38D5B4CC959035843211"
-				"size" "7B79BAAB6B475D2BBF65DA0E83AA74D2"
-				"download" "D46869D33F2288E58114A83743307F41"
+				"gid" "C764BB27C4CBAEBCBBEBB96292EFD46E"
+				"size" "A39CB1BBCEB52B6C4D5C59C596B77CD7"
+				"download" "2282BC69F952573D611940441CEAB4D8"
 			}
 			"steamdeck"
 			{
-				"gid" "5A7766251ECE800BEAC8D6BB55D0CF2F"
-				"size" "67171FCF6EAEA24264035C54E99C9198"
-				"download" "7DACBCE756DE1C031F51E122EDDF6434"
+				"gid" "C54FA280CD6E110A2725DFB914D7AAFB"
+				"size" "026070E206FB154F2D84DD1E855CD8F0"
+				"download" "6A0DE5AAADA9E0C445D93966656E5B5B"
 			}
 		}
 	}
@@ -435,32 +435,32 @@
 	{
 		"public"
 		{
-			"buildid" "13219657"
-			"timeupdated" "1705676531"
+			"buildid" "13435096"
+			"timeupdated" "1707836169"
 		}
 		"beta"
 		{
-			"buildid" "13398320"
+			"buildid" "13435096"
 			"pwdrequired" "1"
-			"timeupdated" "1707351827"
+			"timeupdated" "1707756479"
 		}
 		"development"
 		{
-			"buildid" "13407595"
+			"buildid" "13427632"
 			"pwdrequired" "1"
-			"timeupdated" "1707421810"
+			"timeupdated" "1707669928"
 		}
 		"partners"
 		{
-			"buildid" "11959311"
+			"buildid" "13427720"
 			"pwdrequired" "1"
-			"timeupdated" "1692226269"
+			"timeupdated" "1707671307"
 		}
 		"steamdeck"
 		{
-			"buildid" "12553316"
+			"buildid" "13435239"
 			"pwdrequired" "1"
-			"timeupdated" "1702920281"
+			"timeupdated" "1707757588"
 		}
 	}
 }
@@ -500,6 +500,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22266718"
-"_sha" "62a371b37a6dd6dd697b2bb8200d44f67f0d7bc7"
+"_change_number" "22326131"
+"_sha" "971db385be6d25274e42b2dd7fb8b955d4b2c7ef"
 "_size" "9586"
