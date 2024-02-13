@@ -1,0 +1,339 @@
+"appid" "1260320"
+"common"
+{
+	"name" "Party Animals"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "868cd2d22c96076658ff5b572c4dc790c200de7e"
+	"logo" "f60d9500dcbdf0079f3cf493863ab80c300293a9"
+	"logo_small" "f60d9500dcbdf0079f3cf493863ab80c300293a9_thumb"
+	"clienticon" "b772d8b378697db4d148f08694bc33e0a4d94e88"
+	"clienttga" "76904b7626c6d72cdb2c59031ba54f590bedd080"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "猛兽派对"
+		"tchinese" "猛獸派對"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1705622400"
+		"tested_build_id" "13172529"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "38.30034924330616"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1707200333"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Recreate Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Source Technology"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_28" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_2" "1"
+		"category_37" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1695208680"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1260320"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "3859"
+		"2" "4136"
+		"3" "4726"
+		"4" "7178"
+		"5" "19"
+		"6" "1743"
+		"7" "1775"
+		"8" "1685"
+		"9" "7108"
+		"10" "5350"
+		"11" "3843"
+		"12" "3968"
+		"13" "6506"
+		"14" "7368"
+		"15" "4840"
+		"16" "492"
+		"17" "5711"
+		"18" "3841"
+		"19" "4106"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,interal"
+	"developer" "Recreate Games"
+	"publisher" "Source Technology"
+	"homepage" "https://www.partyanimals.com"
+	"listofdlc" "2342040,2545150"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Party Animals"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PartyAnimals.exe"
+			"arguments" "-steam -pa -en PartyAnimals"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1260321"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "693122721234169107"
+				"size" "8281070887"
+				"download" "5212814864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "3D6F4F4243C09153E3C71C246B3AAA3D"
+				"size" "A73C0CE995D6416F3CCCF3CF2AB8FCEC"
+				"download" "F1697794F5BE4F5E622507739DF2E63D"
+			}
+			"festival-autumn-edition"
+			{
+				"gid" "B9AF1DF56ACFFC5DAF7FAD47A49AE462"
+				"size" "360D9D86F064AA09A1FCFCFCF5FE57D2"
+				"download" "BF351FCDDE7C97DB3F396B1984DD94AF"
+			}
+			"interal"
+			{
+				"gid" "8905B2332F8B34F0F9F986B623CF151E"
+				"size" "146372A6F4E0F1E10853F66203663E8E"
+				"download" "31A379230836C5B8D5C299109747760F"
+			}
+			"re-cand"
+			{
+				"gid" "DEAF18F1054F3AC7D0A58162028A8B29"
+				"size" "8B6026BC8A06CF76CE26EE608DBE20A4"
+				"download" "FC3DBC8CCB2443D1E493A719C2E1A298"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13398129"
+			"timeupdated" "1707460794"
+		}
+		"demo"
+		{
+			"buildid" "5144394"
+			"pwdrequired" "1"
+			"timeupdated" "1704945933"
+		}
+		"festival-autumn-edition"
+		{
+			"buildid" "5636620"
+			"pwdrequired" "1"
+			"timeupdated" "1669105280"
+		}
+		"interal"
+		{
+			"buildid" "13398129"
+			"pwdrequired" "1"
+			"timeupdated" "1707355438"
+		}
+		"re-cand"
+		{
+			"buildid" "13398129"
+			"pwdrequired" "1"
+			"timeupdated" "1707389653"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22272978"
+"_sha" "4d4c1131d932b61b58d89a49e1755344b5ab86bc"
+"_size" "6338"
