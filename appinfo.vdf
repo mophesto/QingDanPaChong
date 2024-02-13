@@ -361,15 +361,15 @@
 		{
 			"public"
 			{
-				"gid" "1720967435853868285"
-				"size" "83305967685"
-				"download" "79113945376"
+				"gid" "8244198656997596880"
+				"size" "83305986766"
+				"download" "79114180960"
 			}
 			"public_test_realm"
 			{
-				"gid" "1720967435853868285"
-				"size" "83305967685"
-				"download" "79113945376"
+				"gid" "8244198656997596880"
+				"size" "83305986766"
+				"download" "79114180960"
 			}
 		}
 		"encryptedmanifests"
@@ -436,9 +436,9 @@
 			}
 			"nightraider"
 			{
-				"gid" "BCE823DA6710B7F1D7EECBD3F2085EE7"
-				"size" "BFEEA90C8253404D8D23C0902A602CAC"
-				"download" "24918B2FCB61F8C34B129525E3451B3F"
+				"gid" "8CF7E699C55A983F17BF59E65D0F6A90"
+				"size" "979943A1D283AC9DF4ED6F432290EFE2"
+				"download" "D406ED110B9D15BCCCAC6DEE454DA4A6"
 			}
 			"nitradopc"
 			{
@@ -466,9 +466,9 @@
 			}
 			"qa_staging"
 			{
-				"gid" "D10BBA3B8C4F5EF14904DFBD9C794985"
-				"size" "0598D4771B6EA716AB98105144EFAD9C"
-				"download" "02FCCDFE651127514575B4353535C013"
+				"gid" "694890141B640790592AFBE4C84A15AF"
+				"size" "DD3AE6C149B72E553632719138AEB36F"
+				"download" "CD698A9A63774598DD76FAE63A53F6B2"
 			}
 			"rating_test"
 			{
@@ -484,9 +484,9 @@
 			}
 			"spam"
 			{
-				"gid" "4305D773057A454F76F1B21B31812B88"
-				"size" "3A4FA3A0805B2993DBE226273111B4AE"
-				"download" "D31A8A3F5BD360A2E611386B4F104E3E"
+				"gid" "3ED6F2D4E0D7089A0EA7D74D668FBC46"
+				"size" "6665CAE007A2D524F5F8626EA6F6B56C"
+				"download" "03F436DEBA650035BAA9390E07835078"
 			}
 			"testmaps"
 			{
@@ -513,8 +513,8 @@
 	{
 		"public"
 		{
-			"buildid" "13440212"
-			"timeupdated" "1707809421"
+			"buildid" "13446815"
+			"timeupdated" "1707855874"
 		}
 		"arktx"
 		{
@@ -578,9 +578,9 @@
 		}
 		"nightraider"
 		{
-			"buildid" "13440212"
+			"buildid" "13446815"
 			"pwdrequired" "1"
-			"timeupdated" "1707809466"
+			"timeupdated" "1707855936"
 		}
 		"nitradopc"
 		{
@@ -608,15 +608,15 @@
 		}
 		"public_test_realm"
 		{
-			"buildid" "13440212"
+			"buildid" "13446815"
 			"description" "Try out the new stuff"
-			"timeupdated" "1707809481"
+			"timeupdated" "1707855893"
 		}
 		"qa_staging"
 		{
-			"buildid" "13440212"
+			"buildid" "13446709"
 			"pwdrequired" "1"
-			"timeupdated" "1707803177"
+			"timeupdated" "1707851799"
 		}
 		"rating_test"
 		{
@@ -632,9 +632,9 @@
 		}
 		"spam"
 		{
-			"buildid" "13364156"
+			"buildid" "13446815"
 			"pwdrequired" "1"
-			"timeupdated" "1707115769"
+			"timeupdated" "1707852842"
 		}
 		"testmaps"
 		{
@@ -662,6 +662,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "22320683"
-"_sha" "287ae30d77bf83d80b51f72d4780a863574e8eb1"
+"_change_number" "22330553"
+"_sha" "f2a8d63f7ac9e667b41f35b8fc2d26e9b09bab4e"
 "_size" "13334"
