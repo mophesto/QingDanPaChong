@@ -45,8 +45,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -528,9 +526,9 @@
 			}
 			"development_staging"
 			{
-				"gid" "BCC59CD9008A518043B7BFB26F0AAAC0"
-				"size" "E7E06E042C00CCA0D449FAF3C2712AA4"
-				"download" "45E4179E959299BDAB40D7EDE3BBD7E5"
+				"gid" "FF73324BE3A90DBBED6A0B384D7DD83D"
+				"size" "8F9D8B5A9AA7785EFFD043F30932129F"
+				"download" "609D1D1D9B1F52C94B3BE2C5D47ECF6E"
 			}
 			"legacy"
 			{
@@ -698,9 +696,9 @@
 			}
 			"development_staging"
 			{
-				"gid" "16EDFC4D319430690A14B81ACAE05493"
+				"gid" "3D99524F262A02D32ECE1B764049B6BB"
 				"size" "2399A514937E1140D0447AB691DCDF5F"
-				"download" "12F41F66BEDBBE4D3317FF2E489DC4EF"
+				"download" "16CBF8E79B2954C0BD5D2A554B239AD0"
 			}
 			"legacy"
 			{
@@ -783,9 +781,9 @@
 			}
 			"development_staging"
 			{
-				"gid" "D7382F07E401E0DE8BE6FB8955128D67"
+				"gid" "9C75A4D1BDD87E820CDE4EA4E2AE1F4D"
 				"size" "E00A757A923B064B9F4EBE86C74FA6A8"
-				"download" "19CA00D10D54559D3CEC97868C8EC552"
+				"download" "E58AF0B01F336EC0785FB3CA56ECB3CB"
 			}
 			"legacy"
 			{
@@ -868,9 +866,9 @@
 			}
 			"development_staging"
 			{
-				"gid" "54699BAEEAEB45E4B0867587641F1E48"
+				"gid" "D0C097D2689F26001CCDE0F7D2B764FC"
 				"size" "D15F5BAD3878E10C3D9FFE1EDFBC1603"
-				"download" "3F362B3B5C2A649B6B7099B32DC695E4"
+				"download" "4A9D8CA840BCB88B294E685E71045BB8"
 			}
 			"legacy"
 			{
@@ -953,9 +951,9 @@
 			}
 			"development_staging"
 			{
-				"gid" "7C00A9D6CEF599BF9D86CEC585CD1358"
+				"gid" "E38E2F249EC0087C03129EFA8A183A75"
 				"size" "F26C5188A1C2808E7CD87DF42290D5F8"
-				"download" "739A2169489EF69A188A639013697BE0"
+				"download" "DCD67EA61EDE8EBAA74F6A76295AEBAF"
 			}
 			"legacy"
 			{
@@ -1038,9 +1036,9 @@
 			}
 			"development_staging"
 			{
-				"gid" "0A2AA28171D1BE40FAC7DE67E67B0A62"
+				"gid" "3C6D0A357146A354C548253CDB6CD6DE"
 				"size" "49EFA60C6A7307AAE7935B90150FCCD8"
-				"download" "1420F638B16690C787C89449A35B1738"
+				"download" "97B03A7E7C2F077B7FD4B2678973BB36"
 			}
 			"legacy"
 			{
@@ -1123,9 +1121,9 @@
 			}
 			"development_staging"
 			{
-				"gid" "B8D3D591BADD249300CE55C193BED3E2"
+				"gid" "3F9C438F13DD88E34F47AEAC21572AB3"
 				"size" "983FAF63C517FB1CFE3B47A18D079F35"
-				"download" "EB7DC2B469A789A0351EC6EFFAD313C4"
+				"download" "2A20CC4525F64FD96D61F16CDA46D55B"
 			}
 			"legacy"
 			{
@@ -1208,9 +1206,9 @@
 			}
 			"development_staging"
 			{
-				"gid" "1DFC63C83850B9632F32AE512E68C231"
+				"gid" "7EEE3DF2064EC5F27D57FDD88CC5F55A"
 				"size" "CA11D57A79CC23038EE79DE282A3B852"
-				"download" "5906ADD20235EF4E3F629E1E52237E4C"
+				"download" "2E340CD66BDC7066F2438D837CE17058"
 			}
 			"legacy"
 			{
@@ -3878,15 +3876,15 @@
 		{
 			"cdlc_private_beta"
 			{
-				"gid" "41A32409E494E6935E934DE8D98A9109"
-				"size" "004528B759C725CF9ECA77E38021C7C8"
-				"download" "1A3A8588FBBF12AAD7DE389481909798"
+				"gid" "BA1AA71462023B0374D7CF65DD739014"
+				"size" "ADE9FB0CBD898BBDA96D9CDEC4C96CCC"
+				"download" "1EB85A0EF3A254B0215E400D4824BCEA"
 			}
 			"delta_test"
 			{
-				"gid" "B35E7C1161528D4194F32AA4389912A4"
-				"size" "D4F61908ACC6977E0F3E36B9466933ED"
-				"download" "8AEC1D345724E6709CD580940C67720D"
+				"gid" "B932D119D2EE4DAC96A79F36F708D27F"
+				"size" "9411EB3BA7883B34B559C807817F2B4C"
+				"download" "64AFF4D1E6C3DFB43CBFA6F76214BAA1"
 			}
 		}
 	}
@@ -3913,15 +3911,15 @@
 		}
 		"cdlc_private_beta"
 		{
-			"buildid" "13441412"
+			"buildid" "13452875"
 			"pwdrequired" "1"
-			"timeupdated" "1707814939"
+			"timeupdated" "1707905928"
 		}
 		"delta_test"
 		{
-			"buildid" "13444359"
+			"buildid" "13452876"
 			"pwdrequired" "1"
-			"timeupdated" "1707835532"
+			"timeupdated" "1707905943"
 		}
 		"development"
 		{
@@ -3931,9 +3929,9 @@
 		}
 		"development_staging"
 		{
-			"buildid" "13322142"
+			"buildid" "13452159"
 			"pwdrequired" "1"
-			"timeupdated" "1706692719"
+			"timeupdated" "1707901142"
 		}
 		"legacy"
 		{
@@ -4153,6 +4151,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22326632"
-"_sha" "4fe18e6f260970ca3d00c0b7fed4a9e6530f188b"
-"_size" "96902"
+"_change_number" "22338576"
+"_sha" "5dfdc8609bdc71358e31b49611460402749a7320"
+"_size" "96839"
