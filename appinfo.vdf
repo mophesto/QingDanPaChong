@@ -1,0 +1,183 @@
+"appid" "2734310"
+"common"
+{
+	"name" "相声模拟器"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "f343840406f6117a088092937a99fc9803ce7072"
+	"clienticon" "d4ca0c20d1e43ec129675acd61fdc4a585122c1f"
+	"clienttga" "51aa5f64bebdf514cae22864a847b5bdd34e03a8"
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "37.31378044094632"
+			"height_pct" "32.77311080214734"
+		}
+	}
+	"store_asset_mtime" "1707058382"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Wave Ecstacy"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wave Ecstacy"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1707107642"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2734310"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "9204"
+		"2" "1719"
+		"3" "11014"
+		"4" "31275"
+		"5" "3964"
+		"6" "1654"
+		"7" "492"
+		"8" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Wave Ecstacy"
+	"publisher" "Wave Ecstacy"
+	"homepage" "https://space.bilibili.com/471926704"
+}
+"config"
+{
+	"installdir" "XiangshengSimulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "xiangsheng_simulator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "v1"
+			}
+			"description" "v1"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"2734311"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2216761567668948014"
+				"size" "220694584"
+				"download" "179684864"
+			}
+		}
+	}
+	"2734312"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5072342887488665519"
+				"size" "176863208"
+				"download" "135311680"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13404706"
+			"timeupdated" "1707403436"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "xiangsheng_simulator"
+			"pattern" "*.save"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22289534"
+"_sha" "4a3d553a64a6fe32fe7322411ca116e612fc3e93"
+"_size" "2865"
