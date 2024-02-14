@@ -15,6 +15,35 @@
 		"schinese" "耀斑纪元 - New Cycle"
 		"tchinese" "嶄新世界 - New Cycle"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1707264000"
+		"tested_build_id" "13289233"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
@@ -150,8 +179,8 @@
 		"18" "12472"
 		"19" "4026"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -212,9 +241,9 @@
 		{
 			"public"
 			{
-				"gid" "760679472310914448"
-				"size" "6170896955"
-				"download" "3167241712"
+				"gid" "7138806750024839091"
+				"size" "6170795772"
+				"download" "3167266496"
 			}
 			"public-hotfix"
 			{
@@ -224,9 +253,9 @@
 			}
 			"public-rollback"
 			{
-				"gid" "8398078324620117794"
-				"size" "6170746165"
-				"download" "3166972816"
+				"gid" "760679472310914448"
+				"size" "6170896955"
+				"download" "3167241712"
 			}
 		}
 		"encryptedmanifests"
@@ -245,9 +274,9 @@
 			}
 			"experimental"
 			{
-				"gid" "B3180E0C378685DEB1DB414CD1A57BBE"
-				"size" "1DAD4941CAE0906F3D2044672323060C"
-				"download" "AD647F654335C9285EA76C3EC1077E2B"
+				"gid" "4DE39F3D2EF1E48FEA9D012AB183FC43"
+				"size" "315B0EA37DA0B666E483B89E3EB8E73F"
+				"download" "5D02F71EED2D2D890D59EAABDE8B0726"
 			}
 			"gaming-istanbul"
 			{
@@ -287,9 +316,9 @@
 			}
 			"rollback"
 			{
-				"gid" "ADA18935D1ED985F1890DFA6C94049D1"
-				"size" "B6FB1BBB2EFC687E039BC874F207DF82"
-				"download" "504429C7095FA64DBC7745E8D31A915E"
+				"gid" "D73748DA17BF0D8DB5557A22A70FA32A"
+				"size" "B87141B62CF4FDE2C8D9A7D39E48E0F5"
+				"download" "5F799FD5AF526169F76FA961D94B236F"
 			}
 			"testing"
 			{
@@ -385,8 +414,8 @@
 	{
 		"public"
 		{
-			"buildid" "13422719"
-			"timeupdated" "1707569446"
+			"buildid" "13446927"
+			"timeupdated" "1707908471"
 		}
 		"asset-production"
 		{
@@ -402,9 +431,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "13422719"
+			"buildid" "13446927"
 			"pwdrequired" "1"
-			"timeupdated" "1707568471"
+			"timeupdated" "1707853810"
 		}
 		"gaming-istanbul"
 		{
@@ -450,15 +479,15 @@
 		}
 		"public-rollback"
 		{
-			"buildid" "13358280"
+			"buildid" "13422719"
 			"description" "latest stable build before update"
-			"timeupdated" "1707569402"
+			"timeupdated" "1707908414"
 		}
 		"rollback"
 		{
-			"buildid" "13358280"
+			"buildid" "13422719"
 			"pwdrequired" "1"
-			"timeupdated" "1707569388"
+			"timeupdated" "1707908427"
 		}
 		"testing"
 		{
@@ -518,6 +547,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22290644"
-"_sha" "5a7b50cdde6935d69e8a25ad6dd10b870c3b9269"
-"_size" "10276"
+"_change_number" "22339097"
+"_sha" "d1559d4ac1ffc29ff3f70481b3974f77501cdbaa"
+"_size" "11008"
