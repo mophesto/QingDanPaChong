@@ -1,0 +1,416 @@
+"appid" "1651560"
+"common"
+{
+	"name" "Fabledom"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "2cb1d506b82a9b23f10371a03a0df72178f271f2"
+	"clienttga" "d52da6331a696f07d8b45354f88e087f90985b48"
+	"clienticon" "91a9d8e9dc4b94a47a8bed3a5392bbd576f2f7b8"
+	"name_localized"
+	{
+		"schinese" "寓言之地 (Fabledom)"
+		"sc_schinese" "寓言之地(Fabledom)"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681948800"
+		"tested_build_id" "11022875"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-1"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-xc"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "54.99232125396378"
+			"height_pct" "43.93515642457738"
+		}
+	}
+	"store_asset_mtime" "1706798761"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Grenaa Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dear Villagers"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Doyoyo Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Dear Villagers"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1681393751"
+	"community_hub_visible" "1"
+	"gameid" "1651560"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "1654"
+		"2" "3810"
+		"3" "220585"
+		"4" "4695"
+		"5" "6310"
+		"6" "4947"
+		"7" "1684"
+		"8" "4195"
+		"9" "8945"
+		"10" "5125"
+		"11" "7332"
+		"12" "9"
+		"13" "6730"
+		"14" "597"
+		"15" "4726"
+		"16" "4136"
+		"17" "4305"
+		"18" "22602"
+		"19" "12472"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Grenaa Games"
+	"publisher" "Dear Villagers"
+	"homepage" "https://grenaagames.com/"
+}
+"config"
+{
+	"installdir" "Fabledom"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fabledom.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"1651561"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4600873017030412858"
+				"size" "3981941978"
+				"download" "1536145456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"capturenmkt"
+			{
+				"gid" "E8C513F748AC45578BA4A0107727D800"
+				"size" "D286074C25AF54BB31754DC688B3C859"
+				"download" "3A7BB78C5477E378DCB295F48749255A"
+			}
+			"demo"
+			{
+				"gid" "E0DBD3A661251E6C5DE3900D704D418F"
+				"size" "E08D07B8B907B3D2DFFE847E637173A8"
+				"download" "88CDA6800FF96F14FBDF3783101AC4E0"
+			}
+			"development"
+			{
+				"gid" "494BC09C53C338B4397E12F163564E6B"
+				"size" "85E148F7C14291DD6A6CE9A14A2F9477"
+				"download" "E0965DDAFDDD668256EC389A997B49BD"
+			}
+			"external"
+			{
+				"gid" "47C81F8457EC9B9F6997543162DB0FAB"
+				"size" "473C5AB88FDC8C973C464068F90415CE"
+				"download" "5DBA0A7AB4DE5B2614F2A0D66CB8B93D"
+			}
+			"il2cpp"
+			{
+				"gid" "65E547651445AF3B7CC510C3E6DC766C"
+				"size" "6B5B7D59E33E2E12E8AF53B7DEACD2D2"
+				"download" "3FFB40D72FAD324C3E4FCD6DE6412589"
+			}
+			"internal"
+			{
+				"gid" "DB884354E06C786FCA95EB31BA5C614A"
+				"size" "2DD63CEE1B2B8C05B8155185CBA95359"
+				"download" "58FA4685F67ABE12C080F7D1206AABCA"
+			}
+			"partners"
+			{
+				"gid" "0312420A8BE33CB1557B7F4540680CDF"
+				"size" "279541D91D620C3C25EF41D80EF33BEA"
+				"download" "B64140F11C6119049658910492101DEA"
+			}
+			"playtest"
+			{
+				"gid" "EBFD94A4701EDCBC7CF9503E7F92F548"
+				"size" "F441B52359D1BE3BF82B1E98F1C4D6FD"
+				"download" "62A67CEE4B6A9A7E8389E494C56E29A7"
+			}
+			"releasecandidate"
+			{
+				"gid" "51FACF60F6E3039B6E2505C4B9A825C5"
+				"size" "0F2E8B5395C8D2434CD526C88E032846"
+				"download" "7127495B986CE40806EC57811CE08F2B"
+			}
+		}
+	}
+	"branches"
+	{
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+		"public"
+		{
+			"buildid" "13413102"
+			"timeupdated" "1707480099"
+		}
+		"capturenmkt"
+		{
+			"buildid" "10983476"
+			"pwdrequired" "1"
+			"timeupdated" "1681287092"
+		}
+		"demo"
+		{
+			"buildid" "10524501"
+			"pwdrequired" "1"
+			"timeupdated" "1676040653"
+		}
+		"development"
+		{
+			"buildid" "13127091"
+			"pwdrequired" "1"
+			"timeupdated" "1704808980"
+		}
+		"external"
+		{
+			"buildid" "13261644"
+			"pwdrequired" "1"
+			"timeupdated" "1706113377"
+		}
+		"il2cpp"
+		{
+			"buildid" "11004623"
+			"pwdrequired" "1"
+			"timeupdated" "1681481082"
+		}
+		"internal"
+		{
+			"buildid" "13443178"
+			"pwdrequired" "1"
+			"timeupdated" "1707827811"
+		}
+		"partners"
+		{
+			"buildid" "10968324"
+			"pwdrequired" "1"
+			"timeupdated" "1681121237"
+		}
+		"playtest"
+		{
+			"buildid" "10425564"
+			"pwdrequired" "1"
+			"timeupdated" "1674927746"
+		}
+		"releasecandidate"
+		{
+			"buildid" "13443172"
+			"pwdrequired" "1"
+			"timeupdated" "1707827783"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Grenaa Games/Fabledom/SaveData"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Grenaa Games/Fabledom/SaveData"
+					"replace" "unty.Grenaa Games.Fabledom.SaveData"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Grenaa Games/Fabledom/SaveData"
+					"replace" ".config/unity3d/Grenaa Games/Fabledom/SaveData"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22324161"
+"_sha" "50e325c364ae43a951f5f122192072c0408041b4"
+"_size" "7962"
