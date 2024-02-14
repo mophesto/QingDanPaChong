@@ -57,8 +57,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -1306,6 +1304,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22258062"
-"_sha" "9996bf4d10362e6c64a163a3fea788ff87372340"
-"_size" "32962"
+"_change_number" "22332387"
+"_sha" "01ab72f22f87138742c770a2bc9548ce3912cb27"
+"_size" "32899"
