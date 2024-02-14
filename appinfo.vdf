@@ -39,9 +39,6 @@
 		"1" "2"
 		"2" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -232,9 +229,9 @@
 		{
 			"public"
 			{
-				"gid" "8968979394763687313"
-				"size" "97619991274"
-				"download" "79360445712"
+				"gid" "3064046574555177742"
+				"size" "97620949385"
+				"download" "79361398432"
 			}
 		}
 		"encryptedmanifests"
@@ -247,9 +244,9 @@
 			}
 			"test"
 			{
-				"gid" "BE3F5B9DFF5F88F1CDD264341135B0E4"
-				"size" "3DB681114FC5231D0E56708260A1EF7F"
-				"download" "973648B2D678B0E1FB3B819BDFEE443E"
+				"gid" "3990CDD99820ED9673213C11E12F243E"
+				"size" "6913D36BAFE0B5EC82F940C1BC7F0469"
+				"download" "9A88D22B5147BF601360DA5E9D5C8551"
 			}
 		}
 	}
@@ -285,8 +282,8 @@
 	{
 		"public"
 		{
-			"buildid" "13390379"
-			"timeupdated" "1707297644"
+			"buildid" "13452032"
+			"timeupdated" "1707900349"
 		}
 		"sgrtest"
 		{
@@ -296,13 +293,13 @@
 		}
 		"test"
 		{
-			"buildid" "13372544"
+			"buildid" "13436533"
 			"pwdrequired" "1"
-			"timeupdated" "1707157213"
+			"timeupdated" "1707767126"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22241000"
-"_sha" "3c35583dffa5f5e68d9a1dd0103014ccd6061030"
-"_size" "5915"
+"_change_number" "22337423"
+"_sha" "f57369dfe4749defeb1d217574310a2de2b130a0"
+"_size" "5821"
