@@ -1,0 +1,321 @@
+"appid" "2340900"
+"common"
+{
+	"name" "Potion Tycoon - Soundtrack"
+	"type" "Music"
+	"parent" "1485690"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"icon" "9842680442ef909bf1600eb4d3683a45adaa348c"
+	"name_localized"
+	{
+		"schinese" "药剂大亨 Potion Tycoon - 原声音轨"
+		"tchinese" "藥劑大亨 Potion Tycoon - 原聲帶"
+		"japanese" "ポーション・タイクーン Potion Tycoon - オリジナルサウンドトラック"
+		"koreana" "포션 타이쿤 Potion Tycoon - 오리지널 사운드트랙"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_logo" "en"
+	}
+	"store_asset_mtime" "1678569803"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Snowhound Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Daedalic Entertainment"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"steam_release_date" "1678724607"
+	"gameid" "2340900"
+	"exfgls" "2"
+}
+"extended"
+{
+	"musicalbumforappid" "1485690"
+	"developer" "Snowhound Games"
+	"publisher" "Daedalic Entertainment"
+	"homepage" "http://www.snowhoundgames.com/"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Potion Tycoon Soundtrack"
+}
+"depots"
+{
+	"2340901"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "924420263378230426"
+				"size" "27834206"
+				"download" "27764592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "25EA700A63C8A818DC31AA2A1D413945"
+				"size" "54F0957BC90E74DBE0BB087547980085"
+				"download" "31A1C6C02E5E44D32A5C5619F6EC06AB"
+			}
+		}
+	}
+	"2340902"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7866333880202388033"
+				"size" "46574290"
+				"download" "46822000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "37469F4F89D6D4978AB02868F3A4896A"
+				"size" "C6407E543092949A2947F12C1D6EAFA8"
+				"download" "517F18933149B0520C0E1804387AB138"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10765682"
+			"timeupdated" "1690892237"
+		}
+		"testing"
+		{
+			"buildid" "10765682"
+			"pwdrequired" "1"
+			"timeupdated" "1678800733"
+		}
+	}
+}
+"albummetadata"
+{
+	"cdn_assets"
+	{
+		"album_cover" "482829f4e5a2cfd6bf60821519bede8f982098d5"
+		"album_additional_images"
+		{
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Bubbles In A Cauldron (Main Theme)"
+			"m" "2"
+			"s" "20"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Dawnlight Theme"
+			"m" "1"
+			"s" "54"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Happy Goblin Hop"
+			"m" "1"
+			"s" "45"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Crescent Moon"
+			"m" "1"
+			"s" "51"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "In The Middle Of The Night"
+			"m" "1"
+			"s" "30"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Fire Water Aether Earth"
+			"m" "1"
+			"s" "44"
+		}
+	}
+	"metadata"
+	{
+		"artist"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" "Alex Liakhovych aka Alex_Lynch"
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" "Alex Liakhovych aka Alex_Lynch"
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22023379"
+"_sha" "22bb881488e97e2ba42869e27a0569daedbcffe0"
+"_size" "5573"
