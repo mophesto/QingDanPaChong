@@ -1,0 +1,337 @@
+"appid" "2781370"
+"common"
+{
+	"name" "EXIT KUN"
+	"type" "Game"
+	"name_localized"
+	{
+		"schinese" "坤号出口"
+	}
+	"icon" "7f1f997957c4d4e9c3c99de3ccd76b082ddac0d8"
+	"clienticon" "46bdfc0a4d3496e3eab3e1cadcd548239f83035d"
+	"clienttga" "7ad4e657bdaefb374504cbd63dc7e0374bd15988"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "84.65577596266047"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1707583777"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "IKUN&amp;KUN"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "IKUN&KUN"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1707062420"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2781370"
+	"store_tags"
+	{
+		"0" "4136"
+		"1" "10397"
+		"2" "5900"
+		"3" "12095"
+		"4" "3834"
+		"5" "9551"
+		"6" "9130"
+		"7" "9204"
+		"8" "1664"
+		"9" "21"
+		"10" "3839"
+		"11" "4191"
+		"12" "1710"
+		"13" "1663"
+		"14" "4175"
+		"15" "597"
+		"16" "19"
+		"17" "4166"
+		"18" "1667"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "IKUN&amp;KUN"
+	"publisher" "IKUN&KUN"
+	"homepage" "https://space.bilibili.com/518054215/dynamic"
+}
+"config"
+{
+	"installdir" "EXIT KUN"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-culture=zh"
+			"description_loc"
+			{
+				"english" "Chinese"
+				"schinese" "中文"
+			}
+			"description" "Chinese"
+		}
+		"1"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-culture=en"
+			"description_loc"
+			{
+				"english" "English"
+			}
+			"description" "English"
+		}
+		"2"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-culture=zh"
+			"description_loc"
+			{
+				"english" "Traditional Chinese(繁体中文)"
+			}
+			"description" "Traditional Chinese(繁体中文)"
+		}
+		"3"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-culture=ja"
+			"description_loc"
+			{
+				"english" "Japanese(日本語)"
+			}
+			"description" "Japanese(日本語)"
+		}
+		"4"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-culture=fr"
+			"description_loc"
+			{
+				"english" "French(Français)"
+			}
+			"description" "French(Français)"
+		}
+		"5"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-culture=es"
+			"description_loc"
+			{
+				"english" "Spanish(español)"
+			}
+			"description" "Spanish(español)"
+		}
+		"6"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-culture=ru"
+			"description_loc"
+			{
+				"english" "Russian(Русский)"
+			}
+			"description" "Russian(Русский)"
+		}
+		"7"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-culture=pt"
+			"description_loc"
+			{
+				"english" "Portuguese(Português)"
+			}
+			"description" "Portuguese(Português)"
+		}
+		"8"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-culture=ko"
+			"description_loc"
+			{
+				"english" "Korean(한국인)"
+			}
+			"description" "Korean(한국인)"
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2781371"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5939173759573150921"
+				"size" "2429546154"
+				"download" "2133351408"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13410792"
+			"timeupdated" "1707448873"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22329582"
+"_sha" "1222fb4023fd0e377ef391fba1e922009cffbd9d"
+"_size" "5426"
