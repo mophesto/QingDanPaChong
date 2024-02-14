@@ -51,8 +51,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -374,18 +372,18 @@
 		{
 			"public"
 			{
-				"gid" "8135987037375511795"
-				"size" "41439411961"
-				"download" "40977771824"
+				"gid" "204400472890042630"
+				"size" "41748825542"
+				"download" "41289081136"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"kraken-qa-internal"
 			{
-				"gid" "8D82F38503FC4E1B1B533F3E3797E5B4"
-				"size" "1193498071ABC3BA2359D370676FA297"
-				"download" "CB614FFDF3425D707B50E0BE50FCE57E"
+				"gid" "48CB367F51C29BA92F5CEDFA8F63BC7B"
+				"size" "42D4CE845619F52DB93BE138DA1D947D"
+				"download" "0791BA5128C4836AB7FF5D3710460D61"
 			}
 			"nnc-live-internal"
 			{
@@ -395,9 +393,9 @@
 			}
 			"public-test-internal"
 			{
-				"gid" "C96047BBD3D6BDC8F49AC72CAA0C637B"
-				"size" "769C385CC1B89F632AA71B77B83B8FF1"
-				"download" "18293A87A5BA5CF9454A8DAA75D53D21"
+				"gid" "500B773D2802A3B5F5DF4700F5F0E639"
+				"size" "D3CA0D2A3B669DF62E0472A81034EFF0"
+				"download" "A936FD801AD514ADE71F045DC29DD043"
 			}
 			"shipping-cert-internal"
 			{
@@ -511,14 +509,14 @@
 	{
 		"public"
 		{
-			"buildid" "13333380"
-			"timeupdated" "1707407929"
+			"buildid" "13400298"
+			"timeupdated" "1707926457"
 		}
 		"kraken-qa-internal"
 		{
-			"buildid" "13333380"
+			"buildid" "13400298"
 			"pwdrequired" "1"
-			"timeupdated" "1707407943"
+			"timeupdated" "1707926474"
 		}
 		"nnc-live-internal"
 		{
@@ -528,9 +526,9 @@
 		}
 		"public-test-internal"
 		{
-			"buildid" "12977877"
+			"buildid" "13450824"
 			"pwdrequired" "1"
-			"timeupdated" "1704815621"
+			"timeupdated" "1707887572"
 		}
 		"shipping-cert-internal"
 		{
@@ -576,6 +574,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "22263358"
-"_sha" "29fac02e41b8237cc5fe08a2c96627510a20a06f"
-"_size" "12289"
+"_change_number" "22343274"
+"_sha" "40564974608b543d20cddbf2cdc2ddb242e57575"
+"_size" "12225"
