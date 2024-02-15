@@ -353,9 +353,9 @@
 		{
 			"public"
 			{
-				"gid" "909561814378311351"
-				"size" "43247918312"
-				"download" "35799645424"
+				"gid" "4496510054404302623"
+				"size" "43237975648"
+				"download" "35820968720"
 			}
 		}
 		"encryptedmanifests"
@@ -398,9 +398,9 @@
 			}
 			"hi_1_6_1-nightly"
 			{
-				"gid" "7A393A83F8060BB66D0E778E6EB91CA9"
-				"size" "63DC63F5A931A8F0CCB74B88D2272729"
-				"download" "B77820027D4831616DD0D14089A82080"
+				"gid" "8B90CF1A6D48032861CD0AE6B65A2463"
+				"size" "9179AFEF83EBD8027F86F6338EF52811"
+				"download" "4166F13C9BD6B47F9E691EA55F750DEC"
 			}
 			"hipartner"
 			{
@@ -422,9 +422,9 @@
 			}
 			"p4main-nightly"
 			{
-				"gid" "28FA8342F5FB9F6C4E6D5BF34397481C"
-				"size" "4E4A595584DE777F06FEEC03090AE573"
-				"download" "B2A002ADD66247E6C3BE956A4870B056"
+				"gid" "CF3865A79716082644C63AC6818FB506"
+				"size" "D84C3960E8208A3E09A9D4135C34113A"
+				"download" "5CA216F18109952746DA0A6CDDAA6933"
 			}
 			"selpub_pilots"
 			{
@@ -1949,9 +1949,9 @@
 		{
 			"public"
 			{
-				"gid" "2367729760526072657"
-				"size" "17602968337"
-				"download" "17471371312"
+				"gid" "7863950519052948990"
+				"size" "17606253329"
+				"download" "17474695776"
 			}
 		}
 		"encryptedmanifests"
@@ -3826,8 +3826,8 @@
 	{
 		"public"
 		{
-			"buildid" "13017911"
-			"timeupdated" "1706638614"
+			"buildid" "13345168"
+			"timeupdated" "1707933847"
 		}
 		"06022023hcs"
 		{
@@ -3867,9 +3867,9 @@
 		}
 		"hi_1_6_1-nightly"
 		{
-			"buildid" "13442637"
+			"buildid" "13456770"
 			"pwdrequired" "1"
-			"timeupdated" "1707823747"
+			"timeupdated" "1707932276"
 		}
 		"hipartner"
 		{
@@ -3891,9 +3891,9 @@
 		}
 		"p4main-nightly"
 		{
-			"buildid" "13443385"
+			"buildid" "13454289"
 			"pwdrequired" "1"
-			"timeupdated" "1707829225"
+			"timeupdated" "1707915142"
 		}
 		"selpub_pilots"
 		{
@@ -4418,6 +4418,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22324440"
-"_sha" "7368f7de35b191c0147c35de73124b85823d40e9"
-"_size" "120281"
+"_change_number" "22345198"
+"_sha" "9c55b0452d8236d9560277d0c0170c2f84753950"
+"_size" "120282"
