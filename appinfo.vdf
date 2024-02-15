@@ -164,7 +164,7 @@
 		"19" "597"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -213,9 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "4924614354142829556"
-				"size" "4632263480"
-				"download" "3883596560"
+				"gid" "4929607585595125037"
+				"size" "4636131352"
+				"download" "3885980192"
 			}
 		}
 		"encryptedmanifests"
@@ -240,9 +240,9 @@
 			}
 			"externaltests"
 			{
-				"gid" "377D745923A5C36C0761A9E964CB42F2"
-				"size" "CE63C06C6EBEADE93D4199D053E94E7C"
-				"download" "8CA385357525AFC936DB1063C04F2756"
+				"gid" "39917493CF3034662C3DEA277468BDFE"
+				"size" "DC1601A0D7001FCBE73841C5CA79EEC8"
+				"download" "7911AA1C72639DB75C0CE37D4FFBC889"
 			}
 			"gamepad"
 			{
@@ -252,15 +252,15 @@
 			}
 			"internaltests"
 			{
-				"gid" "DB95BA2CF2F39CA69D154952C8B69EB1"
-				"size" "7871B9AD503B5722A54432EF1E5F648C"
-				"download" "495E4B9E4E733331AAB569828193359D"
+				"gid" "935D84540F2634FC51099025E3FF8F52"
+				"size" "5E20ABF2D4F24F87C68FD2EB561CDE65"
+				"download" "F7EA6A732043BCDF0329B1C2F0BC62E2"
 			}
 			"internaltests2"
 			{
-				"gid" "C1B8C6BAFC8FDFDEABAA6BE7965E99F5"
-				"size" "571EEDEE68E5D988CEF436CA11E7D202"
-				"download" "847FF062BF70D4528E2131B30B5B871A"
+				"gid" "55DD958D9BA6C5D6C142856D87BC17DD"
+				"size" "52D362BA2D35B8C2C4CA061B23EF1871"
+				"download" "CA5C62DC221C4D4D44D16FBB8D6ED169"
 			}
 			"internaltests3"
 			{
@@ -270,9 +270,9 @@
 			}
 			"internonly"
 			{
-				"gid" "86ED1E231D8A92AD736DD76354823AD4"
-				"size" "BB7C74ABE3CDC99A8EE008C423D517F8"
-				"download" "AD4ECDEEEFC8A106F288673AC23C109C"
+				"gid" "5A5ECF24CD3D3201B549AD5E205FD955"
+				"size" "E5103187CECE3FC62CCAB7021513D50B"
+				"download" "01BAEE52B4A99615B3C308C70688D2F5"
 			}
 			"john"
 			{
@@ -318,9 +318,9 @@
 			}
 			"release"
 			{
-				"gid" "9CFF179CCB85EB35533B448F9539FFBC"
-				"size" "65B03D6DFC3E0DDC2882AC375F0EAF24"
-				"download" "E28AEB5FF75ED2A64DF857234667B26E"
+				"gid" "A91783A7A6DF94633BF5E6EA808934DC"
+				"size" "20BB79EB74CFAAF75D110F40A8646F64"
+				"download" "FACB67FA4B286004ECFB28C72A233E79"
 			}
 		}
 	}
@@ -437,8 +437,8 @@
 	{
 		"public"
 		{
-			"buildid" "13322366"
-			"timeupdated" "1707317559"
+			"buildid" "13432727"
+			"timeupdated" "1708012107"
 		}
 		"beta"
 		{
@@ -460,9 +460,9 @@
 		}
 		"externaltests"
 		{
-			"buildid" "13322366"
+			"buildid" "13432727"
 			"pwdrequired" "1"
-			"timeupdated" "1706699871"
+			"timeupdated" "1707815693"
 		}
 		"gamepad"
 		{
@@ -472,15 +472,15 @@
 		}
 		"internaltests"
 		{
-			"buildid" "13416733"
+			"buildid" "13432727"
 			"pwdrequired" "1"
-			"timeupdated" "1707496656"
+			"timeupdated" "1707740295"
 		}
 		"internaltests2"
 		{
-			"buildid" "13322767"
+			"buildid" "13432537"
 			"pwdrequired" "1"
-			"timeupdated" "1706696358"
+			"timeupdated" "1707738603"
 		}
 		"internaltests3"
 		{
@@ -490,9 +490,9 @@
 		}
 		"internonly"
 		{
-			"buildid" "13322366"
+			"buildid" "13432727"
 			"pwdrequired" "1"
-			"timeupdated" "1706699884"
+			"timeupdated" "1707815674"
 		}
 		"john"
 		{
@@ -538,9 +538,9 @@
 		}
 		"release"
 		{
-			"buildid" "13322366"
+			"buildid" "13432727"
 			"pwdrequired" "1"
-			"timeupdated" "1707317477"
+			"timeupdated" "1708012052"
 		}
 	}
 }
@@ -577,6 +577,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22279989"
-"_sha" "b6c3355f44aa2fbbf17a5dab91406e545eb11d63"
+"_change_number" "22359631"
+"_sha" "aee25635174b615a2c77c54fe79602e4f7e44640"
 "_size" "12159"
