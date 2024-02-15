@@ -11,16 +11,6 @@
 	"osextended" ""
 	"clienticon" "fb035d2001e985768ba8b6f054af08ea6b364d48"
 	"releasestate" "released"
-	"eulas"
-	{
-		"0"
-		{
-			"id" "1751350_eula_0"
-			"name" "Don\'t Die In The West EULA"
-			"url" "https://store.steampowered.com//eula/1751350_eula_0"
-			"version" "1"
-		}
-	}
 	"name_localized"
 	{
 		"schinese" "牛仔不能死"
@@ -29,7 +19,6 @@
 	{
 		"0" "5"
 	}
-	"has_adult_content" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -220,9 +209,9 @@
 		{
 			"public"
 			{
-				"gid" "2074281774685178832"
-				"size" "1521049300"
-				"download" "510869392"
+				"gid" "7295790602355524785"
+				"size" "1521050800"
+				"download" "510850576"
 			}
 		}
 		"encryptedmanifests"
@@ -253,9 +242,9 @@
 			}
 			"stabilization"
 			{
-				"gid" "57CB35708D6CE982A4594BA037BBA9C8"
-				"size" "801415BBE6C7147CF21143675091A60E"
-				"download" "C0F20E010FA9C41221DC8B3C1B2B555E"
+				"gid" "C78354C5C98FE33EFFCFD042E88C4F5B"
+				"size" "A305C88844FEEB6AFD06EF79A47EB3AB"
+				"download" "218290F96F4F1FD131327D2FF6C26256"
 			}
 			"trailer"
 			{
@@ -283,8 +272,8 @@
 	{
 		"public"
 		{
-			"buildid" "13443861"
-			"timeupdated" "1707833713"
+			"buildid" "13464376"
+			"timeupdated" "1708005570"
 		}
 		"beta"
 		{
@@ -312,9 +301,9 @@
 		}
 		"stabilization"
 		{
-			"buildid" "13443861"
+			"buildid" "13464376"
 			"pwdrequired" "1"
-			"timeupdated" "1707832466"
+			"timeupdated" "1707999026"
 		}
 		"trailer"
 		{
@@ -330,6 +319,6 @@
 	"maxnumfiles" "64"
 }
 "_missing_token" "False"
-"_change_number" "22325405"
-"_sha" "8e5864f2909617c651dcb2c29689340e030658ba"
-"_size" "6270"
+"_change_number" "22357791"
+"_sha" "92abcbb7c61708f895b271e13d721cbc3c88d3e1"
+"_size" "6056"
