@@ -138,9 +138,9 @@
 		{
 			"public"
 			{
-				"gid" "4629743115102116736"
-				"size" "12981910168"
-				"download" "4321742480"
+				"gid" "1746660449250401361"
+				"size" "13859662041"
+				"download" "4453955936"
 			}
 		}
 		"encryptedmanifests"
@@ -153,9 +153,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "947597A965DC2EFCDC934D9553F9FC07"
-				"size" "4B13DEEB96352FA428157FD9A608EF16"
-				"download" "A7CF96169ADAAA12BCE3BE93B9F2638C"
+				"gid" "43B119B232C6DB3D4489EFCFD0BB2E38"
+				"size" "2FB6812A7769D25E6DB33D5ABB5BB4B1"
+				"download" "10567DC008E6D344813D927EF59B9ED0"
 			}
 		}
 	}
@@ -170,9 +170,9 @@
 		{
 			"public"
 			{
-				"gid" "6002145982606768166"
-				"size" "106912665"
-				"download" "28001024"
+				"gid" "9086271975219022296"
+				"size" "165357184"
+				"download" "46739344"
 			}
 		}
 		"encryptedmanifests"
@@ -185,9 +185,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "07E051FADFD04ABF1D77DE88316C6288"
-				"size" "E8F19095D291DE4EC4D95CABCD381A7D"
-				"download" "71D8DBDBCCDB67C5DFAF4CFFCEB93B63"
+				"gid" "2436C0B1E03062097FEA6403B495BC2E"
+				"size" "8E64299E42702C2D79AFD7E9076D6F4C"
+				"download" "F17BC2678E614B1D4212338EA008E64C"
 			}
 		}
 	}
@@ -202,9 +202,9 @@
 		{
 			"public"
 			{
-				"gid" "1748948970844579195"
-				"size" "603069"
-				"download" "48288"
+				"gid" "8651129041032555824"
+				"size" "8160286"
+				"download" "1813680"
 			}
 		}
 		"encryptedmanifests"
@@ -227,8 +227,8 @@
 	{
 		"public"
 		{
-			"buildid" "11650947"
-			"timeupdated" "1688746185"
+			"buildid" "13458863"
+			"timeupdated" "1707949204"
 		}
 		"developer"
 		{
@@ -238,13 +238,13 @@
 		}
 		"quality_assurance"
 		{
-			"buildid" "13398910"
+			"buildid" "13458863"
 			"pwdrequired" "1"
-			"timeupdated" "1707356734"
+			"timeupdated" "1707948425"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22253902"
-"_sha" "5c251ed60e0076695910c472a4721d8aa35131cd"
-"_size" "4185"
+"_change_number" "22348359"
+"_sha" "dbf8fee23b5ccb388b972fb902d561167ff08e54"
+"_size" "4188"
