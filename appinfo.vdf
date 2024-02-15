@@ -271,8 +271,8 @@
 	"store_tags"
 	{
 		"0" "599"
-		"1" "84"
-		"2" "1643"
+		"1" "1643"
+		"2" "84"
 		"3" "597"
 		"4" "1654"
 		"5" "3810"
@@ -345,9 +345,9 @@
 		{
 			"public"
 			{
-				"gid" "4052847082475523550"
-				"size" "6224952724"
-				"download" "5258262432"
+				"gid" "7709169146271155261"
+				"size" "6211989379"
+				"download" "5243722080"
 			}
 		}
 		"encryptedmanifests"
@@ -366,15 +366,15 @@
 			}
 			"bleeding-develop"
 			{
-				"gid" "71F5A9F9670A08E0F481F05338E5012A"
-				"size" "E5F3D5EDED4DA862080E85E380C90CBE"
-				"download" "9B534BABD02FC6015B42B3A6EC26E575"
+				"gid" "10405A93E65763F120EA577E10777ECB"
+				"size" "3A2F5DB612E42F289A7F145DCF4D9119"
+				"download" "FDDE67CDB37F0EEDBE3EE2958AF2A125"
 			}
 			"bleeding-master"
 			{
-				"gid" "2E0EEF9D813CED50DBF3B4FAB0C2414C"
-				"size" "31C5D9AB0A0CEFB5EFD154B1E1C22D2E"
-				"download" "0E3B77463B890CB9F993133894C6BB4C"
+				"gid" "992CAFC6E2209D6A898AE8085861F83B"
+				"size" "92808C95D570876B150F5D3E175AFD7E"
+				"download" "4CDB14B8E100903A2D6C7E1FAF560969"
 			}
 			"garen"
 			{
@@ -390,9 +390,9 @@
 			}
 			"malzahar"
 			{
-				"gid" "AAECD32DAF762BBEBB9409BF5F64AD09"
-				"size" "4D06A2F6982C036B4989F6226466E202"
-				"download" "A136A4E662E40F380D9E1B0C63138866"
+				"gid" "B15D0FEAFC40A63B1B42366ADD06833F"
+				"size" "C9CE55B155EAE52FBC0BF6CE7B902A5C"
+				"download" "CC3916333D31EE366215768F88FC757F"
 			}
 			"manual-build"
 			{
@@ -402,15 +402,15 @@
 			}
 			"pw-playtest"
 			{
-				"gid" "4387F9FE14CA02083C8D75D1FD594EF1"
-				"size" "28F4F840F9C2B3BBEC79FF9CF736674F"
-				"download" "B299407B29883073AE442591A4C6B16A"
+				"gid" "46940BDFA5630D4EA6DEF347706871D7"
+				"size" "8F1130A2A1AE741CF71D3ECDCF8AD7A4"
+				"download" "763E70FA4896FC1C5862AD8DD13920A4"
 			}
 			"release"
 			{
-				"gid" "A4DB18B48E98BE35BD57FC927D1F8F30"
-				"size" "DC36C56ABCEA2AE857B76B4EA7F15068"
-				"download" "191A401CDD8D131E4D5616A1F21B71C4"
+				"gid" "3E4CDB77A6DAD401A0EE26D915F213C7"
+				"size" "35000B56DDB8BE50AC2E69C899169749"
+				"download" "AC9A86016BB762273282F2C3D3ED464A"
 			}
 			"stale-develop"
 			{
@@ -420,9 +420,9 @@
 			}
 			"teemo"
 			{
-				"gid" "900AF1592992408863F434BCF6536CA8"
-				"size" "F853F85245F91C1F9FC12119075D3861"
-				"download" "54DA5BAF919B9136D72589D40BA3468E"
+				"gid" "4F5753CAF9A113A549A23958A4E18AA9"
+				"size" "525B8E0984FB4ABDA5AF8E4FB5793AC3"
+				"download" "D0D4C2CDC07409FCE980E56727DA1DE8"
 			}
 			"translations"
 			{
@@ -432,9 +432,9 @@
 			}
 			"tryndamare"
 			{
-				"gid" "F2B141D3BBB8772EC95A6E037EA7BBFC"
-				"size" "8627CBACDB543C314ECE44D3C9B58F9F"
-				"download" "AA2978CB3B63BEB85C95495E55104FAE"
+				"gid" "52EEB99BC3E400C88BA58705C1F1E6B4"
+				"size" "6BA1DC4173CE923A91611D0C6F232088"
+				"download" "B744C5FF035A0AC7EF18DF72C2A5AC5D"
 			}
 			"ziggs"
 			{
@@ -558,8 +558,8 @@
 	{
 		"public"
 		{
-			"buildid" "13186749"
-			"timeupdated" "1705575844"
+			"buildid" "13443641"
+			"timeupdated" "1707987761"
 		}
 		"akali"
 		{
@@ -575,15 +575,15 @@
 		}
 		"bleeding-develop"
 		{
-			"buildid" "13398992"
+			"buildid" "13445249"
 			"pwdrequired" "1"
-			"timeupdated" "1707357297"
+			"timeupdated" "1707841667"
 		}
 		"bleeding-master"
 		{
-			"buildid" "13398466"
+			"buildid" "13459763"
 			"pwdrequired" "1"
-			"timeupdated" "1707353086"
+			"timeupdated" "1707957383"
 		}
 		"garen"
 		{
@@ -599,9 +599,9 @@
 		}
 		"malzahar"
 		{
-			"buildid" "13381012"
+			"buildid" "13403931"
 			"pwdrequired" "1"
-			"timeupdated" "1707223949"
+			"timeupdated" "1707398926"
 		}
 		"manual-build"
 		{
@@ -611,15 +611,15 @@
 		}
 		"pw-playtest"
 		{
-			"buildid" "13392246"
+			"buildid" "13443641"
 			"pwdrequired" "1"
-			"timeupdated" "1707309634"
+			"timeupdated" "1707833819"
 		}
 		"release"
 		{
-			"buildid" "13392246"
+			"buildid" "13443641"
 			"pwdrequired" "1"
-			"timeupdated" "1707309341"
+			"timeupdated" "1707831063"
 		}
 		"stale-develop"
 		{
@@ -629,9 +629,9 @@
 		}
 		"teemo"
 		{
-			"buildid" "13331453"
+			"buildid" "13432903"
 			"pwdrequired" "1"
-			"timeupdated" "1706756881"
+			"timeupdated" "1707741540"
 		}
 		"translations"
 		{
@@ -641,9 +641,9 @@
 		}
 		"tryndamare"
 		{
-			"buildid" "13394038"
+			"buildid" "13466110"
 			"pwdrequired" "1"
-			"timeupdated" "1707320682"
+			"timeupdated" "1708009918"
 		}
 		"ziggs"
 		{
@@ -706,6 +706,7 @@
 			"root" "WinAppDataLocalLow"
 			"path" "Frozen District/House Flipper 2/Profiles"
 			"pattern" "*"
+			"recursive" "1"
 		}
 		"10"
 		{
@@ -724,22 +725,37 @@
 			"root" "WinAppDataLocalLow"
 			"path" "Frozen District/House Flipper 2/Pictures"
 			"pattern" "*"
+			"recursive" "1"
 		}
 		"13"
 		{
 			"root" "WinAppDataLocalLow"
 			"path" "Frozen District/House Flipper 2/Override"
 			"pattern" "*"
+			"recursive" "1"
 		}
 		"14"
 		{
 			"root" "WinAppDataLocalLow"
 			"path" "Frozen District/House Flipper 2/Timelines"
 			"pattern" "*"
+			"recursive" "1"
+		}
+		"15"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen District/House Flipper 2"
+			"pattern" "migrated"
+		}
+		"16"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Frozen District/House Flipper 2"
+			"pattern" "status.txt"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22254055"
-"_sha" "e3897c703fcdb5032e139d91f7082be43bb3d6ae"
-"_size" "15363"
+"_change_number" "22359028"
+"_sha" "5dca99298a2034f4f6711b2df10b61d314c0d359"
+"_size" "15695"
