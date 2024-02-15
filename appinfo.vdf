@@ -154,7 +154,7 @@
 	}
 	"gameid" "1695795"
 	"review_score" "6"
-	"review_percentage" "70"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -189,9 +189,9 @@
 		{
 			"public"
 			{
-				"gid" "6771920808768797229"
-				"size" "187797542"
-				"download" "103126048"
+				"gid" "1878719844488351746"
+				"size" "187816228"
+				"download" "103125408"
 			}
 		}
 		"encryptedmanifests"
@@ -222,9 +222,9 @@
 			}
 			"dailybuild-release"
 			{
-				"gid" "7E6DB82EE412A80851714A5BAD285E44"
-				"size" "2BD0360F15B4E98B9F2970F52A63A696"
-				"download" "2F336FBA93B91AE4552FADF33ECAB5DF"
+				"gid" "DF9E6B974B16AE11471D5C8B7EA7E642"
+				"size" "DAD0DD879BFFBDC1318AF1C62230F3C8"
+				"download" "533AB772CF7A1C8A2EAC4728598E3D34"
 			}
 			"thepub"
 			{
@@ -239,8 +239,8 @@
 	{
 		"public"
 		{
-			"buildid" "12219201"
-			"timeupdated" "1695142906"
+			"buildid" "13457999"
+			"timeupdated" "1707941738"
 		}
 		"burgersandfries_011923"
 		{
@@ -268,9 +268,9 @@
 		}
 		"dailybuild-release"
 		{
-			"buildid" "13159617"
+			"buildid" "13457999"
 			"pwdrequired" "1"
-			"timeupdated" "1705083527"
+			"timeupdated" "1707940949"
 		}
 		"thepub"
 		{
@@ -289,6 +289,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "21869274"
-"_sha" "8371f5b51aa10e2b4760617e382e6e9ad4138169"
+"_change_number" "22349469"
+"_sha" "4a191229627d711bab0e933e600c035bfad3156a"
 "_size" "5278"
