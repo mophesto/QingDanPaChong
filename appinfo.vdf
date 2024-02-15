@@ -107,7 +107,7 @@
 			"height_pct" "68.58841057605605"
 		}
 	}
-	"store_asset_mtime" "1707328140"
+	"store_asset_mtime" "1708009451"
 	"associations"
 	{
 		"0"
@@ -122,18 +122,22 @@
 		}
 		"2"
 		{
+			"type" "publisher"
+			"name" "Maximum Entertainment"
+		}
+		"3"
+		{
 			"type" "franchise"
 			"name" "Merge Games"
 		}
 	}
-	"primary_genre" "70"
+	"primary_genre" "1"
 	"genres"
 	{
 		"0" "1"
 		"1" "25"
 		"2" "23"
 		"3" "3"
-		"4" "70"
 	}
 	"category"
 	{
@@ -185,7 +189,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1680093927"
+	"steam_release_date" "1708005543"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "768200"
@@ -291,9 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "7691800212756318819"
-				"size" "20608001788"
-				"download" "9520012544"
+				"gid" "7971218670380547790"
+				"size" "21270966451"
+				"download" "9808474288"
 			}
 			"local"
 			{
@@ -318,9 +322,9 @@
 			}
 			"development"
 			{
-				"gid" "C7D625D7F47E10A527CE5FD10625DAED"
-				"size" "DFB369EA8909EF88C60588ED77254539"
-				"download" "C7AB979BF7988E7756390544E972818D"
+				"gid" "DCDBDF997519236247CC94771256E3E3"
+				"size" "8B4ABEA9ED0788006853715252DA451D"
+				"download" "714037C1DC2DD8E2DEC91A163831D1B9"
 			}
 			"epictesting"
 			{
@@ -354,9 +358,9 @@
 			}
 			"marketingcapture"
 			{
-				"gid" "41177CFA2580AE91665412784ABC8ACD"
-				"size" "4DC8E22640A1B3ACA6F6C2B006DA8C83"
-				"download" "AC10E25542025F0901E17B7665BBF903"
+				"gid" "EE8C2BBE6864D671E04561DA475C8A98"
+				"size" "D39FB3CDFDC0F37EC2C13B5A9E287A10"
+				"download" "8BB9BFD34B4CFD930A670878C3CFE49C"
 			}
 			"nvidia"
 			{
@@ -406,8 +410,8 @@
 	{
 		"public"
 		{
-			"buildid" "13077574"
-			"timeupdated" "1704463131"
+			"buildid" "13455547"
+			"timeupdated" "1708005618"
 		}
 		"creators"
 		{
@@ -424,9 +428,9 @@
 		}
 		"development"
 		{
-			"buildid" "13424373"
+			"buildid" "13455547"
 			"pwdrequired" "1"
-			"timeupdated" "1707600472"
+			"timeupdated" "1707923977"
 		}
 		"epictesting"
 		{
@@ -467,9 +471,9 @@
 		}
 		"marketingcapture"
 		{
-			"buildid" "13195481"
+			"buildid" "13408735"
 			"pwdrequired" "1"
-			"timeupdated" "1705567948"
+			"timeupdated" "1707739620"
 		}
 		"nvidia"
 		{
@@ -545,6 +549,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22292932"
-"_sha" "48dac33fa406e8c01ae28f4f96b10aa7921b2414"
-"_size" "10781"
+"_change_number" "22358931"
+"_sha" "f0cb084465802336b5d7090e26b1a970e620e0bb"
+"_size" "10844"
