@@ -234,6 +234,8 @@
 	"visibleonlywhensubscribed" "1"
 	"serverbrowsername" "Contagion"
 	"publisher" "Monochrome, Inc"
+	"listofdlc" "2733030"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -333,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "4717319022634782758"
-				"size" "3147351835"
-				"download" "415945664"
+				"gid" "4819249812450935588"
+				"size" "3201821967"
+				"download" "431712816"
 			}
 		}
 		"encryptedmanifests"
@@ -366,9 +368,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "E3855411A6C2B64E92B4838F535CDDE1"
-				"size" "52BCF79B8024B1903F85C8E23778B0D3"
-				"download" "6A949D3367D3416F4D228048A2664A8A"
+				"gid" "536D12BAEAF4847656BE706A5941CBCE"
+				"size" "DC41B71C457E8BB3E1C79E80167ADE2A"
+				"download" "96EF987F1EDC3D3DF0E0D614329A9095"
 			}
 		}
 	}
@@ -378,9 +380,9 @@
 		{
 			"public"
 			{
-				"gid" "4765028849489794505"
-				"size" "12981910168"
-				"download" "4321326176"
+				"gid" "323882821759980566"
+				"size" "13859662041"
+				"download" "4453476928"
 			}
 		}
 		"encryptedmanifests"
@@ -393,9 +395,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "82346DCCE4C9A8DEA366D596A3F6BBD8"
-				"size" "3770111627EDE5FAE64DF114C8E5A0DD"
-				"download" "33D934FE60EB869ABFD163C8A53AF2A8"
+				"gid" "D89F89B91859A2158D450486789A1CB5"
+				"size" "7DA49AA323D80394AF47A36431FB51F8"
+				"download" "5AAD2EDEDDD115DCB0CCC85D80748C35"
 			}
 		}
 	}
@@ -404,12 +406,18 @@
 		"dlcappid" "2733030"
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "1485316531821900533"
+				"size" "6264952"
+				"download" "4129536"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"quality_assurance"
 			{
-				"gid" "526263950E342C24E1E135C175987912"
+				"gid" "C61D93611D952B2399B4BABB95A15528"
 				"size" "409F54A84F9345A8502565B44F6FFB6F"
 				"download" "73169DDE1A607F4803C1801D268AED3A"
 			}
@@ -419,8 +427,8 @@
 	{
 		"public"
 		{
-			"buildid" "11650921"
-			"timeupdated" "1688746204"
+			"buildid" "13458843"
+			"timeupdated" "1707949209"
 		}
 		"2013-build"
 		{
@@ -448,9 +456,9 @@
 		}
 		"quality_assurance"
 		{
-			"buildid" "13398862"
+			"buildid" "13458843"
 			"pwdrequired" "1"
-			"timeupdated" "1707356383"
+			"timeupdated" "1707948226"
 		}
 	}
 }
@@ -524,6 +532,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22253839"
-"_sha" "4fedb80a00aaf84018664dff34d967ebfb2060c6"
-"_size" "11648"
+"_change_number" "22348361"
+"_sha" "1f6b5f4433d572dd7acb20155199ab4effc70ec8"
+"_size" "11810"
