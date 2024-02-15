@@ -278,7 +278,7 @@
 	"developer" "Turn 10"
 	"publisher" "Xbox Game Studios"
 	"homepage" "http://www.forzamotorsport.net"
-	"listofdlc" "2557390,2557400,2557410,2557420,2573690,2573700,2573710,2573720,2573730,2573740,2612060,2612070,2612080,2612090,2612100,2612110,2612120,2612130,2612140,2612150,2613770,2662850,2662860,2673230"
+	"listofdlc" "2557390,2557400,2557410,2557420,2573690,2573700,2573710,2573720,2573730,2573740,2612060,2612070,2612080,2612090,2612100,2612110,2612120,2612130,2612140,2612150,2613770,2662850,2662860,2673230,2731660"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -320,18 +320,18 @@
 		{
 			"public"
 			{
-				"gid" "4099554172037445332"
-				"size" "144909204504"
-				"download" "121645552576"
+				"gid" "7507501509103712624"
+				"size" "148067972881"
+				"download" "124547232224"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internalstaging"
 			{
-				"gid" "1DA724F47C2C30F7F9BE027C70EAC8BE"
-				"size" "7A8322BAE302A0C2ED71A5978395B8CB"
-				"download" "F7F5951981BE2C5F4B44BE2ADFBAAD0E"
+				"gid" "B09C7FD7681C3E87C134912575A577F7"
+				"size" "A8FE59A04CE3D14590D1D28BEC3F0EF6"
+				"download" "DB404C024B63B97A0E6DFE113C9BF728"
 			}
 		}
 	}
@@ -339,14 +339,14 @@
 	{
 		"public"
 		{
-			"buildid" "13218566"
-			"timeupdated" "1706637681"
+			"buildid" "13412384"
+			"timeupdated" "1707933748"
 		}
 		"internalstaging"
 		{
-			"buildid" "13379777"
+			"buildid" "13412384"
 			"pwdrequired" "1"
-			"timeupdated" "1707250873"
+			"timeupdated" "1707525169"
 		}
 	}
 }
@@ -1638,6 +1638,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22253494"
-"_sha" "d223a7782963ec1f1fc3060e365c3756de31298f"
-"_size" "87492"
+"_change_number" "22349564"
+"_sha" "6a8e132e01660f0cd81cb0bd4d52d1ff2e406f34"
+"_size" "87500"
