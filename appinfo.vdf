@@ -238,8 +238,8 @@
 		"14" "493"
 		"15" "809"
 		"16" "3810"
-		"17" "13906"
-		"18" "1667"
+		"17" "1667"
+		"18" "13906"
 		"19" "150626"
 	}
 	"review_score" "9"
@@ -404,21 +404,21 @@
 		{
 			"public"
 			{
-				"gid" "8073540000234746430"
-				"size" "552892342"
-				"download" "246005248"
+				"gid" "7340117467102228248"
+				"size" "555692928"
+				"download" "247316128"
 			}
 			"beta"
 			{
-				"gid" "3422785977464050528"
-				"size" "555551237"
-				"download" "247270288"
+				"gid" "7340117467102228248"
+				"size" "555692928"
+				"download" "247316128"
 			}
 			"previous"
 			{
-				"gid" "1331544969901301958"
-				"size" "551802448"
-				"download" "245488448"
+				"gid" "8073540000234746430"
+				"size" "552892342"
+				"download" "246005248"
 			}
 		}
 		"encryptedmanifests"
@@ -441,21 +441,21 @@
 		{
 			"public"
 			{
-				"gid" "4337799797990534013"
-				"size" "6673493"
-				"download" "1341536"
+				"gid" "8929225800230402324"
+				"size" "6759230"
+				"download" "1353504"
 			}
 			"beta"
 			{
-				"gid" "7031198041439149014"
-				"size" "6759143"
-				"download" "1353472"
+				"gid" "8929225800230402324"
+				"size" "6759230"
+				"download" "1353504"
 			}
 			"previous"
 			{
-				"gid" "847479879245171687"
-				"size" "6291326"
-				"download" "1271936"
+				"gid" "4337799797990534013"
+				"size" "6673493"
+				"download" "1341536"
 			}
 		}
 		"encryptedmanifests"
@@ -472,14 +472,14 @@
 	{
 		"public"
 		{
-			"buildid" "12348119"
-			"timeupdated" "1696373593"
+			"buildid" "13470686"
+			"timeupdated" "1708042820"
 		}
 		"beta"
 		{
-			"buildid" "13387557"
+			"buildid" "13470686"
 			"description" "public beta testing, preview for next update"
-			"timeupdated" "1707272255"
+			"timeupdated" "1708042703"
 		}
 		"outdated_v1.2.70"
 		{
@@ -489,9 +489,9 @@
 		}
 		"previous"
 		{
-			"buildid" "9772094"
+			"buildid" "12348119"
 			"description" "old release, always the preceding version"
-			"timeupdated" "1695919613"
+			"timeupdated" "1708028665"
 		}
 	}
 }
@@ -501,6 +501,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "22236719"
-"_sha" "cca8e74ba4d179fb2480f7f67f8d5f1ece608e56"
-"_size" "12176"
+"_change_number" "22366100"
+"_sha" "5bccc0a4a3ca2f50291844e1ffd3de503d454a9b"
+"_size" "12178"
