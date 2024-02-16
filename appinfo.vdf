@@ -189,9 +189,9 @@
 		{
 			"public"
 			{
-				"gid" "1878719844488351746"
-				"size" "187816228"
-				"download" "103125408"
+				"gid" "6367935247596888591"
+				"size" "187816004"
+				"download" "103125120"
 			}
 		}
 		"encryptedmanifests"
@@ -222,9 +222,9 @@
 			}
 			"dailybuild-release"
 			{
-				"gid" "DF9E6B974B16AE11471D5C8B7EA7E642"
-				"size" "DAD0DD879BFFBDC1318AF1C62230F3C8"
-				"download" "533AB772CF7A1C8A2EAC4728598E3D34"
+				"gid" "FB5919CEF1DA661EE1A682A25A05CFBA"
+				"size" "F780E52E0A350D6BEFF672318EE1668A"
+				"download" "8772EBF8CEE1B08253629CFF18A2C56A"
 			}
 			"thepub"
 			{
@@ -239,8 +239,8 @@
 	{
 		"public"
 		{
-			"buildid" "13457999"
-			"timeupdated" "1707941738"
+			"buildid" "13469874"
+			"timeupdated" "1708038080"
 		}
 		"burgersandfries_011923"
 		{
@@ -268,9 +268,9 @@
 		}
 		"dailybuild-release"
 		{
-			"buildid" "13457999"
+			"buildid" "13469874"
 			"pwdrequired" "1"
-			"timeupdated" "1707940949"
+			"timeupdated" "1708035922"
 		}
 		"thepub"
 		{
@@ -289,6 +289,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "22349469"
-"_sha" "4a191229627d711bab0e933e600c035bfad3156a"
+"_change_number" "22365409"
+"_sha" "eb1c012df6e507d65ae3501917192577824a5c26"
 "_size" "5278"
