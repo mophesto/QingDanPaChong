@@ -72,6 +72,7 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"metacritic_name" "Astral Ascent"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -183,6 +184,8 @@
 		}
 	}
 	"steam_release_date" "1699977240"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/astral-ascent\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1280930"
@@ -218,7 +221,7 @@
 	"remoteplaytogethertestingbranches" "default,alpha,beta.closed,beta.public,chowdren,medias"
 	"developer" "Hibernian Workshop"
 	"publisher" "Hibernian Workshop"
-	"homepage" "https://hibernian-workshop.com/"
+	"homepage" "https://astral-ascent.com/"
 	"listofdlc" "2633220"
 	"dlcavailableonstore" "1"
 }
@@ -270,24 +273,24 @@
 		{
 			"public"
 			{
-				"gid" "4350508998194271539"
-				"size" "1547169162"
-				"download" "1169748864"
+				"gid" "8908523733495226996"
+				"size" "1548457214"
+				"download" "1171931936"
 			}
 			"public.beta"
 			{
-				"gid" "4350508998194271539"
-				"size" "1547169162"
-				"download" "1169748864"
+				"gid" "8908523733495226996"
+				"size" "1548457214"
+				"download" "1171931936"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"chowdren"
 			{
-				"gid" "525A353859D96EEABA4386083B11FE7A"
-				"size" "863EBE0781DEF648F6473791188A2D63"
-				"download" "7B0C2B6D27AA05F62EB63AE27AE49316"
+				"gid" "4C02C8DC0228AC1272CBFDAD8006BFCF"
+				"size" "D53C198264DA26AED7E5DD3A5817789C"
+				"download" "4912063047920E1C9AE81418377F675D"
 			}
 		}
 	}
@@ -301,24 +304,24 @@
 		{
 			"public"
 			{
-				"gid" "5070665349847310222"
-				"size" "1534545587"
-				"download" "1189650144"
+				"gid" "3630383936959529459"
+				"size" "1526376649"
+				"download" "1190257312"
 			}
 			"public.beta"
 			{
-				"gid" "5070665349847310222"
-				"size" "1534545587"
-				"download" "1189650144"
+				"gid" "3630383936959529459"
+				"size" "1526376649"
+				"download" "1190257312"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"chowdren"
 			{
-				"gid" "319FF646EAE926FCA8F2660D97F89BFB"
-				"size" "2E4ED7C774E81319E82476A90C7544BF"
-				"download" "78646A5CC57A53BC978EE6EFCF58AAEB"
+				"gid" "AFDB8899EAD649F2FDF1C6F344C8FB8A"
+				"size" "00B69FD3910A79C0D7B37D7F929C5B6C"
+				"download" "E2296356EEFD77A61FFD494F6AF2ED17"
 			}
 		}
 	}
@@ -332,24 +335,24 @@
 		{
 			"public"
 			{
-				"gid" "7355553797719475412"
-				"size" "1741479737"
-				"download" "1213070048"
+				"gid" "5612777265979439046"
+				"size" "1743273081"
+				"download" "1213399168"
 			}
 			"public.beta"
 			{
-				"gid" "7355553797719475412"
-				"size" "1741479737"
-				"download" "1213070048"
+				"gid" "5612777265979439046"
+				"size" "1743273081"
+				"download" "1213399168"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"chowdren"
 			{
-				"gid" "662EC54CD7E7BAD1EDA1D8DBE130ABA2"
-				"size" "BB63FD43A8075C23A3F5A03D55826C34"
-				"download" "D0BB91A331FAAFB6A37289D947617D59"
+				"gid" "0622578CCCBB166CDDA8592D15B33006"
+				"size" "3E2A1B87B1907D81E38F11C0BCA52927"
+				"download" "6BF94BC40572EF5D83BD8A248D27BB97"
 			}
 		}
 	}
@@ -357,20 +360,20 @@
 	{
 		"public"
 		{
-			"buildid" "13316209"
-			"timeupdated" "1707753621"
+			"buildid" "13476005"
+			"timeupdated" "1708102997"
 		}
 		"chowdren"
 		{
-			"buildid" "13316209"
+			"buildid" "13479163"
 			"pwdrequired" "1"
-			"timeupdated" "1706639931"
+			"timeupdated" "1708106615"
 		}
 		"public.beta"
 		{
-			"buildid" "13316209"
+			"buildid" "13476005"
 			"description" "unstable versions"
-			"timeupdated" "1706704242"
+			"timeupdated" "1708102972"
 		}
 	}
 }
@@ -409,6 +412,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22311388"
-"_sha" "1cfd7910fe3e45b394c4f0ca8740bc4dfccf0b09"
-"_size" "7428"
+"_change_number" "22378226"
+"_sha" "11668cc9a680e36b5c862a3df88e532405028c78"
+"_size" "7582"
