@@ -1,0 +1,377 @@
+"appid" "1492070"
+"common"
+{
+	"name" "Sker Ritual"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "c2132d76ed82464a14b8a4050eda020e126558f2"
+	"clienttga" "776a468cc3c354c094391c27cd55095cd23865b3"
+	"icon" "462a2fa497e060f9c04f39563fe93934023729d8"
+	"logo" "f5ff84821fbf94323a9430454189c82b33694ca3"
+	"logo_small" "f5ff84821fbf94323a9430454189c82b33694ca3_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1665014400"
+		"tested_build_id" "9628528"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-6.3-8"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.18886029411749"
+			"height_pct" "58.050694676756606"
+		}
+	}
+	"store_asset_mtime" "1701874458"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Wales Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wales Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Wales Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_25" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"welsh"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1665074853"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1492070"
+	"store_tags"
+	{
+		"0" "4166"
+		"1" "21"
+		"2" "1774"
+		"3" "6730"
+		"4" "4175"
+		"5" "19"
+		"6" "1663"
+		"7" "4182"
+		"8" "1685"
+		"9" "493"
+		"10" "3843"
+		"11" "4106"
+		"12" "3839"
+		"13" "4747"
+		"14" "3978"
+		"15" "1667"
+		"16" "3834"
+		"17" "7481"
+		"18" "1659"
+		"19" "1742"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Wales Interactive"
+	"publisher" "Wales Interactive"
+	"homepage" "http://www.walesinteractive.com/skerritual"
+	"listofdlc" "2155330,2155340,2237020,2237021,2323210,2323211,2434170,2434171,2715950"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Sker Ritual"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SkerRitual.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "SkerRitual.exe"
+			"arguments" "offlineMode"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Sker Ritual (Offline)"
+			}
+			"description" "Sker Ritual (Offline)"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"1492071"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4691130271785885117"
+				"size" "21290443992"
+				"download" "9064817616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "51F9AE0DC7C7B762A044C888A95EB15F"
+				"size" "95AB2C7D6992AC2FD76403BE36BC7E0A"
+				"download" "08C62095E02061910512DC48C77DCAF0"
+			}
+			"development"
+			{
+				"gid" "74F19809099B5E2FF3AF2B8D1F7DCD30"
+				"size" "CDA3CE5F0BA55717CD5B11FEC277F4F3"
+				"download" "976F0A0DFDFB0BEDCEECA99F2C30A1F0"
+			}
+			"gamescon"
+			{
+				"gid" "B933FF44E11976CBA3C1C9DACD0E6431"
+				"size" "3FC3CBE6F82C112C453C2BE1A3EF7805"
+				"download" "F98A52C1D566D21C42B4F3D2F7BD50D3"
+			}
+			"localization"
+			{
+				"gid" "E8ECB9A51E9757648C5FFC3A06C259E4"
+				"size" "8190BF0BD444C9206EA7375AFDE4E212"
+				"download" "336855E3410F037F4FD1CDE7EB1B85F3"
+			}
+			"press1"
+			{
+				"gid" "504BA73DCD03B56A564DD4BE19C00D3F"
+				"size" "7241AF5912146F6177BFE7A22C131EAD"
+				"download" "0A3FF9A11311352A3F7EC01149DB8EED"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13413438"
+			"timeupdated" "1707494821"
+		}
+		"demo"
+		{
+			"buildid" "13413438"
+			"pwdrequired" "1"
+			"timeupdated" "1707494840"
+		}
+		"development"
+		{
+			"buildid" "13413438"
+			"pwdrequired" "1"
+			"timeupdated" "1707474896"
+		}
+		"gamescon"
+		{
+			"buildid" "13413438"
+			"pwdrequired" "1"
+			"timeupdated" "1707494857"
+		}
+		"localization"
+		{
+			"buildid" "13413438"
+			"pwdrequired" "1"
+			"timeupdated" "1707494867"
+		}
+		"press1"
+		{
+			"buildid" "13413438"
+			"pwdrequired" "1"
+			"timeupdated" "1707494874"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "22332387"
+"_sha" "68190cfba7dc411505bb3653b484c82fe2428937"
+"_size" "7025"
