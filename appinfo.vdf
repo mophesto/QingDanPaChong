@@ -80,7 +80,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1704989225"
+	"store_asset_mtime" "1708022217"
 	"associations"
 	{
 		"0"
@@ -261,9 +261,9 @@
 		{
 			"public"
 			{
-				"gid" "132363022576882133"
-				"size" "18640072626"
-				"download" "6390829328"
+				"gid" "2691340615517647744"
+				"size" "18322795235"
+				"download" "6341383376"
 			}
 		}
 		"encryptedmanifests"
@@ -276,15 +276,15 @@
 			}
 			"beta_flight"
 			{
-				"gid" "A7527D529B53F27530964E137639AEE0"
-				"size" "9358E97C01DCCBFB356FC1597681C4D3"
-				"download" "05656375D8FE647899AEAFB8895B81CC"
+				"gid" "122B2D1EFA684C081A35E0F5A093D3AF"
+				"size" "098BC3553057500D5D327053FE5CDDE0"
+				"download" "F5102853C2A8A9F2BBF9869E7EA1D75E"
 			}
 			"closed_playtests"
 			{
-				"gid" "645F938DE31AE4EBDED0197D6129E3BD"
-				"size" "BA0794345366E538CF5080C25CF617E5"
-				"download" "B7E6371B3240004115351A0F01535A80"
+				"gid" "19BEFAE66E2D9C3ECD3CE6F38CE63CDE"
+				"size" "54D882EA9B2C738F81AE53AC798992EA"
+				"download" "1A469FC9138F93C82652F8B56B590DA4"
 			}
 			"debug"
 			{
@@ -312,9 +312,9 @@
 			}
 			"development"
 			{
-				"gid" "13730155B9983B850A52945A80CEDFBB"
-				"size" "C52DD0CEF46A34EB2F0C63D3595625A2"
-				"download" "D6E7CFC9E29768DFA8D6983B76DE9CA1"
+				"gid" "CBE0D09E59F4679AFEFE109BFC8D1982"
+				"size" "E4224991CEB824D2CAD49BC0EE14056B"
+				"download" "E8EBF312C323488B5EE92FCA4A86219D"
 			}
 			"focus_tests"
 			{
@@ -354,21 +354,21 @@
 			}
 			"rel-next-development"
 			{
-				"gid" "DDA9E5BBA905B1FE31B1BEA26CE9039D"
-				"size" "B5101AA10F8030FF15D4621FC3FB6FFA"
-				"download" "422849B88D29EF5E251131CC8E4C3853"
+				"gid" "981AEA18668488E610B212408AAC349E"
+				"size" "D51974760F9BA34B6CF1C9906DC8BEA7"
+				"download" "82C242949613A115440AA6663BCFECA6"
 			}
 			"rel-next-shipping"
 			{
-				"gid" "BCC0A2C44E5DF18A8F82E7BB50BE6118"
-				"size" "8EB27EA29C0F8B25742699230CA21890"
-				"download" "ACB48EDAA3E8BB365D6750B01E892548"
+				"gid" "6E31359A8B40C35E42C60A9CC4CE02E3"
+				"size" "6322BEB4C8B90634FFFCE08CA3A741EA"
+				"download" "582365A6B912E2BE084EC11CBF68F4C1"
 			}
 			"shipping"
 			{
-				"gid" "2EA14F4EF5616C25BFCC141795474E88"
-				"size" "2F8CE10C655C8020E67B57472F8B7FFE"
-				"download" "BD46EE824F6A030C141AE87C9C8587BF"
+				"gid" "C042683F3EDE1502F3D2ACEC2DE98E0A"
+				"size" "B93303DC50F614CF0C2B6B770B3DFFA4"
+				"download" "FB6D0310183EDFE13F67D5E7D021DA98"
 			}
 			"tech_partner_a"
 			{
@@ -384,9 +384,9 @@
 			}
 			"tech_partner_i"
 			{
-				"gid" "1359B9EFB8669718903C4085D6A96F1F"
-				"size" "5A7D3FF978BBF70F9C72858478803900"
-				"download" "F72BD8DEDC5E9326B12F37F8588E0C67"
+				"gid" "411B7636FFE2369EE47970EA24EB6BF8"
+				"size" "03492F36CFF8836850F7289D5C7AD16E"
+				"download" "31FD68C2175BA2BD7FC5D091E538C09B"
 			}
 			"trailer"
 			{
@@ -415,8 +415,8 @@
 	{
 		"public"
 		{
-			"buildid" "13138348"
-			"timeupdated" "1704988689"
+			"buildid" "13466305"
+			"timeupdated" "1708016148"
 		}
 		"automation_branch"
 		{
@@ -426,15 +426,15 @@
 		}
 		"beta_flight"
 		{
-			"buildid" "12906733"
+			"buildid" "13410390"
 			"pwdrequired" "1"
-			"timeupdated" "1702051136"
+			"timeupdated" "1707498035"
 		}
 		"closed_playtests"
 		{
-			"buildid" "13349814"
+			"buildid" "13405573"
 			"pwdrequired" "1"
-			"timeupdated" "1706900146"
+			"timeupdated" "1707418308"
 		}
 		"debug"
 		{
@@ -462,9 +462,9 @@
 		}
 		"development"
 		{
-			"buildid" "13398655"
+			"buildid" "13460017"
 			"pwdrequired" "1"
-			"timeupdated" "1707354738"
+			"timeupdated" "1707959602"
 		}
 		"focus_tests"
 		{
@@ -504,21 +504,21 @@
 		}
 		"rel-next-development"
 		{
-			"buildid" "13399112"
+			"buildid" "13466216"
 			"pwdrequired" "1"
-			"timeupdated" "1707358396"
+			"timeupdated" "1708010509"
 		}
 		"rel-next-shipping"
 		{
-			"buildid" "13399170"
+			"buildid" "13466305"
 			"pwdrequired" "1"
-			"timeupdated" "1707358972"
+			"timeupdated" "1708011047"
 		}
 		"shipping"
 		{
-			"buildid" "13398735"
+			"buildid" "13460096"
 			"pwdrequired" "1"
-			"timeupdated" "1707355411"
+			"timeupdated" "1707960240"
 		}
 		"tech_partner_a"
 		{
@@ -534,9 +534,9 @@
 		}
 		"tech_partner_i"
 		{
-			"buildid" "11758024"
+			"buildid" "13438990"
 			"pwdrequired" "1"
-			"timeupdated" "1689946207"
+			"timeupdated" "1707825680"
 		}
 		"trailer"
 		{
@@ -573,6 +573,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22254286"
-"_sha" "ca02c31564fbfab3c639092f038fe7d926462b8a"
-"_size" "11808"
+"_change_number" "22362232"
+"_sha" "71f9463faf457499a9bf1232747aecf3df7db059"
+"_size" "11809"
