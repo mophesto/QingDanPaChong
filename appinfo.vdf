@@ -301,9 +301,9 @@
 		{
 			"gaiden"
 			{
-				"gid" "9C8C725327AC6DBFD8C9BCCF036B422D"
+				"gid" "B9A000E2E082530C9E89B034094C6E02"
 				"size" "52979A020072215D87B70599FFC0F165"
-				"download" "54B4646D9F06290EE6220A050288B429"
+				"download" "291BA8D6AD75F1599965868E93AEAE3F"
 			}
 			"test"
 			{
@@ -331,18 +331,18 @@
 		{
 			"public"
 			{
-				"gid" "1245237997762892723"
-				"size" "1993712282"
-				"download" "1986412480"
+				"gid" "3650671888525591304"
+				"size" "1994968121"
+				"download" "1987676640"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"gaiden"
 			{
-				"gid" "799D35B004684D2893C74EFE7F7B9DC0"
-				"size" "1EDB6744B73716A4B7068A34EA5F1570"
-				"download" "8E2ED4D6EABA50532AE53544B8E74519"
+				"gid" "BFF2932780D24EBE34E37B5A1A355639"
+				"size" "192873C2FED7523823AB8213424A5ED7"
+				"download" "D6B81734C612BACAF68216CCD3611455"
 			}
 			"test2"
 			{
@@ -356,14 +356,14 @@
 	{
 		"public"
 		{
-			"buildid" "13443375"
-			"timeupdated" "1707829170"
+			"buildid" "13462338"
+			"timeupdated" "1707984475"
 		}
 		"gaiden"
 		{
-			"buildid" "13443117"
+			"buildid" "13462338"
 			"pwdrequired" "1"
-			"timeupdated" "1707827466"
+			"timeupdated" "1707984494"
 		}
 		"old_english"
 		{
@@ -419,6 +419,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22324549"
-"_sha" "7130c74cfa8263f0c9c974cc87f8d69509c8b4b9"
+"_change_number" "22353254"
+"_sha" "81da040891800af34151d44a552d185d99669927"
 "_size" "8226"
