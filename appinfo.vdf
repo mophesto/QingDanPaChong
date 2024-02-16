@@ -45,8 +45,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -315,18 +313,18 @@
 		{
 			"public"
 			{
-				"gid" "6367041966391353990"
-				"size" "34782409808"
-				"download" "33864540032"
+				"gid" "5882049494674673474"
+				"size" "34782047981"
+				"download" "33864717248"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"amdtesting"
 			{
-				"gid" "F2CFD1432917A39A91DBE5D468202CF5"
-				"size" "AE7C1C61F55B3EDD9ADEC9B205588CFC"
-				"download" "9881BD3EC2378BA059DE6C02A012D686"
+				"gid" "DA2D0CE01CB4711BF81FD657EF8C9998"
+				"size" "D153189745D6133E5ABFAB91AB00C41D"
+				"download" "567C3D9D8C642740EFA663A4E54CD41A"
 			}
 			"customercare"
 			{
@@ -336,9 +334,9 @@
 			}
 			"day0"
 			{
-				"gid" "6C54BB344C967D3061CE5C1B50D8AA39"
-				"size" "9CC72A304A23681BFD3F81BDA40C63DF"
-				"download" "86C80843CF7F498A167EED2645B7BD48"
+				"gid" "0C9C057A3F7BEC703AFDAFBCCC13E2BE"
+				"size" "203D0C9390F4B2267B04AC90A68C5752"
+				"download" "CE6006C81DCAB465E07C7814D5271363"
 			}
 			"gold1"
 			{
@@ -354,9 +352,9 @@
 			}
 			"goldqatest"
 			{
-				"gid" "AC7CE1249B2F69E7B638FE4CA8E09BD3"
-				"size" "13057F88ABB52A2D1453ECCC587203CA"
-				"download" "E7A58EF9F5EBA6242ACB3EEA57FDFFDE"
+				"gid" "E27C9D173612A9D458B98F7AFCCA0BFD"
+				"size" "9DD0B3BD3E9E1A7261E7DA9A287B43D5"
+				"download" "7572755F67C6F58DB9CDC77807CCBF55"
 			}
 			"gpudebug"
 			{
@@ -426,21 +424,27 @@
 			}
 			"prelaunch"
 			{
-				"gid" "D803BE96F9E248F610B23DC58BC5B98C"
-				"size" "F7AC82956C676AC793D26F8859A618C8"
-				"download" "7996411EFF34E54B4B2A1492E9DD975D"
+				"gid" "6E92D3D57AE4F8E639597338F493A88A"
+				"size" "E80ED3F587E251A1932261F05C0BAA5E"
+				"download" "32BF394103DB00EC8127158BFD7F857D"
 			}
 			"zerogoldship"
 			{
-				"gid" "08A1D68D2AB2208FEBEC53A4087BB32C"
-				"size" "E9B9F9802CCC426B29D60E4EBFB111C7"
-				"download" "3BFB8AE9B07ACFB6870D31478E2E119A"
+				"gid" "60FB9EA0B9717024D686DA0BA48995E0"
+				"size" "7AF7F8474A160FEFDA17A9531F921951"
+				"download" "035E0CB836D64F8587CC231C3446DBB2"
 			}
 			"zerogoldtest"
 			{
-				"gid" "F9C77ED19A242DA3CFF146316D894F17"
-				"size" "1250E0E6C9266E9F70F5E7933EC0DE3B"
-				"download" "C468D61AE7E0862EBF259DF3CD87A8E1"
+				"gid" "56420F2091E6C72BEEB4415A7F1BF8CD"
+				"size" "CE6B8D2C4BAA6F6457091490F25AFCAD"
+				"download" "EAA50B37FFCBD728995A71E4C0F0795E"
+			}
+			"zeroqa"
+			{
+				"gid" "7E9519C3C00F029482A21E5BBB67B26F"
+				"size" "41D97D56E340DA7D21A1DBD5B3AD611F"
+				"download" "6A26556BC23F200730C705AA5E21F0CB"
 			}
 		}
 	}
@@ -449,14 +453,14 @@
 	{
 		"public"
 		{
-			"buildid" "13396289"
-			"timeupdated" "1707412240"
+			"buildid" "13456518"
+			"timeupdated" "1708023858"
 		}
 		"amdtesting"
 		{
-			"buildid" "12534353"
+			"buildid" "13417692"
 			"pwdrequired" "1"
-			"timeupdated" "1699023791"
+			"timeupdated" "1707503766"
 		}
 		"customercare"
 		{
@@ -466,9 +470,9 @@
 		}
 		"day0"
 		{
-			"buildid" "13390717"
+			"buildid" "13447793"
 			"pwdrequired" "1"
-			"timeupdated" "1707300881"
+			"timeupdated" "1707912244"
 		}
 		"gold1"
 		{
@@ -484,9 +488,9 @@
 		}
 		"goldqatest"
 		{
-			"buildid" "13407449"
+			"buildid" "13433900"
 			"pwdrequired" "1"
-			"timeupdated" "1707420752"
+			"timeupdated" "1707748495"
 		}
 		"gpudebug"
 		{
@@ -556,21 +560,27 @@
 		}
 		"prelaunch"
 		{
-			"buildid" "13396289"
+			"buildid" "13470040"
 			"pwdrequired" "1"
-			"timeupdated" "1707336203"
+			"timeupdated" "1708037193"
 		}
 		"zerogoldship"
 		{
-			"buildid" "13198435"
+			"buildid" "13458732"
 			"pwdrequired" "1"
-			"timeupdated" "1705513946"
+			"timeupdated" "1707947274"
 		}
 		"zerogoldtest"
 		{
-			"buildid" "13408717"
+			"buildid" "13467120"
 			"pwdrequired" "1"
-			"timeupdated" "1707430732"
+			"timeupdated" "1708016044"
+		}
+		"zeroqa"
+		{
+			"buildid" "13443645"
+			"pwdrequired" "1"
+			"timeupdated" "1707831095"
 		}
 	}
 }
@@ -641,6 +651,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22268507"
-"_sha" "d0ebc40443dc185704f6bba4e6fa2ea61c71b76b"
-"_size" "13317"
+"_change_number" "22365255"
+"_sha" "dec02e4a8228a86b65e5f746de8929d15f381010"
+"_size" "13529"
