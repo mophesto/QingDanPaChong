@@ -150,13 +150,15 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 }
 "extended"
 {
 	"developer" "IKUN&amp;KUN"
 	"publisher" "IKUN&KUN"
 	"homepage" "https://space.bilibili.com/518054215/dynamic"
+	"listofdlc" "2836780"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -302,9 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "5939173759573150921"
-				"size" "2429546154"
-				"download" "2133351408"
+				"gid" "5624694187746049140"
+				"size" "2505532039"
+				"download" "2209720048"
 			}
 		}
 	}
@@ -312,8 +314,8 @@
 	{
 		"public"
 		{
-			"buildid" "13410792"
-			"timeupdated" "1707448873"
+			"buildid" "13468323"
+			"timeupdated" "1708024332"
 		}
 	}
 }
@@ -332,6 +334,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22329582"
-"_sha" "1222fb4023fd0e377ef391fba1e922009cffbd9d"
-"_size" "5426"
+"_change_number" "22362640"
+"_sha" "9d669c5c67fe1d1a1161123799e455030a652d4a"
+"_size" "5480"
