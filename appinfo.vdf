@@ -1,0 +1,197 @@
+"appid" "2249830"
+"common"
+{
+	"name" "《奇门遁甲》"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "611fe1fda5017fcefed539cc0c2f71a36b14bacb"
+	"clienttga" "3b46dcd5e3fb7302edc311fdad2fb946e2ccaf11"
+	"icon" "b1782e00c9412bac0549bcf310df0119ea910b52"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "71.09800362976407"
+			"height_pct" "67.36111111111111"
+		}
+	}
+	"store_asset_mtime" "1672579589"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CSTG-小光"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CSTG-小光"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1672588698"
+	"community_hub_visible" "1"
+	"gameid" "2249830"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "10235"
+		"2" "9"
+		"3" "5613"
+		"4" "24003"
+		"5" "31275"
+		"6" "17389"
+		"7" "4182"
+		"8" "1036"
+		"9" "492"
+		"10" "4191"
+		"11" "599"
+		"12" "4094"
+		"13" "615955"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "CSTG-小光"
+	"publisher" "CSTG-小光"
+}
+"config"
+{
+	"installdir" "《奇门遁甲》"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game\\ShuFa2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "schinese"
+	"2249831"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7278647275291387775"
+				"size" "4783822316"
+				"download" "4650634592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "A16B599CAD1CBFA084E85C7F8CFECB38"
+				"size" "2FE6617032D5B2E5BD44B1C822AA8046"
+				"download" "A218827EC8534B42B4225A86B1299207"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13163130"
+			"timeupdated" "1705121967"
+		}
+		"test"
+		{
+			"buildid" "13163130"
+			"pwdrequired" "1"
+			"timeupdated" "1705121676"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5000"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ShuFa2"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "21875836"
+"_sha" "00c9d3394abe84bec01e0befed3cefc5e9176329"
+"_size" "3013"
