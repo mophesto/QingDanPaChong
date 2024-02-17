@@ -25,7 +25,7 @@
 		{
 			"public"
 			{
-				"gid" "8666003934974843318"
+				"gid" "5121145509876325025"
 				"size" "7"
 				"download" "64"
 			}
@@ -41,6 +41,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.4"
+			{
+				"gid" "5121145509876325025"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "1949918900514112752"
@@ -52,13 +58,13 @@
 		{
 			"dpr"
 			{
-				"gid" "6CC5A6F9718636167C2FEF81158FD809"
+				"gid" "15E7E2FD1ED32B38400F10A84652F90A"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "6C20939ADF0FEF2EABDE98009EF5F804"
+				"gid" "69A211380165D0A05C649645FF41ED4D"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -71,7 +77,7 @@
 		{
 			"public"
 			{
-				"gid" "7786974491759521119"
+				"gid" "1309659651252148198"
 				"size" "7"
 				"download" "64"
 			}
@@ -87,6 +93,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.4"
+			{
+				"gid" "1309659651252148198"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "8959772282070246004"
@@ -98,13 +110,13 @@
 		{
 			"dpr"
 			{
-				"gid" "1E9EFCD7B9CD78FE9EF71C9757D76339"
+				"gid" "4C2470A18CE7BA1FFD6EAC52BE21A3C8"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "EF7FC4E80ED372B1B31F5834B61E2B47"
+				"gid" "CB3ACA42DFBBE88F0CB4651890BD373C"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -117,7 +129,7 @@
 		{
 			"public"
 			{
-				"gid" "7781139873318354158"
+				"gid" "4655388213788243084"
 				"size" "7"
 				"download" "64"
 			}
@@ -133,6 +145,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.39.9.4"
+			{
+				"gid" "4655388213788243084"
+				"size" "7"
+				"download" "64"
+			}
 			"csgo_legacy"
 			{
 				"gid" "313951540668567317"
@@ -144,13 +162,13 @@
 		{
 			"dpr"
 			{
-				"gid" "821ADC1E566A1490C41FB0E32DC10A4A"
+				"gid" "5C76D06A42D1D51C80DE7A34F52C34A3"
 				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
 				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
 			}
 			"dprp"
 			{
-				"gid" "E8D4FF3B3C2AC24BA6DACE091A017548"
+				"gid" "511949D837E68245970D65A90FE36387"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
@@ -161,19 +179,19 @@
 	{
 		"dpr"
 		{
-			"buildid" "13471625"
+			"buildid" "13481434"
 			"pwdrequired" "1"
-			"timeupdated" "1708051015"
+			"timeupdated" "1708128923"
 		}
 		"dprp"
 		{
-			"buildid" "13471625"
+			"buildid" "13481434"
 			"pwdrequired" "1"
-			"timeupdated" "1708051023"
+			"timeupdated" "1708128932"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22367727"
-"_sha" "1ba5ad6dfb71aec4b5dbb038a36ae8d8b0e3c900"
-"_size" "3138"
+"_change_number" "22382243"
+"_sha" "e6e09aea4beaffa568d78d59e44bb08edf88919d"
+"_size" "3438"
