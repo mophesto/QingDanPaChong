@@ -51,8 +51,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -128,7 +126,7 @@
 			"height_pct" "94.15474655744814"
 		}
 	}
-	"store_asset_mtime" "1706759035"
+	"store_asset_mtime" "1707187374"
 	"associations"
 	{
 		"0"
@@ -297,8 +295,8 @@
 	{
 		"public"
 		{
-			"buildid" "13361564"
-			"timeupdated" "1707049469"
+			"buildid" "13494530"
+			"timeupdated" "1708327108"
 		}
 	}
 	"228988"
@@ -334,9 +332,9 @@
 		{
 			"public"
 			{
-				"gid" "5598050573260215022"
-				"size" "39749711904"
-				"download" "32698635984"
+				"gid" "4810685064205157259"
+				"size" "39626789127"
+				"download" "32588071840"
 			}
 		}
 	}
@@ -346,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "1431567791587988737"
-				"size" "39749711904"
-				"download" "32693692016"
+				"gid" "1331165250707371217"
+				"size" "39626789127"
+				"download" "32583127872"
 			}
 		}
 	}
@@ -358,6 +356,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22218252"
-"_sha" "45b94dfaa9ceb20adba900e5f48ef088cf764714"
-"_size" "6594"
+"_change_number" "22403311"
+"_sha" "f83d63863a277bbea6600dc47c32dc2684291458"
+"_size" "6531"
