@@ -42,7 +42,6 @@
 	{
 		"0" "5"
 	}
-	"has_adult_content" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -385,15 +384,15 @@
 			}
 			"qabeta"
 			{
-				"gid" "F7DBA83C2108640614863E8A7730D6C1"
-				"size" "80479C6395A2E2DA1A925544ADD1E3F4"
-				"download" "8B1FE38DE130F963FC50B2CAA0B4924C"
+				"gid" "F195AE749245E52B4A03249A51CF6BDF"
+				"size" "594FDB11A672E507F0ED262153B417FF"
+				"download" "3E3EFCB35CAD6CD09AFE883D18FE854D"
 			}
 			"qalive"
 			{
-				"gid" "3895C86CDCB566FFE574FE4D6A4353E9"
-				"size" "9DC0F7C16F4F5B9F04FB394101024241"
-				"download" "DA8B81379DA873B40C194411733E8717"
+				"gid" "4EE1AC405E992ED21820650695C5241B"
+				"size" "36CD8B67B4C84BD683007181F0CE6DFC"
+				"download" "582335E8688D25BE8D4F6B89976B42FC"
 			}
 			"qatest"
 			{
@@ -430,9 +429,9 @@
 			}
 			"qalive"
 			{
-				"gid" "DC978C841B22698850A7592A5D7E3434"
-				"size" "5151614D1B616C7546FE58DB1B9CF86D"
-				"download" "9D5D67AAAF61A28E5E8C380E5C769B4E"
+				"gid" "0F8B550F12C1FF91635F1208A10C9395"
+				"size" "A53F7AAEE55ADCD8D72BC886FD101EF3"
+				"download" "76ED2C6DB84C89E8DA5E6F87F100FCD2"
 			}
 			"qatest"
 			{
@@ -502,15 +501,15 @@
 			}
 			"qabeta"
 			{
-				"gid" "20C1B7C160E85D96008ED2F8B97657A6"
-				"size" "9FD2D75381673F8B19632F1C4A3D25C7"
-				"download" "A66FEED961643D2AA98EEC4338CB6ACB"
+				"gid" "7F94719C99A7E7BD8F4C84F761FDC77F"
+				"size" "06C76F9079DDF22465B4E78400A3AF25"
+				"download" "33CFE279971EA12FAD2449FD40FD7F9B"
 			}
 			"qalive"
 			{
-				"gid" "4A8D3C9962B3133E43809C72140CAA80"
+				"gid" "DB164DBD392B6911D365234A6E0CAD85"
 				"size" "F997A6EB1A2CB95BF03C2FED6116FC77"
-				"download" "188E0B609B550EE4A161ADD2562160FE"
+				"download" "15A142E3661869DA50FCD9B94146D0FF"
 			}
 			"qatest"
 			{
@@ -565,24 +564,24 @@
 		{
 			"public"
 			{
-				"gid" "2706241471829048510"
-				"size" "217500957"
-				"download" "205867104"
+				"gid" "4815604168310889857"
+				"size" "290589469"
+				"download" "258025536"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"qabeta"
 			{
-				"gid" "01D836AE3F9931CE58634D5FAEE8BC5A"
-				"size" "4906164B862B5A476D1FFDE5E3629C9D"
-				"download" "7EA515B3FAA7D4F558B2F1BC3A7DF171"
+				"gid" "75D0AE24EDDBA8DDDAE8A65526890B0B"
+				"size" "CB2DD8A0FA43F4A35F1828309ED4CC6C"
+				"download" "7CD6C91C8F1FDFF1DFF60F06BCBA29D9"
 			}
 			"qalive"
 			{
-				"gid" "6AF7EA199793F913E012512CEDA30794"
-				"size" "34A1294E3DC1AA66433473499FD862CF"
-				"download" "06F322A04DEA9FE1B39E876E9885AAE1"
+				"gid" "FE01461C2368165364879FF262ACDB8D"
+				"size" "B221BF46BC00F0A098C9B2E601527B1A"
+				"download" "6C6A525605A04F489E58441F942BA648"
 			}
 			"qatest"
 			{
@@ -608,15 +607,15 @@
 		}
 		"qabeta"
 		{
-			"buildid" "13395788"
+			"buildid" "13499976"
 			"pwdrequired" "1"
-			"timeupdated" "1707332014"
+			"timeupdated" "1708367575"
 		}
 		"qalive"
 		{
-			"buildid" "13373111"
+			"buildid" "13414738"
 			"pwdrequired" "1"
-			"timeupdated" "1707161594"
+			"timeupdated" "1707483984"
 		}
 		"qatest"
 		{
@@ -632,6 +631,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "22248992"
-"_sha" "499517c93c44181c412a8ec432d388e81f1f5515"
-"_size" "12862"
+"_change_number" "22424475"
+"_sha" "a53f730da7da315b37b3f3ff0ed7d1baf312edc8"
+"_size" "12835"
