@@ -32,9 +32,6 @@
 		"1" "2"
 		"2" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -448,9 +445,9 @@
 		{
 			"public"
 			{
-				"gid" "3317892016495204214"
-				"size" "28822955211"
-				"download" "17163351856"
+				"gid" "5024601935336362738"
+				"size" "28822961963"
+				"download" "17163442256"
 			}
 			"last-last-month"
 			{
@@ -475,15 +472,15 @@
 			}
 			"release"
 			{
-				"gid" "07C355785DF7A2A773E98597E39943D3"
-				"size" "14213290B5B955B7FE149ECD13BB9935"
-				"download" "88D15D5EE6E35D0399D584E20EA6877C"
+				"gid" "258B87D85C9D913A239CAA0125C57DD1"
+				"size" "D00F47D775CB46D6D04C758EE7024BEA"
+				"download" "72E55CD2151CC48E4C64BBEB9A409190"
 			}
 			"release-debug"
 			{
-				"gid" "E075A18BF5367C93498C26EDE4EEBFAD"
-				"size" "A3055CE0B91A21C8166A7AA3B7CE297D"
-				"download" "77C9CD885CDF92C3E49313C45D5C900A"
+				"gid" "3384E94ED3D2090779C746C69FD3A12F"
+				"size" "DF50A091581A5E795F450389EE18A0B8"
+				"download" "7689CFDD9B75FA4FA53F2D264C9D8A07"
 			}
 			"test"
 			{
@@ -516,9 +513,9 @@
 		{
 			"public"
 			{
-				"gid" "6761609254473720426"
-				"size" "4660512930"
-				"download" "1706995008"
+				"gid" "1023450517996509272"
+				"size" "4660812490"
+				"download" "1707102192"
 			}
 			"last-last-month"
 			{
@@ -543,15 +540,15 @@
 			}
 			"release"
 			{
-				"gid" "115ABF9E87DC6C85DDE09ABEFEF105B2"
-				"size" "B2CFFDE331A220015C29654FF839F2B7"
-				"download" "5C1B8FACD656D38B40DE0417EAEBC285"
+				"gid" "29A5E73EC0A87ED178589AFBF6B8685B"
+				"size" "6A6DEC4D872C78D50C1BF3B7C88C7479"
+				"download" "91D0321992C54F5423A348432FC1305E"
 			}
 			"release-debug"
 			{
-				"gid" "2023E284F495AFCE52BC8A0DD4B485C9"
-				"size" "F54157246DEB0B3A4E9271F9B6A46628"
-				"download" "9C4F8CEA0F6C2ABA8D17CB94457BCAE1"
+				"gid" "77313879F9DDF9528AD012926E995800"
+				"size" "6DC8D5F37DEB1A98B1727F12A9A66D41"
+				"download" "15A5BBE7F7FB3A79ECDD235B136A1B58"
 			}
 			"test"
 			{
@@ -585,9 +582,9 @@
 		{
 			"public"
 			{
-				"gid" "7028457364125767820"
-				"size" "718166940"
-				"download" "521092192"
+				"gid" "7752839590604638632"
+				"size" "718789900"
+				"download" "521294080"
 			}
 			"last-last-month"
 			{
@@ -612,15 +609,15 @@
 			}
 			"release"
 			{
-				"gid" "B9412F12343813699A199EAA54C2D6EA"
-				"size" "4B372E3160B03373ABB73FDA7B5CF37B"
-				"download" "FBFB6AF601BD2BBF411438D370FA3863"
+				"gid" "8004B9BB7F6955DCBD944697ADF14057"
+				"size" "81B718059143B7371763EE6FDC479343"
+				"download" "4DBA528B648F33F8518E0EE050238879"
 			}
 			"release-debug"
 			{
-				"gid" "6CD0DD52F928FEFDFF61D74A7909FC01"
-				"size" "EC86A9993377C4A9086066AAFCAE36BC"
-				"download" "8E80180AC5207FF546CB5F3B805CD01B"
+				"gid" "C72C1945A5F6F351229AD93FBEB3432C"
+				"size" "017E2AC5D7119117A626E32D6B74F96C"
+				"download" "807503946AE2DE510E4D9543A5E15A3E"
 			}
 			"test"
 			{
@@ -646,8 +643,8 @@
 	{
 		"public"
 		{
-			"buildid" "13380543"
-			"timeupdated" "1707226657"
+			"buildid" "13485222"
+			"timeupdated" "1708433133"
 		}
 		"debug"
 		{
@@ -669,15 +666,15 @@
 		}
 		"release"
 		{
-			"buildid" "13380543"
+			"buildid" "13485222"
 			"pwdrequired" "1"
-			"timeupdated" "1707221045"
+			"timeupdated" "1708172299"
 		}
 		"release-debug"
 		{
-			"buildid" "13380562"
+			"buildid" "13485232"
 			"pwdrequired" "1"
-			"timeupdated" "1707221175"
+			"timeupdated" "1708172427"
 		}
 		"test"
 		{
@@ -731,6 +728,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22227128"
-"_sha" "46b5f587a51c5db01ce7e99fc14df5fe446fe5dd"
-"_size" "14402"
+"_change_number" "22423156"
+"_sha" "e164f3f4aae2c8de38b3f13ac838f28d48d9f9a7"
+"_size" "14308"
