@@ -40,8 +40,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -368,9 +366,9 @@
 		{
 			"public"
 			{
-				"gid" "2699709699846572119"
-				"size" "20662774205"
-				"download" "16830194448"
+				"gid" "1339015556885692637"
+				"size" "20606734758"
+				"download" "16790311936"
 			}
 		}
 		"encryptedmanifests"
@@ -383,9 +381,9 @@
 			}
 			"internalplaytest"
 			{
-				"gid" "67073201298845440D44E08CB5B8F2FF"
-				"size" "3086C3EBBA2DAF60BCCE5618C4945CE1"
-				"download" "E27D4CBFCDA86DACD8A7211BB782F893"
+				"gid" "7D28461DB8468665DAD67E0387698D0C"
+				"size" "1A0DD6CF6E2EB502AF4F65BB2B6411B2"
+				"download" "A17234EB0C7C5DFAB9000E87A7CFD451"
 			}
 			"qa_tmp"
 			{
@@ -479,8 +477,8 @@
 	{
 		"public"
 		{
-			"buildid" "12806036"
-			"timeupdated" "1701349231"
+			"buildid" "13442430"
+			"timeupdated" "1708434018"
 		}
 		"internaldebug"
 		{
@@ -490,9 +488,9 @@
 		}
 		"internalplaytest"
 		{
-			"buildid" "12951544"
+			"buildid" "13442430"
 			"pwdrequired" "1"
-			"timeupdated" "1702476871"
+			"timeupdated" "1707822389"
 		}
 		"qa_tmp"
 		{
@@ -538,6 +536,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "22074137"
-"_sha" "529d536a109be86023c05a671490012e4d50a6bc"
-"_size" "10100"
+"_change_number" "22423314"
+"_sha" "e836afbc8557e51910058dd105c020b0dab54d7e"
+"_size" "10037"
