@@ -210,8 +210,8 @@
 		"0" "9"
 		"1" "599"
 		"2" "4364"
-		"3" "3987"
-		"4" "1670"
+		"3" "1670"
+		"4" "3987"
 		"5" "1741"
 		"6" "1678"
 		"7" "1708"
@@ -229,7 +229,7 @@
 		"19" "493"
 	}
 	"review_score" "6"
-	"review_percentage" "78"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -261,42 +261,42 @@
 		{
 			"public"
 			{
-				"gid" "6741611669782464755"
-				"size" "5342597398"
-				"download" "4074938240"
+				"gid" "3525541141223159539"
+				"size" "5816522600"
+				"download" "4351903520"
 			}
 			"experimental"
 			{
-				"gid" "1899119703477734854"
-				"size" "5810577817"
-				"download" "4350598112"
+				"gid" "3525541141223159539"
+				"size" "5816522600"
+				"download" "4351903520"
 			}
 			"experimental_legacy"
 			{
-				"gid" "8330463713156265220"
-				"size" "5253515867"
-				"download" "4031625536"
+				"gid" "646333673222485495"
+				"size" "5785799844"
+				"download" "4342165152"
 			}
 			"legacy"
 			{
-				"gid" "7097994974273295580"
-				"size" "5199574632"
-				"download" "3983016208"
+				"gid" "6741611669782464755"
+				"size" "5342597398"
+				"download" "4074938240"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "3F32F499EEA2CBB1CAF240115C21F576"
-				"size" "E6FBE2A2DF8DD9C7E307C16800C11F29"
-				"download" "7EADA9EBB8004419A4A39EE7072EEE98"
+				"gid" "7B92C3470A44409B40F1338887F14BC9"
+				"size" "847C4988A0C2F0F8A601053096F9DF31"
+				"download" "76576F93EBF0CF1E62A3BD786B7618F9"
 			}
 			"internal-gj"
 			{
-				"gid" "95B30891D1B16A01D28EFF4F1635A6BC"
-				"size" "11ADAAFEA2D443A8B498A53780DDF0D9"
-				"download" "22B1C146ACDAB06A0FF84029CEBC7E84"
+				"gid" "71F41C5F017DEDE58D2B19AD76D30CB4"
+				"size" "624AF0ABAAAEF4CBBF2C207C412DB008"
+				"download" "C12A4ECA3BD71966FBC62E63CBA6859F"
 			}
 			"internal-jy"
 			{
@@ -306,15 +306,21 @@
 			}
 			"internal2"
 			{
-				"gid" "E5FB7C6BF26218329577E6D9AA36ADFF"
-				"size" "B066AD30D576843054781ED75DC839C7"
-				"download" "EF2FAF260DB6B39D1B593B1C5628A12D"
+				"gid" "FC4B763CDEAFA989C3825BB4DD0C2D41"
+				"size" "7DA203C77BAA6462CE5D518358806558"
+				"download" "DAF56BDCFE687930F5D7139862ECDF44"
 			}
 			"legacy2"
 			{
-				"gid" "B02BBE611D92D1DFB8F10C79A1243BB3"
-				"size" "B30EBA12D04D80E7D05982CB34FF3D28"
-				"download" "0064B658686979E7A372AD4C8C9089E9"
+				"gid" "64E7B87865D41EDC37F33AC9AA3E169A"
+				"size" "BA41C1529053EAEC30083CD545EEDA86"
+				"download" "0E74BC85DEFDA24809960E5C04162A59"
+			}
+			"press"
+			{
+				"gid" "057D8291F8BD978C6F0634826522F959"
+				"size" "BFFB35EF0253BDBBA0EA8DC91C46EFF4"
+				"download" "814BF47ED363B949D2CDA5EFDB437897"
 			}
 		}
 	}
@@ -322,32 +328,32 @@
 	{
 		"public"
 		{
-			"buildid" "13097043"
-			"timeupdated" "1704971070"
+			"buildid" "13496144"
+			"timeupdated" "1708365641"
 		}
 		"experimental"
 		{
-			"buildid" "13414483"
+			"buildid" "13496144"
 			"description" "Experimental / unstable builds"
-			"timeupdated" "1707483749"
+			"timeupdated" "1708351085"
 		}
 		"experimental_legacy"
 		{
-			"buildid" "12975361"
+			"buildid" "13357070"
 			"description" "Previous experimental build"
-			"timeupdated" "1705056986"
+			"timeupdated" "1707599155"
 		}
 		"internal"
 		{
-			"buildid" "13414483"
+			"buildid" "13496939"
 			"pwdrequired" "1"
-			"timeupdated" "1707482670"
+			"timeupdated" "1708362966"
 		}
 		"internal-gj"
 		{
-			"buildid" "13364231"
+			"buildid" "13453418"
 			"pwdrequired" "1"
-			"timeupdated" "1707088850"
+			"timeupdated" "1707909392"
 		}
 		"internal-jy"
 		{
@@ -357,21 +363,27 @@
 		}
 		"internal2"
 		{
-			"buildid" "13314076"
+			"buildid" "13499663"
 			"pwdrequired" "1"
-			"timeupdated" "1706626282"
+			"timeupdated" "1708365907"
 		}
 		"legacy"
 		{
-			"buildid" "12143950"
+			"buildid" "13097043"
 			"description" "Contains the last Stable build"
-			"timeupdated" "1700267167"
+			"timeupdated" "1708333413"
 		}
 		"legacy2"
 		{
-			"buildid" "12143950"
+			"buildid" "13097043"
 			"pwdrequired" "1"
-			"timeupdated" "1700267178"
+			"timeupdated" "1708333426"
+		}
+		"press"
+		{
+			"buildid" "13496144"
+			"pwdrequired" "1"
+			"timeupdated" "1708367462"
 		}
 	}
 }
@@ -395,6 +407,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22276940"
-"_sha" "8e89c1c20b8039cdb553cdd44030ec09c476699f"
-"_size" "7627"
+"_change_number" "22413905"
+"_sha" "ec0d84feb3653e44519b39935ee9c90a2310e090"
+"_size" "7899"
