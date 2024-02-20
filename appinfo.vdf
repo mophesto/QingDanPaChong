@@ -52,8 +52,6 @@
 		"0" "1"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -459,9 +457,9 @@
 		{
 			"public"
 			{
-				"gid" "4633428704550328347"
+				"gid" "6484078206479842468"
 				"size" "365801446"
-				"download" "90523200"
+				"download" "90520992"
 			}
 			"classic"
 			{
@@ -486,9 +484,9 @@
 			}
 			"cdpr_internal_qa"
 			{
-				"gid" "0C807B6E85BB01B9FF4D266EE0C74887"
+				"gid" "49E53107532B238B269FA47AE60A3B20"
 				"size" "158E2807DE166A6AFCA53F993C5BC859"
-				"download" "718C028E27569D7F2515FAAD1CD60180"
+				"download" "BF969237DD9B2447130B15CAE6173CE8"
 			}
 			"cdpr_internal_qa_2"
 			{
@@ -3248,9 +3246,9 @@
 		{
 			"public"
 			{
-				"gid" "6866759408020084010"
-				"size" "581883956"
-				"download" "573910864"
+				"gid" "3632647953011026904"
+				"size" "661467692"
+				"download" "653937344"
 			}
 		}
 		"encryptedmanifests"
@@ -3263,9 +3261,9 @@
 			}
 			"cdpr_internal_qa"
 			{
-				"gid" "61F6D48520943D80760991613810F6B8"
-				"size" "F9988D8206373C1A41125475C89F9BDA"
-				"download" "A45B8D2FB9EE1EDBA943D0BA467AEB4A"
+				"gid" "D3ACE1280E1977672A20692708A440CB"
+				"size" "78EA4949F2EED7405BC50A601B2454B9"
+				"download" "AB699FC5CC96DFAC4F4F012042E452E8"
 			}
 			"cdpr_internal_qa_2"
 			{
@@ -3491,8 +3489,8 @@
 	{
 		"public"
 		{
-			"buildid" "11542567"
-			"timeupdated" "1689768012"
+			"buildid" "13463743"
+			"timeupdated" "1708437271"
 		}
 		"beta"
 		{
@@ -3507,9 +3505,9 @@
 		}
 		"cdpr_internal_qa"
 		{
-			"buildid" "11542567"
+			"buildid" "13463743"
 			"pwdrequired" "1"
-			"timeupdated" "1687508328"
+			"timeupdated" "1707994856"
 		}
 		"cdpr_internal_qa_2"
 		{
@@ -3566,6 +3564,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21552552"
-"_sha" "026bbbb14bdb8085d415aea6f41d95aed9819429"
-"_size" "81160"
+"_change_number" "22424138"
+"_sha" "c462da50d10ce9f3418b1c6fa281f04e4b2c8f25"
+"_size" "81102"
