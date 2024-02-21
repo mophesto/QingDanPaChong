@@ -273,24 +273,30 @@
 		{
 			"public"
 			{
-				"gid" "8908523733495226996"
-				"size" "1548457214"
-				"download" "1171931936"
+				"gid" "5259098993914338379"
+				"size" "1550196752"
+				"download" "1173121968"
 			}
 			"public.beta"
 			{
-				"gid" "8908523733495226996"
-				"size" "1548457214"
-				"download" "1171931936"
+				"gid" "5259098993914338379"
+				"size" "1550196752"
+				"download" "1173121968"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"chowdren"
 			{
-				"gid" "4C02C8DC0228AC1272CBFDAD8006BFCF"
-				"size" "D53C198264DA26AED7E5DD3A5817789C"
-				"download" "4912063047920E1C9AE81418377F675D"
+				"gid" "61DB92A456A0C95669FB0F89CAD0E949"
+				"size" "142A9F8949BAA965EF4BA53B37BAC6E8"
+				"download" "092C123E533741E341AB3240EDCBED62"
+			}
+			"closed.beta"
+			{
+				"gid" "29F82C2F61B2A97A3B7E4060CDFF7E49"
+				"size" "8448500A9DDFB980AF1C5F97CBACD426"
+				"download" "1FB38792756F522FDF83B149AD3359C5"
 			}
 		}
 	}
@@ -304,24 +310,30 @@
 		{
 			"public"
 			{
-				"gid" "3630383936959529459"
-				"size" "1526376649"
-				"download" "1190257312"
+				"gid" "757327584917920494"
+				"size" "1524028035"
+				"download" "1191561744"
 			}
 			"public.beta"
 			{
-				"gid" "3630383936959529459"
-				"size" "1526376649"
-				"download" "1190257312"
+				"gid" "757327584917920494"
+				"size" "1524028035"
+				"download" "1191561744"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"chowdren"
 			{
-				"gid" "AFDB8899EAD649F2FDF1C6F344C8FB8A"
-				"size" "00B69FD3910A79C0D7B37D7F929C5B6C"
-				"download" "E2296356EEFD77A61FFD494F6AF2ED17"
+				"gid" "48734CA995964335893508DF867FDA5F"
+				"size" "23E1CE36A49E30D474BC5BA50A4D154C"
+				"download" "B838A761E80A9D79E6EF504687863189"
+			}
+			"closed.beta"
+			{
+				"gid" "6CCC37FCB404A6B756E2073050F90FF4"
+				"size" "62A87B14982314811A2A4604692F0F3E"
+				"download" "C18B0430DF1A2C9C6CD1E4BF8600370E"
 			}
 		}
 	}
@@ -335,24 +347,30 @@
 		{
 			"public"
 			{
-				"gid" "5612777265979439046"
-				"size" "1743273081"
-				"download" "1213399168"
+				"gid" "8009977609974277088"
+				"size" "1746351008"
+				"download" "1215055200"
 			}
 			"public.beta"
 			{
-				"gid" "5612777265979439046"
-				"size" "1743273081"
-				"download" "1213399168"
+				"gid" "8009977609974277088"
+				"size" "1746351008"
+				"download" "1215055200"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"chowdren"
 			{
-				"gid" "0622578CCCBB166CDDA8592D15B33006"
-				"size" "3E2A1B87B1907D81E38F11C0BCA52927"
-				"download" "6BF94BC40572EF5D83BD8A248D27BB97"
+				"gid" "9499D9C81468EC6FC442CA0D9B7EA449"
+				"size" "D5F4A519FCFF1A11910D6E43EE0D3956"
+				"download" "DC7DC9EF7EE2FB3499AF007D7C3B6A83"
+			}
+			"closed.beta"
+			{
+				"gid" "9BB13D741338FA8730D76F93210BDE7E"
+				"size" "60247C757C56EC23CB1401E35C563723"
+				"download" "5AA6BE602069930C5278BBAFCDA2FA31"
 			}
 		}
 	}
@@ -360,20 +378,26 @@
 	{
 		"public"
 		{
-			"buildid" "13476005"
-			"timeupdated" "1708102997"
+			"buildid" "13511174"
+			"timeupdated" "1708506115"
 		}
 		"chowdren"
 		{
-			"buildid" "13479163"
+			"buildid" "13517865"
 			"pwdrequired" "1"
-			"timeupdated" "1708106615"
+			"timeupdated" "1708510257"
+		}
+		"closed.beta"
+		{
+			"buildid" "13517865"
+			"pwdrequired" "1"
+			"timeupdated" "1708523518"
 		}
 		"public.beta"
 		{
-			"buildid" "13476005"
+			"buildid" "13511174"
 			"description" "unstable versions"
-			"timeupdated" "1708102972"
+			"timeupdated" "1708506088"
 		}
 	}
 }
@@ -412,6 +436,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22378226"
-"_sha" "11668cc9a680e36b5c862a3df88e532405028c78"
-"_size" "7582"
+"_change_number" "22440974"
+"_sha" "d9dcf8c1f47573a2affabad8172a3123fbfe6888"
+"_size" "8219"
