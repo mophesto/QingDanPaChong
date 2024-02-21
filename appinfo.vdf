@@ -217,9 +217,9 @@
 		{
 			"public"
 			{
-				"gid" "4961082687188456579"
-				"size" "37561702499"
-				"download" "32117213984"
+				"gid" "3767843566759787177"
+				"size" "37561707228"
+				"download" "32117144784"
 			}
 			"previous_version"
 			{
@@ -286,9 +286,9 @@
 			}
 			"inner_company"
 			{
-				"gid" "6C54AE8E1481B32551E0D91223B64E02"
-				"size" "C750E0507F892CBB95B0AFAF31C4BA89"
-				"download" "40CBDA3966BC0A89EF148BB84F9F5619"
+				"gid" "1D70F7ABEC2E4DB60F6A0028F76B4812"
+				"size" "2A2EA854D5FC270B7824BB227C3CE6BA"
+				"download" "A97010246DA015A14AF0E6B011CE5125"
 			}
 			"ko_tests"
 			{
@@ -334,9 +334,9 @@
 			}
 			"staging"
 			{
-				"gid" "E72D0A1595801D4FEA5FC74C0BF5E4DB"
-				"size" "CB9A2514F60DED4740CB3AA7F50076CF"
-				"download" "43DA1B7A48BD890B2910F1F8DBF4DA04"
+				"gid" "1EBF2E20285F2E6AC752114E8BA6F7E8"
+				"size" "B06D829371263A43C524243A7C823F3B"
+				"download" "012127D282E7AE210AB79C7C82540E6E"
 			}
 			"steamfest_demo_0223"
 			{
@@ -362,8 +362,8 @@
 	{
 		"public"
 		{
-			"buildid" "13462874"
-			"timeupdated" "1708009611"
+			"buildid" "13499699"
+			"timeupdated" "1708519392"
 		}
 		"beta_0121"
 		{
@@ -421,9 +421,9 @@
 		}
 		"inner_company"
 		{
-			"buildid" "13462874"
+			"buildid" "13511430"
 			"pwdrequired" "1"
-			"timeupdated" "1707989122"
+			"timeupdated" "1708457576"
 		}
 		"ko_tests"
 		{
@@ -475,9 +475,9 @@
 		}
 		"staging"
 		{
-			"buildid" "13462874"
+			"buildid" "13499699"
 			"pwdrequired" "1"
-			"timeupdated" "1707989134"
+			"timeupdated" "1708365568"
 		}
 		"steamfest_demo_0223"
 		{
@@ -519,6 +519,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22358956"
-"_sha" "3653d72675dc65530827484bc9ef58d0b8b1eae3"
+"_change_number" "22440121"
+"_sha" "0058a66d849559b2f5ec59f630834d93ca38640c"
 "_size" "10716"
