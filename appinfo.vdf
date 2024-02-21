@@ -320,9 +320,9 @@
 		"nd-development"
 		{
 			"sc_schinese" "For Neon Doctrine ONLY - development. Dev’s should work in here, freely :slight_smile: If any testing is needed developers should upload to a test build to the “test” branch. This branch is NOT for testing. Only Development."
-			"buildid" "13391171"
+			"buildid" "13505862"
 			"pwdrequired" "1"
-			"timeupdated" "1707302398"
+			"timeupdated" "1708421367"
 		}
 		"default_backup"
 		{
@@ -340,8 +340,8 @@
 		}
 		"public"
 		{
-			"buildid" "13391171"
-			"timeupdated" "1707364442"
+			"buildid" "13505862"
+			"timeupdated" "1708498445"
 		}
 		"certification"
 		{
@@ -369,15 +369,15 @@
 		}
 		"recover_record"
 		{
-			"buildid" "13389094"
+			"buildid" "13503263"
 			"pwdrequired" "1"
-			"timeupdated" "1707286931"
+			"timeupdated" "1708395965"
 		}
 		"testing"
 		{
-			"buildid" "13297752"
+			"buildid" "13505862"
 			"pwdrequired" "1"
-			"timeupdated" "1706607349"
+			"timeupdated" "1708421891"
 		}
 	}
 	"434651"
@@ -392,9 +392,9 @@
 		{
 			"public"
 			{
-				"gid" "3943270558017899967"
-				"size" "2355505343"
-				"download" "289779856"
+				"gid" "1531315333613274874"
+				"size" "2355479303"
+				"download" "289784432"
 			}
 			"default_backup"
 			{
@@ -437,15 +437,15 @@
 			}
 			"nd-development"
 			{
-				"gid" "2279177CB59E1912D02DF0493A99BE61"
-				"size" "4760A282222A3B13F4F3E4B68B410731"
-				"download" "151AB7715D50C10AF8BE2955D863E5C5"
+				"gid" "A183C66A1B17477CC664506B0B430776"
+				"size" "FCFC03DE7B072550CB560846BAAD24F8"
+				"download" "4AF45F68A9601738856B026DC25EF61B"
 			}
 			"recover_record"
 			{
-				"gid" "D011B254778DC58103959A56559DD79B"
-				"size" "B4B3CD90011EA8B9DBBF37371997CA85"
-				"download" "8D2442F2164CFF0A6CD266B20C5AECE8"
+				"gid" "0F98452597DBC0F822A63B11281FCBED"
+				"size" "5C0E16F45AAD6A6D7A3212961233BA18"
+				"download" "48BD8BF4C91E3EDB2D3F0CCEC8DBF746"
 			}
 			"steam_china_only"
 			{
@@ -455,9 +455,9 @@
 			}
 			"testing"
 			{
-				"gid" "4D004558E3806BE5D220BA9539B915BF"
-				"size" "7E392982959A801FE83BFF297E1F0572"
-				"download" "942932A9B9EEBAFA71B6DC41ACF48EA6"
+				"gid" "185BB7CAFDA95522D54B12A2E572EEEC"
+				"size" "74B8826DEC4111C6FF88338CE5F7C83F"
+				"download" "77A00BD41921B58AC3C236E2C86B092F"
 			}
 			"testing_china"
 			{
@@ -479,9 +479,9 @@
 		{
 			"public"
 			{
-				"gid" "1690170400501777330"
-				"size" "2337585647"
-				"download" "284967520"
+				"gid" "3888755978637606815"
+				"size" "2337560119"
+				"download" "284966832"
 			}
 			"default_backup"
 			{
@@ -524,9 +524,9 @@
 			}
 			"nd-development"
 			{
-				"gid" "AC12BE1C2F483C912FFBF13FE0C506BA"
-				"size" "58997C96D3979DA6F3A3041AEBD7FEDF"
-				"download" "6F0094172E374167B4C1F280F486351F"
+				"gid" "007FC3DF0BACD96E2633E523744EB01F"
+				"size" "0426FC54F78D8E3EB11F7BBE8F818E18"
+				"download" "138CFC6519F08363BB8FC10B45C04156"
 			}
 			"recover_record"
 			{
@@ -542,9 +542,9 @@
 			}
 			"testing"
 			{
-				"gid" "23CA0107E0B3B2392163A57CBF83C6EB"
-				"size" "B25DDBCFAFD550311CCB09BA74AE226E"
-				"download" "525B13B45F73CA5AB18D93691EF98EC8"
+				"gid" "1BF9C74361B0E75562CD3BB07E2C814D"
+				"size" "1AB078019D961643B0C552DA172CA2C2"
+				"download" "50B8C78560C4C3C0B1B465A44B56B24C"
 			}
 			"testing_china"
 			{
@@ -565,9 +565,9 @@
 		{
 			"public"
 			{
-				"gid" "1906515668500611424"
-				"size" "2355505343"
-				"download" "289768832"
+				"gid" "6365439608505647998"
+				"size" "2355479303"
+				"download" "289773600"
 			}
 			"default_backup"
 			{
@@ -610,9 +610,9 @@
 			}
 			"nd-development"
 			{
-				"gid" "7499478A922DAB897813C4A2E9D8E095"
-				"size" "4760A282222A3B13F4F3E4B68B410731"
-				"download" "AB2CC2E033FF0286953A592FB83F4D5A"
+				"gid" "94D6D574E10152DDE57EB195B22B4C01"
+				"size" "FCFC03DE7B072550CB560846BAAD24F8"
+				"download" "29EB35A6295079DB5ABF2EFDAFF69BA3"
 			}
 			"recover_record"
 			{
@@ -628,9 +628,9 @@
 			}
 			"testing"
 			{
-				"gid" "FEB60109519B4457B4CBC77DC6E01953"
-				"size" "7E392982959A801FE83BFF297E1F0572"
-				"download" "C20D1E79A7BBDDAD531437F1D3E36336"
+				"gid" "A9C97C98D16343F7DBEE7969652BF84B"
+				"size" "74B8826DEC4111C6FF88338CE5F7C83F"
+				"download" "59D92EDCFD123F8B56CA7D7F042BBE7A"
 			}
 			"testing_china"
 			{
@@ -651,9 +651,9 @@
 		{
 			"public"
 			{
-				"gid" "4115331712468801492"
-				"size" "2337585647"
-				"download" "284956496"
+				"gid" "4957576290993597965"
+				"size" "2337560119"
+				"download" "284956000"
 			}
 			"default_backup"
 			{
@@ -696,9 +696,9 @@
 			}
 			"nd-development"
 			{
-				"gid" "043575C7C9ACEEDDC17F084223A6749C"
-				"size" "58997C96D3979DA6F3A3041AEBD7FEDF"
-				"download" "9A579D42E4FE9744B1F04F8D0E67ECF5"
+				"gid" "1ED427E074A7A5E151C8DB4CD0FB90BE"
+				"size" "0426FC54F78D8E3EB11F7BBE8F818E18"
+				"download" "A352C4272DB56FE4130DD53A967919A8"
 			}
 			"recover_record"
 			{
@@ -714,9 +714,9 @@
 			}
 			"testing"
 			{
-				"gid" "F5E4025E73A98CB0702D4606756186DC"
-				"size" "B25DDBCFAFD550311CCB09BA74AE226E"
-				"download" "B9820017E6DCB134639BFBACAAF0F154"
+				"gid" "06AED0C73D548443472BDEE4DEFB09E5"
+				"size" "1AB078019D961643B0C552DA172CA2C2"
+				"download" "940F0C8D1FEB262EFCFF915E2882005D"
 			}
 			"testing_china"
 			{
@@ -737,9 +737,9 @@
 		{
 			"public"
 			{
-				"gid" "4453208805097825381"
-				"size" "2395471113"
-				"download" "301489088"
+				"gid" "1175363879403158415"
+				"size" "2395474969"
+				"download" "301490768"
 			}
 			"default_backup"
 			{
@@ -782,9 +782,9 @@
 			}
 			"nd-development"
 			{
-				"gid" "BCE2194FAFC234345AA6622428EAFF0E"
-				"size" "4BF386F4CF3B30AD49BA23709795974F"
-				"download" "2E951AE6FB5E7984A4630E5286EEA7E1"
+				"gid" "372F58D05297D1EE74BEEB906875263F"
+				"size" "3F95417B0FE8DA7FDE07F9B0429D20ED"
+				"download" "5EE46A6360955FAFE748AA49589FFD86"
 			}
 			"recover_record"
 			{
@@ -800,9 +800,9 @@
 			}
 			"testing"
 			{
-				"gid" "2D6D0B0B336D436BA4677BF19D8A5B73"
-				"size" "7BEAB365B8C85890504B3AD188C42948"
-				"download" "6021F52A52D56553FC7872DEAEDD3255"
+				"gid" "99CC204F8B013328A180C1A19BF5E51E"
+				"size" "0D25B6EAADB78EEA06185B932D8D5192"
+				"download" "2ACD95C313524075D3F5F021BA2D2383"
 			}
 			"testing_china"
 			{
@@ -822,9 +822,9 @@
 		{
 			"public"
 			{
-				"gid" "361922679345966849"
-				"size" "2395471113"
-				"download" "301482608"
+				"gid" "8368921098186342427"
+				"size" "2395474969"
+				"download" "301484288"
 			}
 			"default_backup"
 			{
@@ -855,15 +855,15 @@
 			}
 			"nd-development"
 			{
-				"gid" "B27AC2662C6AC872BE1B7E2230AFED0C"
-				"size" "4BF386F4CF3B30AD49BA23709795974F"
-				"download" "84D5D3396810ADB7EF217EA2E17F8311"
+				"gid" "EA50EBCEEF9E9FB89CBA719E81743CAB"
+				"size" "3F95417B0FE8DA7FDE07F9B0429D20ED"
+				"download" "E35C3FE265C18D66CA428717FEC7E957"
 			}
 			"testing"
 			{
-				"gid" "4A0FCF736C6ED01545718AE13010554E"
-				"size" "7BEAB365B8C85890504B3AD188C42948"
-				"download" "3B0E6A745B3F02730B1395D84D1AC0D2"
+				"gid" "73385B031627C2FBD25FED17F8340216"
+				"size" "0D25B6EAADB78EEA06185B932D8D5192"
+				"download" "BB9F5335A43AE031C143BECB6159E04A"
 			}
 		}
 	}
@@ -878,9 +878,9 @@
 		{
 			"public"
 			{
-				"gid" "5243663959610105895"
-				"size" "2395471113"
-				"download" "301482608"
+				"gid" "6582159973030509115"
+				"size" "2395474969"
+				"download" "301484288"
 			}
 			"default_backup"
 			{
@@ -911,15 +911,15 @@
 			}
 			"nd-development"
 			{
-				"gid" "4556437EA3EE1AACDD8F93B609C97071"
-				"size" "4BF386F4CF3B30AD49BA23709795974F"
-				"download" "84D5D3396810ADB7EF217EA2E17F8311"
+				"gid" "BFF1178FEE295E6C8E600F3BA9DCA4AA"
+				"size" "3F95417B0FE8DA7FDE07F9B0429D20ED"
+				"download" "E35C3FE265C18D66CA428717FEC7E957"
 			}
 			"testing"
 			{
-				"gid" "90C50A4E66CED85786416E8746B03AF0"
-				"size" "7BEAB365B8C85890504B3AD188C42948"
-				"download" "3B0E6A745B3F02730B1395D84D1AC0D2"
+				"gid" "DD4AFE0CCB9B0B93905177AC3C228E0F"
+				"size" "0D25B6EAADB78EEA06185B932D8D5192"
+				"download" "BB9F5335A43AE031C143BECB6159E04A"
 			}
 		}
 	}
@@ -1137,6 +1137,12 @@
 				"size" "800D6E50ECBA040CA0F1E31AEEFFFBAD"
 				"download" "AAD84E8AEC52652D97D4D9B4FBB24F0C"
 			}
+			"testing"
+			{
+				"gid" "47741276E4D5121154F9C7678483587E"
+				"size" "3FF92BEDB3541615342A5CE49E340324"
+				"download" "FDE2AB4D8A1F6548E3629283147FD852"
+			}
 		}
 	}
 	"hasdepotsindlc" "1"
@@ -1173,6 +1179,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22255157"
-"_sha" "b77fe55e005ce35af90182c6bc2c0bf72c18ff6d"
-"_size" "26381"
+"_change_number" "22435691"
+"_sha" "ab85b5fa73c19b62c8c12a5dbc34be6bd260daaa"
+"_size" "26555"
