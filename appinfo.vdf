@@ -19,9 +19,6 @@
 		"1" "2"
 		"2" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -199,8 +196,8 @@
 		"11" "5765"
 		"12" "3993"
 		"13" "6378"
-		"14" "4345"
-		"15" "5673"
+		"14" "5673"
+		"15" "4345"
 		"16" "4166"
 		"17" "13190"
 		"18" "4508"
@@ -338,15 +335,15 @@
 		{
 			"public"
 			{
-				"gid" "4330844577438595919"
-				"size" "62056106051"
-				"download" "52592336496"
+				"gid" "5571293760220013955"
+				"size" "60798860232"
+				"download" "51500025488"
 			}
 			"supporteralpha"
 			{
-				"gid" "7535541947411348459"
-				"size" "61956173157"
-				"download" "52522693952"
+				"gid" "5571293760220013955"
+				"size" "60798860232"
+				"download" "51500025488"
 			}
 		}
 		"encryptedmanifests"
@@ -371,15 +368,15 @@
 			}
 			"nightly3"
 			{
-				"gid" "B2EDC9336104AEAC8AA1ABCB769BCE96"
-				"size" "546D8F7D59E4C2372C5863B443E0D616"
-				"download" "E34C0A9961E210CBEF4F54138BB8944B"
+				"gid" "07F73DA0F0EF57AB3D7A18D58BEB86DA"
+				"size" "974627FD129975B1B47C38A1A88258DC"
+				"download" "864ED7C8DD5F69E7B3DF80F758A2173D"
 			}
 			"nightly4"
 			{
-				"gid" "4800AACF163D48D834F05962ED64A357"
-				"size" "374353EA078406D4DEDE75909D4B9394"
-				"download" "622DA1B507D4E7949730EE631A9872F1"
+				"gid" "BA7FFFB691BC6B8036618B7A2F0F5DA2"
+				"size" "B5E9C365424CC504455FFE56D5E6EC62"
+				"download" "3DE0A149211FB3515BE5185E718CF965"
 			}
 			"rc1.0"
 			{
@@ -413,9 +410,9 @@
 			}
 			"staging2.4"
 			{
-				"gid" "F415C99E357CC0A8979B784FBCC64D90"
-				"size" "39F0C9C89FF41FD811FF993428443744"
-				"download" "9D4E8B3BCC215BD50E1A1C186EA6BD46"
+				"gid" "FD038AEA167866A950FE85C5E99AFAAE"
+				"size" "867351DA84B7F4657E41F42B4C52B421"
+				"download" "A82CD3C8C857F8D9BF0CE775FE145AD9"
 			}
 		}
 	}
@@ -423,8 +420,8 @@
 	{
 		"public"
 		{
-			"buildid" "13380663"
-			"timeupdated" "1707242185"
+			"buildid" "13487978"
+			"timeupdated" "1708451929"
 		}
 		"dev01"
 		{
@@ -446,15 +443,15 @@
 		}
 		"nightly3"
 		{
-			"buildid" "13415341"
+			"buildid" "13433391"
 			"pwdrequired" "1"
-			"timeupdated" "1707487799"
+			"timeupdated" "1707745162"
 		}
 		"nightly4"
 		{
-			"buildid" "13330627"
+			"buildid" "13487357"
 			"pwdrequired" "1"
-			"timeupdated" "1706750007"
+			"timeupdated" "1708207827"
 		}
 		"rc1.0"
 		{
@@ -488,15 +485,15 @@
 		}
 		"staging2.4"
 		{
-			"buildid" "13413761"
+			"buildid" "13487978"
 			"pwdrequired" "1"
-			"timeupdated" "1707477205"
+			"timeupdated" "1708218132"
 		}
 		"supporteralpha"
 		{
-			"buildid" "12981863"
+			"buildid" "13487978"
 			"description" "For early builds of the game to test for supporters"
-			"timeupdated" "1702936605"
+			"timeupdated" "1708451863"
 		}
 	}
 }
@@ -545,6 +542,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22278636"
-"_sha" "e9aacdb494f262af7d7636bac2845ab92663a9f2"
-"_size" "10477"
+"_change_number" "22427820"
+"_sha" "e4c7203b118df89b17d1eafe6a074b6d56339046"
+"_size" "10383"
