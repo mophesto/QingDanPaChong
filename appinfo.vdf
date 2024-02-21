@@ -45,8 +45,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -340,9 +338,9 @@
 		{
 			"public"
 			{
-				"gid" "6298959589659660861"
-				"size" "39098224637"
-				"download" "38063313008"
+				"gid" "6101969584804469543"
+				"size" "39098224623"
+				"download" "38060185088"
 			}
 		}
 		"encryptedmanifests"
@@ -367,9 +365,9 @@
 		{
 			"public"
 			{
-				"gid" "148630268254185814"
-				"size" "636491354"
-				"download" "320789424"
+				"gid" "3719728044795730413"
+				"size" "640175194"
+				"download" "324212352"
 			}
 		}
 		"encryptedmanifests"
@@ -392,8 +390,8 @@
 	{
 		"public"
 		{
-			"buildid" "13377407"
-			"timeupdated" "1707264128"
+			"buildid" "13503520"
+			"timeupdated" "1708473715"
 		}
 		"internal-test"
 		{
@@ -457,6 +455,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22235147"
-"_sha" "86da44bf0fda6c8bc1d8f91d976a8666578df24c"
-"_size" "9772"
+"_change_number" "22431866"
+"_sha" "2330b9884ab45690e7ae5db3fc42206c81fc2a6c"
+"_size" "9710"
