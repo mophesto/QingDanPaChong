@@ -32,7 +32,6 @@
 	{
 		"0" "5"
 	}
-	"has_adult_content" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -191,8 +190,8 @@
 		"13" "5608"
 		"14" "4486"
 		"15" "5984"
-		"16" "3859"
-		"17" "1654"
+		"16" "1654"
+		"17" "3859"
 		"18" "599"
 		"19" "1719"
 	}
@@ -289,18 +288,18 @@
 		{
 			"public"
 			{
-				"gid" "5618081576088899680"
-				"size" "15656360288"
-				"download" "15095452576"
+				"gid" "4437757839676637115"
+				"size" "15658451884"
+				"download" "15096585520"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "78166DABDFB48B881D8F018424FF5188"
-				"size" "0323DE241AA5E2EBF1C66BAE3D246354"
-				"download" "B8A188B7DB25C2197A5281894252F8A9"
+				"gid" "C5950852FB9A5F873E4DD1732F350469"
+				"size" "657AF62639E4C2721739772016C7A13C"
+				"download" "1C239FD81250408018A6B74C67E6EFAE"
 			}
 		}
 	}
@@ -314,18 +313,18 @@
 		{
 			"public"
 			{
-				"gid" "6790994643471015633"
-				"size" "15487431561"
-				"download" "14934828288"
+				"gid" "6609942976331210236"
+				"size" "15488099002"
+				"download" "14935117408"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "5D46CE12B329E8D35FFF2467CE1E957C"
-				"size" "9F09055EE61E3E15DDC25C37C6734A77"
-				"download" "E0D8F3DCAF6EDDC8BD62B3D217A43C2E"
+				"gid" "E5AC6CBC33FB2F00714644DC404AA967"
+				"size" "7812ACB9F8D114634A414D46921EF3F6"
+				"download" "E8B9B272FE0B5ED6DD1B75150CDFCCFB"
 			}
 		}
 	}
@@ -339,18 +338,18 @@
 		{
 			"public"
 			{
-				"gid" "6100751526658912991"
-				"size" "15847063067"
-				"download" "15170395840"
+				"gid" "6527866449941492247"
+				"size" "15849154671"
+				"download" "15171522688"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "7204317ECC9BACF602B807BCE889CC31"
-				"size" "FB1C5AF68A57C69A949DC060D7EE0790"
-				"download" "96F764D5597DAA42DEE07819814DC6F3"
+				"gid" "FF3EA80DEEEC6BA1ED5D1756F94CFBBF"
+				"size" "CBF54CE5BDC14342D5D39A1689630AB8"
+				"download" "927E7C87432CD715A4FF529EEA27FAFE"
 			}
 		}
 	}
@@ -358,14 +357,14 @@
 	{
 		"public"
 		{
-			"buildid" "13380305"
-			"timeupdated" "1707220646"
+			"buildid" "13514952"
+			"timeupdated" "1708493649"
 		}
 		"development"
 		{
-			"buildid" "13380305"
+			"buildid" "13514952"
 			"pwdrequired" "1"
-			"timeupdated" "1707219376"
+			"timeupdated" "1708485668"
 		}
 	}
 }
@@ -418,6 +417,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22240090"
-"_sha" "cc19dca9cc4f8302d0f5ce677faad4658aae84a3"
-"_size" "7850"
+"_change_number" "22435134"
+"_sha" "e482cff7c9518dd12cf6b42a248c921e5b532e2e"
+"_size" "7823"
