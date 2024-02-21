@@ -48,8 +48,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -438,18 +436,18 @@
 		{
 			"public"
 			{
-				"gid" "7033791216701034021"
-				"size" "11322236489"
-				"download" "5224657248"
+				"gid" "5472294529425412606"
+				"size" "11322235977"
+				"download" "5224656560"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "093E21DD481D6E5E2BAB6B9BE550FE5D"
-				"size" "2BF15C96B9234BE084ED9D1347283E4A"
-				"download" "F673E8F98C40D393CF5ED3418449A29E"
+				"gid" "CEA7B9B3FE5DC1515B4564F69D2FD395"
+				"size" "EC51ACD94DCB4227B7AC883891A12373"
+				"download" "7383DA94937ED35578576760CABCAC54"
 			}
 			"private_beta"
 			{
@@ -466,18 +464,18 @@
 		{
 			"public"
 			{
-				"gid" "5559960685997864382"
+				"gid" "3324903754780825395"
 				"size" "3634666934"
-				"download" "3307797408"
+				"download" "3307797744"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "6846CA177DCC9347C9A6347B438A8900"
+				"gid" "4D40DC70E204053C9D536D8C0C909C3A"
 				"size" "AE5B20078E8F60AC306E508BFD56A88C"
-				"download" "60407D15C62BCB2FF1005A52287923DA"
+				"download" "262B801B87DBE409ADCE89977692E037"
 			}
 			"private_beta"
 			{
@@ -498,18 +496,18 @@
 		{
 			"public"
 			{
-				"gid" "8203277714913728699"
+				"gid" "4589292988608678505"
 				"size" "573348674"
-				"download" "484443760"
+				"download" "484443360"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "FFB7794103A212716DC275E246B9B7BA"
+				"gid" "A3772841D2AAD04E98DA33BAF3618098"
 				"size" "30C807EC22D944BDD0444031D9C18EF8"
-				"download" "B930C64A5C6FC197D5905CD25BF169E0"
+				"download" "5A837B2EE257396EFC80B029615A5096"
 			}
 			"private_beta"
 			{
@@ -529,18 +527,18 @@
 		{
 			"public"
 			{
-				"gid" "4115272456042516614"
+				"gid" "8783084855530181570"
 				"size" "539100334"
-				"download" "436159056"
+				"download" "436159360"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "BEBB3F39A4E6822118C874C48A938E9F"
+				"gid" "2F5CA8382ABE91FB48F244CC658F5168"
 				"size" "3BA4B8757940DB111ED7CD72F36D4742"
-				"download" "02051E2706D3E1178BCF2A854AAAA24C"
+				"download" "8DC1DE7D117C3E84218D3684D9760D15"
 			}
 			"private_beta"
 			{
@@ -710,14 +708,14 @@
 	{
 		"public"
 		{
-			"buildid" "13387043"
-			"timeupdated" "1707334624"
+			"buildid" "13513259"
+			"timeupdated" "1708474493"
 		}
 		"beta"
 		{
-			"buildid" "13387043"
+			"buildid" "13513259"
 			"pwdrequired" "1"
-			"timeupdated" "1707334414"
+			"timeupdated" "1708472986"
 		}
 		"private_beta"
 		{
@@ -780,6 +778,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22249871"
-"_sha" "f1b63d0f2149dc0693abcb467a812a8ac7577fdb"
-"_size" "15523"
+"_change_number" "22432157"
+"_sha" "c6f4bac431759224fb0bfc998e93077308dc4311"
+"_size" "15460"
