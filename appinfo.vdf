@@ -145,15 +145,15 @@
 		{
 			"public"
 			{
-				"gid" "3077981431954385315"
-				"size" "14002085398"
-				"download" "4090928256"
+				"gid" "7626858333599356995"
+				"size" "14002094614"
+				"download" "4090927856"
 			}
 			"squad_experimental"
 			{
-				"gid" "798255790987238549"
-				"size" "12780367882"
-				"download" "3657848720"
+				"gid" "7626858333599356995"
+				"size" "14002094614"
+				"download" "4090927856"
 			}
 		}
 		"encryptedmanifests"
@@ -184,9 +184,9 @@
 			}
 			"backtracking"
 			{
-				"gid" "2214BD8E5577FFCC23AF89E9DE3EDD85"
-				"size" "B6ECAF99FFF3F61BBB7ACE5832327A0B"
-				"download" "3F74952D441145C31BA4A320B446581C"
+				"gid" "096239F53136CC3C53D52155F8F1542E"
+				"size" "54646DC324A878FF5104E9F99225660F"
+				"download" "FCDC020811AB2BC2938AB1601C0C70F7"
 			}
 			"caf_event"
 			{
@@ -214,15 +214,15 @@
 			}
 			"squad_main"
 			{
-				"gid" "30D433F60A588517C5FF17BFE5326BCF"
-				"size" "9EC230F25B0DD1F4404EC17017A0AE20"
-				"download" "C30418FDF33A3859DDADB1E47DE77D5B"
+				"gid" "4867F64686C9F672A27E0AFB46E5A60C"
+				"size" "E4191ABA7911BA2018D3B679BFDED79D"
+				"download" "E8A6FF6685A910437591A86A5FF36ED3"
 			}
 			"squad_release"
 			{
-				"gid" "52893D9C029013FA43FF123D876C7B85"
-				"size" "26CDF9FE5A7F7A0000F9E9F554CE19EC"
-				"download" "8A7CAB393B5C572B9676F8709E76F339"
+				"gid" "38A09E6C34239ECE838313980297E311"
+				"size" "8C4396509D55F8F190268B5AF3D94084"
+				"download" "30CFA3E365671D20F23F377AD450324F"
 			}
 			"squad_testing"
 			{
@@ -250,15 +250,15 @@
 		{
 			"public"
 			{
-				"gid" "16290744563375036"
-				"size" "13949477876"
-				"download" "4026499648"
+				"gid" "1937610740922252751"
+				"size" "13949480976"
+				"download" "4026498768"
 			}
 			"squad_experimental"
 			{
-				"gid" "7935487258682476279"
-				"size" "12789826270"
-				"download" "3627366992"
+				"gid" "1937610740922252751"
+				"size" "13949480976"
+				"download" "4026498768"
 			}
 		}
 		"encryptedmanifests"
@@ -289,9 +289,9 @@
 			}
 			"backtracking"
 			{
-				"gid" "116046A9FD7387322062C3C9730D8BB2"
-				"size" "9129A57C8F3A339D2E5D30D939547669"
-				"download" "DB89FCCAD085FCEFA5DF8000E9126513"
+				"gid" "A2449CF9EE43C1D46ABDE13B46CD3E7C"
+				"size" "5AD7E8ADD71154196B6C0B098DB96C6A"
+				"download" "DF49E78C400604E5AE9312D3827AB401"
 			}
 			"caf_event"
 			{
@@ -319,15 +319,15 @@
 			}
 			"squad_main"
 			{
-				"gid" "A4DE21FBEA9A20690CD8BD861D752C52"
-				"size" "6FC83FFF2FEE82841DE3FF4A3914E457"
-				"download" "D04BF400AC3AE45E62C8CA94EF16C6F1"
+				"gid" "CD2D2A584BB1B18AF5EB2B4379CCB238"
+				"size" "09E26EF100CD03A6D9E7A06828780FC3"
+				"download" "1B5B3D5B22340DBF1AFD7DE34E71B3D6"
 			}
 			"squad_release"
 			{
-				"gid" "364EA7BEF43392DBE7C6DF3A27C85B9F"
-				"size" "D93F221E2ADBF490F05B740BC54288D8"
-				"download" "F862C87D49B062F962F09CA23BB0BD9D"
+				"gid" "E9337726F74FE5446CFE0A39E5752086"
+				"size" "7F82F9521154F3F2F3C9DAB91F5AC5D4"
+				"download" "07EECCB88A9C5680D1E0025268357FB7"
 			}
 			"squad_testing"
 			{
@@ -424,8 +424,8 @@
 	{
 		"public"
 		{
-			"buildid" "13379897"
-			"timeupdated" "1707416920"
+			"buildid" "13485642"
+			"timeupdated" "1708540224"
 		}
 		"alpha-11.2"
 		{
@@ -453,9 +453,9 @@
 		}
 		"backtracking"
 		{
-			"buildid" "12720654"
+			"buildid" "13465587"
 			"pwdrequired" "1"
-			"timeupdated" "1700856818"
+			"timeupdated" "1708453330"
 		}
 		"caf_event"
 		{
@@ -477,9 +477,9 @@
 		}
 		"squad_experimental"
 		{
-			"buildid" "12651833"
+			"buildid" "13485642"
 			"description" "Experimental Squad builds (compatible with Live clients)"
-			"timeupdated" "1699554641"
+			"timeupdated" "1708361618"
 		}
 		"squad_hotfix_testing"
 		{
@@ -489,15 +489,15 @@
 		}
 		"squad_main"
 		{
-			"buildid" "13405362"
+			"buildid" "13520242"
 			"pwdrequired" "1"
-			"timeupdated" "1707407266"
+			"timeupdated" "1708556379"
 		}
 		"squad_release"
 		{
-			"buildid" "13400221"
+			"buildid" "13522365"
 			"pwdrequired" "1"
-			"timeupdated" "1707413560"
+			"timeupdated" "1708537737"
 		}
 		"squad_testing"
 		{
@@ -538,6 +538,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22265651"
-"_sha" "fa27850250ca5e5e97e3a19bbe525898ab8397dd"
-"_size" "11567"
+"_change_number" "22448463"
+"_sha" "515bf2b6a5a56a6f4cdbec7b97f6fe4deeb54ceb"
+"_size" "11570"
