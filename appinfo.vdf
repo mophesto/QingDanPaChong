@@ -92,7 +92,7 @@
 			"height_pct" "59.413461098981315"
 		}
 	}
-	"store_asset_mtime" "1707816416"
+	"store_asset_mtime" "1708595745"
 	"associations"
 	{
 		"0"
@@ -173,7 +173,7 @@
 		"19" "4305"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -209,9 +209,9 @@
 		{
 			"public"
 			{
-				"gid" "579420499531340584"
-				"size" "1522114964"
-				"download" "511062256"
+				"gid" "6958012833592486715"
+				"size" "1534703775"
+				"download" "511877808"
 			}
 		}
 		"encryptedmanifests"
@@ -242,9 +242,9 @@
 			}
 			"stabilization"
 			{
-				"gid" "8B0EE9DEA05B5CF5B3BED193CC8096F4"
-				"size" "C17812B5870AF2417066C1B0C2C96560"
-				"download" "77771FF01956F789C0CD6F970C18C6C0"
+				"gid" "D3234C5CD98A0DCAE69FA9A347A7A095"
+				"size" "0EE594B5A56F464FFC13ED17B005119B"
+				"download" "B84A4E87FE9F3B68579B732245E86A51"
 			}
 			"trailer"
 			{
@@ -272,8 +272,8 @@
 	{
 		"public"
 		{
-			"buildid" "13475648"
-			"timeupdated" "1708088437"
+			"buildid" "13517805"
+			"timeupdated" "1708605871"
 		}
 		"beta"
 		{
@@ -301,9 +301,9 @@
 		}
 		"stabilization"
 		{
-			"buildid" "13475648"
+			"buildid" "13517805"
 			"pwdrequired" "1"
-			"timeupdated" "1708085613"
+			"timeupdated" "1708509875"
 		}
 		"trailer"
 		{
@@ -319,6 +319,6 @@
 	"maxnumfiles" "64"
 }
 "_missing_token" "False"
-"_change_number" "22373834"
-"_sha" "821c236d40447d7ab049d749fde339c73a6099e3"
-"_size" "6055"
+"_change_number" "22457237"
+"_sha" "519fb417e37dcb1cc7ac04d3ca2b072e693be5db"
+"_size" "6056"
