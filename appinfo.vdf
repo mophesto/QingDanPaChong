@@ -301,9 +301,9 @@
 		{
 			"public"
 			{
-				"gid" "1552563028619531490"
-				"size" "53167819950"
-				"download" "36265897792"
+				"gid" "2515983904744376718"
+				"size" "53167649461"
+				"download" "36265917456"
 			}
 		}
 		"encryptedmanifests"
@@ -334,9 +334,9 @@
 			}
 			"sbr_fhi"
 			{
-				"gid" "62C245F3C6823A5E08A53DB93551EAF5"
-				"size" "D126321634FBAA78EF89EC61462B1E5D"
-				"download" "2EE1810EA8AC6AF74401D018FA283A20"
+				"gid" "B7D66FFAE0F43C5D9C6407878E45F3CD"
+				"size" "233242968ED9A3B6C5D1164F8748A5F8"
+				"download" "061C59263631FA7DA17CC4599A1098CD"
 			}
 			"sbr_fhi_crossplay"
 			{
@@ -346,9 +346,9 @@
 			}
 			"sbr_fhi_dev"
 			{
-				"gid" "AAFFF235A660F66A181955AB8BC75A11"
-				"size" "1E2F90FDDFE2169729AF2EBE69FA01F1"
-				"download" "E0ABC2F9C8916A94FD2E53CA7AA3ED23"
+				"gid" "496865F0DD69802202E08A49E8FFA6DB"
+				"size" "0A683AB20CF1815B6C1C24DE0D23BBC7"
+				"download" "DE2B23C2077FCCC5BE27E4F2D1CFFD57"
 			}
 			"sbr_mac"
 			{
@@ -364,15 +364,15 @@
 			}
 			"sbr_qa_dev"
 			{
-				"gid" "0E2EF5AB536F7DD3BB1A16F3E9AC4105"
-				"size" "163011B24BC0E8D8410B639A5E27FDDF"
-				"download" "BDD49D092B288FAC845C0E5DEBA1F7CD"
+				"gid" "3826BAAEFEF51757CE000B8986B344A8"
+				"size" "426829D49465750CC7A932F10CF9632F"
+				"download" "2238594D27916C52F4EB1867333D4D8F"
 			}
 			"sbr_qa_retail"
 			{
-				"gid" "1D4AA92C30A338870A0B84C279FB2F80"
-				"size" "07E23327A6BE94CFEF51B0B8C9B94794"
-				"download" "CB9CD57E0D1947AFF54477AE1F808290"
+				"gid" "643F0FBEE14006906A5311EEB18B33EB"
+				"size" "2D47BB46AFAF874D9F49A451A5403590"
+				"download" "F77039B41EFAAB95AA57995D39343C9E"
 			}
 		}
 	}
@@ -387,9 +387,9 @@
 		{
 			"public"
 			{
-				"gid" "7895978872525781072"
-				"size" "42289830985"
-				"download" "27360961792"
+				"gid" "4471005191340032881"
+				"size" "42289469125"
+				"download" "27360663424"
 			}
 		}
 		"encryptedmanifests"
@@ -402,9 +402,9 @@
 			}
 			"sbr_fhi"
 			{
-				"gid" "EB27D51D9D22170EA02E11B5362A62DA"
-				"size" "6C2694D10E73478FC4B55ECC5824B25B"
-				"download" "862D0CAD5A66C57240F4ACFBF2478556"
+				"gid" "AE80504492B209BFDE6F90C53626C953"
+				"size" "AAFABBCD42C84686E1AB409DE531C261"
+				"download" "5610495E165E9F04D41E4FF72BC8B788"
 			}
 			"sbr_mac"
 			{
@@ -414,9 +414,9 @@
 			}
 			"sbr_mac_test"
 			{
-				"gid" "FCF07F899958F9085F06B6974F377E39"
-				"size" "803432F386C604B1E4692DD8CE320173"
-				"download" "AC3531AFC8CB94D460243A95F383BE49"
+				"gid" "E236FD2C3AFD1C4139C89559A88AE1D5"
+				"size" "9EFD5104DFA6A4ACD456CD9B394B612C"
+				"download" "89797F2C3B403EFE63EC2D1C3B244B1A"
 			}
 		}
 	}
@@ -424,8 +424,8 @@
 	{
 		"public"
 		{
-			"buildid" "13325327"
-			"timeupdated" "1706713631"
+			"buildid" "13530197"
+			"timeupdated" "1708601757"
 		}
 		"external_review"
 		{
@@ -453,9 +453,9 @@
 		}
 		"sbr_fhi"
 		{
-			"buildid" "13325327"
+			"buildid" "13530197"
 			"pwdrequired" "1"
-			"timeupdated" "1706712076"
+			"timeupdated" "1708600162"
 		}
 		"sbr_fhi_crossplay"
 		{
@@ -465,9 +465,9 @@
 		}
 		"sbr_fhi_dev"
 		{
-			"buildid" "13196680"
+			"buildid" "13477526"
 			"pwdrequired" "1"
-			"timeupdated" "1705502174"
+			"timeupdated" "1708096577"
 		}
 		"sbr_mac"
 		{
@@ -477,21 +477,21 @@
 		}
 		"sbr_mac_test"
 		{
-			"buildid" "13402884"
+			"buildid" "13505889"
 			"pwdrequired" "1"
-			"timeupdated" "1707392121"
+			"timeupdated" "1708421578"
 		}
 		"sbr_qa_dev"
 		{
-			"buildid" "13400620"
+			"buildid" "13530135"
 			"pwdrequired" "1"
-			"timeupdated" "1707374510"
+			"timeupdated" "1708599790"
 		}
 		"sbr_qa_retail"
 		{
-			"buildid" "13400992"
+			"buildid" "13504762"
 			"pwdrequired" "1"
-			"timeupdated" "1707378248"
+			"timeupdated" "1708412793"
 		}
 	}
 }
@@ -501,6 +501,6 @@
 	"maxnumfiles" "5000"
 }
 "_missing_token" "False"
-"_change_number" "22259811"
-"_sha" "130cab8336b963928b336d5dcd7dcd9e758c1f66"
+"_change_number" "22456279"
+"_sha" "2f72b98923774dc7e01ce2bd30c11a7379f1869f"
 "_size" "10135"
