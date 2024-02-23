@@ -79,6 +79,7 @@
 			"hdr_support" "0"
 		}
 	}
+	"metacritic_name" "Inkulinati"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -95,15 +96,14 @@
 		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
 		"library_logo" "en,zh-cn"
-		"library_header" "zh-cn,en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "50.08624538899878"
-			"height_pct" "95.7994439167261"
+			"width_pct" "43.31845075656004"
+			"height_pct" "82.12098274360808"
 		}
 	}
-	"store_asset_mtime" "1707400900"
+	"store_asset_mtime" "1708623428"
 	"associations"
 	{
 		"0"
@@ -127,7 +127,6 @@
 	{
 		"0" "23"
 		"1" "2"
-		"2" "70"
 	}
 	"category"
 	{
@@ -212,7 +211,9 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1675187400"
+	"steam_release_date" "1708623154"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/inkulinati\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "957960"
@@ -321,9 +322,9 @@
 		{
 			"public"
 			{
-				"gid" "3609130465116674273"
-				"size" "3742230530"
-				"download" "1107605056"
+				"gid" "7990544098513005135"
+				"size" "3985364506"
+				"download" "1160704512"
 			}
 			"local"
 			{
@@ -336,9 +337,9 @@
 		{
 			"1_0_release"
 			{
-				"gid" "410D8DDA881B79C2C4D5A1D544ECB7A2"
-				"size" "910CDBA271098B619CC794B54272C093"
-				"download" "6E925F674158B66741F43E66E8CE82C8"
+				"gid" "A14289AD0158B2B384EA5667D50C1014"
+				"size" "1C466F67D86AB245149DFB0AA1C3F1B9"
+				"download" "B4BC8BB7A2219C23DD33EB17AE632BD9"
 			}
 			"demo_gamescom_2022"
 			{
@@ -420,9 +421,9 @@
 			}
 			"milestone"
 			{
-				"gid" "C7D4680C80C2A82B8A712B211D07B7C5"
-				"size" "36DA00E9ED5A4A857E5056FB5819DF76"
-				"download" "219B1FBE5E334DB40B44C8EA7E70F493"
+				"gid" "EFF2B57C5747868EA5945270A6468954"
+				"size" "D2A3F8D65059D5BB996CE821C27077DA"
+				"download" "5A1F60DE586A1688534498139227B4B5"
 			}
 			"old_demo_fallback_archive"
 			{
@@ -432,15 +433,15 @@
 			}
 			"preview"
 			{
-				"gid" "6A1D2289E4013524475DC08090F1EBA7"
-				"size" "CAFFF8BD3559753A8663FB91C962DFA3"
-				"download" "9A08B2301A832E50E2D449848DCF74D7"
+				"gid" "568A7C28DFCA3F2A27657A6EA674EE6E"
+				"size" "9B28B1D03F5549373B12C907741729FB"
+				"download" "A28E5BBFE3B6D543E4B23A791BD9BBF3"
 			}
 			"pru_testing"
 			{
-				"gid" "7AD23BA1EDF8FFAC82C084125E6D70F1"
-				"size" "B1B63382144F0128EE00ED01413019BA"
-				"download" "BBB9258EE8241E4313D9A792A7868FED"
+				"gid" "1CF033180D41E6F552C103E77ACE8776"
+				"size" "7B66BBD9A8EDBD3A7B3F3DB3B32AFDB0"
+				"download" "53A13AC6094563245023A8861F9C318C"
 			}
 			"qa-transfer"
 			{
@@ -456,9 +457,9 @@
 			}
 			"staging"
 			{
-				"gid" "B90B5B7F0295922AD75ABFB19107EFBB"
-				"size" "8613809CCF2075296E965ABB0FF0D031"
-				"download" "94D5031092B819D4947AAEC1493A3FD0"
+				"gid" "0D87013E1F3ED2189408F5D72103925F"
+				"size" "3EA4EDFA611D5FF78DE1692A549DB503"
+				"download" "2C86DCA1F132E3D67B302E313217DF18"
 			}
 			"steamdeckinkulinativerification"
 			{
@@ -484,18 +485,18 @@
 		{
 			"public"
 			{
-				"gid" "7386846982968913572"
-				"size" "3751850303"
-				"download" "1112125712"
+				"gid" "443620182211154964"
+				"size" "3994700820"
+				"download" "1164612080"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"1_0_release"
 			{
-				"gid" "B00C8C7F50CCADF15B5F5654963DC844"
-				"size" "9B7BD501EC143FB7B0F00D813DEA2BFA"
-				"download" "271BFEAC205D5A32983BBE0F925C66BA"
+				"gid" "1C72B9588192570B7760ACA0AD396B5A"
+				"size" "AC010B254C13C4F4A5CE4AC8DFAF2EB9"
+				"download" "7C9CAAFE19C19EC984CF4E16DA4F22C6"
 			}
 			"demo_gamescom_2022"
 			{
@@ -575,6 +576,12 @@
 				"size" "85E4237C19E18EC8ED21A68E5279B7D1"
 				"download" "72425660091A7F4B911C2871B53898EA"
 			}
+			"milestone"
+			{
+				"gid" "19BA2E69891EC7C0B2F2FCD87A0CD714"
+				"size" "764821C53573AB737D00E98AA72F8066"
+				"download" "E753D16D46F99E3DAE3CB9E2DA3C35A6"
+			}
 			"old_demo_fallback_archive"
 			{
 				"gid" "A461F9EACB6F80CC3BAD898D849AAFAB"
@@ -607,9 +614,9 @@
 			}
 			"staging"
 			{
-				"gid" "FA8EC0BA747E762D60E311AACEBC426F"
-				"size" "70A6DF95BC8A1E50CBB04C787774AC4F"
-				"download" "3C52B121D31F1574E0AAD4D8910341D0"
+				"gid" "E9983866EFA79D2DBD0737CEA799C6E6"
+				"size" "87DF0CE305107473ADA85B8830EDB56E"
+				"download" "48DF7F70436259593DD7A4384CBF5905"
 			}
 			"steamdeckinkulinativerification"
 			{
@@ -636,18 +643,18 @@
 		{
 			"public"
 			{
-				"gid" "2057599727242915174"
-				"size" "99204181"
-				"download" "99772144"
+				"gid" "8986030487607636828"
+				"size" "140582548"
+				"download" "137307328"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"1_0_release"
 			{
-				"gid" "D5F7AD1A043DD3CB0ED6139E608F35C7"
-				"size" "C094083C8A1D42BB4C8D1BC54AF31B1E"
-				"download" "ACF9B6A859FE90CE2FBD3468FE64D8EE"
+				"gid" "24071E3D6DDFD2E89181A65086445771"
+				"size" "48D8EED7011DE4BA464030F884B3384A"
+				"download" "94F0BA2A6B9E917175959322643D7839"
 			}
 			"ea_hotfix2_testing"
 			{
@@ -666,6 +673,12 @@
 				"gid" "B3B20A9FF09D6652F114DDD56886D88A"
 				"size" "C70DE3C87625911BBB625688CE4C2229"
 				"download" "AC2F7CAC4B84EAECFFA11A6677B56D4A"
+			}
+			"milestone"
+			{
+				"gid" "F3CDCCE5828B3F596EBE06EE1CE38D13"
+				"size" "9AF3C4A0E85CDA80A1443A975A62C5EF"
+				"download" "68B0BA01D443AC89EB3FAD2F6087CEEC"
 			}
 			"preview"
 			{
@@ -709,14 +722,14 @@
 	{
 		"public"
 		{
-			"buildid" "12989067"
-			"timeupdated" "1702900458"
+			"buildid" "13519874"
+			"timeupdated" "1708621299"
 		}
 		"1_0_release"
 		{
-			"buildid" "13209730"
+			"buildid" "13519874"
 			"pwdrequired" "1"
-			"timeupdated" "1706865542"
+			"timeupdated" "1708624557"
 		}
 		"demo_gamescom_2022"
 		{
@@ -805,9 +818,9 @@
 		}
 		"milestone"
 		{
-			"buildid" "13338672"
+			"buildid" "13519874"
 			"pwdrequired" "1"
-			"timeupdated" "1706811196"
+			"timeupdated" "1708523167"
 		}
 		"old_demo_fallback_archive"
 		{
@@ -817,15 +830,15 @@
 		}
 		"preview"
 		{
-			"buildid" "11371175"
+			"buildid" "13507771"
 			"pwdrequired" "1"
-			"timeupdated" "1685631558"
+			"timeupdated" "1708433336"
 		}
 		"pru_testing"
 		{
-			"buildid" "13445238"
+			"buildid" "13522159"
 			"pwdrequired" "1"
-			"timeupdated" "1707841598"
+			"timeupdated" "1708536546"
 		}
 		"qa-transfer"
 		{
@@ -841,9 +854,9 @@
 		}
 		"staging"
 		{
-			"buildid" "13418080"
+			"buildid" "13519874"
 			"pwdrequired" "1"
-			"timeupdated" "1707506888"
+			"timeupdated" "1708522559"
 		}
 		"steamdeckinkulinativerification"
 		{
@@ -885,6 +898,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22327301"
-"_sha" "f952f337266399808691f58672b3ee41cfd113e3"
-"_size" "19813"
+"_change_number" "22462297"
+"_sha" "eda846530f882113526f02288a984a9ebee22e4c"
+"_size" "20273"
