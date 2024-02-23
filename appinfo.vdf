@@ -10,22 +10,68 @@
 	"clienticon" "d4ca0c20d1e43ec129675acd61fdc4a585122c1f"
 	"clienttga" "51aa5f64bebdf514cae22864a847b5bdd34e03a8"
 	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1708473600"
+		"tested_build_id" "13404706"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
 		"library_logo" "en"
-		"library_header" "en"
+		"library_header" "en,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -33,7 +79,7 @@
 			"height_pct" "32.77311080214734"
 		}
 	}
-	"store_asset_mtime" "1707058382"
+	"store_asset_mtime" "1708612040"
 	"associations"
 	{
 		"0"
@@ -72,6 +118,12 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1707107642"
 	"community_visible_stats" "1"
@@ -89,8 +141,8 @@
 		"7" "492"
 		"8" "4182"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -132,9 +184,9 @@
 		{
 			"public"
 			{
-				"gid" "2216761567668948014"
-				"size" "220694584"
-				"download" "179684864"
+				"gid" "3802582284052887759"
+				"size" "229893112"
+				"download" "189009600"
 			}
 		}
 	}
@@ -158,8 +210,8 @@
 	{
 		"public"
 		{
-			"buildid" "13404706"
-			"timeupdated" "1707403436"
+			"buildid" "13542651"
+			"timeupdated" "1708689598"
 		}
 	}
 }
@@ -178,6 +230,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22289534"
-"_sha" "4a3d553a64a6fe32fe7322411ca116e612fc3e93"
-"_size" "2865"
+"_change_number" "22473508"
+"_sha" "72347ad056278e70662681840f70a559dacae53f"
+"_size" "4152"
