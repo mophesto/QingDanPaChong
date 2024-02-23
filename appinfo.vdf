@@ -6,9 +6,9 @@
 	"releasestate" "released"
 	"oslist" "windows"
 	"osarch" "64"
-	"clienticon" "2bcb93f94f7dab509ccdbf0ca051a51fc31bbabb"
-	"clienttga" "e61711419b5d6157df4a2d2da2aa35cd8246f2d1"
-	"icon" "747bd7665d53639784cbbf3730162d72fdc05e61"
+	"clienticon" "d866d853b9ac2a55dec7ca861797e54d72d8aec5"
+	"clienttga" "78526dd1bb2060d44ef6e23ab7fce2401690c706"
+	"icon" "ed2df8e3157c3fe9b62d0b72bdcd20d4e674be32"
 	"logo" "a34d9d7c45963a4d184d870db42b5370e353784f"
 	"logo_small" "a34d9d7c45963a4d184d870db42b5370e353784f_thumb"
 	"steam_deck_compatibility"
@@ -86,12 +86,12 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "The Meta"
+			"name" "KovaaK Games"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "The Meta"
+			"name" "KovaaK Games"
 		}
 	}
 	"primary_genre" "1"
@@ -140,8 +140,8 @@
 }
 "extended"
 {
-	"developer" "The Meta"
-	"publisher" "The Meta"
+	"developer" "KovaaK Games"
+	"publisher" "KovaaK Games"
 	"homepage" "https://kovaaks.com/"
 	"listofdlc" "1438210"
 	"dlcavailableonstore" "1"
@@ -196,9 +196,9 @@
 		{
 			"public"
 			{
-				"gid" "8469599415877031733"
-				"size" "6589785072"
-				"download" "2164287136"
+				"gid" "5960300693816887466"
+				"size" "7453850470"
+				"download" "2346390608"
 			}
 			"2.0.5.3"
 			{
@@ -220,9 +220,9 @@
 			}
 			"beta"
 			{
-				"gid" "8469599415877031733"
-				"size" "6589785072"
-				"download" "2164287136"
+				"gid" "5960300693816887466"
+				"size" "7453850470"
+				"download" "2346390608"
 			}
 		}
 		"encryptedmanifests"
@@ -271,9 +271,15 @@
 			}
 			"beta02"
 			{
-				"gid" "B2B46E4404EB5621C031CB4E8E9BE8DE"
-				"size" "E68E2917AE56F7BC30F2738B994CBDCB"
-				"download" "1E1EA1C3477CAC961AD481C708D1F997"
+				"gid" "D1F9C5A3F38E49D0DB62804B792F3452"
+				"size" "4809B2C294F190F612ADC6DEFA5E0820"
+				"download" "1E56AA7D36ACFF06346EDE446BB9ADF1"
+			}
+			"beta03"
+			{
+				"gid" "58AB77585D33EB47EE601E629B1601C0"
+				"size" "8DB28483B59333629B0CF40DB2686FD5"
+				"download" "0AC6FACBB24E47186EFA6B5661139AA9"
 			}
 			"experiments"
 			{
@@ -289,15 +295,15 @@
 			}
 			"privbeta"
 			{
-				"gid" "9FC434D19307ACF0740DD5C0F6A95A8E"
-				"size" "725BEAF6E5894C4235676B0E0B89568E"
-				"download" "C683113F3426544CB3936FF5EE3DCA56"
+				"gid" "9A1437176BF886E710C23E66DD065BF5"
+				"size" "3E6DFE5FB2E3E4191BFF435F95FF9731"
+				"download" "A11D440803FFAF43B237686A6F3FE9F8"
 			}
 			"themeta"
 			{
-				"gid" "12EF33759F6190556B8A15B362280251"
-				"size" "B553B68B01C31C196D14815FA254650A"
-				"download" "340D1EC344EA50D703D7C878368D1A63"
+				"gid" "9A07FDDA740592E212624E3D683D5308"
+				"size" "3D8E3C782BDC0B78DA656B295AC99717"
+				"download" "F9814B51E5E1538EBD7186B9B8400AB2"
 			}
 		}
 	}
@@ -324,8 +330,8 @@
 	{
 		"public"
 		{
-			"buildid" "12368570"
-			"timeupdated" "1697050301"
+			"buildid" "13535114"
+			"timeupdated" "1708631740"
 		}
 		"2.0.0.2"
 		{
@@ -389,15 +395,21 @@
 		}
 		"beta"
 		{
-			"buildid" "12368570"
+			"buildid" "13535114"
 			"description" "Public Beta Branch"
-			"timeupdated" "1696609641"
+			"timeupdated" "1708630499"
 		}
 		"beta02"
 		{
-			"buildid" "13377130"
+			"buildid" "13535114"
 			"pwdrequired" "1"
-			"timeupdated" "1707232521"
+			"timeupdated" "1708630505"
+		}
+		"beta03"
+		{
+			"buildid" "13511287"
+			"pwdrequired" "1"
+			"timeupdated" "1708627988"
 		}
 		"experiments"
 		{
@@ -413,15 +425,15 @@
 		}
 		"privbeta"
 		{
-			"buildid" "12368570"
+			"buildid" "13535114"
 			"pwdrequired" "1"
-			"timeupdated" "1696542325"
+			"timeupdated" "1708630512"
 		}
 		"themeta"
 		{
-			"buildid" "13377130"
+			"buildid" "13535114"
 			"pwdrequired" "1"
-			"timeupdated" "1707194688"
+			"timeupdated" "1708630518"
 		}
 	}
 }
@@ -431,6 +443,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "22228553"
-"_sha" "38a0ca25a8d348803f686603555c4a427fcff5e3"
-"_size" "8513"
+"_change_number" "22463677"
+"_sha" "59ee1b86de65f4b0ed624f2e5280e2a1af950a2b"
+"_size" "8804"
