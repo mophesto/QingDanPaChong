@@ -16,9 +16,6 @@
 		"1" "2"
 		"2" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -90,7 +87,6 @@
 		"1" "25"
 		"2" "23"
 		"3" "28"
-		"4" "70"
 	}
 	"category"
 	{
@@ -192,7 +188,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1677175200"
+	"steam_release_date" "1708624854"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1326470"
@@ -252,24 +248,30 @@
 		{
 			"public"
 			{
-				"gid" "2379829752359338708"
-				"size" "16445334546"
-				"download" "10577638256"
+				"gid" "5129426841580630096"
+				"size" "15960166751"
+				"download" "10519224672"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta_testing"
 			{
-				"gid" "7AB4327A7C97D45894C387E74DC69A84"
-				"size" "BA00075CEA7CA4840E75E137D1D28607"
-				"download" "E2DE68CF279EE9A2961012114F4F52FC"
+				"gid" "87B655F29F11CC05DC33136C0D819820"
+				"size" "5264C2F7D3BCF1FD197402CB9A5B5A85"
+				"download" "3C3111DAA6134BDDD903E7EB4C28F485"
 			}
 			"bursttestbranch"
 			{
 				"gid" "5CDFBA0940DF08184E73499BBCB4FB86"
 				"size" "F3CE613990720C49146D9DDB1BF78A9B"
 				"download" "E42378DF54A2ECFED804D6CFFAD9CBB4"
+			}
+			"firstpatch"
+			{
+				"gid" "A99F20C7A6D9714EF891664488CEE005"
+				"size" "3AA85180D535CE6C801EACF9EFE7278F"
+				"download" "E201EA97AABC3391D84732D4558B0F8E"
 			}
 			"previousbuild"
 			{
@@ -295,20 +297,26 @@
 	{
 		"public"
 		{
-			"buildid" "12931798"
-			"timeupdated" "1702326082"
+			"buildid" "13534097"
+			"timeupdated" "1708624757"
 		}
 		"beta_testing"
 		{
-			"buildid" "13428795"
+			"buildid" "13534097"
 			"pwdrequired" "1"
-			"timeupdated" "1707688871"
+			"timeupdated" "1708623492"
 		}
 		"bursttestbranch"
 		{
 			"buildid" "11212343"
 			"pwdrequired" "1"
 			"timeupdated" "1685644814"
+		}
+		"firstpatch"
+		{
+			"buildid" "10622315"
+			"pwdrequired" "1"
+			"timeupdated" "1708578357"
 		}
 		"previousbuild"
 		{
@@ -350,6 +358,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22301105"
-"_sha" "b029a5b8c7d2aee25a519b8632bcd14def0a3db4"
-"_size" "6291"
+"_change_number" "22462265"
+"_sha" "e029ea428ecbabdd00ab8b6ca597bd73af26bd1d"
+"_size" "6467"
