@@ -186,8 +186,8 @@
 		"0" "1662"
 		"1" "1100689"
 		"2" "7332"
-		"3" "3843"
-		"4" "3859"
+		"3" "3859"
+		"4" "3843"
 		"5" "1702"
 		"6" "3834"
 		"7" "1695"
@@ -272,30 +272,30 @@
 		{
 			"public"
 			{
-				"gid" "7653376967924029733"
-				"size" "75933745344"
-				"download" "31992593456"
+				"gid" "8429242861103954178"
+				"size" "77038688489"
+				"download" "32376901808"
 			}
 			"experimental"
 			{
-				"gid" "7653376967924029733"
-				"size" "75933745344"
-				"download" "31992593456"
+				"gid" "8429242861103954178"
+				"size" "77038688489"
+				"download" "32376901808"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"batteries"
 			{
-				"gid" "73C2EA25DB2093F520B14DD028995C60"
-				"size" "FCAD92F3D5E5A634877E42BDC4909F3B"
-				"download" "0B50669C179F6A922D229BB602A3CE60"
+				"gid" "A6D6CD3875F26EC36213AFD6C5515960"
+				"size" "356C6DC83DA01A64E885C2129F2E8B21"
+				"download" "FF6DBD2B776717420C0AA07FADBC629C"
 			}
 			"internaltest"
 			{
-				"gid" "6FAE884B23E661B59228388BDE1BC8AC"
-				"size" "210EB348BBC7E1502BAAE427F4ADC4F0"
-				"download" "3A2579167213842F6EC3E1A1118F4620"
+				"gid" "D42F16613B616E09CD63C245BF1D7644"
+				"size" "C3840B0D0788743874993C74E5720BAC"
+				"download" "CA7EF772C72B32A4CB5E4687C9B5E63A"
 			}
 			"veterans"
 			{
@@ -309,26 +309,26 @@
 	{
 		"public"
 		{
-			"buildid" "13429905"
-			"timeupdated" "1708040622"
+			"buildid" "13513509"
+			"timeupdated" "1708643289"
 		}
 		"batteries"
 		{
-			"buildid" "13461006"
+			"buildid" "13495631"
 			"pwdrequired" "1"
-			"timeupdated" "1707985106"
+			"timeupdated" "1708395976"
 		}
 		"experimental"
 		{
-			"buildid" "13429905"
+			"buildid" "13513509"
 			"description" "Predeployment Testing"
-			"timeupdated" "1707708495"
+			"timeupdated" "1708477259"
 		}
 		"internaltest"
 		{
-			"buildid" "13429905"
+			"buildid" "13513509"
 			"pwdrequired" "1"
-			"timeupdated" "1707708126"
+			"timeupdated" "1708473539"
 		}
 		"veterans"
 		{
@@ -406,6 +406,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22365802"
-"_sha" "533a162bde6e83af1aed298bc074cb527dbf7f20"
+"_change_number" "22465854"
+"_sha" "9c65ba7192b8028972f002cefe2f94a76082b5a4"
 "_size" "7567"
