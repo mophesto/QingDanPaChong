@@ -182,6 +182,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1699977240"
 	"metacritic_score" "87"
@@ -273,24 +278,24 @@
 		{
 			"public"
 			{
-				"gid" "5259098993914338379"
-				"size" "1550196752"
-				"download" "1173121968"
+				"gid" "2977273852588856609"
+				"size" "1550299602"
+				"download" "1173131344"
 			}
 			"public.beta"
 			{
-				"gid" "5259098993914338379"
-				"size" "1550196752"
-				"download" "1173121968"
+				"gid" "2977273852588856609"
+				"size" "1550299602"
+				"download" "1173131344"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"chowdren"
 			{
-				"gid" "61DB92A456A0C95669FB0F89CAD0E949"
-				"size" "142A9F8949BAA965EF4BA53B37BAC6E8"
-				"download" "092C123E533741E341AB3240EDCBED62"
+				"gid" "1D36B1F54ABB499059506CDF6D7A7604"
+				"size" "BE44A161FABB91ECCB0E1F025A22A837"
+				"download" "A9FB93927320CC9133DDF239CD0DE09A"
 			}
 			"closed.beta"
 			{
@@ -310,24 +315,24 @@
 		{
 			"public"
 			{
-				"gid" "757327584917920494"
-				"size" "1524028035"
-				"download" "1191561744"
+				"gid" "9051507724684059665"
+				"size" "1524136005"
+				"download" "1191566528"
 			}
 			"public.beta"
 			{
-				"gid" "757327584917920494"
-				"size" "1524028035"
-				"download" "1191561744"
+				"gid" "9051507724684059665"
+				"size" "1524136005"
+				"download" "1191566528"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"chowdren"
 			{
-				"gid" "48734CA995964335893508DF867FDA5F"
-				"size" "23E1CE36A49E30D474BC5BA50A4D154C"
-				"download" "B838A761E80A9D79E6EF504687863189"
+				"gid" "3C4171FB122D0013CC57A7E54588D930"
+				"size" "8CF1D8653743E0708921BC6AFD0D8699"
+				"download" "2683AAB15CB905B6128520AB4CDD6A2E"
 			}
 			"closed.beta"
 			{
@@ -347,24 +352,24 @@
 		{
 			"public"
 			{
-				"gid" "8009977609974277088"
-				"size" "1746351008"
-				"download" "1215055200"
+				"gid" "920010177453716843"
+				"size" "1746386514"
+				"download" "1215351232"
 			}
 			"public.beta"
 			{
-				"gid" "8009977609974277088"
-				"size" "1746351008"
-				"download" "1215055200"
+				"gid" "920010177453716843"
+				"size" "1746386514"
+				"download" "1215351232"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"chowdren"
 			{
-				"gid" "9499D9C81468EC6FC442CA0D9B7EA449"
-				"size" "D5F4A519FCFF1A11910D6E43EE0D3956"
-				"download" "DC7DC9EF7EE2FB3499AF007D7C3B6A83"
+				"gid" "95412372586FD66F426BD78BCA7CB312"
+				"size" "DCB41581F32806628787717EFDEEF7C0"
+				"download" "408D9725088945CE9B2CEF19961928C1"
 			}
 			"closed.beta"
 			{
@@ -378,26 +383,26 @@
 	{
 		"public"
 		{
-			"buildid" "13511174"
-			"timeupdated" "1708506115"
+			"buildid" "13535128"
+			"timeupdated" "1708633753"
 		}
 		"chowdren"
 		{
-			"buildid" "13517865"
+			"buildid" "13535128"
 			"pwdrequired" "1"
-			"timeupdated" "1708510257"
+			"timeupdated" "1708630580"
 		}
 		"closed.beta"
 		{
 			"buildid" "13517865"
 			"pwdrequired" "1"
-			"timeupdated" "1708523518"
+			"timeupdated" "1708633713"
 		}
 		"public.beta"
 		{
-			"buildid" "13511174"
+			"buildid" "13535128"
 			"description" "unstable versions"
-			"timeupdated" "1708506088"
+			"timeupdated" "1708633722"
 		}
 	}
 }
@@ -436,6 +441,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22440974"
-"_sha" "d9dcf8c1f47573a2affabad8172a3123fbfe6888"
-"_size" "8219"
+"_change_number" "22464230"
+"_sha" "d62bbb844e3bb386271cf2651a7da2f37af1f4cd"
+"_size" "8293"
