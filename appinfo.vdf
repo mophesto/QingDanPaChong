@@ -168,6 +168,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1701910823"
 	"community_visible_stats" "1"
@@ -223,9 +228,9 @@
 		{
 			"public"
 			{
-				"gid" "2466934428825981322"
+				"gid" "4031723726482031929"
 				"size" "7611040973"
-				"download" "3857867344"
+				"download" "3857867376"
 			}
 		}
 	}
@@ -233,8 +238,8 @@
 	{
 		"public"
 		{
-			"buildid" "13513925"
-			"timeupdated" "1708477505"
+			"buildid" "13537770"
+			"timeupdated" "1708651451"
 		}
 	}
 }
@@ -265,6 +270,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22432553"
-"_sha" "4eb4b64b639e28f6d1e3a96a0fd5c288a6495ccf"
-"_size" "4727"
+"_change_number" "22467274"
+"_sha" "691e2987cf43f77ce96889f6e8c44f4ae2ab90a4"
+"_size" "4801"
