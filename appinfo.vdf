@@ -37,7 +37,7 @@
 		"0"
 		{
 			"executable" "rust.exe"
-			"arguments" "-logfile output_log.txt -disable-gpu-skinning"
+			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning"
 			"type" "default"
 			"config"
 			{
@@ -52,7 +52,7 @@
 		"1"
 		{
 			"executable" "./rust.app"
-			"arguments" "-logfile output_log.txt -disable-gpu-skinning --normal-rendering"
+			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning --normal-rendering"
 			"type" "default"
 			"config"
 			{
@@ -67,7 +67,7 @@
 		"2"
 		{
 			"executable" "rust"
-			"arguments" "-logfile output_log.txt -disable-gpu-skinning"
+			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning"
 			"type" "default"
 			"config"
 			{
@@ -89,9 +89,9 @@
 		{
 			"public"
 			{
-				"gid" "2156178218972252020"
-				"size" "29005886075"
-				"download" "17274248416"
+				"gid" "5080613562372887405"
+				"size" "29257704066"
+				"download" "17477144400"
 			}
 			"2021.3.29"
 			{
@@ -119,9 +119,9 @@
 			}
 			"main"
 			{
-				"gid" "2156178218972252020"
-				"size" "29005886075"
-				"download" "17274248416"
+				"gid" "5080613562372887405"
+				"size" "29257704066"
+				"download" "17477144400"
 			}
 		}
 		"encryptedmanifests"
@@ -170,9 +170,9 @@
 			}
 			"debug"
 			{
-				"gid" "C9C758DB4CF8ADBD6A1E9934DE94462F"
-				"size" "BD381CD32976C9055BAEA86283FDEA7D"
-				"download" "949E3D145A6DAFE1434775DEE5387A16"
+				"gid" "F57E0CE8F70F71796B79E8C99600B25D"
+				"size" "D78CED2B341E451D422EC16C723927F9"
+				"download" "49060BA9E20C7460F8B66E7E3E00ABD0"
 			}
 			"demo"
 			{
@@ -247,9 +247,9 @@
 		{
 			"public"
 			{
-				"gid" "3866777260529023587"
-				"size" "778933857"
-				"download" "532894336"
+				"gid" "1567132833351953353"
+				"size" "780449474"
+				"download" "533201440"
 			}
 			"2021.3.29"
 			{
@@ -277,9 +277,9 @@
 			}
 			"main"
 			{
-				"gid" "3866777260529023587"
-				"size" "778933857"
-				"download" "532894336"
+				"gid" "1567132833351953353"
+				"size" "780449474"
+				"download" "533201440"
 			}
 		}
 		"encryptedmanifests"
@@ -328,9 +328,9 @@
 			}
 			"debug"
 			{
-				"gid" "A4FF1590BB60A2A32BBAAFFD55E3152B"
-				"size" "05B92D020C57C69BAFF21D99045EC8AE"
-				"download" "0DEF79EA7273D721E16F5E645BAF173A"
+				"gid" "D2062874320815A940D570EA0199E0BC"
+				"size" "5362D870F2FA02B37B5BBD0CC3989AE1"
+				"download" "6DC6805E572B8B1B27D16E61C4F9E127"
 			}
 			"demo"
 			{
@@ -405,9 +405,9 @@
 		{
 			"public"
 			{
-				"gid" "8673678161872900952"
-				"size" "4813992125"
-				"download" "1774722784"
+				"gid" "3641822977232951765"
+				"size" "5022412142"
+				"download" "1963372448"
 			}
 			"2021.3.29"
 			{
@@ -435,9 +435,9 @@
 			}
 			"main"
 			{
-				"gid" "8673678161872900952"
-				"size" "4813992125"
-				"download" "1774722784"
+				"gid" "3641822977232951765"
+				"size" "5022412142"
+				"download" "1963372448"
 			}
 		}
 		"encryptedmanifests"
@@ -486,9 +486,9 @@
 			}
 			"debug"
 			{
-				"gid" "FA409B0951AB851C8A236DC044032518"
-				"size" "523445AB0F8CD380253F7FB5A3815B00"
-				"download" "769F81590EA46E860026413D904CFFAA"
+				"gid" "B4218797781D8A9A674A6F27BA8A0AA5"
+				"size" "07B609F4AAD3D20E76A284EB243489EE"
+				"download" "2949928CBB8C0A531157A846862D15CC"
 			}
 			"demo"
 			{
@@ -714,8 +714,8 @@
 	{
 		"public"
 		{
-			"buildid" "13543593"
-			"timeupdated" "1708699415"
+			"buildid" "13562992"
+			"timeupdated" "1708953179"
 		}
 		"2021.3.29"
 		{
@@ -785,9 +785,9 @@
 		}
 		"debug"
 		{
-			"buildid" "13543618"
+			"buildid" "13563030"
 			"pwdrequired" "1"
-			"timeupdated" "1708694528"
+			"timeupdated" "1708942376"
 		}
 		"demo"
 		{
@@ -815,8 +815,8 @@
 		}
 		"main"
 		{
-			"buildid" "13543593"
-			"timeupdated" "1708694358"
+			"buildid" "13562992"
+			"timeupdated" "1708942169"
 		}
 		"media"
 		{
@@ -873,6 +873,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22475809"
-"_sha" "f082c6bfb6fa60fa561436eb8cf553c3ddab63d3"
-"_size" "20337"
+"_change_number" "22510972"
+"_sha" "cc8d3deb918a5cf8965cc140adf897e85ca1a1d2"
+"_size" "20373"
