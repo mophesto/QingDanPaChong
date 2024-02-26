@@ -297,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "7449189093908571530"
+				"gid" "1533928040655061754"
 				"size" "63820877042"
-				"download" "56626931552"
+				"download" "56626859920"
 			}
 		}
 		"encryptedmanifests"
@@ -318,33 +318,33 @@
 			}
 			"kws-internal-ser"
 			{
-				"gid" "6986ED227C3FC3E58763BE1139F8EE4E"
-				"size" "4E91C28B4CF572999553A479CF502653"
-				"download" "FBBFF0734B4BFBFCB0920BFE330D856A"
+				"gid" "31A227999BF3ECFA869AA49DAF7FDCF2"
+				"size" "03452526EF1BFC679D7E159659F33F45"
+				"download" "CDBFE83209A73F3CB4525E0E899F4738"
 			}
 			"kws-internal-sim"
 			{
-				"gid" "359094114305DDD5A35E8B38EA476787"
-				"size" "7E8F6D4A8458092C951C1A5CB4706E02"
-				"download" "F644D91572F31A8B19ABFC9AE0FA9A9D"
+				"gid" "F1D43B666E50F96BA6059541AE1209D7"
+				"size" "84D149E14FE41829FE6D99E5ACC04399"
+				"download" "9A953C7F7A7DFA7E4E19CA260F12B7C0"
 			}
 			"kws-preview-ser"
 			{
-				"gid" "2B9EC71373878E57D789F5AD829C6908"
-				"size" "2CEE7AB706DEA8FE46330455F6AF9E8C"
-				"download" "B9D6D30660379A844C815449C3FE5280"
+				"gid" "A9341CED02875C6AB14C1A269C5F2ECA"
+				"size" "FE832346E0B99F335D3A3BC75E733A14"
+				"download" "65621EC6DA5BC7392959CB88ADAF8CCE"
 			}
 			"kws-preview-sim"
 			{
-				"gid" "1D606BCD4744BDECC2A3BAFF55136A25"
-				"size" "C81844C6B5072D821AFCE66A14ABE882"
-				"download" "C9EC1AAF396E0FBF8AE3BD18C504E8D1"
+				"gid" "2B74C2CF21FF2913470FE4FBFF88BFB0"
+				"size" "0C1C043292B98319D272B30F4D540ECD"
+				"download" "8C79BE859EFBAE2A4C425CE1862AEB0E"
 			}
 			"livepreview"
 			{
-				"gid" "7CA888DDF2BE2D9009D6143C8C909776"
-				"size" "EC46CEDC539A978AFF27B288FD283B45"
-				"download" "5AA73B2BF3BB2BEC23DCA81D8C321F52"
+				"gid" "4B42D3E2DD0212DC38CEC8D77CC33024"
+				"size" "DEA6F05D1B88F16F0FCB9449DFFD4208"
+				"download" "453CFBB38301CD66D8656BE73657912E"
 			}
 			"p.i.2024"
 			{
@@ -360,9 +360,9 @@
 			}
 			"staging"
 			{
-				"gid" "812CD6D28D8A1F90F8598F077709308E"
+				"gid" "AE40A48BF98873155C4A4CDA22745029"
 				"size" "143ABF244936A33D91578D00E92F2067"
-				"download" "B0D07B5A3C3082CE4780345D6BB15C46"
+				"download" "90BE43A1F865C7035EF6705E5D5481F2"
 			}
 		}
 	}
@@ -371,8 +371,8 @@
 	{
 		"public"
 		{
-			"buildid" "13432664"
-			"timeupdated" "1707745143"
+			"buildid" "13565982"
+			"timeupdated" "1708963937"
 		}
 		"kws-external-ser"
 		{
@@ -388,33 +388,33 @@
 		}
 		"kws-internal-ser"
 		{
-			"buildid" "13285443"
+			"buildid" "13505194"
 			"pwdrequired" "1"
-			"timeupdated" "1706298763"
+			"timeupdated" "1708416926"
 		}
 		"kws-internal-sim"
 		{
-			"buildid" "13285791"
+			"buildid" "13505142"
 			"pwdrequired" "1"
-			"timeupdated" "1706300464"
+			"timeupdated" "1708416613"
 		}
 		"kws-preview-ser"
 		{
-			"buildid" "13285443"
+			"buildid" "13505194"
 			"pwdrequired" "1"
-			"timeupdated" "1706299685"
+			"timeupdated" "1708416937"
 		}
 		"kws-preview-sim"
 		{
-			"buildid" "13285791"
+			"buildid" "13505142"
 			"pwdrequired" "1"
-			"timeupdated" "1706300475"
+			"timeupdated" "1708416625"
 		}
 		"livepreview"
 		{
-			"buildid" "13347925"
+			"buildid" "13565982"
 			"pwdrequired" "1"
-			"timeupdated" "1706893514"
+			"timeupdated" "1708963955"
 		}
 		"p.i.2024"
 		{
@@ -430,9 +430,9 @@
 		}
 		"staging"
 		{
-			"buildid" "13432664"
+			"buildid" "13565982"
 			"pwdrequired" "1"
-			"timeupdated" "1707739810"
+			"timeupdated" "1708963589"
 		}
 	}
 }
@@ -442,6 +442,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "22309100"
-"_sha" "9ba8c322270cfebba8bff68c9c594977fcbdae1e"
+"_change_number" "22511673"
+"_sha" "76d829127893bb74dc11ac3e976d1c591d6bb312"
 "_size" "8735"
