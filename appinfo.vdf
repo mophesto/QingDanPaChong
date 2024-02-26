@@ -306,7 +306,7 @@
 		"0"
 		{
 			"executable" "rust.exe"
-			"arguments" "-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" -graphics.dlss 1- \" -graphics.dlss 1-\""
+			"arguments" "-logfile \"output_log.txt\" -timestamps -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" -graphics.dlss 1- \" -graphics.dlss 1-\""
 			"type" "default"
 			"config"
 			{
@@ -321,7 +321,7 @@
 		"1"
 		{
 			"executable" "./rust.app"
-			"arguments" "-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" -graphics.dlss 1-"
+			"arguments" "-logfile \"output_log.txt\" -timestamps -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" -graphics.dlss 1-"
 			"type" "default"
 			"config"
 			{
@@ -336,7 +336,7 @@
 		"2"
 		{
 			"executable" "rust"
-			"arguments" "-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" \"-graphics.dlss -1\" -graphics.dlss 1-"
+			"arguments" "-logfile \"output_log.txt\" -timestamps -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" \"-graphics.dlss -1\" -graphics.dlss 1-"
 			"type" "default"
 			"config"
 			{
@@ -351,7 +351,7 @@
 		"3"
 		{
 			"executable" "rust.exe"
-			"arguments" "-logfile \"output_log.txt\""
+			"arguments" "-logfile \"output_log.txt\" -timestamps"
 			"type" "option1"
 			"config"
 			{
@@ -367,7 +367,7 @@
 		"4"
 		{
 			"executable" "./rust.app"
-			"arguments" "-logfile \"output_log.txt\""
+			"arguments" "-logfile \"output_log.txt\" -timestamps"
 			"type" "option1"
 			"config"
 			{
@@ -383,7 +383,7 @@
 		"5"
 		{
 			"executable" "rust"
-			"arguments" "-logfile \"output_log.txt\""
+			"arguments" "-logfile \"output_log.txt\" -timestamps"
 			"type" "option1"
 			"config"
 			{
@@ -445,9 +445,9 @@
 		{
 			"public"
 			{
-				"gid" "3752764657717198624"
+				"gid" "5365806023481877465"
 				"size" "28822961963"
-				"download" "17163429008"
+				"download" "17163427440"
 			}
 			"last-last-month"
 			{
@@ -472,15 +472,15 @@
 			}
 			"release"
 			{
-				"gid" "1FBAFBC0086D31475FF2082E8E1FAB89"
+				"gid" "4B7B53BCB5477AF2007C1C287B8791A2"
 				"size" "D00F47D775CB46D6D04C758EE7024BEA"
-				"download" "BD94E2D9B55391DE38759D940A5E19E3"
+				"download" "D28631A0A083E428DE5B2227F92D056F"
 			}
 			"release-debug"
 			{
-				"gid" "9C0F73DAE771318314A3EF59C9D82CD6"
+				"gid" "903A57203EC6BDA29C498308EC8CFA59"
 				"size" "DF50A091581A5E795F450389EE18A0B8"
-				"download" "ADACEC896531EEFF16D0D9C1870BE54B"
+				"download" "C1B4AF2530421B0A9F2A175F4C5DF469"
 			}
 			"test"
 			{
@@ -513,9 +513,9 @@
 		{
 			"public"
 			{
-				"gid" "562687210070072246"
-				"size" "4656865333"
-				"download" "1704961328"
+				"gid" "2360865700090942696"
+				"size" "4656937917"
+				"download" "1705013216"
 			}
 			"last-last-month"
 			{
@@ -540,15 +540,15 @@
 			}
 			"release"
 			{
-				"gid" "9C21FE160396600BD4CBC1CF936A4706"
-				"size" "02F1DDF4493C23A7D99E443E6DD2F631"
-				"download" "B53D9CDC1144A18A977A828867445452"
+				"gid" "40EDFA3D1BB2DBDBBA464BF112D36DA4"
+				"size" "8C84E1ADD81DB8DC7CD41C35F5E18B3C"
+				"download" "59C46C85F3B0F9CE2391B9411932ADFF"
 			}
 			"release-debug"
 			{
-				"gid" "23481B4945A89CDA8ED297561E513923"
-				"size" "6D52A311F1B829504F37F1C75C0AAE2F"
-				"download" "F590AC73CE3A24C0A081BA3710E74187"
+				"gid" "059B7C7A55F2BF8C2451406C0DB5B3CD"
+				"size" "E6A6950A53C97FC357808F0B3C688EF8"
+				"download" "01EB0DFF1B1B831B4C4E501C38C91DB3"
 			}
 			"test"
 			{
@@ -582,9 +582,9 @@
 		{
 			"public"
 			{
-				"gid" "5381016656305897694"
-				"size" "717578422"
-				"download" "520704640"
+				"gid" "4380970296844531494"
+				"size" "717569762"
+				"download" "520711184"
 			}
 			"last-last-month"
 			{
@@ -609,15 +609,15 @@
 			}
 			"release"
 			{
-				"gid" "9F7D231B941851B8FDBD3FE5A54A519E"
-				"size" "7B2B1C923BAD7285F3B5BB3C6C071B5C"
-				"download" "0428753714E57F5D29B1D806DAFD8981"
+				"gid" "7894B7E5C90BBC877D076444B887FFDC"
+				"size" "D6099A19F45C5EEBA530CEBB91039446"
+				"download" "64BC39E717F0F7A78EEB3E4FF9D76E60"
 			}
 			"release-debug"
 			{
-				"gid" "B34D2B407121AB02E6DE259C4232F8B8"
-				"size" "D7450E297F189C17AE87F50991D0FDD1"
-				"download" "A6E92A0D7A57A48D56352A28186BF004"
+				"gid" "309AE53590E3A6F472DC9E501599A374"
+				"size" "EB85E98B766AE00BD636BE4B8E4DC55D"
+				"download" "7E0BCAF83395791623ED55C0F696AD0C"
 			}
 			"test"
 			{
@@ -643,8 +643,8 @@
 	{
 		"public"
 		{
-			"buildid" "13521684"
-			"timeupdated" "1708593278"
+			"buildid" "13544764"
+			"timeupdated" "1708953324"
 		}
 		"debug"
 		{
@@ -666,15 +666,15 @@
 		}
 		"release"
 		{
-			"buildid" "13521684"
+			"buildid" "13544764"
 			"pwdrequired" "1"
-			"timeupdated" "1708533335"
+			"timeupdated" "1708701172"
 		}
 		"release-debug"
 		{
-			"buildid" "13521744"
+			"buildid" "13544789"
 			"pwdrequired" "1"
-			"timeupdated" "1708533677"
+			"timeupdated" "1708701270"
 		}
 		"test"
 		{
@@ -726,6 +726,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22460783"
-"_sha" "8f5bed2779cc7f5fd92ba304671b929039030beb"
-"_size" "14259"
+"_change_number" "22510929"
+"_sha" "7668f1bf39b42973ea042dcead5d52401287490d"
+"_size" "14332"
