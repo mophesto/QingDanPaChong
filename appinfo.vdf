@@ -50,7 +50,7 @@
 		"2"
 		{
 			"executable" "PalServer.exe"
-			"arguments" "EpicApp=PalServer -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS -publiclobby"
+			"arguments" "-publiclobby -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS -publiclobby"
 			"description_loc"
 			{
 				"english" "Open and start as a community server"
@@ -132,24 +132,24 @@
 		{
 			"public"
 			{
-				"gid" "2032110484334272793"
-				"size" "2634868874"
-				"download" "1817069936"
+				"gid" "4044059633680626313"
+				"size" "2635066676"
+				"download" "1817169552"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"main_development"
 			{
-				"gid" "3E7D563816C6FE23F1E9CD626D81D799"
-				"size" "41AE83C1179FC70214D846BBE23D126D"
-				"download" "575C12598BEA62FEDFFDF0532F10A08C"
+				"gid" "6B80E1C35B17ECDBE412217CB460609B"
+				"size" "F175193F25DDED8CAA1877A31017F85D"
+				"download" "9AAEDD38817A06368B624811FB5D3A64"
 			}
 			"main_test"
 			{
-				"gid" "FA26CB226355E2A997E4B89C5E95EDE1"
-				"size" "FB22D71C796F3B00F2D97685773A5E43"
-				"download" "28F08E8E66C5833E96BB0A54F768F8A6"
+				"gid" "AE160232E9EA6E509E9C3FEF03948F5C"
+				"size" "EB62A010B0BB95533566334665D8DFBE"
+				"download" "B2B26843ACE002241C88B2BFD89D8A30"
 			}
 			"network_development"
 			{
@@ -165,9 +165,9 @@
 			}
 			"private_development"
 			{
-				"gid" "6DD75589171BBE4C2917D644232C2464"
-				"size" "3922F622EC081CE6F0001897D711F85B"
-				"download" "474C72C92B06B7093ECFE16BD775BB48"
+				"gid" "3AF1786914683AC4C53594AA93CAF8BA"
+				"size" "CA8B1A042F7C9D43E37A632A705312E0"
+				"download" "9FFF4B77B2FD649A9785E1D121D3A818"
 			}
 			"private_shipping"
 			{
@@ -177,9 +177,9 @@
 			}
 			"private_test"
 			{
-				"gid" "C6EA30B5B5D8D611DBF13FB2EAA752AB"
-				"size" "E817363261053BD4D5454579A8C90C92"
-				"download" "D615B2841A2DCADB9EFD8F2D1424B254"
+				"gid" "4E31B4E62CFDF900B77989C0A7C5D6A8"
+				"size" "2CC6F2F6F9E4E290F30E389ADA407D41"
+				"download" "5B78409CE9441752FED5CE6A85EC6D4B"
 			}
 			"qa_development"
 			{
@@ -206,24 +206,24 @@
 		{
 			"public"
 			{
-				"gid" "6370735655629434989"
-				"size" "2186586790"
-				"download" "1708360864"
+				"gid" "3750364703337203431"
+				"size" "2187203239"
+				"download" "1708528656"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"main_development"
 			{
-				"gid" "2A1441A76F5355616E58A5FD090D5944"
-				"size" "FEE1818FF1EFD01E4357B9552DBEC46C"
-				"download" "2F03D40AA6C89E48A115AA13ABBC24D1"
+				"gid" "48A9DC058B25008880E2F56736EBB024"
+				"size" "BFB4EA63D45099576CFFE7CBCBE35341"
+				"download" "561CA7B008442B1626796E0760E842D7"
 			}
 			"main_test"
 			{
-				"gid" "1EE19C7DF995064428852BA38CE28BCC"
-				"size" "7E32B0EFA1D88E8CF93B29CF98420399"
-				"download" "02EE6B081BCBE4FC5DAF9BA1AEB911B1"
+				"gid" "9AD265DD75A8CC4722D7EC34594F3988"
+				"size" "AD741828CEA140B961803ECA6137B62F"
+				"download" "F2EF01E84B7CACF3320C8214E356A330"
 			}
 			"network_development"
 			{
@@ -239,15 +239,15 @@
 			}
 			"private_development"
 			{
-				"gid" "ACEDB70E80999B0AA06C4EB0F6D96B7E"
-				"size" "35B804921376008FA0F20E1C54B4F894"
-				"download" "59E8645142B2D56F567EF5196655911D"
+				"gid" "2D439C93623A30A7B1B0866BF2A72D4A"
+				"size" "B8F5EE15CDA0CB3C0C868B845B2CBB4A"
+				"download" "1AD22B8CA966070D7F932E4F467E760A"
 			}
 			"private_test"
 			{
-				"gid" "3FD439DE96E81A32B071761D11986287"
-				"size" "2284439F3C0A1BF6D11386B767C181E7"
-				"download" "6F221D265D1AC1687234C2D9E9948B80"
+				"gid" "57E8170DE7169B10170F821ED4C856B8"
+				"size" "7D365B9772E66E5A4E1438BDD689CDDA"
+				"download" "F172160913E3CAA77C5FA343D33579F7"
 			}
 			"qa_development"
 			{
@@ -267,20 +267,20 @@
 	{
 		"public"
 		{
-			"buildid" "13378465"
-			"timeupdated" "1707274639"
+			"buildid" "13559230"
+			"timeupdated" "1709002789"
 		}
 		"main_development"
 		{
-			"buildid" "13400591"
+			"buildid" "13568039"
 			"pwdrequired" "1"
-			"timeupdated" "1707374139"
+			"timeupdated" "1708978789"
 		}
 		"main_test"
 		{
-			"buildid" "13400478"
+			"buildid" "13568069"
 			"pwdrequired" "1"
-			"timeupdated" "1707372814"
+			"timeupdated" "1708978956"
 		}
 		"network_development"
 		{
@@ -296,9 +296,9 @@
 		}
 		"private_development"
 		{
-			"buildid" "13390829"
+			"buildid" "13559245"
 			"pwdrequired" "1"
-			"timeupdated" "1707300505"
+			"timeupdated" "1708894234"
 		}
 		"private_shipping"
 		{
@@ -308,9 +308,9 @@
 		}
 		"private_test"
 		{
-			"buildid" "13390876"
+			"buildid" "13559230"
 			"pwdrequired" "1"
-			"timeupdated" "1707300739"
+			"timeupdated" "1708893915"
 		}
 		"qa_development"
 		{
@@ -327,6 +327,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22256580"
-"_sha" "c1e51204183de8888697152183b82ae430455278"
-"_size" "6836"
+"_change_number" "22519231"
+"_sha" "50e1bbb4b2c660b80239d240652ef252ad9dd302"
+"_size" "6831"
