@@ -143,7 +143,7 @@
 	"developer" "KovaaK Games"
 	"publisher" "KovaaK Games"
 	"homepage" "https://kovaaks.com/"
-	"listofdlc" "1438210"
+	"listofdlc" "1438210,2633870"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -196,21 +196,9 @@
 		{
 			"public"
 			{
-				"gid" "698599718458550428"
-				"size" "7402445610"
-				"download" "2341707328"
-			}
-			"2.0.5.3"
-			{
-				"gid" "7632521981541485173"
-				"size" "8426432022"
-				"download" "2819759600"
-			}
-			"2.0.6.4"
-			{
-				"gid" "8312043009019571655"
-				"size" "5255722101"
-				"download" "1724545616"
+				"gid" "333055874252957837"
+				"size" "7452966306"
+				"download" "2345984320"
 			}
 			"3.0.4"
 			{
@@ -218,11 +206,17 @@
 				"size" "6050879088"
 				"download" "2022817984"
 			}
+			"3.3.1"
+			{
+				"gid" "8469599415877031733"
+				"size" "6589785072"
+				"download" "2164287136"
+			}
 			"beta"
 			{
-				"gid" "698599718458550428"
-				"size" "7402445610"
-				"download" "2341707328"
+				"gid" "333055874252957837"
+				"size" "7452966306"
+				"download" "2345984320"
 			}
 		}
 		"encryptedmanifests"
@@ -271,9 +265,9 @@
 			}
 			"beta02"
 			{
-				"gid" "2CF2804CC5533FC944D285B6347CFB2A"
-				"size" "8A89EC1CA0BDA382874D83DC78E3D42E"
-				"download" "C22BE6B2D5743208DFA64D94F285000C"
+				"gid" "E9E2473B9107014D94BA6F7DF0C1BB6F"
+				"size" "87BE9CE45761A5EF7B2BC3C980BE850A"
+				"download" "455B887D641556F915F3D2269097EB19"
 			}
 			"beta03"
 			{
@@ -295,15 +289,15 @@
 			}
 			"privbeta"
 			{
-				"gid" "F13DABB2737679ED263412E09F4F69AF"
-				"size" "D3ED4DFD117847FCFC59920D7AE32020"
-				"download" "B461055CC86D2B9858FA30CB97E02C1E"
+				"gid" "9CCF78938FD257F0ED31A1C5D1D486F7"
+				"size" "2F7A3A0BC5590B9450A11AF375F7D611"
+				"download" "C9E14B0C0439F09790510FCB3A6210B8"
 			}
 			"themeta"
 			{
-				"gid" "2329C00BDC01A8D72E38B6E0E43FEDC1"
-				"size" "32558C917BD263624E65C0C370452154"
-				"download" "122CDAF08BD6FD427F177B70A6F4B75A"
+				"gid" "28E6489E19D94D1452D02C174158D02B"
+				"size" "53F59F1429F35727E9DF2031E28256B6"
+				"download" "8A3C054D0CCD9C748F4C052831424D77"
 			}
 		}
 	}
@@ -330,8 +324,8 @@
 	{
 		"public"
 		{
-			"buildid" "13545306"
-			"timeupdated" "1708704588"
+			"buildid" "13567178"
+			"timeupdated" "1708983647"
 		}
 		"2.0.0.2"
 		{
@@ -363,18 +357,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1621635771"
 		}
-		"2.0.5.3"
-		{
-			"buildid" "7127029"
-			"description" "Patch from Aug 2, 2021"
-			"timeupdated" "1631563698"
-		}
-		"2.0.6.4"
-		{
-			"buildid" "7749180"
-			"description" "Patch from Nov 20, 2021"
-			"timeupdated" "1638215841"
-		}
 		"2.8.8"
 		{
 			"buildid" "8377678"
@@ -393,17 +375,23 @@
 			"description" "Patch from May 24, 2022"
 			"timeupdated" "1660089679"
 		}
+		"3.3.1"
+		{
+			"buildid" "12368570"
+			"description" "Patch from Oct 5, 2023"
+			"timeupdated" "1708879941"
+		}
 		"beta"
 		{
-			"buildid" "13545306"
+			"buildid" "13567178"
 			"description" "Public Beta Branch"
-			"timeupdated" "1708704556"
+			"timeupdated" "1708972084"
 		}
 		"beta02"
 		{
-			"buildid" "13545306"
+			"buildid" "13567178"
 			"pwdrequired" "1"
-			"timeupdated" "1708704601"
+			"timeupdated" "1708972090"
 		}
 		"beta03"
 		{
@@ -425,15 +413,15 @@
 		}
 		"privbeta"
 		{
-			"buildid" "13545306"
+			"buildid" "13567178"
 			"pwdrequired" "1"
-			"timeupdated" "1708704547"
+			"timeupdated" "1708972097"
 		}
 		"themeta"
 		{
-			"buildid" "13545306"
+			"buildid" "13567178"
 			"pwdrequired" "1"
-			"timeupdated" "1708704395"
+			"timeupdated" "1708972104"
 		}
 	}
 }
@@ -443,6 +431,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "22477273"
-"_sha" "004a95d7312d6d4356fc300514cac84ed3356c14"
-"_size" "8802"
+"_change_number" "22516095"
+"_sha" "beaac6de4d3ddffe7ad18e9054abbf4f841b19f8"
+"_size" "8566"
