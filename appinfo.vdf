@@ -164,12 +164,14 @@
 		"19" "454187"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "82"
 }
 "extended"
 {
 	"developer" "FunYoo Games"
 	"publisher" "FunYoo Games"
+	"listofdlc" "2850340"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -258,24 +260,24 @@
 		{
 			"public"
 			{
-				"gid" "8858000124355989515"
-				"size" "12979741565"
-				"download" "4335092752"
+				"gid" "7606345837894552703"
+				"size" "13146196149"
+				"download" "4393947296"
 			}
 			"beta"
 			{
-				"gid" "8858000124355989515"
-				"size" "12979741565"
-				"download" "4335092752"
+				"gid" "7606345837894552703"
+				"size" "13146196149"
+				"download" "4393947296"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta_a"
 			{
-				"gid" "6EB691D766947FB7BDA642888290C8BD"
-				"size" "7BFFB656BE50A512B6B3097D12F2039F"
-				"download" "840B22C7490027462FD7E698995A326D"
+				"gid" "A70B05036FA02150FFA8BF488B43A0DD"
+				"size" "F64448DBDB950FD55A6325617A6ADEF5"
+				"download" "CD2EED55FEEF75E922F295980EFA15EA"
 			}
 		}
 	}
@@ -287,20 +289,20 @@
 		}
 		"public"
 		{
-			"buildid" "13515051"
-			"timeupdated" "1708490560"
+			"buildid" "13570819"
+			"timeupdated" "1709001730"
 		}
 		"beta"
 		{
-			"buildid" "13515051"
+			"buildid" "13570819"
 			"description" "测试"
-			"timeupdated" "1708490198"
+			"timeupdated" "1709001703"
 		}
 		"beta_a"
 		{
-			"buildid" "13516137"
+			"buildid" "13570819"
 			"pwdrequired" "1"
-			"timeupdated" "1708497879"
+			"timeupdated" "1709000420"
 		}
 	}
 	"hasdepotsindlc" "1"
@@ -322,6 +324,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22435618"
-"_sha" "2b91e685c253dc0612b07e21b11932a094e68322"
-"_size" "5600"
+"_change_number" "22521877"
+"_sha" "2c78fd161aa52fb6655104cabafc644cc1675959"
+"_size" "5654"
