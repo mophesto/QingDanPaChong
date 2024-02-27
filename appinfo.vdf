@@ -361,15 +361,15 @@
 		{
 			"public"
 			{
-				"gid" "4095152658054435067"
-				"size" "83527615119"
-				"download" "79321504688"
+				"gid" "2194110804418391464"
+				"size" "83527648511"
+				"download" "79321984432"
 			}
 			"public_test_realm"
 			{
-				"gid" "4095152658054435067"
-				"size" "83527615119"
-				"download" "79321504688"
+				"gid" "2194110804418391464"
+				"size" "83527648511"
+				"download" "79321984432"
 			}
 		}
 		"encryptedmanifests"
@@ -436,9 +436,9 @@
 			}
 			"nightraider"
 			{
-				"gid" "6D9257D4C9E433A6A8B42848B22C8B95"
-				"size" "7D7400361E3C21E417A8AA0582B59FBF"
-				"download" "D259A572D0B8697215E3C0653B8385CA"
+				"gid" "203B001CC5CD21939484BEA3D72D29C9"
+				"size" "B735B95C27AF44B5A65C756E1961CD1D"
+				"download" "C6BC40B5D82939D6246B86AB6E1AA9E0"
 			}
 			"nitradopc"
 			{
@@ -513,8 +513,8 @@
 	{
 		"public"
 		{
-			"buildid" "13564780"
-			"timeupdated" "1708981757"
+			"buildid" "13569650"
+			"timeupdated" "1708998645"
 		}
 		"arktx"
 		{
@@ -578,9 +578,9 @@
 		}
 		"nightraider"
 		{
-			"buildid" "13564780"
+			"buildid" "13569650"
 			"pwdrequired" "1"
-			"timeupdated" "1708981736"
+			"timeupdated" "1708998676"
 		}
 		"nitradopc"
 		{
@@ -608,9 +608,9 @@
 		}
 		"public_test_realm"
 		{
-			"buildid" "13564780"
+			"buildid" "13569650"
 			"description" "Try out the new stuff"
-			"timeupdated" "1708981724"
+			"timeupdated" "1708998662"
 		}
 		"qa_staging"
 		{
@@ -662,6 +662,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "22517272"
-"_sha" "329f6de5597b9431a6546ffc156c41be4e0f1114"
+"_change_number" "22518647"
+"_sha" "ed968c29144d729d6244ed2e7ea6a0a82b8f5cec"
 "_size" "13334"
