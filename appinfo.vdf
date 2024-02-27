@@ -1,7 +1,7 @@
 "appid" "2281410"
 "common"
 {
-	"name" "江城创业记"
+	"name" "江城创业记 River Town Factory"
 	"type" "Game"
 	"clienticon" "66ca659cf5f4a8dcc86d24027c40e0bb22f9cc77"
 	"clienttga" "6fa836ffc2e414b7b4f20264968eecef8a888308"
@@ -23,6 +23,10 @@
 		"english" "River Town Factory"
 		"schinese" "江城创业记"
 		"japanese" "江城のきぎょう物語"
+		"german" "Flussstadt Fabrik"
+		"brazilian" "Cidade Do Rio Fábrica"
+		"portuguese" "Cidade Do Rio Fábrica"
+		"russian" "Ривер Таун Фабрика"
 	}
 	"steam_deck_compatibility"
 	{
@@ -96,7 +100,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1707380734"
+	"store_asset_mtime" "1708335461"
 	"associations"
 	{
 		"0"
@@ -243,9 +247,9 @@
 		{
 			"public"
 			{
-				"gid" "2186669328784231534"
-				"size" "1308837458"
-				"download" "1030387248"
+				"gid" "7737853100912246447"
+				"size" "1309983326"
+				"download" "1030216384"
 			}
 		}
 		"encryptedmanifests"
@@ -258,18 +262,19 @@
 			}
 			"test_for_self"
 			{
-				"gid" "D0B71BC016A6C1AC0892016A84E3E1D7"
-				"size" "9E97F2FA6B788B8B15C73A7B8DFEC419"
-				"download" "A6D6CC67DA67BBE4A0F4295B60A00C4F"
+				"gid" "24065F15898296A40565C1152E05C4C2"
+				"size" "C65DF52C6EE82D93C81632A42F0BA9BC"
+				"download" "ED9B5F1E2F4E761B7DD60E15807EA7BD"
 			}
 		}
 	}
+	"workshopdepot" "2281410"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13489537"
-			"timeupdated" "1708265316"
+			"buildid" "13575065"
+			"timeupdated" "1709038121"
 		}
 		"mimi"
 		{
@@ -279,9 +284,9 @@
 		}
 		"test_for_self"
 		{
-			"buildid" "13489537"
+			"buildid" "13575065"
 			"pwdrequired" "1"
-			"timeupdated" "1708263101"
+			"timeupdated" "1709034150"
 		}
 	}
 }
@@ -300,6 +305,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22396449"
-"_sha" "7585d9ddd0bbdf7f9c22c490d297fa34abd01247"
-"_size" "5535"
+"_change_number" "22525580"
+"_sha" "053d5b0dd7eb630d154d82af670ea8faf11dcc67"
+"_size" "5750"
