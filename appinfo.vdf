@@ -267,8 +267,8 @@
 		"5" "4175"
 		"6" "21"
 		"7" "599"
-		"8" "3834"
-		"9" "1773"
+		"8" "1773"
+		"9" "3834"
 		"10" "3839"
 		"11" "4166"
 		"12" "701"
@@ -288,7 +288,7 @@
 	"developer" "Playground Games"
 	"publisher" "Xbox Game Studios"
 	"homepage" "http://www.forzamotorsport.net"
-	"listofdlc" "1613280,1613281,1613282,1613283,1613284,1613285,1648020,1764060,1764061,1764062,1764063,1798680,1812150,1812151,1812152,1812153,1824140,1824141,1824142,1824143,1846790,1846791,1846792,1852790,1890180,1890181,1890182,1890183,1919260,1919261,1919262,1919263,1949470,1949471,1949472,1949473,1949474,1949475,1949476,1949477,2013600,2013620,2013621,2111240,2440490,2507010,2614920,2638820,2676380,2738880"
+	"listofdlc" "1613280,1613281,1613282,1613283,1613284,1613285,1648020,1764060,1764061,1764062,1764063,1798680,1812150,1812151,1812152,1812153,1824140,1824141,1824142,1824143,1846790,1846791,1846792,1852790,1890180,1890181,1890182,1890183,1919260,1919261,1919262,1919263,1949470,1949471,1949472,1949473,1949474,1949475,1949476,1949477,2013600,2013620,2013621,2111240,2440490,2507010,2614920,2638820,2676380,2738880,2814020"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -385,9 +385,9 @@
 		{
 			"public"
 			{
-				"gid" "8894733964145128940"
-				"size" "151734049045"
-				"download" "141188586032"
+				"gid" "3756148971092558982"
+				"size" "152327819974"
+				"download" "141787679904"
 			}
 		}
 		"encryptedmanifests"
@@ -412,27 +412,27 @@
 			}
 			"mainlinecert"
 			{
-				"gid" "AE809F20E7B73483796E35BD41FBC0B8"
-				"size" "515AB7C718DF23E6504FF4711F25C23B"
-				"download" "AF60FFBB081D44ACA23788B82F8448F2"
+				"gid" "0114DA97252DB044FB85FFC7C5E550BD"
+				"size" "834B4534B3AF670F57135CFC9C539B52"
+				"download" "8286D9C2B753030265F722E9625586C4"
 			}
 			"mainlineinstall"
 			{
-				"gid" "1DCD367EEBC2481CFB2B0696D0EC71EB"
-				"size" "049F69BF3441AEF58DD7193DE5ED026E"
-				"download" "34C0BB1F491A9D2B692705816573E51A"
+				"gid" "A4F2CC1FD7AE162B9C493A15F17D699B"
+				"size" "FBCBC5510A795A2209C59FD85D13D8A4"
+				"download" "E04930DC26267C5909B6A0275D59DBDA"
 			}
 			"rccert"
 			{
-				"gid" "D31204AE1584F0E6A3F0EE39A2FB939B"
-				"size" "5879059C108CC13A0E110ED1FAD85658"
-				"download" "D9789CDF9AE74FF69648D429B5FB0418"
+				"gid" "8C50FB209DCECB505F0A44F1F15691E2"
+				"size" "1472E06CECE77344C9FAFC54B546B25E"
+				"download" "0CBECD843843F9E5781F8F1A67B9806D"
 			}
 			"rcinstall"
 			{
-				"gid" "CED359BF6A0400D6DFEFA867B9E8F503"
-				"size" "FC7983F6AFD2586D0E46E004B6B555CD"
-				"download" "49A51F5A6393BB48EBB0B034889F3A1D"
+				"gid" "D1D27F8FCD83069991C590E77CFB1A8D"
+				"size" "BBDB72F6B5E38E3202A5EB67492C429D"
+				"download" "C9A79977B79BE7C494B37BFCD92159FB"
 			}
 			"releasecert"
 			{
@@ -442,9 +442,9 @@
 			}
 			"retailvalidation"
 			{
-				"gid" "5831E3CBE461958009E86616BFEDE0D4"
-				"size" "F4D45DDACDC9BD7DA7493F1A30BFFBA1"
-				"download" "322D1B3FC1CA688BC9BC6968FEDF61DF"
+				"gid" "CF10547545C3316096FA094A78840D58"
+				"size" "66BA85FADB5F8655C8F078E50D0796EA"
+				"download" "0E7BE60553188BE1A39C2D650EF16DBD"
 			}
 			"sideload"
 			{
@@ -539,8 +539,8 @@
 	{
 		"public"
 		{
-			"buildid" "13366886"
-			"timeupdated" "1707243407"
+			"buildid" "13538700"
+			"timeupdated" "1709057143"
 		}
 		"dlc1install"
 		{
@@ -562,27 +562,27 @@
 		}
 		"mainlinecert"
 		{
-			"buildid" "13400783"
+			"buildid" "13572188"
 			"pwdrequired" "1"
-			"timeupdated" "1707376101"
+			"timeupdated" "1709013128"
 		}
 		"mainlineinstall"
 		{
-			"buildid" "13400766"
+			"buildid" "13578192"
 			"pwdrequired" "1"
-			"timeupdated" "1707375942"
+			"timeupdated" "1709051911"
 		}
 		"rccert"
 		{
-			"buildid" "13399641"
+			"buildid" "13538700"
 			"pwdrequired" "1"
-			"timeupdated" "1707363278"
+			"timeupdated" "1708657796"
 		}
 		"rcinstall"
 		{
-			"buildid" "13399626"
+			"buildid" "13538144"
 			"pwdrequired" "1"
-			"timeupdated" "1707363129"
+			"timeupdated" "1708654011"
 		}
 		"releasecert"
 		{
@@ -592,9 +592,9 @@
 		}
 		"retailvalidation"
 		{
-			"buildid" "13366886"
+			"buildid" "13538700"
 			"pwdrequired" "1"
-			"timeupdated" "1707121772"
+			"timeupdated" "1708683242"
 		}
 		"sideload"
 		{
@@ -2104,6 +2104,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22256804"
-"_sha" "51646a332fe298ef0d8c3dfa3d32438ea38bd292"
-"_size" "113953"
+"_change_number" "22530306"
+"_sha" "55bdaae162db8689b9f2d18d1e083d4ad1309c20"
+"_size" "113961"
