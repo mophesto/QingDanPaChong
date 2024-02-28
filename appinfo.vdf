@@ -163,6 +163,7 @@
 	}
 	"steam_release_date" "1707278360"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "2281410"
 	"store_tags"
@@ -247,9 +248,9 @@
 		{
 			"public"
 			{
-				"gid" "7737853100912246447"
-				"size" "1309983326"
-				"download" "1030216384"
+				"gid" "2402248823753166761"
+				"size" "1309984146"
+				"download" "1030217184"
 			}
 		}
 		"encryptedmanifests"
@@ -262,9 +263,9 @@
 			}
 			"test_for_self"
 			{
-				"gid" "24065F15898296A40565C1152E05C4C2"
-				"size" "C65DF52C6EE82D93C81632A42F0BA9BC"
-				"download" "ED9B5F1E2F4E761B7DD60E15807EA7BD"
+				"gid" "B946C2A3D1FD268B27BEEDFBB5886C51"
+				"size" "AE29692882BB914CF71BD0A2DAB14F22"
+				"download" "45366CB8FC59224496300A4C9C5B4047"
 			}
 		}
 	}
@@ -273,8 +274,8 @@
 	{
 		"public"
 		{
-			"buildid" "13575065"
-			"timeupdated" "1709038121"
+			"buildid" "13585068"
+			"timeupdated" "1709106823"
 		}
 		"mimi"
 		{
@@ -284,9 +285,9 @@
 		}
 		"test_for_self"
 		{
-			"buildid" "13575065"
+			"buildid" "13585068"
 			"pwdrequired" "1"
-			"timeupdated" "1709034150"
+			"timeupdated" "1709102399"
 		}
 	}
 }
@@ -305,6 +306,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22525580"
-"_sha" "053d5b0dd7eb630d154d82af670ea8faf11dcc67"
-"_size" "5750"
+"_change_number" "22538650"
+"_sha" "d89231a9dadc46ed2af83cda86d90f4fac918589"
+"_size" "5776"
