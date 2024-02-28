@@ -201,7 +201,7 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "578080"
-	"exfgls" "2"
+	"exfgls" "3"
 	"store_tags"
 	{
 		"0" "1662"
@@ -365,9 +365,9 @@
 		{
 			"public"
 			{
-				"gid" "3719728044795730413"
-				"size" "640175194"
-				"download" "324212352"
+				"gid" "4096955972731652461"
+				"size" "642447962"
+				"download" "327330896"
 			}
 		}
 		"encryptedmanifests"
@@ -390,8 +390,8 @@
 	{
 		"public"
 		{
-			"buildid" "13503520"
-			"timeupdated" "1708473715"
+			"buildid" "13571947"
+			"timeupdated" "1709085884"
 		}
 		"internal-test"
 		{
@@ -455,6 +455,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22431866"
-"_sha" "2330b9884ab45690e7ae5db3fc42206c81fc2a6c"
+"_change_number" "22535647"
+"_sha" "f73d57c7859a01638832bca04d61ca9361a26dca"
 "_size" "9710"
