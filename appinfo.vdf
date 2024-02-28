@@ -121,6 +121,7 @@
 		"category_38" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -181,15 +182,15 @@
 		"11" "493"
 		"12" "1775"
 		"13" "1676"
-		"14" "4182"
-		"15" "1643"
+		"14" "1643"
+		"15" "4182"
 		"16" "5125"
 		"17" "1695"
 		"18" "1666"
 		"19" "1662"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -248,9 +249,9 @@
 		{
 			"public"
 			{
-				"gid" "172332773187391767"
-				"size" "3700726101"
-				"download" "3152624080"
+				"gid" "2525734447863795394"
+				"size" "3710039925"
+				"download" "3154364208"
 			}
 			"japan_release"
 			{
@@ -284,15 +285,15 @@
 			}
 			"stable"
 			{
-				"gid" "3218304820121255506"
-				"size" "2901048321"
-				"download" "2439892160"
-			}
-			"test"
-			{
 				"gid" "172332773187391767"
 				"size" "3700726101"
 				"download" "3152624080"
+			}
+			"test"
+			{
+				"gid" "2525734447863795394"
+				"size" "3710039925"
+				"download" "3154364208"
 			}
 			"test2"
 			{
@@ -399,8 +400,8 @@
 	{
 		"public"
 		{
-			"buildid" "13553509"
-			"timeupdated" "1708788138"
+			"buildid" "13585024"
+			"timeupdated" "1709102232"
 		}
 		"desynccheck17"
 		{
@@ -500,15 +501,15 @@
 		}
 		"stable"
 		{
-			"buildid" "12214527"
+			"buildid" "13553509"
 			"description" "stable (mostly the same as default branch)"
-			"timeupdated" "1696845800"
+			"timeupdated" "1709041687"
 		}
 		"test"
 		{
-			"buildid" "13553509"
+			"buildid" "13585024"
 			"description" "Latest Test Branch"
-			"timeupdated" "1708788100"
+			"timeupdated" "1709101758"
 		}
 		"test2"
 		{
@@ -558,6 +559,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22489066"
-"_sha" "91d48bff50a36dac2d129b1e32355f51d60cdb02"
-"_size" "11332"
+"_change_number" "22538060"
+"_sha" "9c8df1a3eab5882be74e7e4a8dfde7a5dacbf201"
+"_size" "11355"
