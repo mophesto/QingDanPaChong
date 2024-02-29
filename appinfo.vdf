@@ -89,6 +89,7 @@
 		"library_capsule" "en,ja"
 		"library_hero" "en"
 		"library_logo" "en,ja"
+		"library_header" "en,ja"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
@@ -96,7 +97,7 @@
 			"height_pct" "84.13333333333333"
 		}
 	}
-	"store_asset_mtime" "1700650530"
+	"store_asset_mtime" "1709134713"
 	"associations"
 	{
 		"0"
@@ -133,6 +134,7 @@
 		"category_49" "1"
 		"category_22" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -232,7 +234,7 @@
 		"19" "21"
 	}
 	"review_score" "5"
-	"review_percentage" "52"
+	"review_percentage" "53"
 }
 "extended"
 {
@@ -345,24 +347,24 @@
 		{
 			"public"
 			{
-				"gid" "1143281324228730025"
-				"size" "19074263035"
-				"download" "13214417168"
+				"gid" "9088455211984642978"
+				"size" "22508461396"
+				"download" "15486363040"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"allin-developsv-debug"
 			{
-				"gid" "86C5015053ACD243C7092BCEE82320BB"
-				"size" "4F134CC10922B37FF894F64D1641F534"
-				"download" "C5B2B6DB7030C0C170A79E440DD91BFA"
+				"gid" "D26A26F04D07CF1CED8A725A23B5B858"
+				"size" "3CAE56DF54398D32329D29A56BA2D630"
+				"download" "2DE0C5A71EFF1461F5BBCA531557739C"
 			}
 			"allin-developsv-release"
 			{
-				"gid" "063B1F15F427329C48B01E2A4061F55A"
-				"size" "96BAE1F5ED95E7D7E27D36855AA3B850"
-				"download" "9FBEA171D1247605D1C1EE154E75A0FF"
+				"gid" "115CB6472958F636B73A452FA80C6540"
+				"size" "EB8114CE7A8DBAA4013DCBC84D8ACE0F"
+				"download" "5227AF81011EE6F4550B029674CBED86"
 			}
 			"allin-testsv-debug"
 			{
@@ -475,9 +477,9 @@
 		{
 			"allin-developsv-debug"
 			{
-				"gid" "7B2EF3BFC5FD0E8591F5D3FB19E9075C"
-				"size" "65242B57355CA82F8F3F779D7B39B2D3"
-				"download" "C55099F48EADDF5155514E40C9FE9376"
+				"gid" "D4FDA2D44D815F92582C732E80405826"
+				"size" "CBD0846E56950E5E0C03AE0B52EDE043"
+				"download" "2C31805BFBA1DB3598AE0CC14532ED7D"
 			}
 			"allin-developsv-release"
 			{
@@ -582,20 +584,20 @@
 	{
 		"public"
 		{
-			"buildid" "12771283"
-			"timeupdated" "1702260078"
+			"buildid" "13455583"
+			"timeupdated" "1709172127"
 		}
 		"allin-developsv-debug"
 		{
-			"buildid" "13480073"
+			"buildid" "13592439"
 			"pwdrequired" "1"
-			"timeupdated" "1708113659"
+			"timeupdated" "1709151549"
 		}
 		"allin-developsv-release"
 		{
-			"buildid" "13480405"
+			"buildid" "13592799"
 			"pwdrequired" "1"
-			"timeupdated" "1708116536"
+			"timeupdated" "1709154347"
 		}
 		"allin-testsv-debug"
 		{
@@ -718,6 +720,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22380163"
-"_sha" "7da6a050e705f41875549855f1ead0eb08f05633"
-"_size" "17508"
+"_change_number" "22553963"
+"_sha" "82952cc4814b4bb9884cae1e431bae6d48233b42"
+"_size" "17559"
