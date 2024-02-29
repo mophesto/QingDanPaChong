@@ -48,8 +48,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1706659200"
-		"tested_build_id" "13261262"
+		"test_timestamp" "1708473600"
+		"tested_build_id" "13299098"
 		"tests"
 		{
 			"0"
@@ -88,7 +88,7 @@
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-hotfix"
+			"recommended_runtime" "proton-experimental"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "1"
 			"hdr_support" "0"
@@ -117,7 +117,7 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1707121466"
+	"store_asset_mtime" "1708563318"
 	"associations"
 	{
 		"0"
@@ -158,6 +158,7 @@
 		"category_22" "1"
 		"category_29" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -258,17 +259,17 @@
 		"9" "597"
 		"10" "3878"
 		"11" "1756"
-		"12" "4026"
-		"13" "4747"
-		"14" "4085"
+		"12" "4747"
+		"13" "4085"
+		"14" "4026"
 		"15" "1742"
-		"16" "12095"
-		"17" "6915"
+		"16" "6915"
+		"17" "12095"
 		"18" "7481"
-		"19" "4736"
+		"19" "9130"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -333,9 +334,9 @@
 		{
 			"public"
 			{
-				"gid" "8863236885692335430"
-				"size" "92947415626"
-				"download" "83397715616"
+				"gid" "7063257719091101126"
+				"size" "95083181311"
+				"download" "84759826336"
 			}
 		}
 		"encryptedmanifests"
@@ -346,23 +347,11 @@
 				"size" "14D514323FD828875CECC29472B56CF6"
 				"download" "8445B533537A758C6E6D809480F4CDD2"
 			}
-			"dev-default-debug"
-			{
-				"gid" "0A1884CABB53BED3EC1D188BAE2D0A0F"
-				"size" "D19B26E81A4E4956911972C4A5F22950"
-				"download" "0D42D59C9F2F1B45E85027F32B446E5B"
-			}
-			"dev-default-release"
-			{
-				"gid" "AEB7244CA004B9C4C3E3C6C77D53CA5B"
-				"size" "1BF5AB89A9E53BFB7E9BFFA40FCB8E7F"
-				"download" "A6E99E9BD848A0D84EE9882D24F22769"
-			}
 			"dev-nxt-debug"
 			{
-				"gid" "CFE348AEC3CDB31A2B93C970ED263F18"
-				"size" "36EADC7C821727E41015F0268DEA98DD"
-				"download" "F311CC65A8AB68A4E1CD7F711F8943B3"
+				"gid" "57BB0D4F9C82638367CAFB0528ACD436"
+				"size" "118E1F5F32261A66FAF5DA91B63F8019"
+				"download" "CA0790583FCD216C9B0FBD7DC81829AC"
 			}
 			"dev-nxt-debug2"
 			{
@@ -378,15 +367,15 @@
 			}
 			"dev-nxt-debug4"
 			{
-				"gid" "4F7F813B135E3E825D0D3872E75142B8"
-				"size" "B4EEC1480A0E2B1B934E6CEFB7141593"
-				"download" "B2683F83FFB5D9CF6F21476E88D269B8"
+				"gid" "CE83A0AB17D97A55C5F75CEF082D23E2"
+				"size" "43A3741EF8B454A3895CBBC1A7B19073"
+				"download" "65F02B65F85AF8462BD96ABEE16C6A02"
 			}
 			"dev-nxt-release"
 			{
-				"gid" "BF08EC06C0DC86303ED1EB553BF01722"
-				"size" "ADB75DCE7E6A32ECD77BE92F24384FB6"
-				"download" "B54998D90E41B757DFA15C2231D0D974"
+				"gid" "6911FA46E833E207596062600340398C"
+				"size" "DA09FC445F3B388228F5C4F32DD18153"
+				"download" "2103ED8499E26A0CBCAE7932D11BB855"
 			}
 			"dev-nxt-release2"
 			{
@@ -402,21 +391,21 @@
 			}
 			"dev-nxt-release4"
 			{
-				"gid" "CAA570B52632E8F65299BE085D1EE57A"
-				"size" "29BADC686F2FD5BCB25A6157E6B68ACC"
-				"download" "A44B9A43DABEA363515A049DF9A4E366"
+				"gid" "0DEE9BE8D4B1022130ABD61D1DF69079"
+				"size" "BD8C27DF1F3DB5B471BFF5055A2CD0A6"
+				"download" "0357A5E1B68B96709AF1C6D0AF998F41"
 			}
 			"dev-release"
 			{
-				"gid" "6DE71B9A6E8BBD6A6222C47682F64B0C"
-				"size" "A739F3923FCE815325ABFA8E35EDBC73"
-				"download" "4534E6945C83E8BEE26A40F0460F018E"
+				"gid" "4B9D7E5300A359740626ED61A9BCACBC"
+				"size" "845D6C97133A556EBE67327C1C7CEFB9"
+				"download" "7A3DDA6D1F5056816AFBD4DFB45A6569"
 			}
 			"dev-release-latest"
 			{
-				"gid" "99582EFA24E6B3F7ABF54540AD805FF5"
-				"size" "E1427CF85D798027F6CAF306F5C5E19C"
-				"download" "5A55D21AFB614652725C0F6FBA89BE7A"
+				"gid" "19D6A989A07220E613B99E92C704DB9A"
+				"size" "EE42EFE3806D530BBA92F273DF61365F"
+				"download" "16BA2CD9E25E0F484775747EAA2E6F18"
 			}
 			"dev-tmp"
 			{
@@ -426,9 +415,9 @@
 			}
 			"qa-debug"
 			{
-				"gid" "56EA4E1D1857E604281BA9FC9AC0EA25"
-				"size" "D2D01D06521B63FC269A6394AD60DFCB"
-				"download" "EDFB17636951F3F23766183CDCE0FDD4"
+				"gid" "7FCBB62CB82C070F433F67D714B88854"
+				"size" "ADC815BF2D526B96D59FC6328F5E439F"
+				"download" "A2082A3B870D28C69F92C0F8A5F12E6B"
 			}
 			"qa-debug2"
 			{
@@ -444,15 +433,15 @@
 			}
 			"qa-debug4"
 			{
-				"gid" "E10174E30CB179F202FFAACCFB286B4A"
-				"size" "B9A3EA52DC84CE4CCE1B082BA04B8CAA"
-				"download" "09E96FAAAA17B4E061121F2CF472649D"
+				"gid" "DF488C7561D73F32AAB7DED232DE5EA2"
+				"size" "9FA412F947850F590327C62AA7312AB0"
+				"download" "25C358C83DF9DCAFE36050749A9589DE"
 			}
 			"qa-release"
 			{
-				"gid" "D8789A847800F26C99404AAEF70C5857"
-				"size" "576DB679124E45C092B947ECF2B180E7"
-				"download" "A143D1D1F41A439F251CBA30C7A1F13D"
+				"gid" "8829052D67B4E5A9D78BA7F3CF45944B"
+				"size" "24CD36E381FFD2CF7D55B999CCD2FADF"
+				"download" "0C9685EB79741894CB0AC9B6F92E6666"
 			}
 			"qa-release2"
 			{
@@ -468,9 +457,9 @@
 			}
 			"qa-release4"
 			{
-				"gid" "DF08364D2624B51D642256DFD26BA2B7"
-				"size" "426A6318723197A629DCDC44FCA1510F"
-				"download" "2CDA7BC70F883D608EB176270272734E"
+				"gid" "79696EEBC7DC85AF6BD059F35ED85820"
+				"size" "63A3F089790DC1D47C8EB9840553D10B"
+				"download" "68A685FFF1F30B00A16F0761C659AE1F"
 			}
 		}
 	}
@@ -480,9 +469,9 @@
 		{
 			"public"
 			{
-				"gid" "8757494497849322284"
-				"size" "1606405545"
-				"download" "287732816"
+				"gid" "2807242609862133510"
+				"size" "1616528544"
+				"download" "289930656"
 			}
 		}
 		"encryptedmanifests"
@@ -493,23 +482,11 @@
 				"size" "C5770FB903B1CA7CF9258138920B78BF"
 				"download" "333B5F50686E407FE0184E27C349C36C"
 			}
-			"dev-default-debug"
-			{
-				"gid" "2A968BD79B690FA0682C11206661B2CD"
-				"size" "98F7F9848883E14314205CCA9B2DCD50"
-				"download" "4672E9F4A373011647002053B40B6000"
-			}
-			"dev-default-release"
-			{
-				"gid" "3AD455A141A6A97A539849C7F2AC3323"
-				"size" "957843333C4C589637A9613C261B1AD0"
-				"download" "02A9AEBE3A8A70784512541AAEDB89E1"
-			}
 			"dev-nxt-debug"
 			{
-				"gid" "2CBFBD1983DBC626DB0DAB04AD3CDE60"
-				"size" "4D81C72558BA294AA5BDF117541F7FA0"
-				"download" "5CD6AF3913C3227374915039C36CDE4D"
+				"gid" "4EDD56F3294F453FBFC58BA2F6A93730"
+				"size" "CB6B0FF54A2237F4F227D9B178AAE8EA"
+				"download" "55335C8C232E5910D7EE457594BDA9F5"
 			}
 			"dev-nxt-debug2"
 			{
@@ -525,15 +502,15 @@
 			}
 			"dev-nxt-debug4"
 			{
-				"gid" "CEF5A271BD3A0050DDD2C6CC34B43643"
-				"size" "1B4ED5CBAC676B7462DE47101CCFD8BE"
-				"download" "0E85705598A19F53EAC5D5C2024DAF38"
+				"gid" "194F1FE3F003385C4F7BB24045AC82B9"
+				"size" "B0ABA347076A84CA29674A2DE6C9D982"
+				"download" "FE2CD795D961F86A6A0975E62ED2ED9B"
 			}
 			"dev-nxt-release"
 			{
-				"gid" "87A09E9E4ED5921561333312CDCBD985"
-				"size" "75788433ACB6CF55492DBCE57E712B7A"
-				"download" "569E376F900A78CB3A4FF2B7D84755BB"
+				"gid" "79FBA9046EABFE2C03FDDA3A79AB44D5"
+				"size" "D03905970B167CD35185C2BFAAE371B5"
+				"download" "D65E54E9FFE96B0B923CCE5F8B9F92DB"
 			}
 			"dev-nxt-release2"
 			{
@@ -549,21 +526,21 @@
 			}
 			"dev-nxt-release4"
 			{
-				"gid" "9F9FDB0ADDD942B56F40B47D32AA1FF3"
-				"size" "3D5962E25447451C702F54F60E06D803"
-				"download" "EF2C262EF13B40EDD8D581E87D3D3818"
+				"gid" "8B1E6F471DC8BE4C898EBE6A6F2A185D"
+				"size" "9C80B88A8044B08A5AACA658907B860A"
+				"download" "E0470BE250801799D3E3A1972B9CEF10"
 			}
 			"dev-release"
 			{
-				"gid" "CEB20D55F453C57C8B8A9CD3376652A9"
-				"size" "22A85C86E5E4FBF50A28BF2CB8877FAA"
-				"download" "2A2D23FC1F5696906DD58E9F12BA7C0E"
+				"gid" "1B543AEC85BD4A1DEFE296EC256DC2E2"
+				"size" "DAC55F446C096A6957083A8C3B396424"
+				"download" "75493F4D547CDADB58220BE6192C2B11"
 			}
 			"dev-release-latest"
 			{
-				"gid" "505A820A55A85B109187A06B5C086EC6"
-				"size" "6AC6DC80DCE37BA077A4099F5E4261B8"
-				"download" "C066E1872CA9725E90A1991B471611CA"
+				"gid" "F7F80F4C3A67E5A3FFC4E57B32D1A24F"
+				"size" "7E9513D88904AA85B20493FDB4905DE5"
+				"download" "3DCF1002859E971F4BE6ACCDF668640E"
 			}
 			"dev-tmp"
 			{
@@ -573,9 +550,9 @@
 			}
 			"qa-debug"
 			{
-				"gid" "A04EAEA48CCBC80A03B6C748832481AE"
-				"size" "8F332CE971902807E4000D0C7D8DC08F"
-				"download" "9000DE94D6FC167FD0E09A6E509AE046"
+				"gid" "F127273EBC8018C9738FBCF1EF2D039D"
+				"size" "F90A08C529B3CFD89531EAD6E0463C1A"
+				"download" "598FF02E000BF8285F1568966BCF347E"
 			}
 			"qa-debug2"
 			{
@@ -591,15 +568,15 @@
 			}
 			"qa-debug4"
 			{
-				"gid" "B7EBD51601FA05C07F05F3F02971307A"
-				"size" "BBD798B961BFA8BDEED79CD635C5C79B"
-				"download" "577D23428BA0C48F62F1D0C12A6AF1F3"
+				"gid" "361963956C62FDF33AD8773B22CC9F69"
+				"size" "A776304F464D54B49231D2968C6C9AF8"
+				"download" "7D614E7322643C29671C43CCFFC1DC9B"
 			}
 			"qa-release"
 			{
-				"gid" "F9D7687B5C9BC88257FFB8057CA5070A"
-				"size" "90BF3DF61FDFB36E9C7AA843361C6907"
-				"download" "CAB2A8134AF666AA7595F23B61EBFE50"
+				"gid" "56455A69F52B986339B48CE16E8B5069"
+				"size" "101CB2F2781F62DDA49243AA50047744"
+				"download" "94C1A5BA5D82652C9CF7F07D13D6F28C"
 			}
 			"qa-release2"
 			{
@@ -615,9 +592,9 @@
 			}
 			"qa-release4"
 			{
-				"gid" "0DE75436C79F348550E2A909E9B75AF3"
-				"size" "8488BFA48BA20B24180F34DEBDEAAEB2"
-				"download" "D1FE5FC015F7EFB3F44703BB22553EB6"
+				"gid" "9E6CD98F0660D88266927D1F6B605AF0"
+				"size" "C40E3D84852C86CA186D099F811D567E"
+				"download" "C48D3502522AF2463AC1E4AB0D07E9AE"
 			}
 		}
 	}
@@ -653,8 +630,8 @@
 	{
 		"public"
 		{
-			"buildid" "13299098"
-			"timeupdated" "1707271227"
+			"buildid" "13463126"
+			"timeupdated" "1709172025"
 		}
 		"compat"
 		{
@@ -662,23 +639,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1700017251"
 		}
-		"dev-default-debug"
-		{
-			"buildid" "13153543"
-			"pwdrequired" "1"
-			"timeupdated" "1705974723"
-		}
-		"dev-default-release"
-		{
-			"buildid" "13153931"
-			"pwdrequired" "1"
-			"timeupdated" "1705997474"
-		}
 		"dev-nxt-debug"
 		{
-			"buildid" "13429590"
+			"buildid" "13583096"
 			"pwdrequired" "1"
-			"timeupdated" "1707702883"
+			"timeupdated" "1709085863"
 		}
 		"dev-nxt-debug2"
 		{
@@ -694,15 +659,15 @@
 		}
 		"dev-nxt-debug4"
 		{
-			"buildid" "13416592"
+			"buildid" "13462473"
 			"pwdrequired" "1"
-			"timeupdated" "1707495718"
+			"timeupdated" "1707985851"
 		}
 		"dev-nxt-release"
 		{
-			"buildid" "13429882"
+			"buildid" "13583660"
 			"pwdrequired" "1"
-			"timeupdated" "1707707798"
+			"timeupdated" "1709090760"
 		}
 		"dev-nxt-release2"
 		{
@@ -718,21 +683,21 @@
 		}
 		"dev-nxt-release4"
 		{
-			"buildid" "13417356"
+			"buildid" "13463126"
 			"pwdrequired" "1"
-			"timeupdated" "1707501073"
+			"timeupdated" "1707990695"
 		}
 		"dev-release"
 		{
-			"buildid" "13416702"
+			"buildid" "13578724"
 			"pwdrequired" "1"
-			"timeupdated" "1707496442"
+			"timeupdated" "1709054790"
 		}
 		"dev-release-latest"
 		{
-			"buildid" "13416862"
+			"buildid" "13597280"
 			"pwdrequired" "1"
-			"timeupdated" "1707497408"
+			"timeupdated" "1709180390"
 		}
 		"dev-tmp"
 		{
@@ -742,9 +707,9 @@
 		}
 		"qa-debug"
 		{
-			"buildid" "13392158"
+			"buildid" "13570377"
 			"pwdrequired" "1"
-			"timeupdated" "1707387018"
+			"timeupdated" "1709029245"
 		}
 		"qa-debug2"
 		{
@@ -760,15 +725,15 @@
 		}
 		"qa-debug4"
 		{
-			"buildid" "13389042"
+			"buildid" "13462473"
 			"pwdrequired" "1"
-			"timeupdated" "1707352931"
+			"timeupdated" "1708078357"
 		}
 		"qa-release"
 		{
-			"buildid" "13392844"
+			"buildid" "13571002"
 			"pwdrequired" "1"
-			"timeupdated" "1707386995"
+			"timeupdated" "1709029230"
 		}
 		"qa-release2"
 		{
@@ -784,9 +749,9 @@
 		}
 		"qa-release4"
 		{
-			"buildid" "13389540"
+			"buildid" "13463126"
 			"pwdrequired" "1"
-			"timeupdated" "1707352913"
+			"timeupdated" "1708078338"
 		}
 	}
 }
@@ -809,6 +774,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22303827"
-"_sha" "f27f8b6430c0a5704feb4edc8bd2569796e8e12a"
-"_size" "17987"
+"_change_number" "22554188"
+"_sha" "caaacd51220aa6fe8d8f39faf1f5302e06d25b37"
+"_size" "17049"
