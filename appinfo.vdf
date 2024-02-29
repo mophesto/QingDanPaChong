@@ -121,6 +121,7 @@
 		"category_2" "1"
 		"category_23" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -164,7 +165,7 @@
 		"19" "454187"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -260,24 +261,24 @@
 		{
 			"public"
 			{
-				"gid" "7606345837894552703"
-				"size" "13146196149"
-				"download" "4393947296"
+				"gid" "7687453138111689036"
+				"size" "13589245951"
+				"download" "4363659024"
 			}
 			"beta"
 			{
-				"gid" "7606345837894552703"
-				"size" "13146196149"
-				"download" "4393947296"
+				"gid" "7687453138111689036"
+				"size" "13589245951"
+				"download" "4363659024"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta_a"
 			{
-				"gid" "A70B05036FA02150FFA8BF488B43A0DD"
-				"size" "F64448DBDB950FD55A6325617A6ADEF5"
-				"download" "CD2EED55FEEF75E922F295980EFA15EA"
+				"gid" "0E90E6F4F6E1A291F09BECE7EB672141"
+				"size" "A513F6ED4CBF8AE32DDAB416008B8731"
+				"download" "FA499CFBB38A6F2FEF452BF07AAC92BA"
 			}
 		}
 	}
@@ -289,20 +290,20 @@
 		}
 		"public"
 		{
-			"buildid" "13570819"
-			"timeupdated" "1709001730"
+			"buildid" "13598376"
+			"timeupdated" "1709194241"
 		}
 		"beta"
 		{
-			"buildid" "13570819"
+			"buildid" "13598376"
 			"description" "测试"
-			"timeupdated" "1709001703"
+			"timeupdated" "1709194222"
 		}
 		"beta_a"
 		{
-			"buildid" "13570819"
+			"buildid" "13598376"
 			"pwdrequired" "1"
-			"timeupdated" "1709000420"
+			"timeupdated" "1709191649"
 		}
 	}
 	"hasdepotsindlc" "1"
@@ -324,6 +325,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22521877"
-"_sha" "2c78fd161aa52fb6655104cabafc644cc1675959"
-"_size" "5654"
+"_change_number" "22556417"
+"_sha" "d5bba30839e42cdf6554b5c8d25c5e23181146f0"
+"_size" "5676"
