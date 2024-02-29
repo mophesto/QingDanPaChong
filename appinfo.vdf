@@ -83,7 +83,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1698251949"
+	"store_asset_mtime" "1709099035"
 	"associations"
 	{
 		"0"
@@ -147,6 +147,7 @@
 		"category_28" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -361,9 +362,9 @@
 		{
 			"public"
 			{
-				"gid" "2194110804418391464"
-				"size" "83527648511"
-				"download" "79321984432"
+				"gid" "1261570051033452080"
+				"size" "83527779583"
+				"download" "79322144704"
 			}
 			"public_test_realm"
 			{
@@ -460,15 +461,15 @@
 			}
 			"playtest1"
 			{
-				"gid" "92897640D5BF752263C7B68529838C38"
-				"size" "1C607F2F4F1C5218AEA4D7CE635995E7"
-				"download" "3B32E6AF0D1B0939C38AC42119F1E8D0"
+				"gid" "B737F86F695B66A87D4AB2189BFB2710"
+				"size" "8ADEDFA6DAA96FAF82792A8329B7E3A3"
+				"download" "AFD772E1350A6C2656ABFBFC94100C0A"
 			}
 			"qa_staging"
 			{
-				"gid" "B8A05EFFDD8240DBA0BDC56477448F6B"
-				"size" "B2ABFE4E3340DE1AF16943C61E75D92F"
-				"download" "841272D9E92F25DDCE1951D87658434C"
+				"gid" "8FE61AC437EDF6553AC370A8260361CA"
+				"size" "50B1F15E38EBB49BC8D00A4664D80651"
+				"download" "251D35523813305BE09E8491D79F8CDA"
 			}
 			"rating_test"
 			{
@@ -513,8 +514,8 @@
 	{
 		"public"
 		{
-			"buildid" "13569650"
-			"timeupdated" "1708998645"
+			"buildid" "13590266"
+			"timeupdated" "1709153941"
 		}
 		"arktx"
 		{
@@ -602,9 +603,9 @@
 		}
 		"playtest1"
 		{
-			"buildid" "13552980"
+			"buildid" "13593105"
 			"pwdrequired" "1"
-			"timeupdated" "1708780443"
+			"timeupdated" "1709156136"
 		}
 		"public_test_realm"
 		{
@@ -614,9 +615,9 @@
 		}
 		"qa_staging"
 		{
-			"buildid" "13569650"
+			"buildid" "13590266"
 			"pwdrequired" "1"
-			"timeupdated" "1708990870"
+			"timeupdated" "1709136645"
 		}
 		"rating_test"
 		{
@@ -662,6 +663,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "22518647"
-"_sha" "ed968c29144d729d6244ed2e7ea6a0a82b8f5cec"
-"_size" "13334"
+"_change_number" "22550081"
+"_sha" "048bd3889054bcda1681b1ab877c3e2096088076"
+"_size" "13356"
