@@ -37,8 +37,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -115,7 +113,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1706023649"
+	"store_asset_mtime" "1708073274"
 	"associations"
 	{
 		"0"
@@ -229,9 +227,9 @@
 		"4" "1774"
 		"5" "1742"
 		"6" "21"
-		"7" "4166"
-		"8" "4345"
-		"9" "4115"
+		"7" "4115"
+		"8" "4166"
+		"9" "4345"
 		"10" "3942"
 		"11" "7948"
 		"12" "4667"
@@ -297,9 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "6682418714512700609"
-				"size" "42356367856"
-				"download" "40793848640"
+				"gid" "405182565484037834"
+				"size" "42358756599"
+				"download" "40794922432"
 			}
 		}
 		"encryptedmanifests"
@@ -348,9 +346,9 @@
 			}
 			"external_testing"
 			{
-				"gid" "F2BBF43414DFF6BE252C2719541E7297"
-				"size" "04C96103B7DFE4E71A4A45900878B3F2"
-				"download" "7126902479A9D37EC540388521B532FD"
+				"gid" "DD0EDD93A7E303D1CC30236B7E9039DA"
+				"size" "66FF92173A1DAC845D399F001BBF099D"
+				"download" "25B158777BAB8FBE3D3FF92A36AE9EC4"
 			}
 			"gamescom"
 			{
@@ -402,9 +400,9 @@
 			}
 			"qa_testing_latest"
 			{
-				"gid" "121D0059A73BA845707E0DC414901F43"
-				"size" "A6DA2A84A20ABBCEB08E516EC4649DDC"
-				"download" "3A436785C8677252B534B8C17F5DD2AE"
+				"gid" "484E528640E142CAC15FD74AA6F207A0"
+				"size" "83EEF8125F034362060AD427FDA149C5"
+				"download" "FBDA316AF87E328D3369A4DFC494459F"
 			}
 			"qa_testing_latest_dev"
 			{
@@ -432,9 +430,9 @@
 			}
 			"test"
 			{
-				"gid" "ADC6954D9256549E935A5F18DCB7D8BC"
-				"size" "99B9078E59F7B382A506CE39180275A4"
-				"download" "C7B1F400C43F24ECC8EF89686A240959"
+				"gid" "E2D5EBCEC4A74216D743084E9FBA46A0"
+				"size" "9AB214E7C5501C931B1BA655E22A98F4"
+				"download" "7EA025EE7F4A556EB577F04CC251788F"
 			}
 			"testqa"
 			{
@@ -450,8 +448,8 @@
 	{
 		"public"
 		{
-			"buildid" "13209222"
-			"timeupdated" "1705939188"
+			"buildid" "13562956"
+			"timeupdated" "1709222931"
 		}
 		"10progressbuild"
 		{
@@ -497,9 +495,9 @@
 		}
 		"external_testing"
 		{
-			"buildid" "13209222"
+			"buildid" "13534652"
 			"pwdrequired" "1"
-			"timeupdated" "1705658762"
+			"timeupdated" "1708701900"
 		}
 		"gamescom"
 		{
@@ -551,9 +549,9 @@
 		}
 		"qa_testing_latest"
 		{
-			"buildid" "13335254"
+			"buildid" "13562956"
 			"pwdrequired" "1"
-			"timeupdated" "1706790198"
+			"timeupdated" "1708957693"
 		}
 		"qa_testing_latest_dev"
 		{
@@ -581,9 +579,9 @@
 		}
 		"test"
 		{
-			"buildid" "13408008"
+			"buildid" "13562956"
 			"pwdrequired" "1"
-			"timeupdated" "1707425072"
+			"timeupdated" "1708941912"
 		}
 		"testqa"
 		{
@@ -613,6 +611,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22267478"
-"_sha" "0884df8d460cc210d1a51b5ba53d1d0b4d1f9333"
-"_size" "12700"
+"_change_number" "22563434"
+"_sha" "57688d0d9dc5c3f349f1026d28d25ac21b6c6304"
+"_size" "12636"
