@@ -41,8 +41,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -93,7 +91,7 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1706660434"
+	"store_asset_mtime" "1708545363"
 	"associations"
 	{
 		"0"
@@ -206,12 +204,12 @@
 		"7" "4342"
 		"8" "4106"
 		"9" "3835"
-		"10" "3993"
-		"11" "3859"
+		"10" "3859"
+		"11" "3993"
 		"12" "1697"
 		"13" "3843"
-		"14" "4166"
-		"15" "1667"
+		"14" "1667"
+		"15" "4166"
 		"16" "6730"
 		"17" "7481"
 		"18" "4182"
@@ -270,15 +268,15 @@
 		{
 			"public"
 			{
-				"gid" "8443500333291332296"
-				"size" "78656064680"
-				"download" "76219671200"
+				"gid" "772382648588980051"
+				"size" "78722922316"
+				"download" "76282575440"
 			}
 			"arc750_beta"
 			{
-				"gid" "8443500333291332296"
-				"size" "78656064680"
-				"download" "76219671200"
+				"gid" "772382648588980051"
+				"size" "78722922316"
+				"download" "76282575440"
 			}
 		}
 		"encryptedmanifests"
@@ -291,45 +289,45 @@
 			}
 			"feature_test"
 			{
-				"gid" "ADE8D6EC24F2DACBBCCF1375FCE977ED"
-				"size" "EBC01D36C6ADE769BEA50D8649AFD610"
-				"download" "4CE81CABD6316C22DDE9F07CF285BC81"
+				"gid" "9EFAF107C8ADF13C3F00EFC846620F6E"
+				"size" "B45FABF7C5CCAE0E2B459E5DE3A335E5"
+				"download" "6635299A817D4CAEEAA6B94C360663E8"
 			}
 			"internal"
 			{
-				"gid" "9F15A4EC48D3EC061D0127691A15C161"
-				"size" "06D7EDAC1524AF4BFFF0C1AC64371F37"
-				"download" "ABF7C95A2501EE4875432BD8148A918E"
+				"gid" "A3472DF72EB6E97D9F43D165C9BAC1D4"
+				"size" "BAB84BB58845B13EDCE27696523E6060"
+				"download" "188C93EED5979066388E9F3C6219571E"
 			}
 			"playtest"
 			{
-				"gid" "FC47AF8CE2A3AE881CC35EC1756BC7B0"
-				"size" "F0342A485DB7814A20E1A6831BD7C560"
-				"download" "4D54886C49685CC09051CE13B29CA48E"
+				"gid" "D9E80C968680C042831E1DC234028C94"
+				"size" "AA1AD44F4939248070A15F8C33B216D7"
+				"download" "6417D984053597F84A9F36E5EF385550"
 			}
 			"playtest_dev"
 			{
-				"gid" "9D3B7606A68FEFC1FCB1D5FEF5E8CB72"
-				"size" "96FE1C75FE1E22BD20CB309CC189E9F6"
-				"download" "5831A444F3EC47217B48788C1D64D1C8"
+				"gid" "55AE6CD91A39735252F6135EEB21851E"
+				"size" "3EA02AF88541DA06DC311F5261ED2965"
+				"download" "794BDD455F298522B9CF1C5B0B858760"
 			}
 			"pr_dlc"
 			{
-				"gid" "3E5AE48384772900AADE320C3CABBF1B"
-				"size" "06E79B118CEE569DB3209BFAC77AC1B2"
-				"download" "8FD230B8755894C57256971C8A00D4EB"
+				"gid" "8BB9AA5125874655FB305EFA27D45945"
+				"size" "E5F72C6625961679470BD30A2BBC2570"
+				"download" "1E2BB2524ED1AB30329FA3D0BE851C6F"
 			}
 			"staging_release"
 			{
-				"gid" "3548C66A496689E747161CA217617A65"
-				"size" "86A3FDE35269A5A81A312FF5A553E13E"
-				"download" "94CED61D42A0FC51CAE40A6BD240D42A"
+				"gid" "5C2DBE6D0A379E77C333479A134A6979"
+				"size" "AAD4D5D1FEE252510B30063E833110E6"
+				"download" "3A6F9F6ACCD92E3B9E30815864688EE6"
 			}
 			"testgate"
 			{
-				"gid" "F2152FA89F224C38ADF9D67ADA2067CE"
-				"size" "53DA87F952A9587AF41FC55226F5168A"
-				"download" "A4B906E0F045FF9573456AAEBE7D7086"
+				"gid" "318D9E99E7E4E45865B3CDCAD1342775"
+				"size" "871BBC1AC90743577809234F2C7E5C73"
+				"download" "D8F946BF8FF30D4580CC845905AE2C30"
 			}
 			"testgate_playthrough"
 			{
@@ -339,15 +337,15 @@
 			}
 			"testgate_ps5"
 			{
-				"gid" "5A14693B18A420E64F866D0A74406BAE"
-				"size" "F88A68B83B7DB70DE2A0A28A374FB415"
-				"download" "FBD61932870E4EF7D59039CC48CE5CAA"
+				"gid" "0D19912CD788AD1C9BDD22048CF45B95"
+				"size" "7DEE25BCE672BE549C90BAC7134C64E7"
+				"download" "CD5EC5CCCACD4F7C3096DF75BFDF1AA6"
 			}
 			"testgate_testbuild"
 			{
-				"gid" "9EA991B7A62FC3B98EA39A7337373458"
-				"size" "7BB502738385A90DC48EE37A9189B2D5"
-				"download" "517B7E1DD86FB56CE36021524AF1DF21"
+				"gid" "771BB23245D94DEFCF95884370A20353"
+				"size" "A50E766368828F838D484A40BC8653F3"
+				"download" "56B5217A6798733AADA788DCACE48C29"
 			}
 			"testgate_xbox"
 			{
@@ -361,14 +359,14 @@
 	{
 		"public"
 		{
-			"buildid" "13180728"
-			"timeupdated" "1705512985"
+			"buildid" "13578676"
+			"timeupdated" "1709226239"
 		}
 		"arc750_beta"
 		{
-			"buildid" "13180728"
+			"buildid" "13578676"
 			"description" "Beta Test Branch ARC750 video cards only"
-			"timeupdated" "1705512935"
+			"timeupdated" "1709226151"
 		}
 		"compatibility"
 		{
@@ -378,45 +376,45 @@
 		}
 		"feature_test"
 		{
-			"buildid" "13393693"
+			"buildid" "13520425"
 			"pwdrequired" "1"
-			"timeupdated" "1707318859"
+			"timeupdated" "1708525890"
 		}
 		"internal"
 		{
-			"buildid" "13392274"
+			"buildid" "13600241"
 			"pwdrequired" "1"
-			"timeupdated" "1707309525"
+			"timeupdated" "1709204278"
 		}
 		"playtest"
 		{
-			"buildid" "13325095"
+			"buildid" "13578676"
 			"pwdrequired" "1"
-			"timeupdated" "1706710621"
+			"timeupdated" "1709054639"
 		}
 		"playtest_dev"
 		{
-			"buildid" "13392644"
+			"buildid" "13577691"
 			"pwdrequired" "1"
-			"timeupdated" "1707312227"
+			"timeupdated" "1709049974"
 		}
 		"pr_dlc"
 		{
-			"buildid" "12896120"
+			"buildid" "13180728"
 			"pwdrequired" "1"
-			"timeupdated" "1702390185"
+			"timeupdated" "1709049955"
 		}
 		"staging_release"
 		{
-			"buildid" "13298370"
+			"buildid" "13578676"
 			"pwdrequired" "1"
-			"timeupdated" "1706531525"
+			"timeupdated" "1709220701"
 		}
 		"testgate"
 		{
-			"buildid" "13323650"
+			"buildid" "13600241"
 			"pwdrequired" "1"
-			"timeupdated" "1706715016"
+			"timeupdated" "1709220726"
 		}
 		"testgate_playthrough"
 		{
@@ -426,15 +424,15 @@
 		}
 		"testgate_ps5"
 		{
-			"buildid" "12630238"
+			"buildid" "13418905"
 			"pwdrequired" "1"
-			"timeupdated" "1699376806"
+			"timeupdated" "1707513661"
 		}
 		"testgate_testbuild"
 		{
-			"buildid" "13392870"
+			"buildid" "13602815"
 			"pwdrequired" "1"
-			"timeupdated" "1707313647"
+			"timeupdated" "1709220388"
 		}
 		"testgate_xbox"
 		{
@@ -459,6 +457,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22245722"
-"_sha" "fdcd103667cae0dd962d01151630e4955aad8bea"
-"_size" "8851"
+"_change_number" "22564449"
+"_sha" "59530d1df98f3802b4677ec5f85f18ddbf7d5330"
+"_size" "8786"
