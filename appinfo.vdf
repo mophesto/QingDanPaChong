@@ -79,7 +79,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1704715714"
+	"store_asset_mtime" "1708729143"
 	"associations"
 	{
 		"0"
@@ -127,6 +127,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -232,7 +233,7 @@
 	"developer" "Games Incubator"
 	"publisher" "Games Incubator"
 	"homepage" "https://games-i.com/"
-	"listofdlc" "2628300"
+	"listofdlc" "2504670,2628300"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -333,30 +334,30 @@
 		{
 			"public"
 			{
-				"gid" "7918378326942451742"
-				"size" "10459052253"
-				"download" "10222865088"
+				"gid" "6206843326376348628"
+				"size" "10467105205"
+				"download" "10231245648"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"multiplayer-testing"
 			{
-				"gid" "9F12DE036AA6DD90C5A3D7226D82F97E"
-				"size" "41BFD46881AADA7ABD01833D4C775B90"
-				"download" "4910760FB716AF8CF328108ABB909D2A"
+				"gid" "96B8B193BE26BFE00C3CFB4A8674AB9C"
+				"size" "160B89FAC435F7B4CDB6C9E4D57FAE58"
+				"download" "0B2AC6076A8678C3AFB3FB62355E96F4"
 			}
 			"testing"
 			{
-				"gid" "E19B8B1A6BFC86B607F2C8A4AEF1F282"
-				"size" "16463B63FFC66F12D63AC29ECB10C696"
-				"download" "F0458C66D0AB6EA2FACFAF883DA1A28F"
+				"gid" "2AFD8F00D231250A0CC8AC4A4CA9FAA3"
+				"size" "2ED631DF959AEE3611FD8F16192920DD"
+				"download" "7C476BB318533859358CEEAF532DF533"
 			}
 			"unstable-default"
 			{
-				"gid" "7E55FE2D2F3EDF699BDFED6B652EE735"
-				"size" "6B72A72FDD9FC9ABE2B61FB06101D4C2"
-				"download" "F3855C763BCD9C512B0236704A9F8CE1"
+				"gid" "C349DB6787FA332723F3DEF63C36D895"
+				"size" "E37E33D7FD4D163E01E171A7C8E96E47"
+				"download" "3D56D555BFDBB33C3F7955A90EC561BA"
 			}
 		}
 	}
@@ -367,26 +368,26 @@
 	{
 		"public"
 		{
-			"buildid" "13381377"
-			"timeupdated" "1707231641"
+			"buildid" "13599621"
+			"timeupdated" "1709286570"
 		}
 		"multiplayer-testing"
 		{
-			"buildid" "13433903"
+			"buildid" "13613626"
 			"pwdrequired" "1"
-			"timeupdated" "1707749987"
+			"timeupdated" "1709299250"
 		}
 		"testing"
 		{
-			"buildid" "13433497"
+			"buildid" "13599832"
 			"pwdrequired" "1"
-			"timeupdated" "1707745833"
+			"timeupdated" "1709201752"
 		}
 		"unstable-default"
 		{
-			"buildid" "13414774"
+			"buildid" "13599621"
 			"pwdrequired" "1"
-			"timeupdated" "1707484183"
+			"timeupdated" "1709200449"
 		}
 	}
 }
@@ -410,6 +411,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22310398"
-"_sha" "3c041a433de04270e8d5626043fe0f12e78cf8b0"
-"_size" "6757"
+"_change_number" "22578719"
+"_sha" "30047057d89899254e112912681eb84566565b01"
+"_size" "6787"
