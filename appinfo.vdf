@@ -211,8 +211,8 @@
 		}
 		"public"
 		{
-			"buildid" "13378173"
-			"timeupdated" "1707205058"
+			"buildid" "13610709"
+			"timeupdated" "1709281948"
 		}
 		"ceshi"
 		{
@@ -222,15 +222,9 @@
 		}
 		"ceshi2"
 		{
-			"buildid" "13377978"
+			"buildid" "13610381"
 			"pwdrequired" "1"
-			"timeupdated" "1707203487"
-		}
-		"dev_1.0.6"
-		{
-			"buildid" "13248568"
-			"pwdrequired" "1"
-			"timeupdated" "1706014407"
+			"timeupdated" "1709279196"
 		}
 	}
 	"baselanguages" "english,schinese,tchinese"
@@ -263,9 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "4565579562865457384"
-				"size" "14750307804"
-				"download" "6117437136"
+				"gid" "2012673316021299327"
+				"size" "15570074398"
+				"download" "6480526608"
 			}
 		}
 		"encryptedmanifests"
@@ -278,15 +272,9 @@
 			}
 			"ceshi2"
 			{
-				"gid" "7FB1A1E567B94F1D3070A2E4A3BBB400"
-				"size" "A5453A584FE6EF8F4DFCF784FAFBB18B"
-				"download" "3E0143FFEC3CC6ACEFF4891714DBD064"
-			}
-			"dev_1.0.6"
-			{
-				"gid" "C94FE9076754016A4AC189ACF29B2D9C"
-				"size" "3E4B3C0A6FEAA42EB6A324F933A31A0F"
-				"download" "D69E54382959C7BE4AD43C1B010E0FCE"
+				"gid" "DC9F52C1F41C579E50AF5C180456396B"
+				"size" "BD13B662E55D387E0950A228B7B42729"
+				"download" "7BAF1CCA9C325E9F7DDF197C3AEB9145"
 			}
 		}
 	}
@@ -312,21 +300,32 @@
 {
 	"quota" "10000000000"
 	"maxnumfiles" "10000"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
-	"sync_while_suspended" "1"
 	"savefiles"
 	{
 		"0"
 		{
 			"root" "WinAppDataLocalLow"
 			"path" "zjy/zygame_steam_cloud/"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "zjy/zygame_steam/"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "zjy/zygame_steam_cloud2/"
 			"pattern" "*"
 			"recursive" "1"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22269728"
-"_sha" "dab6757171e5f4e4012ca0605b94534d1863424b"
-"_size" "6270"
+"_change_number" "22574726"
+"_sha" "f6dfa99c0ce974094cf60554cb30de09bf610653"
+"_size" "6168"
