@@ -272,15 +272,15 @@
 		{
 			"public"
 			{
-				"gid" "3330078312012983120"
-				"size" "77569097323"
-				"download" "32609655824"
+				"gid" "3706089120883189388"
+				"size" "77569211053"
+				"download" "32609688016"
 			}
 			"experimental"
 			{
-				"gid" "3330078312012983120"
-				"size" "77569097323"
-				"download" "32609655824"
+				"gid" "3706089120883189388"
+				"size" "77569211053"
+				"download" "32609688016"
 			}
 		}
 		"encryptedmanifests"
@@ -293,9 +293,9 @@
 			}
 			"internaltest"
 			{
-				"gid" "9B9585FD5BD9C28BF1B5386D255A3C0F"
-				"size" "C1EB3601C8B868D6040EA71252EBB329"
-				"download" "50B77F547765AF67E99925E455BF10CE"
+				"gid" "1E74DD55A79B5301E02052017E610FB8"
+				"size" "EBA1236D9E7DC9AA2FFBBFDE64335D15"
+				"download" "9B694DD678E05CDE69BC0538526990DF"
 			}
 			"veterans"
 			{
@@ -309,8 +309,8 @@
 	{
 		"public"
 		{
-			"buildid" "13597248"
-			"timeupdated" "1709250335"
+			"buildid" "13610350"
+			"timeupdated" "1709280626"
 		}
 		"batteries"
 		{
@@ -320,15 +320,15 @@
 		}
 		"experimental"
 		{
-			"buildid" "13597248"
+			"buildid" "13610350"
 			"description" "Predeployment Testing"
-			"timeupdated" "1709240762"
+			"timeupdated" "1709280511"
 		}
 		"internaltest"
 		{
-			"buildid" "13597248"
+			"buildid" "13610350"
 			"pwdrequired" "1"
-			"timeupdated" "1709180136"
+			"timeupdated" "1709278910"
 		}
 		"veterans"
 		{
@@ -406,6 +406,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22569666"
-"_sha" "ed52ce4ec6ff4be4355d85caa7fe495f9a5b4c6c"
+"_change_number" "22574469"
+"_sha" "5d4d299f1eb003ed026992df79839f73f08c3ee9"
 "_size" "7567"
