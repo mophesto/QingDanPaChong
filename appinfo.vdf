@@ -170,6 +170,7 @@
 		"category_30" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -323,7 +324,7 @@
 	"developer" "Empyrean"
 	"publisher" "Frozen District"
 	"homepage" "http://houseflippergame.com/"
-	"listofdlc" "825570,942290,1021110,1126050,1460920,1569190,1832960"
+	"listofdlc" "825570,942290,1021110,1126050,1460920,1569190,1832960,2819590"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -447,9 +448,9 @@
 		{
 			"public"
 			{
-				"gid" "7224798119678527739"
-				"size" "10088109680"
-				"download" "4850955200"
+				"gid" "2355286588069265873"
+				"size" "10088024920"
+				"download" "4850935904"
 			}
 		}
 		"encryptedmanifests"
@@ -462,9 +463,9 @@
 			}
 			"testing"
 			{
-				"gid" "8B033DFFECEFE70931E86774DE0A0B2F"
-				"size" "FB776DE764CAD65042F7CF33C0283ABA"
-				"download" "C56A5E54086024CC51A68703019D1D49"
+				"gid" "064A981F44E093BB69C21162E366BCB7"
+				"size" "A5D97C360D99A813AABC7ECF86344EB2"
+				"download" "C4340791EC6E4C27EC5C972DA493F6C7"
 			}
 		}
 	}
@@ -478,9 +479,9 @@
 		{
 			"public"
 			{
-				"gid" "3849595353984722202"
-				"size" "10349737287"
-				"download" "4954184960"
+				"gid" "8537117412909053946"
+				"size" "10349653437"
+				"download" "4954165792"
 			}
 		}
 		"encryptedmanifests"
@@ -493,9 +494,9 @@
 			}
 			"testing"
 			{
-				"gid" "7B429FC67F14F0B5349EDA9BBA0B2699"
-				"size" "CED408827675978E73C2987E82E20AF0"
-				"download" "4357476AA45A7620E24075569FBF2802"
+				"gid" "100C0E2770DE1B4CB72A375B2760685F"
+				"size" "A995D69E9DAF0E18567916BAB83ED52A"
+				"download" "53B1339873C8DB44D033FF3CE9093DF4"
 			}
 		}
 	}
@@ -968,8 +969,8 @@
 	{
 		"public"
 		{
-			"buildid" "13312543"
-			"timeupdated" "1707817842"
+			"buildid" "13613173"
+			"timeupdated" "1709313843"
 		}
 		"streamer"
 		{
@@ -979,9 +980,9 @@
 		}
 		"testing"
 		{
-			"buildid" "13312543"
+			"buildid" "13613173"
 			"pwdrequired" "1"
-			"timeupdated" "1707817751"
+			"timeupdated" "1709297023"
 		}
 	}
 }
@@ -1047,6 +1048,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22322090"
-"_sha" "c0c134b89937474bee396dbd3fd36460fc973e83"
-"_size" "20023"
+"_change_number" "22585128"
+"_sha" "5ee264014614ad7131b1d966f7400e201b5dc54b"
+"_size" "20053"
