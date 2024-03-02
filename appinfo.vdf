@@ -120,9 +120,9 @@
 		{
 			"public"
 			{
-				"gid" "3182171886980983372"
+				"gid" "5882870633157798198"
 				"size" "2000941719"
-				"download" "206766864"
+				"download" "206766144"
 			}
 		}
 		"encryptedmanifests"
@@ -135,15 +135,9 @@
 			}
 			"qatest"
 			{
-				"gid" "05E6229BB2D34AB1B8B8C01BD83FBEDC"
+				"gid" "AB8B9FEEF94955D6B30B32EB4441BC28"
 				"size" "2572D8EFEAA3974002CBF1B26BCC6B3A"
-				"download" "44972A04CDFBD099CFCDE6506C7ADB41"
-			}
-			"test"
-			{
-				"gid" "F73FD663735191B6DACD956A651719CE"
-				"size" "31204742AD87E751A9D1668E8C27275F"
-				"download" "6FD82AD1C32913D0A3C52936DE65D939"
+				"download" "CD6BE52E8F201EA326BD318C1DC36527"
 			}
 		}
 	}
@@ -154,24 +148,18 @@
 		{
 			"public"
 			{
-				"gid" "5707467148505052593"
+				"gid" "8528726719308408685"
 				"size" "2000941719"
-				"download" "206823840"
+				"download" "206823104"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"qatest"
 			{
-				"gid" "19B560E42836A0A58EF99CDD4DF258E5"
+				"gid" "5469B3328D2CCEE6AF6950FA21913B41"
 				"size" "2572D8EFEAA3974002CBF1B26BCC6B3A"
-				"download" "66A25EBCE8F3B9975D6053B10B8432B9"
-			}
-			"test"
-			{
-				"gid" "84842DC75B0B617AF985DFD80E18C970"
-				"size" "31204742AD87E751A9D1668E8C27275F"
-				"download" "8D1B0EF28CB40A0EB47A74B2C607C912"
+				"download" "1E868E2CB1C801A4D11A27F75CBDA079"
 			}
 		}
 	}
@@ -179,8 +167,8 @@
 	{
 		"public"
 		{
-			"buildid" "13608323"
-			"timeupdated" "1709274268"
+			"buildid" "13620145"
+			"timeupdated" "1709359702"
 		}
 		"oldbranch"
 		{
@@ -190,15 +178,9 @@
 		}
 		"qatest"
 		{
-			"buildid" "13608323"
+			"buildid" "13620145"
 			"pwdrequired" "1"
-			"timeupdated" "1709259143"
-		}
-		"test"
-		{
-			"buildid" "13608323"
-			"pwdrequired" "1"
-			"timeupdated" "1709274215"
+			"timeupdated" "1709359641"
 		}
 	}
 }
@@ -206,10 +188,21 @@
 {
 	"quota" "1000000000"
 	"maxnumfiles" "1000"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "NeutronStar/WastelandExpress"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "22573385"
-"_sha" "67b0a5953db20f2e2956b2b5524a7295b9350ad7"
-"_size" "4078"
+"_change_number" "22597370"
+"_sha" "52c3a7427e541e94c8409dc5ac10b534df455848"
+"_size" "3774"
