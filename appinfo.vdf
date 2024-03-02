@@ -221,9 +221,9 @@
 		{
 			"public"
 			{
-				"gid" "7624299689230512242"
-				"size" "5755428821"
-				"download" "2733114704"
+				"gid" "5224532167662784982"
+				"size" "5942210520"
+				"download" "2808297088"
 			}
 			"olderversion"
 			{
@@ -246,17 +246,23 @@
 		}
 		"encryptedmanifests"
 		{
+			"cinematic_build"
+			{
+				"gid" "5AE17C3C7E7FAEACE7F784D0D3F88E0E"
+				"size" "BCEE9D55D2D790066771330E6360AFE2"
+				"download" "2441B2B33BA1CB4B59DB7C5A065F9E2C"
+			}
 			"internaltesting"
 			{
-				"gid" "B5F5A2EECA9C9ABB4FC3938836A13CCB"
-				"size" "8423510A89A85D7E699A7F5A13D4BFB5"
-				"download" "37DCEFDEDBA19A3064EA0790A6A67AAC"
+				"gid" "FCA362169869F0A84D26FEFCB9494777"
+				"size" "DC10B890B3051486A71231F9F1259FF0"
+				"download" "A12B0E06A4A1B144214B778228EEC748"
 			}
 			"internaltesting-releasebuild"
 			{
-				"gid" "C46C5CD26E2ED9C67978FF0907C8D602"
-				"size" "2CB9070EBF3D838234FD2AAC6B62D40A"
-				"download" "EFCE47604E1D2B4DA2DF06FBF1317103"
+				"gid" "056735F2B6D31D5C79A2E284E0DF4E4C"
+				"size" "1DE71AF7C75243855E8F5F9096EA2CC1"
+				"download" "2174C1BBAB2A527238BD585315004B84"
 			}
 			"streaming"
 			{
@@ -270,20 +276,26 @@
 	{
 		"public"
 		{
-			"buildid" "13503024"
-			"timeupdated" "1708407628"
+			"buildid" "13610769"
+			"timeupdated" "1709355208"
+		}
+		"cinematic_build"
+		{
+			"buildid" "13610860"
+			"pwdrequired" "1"
+			"timeupdated" "1709282946"
 		}
 		"internaltesting"
 		{
-			"buildid" "13503024"
+			"buildid" "13610769"
 			"pwdrequired" "1"
-			"timeupdated" "1708407636"
+			"timeupdated" "1709355320"
 		}
 		"internaltesting-releasebuild"
 		{
-			"buildid" "13503024"
+			"buildid" "13610769"
 			"pwdrequired" "1"
-			"timeupdated" "1708407662"
+			"timeupdated" "1709282879"
 		}
 		"olderversion"
 		{
@@ -320,6 +332,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "22418325"
-"_sha" "c90c45fbe977fdb410f9e908c8499603d09ed3a8"
-"_size" "5973"
+"_change_number" "22596861"
+"_sha" "477e80ebf7934eff59fa2b6171cb863e92bd8159"
+"_size" "6266"
