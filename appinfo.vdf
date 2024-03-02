@@ -89,7 +89,7 @@
 			"height_pct" "78.25268416224371"
 		}
 	}
-	"store_asset_mtime" "1708790370"
+	"store_asset_mtime" "1709117900"
 	"associations"
 	{
 		"0"
@@ -171,8 +171,8 @@
 		"0" "4328"
 		"1" "7332"
 		"2" "220585"
-		"3" "3859"
-		"4" "12472"
+		"3" "12472"
+		"4" "3859"
 		"5" "9"
 		"6" "4172"
 		"7" "4695"
@@ -182,15 +182,15 @@
 		"11" "493"
 		"12" "1775"
 		"13" "1676"
-		"14" "1643"
-		"15" "4182"
+		"14" "4182"
+		"15" "1643"
 		"16" "5125"
 		"17" "1695"
-		"18" "1666"
-		"19" "1662"
+		"18" "1662"
+		"19" "1666"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -249,9 +249,9 @@
 		{
 			"public"
 			{
-				"gid" "2525734447863795394"
-				"size" "3710039925"
-				"download" "3154364208"
+				"gid" "9165364669036750510"
+				"size" "3712673827"
+				"download" "3156464480"
 			}
 			"japan_release"
 			{
@@ -285,15 +285,15 @@
 			}
 			"stable"
 			{
-				"gid" "172332773187391767"
-				"size" "3700726101"
-				"download" "3152624080"
-			}
-			"test"
-			{
 				"gid" "2525734447863795394"
 				"size" "3710039925"
 				"download" "3154364208"
+			}
+			"test"
+			{
+				"gid" "9165364669036750510"
+				"size" "3712673827"
+				"download" "3156464480"
 			}
 			"test2"
 			{
@@ -336,9 +336,9 @@
 			}
 			"kingdomsreborn1"
 			{
-				"gid" "DBBCF75EE06244BB63F853A72081F227"
-				"size" "13F5F6C2439F1EFFD4EBD6AE049CCC8E"
-				"download" "5F4BE925E0ABFD59D2890426D251EFFC"
+				"gid" "DA7549BB096C52A9C83229E7F0332BF3"
+				"size" "42A2CC553C2992702E763B14B4FB033C"
+				"download" "AD757B93164075978548B7468D355934"
 			}
 			"kingdomsreborn10"
 			{
@@ -360,9 +360,9 @@
 			}
 			"kingdomsreborn2"
 			{
-				"gid" "C4265D3BADEBC992D92B56E3F2668471"
-				"size" "BC80267BAEBC6E692FDA532F93BCE16F"
-				"download" "1226EFBDD69BA4DEF096E92EA9D5131A"
+				"gid" "B32F20742318A71479CCF271B3223130"
+				"size" "FA5E353BF01AC5F19CD1BC254E6A25A6"
+				"download" "90E1739CC2F45D88CDDB82C68BF97EBD"
 			}
 			"kingdomsreborn3"
 			{
@@ -400,8 +400,8 @@
 	{
 		"public"
 		{
-			"buildid" "13585024"
-			"timeupdated" "1709102232"
+			"buildid" "13612802"
+			"timeupdated" "1709348856"
 		}
 		"desynccheck17"
 		{
@@ -441,9 +441,9 @@
 		}
 		"kingdomsreborn1"
 		{
-			"buildid" "13545237"
+			"buildid" "13612802"
 			"pwdrequired" "1"
-			"timeupdated" "1708703962"
+			"timeupdated" "1709294738"
 		}
 		"kingdomsreborn10"
 		{
@@ -465,9 +465,9 @@
 		}
 		"kingdomsreborn2"
 		{
-			"buildid" "13551328"
+			"buildid" "13612802"
 			"pwdrequired" "1"
-			"timeupdated" "1708759238"
+			"timeupdated" "1709294746"
 		}
 		"kingdomsreborn3"
 		{
@@ -501,15 +501,15 @@
 		}
 		"stable"
 		{
-			"buildid" "13553509"
+			"buildid" "13585024"
 			"description" "stable (mostly the same as default branch)"
-			"timeupdated" "1709041687"
+			"timeupdated" "1709348765"
 		}
 		"test"
 		{
-			"buildid" "13585024"
+			"buildid" "13612802"
 			"description" "Latest Test Branch"
-			"timeupdated" "1709101758"
+			"timeupdated" "1709295472"
 		}
 		"test2"
 		{
@@ -559,6 +559,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22538060"
-"_sha" "9c8df1a3eab5882be74e7e4a8dfde7a5dacbf201"
-"_size" "11355"
+"_change_number" "22597238"
+"_sha" "51a4d0fba6b6af1fd431b95e5e9eb9c6903bc7af"
+"_size" "11356"
