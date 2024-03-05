@@ -261,24 +261,24 @@
 		{
 			"public"
 			{
-				"gid" "6647101838797518354"
-				"size" "13472380790"
-				"download" "4313921728"
+				"gid" "1251499104975995326"
+				"size" "13003767328"
+				"download" "4310970256"
 			}
 			"beta"
 			{
-				"gid" "6647101838797518354"
-				"size" "13472380790"
-				"download" "4313921728"
+				"gid" "1251499104975995326"
+				"size" "13003767328"
+				"download" "4310970256"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta_a"
 			{
-				"gid" "D08DD6355C1EAD9D7DBE4E39B7211059"
-				"size" "3E37B271C77941336A5483016DD25BE0"
-				"download" "79D884EDCC78D64CB7CFFD89B4198E76"
+				"gid" "5078FAC9B06DB3BE32FDE0436B2C6583"
+				"size" "C9BAFEB7EFF49BA484FF465799F44CA6"
+				"download" "B028BABDBBC64678EE4FFF7494CCA0F0"
 			}
 		}
 	}
@@ -290,20 +290,20 @@
 		}
 		"public"
 		{
-			"buildid" "13609458"
-			"timeupdated" "1709273119"
+			"buildid" "13643890"
+			"timeupdated" "1709633082"
 		}
 		"beta"
 		{
-			"buildid" "13609458"
+			"buildid" "13643890"
 			"description" "测试"
-			"timeupdated" "1709273072"
+			"timeupdated" "1709632981"
 		}
 		"beta_a"
 		{
-			"buildid" "13609458"
+			"buildid" "13643890"
 			"pwdrequired" "1"
-			"timeupdated" "1709271873"
+			"timeupdated" "1709632709"
 		}
 	}
 	"hasdepotsindlc" "1"
@@ -325,6 +325,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22573261"
-"_sha" "c0828b7d004ef3a327fcfcb446d1a6d85bc45baf"
+"_change_number" "22636778"
+"_sha" "367723e0005944ef9715cba6fff08f3d7a07b528"
 "_size" "5676"
