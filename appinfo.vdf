@@ -33,6 +33,7 @@
 		"turkish" "1"
 		"brazilian" "1"
 		"ukrainian" "1"
+		"latam" "1"
 	}
 	"oslist" "windows"
 	"osarch" ""
@@ -237,7 +238,7 @@
 		}
 	}
 	"steam_release_date" "1702050749"
-	"metacritic_score" "92"
+	"metacritic_score" "91"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/against-the-storm\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -245,24 +246,24 @@
 	"store_tags"
 	{
 		"0" "9"
-		"1" "599"
-		"2" "4328"
+		"1" "4328"
+		"2" "599"
 		"3" "7332"
 		"4" "1643"
-		"5" "3810"
-		"6" "12472"
-		"7" "8945"
+		"5" "12472"
+		"6" "8945"
+		"7" "3810"
 		"8" "220585"
 		"9" "1662"
-		"10" "1669"
-		"11" "1716"
+		"10" "1716"
+		"11" "1669"
 		"12" "4695"
-		"13" "1695"
-		"14" "4182"
+		"13" "4182"
+		"14" "1695"
 		"15" "3871"
-		"16" "255534"
-		"17" "1684"
-		"18" "3959"
+		"16" "3959"
+		"17" "255534"
+		"18" "1684"
 		"19" "492"
 	}
 	"review_score" "9"
@@ -297,13 +298,13 @@
 		"3136358659"
 		{
 			"controller_type" "controller_neptune"
-			"enabled_branches" "default,development,experimental_internal,steam_deck_beta"
+			"enabled_branches" "default,development,experimental,experimental_internal,external_qa,steam_deck_beta"
 			"use_action_block" "false"
 		}
-		"3092170646"
+		"3170893575"
 		{
 			"controller_type" "controller_neptune"
-			"enabled_branches" "default,development,experimental_internal,steam_deck_beta"
+			"enabled_branches" "default,development,experimental,experimental_internal,external_qa,steam_deck_beta"
 			"use_action_block" "false"
 		}
 	}
@@ -322,15 +323,15 @@
 		{
 			"public"
 			{
-				"gid" "1513202028396707619"
-				"size" "5546729448"
-				"download" "3165475808"
+				"gid" "1415845506340075393"
+				"size" "5149027406"
+				"download" "2851351376"
 			}
 			"experimental"
 			{
-				"gid" "6636107114991594616"
-				"size" "5546197799"
-				"download" "3165314816"
+				"gid" "7433218514538262046"
+				"size" "5149027165"
+				"download" "2851351296"
 			}
 		}
 		"encryptedmanifests"
@@ -343,15 +344,15 @@
 			}
 			"development"
 			{
-				"gid" "884B4DC8D3F8976B5AEDDED9A2240566"
-				"size" "F53EC70B7A07FD2E37E3D1E82C2489E5"
-				"download" "D1106BA6CAECEDD7BEFD2414D308A3C4"
+				"gid" "65BF55B4313D079F5624A55617B2D251"
+				"size" "96B1B3B30AE2EF30E1CEDA99C902134F"
+				"download" "1D3196E6B7CCEBD613C87BAD37763EB1"
 			}
 			"experimental_internal"
 			{
-				"gid" "8361BDB4C306BBFA6FFC58064344F00A"
-				"size" "98A82A4F01F4D83C99A8216B4998DCA4"
-				"download" "8C1A932920AA64B2E1C6E8414E2F3EB4"
+				"gid" "E158AD8BEC9011F7208BA48365087442"
+				"size" "3F9DF432756B6AD7955BE2CBBD4E3F88"
+				"download" "4843EFB8A116C81C16982B4BD55496A8"
 			}
 			"external_qa"
 			{
@@ -408,8 +409,8 @@
 	{
 		"public"
 		{
-			"buildid" "13414143"
-			"timeupdated" "1707487781"
+			"buildid" "13602983"
+			"timeupdated" "1709574790"
 		}
 		"closed_alpha"
 		{
@@ -419,21 +420,21 @@
 		}
 		"development"
 		{
-			"buildid" "13414143"
+			"buildid" "13602983"
 			"pwdrequired" "1"
-			"timeupdated" "1707479839"
+			"timeupdated" "1709221459"
 		}
 		"experimental"
 		{
-			"buildid" "13414203"
+			"buildid" "13603100"
 			"description" "Experimental Branch"
-			"timeupdated" "1707487844"
+			"timeupdated" "1709574804"
 		}
 		"experimental_internal"
 		{
-			"buildid" "13414203"
+			"buildid" "13603100"
 			"pwdrequired" "1"
-			"timeupdated" "1707480154"
+			"timeupdated" "1709222067"
 		}
 		"external_qa"
 		{
@@ -505,6 +506,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22277917"
-"_sha" "83d04f3481218f06237e758feeb8813cac91ec48"
-"_size" "10212"
+"_change_number" "22626291"
+"_sha" "b3d21153e51b168ae1a82459a6eb68b267bdc862"
+"_size" "10278"
