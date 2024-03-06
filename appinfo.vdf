@@ -140,6 +140,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -224,8 +225,8 @@
 		"13" "19"
 		"14" "1775"
 		"15" "3942"
-		"16" "1673"
-		"17" "4305"
+		"16" "4305"
+		"17" "1673"
 		"18" "4791"
 		"19" "8093"
 	}
@@ -296,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "6242713924243927822"
-				"size" "656300821"
-				"download" "348673440"
+				"gid" "2536144614134451205"
+				"size" "689376424"
+				"download" "369004192"
 			}
 			"public-beta"
 			{
@@ -308,9 +309,9 @@
 			}
 			"public-previous"
 			{
-				"gid" "4593126137370998619"
-				"size" "558719235"
-				"download" "284091968"
+				"gid" "6242713924243927822"
+				"size" "656300821"
+				"download" "348673440"
 			}
 		}
 		"encryptedmanifests"
@@ -347,9 +348,9 @@
 			}
 			"feature-test"
 			{
-				"gid" "0CF897B77FC8C94DCB1C965058CF88F9"
-				"size" "AB03586A60CEFEEA8CA26D284E4FCC9B"
-				"download" "74B764CB26FEEA8016212DB9EE80B5E3"
+				"gid" "47D1818CD040B4DF40D237CE34CC880F"
+				"size" "A778B0756010174E1A06FECB79F5BBDA"
+				"download" "E9AAE77BE5B716A234169C24432232F3"
 			}
 			"loc-beta"
 			{
@@ -359,15 +360,15 @@
 			}
 			"nightly-build"
 			{
-				"gid" "10B6F240384ED51BD7F5BF4210ECC582"
-				"size" "96A588B2D1DE9FBDB23FA3BCDCB0D840"
-				"download" "8CA64680D0B5DD9F5828D8AA6863B49B"
+				"gid" "4AF43859823BBA11C26EBCE718AB0B84"
+				"size" "E07E9B2D3E8618EE9A0A449FB59ABA34"
+				"download" "E155E6A38964A4267D79A2564321B27A"
 			}
 			"nightly-build-2"
 			{
-				"gid" "4F9E65A921E76D4F1D4456DE1931F1D8"
-				"size" "68B195D8D2B3406FDA6F5FED4A9A086A"
-				"download" "38F098E3DB7CE34004975C4A8D8EFA73"
+				"gid" "AE12AE8926C827B26433E0A356570B42"
+				"size" "279805E968638DFEF6C1F7DAFDA81543"
+				"download" "E34E21ABACFE2079F376586FBF79E4B4"
 			}
 			"nightly-build-3"
 			{
@@ -377,9 +378,9 @@
 			}
 			"playtest"
 			{
-				"gid" "28638ADBDA5075723ED9596BFF888BEE"
-				"size" "E3AED687B27C85C37E2AEB23C05B467E"
-				"download" "5368FD64205D971BB3A39C2D923236AC"
+				"gid" "12540D43D47F885218643F893048DD38"
+				"size" "2BA7BBD36A71E15F3382ACF3BFA9F082"
+				"download" "AA1DA620D3434EE162105E54E5AE2B60"
 			}
 			"private-beta"
 			{
@@ -389,15 +390,15 @@
 			}
 			"random-stuff"
 			{
-				"gid" "BD8B54520C81F174FF8254946EB98866"
-				"size" "302E7C64737B55C96FCBE6048118D7CD"
-				"download" "71DCD67F3E2B2B30CC9DDDCC15596B8B"
+				"gid" "0664C5D669BE4AA590672FBFD68E587C"
+				"size" "1694B12C3024D00B2C914ECAC2C1022D"
+				"download" "D4C523CA6E34F316DDE6F02452304EF1"
 			}
 			"staging"
 			{
-				"gid" "9FCF7364AAE6768C7778BFF60327E1DA"
-				"size" "9AA8ABACBE13833D5BB84670528EC9A5"
-				"download" "63A590DEC361A9A3574F7FA278D8E468"
+				"gid" "B71B8B42BE948D5385FB3A2999F1C3BA"
+				"size" "764C6947B39548BFAC3C3226E48C627F"
+				"download" "57630B3D95758EF1C6AB28C68E44CFC4"
 			}
 			"the-cafeteria"
 			{
@@ -419,8 +420,8 @@
 	{
 		"public"
 		{
-			"buildid" "12547701"
-			"timeupdated" "1701194617"
+			"buildid" "13451157"
+			"timeupdated" "1709662181"
 		}
 		"cdn-test"
 		{
@@ -454,9 +455,9 @@
 		}
 		"feature-test"
 		{
-			"buildid" "13224661"
+			"buildid" "13605382"
 			"pwdrequired" "1"
-			"timeupdated" "1705715274"
+			"timeupdated" "1709237406"
 		}
 		"loc-beta"
 		{
@@ -466,15 +467,15 @@
 		}
 		"nightly-build"
 		{
-			"buildid" "13344838"
+			"buildid" "13643174"
 			"pwdrequired" "1"
-			"timeupdated" "1706863463"
+			"timeupdated" "1709628254"
 		}
 		"nightly-build-2"
 		{
-			"buildid" "13303162"
+			"buildid" "13647066"
 			"pwdrequired" "1"
-			"timeupdated" "1706542331"
+			"timeupdated" "1709652773"
 		}
 		"nightly-build-3"
 		{
@@ -484,9 +485,9 @@
 		}
 		"playtest"
 		{
-			"buildid" "13396401"
+			"buildid" "13591502"
 			"pwdrequired" "1"
-			"timeupdated" "1707337025"
+			"timeupdated" "1709145018"
 		}
 		"private-beta"
 		{
@@ -501,21 +502,21 @@
 		}
 		"public-previous"
 		{
-			"buildid" "11689336"
+			"buildid" "12547701"
 			"description" "Previous live production version"
-			"timeupdated" "1701288103"
+			"timeupdated" "1709661634"
 		}
 		"random-stuff"
 		{
-			"buildid" "13261637"
+			"buildid" "13545583"
 			"pwdrequired" "1"
-			"timeupdated" "1706113352"
+			"timeupdated" "1708705869"
 		}
 		"staging"
 		{
-			"buildid" "13360824"
+			"buildid" "13451157"
 			"pwdrequired" "1"
-			"timeupdated" "1707037710"
+			"timeupdated" "1707891159"
 		}
 		"the-cafeteria"
 		{
@@ -526,6 +527,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22249981"
-"_sha" "7b7b41da55519ddf6239363213871f1c6e58e087"
-"_size" "10398"
+"_change_number" "22644066"
+"_sha" "6c43ebdeb7f59e76628525f6518f45e2b4021631"
+"_size" "10420"
