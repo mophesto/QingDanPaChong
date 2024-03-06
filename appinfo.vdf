@@ -237,7 +237,7 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -431,9 +431,9 @@
 		{
 			"public"
 			{
-				"gid" "841212892944856336"
-				"size" "28588898962"
-				"download" "25970204240"
+				"gid" "5667713363487469240"
+				"size" "29229136972"
+				"download" "26568191472"
 			}
 		}
 		"encryptedmanifests"
@@ -446,21 +446,21 @@
 			}
 			"devqa"
 			{
-				"gid" "DE1C857F77537870D986DFF900105AF1"
-				"size" "4B841685BB43B0E481885DBF27661784"
-				"download" "791E4A95939E50399A3AA1616A580FBC"
+				"gid" "FDBF5B2ABEF1B715BA5B1BD41EB530B1"
+				"size" "9257AE9FC5CB47511BE0029EF22ED2B9"
+				"download" "2FC7809E13C3FB677606AD0761EA212B"
 			}
 			"enzyme"
 			{
-				"gid" "5CEE8CFD2C64889BD5AA48914667424E"
-				"size" "45D0F908D0C840BD6440D85088E99DF1"
-				"download" "7800870EE7954C4ED3A916DBB393C223"
+				"gid" "F968FE26CFF00DA3EFFC435A34B06D28"
+				"size" "FD5FA74B17136EB0CDF4F4F9E3CEA4BE"
+				"download" "938B9B327E9312B8E6E70C347E3A127F"
 			}
 			"enzyme2"
 			{
-				"gid" "DD4A9A2910CD4596CB4B30C13E2BB046"
-				"size" "367F6CD023E19275870403266E76B807"
-				"download" "0C8040090E9B7B0AB61303B984B2A426"
+				"gid" "D891DA95455D1F89F73FCD25A7C5D860"
+				"size" "77667929917A3866B3020923982B0F45"
+				"download" "65460FE22922E53B6C1D86AF983E702A"
 			}
 			"hammer"
 			{
@@ -482,33 +482,33 @@
 			}
 			"localize"
 			{
-				"gid" "653AFB2C7209232A756A1E392306648D"
-				"size" "46B2B6DE0DF1939423DB9C760BF63F97"
-				"download" "7DC02FCDA6117E70D1BB592E69472E1F"
+				"gid" "AB12BEC38690686A6D35475190C0D54E"
+				"size" "18AAE549201526B78879A82F700F0DB2"
+				"download" "746BDD8A5737C4F5F3BC90F379413B04"
 			}
 			"nightly"
 			{
-				"gid" "EEC23F7E105E508FA72DE105E7D85346"
-				"size" "C129DC4E59C8258B4407CA57AAFB8C32"
-				"download" "EF978B4BD290F9E5F147AB26E261B27E"
+				"gid" "D0EAF246F18097BA0F544B6B94457F33"
+				"size" "A075C200F5DC998D13161FD70CAD669F"
+				"download" "DD99ED4A4367835019AFBE3B385A4A12"
 			}
 			"playtests"
 			{
-				"gid" "BF210218F47D381883B862BD520100BF"
-				"size" "ABBF925FD0341D50DF5788B82D11170D"
-				"download" "6A152D6525BA58C70479472446D1218F"
+				"gid" "63AA28EDCD93D0AD01E317D68BBAD7C5"
+				"size" "D97A0C9145177B04567B7287041D9D6E"
+				"download" "DDD97A3165E7783DDD9522DBC88AE621"
 			}
 			"qa-staging"
 			{
-				"gid" "B403E390146DE7EBE880239486113237"
-				"size" "E57CCE4F5D801D02B8428441623EDAE6"
-				"download" "23C58A843AFB68B00BCD2E0D3C31687A"
+				"gid" "EDED2FC76D9A3881B185419D08B4EB90"
+				"size" "2E7D4FC60FBEECE335487C67659E909D"
+				"download" "DF661F07FB06FAAFFE16D24A3EBAC9E2"
 			}
 			"qa-test"
 			{
-				"gid" "2265EE0B6871CB17A42D3DC19D777321"
-				"size" "1091B298446ED0432EDE0F5A02085A05"
-				"download" "310C45D128E63946D5F744C531A280B4"
+				"gid" "CE903ABFB412BCF6BAFCAC2465CFC7DF"
+				"size" "8472BEE0540C83C2B6361B240DAAEEF3"
+				"download" "C1AA0AE20DEE94660D2D978BFAC40E70"
 			}
 		}
 	}
@@ -543,15 +543,15 @@
 			}
 			"enzyme"
 			{
-				"gid" "B5D5049E8C268E025755312B5F204B3D"
-				"size" "AA433FEB2E88C0582BA5FC835B2B17DA"
-				"download" "2641FB4236BB8581943FDD87D5247C45"
+				"gid" "EB02E9DC374EF4C902442A890195B1BF"
+				"size" "E22C1238E1A25287C4ABA1D1392A3607"
+				"download" "E22C1238E1A25287C4ABA1D1392A3607"
 			}
 			"enzyme2"
 			{
-				"gid" "D005EBAB45EA8C8EE0566C11C161A7B3"
-				"size" "F30CBA35073650DC378414CACA25AE38"
-				"download" "555DB69AB26BC56EA0E054D49151EF48"
+				"gid" "4998AE1A023F2FDD39520AC7466644CA"
+				"size" "8FE73EC284810D29CF133E497F43812A"
+				"download" "8FE73EC284810D29CF133E497F43812A"
 			}
 			"hammer"
 			{
@@ -634,15 +634,15 @@
 			}
 			"enzyme"
 			{
-				"gid" "800BCD9509A675CCF61510C8720B846F"
-				"size" "02B0CC06810DD6168F8B4E83ACFAA632"
-				"download" "B3C07DF5CC256C3BD1AC10E8432BDADA"
+				"gid" "B35E6FBD9710EF86F0B83F642BE35820"
+				"size" "E22C1238E1A25287C4ABA1D1392A3607"
+				"download" "E22C1238E1A25287C4ABA1D1392A3607"
 			}
 			"enzyme2"
 			{
-				"gid" "D1D4E11D80F86C933CAD8356720437DA"
-				"size" "2E1580DB668A4355752D242A6B1ABA16"
-				"download" "A773635DDB29565BD415F98BF7A8E736"
+				"gid" "57C0204F8DDBA3985ED7ECF6513EB11A"
+				"size" "8FE73EC284810D29CF133E497F43812A"
+				"download" "8FE73EC284810D29CF133E497F43812A"
 			}
 			"hammer"
 			{
@@ -1699,8 +1699,8 @@
 	{
 		"public"
 		{
-			"buildid" "13286481"
-			"timeupdated" "1707263979"
+			"buildid" "13549490"
+			"timeupdated" "1709683157"
 		}
 		"compliance"
 		{
@@ -1710,21 +1710,21 @@
 		}
 		"devqa"
 		{
-			"buildid" "13265439"
+			"buildid" "13500899"
 			"pwdrequired" "1"
-			"timeupdated" "1706231752"
+			"timeupdated" "1708477102"
 		}
 		"enzyme"
 		{
-			"buildid" "13396580"
+			"buildid" "13637538"
 			"pwdrequired" "1"
-			"timeupdated" "1707353298"
+			"timeupdated" "1709601727"
 		}
 		"enzyme2"
 		{
-			"buildid" "13201650"
+			"buildid" "13386154"
 			"pwdrequired" "1"
-			"timeupdated" "1705946797"
+			"timeupdated" "1707935332"
 		}
 		"hammer"
 		{
@@ -1746,33 +1746,33 @@
 		}
 		"localize"
 		{
-			"buildid" "13241989"
+			"buildid" "13500899"
 			"pwdrequired" "1"
-			"timeupdated" "1706032842"
+			"timeupdated" "1708390689"
 		}
 		"nightly"
 		{
-			"buildid" "13400043"
+			"buildid" "13641672"
 			"pwdrequired" "1"
-			"timeupdated" "1707368017"
+			"timeupdated" "1709614203"
 		}
 		"playtests"
 		{
-			"buildid" "12904176"
+			"buildid" "13580701"
 			"pwdrequired" "1"
-			"timeupdated" "1701979453"
+			"timeupdated" "1709146245"
 		}
 		"qa-staging"
 		{
-			"buildid" "13396580"
+			"buildid" "13549490"
 			"pwdrequired" "1"
-			"timeupdated" "1707353327"
+			"timeupdated" "1708919789"
 		}
 		"qa-test"
 		{
-			"buildid" "13386154"
+			"buildid" "13637538"
 			"pwdrequired" "1"
-			"timeupdated" "1707266856"
+			"timeupdated" "1709601700"
 		}
 	}
 }
@@ -1848,6 +1848,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22255771"
-"_sha" "e6347403f9edcc486062f7d80e92102086705ee1"
-"_size" "43546"
+"_change_number" "22648006"
+"_sha" "097a358865571e48ecfc0990dad94f6ed5255a79"
+"_size" "43547"
