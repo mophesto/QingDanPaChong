@@ -17,9 +17,6 @@
 		"1" "2"
 		"2" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -198,8 +195,8 @@
 		"12" "19"
 		"13" "19995"
 		"14" "1774"
-		"15" "3859"
-		"16" "4182"
+		"15" "4182"
+		"16" "3859"
 		"17" "1693"
 		"18" "21"
 		"19" "1651"
@@ -2398,6 +2395,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22186201"
-"_sha" "6741a294184a665eeb578cfd888f866ac4c7eb4b"
-"_size" "46581"
+"_change_number" "22480328"
+"_sha" "86601d947adf242fc89ef424d911ee0306faea6b"
+"_size" "46487"
