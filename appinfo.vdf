@@ -185,8 +185,8 @@
 		"0" "1708"
 		"1" "4175"
 		"2" "1663"
-		"3" "3859"
-		"4" "1774"
+		"3" "1774"
+		"4" "3859"
 		"5" "1685"
 		"6" "4182"
 		"7" "3839"
@@ -335,15 +335,15 @@
 		{
 			"public"
 			{
-				"gid" "5571293760220013955"
-				"size" "60798860232"
-				"download" "51500025488"
+				"gid" "4060638367654835114"
+				"size" "60785198150"
+				"download" "51495304896"
 			}
 			"supporteralpha"
 			{
-				"gid" "5571293760220013955"
-				"size" "60798860232"
-				"download" "51500025488"
+				"gid" "4060638367654835114"
+				"size" "60785198150"
+				"download" "51495304896"
 			}
 		}
 		"encryptedmanifests"
@@ -392,9 +392,9 @@
 			}
 			"staging2.2"
 			{
-				"gid" "D12D696C68E4ABC7144277085D8CCCD8"
-				"size" "D154987E497742BFC6C79154B93DD274"
-				"download" "B0FF7C7D7D1891204C5D34D212390240"
+				"gid" "74025538037F7779C0F252EDD9F7C3A0"
+				"size" "3F89245519981E9C4A102C54B0D6C43E"
+				"download" "1C12A9B547121F632992E08775C528F4"
 			}
 			"staging2.25"
 			{
@@ -410,9 +410,9 @@
 			}
 			"staging2.4"
 			{
-				"gid" "FD038AEA167866A950FE85C5E99AFAAE"
-				"size" "867351DA84B7F4657E41F42B4C52B421"
-				"download" "A82CD3C8C857F8D9BF0CE775FE145AD9"
+				"gid" "6F8F6D24D59676C675B8DE02569051FC"
+				"size" "C2A119BAC750564C73D2CDA059D741DF"
+				"download" "F0E84EBFDEFB3BA5D7B4DD6497E07E7A"
 			}
 		}
 	}
@@ -420,8 +420,8 @@
 	{
 		"public"
 		{
-			"buildid" "13487978"
-			"timeupdated" "1708451929"
+			"buildid" "13575993"
+			"timeupdated" "1709660549"
 		}
 		"dev01"
 		{
@@ -467,9 +467,9 @@
 		}
 		"staging2.2"
 		{
-			"buildid" "13212976"
+			"buildid" "13596606"
 			"pwdrequired" "1"
-			"timeupdated" "1705620176"
+			"timeupdated" "1709174906"
 		}
 		"staging2.25"
 		{
@@ -485,15 +485,15 @@
 		}
 		"staging2.4"
 		{
-			"buildid" "13487978"
+			"buildid" "13575993"
 			"pwdrequired" "1"
-			"timeupdated" "1708218132"
+			"timeupdated" "1709039490"
 		}
 		"supporteralpha"
 		{
-			"buildid" "13487978"
+			"buildid" "13575993"
 			"description" "For early builds of the game to test for supporters"
-			"timeupdated" "1708451863"
+			"timeupdated" "1709660590"
 		}
 	}
 }
@@ -542,6 +542,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22427820"
-"_sha" "e4c7203b118df89b17d1eafe6a074b6d56339046"
+"_change_number" "22643659"
+"_sha" "8f5d9ce2167b10d86e26e0cd7d5448fc90dfb1e8"
 "_size" "10383"
