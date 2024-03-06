@@ -1,0 +1,333 @@
+"appid" "555160"
+"common"
+{
+	"name" "Pavlov VR"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"standing" "1"
+		"roomscale"
+		{
+			"width" "2"
+			"depth" "1.5"
+			"360_required" "0"
+		}
+	}
+	"logo" "50553e689e983f874bcd650740256146f0eaec5a"
+	"logo_small" "50553e689e983f874bcd650740256146f0eaec5a_thumb"
+	"icon" "d537afd8696affb4b2294aed07be5e13bcfc5d87"
+	"clienticon" "7fff5db2c406b7db74298fe2bbea7d98d1dcc449"
+	"clienttga" "09ab297d5d58b40329546aa76c3fabca2d679eb8"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "555160_eula_0"
+			"name" "Pavlov EULA"
+			"url" "http://store.steampowered.com//eula/555160_eula_0"
+		}
+	}
+	"exfgls" "1"
+	"openxrsupport" "1"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Pavlov VR"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "35.80400925816954"
+			"height_pct" "67.99663532875849"
+		}
+	}
+	"store_asset_mtime" "1666987129"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Vankrupt Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Vankrupt Games"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_30" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_52" "1"
+		"category_54" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1488221140"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "555160"
+	"onlyvrsupport" "1"
+	"store_tags"
+	{
+		"0" "21978"
+		"1" "1774"
+		"2" "19"
+		"3" "3859"
+		"4" "1663"
+		"5" "4168"
+		"6" "1659"
+		"7" "4345"
+		"8" "3839"
+		"9" "4136"
+		"10" "4182"
+		"11" "4667"
+		"12" "1685"
+		"13" "3878"
+		"14" "10397"
+		"15" "1775"
+		"16" "5711"
+		"17" "492"
+		"18" "599"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"gamedir" "Pavlov VR"
+	"serverbrowsername" "Pavlov VR Server"
+	"anti_cheat_support_url" ""
+	"developer" "Vankrupt Games"
+	"publisher" "Vankrupt Games"
+	"homepage" "http://vankrupt.com/"
+}
+"config"
+{
+	"installdir" "PavlovVR"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Pavlov.exe"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"workshopdepot" "555160"
+	"555161"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1395100274966374577"
+				"size" "68920891433"
+				"download" "32174040016"
+			}
+			"legacy"
+			{
+				"gid" "2934106283677526882"
+				"size" "62754833589"
+				"download" "29855394176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"map_preview_group"
+			{
+				"gid" "9E98F17592D7662486DB1A8DBC7865BF"
+				"size" "FC36B5EC5287980A1AA08DB1D4CA6D3E"
+				"download" "E57E6CDAF8B6BAEA7FAB27EB9C6F7294"
+			}
+			"nighly"
+			{
+				"gid" "E0BBCD80DCC26615873C041589BE8B04"
+				"size" "AFF0B5C597FE3C280FFCD6EF53A70A6E"
+				"download" "63089FEA82BD27DBFF88238D1F4EF751"
+			}
+			"nighly_dev"
+			{
+				"gid" "315BDF67695727C118468857DF0CC113"
+				"size" "4C2A3AE2024FE2047CF02A7CA062069E"
+				"download" "33D92A8983CB32B789F8361D26E7B783"
+			}
+			"stable_rc"
+			{
+				"gid" "39D5E3C8DED649B03A4102B07737D5E7"
+				"size" "A3EC95E25A2054A5B1813A441791E7F0"
+				"download" "AB4E49464760ABB75DBAF7E2573D80D8"
+			}
+			"wizards"
+			{
+				"gid" "1F063586E0D9C7148F954A75510B3307"
+				"size" "1C711A1729083CA7B91C3CAC72FA0A35"
+				"download" "DFA9E615DEFA2E9006B3866C6AAA9A0C"
+			}
+		}
+	}
+	"555162"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11884780"
+			"timeupdated" "1691442533"
+		}
+		"legacy"
+		{
+			"buildid" "8076838"
+			"description" "Update 28 with Workshop"
+			"timeupdated" "1686261426"
+		}
+		"map_preview_group"
+		{
+			"buildid" "13222810"
+			"pwdrequired" "1"
+			"timeupdated" "1705707541"
+		}
+		"nighly"
+		{
+			"buildid" "13604425"
+			"pwdrequired" "1"
+			"timeupdated" "1709230814"
+		}
+		"nighly_dev"
+		{
+			"buildid" "10156805"
+			"pwdrequired" "1"
+			"timeupdated" "1671131251"
+		}
+		"stable_rc"
+		{
+			"buildid" "10625053"
+			"pwdrequired" "1"
+			"timeupdated" "1677197310"
+		}
+		"wizards"
+		{
+			"buildid" "12219265"
+			"pwdrequired" "1"
+			"timeupdated" "1695071871"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "22565676"
+"_sha" "b545282d7986700879eca45000ff5ffcd8679d9d"
+"_size" "5994"
