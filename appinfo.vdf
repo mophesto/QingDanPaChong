@@ -1,0 +1,598 @@
+"appid" "915810"
+"common"
+{
+	"name" "Midnight Ghost Hunt"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "6a63265096eda83d51fbd1719d9a61c5a0d7605e"
+	"logo_small" "6a63265096eda83d51fbd1719d9a61c5a0d7605e_thumb"
+	"icon" "8a5d189d042482d800101866b8e4fb4356474713"
+	"clienttga" "83e0f7229711a9980be83a1cca3f2c70e0f99631"
+	"clienticon" "772f15bf36f9cf39b9d1e2939ef044e93e6ef1ae"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "915810_eula_1"
+			"name" "Midnight Ghost Hunt EULA"
+			"url" "https://store.steampowered.com//eula/915810_eula_1"
+			"version" "3"
+		}
+	}
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1651104000"
+		"tested_build_id" "8471073"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Midnight Ghost Hunt"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "zh-cn,en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "24.691804594913307"
+			"height_pct" "59.55483895026536"
+		}
+	}
+	"store_asset_mtime" "1685700213"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Vaulted Sky Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Coffee Stain Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Coffee Stain Publishing"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1648742367"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "915810"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "3993"
+		"2" "5711"
+		"3" "1775"
+		"4" "1663"
+		"5" "10808"
+		"6" "3839"
+		"7" "19"
+		"8" "1774"
+		"9" "492"
+		"10" "6691"
+		"11" "3942"
+		"12" "1719"
+		"13" "4175"
+		"14" "1667"
+		"15" "1708"
+		"16" "1685"
+		"17" "4191"
+		"18" "3814"
+		"19" "7481"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"gamedir" "MidnightGhostHunt"
+	"serverbrowsername" "Midnight Ghost Hunt"
+	"developer" "Vaulted Sky Games"
+	"publisher" "Coffee Stain Publishing"
+	"homepage" "http://www.midnightghosthunt.com"
+	"listofdlc" "1938860,1938880,1945960"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Midnight Ghost Hunt"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "LaunchMidnightGhostHunt.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "MidnightGhostHunt.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "pingle"
+			}
+		}
+		"3"
+		{
+			"executable" "MidnightGhostHunt.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "pingle2"
+			}
+			"description_loc"
+			{
+				"english" "MidnightGhostHunt Not Protected"
+			}
+			"description" "MidnightGhostHunt Not Protected"
+		}
+		"4"
+		{
+			"executable" "LaunchMidnightGhostHunt.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sharingiscaring"
+			}
+			"description_loc"
+			{
+				"english" "MidnightGhostHunt with EOS Bootstrapper"
+			}
+			"description" "MidnightGhostHunt with EOS Bootstrapper"
+		}
+		"5"
+		{
+			"executable" "LaunchMidnightGhostHunt.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sketest"
+			}
+			"description_loc"
+			{
+				"english" "MidnightGhostHunt with EOS Bootstrapper"
+			}
+			"description" "MidnightGhostHunt with EOS Bootstrapper"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"915811"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7167936065176069744"
+				"size" "14429886312"
+				"download" "11792176624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"actest"
+			{
+				"gid" "37C16D195902B8DFE99854BFBB0A0282"
+				"size" "AE715BE28FF059BC1F6828F5E2843BD4"
+				"download" "BF0371F8BC3DB1C19BD6557079DE7190"
+			}
+			"eabuild1"
+			{
+				"gid" "6E075DB6673066305F2A949347BD5FA6"
+				"size" "111070657671F12E89ED051E4446C0E0"
+				"download" "928BB0D75575C1848A9DF920908F9C98"
+			}
+			"ebtest"
+			{
+				"gid" "FC8A6966847E12D2EBA972B375E7C2F8"
+				"size" "76CB2EF538683ED814BB7BC853F6661D"
+				"download" "D68B554F8F971C760E97D107B57A55FB"
+			}
+			"hardware-support"
+			{
+				"gid" "922B972FAAB6DC4B9820D0B81843861D"
+				"size" "B43A1904EC2F3367389028466E6A9F21"
+				"download" "79FF029E9287789532CF0C2E6AD12829"
+			}
+			"host_migration_test"
+			{
+				"gid" "9FBA5C197199BA2E0CBDACD0C3B3AB31"
+				"size" "4AF2EE40A623FC8EF348C247DEEC9260"
+				"download" "127AD0D162257780DAD6232EA1B93390"
+			}
+			"internal"
+			{
+				"gid" "77E59510F67D5335A3C09F2003B47B0D"
+				"size" "8380CD27F7386D8D91D6A5095A2F30CE"
+				"download" "D6E3ED37472B7E458C4102EA61F8120A"
+			}
+			"internal-crossplat"
+			{
+				"gid" "3CB03B963F51A5B3A3CEDD0A45B4823B"
+				"size" "9B04CEEE3DC30360BBAD609853739C97"
+				"download" "A2ED90D0E74B524A5B343AC3000EE91C"
+			}
+			"internalreview"
+			{
+				"gid" "3DB55815B2FD644175D8899C48C9BB5C"
+				"size" "EC7B5B88AE203B93345D80DD79181474"
+				"download" "4C9BF001DC67CCCAA7C9CFF7B7C4D0E0"
+			}
+			"internalstaging"
+			{
+				"gid" "5B2C282461E550F68C3F009E01776ED3"
+				"size" "794F2D44FE8B9756FE6802664CC4E441"
+				"download" "36669CBA59BC3CDB0978D36AC5F7662D"
+			}
+			"pingle"
+			{
+				"gid" "E0B28C7F701D8197E0E1386A4626DDA4"
+				"size" "78EE709AE1F0E1D8C2C8697A5E578717"
+				"download" "12E6A3279DEBCE02D549FEDEE931CF08"
+			}
+			"pingle2"
+			{
+				"gid" "45344925D009A97FBE3F2BF7894B8FD9"
+				"size" "39D078352CD45D44927CA1900F09EA44"
+				"download" "29C4D6FCBEC54E35022F2EB9412BD2A6"
+			}
+			"press"
+			{
+				"gid" "2F6245E82947E6398D1EF6619D74E812"
+				"size" "271AD9D7FAD5E48FFA15BE2FAA56054D"
+				"download" "7A011E06BB4A36399FBBFD5B36A19E40"
+			}
+			"public-staging"
+			{
+				"gid" "CA43F47BFD36F32DE40F0297C2E3DD8B"
+				"size" "F077602E44F7DD685201AD28B8ADDE83"
+				"download" "9C04BEE16E558A76940D573A0FC6DCCA"
+			}
+			"qa-test"
+			{
+				"gid" "16962196C4C39F1A09553AB558BEE5EE"
+				"size" "B5BDE987B2FA0346559BBA2042C2939E"
+				"download" "A58D8A698ADAC81A0F0A50B636B25512"
+			}
+			"reset"
+			{
+				"gid" "86FD55583CA6C621D7F771BC43B1654E"
+				"size" "55F1BD5CC99F4D1D9C9B7C939D61DDAE"
+				"download" "9EFB5211694CE2CC95CE7F0F02440C26"
+			}
+			"review"
+			{
+				"gid" "79A1D3F4DC47CB109E1A1625EB6E8BF9"
+				"size" "1C11434F20A5DD6A0D9EB505CD39BFB6"
+				"download" "E40E9409E182E4387238C51BB14D294C"
+			}
+			"sharingiscaring"
+			{
+				"gid" "6AE8A0C91A2E19AB92EC21CB1E954372"
+				"size" "3AAFE9645E5C786A702D2D0E81572927"
+				"download" "C452D01CF0EFD7323D806FC26946FED0"
+			}
+			"sketest"
+			{
+				"gid" "E0C347C1B54DF93A9E1E46B2C5CD838E"
+				"size" "335CBA4614D278F9A276BF5C52D13338"
+				"download" "A03C4B17D2C2313B198252034A1D44CB"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13536979"
+			"timeupdated" "1708975555"
+		}
+		"actest"
+		{
+			"buildid" "12970867"
+			"pwdrequired" "1"
+			"timeupdated" "1708456187"
+		}
+		"eabuild1"
+		{
+			"buildid" "11504396"
+			"pwdrequired" "1"
+			"timeupdated" "1687168111"
+		}
+		"ebtest"
+		{
+			"buildid" "13007966"
+			"pwdrequired" "1"
+			"timeupdated" "1703057857"
+		}
+		"hardware-support"
+		{
+			"buildid" "9197235"
+			"pwdrequired" "1"
+			"timeupdated" "1658951239"
+		}
+		"host_migration_test"
+		{
+			"buildid" "12529499"
+			"pwdrequired" "1"
+			"timeupdated" "1698224311"
+		}
+		"internal"
+		{
+			"buildid" "13536979"
+			"pwdrequired" "1"
+			"timeupdated" "1708975470"
+		}
+		"internal-crossplat"
+		{
+			"buildid" "10236115"
+			"pwdrequired" "1"
+			"timeupdated" "1672472306"
+		}
+		"internalreview"
+		{
+			"buildid" "11177146"
+			"pwdrequired" "1"
+			"timeupdated" "1683518033"
+		}
+		"internalstaging"
+		{
+			"buildid" "10219057"
+			"pwdrequired" "1"
+			"timeupdated" "1672123332"
+		}
+		"pingle"
+		{
+			"buildid" "11369395"
+			"pwdrequired" "1"
+			"timeupdated" "1685619523"
+		}
+		"pingle2"
+		{
+			"buildid" "13536979"
+			"pwdrequired" "1"
+			"timeupdated" "1708975493"
+		}
+		"press"
+		{
+			"buildid" "10570195"
+			"pwdrequired" "1"
+			"timeupdated" "1676585100"
+		}
+		"public-staging"
+		{
+			"buildid" "4103293"
+			"pwdrequired" "1"
+			"timeupdated" "1565751931"
+		}
+		"qa-test"
+		{
+			"buildid" "13553639"
+			"pwdrequired" "1"
+			"timeupdated" "1708951227"
+		}
+		"reset"
+		{
+			"buildid" "13536979"
+			"pwdrequired" "1"
+			"timeupdated" "1708975482"
+		}
+		"review"
+		{
+			"buildid" "8391765"
+			"pwdrequired" "1"
+			"timeupdated" "1647553414"
+		}
+		"sharingiscaring"
+		{
+			"buildid" "13639736"
+			"pwdrequired" "1"
+			"timeupdated" "1709612784"
+		}
+		"sketest"
+		{
+			"buildid" "13639736"
+			"pwdrequired" "1"
+			"timeupdated" "1709599219"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "MidnightGhostHunt/Saved/SaveGames/{64BitSteamID}/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status" "%TEAM% in %MAP% %LOBBY_COUNT%/%LOBBY_MAX%"
+				"#mainmenu" "MainMenu"
+				"#waitingforplayers" "MainMenu: %LOBBY_COUNT%/%LOBBY_MAX%"
+				"#tutorial_hunter" "Playing Hunter Tutorial"
+				"#tutorial_ghost" "Playing Ghost Tutorial"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22633042"
+"_sha" "390acba1b5503bb496c4181182a226ab41bb05b3"
+"_size" "11871"
