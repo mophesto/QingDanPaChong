@@ -268,15 +268,15 @@
 		{
 			"public"
 			{
-				"gid" "772382648588980051"
-				"size" "78722922316"
-				"download" "76282575440"
+				"gid" "5390201092186914415"
+				"size" "78722865900"
+				"download" "76280851488"
 			}
 			"arc750_beta"
 			{
-				"gid" "772382648588980051"
-				"size" "78722922316"
-				"download" "76282575440"
+				"gid" "5390201092186914415"
+				"size" "78722865900"
+				"download" "76280851488"
 			}
 		}
 		"encryptedmanifests"
@@ -295,21 +295,21 @@
 			}
 			"internal"
 			{
-				"gid" "A3472DF72EB6E97D9F43D165C9BAC1D4"
-				"size" "BAB84BB58845B13EDCE27696523E6060"
-				"download" "188C93EED5979066388E9F3C6219571E"
+				"gid" "97803F96AF3FB9AAE245DF4DF978BF77"
+				"size" "B02A0F072BDDBAF6005D4EB42733C335"
+				"download" "9ACA7194BAEAE3FE2B1DE253CDFBBAE0"
 			}
 			"playtest"
 			{
-				"gid" "D9E80C968680C042831E1DC234028C94"
-				"size" "AA1AD44F4939248070A15F8C33B216D7"
-				"download" "6417D984053597F84A9F36E5EF385550"
+				"gid" "8B0ED9390604FC738FDFD1267C6A793F"
+				"size" "87CE21BA89A3004CC90C5620D164A80F"
+				"download" "DCCADF2BD068906A0672CA023DADA819"
 			}
 			"playtest_dev"
 			{
-				"gid" "55AE6CD91A39735252F6135EEB21851E"
-				"size" "3EA02AF88541DA06DC311F5261ED2965"
-				"download" "794BDD455F298522B9CF1C5B0B858760"
+				"gid" "C02A985206BF49B541B382AF6ECDE19C"
+				"size" "14D450945C7EA9D3B41139D76D03E561"
+				"download" "BE00CF71A4B011210090F96FFD58450D"
 			}
 			"pr_dlc"
 			{
@@ -319,9 +319,9 @@
 			}
 			"staging_release"
 			{
-				"gid" "5C2DBE6D0A379E77C333479A134A6979"
-				"size" "AAD4D5D1FEE252510B30063E833110E6"
-				"download" "3A6F9F6ACCD92E3B9E30815864688EE6"
+				"gid" "660453EE27AC286CC9F89835DAE65FBB"
+				"size" "EF203542AE7B856041AA2A1A70B94FB7"
+				"download" "A9774498205EB78F8B38191F3DD58961"
 			}
 			"testgate"
 			{
@@ -343,9 +343,9 @@
 			}
 			"testgate_testbuild"
 			{
-				"gid" "771BB23245D94DEFCF95884370A20353"
-				"size" "A50E766368828F838D484A40BC8653F3"
-				"download" "56B5217A6798733AADA788DCACE48C29"
+				"gid" "F88513D2135AEFB87FA84504F9ACF962"
+				"size" "BA414F082367BD237EA0A7CFF1B518AB"
+				"download" "BB444422FC09BD13DFDE71CF239BA0FB"
 			}
 			"testgate_xbox"
 			{
@@ -359,14 +359,14 @@
 	{
 		"public"
 		{
-			"buildid" "13578676"
-			"timeupdated" "1709226239"
+			"buildid" "13627330"
+			"timeupdated" "1709669180"
 		}
 		"arc750_beta"
 		{
-			"buildid" "13578676"
+			"buildid" "13627330"
 			"description" "Beta Test Branch ARC750 video cards only"
-			"timeupdated" "1709226151"
+			"timeupdated" "1709669119"
 		}
 		"compatibility"
 		{
@@ -382,21 +382,21 @@
 		}
 		"internal"
 		{
-			"buildid" "13600241"
+			"buildid" "13645440"
 			"pwdrequired" "1"
-			"timeupdated" "1709204278"
+			"timeupdated" "1709642742"
 		}
 		"playtest"
 		{
-			"buildid" "13578676"
+			"buildid" "13627330"
 			"pwdrequired" "1"
-			"timeupdated" "1709054639"
+			"timeupdated" "1709495972"
 		}
 		"playtest_dev"
 		{
-			"buildid" "13577691"
+			"buildid" "13627270"
 			"pwdrequired" "1"
-			"timeupdated" "1709049974"
+			"timeupdated" "1709495098"
 		}
 		"pr_dlc"
 		{
@@ -406,9 +406,9 @@
 		}
 		"staging_release"
 		{
-			"buildid" "13578676"
+			"buildid" "13627330"
 			"pwdrequired" "1"
-			"timeupdated" "1709220701"
+			"timeupdated" "1709669081"
 		}
 		"testgate"
 		{
@@ -430,9 +430,9 @@
 		}
 		"testgate_testbuild"
 		{
-			"buildid" "13602815"
+			"buildid" "13645869"
 			"pwdrequired" "1"
-			"timeupdated" "1709220388"
+			"timeupdated" "1709645358"
 		}
 		"testgate_xbox"
 		{
@@ -457,6 +457,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22564449"
-"_sha" "59530d1df98f3802b4677ec5f85f18ddbf7d5330"
-"_size" "8786"
+"_change_number" "22645473"
+"_sha" "9bce5b6fc862851239fdbbe21cd3a69e7f7a6db6"
+"_size" "8788"
