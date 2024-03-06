@@ -28,7 +28,6 @@
 	{
 		"0" "5"
 	}
-	"has_adult_content" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -209,18 +208,18 @@
 		"4" "1616"
 		"5" "4191"
 		"6" "6426"
-		"7" "4182"
-		"8" "1678"
+		"7" "1678"
+		"8" "4182"
 		"9" "4684"
 		"10" "5382"
 		"11" "1733"
 		"12" "1662"
 		"13" "4166"
 		"14" "4175"
-		"15" "5851"
-		"16" "7332"
-		"17" "12472"
-		"18" "1708"
+		"15" "7332"
+		"16" "1708"
+		"17" "5851"
+		"18" "12472"
 		"19" "6971"
 	}
 	"review_score" "8"
@@ -279,6 +278,21 @@
 			}
 			"description" "Last Train Home using DX12"
 		}
+		"4"
+		{
+			"executable" "Train.exe"
+			"arguments" "-ngxdisable"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "with DLSS Safe Mode for older graphic cards"
+			}
+			"description" "with DLSS Safe Mode for older graphic cards"
+		}
 	}
 }
 "depots"
@@ -308,9 +322,9 @@
 		{
 			"public"
 			{
-				"gid" "7857638636414873763"
-				"size" "23059491822"
-				"download" "21059551136"
+				"gid" "2652712039643524793"
+				"size" "23037145372"
+				"download" "21040167104"
 			}
 		}
 		"encryptedmanifests"
@@ -333,23 +347,17 @@
 				"size" "4F7D6B885F29115BF69BE9F5BFBD3980"
 				"download" "E3C8DCC7FDE57053B101C868AC663A82"
 			}
-			"closedbeta1"
-			{
-				"gid" "F24271326568D9E39618318A073FAF15"
-				"size" "86D3975EDA92EF34B223C823EC132326"
-				"download" "2645EDB39B74946DD5E93F6A418ED40D"
-			}
 			"dailydev"
 			{
-				"gid" "111764778FE5875240D26B675A6D5C3C"
-				"size" "3B97895F50888092EEF1B86FA03D87CD"
-				"download" "DEAAC0D95DDECE074511A21DB713AFFA"
+				"gid" "2128B39D54DB77785344BDFA1459A990"
+				"size" "A39A9BC25645BDC1525AC09A6896AB04"
+				"download" "7FBC62E8088C355B6DF264DE9E2C4317"
 			}
 			"dailyship"
 			{
-				"gid" "E116CA3C68C5E54CB8F36FDC540510CA"
-				"size" "814A3D424EA372460755242BB6CA25AF"
-				"download" "FD1A3A333015790E8DB4D8D5E79A6023"
+				"gid" "08222C3DBB49A2E5167DE801EC6B87CB"
+				"size" "2B2C441B62809EC94580A314A765364F"
+				"download" "6E8B4E1642EF27154DFC56981F066D1E"
 			}
 			"evaluation"
 			{
@@ -431,9 +439,9 @@
 			}
 			"stableshipdaily"
 			{
-				"gid" "773E65EFE89B72C0BE48C30A8F145835"
-				"size" "5A70A8D0877D342DB31C3761F118DAF6"
-				"download" "AEEA1987BF808D3D2312D68858AE17B7"
+				"gid" "91D22454B4F24A2DEF38BA514D5DE3A6"
+				"size" "328B0741C39744AFFE81BE539AB95CFA"
+				"download" "60A60F2A0DF78E146557E5F20EF11070"
 			}
 			"stableshipdaily_dlc"
 			{
@@ -449,9 +457,9 @@
 			}
 			"testgate"
 			{
-				"gid" "FAF82BB153EB9FEEC94609818A47BD26"
-				"size" "4952DAD190BF2F8B6B68E3488F3E3E10"
-				"download" "C850FF5E8D0E37B10273F0D6E7E25659"
+				"gid" "565C2C58C8CB4583A4893F8C3E6FB334"
+				"size" "7B17424165EFE5C4EACF330445F78D01"
+				"download" "F69697758C0CAB461E4B03A315DE2D1C"
 			}
 		}
 	}
@@ -526,24 +534,24 @@
 		{
 			"public"
 			{
-				"gid" "9206164393920257512"
-				"size" "450865998"
-				"download" "388853120"
+				"gid" "7407527534042325527"
+				"size" "441834990"
+				"download" "380228720"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"dailydev"
 			{
-				"gid" "55C81B52FB50493A2ADFC4C84AE13238"
-				"size" "3DFC7005F6F014610B694E49AA4A227A"
-				"download" "38873C364AAE950ECDEDA7B1108F773D"
+				"gid" "CEDF5843ADA182B78D601086FC38C66A"
+				"size" "FE19B7E24636EEB7AE8AF5E3EB6A3E4E"
+				"download" "B43375BA16F6ADB729CA0CB47D8C4BF6"
 			}
 			"dailyship"
 			{
-				"gid" "A84EE685A9AA290BF04C0611D3E6D5A4"
-				"size" "830FC1B2CB65FBB966E698FF905AA3F1"
-				"download" "402C8F85AE05771142CCEB625A29FD84"
+				"gid" "C89C66A720AC402A4B181278E8D152DD"
+				"size" "2D245893D6D218FCA142F706AB2A8EF1"
+				"download" "0FCF7240DCADA6A0F2134A4C80399E6D"
 			}
 			"loca"
 			{
@@ -577,9 +585,9 @@
 			}
 			"stableshipdaily"
 			{
-				"gid" "12B4BC4D4BEAA1C6E50C67337A710AE0"
-				"size" "77194FA9CC26BC5AF843DA8DCFF69F1B"
-				"download" "F90A0AFDE6F21C8735F57C64B8063CF4"
+				"gid" "B353BC897969A8820C51F247512867E8"
+				"size" "E9F81BC16C354F6C70A71F16A9C26FBD"
+				"download" "D28C5018096B6B21292BCBA4D6E25488"
 			}
 			"stableshipdaily_dlc"
 			{
@@ -595,9 +603,9 @@
 			}
 			"testgate"
 			{
-				"gid" "486B528A57249597B6DF15CCFE5B688E"
-				"size" "17974C2AECBAA0672166BA2721422E5B"
-				"download" "DD31BFA5C275386FF55781337FC97F08"
+				"gid" "DB0D384F48ABC96D66AB7E91AA8E23DC"
+				"size" "6C4880E3190039D4C506E475195241C7"
+				"download" "6D74620CC2B1A114C44AF48C6B85BC79"
 			}
 		}
 	}
@@ -605,8 +613,8 @@
 	{
 		"public"
 		{
-			"buildid" "13313871"
-			"timeupdated" "1706705818"
+			"buildid" "13592369"
+			"timeupdated" "1709733545"
 		}
 		"agerating"
 		{
@@ -626,23 +634,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1688979427"
 		}
-		"closedbeta1"
-		{
-			"buildid" "13019395"
-			"pwdrequired" "1"
-			"timeupdated" "1703200052"
-		}
 		"dailydev"
 		{
-			"buildid" "13397956"
+			"buildid" "13638966"
 			"pwdrequired" "1"
-			"timeupdated" "1707348486"
+			"timeupdated" "1709596289"
 		}
 		"dailyship"
 		{
-			"buildid" "13397990"
+			"buildid" "13638886"
 			"pwdrequired" "1"
-			"timeupdated" "1707348897"
+			"timeupdated" "1709595714"
 		}
 		"evaluation"
 		{
@@ -724,9 +726,9 @@
 		}
 		"stableshipdaily"
 		{
-			"buildid" "13313871"
+			"buildid" "13638411"
 			"pwdrequired" "1"
-			"timeupdated" "1706625322"
+			"timeupdated" "1709592204"
 		}
 		"stableshipdaily_dlc"
 		{
@@ -742,9 +744,9 @@
 		}
 		"testgate"
 		{
-			"buildid" "13313871"
+			"buildid" "13592369"
 			"pwdrequired" "1"
-			"timeupdated" "1706625544"
+			"timeupdated" "1709203327"
 		}
 	}
 }
@@ -763,6 +765,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22252515"
-"_sha" "7fe1ecb0d46d550272c470d8abb6558b4764c008"
-"_size" "16382"
+"_change_number" "22656014"
+"_sha" "ed3a1f5172e014748f8c3c7e0e3b21664414fcba"
+"_size" "16381"
