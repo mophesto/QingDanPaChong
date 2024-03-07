@@ -55,6 +55,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "UpperCenter"
@@ -62,7 +63,7 @@
 			"height_pct" "71.39098327132642"
 		}
 	}
-	"store_asset_mtime" "1702029230"
+	"store_asset_mtime" "1709807600"
 	"associations"
 	{
 		"0"
@@ -100,6 +101,7 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -185,6 +187,8 @@
 	"developer" "Shiro Games"
 	"publisher" "Funcom"
 	"homepage" "https://spicewars.dunegames.com/"
+	"listofdlc" "2807090"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -224,9 +228,9 @@
 		{
 			"public"
 			{
-				"gid" "1918420346038221446"
-				"size" "5441174366"
-				"download" "1617429808"
+				"gid" "2909990085830114028"
+				"size" "5954016690"
+				"download" "1762549456"
 			}
 		}
 		"encryptedmanifests"
@@ -239,9 +243,9 @@
 			}
 			"closed-beta"
 			{
-				"gid" "75FC533DFF212FD3E7D03008CC244995"
-				"size" "FC0E9340A19237379367EB743B0D711E"
-				"download" "5568DB912078CAF6045F46871729D76B"
+				"gid" "A5138841DBCCFAEADBC83AEBA04A4BAA"
+				"size" "7AB0CF079F8F0770B0B1DB32C3DEF3EB"
+				"download" "8C54643F0AC1054C50973DE11CB94CF0"
 			}
 			"nostalgia"
 			{
@@ -251,21 +255,21 @@
 			}
 			"press"
 			{
-				"gid" "F26FB76F77274A8A968E1EE3142B3191"
-				"size" "78453F4FFA6DA7DD65422385F15378ED"
-				"download" "B6A7C62FDB5D21692645A8E9CEE01A88"
+				"gid" "BD0C177233F26BC42BE40274A08B2E31"
+				"size" "DA2B98367817BB9028E2E16DAF93AE6D"
+				"download" "5135402CF2FE21D697EE44E47F546F76"
 			}
 			"shiro"
 			{
-				"gid" "0D17237C73ED0F3F14D73F6280BB686A"
-				"size" "72C4CC8C7172E03FFA2443EC84974DEE"
-				"download" "F0F294383EF9BFBA1BAAAECE704C9256"
+				"gid" "6275D19BA7924015C8EAF2A99A14A7F5"
+				"size" "5D354CF5654355B0E708EBB5C5FDFDB9"
+				"download" "117E2A28A2A300EB0B1474698845F56F"
 			}
 			"tournament"
 			{
-				"gid" "FF6A0B1B34AA7EDC5F20600328C64F79"
-				"size" "440BFC95586E566AB6D36D10DC219327"
-				"download" "593C18DC29D136B0B6DB787B3C34DEBF"
+				"gid" "3D8CDF7391CD66D53172DCDF3AEED3B6"
+				"size" "B79B3AA0CE1FF459AE90BB475BB814E5"
+				"download" "AF84906472AB6DECD7FE5B3CEFACA513"
 			}
 		}
 	}
@@ -273,8 +277,8 @@
 	{
 		"public"
 		{
-			"buildid" "12963605"
-			"timeupdated" "1702571081"
+			"buildid" "13668253"
+			"timeupdated" "1709822972"
 		}
 		"cert-other"
 		{
@@ -284,9 +288,9 @@
 		}
 		"closed-beta"
 		{
-			"buildid" "13415841"
+			"buildid" "13668253"
 			"pwdrequired" "1"
-			"timeupdated" "1707491114"
+			"timeupdated" "1709812432"
 		}
 		"nostalgia"
 		{
@@ -296,21 +300,21 @@
 		}
 		"press"
 		{
-			"buildid" "12963605"
+			"buildid" "13668253"
 			"pwdrequired" "1"
-			"timeupdated" "1702571104"
+			"timeupdated" "1709812421"
 		}
 		"shiro"
 		{
-			"buildid" "13415841"
+			"buildid" "13668253"
 			"pwdrequired" "1"
-			"timeupdated" "1707490820"
+			"timeupdated" "1709810079"
 		}
 		"tournament"
 		{
-			"buildid" "12963605"
+			"buildid" "13668253"
 			"pwdrequired" "1"
-			"timeupdated" "1702571116"
+			"timeupdated" "1709822986"
 		}
 	}
 }
@@ -330,6 +334,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22278760"
-"_sha" "43e113bc6685f6e430055a7372b9177155c3c3b2"
-"_size" "6083"
+"_change_number" "22672866"
+"_sha" "36cb9517300a34b7234229a24dab3400a4d97e52"
+"_size" "6185"
