@@ -93,7 +93,7 @@
 			"height_pct" "74.89350648696637"
 		}
 	}
-	"store_asset_mtime" "1704971896"
+	"store_asset_mtime" "1709823239"
 	"associations"
 	{
 		"0"
@@ -149,6 +149,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_59" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -263,6 +264,23 @@
 			}
 			"description" "with DirectX12 (experimental)"
 		}
+		"2"
+		{
+			"executable" "ATS.exe"
+			"arguments" "-dx12 -logPSO -clearPSODriverCache"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_daily"
+			}
+			"description_loc"
+			{
+				"english" "Gather PSO"
+			}
+			"description" "Gather PSO"
+		}
 	}
 }
 "depots"
@@ -274,9 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "8845418424605287332"
-				"size" "39319607201"
-				"download" "26167244704"
+				"gid" "259889555165886791"
+				"size" "38056667673"
+				"download" "25599075360"
 			}
 		}
 		"encryptedmanifests"
@@ -307,9 +325,9 @@
 			}
 			"dev_daily"
 			{
-				"gid" "5AECE178F860FAAD0B1E2582266BE73B"
-				"size" "877F9E88F7F53ECD837803E961E1F9AF"
-				"download" "CF14CE719BE955A07A093D2E8D23A855"
+				"gid" "B9A75BF721D09B0010C3C6E3C4197322"
+				"size" "0F5B829B1EF3C9E85A934F7913164B06"
+				"download" "3DE3AC358E482B07E0F23B433DB28773"
 			}
 			"gmg_gamescom"
 			{
@@ -353,11 +371,11 @@
 				"size" "ED80B42D2E6D53777AF3C89997716D09"
 				"download" "5E0A69FFAA5AC7728D8DEDBF494D9976"
 			}
-			"milestone_jul"
+			"milestone_1_2024"
 			{
-				"gid" "9D2EA8F70B101173250A3355F3BB480D"
-				"size" "A327F6AD8CAF737AAA5F03D2EB9B819D"
-				"download" "9BEEF2DF7DDE371A4FCB29958C25036D"
+				"gid" "7C499B69D291A71B90881B619B5ED73E"
+				"size" "D917068C1F987ABFC7873B767F971A9E"
+				"download" "221E95D09284D72FB3CFCC80E835BA51"
 			}
 			"milestone_jun"
 			{
@@ -379,9 +397,9 @@
 			}
 			"qa_testing"
 			{
-				"gid" "D4A5C184619D5752DF58082BE8448D5C"
-				"size" "D789A7D1B1AEE896D564F099390125D1"
-				"download" "130652D66887863887344CBEFF7B5E24"
+				"gid" "591229160EE9B193D44723049016D170"
+				"size" "9C1A64AF993935C8E2FF711DB0066979"
+				"download" "F20D5E9469C800E44514F288D6DD807B"
 			}
 			"release_candidate"
 			{
@@ -391,15 +409,15 @@
 			}
 			"team_testing"
 			{
-				"gid" "FE51D0E6EF4EF6A28074A64BA146F99B"
-				"size" "6D2EDDBFF5B699443CBCC95F794B5E23"
-				"download" "C1708A1697D0009CC4444B51F9BB172B"
+				"gid" "6D0FC4B91A81AEE1FEF311D1843E7264"
+				"size" "E76FF9630191524CE0104D306899DC62"
+				"download" "210765A9CCAFAAF5D3576FE12709CA06"
 			}
 			"test_team1"
 			{
-				"gid" "948BD65D126F3B15FF3E4C219ECB7D08"
-				"size" "7365672D9E9D19888151306B75647A4E"
-				"download" "E712F5D3655649B7FCAB5C6636DD16A3"
+				"gid" "3624B5900B0F29569929DC4390AFDBE2"
+				"size" "0CB1E7A8B5CA07690EB0A9F1ABBEB91A"
+				"download" "8D7D76BEDB59D4AB6B64C03B75C5F501"
 			}
 			"test_team2"
 			{
@@ -434,8 +452,8 @@
 	{
 		"public"
 		{
-			"buildid" "13150181"
-			"timeupdated" "1705067288"
+			"buildid" "13663051"
+			"timeupdated" "1709826634"
 		}
 		"art_review"
 		{
@@ -463,9 +481,9 @@
 		}
 		"dev_daily"
 		{
-			"buildid" "13398896"
+			"buildid" "13663051"
 			"pwdrequired" "1"
-			"timeupdated" "1707381626"
+			"timeupdated" "1709768761"
 		}
 		"gmg_gamescom"
 		{
@@ -509,11 +527,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1684393962"
 		}
-		"milestone_jul"
+		"milestone_1_2024"
 		{
-			"buildid" "11956913"
+			"buildid" "13663051"
 			"pwdrequired" "1"
-			"timeupdated" "1692215669"
+			"timeupdated" "1709768792"
 		}
 		"milestone_jun"
 		{
@@ -535,9 +553,9 @@
 		}
 		"qa_testing"
 		{
-			"buildid" "13408653"
+			"buildid" "13663051"
 			"pwdrequired" "1"
-			"timeupdated" "1707464803"
+			"timeupdated" "1709768777"
 		}
 		"release_candidate"
 		{
@@ -547,15 +565,15 @@
 		}
 		"team_testing"
 		{
-			"buildid" "13014592"
+			"buildid" "13480444"
 			"pwdrequired" "1"
-			"timeupdated" "1703147275"
+			"timeupdated" "1708430835"
 		}
 		"test_team1"
 		{
-			"buildid" "13012189"
+			"buildid" "13408653"
 			"pwdrequired" "1"
-			"timeupdated" "1703147358"
+			"timeupdated" "1707842566"
 		}
 		"test_team2"
 		{
@@ -600,6 +618,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22273466"
-"_sha" "8f0641dbfbcf2b513579defb39b0aec7f4c92118"
-"_size" "12489"
+"_change_number" "22673918"
+"_sha" "d6f417eee07972b63da836bc30a8ed1c788e28e1"
+"_size" "12830"
