@@ -243,8 +243,8 @@
 		"5" "4182"
 		"6" "1775"
 		"7" "3843"
-		"8" "1684"
-		"9" "3854"
+		"8" "3854"
+		"9" "1684"
 		"10" "21"
 		"11" "4026"
 		"12" "4231"
@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "3363851550602720045"
-				"size" "34775899081"
-				"download" "33858966960"
+				"gid" "1108137720983976368"
+				"size" "34792136902"
+				"download" "33874213136"
 			}
 		}
 		"encryptedmanifests"
@@ -352,9 +352,15 @@
 			}
 			"goldqatest"
 			{
-				"gid" "304999FA9DFC1F31F412CA2C8AC8AB61"
-				"size" "C43FFD0AC43FEF42A206A18DFD31514E"
-				"download" "1A4D302D9F2C1595DB693077B8F0DC68"
+				"gid" "29634126D9D48101BD958FFB290BC617"
+				"size" "06C021BE071C3160ACCA4C804C2735A3"
+				"download" "5E2B1B6861492876BED870DAB0E2C387"
+			}
+			"goldqatest2"
+			{
+				"gid" "AC11D08F47B3294708D0422DB69C965B"
+				"size" "E7FA805F6A113D53FEFB96009A7F834A"
+				"download" "F6786F24619119EDFC65E43798667FBE"
 			}
 			"goldqatest3"
 			{
@@ -430,9 +436,9 @@
 			}
 			"prelaunch"
 			{
-				"gid" "119DFD275EDC04165BC42BA1D3556972"
-				"size" "5F8F66DE30BF0638666D6954EBD94D26"
-				"download" "350E52A5703323AF70BEDF99E8ABD161"
+				"gid" "62713268ABDF99D21BAA65F674E1A415"
+				"size" "CA08134720737F0DA74C2399E6898F9E"
+				"download" "70ABABD7C3C6AEC873AAEA2389146D0A"
 			}
 			"unrealtests"
 			{
@@ -442,15 +448,15 @@
 			}
 			"zerogoldship"
 			{
-				"gid" "D5C089D6F978A34C228560D4502B4BEB"
-				"size" "F346F621C13A04A8B0163CE09B13F8C6"
-				"download" "76740D43C8124631AAF4822BBF05CC8C"
+				"gid" "C807933B831C979D49199F80B9129179"
+				"size" "1670758494A8C825BD1D9A536463C014"
+				"download" "219899636B4465A337FD646857F166DE"
 			}
 			"zerogoldtest"
 			{
-				"gid" "2E454A8194EAE100C05785BED1898D91"
-				"size" "0088B7C503B0E7746B5C3C07EFE2B397"
-				"download" "C2EB0FFEF04CCF82D0FA044DE87441C4"
+				"gid" "3506B842BBBA7FD7B08B77B1A777A82A"
+				"size" "241A3A2898CF3339C09E8ECF5A6D1AB8"
+				"download" "3DF3AE0CEFF6816FF86EB22F5BF285A6"
 			}
 			"zeroqa"
 			{
@@ -465,8 +471,8 @@
 	{
 		"public"
 		{
-			"buildid" "13602274"
-			"timeupdated" "1709240154"
+			"buildid" "13668836"
+			"timeupdated" "1709837563"
 		}
 		"amdtesting"
 		{
@@ -500,9 +506,15 @@
 		}
 		"goldqatest"
 		{
-			"buildid" "13606333"
+			"buildid" "13662725"
 			"pwdrequired" "1"
-			"timeupdated" "1709243559"
+			"timeupdated" "1709765721"
+		}
+		"goldqatest2"
+		{
+			"buildid" "13613071"
+			"pwdrequired" "1"
+			"timeupdated" "1709296472"
 		}
 		"goldqatest3"
 		{
@@ -578,9 +590,9 @@
 		}
 		"prelaunch"
 		{
-			"buildid" "13602274"
+			"buildid" "13668836"
 			"pwdrequired" "1"
-			"timeupdated" "1709217054"
+			"timeupdated" "1709813229"
 		}
 		"unrealtests"
 		{
@@ -590,15 +602,15 @@
 		}
 		"zerogoldship"
 		{
-			"buildid" "13564786"
+			"buildid" "13672666"
 			"pwdrequired" "1"
-			"timeupdated" "1708955164"
+			"timeupdated" "1709834800"
 		}
 		"zerogoldtest"
 		{
-			"buildid" "13607456"
+			"buildid" "13675440"
 			"pwdrequired" "1"
-			"timeupdated" "1709251958"
+			"timeupdated" "1709855717"
 		}
 		"zeroqa"
 		{
@@ -675,6 +687,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22569959"
-"_sha" "b8d57ea2e84eba8472896397f84a3d439bed8e74"
-"_size" "14099"
+"_change_number" "22679612"
+"_sha" "131beb04b53c0f907e6ca5e70a45653a819383b7"
+"_size" "14384"
