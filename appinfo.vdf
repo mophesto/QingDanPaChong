@@ -128,6 +128,7 @@
 		"category_29" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -271,14 +272,14 @@
 		"19" "3878"
 	}
 	"review_score" "4"
-	"review_percentage" "38"
+	"review_percentage" "39"
 }
 "extended"
 {
 	"developer" "Turn 10"
 	"publisher" "Xbox Game Studios"
 	"homepage" "http://www.forzamotorsport.net"
-	"listofdlc" "2557390,2557400,2557410,2557420,2573690,2573700,2573710,2573720,2573730,2573740,2612060,2612070,2612080,2612090,2612100,2612110,2612120,2612130,2612140,2612150,2613770,2662850,2662860,2662880,2662890,2673230,2731660"
+	"listofdlc" "2557390,2557400,2557410,2557420,2573690,2573700,2573710,2573720,2573730,2573740,2612060,2612070,2612080,2612090,2612100,2612110,2612120,2612130,2612140,2612150,2613770,2662850,2662860,2662880,2662890,2662900,2662910,2673230,2731660"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -320,18 +321,18 @@
 		{
 			"public"
 			{
-				"gid" "6133104116552876946"
-				"size" "148067692974"
-				"download" "124546444736"
+				"gid" "3246802065961237048"
+				"size" "149129176751"
+				"download" "125446414592"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internalstaging"
 			{
-				"gid" "5948FC02EC96E8BD50445DF398C79C2E"
-				"size" "00651A22386DE1CB37223AB732D3B416"
-				"download" "1576749DF47B4BFC2FD3B0F3F478C022"
+				"gid" "78F6BA8B59DF3729D643D3FE8CC55232"
+				"size" "8467F8D7169E6AC9248F7AAB8046DDF2"
+				"download" "C46764C6FB91684ECA79321953597146"
 			}
 		}
 	}
@@ -339,14 +340,14 @@
 	{
 		"public"
 		{
-			"buildid" "13515099"
-			"timeupdated" "1708711279"
+			"buildid" "13597120"
+			"timeupdated" "1710176424"
 		}
 		"internalstaging"
 		{
-			"buildid" "13515099"
+			"buildid" "13597120"
 			"pwdrequired" "1"
-			"timeupdated" "1708538264"
+			"timeupdated" "1709240710"
 		}
 	}
 }
@@ -1638,6 +1639,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22478875"
-"_sha" "312ab7835f679df891c22c0abc4f75d7cbf76bdb"
-"_size" "87516"
+"_change_number" "22716747"
+"_sha" "ab90a60905a506c0c543ac964db621e0902ad849"
+"_size" "87554"
