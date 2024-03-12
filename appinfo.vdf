@@ -122,6 +122,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_35" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -186,24 +187,24 @@
 	{
 		"0" "9564"
 		"1" "1695"
-		"2" "3859"
+		"2" "3839"
 		"3" "599"
-		"4" "3839"
-		"5" "1774"
-		"6" "1662"
-		"7" "4175"
-		"8" "1685"
-		"9" "21"
-		"10" "1663"
-		"11" "4182"
-		"12" "19"
-		"13" "5900"
-		"14" "3843"
-		"15" "4166"
-		"16" "701"
-		"17" "3993"
-		"18" "9"
-		"19" "4345"
+		"4" "3859"
+		"5" "30358"
+		"6" "1687"
+		"7" "1654"
+		"8" "3810"
+		"9" "4175"
+		"10" "1662"
+		"11" "3843"
+		"12" "1663"
+		"13" "13190"
+		"14" "1685"
+		"15" "5900"
+		"16" "9204"
+		"17" "701"
+		"18" "1774"
+		"19" "7481"
 	}
 	"review_score" "8"
 	"review_percentage" "88"
@@ -213,7 +214,7 @@
 	"developer" "Expansive Worlds"
 	"publisher" "Expansive Worlds"
 	"homepage" "http://callofthewild.thehunter.com/en"
-	"listofdlc" "579670,579671,579672,602310,619790,622450,630940,640230,695680,706150,766870,767380,854070,894600,939840,986850,1011280,1028270,1052690,1070170,1076850,1093700,1108410,1146830,1164110,1179710,1252750,1316840,1433620,1450350,1463090,1546670,1608440,1776430,1843410,1931910,2064720,2167630,2197812,2197822,2198012,2198015,2198025,2198092,2198095,2198870,2198872,2198874,2199012,2199015,2199072,2199075,2299780,2383430,2532370,2631430"
+	"listofdlc" "579670,579671,579672,602310,619790,622450,630940,640230,695680,706150,766870,767380,854070,894600,939840,986850,1011280,1028270,1052690,1070170,1076850,1093700,1108410,1146830,1164110,1179710,1252750,1316840,1433620,1450350,1463090,1546670,1608440,1776430,1843410,1931910,2064720,2167630,2197810,2197812,2197822,2198012,2198015,2198025,2198092,2198095,2198870,2198872,2198874,2199012,2199015,2199072,2199075,2299780,2383430,2532370,2631430,2701860"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -335,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "1230998710507376573"
-				"size" "85201038324"
-				"download" "42358876416"
+				"gid" "5438541438127298843"
+				"size" "85265336807"
+				"download" "42402325056"
 			}
 		}
 		"encryptedmanifests"
@@ -350,9 +351,9 @@
 			}
 			"callofthewild_press"
 			{
-				"gid" "DF4CEF14963AC422BCDB3CB4E4457DE5"
-				"size" "175325BFBA7E88F07133122F79F795A5"
-				"download" "7C6DAD4FF766E3DF426DB27FAE955B03"
+				"gid" "5702825F2F500D4DD4843B6D431767EB"
+				"size" "577A48BBD62E7C749FF735C3C4D5EE69"
+				"download" "A874D4862FDA47B78A5A00EF042DEC3A"
 			}
 			"huntinglodge_streams"
 			{
@@ -386,21 +387,21 @@
 			}
 			"thp_main_latest"
 			{
-				"gid" "C76703D03BB38DE327C7DF4236EEA0F5"
-				"size" "D34AA646BB8A19E73B77DEF5704178C1"
-				"download" "88F79D542129E8A2D986BF8742741557"
+				"gid" "F0626A8A54371FEE1C7C7288398BDE7C"
+				"size" "B81A21365F247B9C38B04FA339720D68"
+				"download" "B662B2701F6690F555BD92284F9207B7"
 			}
 			"thp_main_stable"
 			{
-				"gid" "1C7FED6B4244420A59ACAAFB22C8F2B4"
-				"size" "84A2EC4545CF4B9E123FF0047BD8CFFE"
-				"download" "08695F1273B6BD54A64576116ED2317F"
+				"gid" "4818E30B815F67113D653CAB2501F491"
+				"size" "E782447C1444F1EDB278A4E01C9D1453"
+				"download" "F434FD97294E5A584192F7936C5A8E52"
 			}
 			"thp_marketing_1"
 			{
-				"gid" "D1793A7E4631D519BFB84D3AB9232403"
-				"size" "97DA3F71279E78FBE929DC34A0B70DF4"
-				"download" "851222887485825DCB3D10ECEED7A03C"
+				"gid" "DA6BBECAEE4BF77F221136BF9EF92BA4"
+				"size" "76B2298B246F5D0EB31D266F5A2D740E"
+				"download" "2F6086C7A8A64470D716457FC9D6ED58"
 			}
 			"thp_marketing_2"
 			{
@@ -416,9 +417,9 @@
 			}
 			"thp_qa_testbranch_1"
 			{
-				"gid" "07229E0F3A77F52CBD0D2E238CDD8672"
-				"size" "7808014E8701887F23FFABD83BE8EF9F"
-				"download" "CBF44EF7577F80016438DD46DD6A7C9F"
+				"gid" "8BF6692DC6F73B7853CC471C89CD542C"
+				"size" "F6B48B71EC1B05A204ECC40CBFA555E0"
+				"download" "84DF6E5628DFAB4C8F119124AE7FEE5C"
 			}
 			"thp_qa_testbranch_2"
 			{
@@ -428,33 +429,33 @@
 			}
 			"thp_qa_testbranch_3"
 			{
-				"gid" "75EDB696CF1610B0D49052B41DC7E0C6"
-				"size" "AE28855AF8A8945243CBBD7CD8B0FE3D"
-				"download" "2158D538C9A5C03CA882B8E70A6C0620"
+				"gid" "F1C9D643AC55ADCEF73CBBD498BB2CBC"
+				"size" "2EE16D66142352F4A7D4B82D7AE64420"
+				"download" "FAA9611718DCE5E5A8D6F97D9916D39A"
 			}
 			"thp_qa_testbranch_4"
 			{
-				"gid" "58914F8E890A4FD6CB62F7AD1D516A2E"
-				"size" "78B335705818FB603F957789523F9CFD"
-				"download" "0916F103CC5D9A4F4CA4D049E27262B5"
+				"gid" "BF646B763025285FA7E36AE1B902823F"
+				"size" "B73E4A7341239C0476A8C7E1B073F410"
+				"download" "09C75ED6B8F27E7D175FE727F5301773"
 			}
 			"thp_rc"
 			{
-				"gid" "CDF55C9D36E4DAA9A0347B396B6988CA"
-				"size" "4EA484E346CC9A429E73B89B9E52C911"
-				"download" "6468D1B163B54BA489DE22723CB5A1D9"
+				"gid" "DECEF32335EAE5121EC42499A5AF0E59"
+				"size" "8671A936E4B005164FFA00AF721433B2"
+				"download" "3854AA71ECAAEC2293F11EFE3A146F1E"
 			}
 			"thp_rm"
 			{
-				"gid" "39579CD3C581A60E9FA8C5A61B112459"
-				"size" "66EEF48CDF7ED7702A96A9864B66A232"
-				"download" "F105E8C8F0343D1E501A217896AF2ADB"
+				"gid" "EBF9B3C315922AAD2AA78BDED7FD2BAE"
+				"size" "B03DBBBBBA1062631B57AA9B206427CE"
+				"download" "AEDFB0E72E7428793F1FF2EC9759526F"
 			}
 			"thp_staging_latest"
 			{
-				"gid" "15B931225E1F1BE93D52C56175817135"
-				"size" "2A88DE0B161F70FBD12AAF93A85BB30B"
-				"download" "F4BD007D9C28E7582368775865F07C68"
+				"gid" "51A88A2DC5BF56D73572E4D8FF6C0877"
+				"size" "CF1362C16F8F34EC423552AE69B8A496"
+				"download" "2D6C0844E2FFFFACD6DECFF9B583970C"
 			}
 			"thp_staging_stable"
 			{
@@ -497,9 +498,9 @@
 			}
 			"callofthewild_press"
 			{
-				"gid" "FF20E76269A80AD34182A66EB2197D8B"
-				"size" "7C153D30C77E42E7D0CD38B6B30568BF"
-				"download" "82EE33F06CDC3B97949179F0B3D31E2F"
+				"gid" "3A702D5B8FCA3DA30C127F8761F3460D"
+				"size" "59770BEC25DB7806DED3177CF5EC1F93"
+				"download" "CEFD99461E10B17F884C63FF6318DA2C"
 			}
 			"huntinglodge_streams"
 			{
@@ -628,9 +629,9 @@
 		{
 			"public"
 			{
-				"gid" "90468835055996584"
-				"size" "1519788823"
-				"download" "262338704"
+				"gid" "5628196368822417739"
+				"size" "1529628791"
+				"download" "263589712"
 			}
 		}
 		"encryptedmanifests"
@@ -643,9 +644,9 @@
 			}
 			"callofthewild_press"
 			{
-				"gid" "79336273672B276B2B4B87CB77AE5798"
-				"size" "E23E81F0C29D238BABDC0370606842A1"
-				"download" "1FD88CE7A54A9D8112410D85D0501A6E"
+				"gid" "E64D784E236E8B89D43592D91749318D"
+				"size" "C60C799A44E73F172D66F5CC8FF5BEF9"
+				"download" "3735CB4478568C692E81D3BD76A1C103"
 			}
 			"huntinglodge_streams"
 			{
@@ -679,21 +680,21 @@
 			}
 			"thp_main_latest"
 			{
-				"gid" "A516F6F7A3A7E31B0712E0E84D62A748"
-				"size" "02584A45E83C93CA85AA0E27C6C9B813"
-				"download" "87B94878C54B3D7A1746C55E34D3D54A"
+				"gid" "E382E85716DA9A583187ECAC94E4FDDD"
+				"size" "57AE81008488451449A89C41C426BDDF"
+				"download" "3D7FE67D73F719C65C4A265BA41AA272"
 			}
 			"thp_main_stable"
 			{
-				"gid" "73130D67F79955AA5AF8F411F4366AE6"
-				"size" "75B70B2037D2E5A661B7580AD672BBB6"
-				"download" "EF2827DF2D778E90E88DA5C797A23EB9"
+				"gid" "C58867D6EDE2C2153D2B8980635B9964"
+				"size" "CB670C6EE362E6E1EA596462C9AD7287"
+				"download" "198B8A880D01A51B2009E387D9B9071F"
 			}
 			"thp_marketing_1"
 			{
-				"gid" "D3A116FC9577C02232DF89E328E6234F"
-				"size" "E765E340E825A1E2AC61C27DC4C905CF"
-				"download" "3BBCA95978DC19F0167D8E6CD8F74FAE"
+				"gid" "E03D861653467A05C8422F4BD17A745A"
+				"size" "5A82315F49B895E94B5F60396F610DB0"
+				"download" "188D9CCFA0E8DCF615BFBFAB223C5F55"
 			}
 			"thp_marketing_2"
 			{
@@ -709,9 +710,9 @@
 			}
 			"thp_qa_testbranch_1"
 			{
-				"gid" "4F9DE764CD087DD044BFF4CBBD3A93F1"
+				"gid" "7FC1A68A781FDCC29A6EE87D9B535AC9"
 				"size" "0B25DD3E2A4F9334F397074C3FA244EE"
-				"download" "F16946200C686D412975DBBD7AD26609"
+				"download" "5773D167E4C192A3F4EF8D93C63FFF24"
 			}
 			"thp_qa_testbranch_2"
 			{
@@ -721,33 +722,33 @@
 			}
 			"thp_qa_testbranch_3"
 			{
-				"gid" "4B212745C1DFC5A12CFC94461A562755"
-				"size" "769D6FF7C16C0805BCC6F9984746F5AC"
-				"download" "68D1C0519E325B231A63406B78DAB777"
+				"gid" "12684794EED31B70AAC86479C22229F0"
+				"size" "8A9DC55452CDF5FA9B533648A2852243"
+				"download" "7ED3E21D31F395EEA92B1254579126AA"
 			}
 			"thp_qa_testbranch_4"
 			{
-				"gid" "2F84B08B3541A3C67D9D13A1E7851E1E"
-				"size" "5A139C84A803786E2C2FFC3431DADB7D"
-				"download" "89F519AB6E600AB5A57CDEEEB9AD4DFF"
+				"gid" "B60E1F78EE45043F12C194975FA868E3"
+				"size" "7626FD369FAD1197BC458AA1484252E5"
+				"download" "F3C5043079C2B3BE8DF0BFC0ADEC2F81"
 			}
 			"thp_rc"
 			{
-				"gid" "281E13D0B007E0990D9E9F908D25BCDA"
-				"size" "DE1A134CF94B8F71A5AD83FCB2BBE079"
-				"download" "881D3E7DBAB3980022D65604DB5303EC"
+				"gid" "D54F8F4E9EBEF59BCF757A339A0E1EC5"
+				"size" "8B1722E02D32D3018552C3FB4A3CE1DE"
+				"download" "B8F619DDCC268353C37B18B56AD7C2CA"
 			}
 			"thp_rm"
 			{
-				"gid" "FA49B7147298BEA497C199071937876E"
-				"size" "D934D444440EA9C3A7C5E88A69B7F863"
-				"download" "6EC92378869308528EEB948979342CA6"
+				"gid" "275D6A1146AF9B7DF2A40EAC09352399"
+				"size" "59DFE17F6BF42BE1379485D6F66A8CB6"
+				"download" "BE63D1FF6F5DFCE7B65F8726E0626623"
 			}
 			"thp_staging_latest"
 			{
-				"gid" "978DE44D6893EC30E4D8C68AB9387AA9"
-				"size" "9ED16264765E773589134CFC53C2DA78"
-				"download" "DEC666EECF35FF31C80566E2FE1675F4"
+				"gid" "5A65BCC4C81351F13B84D92F6C4160CB"
+				"size" "AAACCF821A59F00E52841308BD4E15E2"
+				"download" "56A39A832353557110DD24FCD6E9222F"
 			}
 			"thp_staging_stable"
 			{
@@ -767,8 +768,8 @@
 	{
 		"public"
 		{
-			"buildid" "12715374"
-			"timeupdated" "1701165450"
+			"buildid" "13446840"
+			"timeupdated" "1710237596"
 		}
 		"baseline"
 		{
@@ -778,9 +779,9 @@
 		}
 		"callofthewild_press"
 		{
-			"buildid" "12715374"
+			"buildid" "13446840"
 			"pwdrequired" "1"
-			"timeupdated" "1700666553"
+			"timeupdated" "1709130095"
 		}
 		"huntinglodge_streams"
 		{
@@ -814,21 +815,21 @@
 		}
 		"thp_main_latest"
 		{
-			"buildid" "13369042"
+			"buildid" "13696639"
 			"pwdrequired" "1"
-			"timeupdated" "1707202668"
+			"timeupdated" "1710142641"
 		}
 		"thp_main_stable"
 		{
-			"buildid" "12430143"
+			"buildid" "13696639"
 			"pwdrequired" "1"
-			"timeupdated" "1697186532"
+			"timeupdated" "1710159085"
 		}
 		"thp_marketing_1"
 		{
-			"buildid" "13206483"
+			"buildid" "13696639"
 			"pwdrequired" "1"
-			"timeupdated" "1705655705"
+			"timeupdated" "1710164026"
 		}
 		"thp_marketing_2"
 		{
@@ -844,9 +845,9 @@
 		}
 		"thp_qa_testbranch_1"
 		{
-			"buildid" "13399229"
+			"buildid" "13607902"
 			"pwdrequired" "1"
-			"timeupdated" "1707377424"
+			"timeupdated" "1709536238"
 		}
 		"thp_qa_testbranch_2"
 		{
@@ -856,33 +857,33 @@
 		}
 		"thp_qa_testbranch_3"
 		{
-			"buildid" "13391396"
+			"buildid" "13697847"
 			"pwdrequired" "1"
-			"timeupdated" "1707305192"
+			"timeupdated" "1710162007"
 		}
 		"thp_qa_testbranch_4"
 		{
-			"buildid" "13411352"
+			"buildid" "13698092"
 			"pwdrequired" "1"
-			"timeupdated" "1707463012"
+			"timeupdated" "1710142808"
 		}
 		"thp_rc"
 		{
-			"buildid" "13408035"
+			"buildid" "13446840"
 			"pwdrequired" "1"
-			"timeupdated" "1707466651"
+			"timeupdated" "1707895003"
 		}
 		"thp_rm"
 		{
-			"buildid" "12715374"
+			"buildid" "13446840"
 			"pwdrequired" "1"
-			"timeupdated" "1700574885"
+			"timeupdated" "1708498990"
 		}
 		"thp_staging_latest"
 		{
-			"buildid" "13411106"
+			"buildid" "13568653"
 			"pwdrequired" "1"
-			"timeupdated" "1707463740"
+			"timeupdated" "1709017446"
 		}
 		"thp_staging_stable"
 		{
@@ -921,6 +922,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22273707"
-"_sha" "9226540f89bbd89b265ed6757be850ae0ad60620"
-"_size" "22657"
+"_change_number" "22726807"
+"_sha" "4c2c4f1a340dc9bd911c0e6b88e5d98d31e4014a"
+"_size" "22706"
