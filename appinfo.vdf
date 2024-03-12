@@ -261,7 +261,7 @@
 		"19" "1669"
 	}
 	"review_score" "5"
-	"review_percentage" "59"
+	"review_percentage" "58"
 }
 "extended"
 {
@@ -338,6 +338,7 @@
 }
 "depots"
 {
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,danish,dutch,turkish,brazilian"
 	"228989"
 	{
 		"config"
@@ -362,15 +363,15 @@
 		{
 			"public"
 			{
-				"gid" "4920396365274414707"
-				"size" "83527728895"
-				"download" "79322306416"
+				"gid" "487947393089913849"
+				"size" "87165917096"
+				"download" "82788624224"
 			}
 			"public_test_realm"
 			{
-				"gid" "2194110804418391464"
-				"size" "83527648511"
-				"download" "79321984432"
+				"gid" "487947393089913849"
+				"size" "87165917096"
+				"download" "82788624224"
 			}
 		}
 		"encryptedmanifests"
@@ -395,9 +396,9 @@
 			}
 			"crossplay"
 			{
-				"gid" "3CFA3C55AC0EF4C149DC9E16E626AD91"
-				"size" "2ACE4E02DEDA0E345141456F1394F515"
-				"download" "01B1C0BEB1FD76CDA0AD1E8FCC55F132"
+				"gid" "01A6043EF4102F49529907BAF384B04A"
+				"size" "F4DDBCCC66680E426B4393475CE703F4"
+				"download" "3AD8B5922B7680E351D4882C9102F2E9"
 			}
 			"epicark"
 			{
@@ -407,9 +408,9 @@
 			}
 			"farmhouse"
 			{
-				"gid" "E794DC3AC68A3B5ACDFCE842849BC439"
-				"size" "9B48873DFE93240115217089A9957EFD"
-				"download" "4179A0AF6181A335052430ED2FFAA3DE"
+				"gid" "FD9BA28BC5B078026E8105CCDBD12859"
+				"size" "8524F3B8CC0CDD7B7FC0B613EC84C37F"
+				"download" "6422DEBEAC46D5F8128AAB7820905DB9"
 			}
 			"goodvis"
 			{
@@ -437,9 +438,9 @@
 			}
 			"nightraider"
 			{
-				"gid" "203B001CC5CD21939484BEA3D72D29C9"
-				"size" "B735B95C27AF44B5A65C756E1961CD1D"
-				"download" "C6BC40B5D82939D6246B86AB6E1AA9E0"
+				"gid" "86867A66645A577DDB7B866528A8F802"
+				"size" "7CA2B7618EBD47691899692256E735DD"
+				"download" "511834A7D5C562B71A31AF00E8F014B6"
 			}
 			"nitradopc"
 			{
@@ -455,21 +456,21 @@
 			}
 			"oldplaytest"
 			{
-				"gid" "28A56B72622555391C810EAA6000C5DA"
-				"size" "6665E77311CE2A6C785A9F503B7D8778"
-				"download" "DBCCFE708F7EEE58BFECFF0E54D1D4EB"
+				"gid" "96DF990F660201A44DA98A074904E558"
+				"size" "17F2B40FF4C6EDB5A96682BF2D31FEDB"
+				"download" "57B7D26AA3EAB3060192B70B21ACDCC0"
 			}
 			"playtest1"
 			{
-				"gid" "C0E3C96EE3440B377916C3E38262483E"
-				"size" "CBD7F9C04A581D1ABA89F2CD76F78E01"
-				"download" "2B3A48A71094E3EB80861C62624CAA95"
+				"gid" "06F2DDCFFAD95FC2A8196ACB72701879"
+				"size" "A5EDB6026E8317162B829B594E4A003D"
+				"download" "AA41097BB984ACDB687B02581FB0263B"
 			}
 			"qa_staging"
 			{
-				"gid" "AB4D7A6DCCAE4A3F33F3886D39CBFA84"
-				"size" "21D71474E3FB787486547FE57DEBE0BA"
-				"download" "EBB9847DCFE46C305376002CD66AEC21"
+				"gid" "53A4228E67D57A6C29F5FAEF2E3858DA"
+				"size" "70AAA04B0A28D5DCF4BCD9319902BB12"
+				"download" "647A5282A5980DE3483EBC1EAD50B51B"
 			}
 			"rating_test"
 			{
@@ -479,9 +480,9 @@
 			}
 			"refeldest"
 			{
-				"gid" "762E2C652D0595C67CAA6438D642E5B8"
-				"size" "E57B543781ADF67CC734EB5EC066E698"
-				"download" "0F49CF7860E17DFA4E3122CD7137CEC5"
+				"gid" "4A7088A657D19D4DA83159724DFC5470"
+				"size" "DC95F7E9F23C70A9E880E9311DFB04B5"
+				"download" "3A83DFD2C02B9F4B61033A478CD2A522"
 			}
 			"spam"
 			{
@@ -509,13 +510,20 @@
 			}
 		}
 	}
-	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,danish,dutch,turkish,brazilian"
+	"2827030"
+	{
+		"dlcappid" "2827030"
+	}
+	"2849450"
+	{
+		"dlcappid" "2849450"
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13606781"
-			"timeupdated" "1709323020"
+			"buildid" "13676064"
+			"timeupdated" "1710187926"
 		}
 		"arktx"
 		{
@@ -537,9 +545,9 @@
 		}
 		"crossplay"
 		{
-			"buildid" "12551599"
+			"buildid" "13676064"
 			"pwdrequired" "1"
-			"timeupdated" "1708818903"
+			"timeupdated" "1709860784"
 		}
 		"epicark"
 		{
@@ -549,9 +557,9 @@
 		}
 		"farmhouse"
 		{
-			"buildid" "13609439"
+			"buildid" "13619909"
 			"pwdrequired" "1"
-			"timeupdated" "1709269312"
+			"timeupdated" "1709348891"
 		}
 		"goodvis"
 		{
@@ -579,9 +587,9 @@
 		}
 		"nightraider"
 		{
-			"buildid" "13569650"
+			"buildid" "13676064"
 			"pwdrequired" "1"
-			"timeupdated" "1708998676"
+			"timeupdated" "1710190278"
 		}
 		"nitradopc"
 		{
@@ -597,27 +605,27 @@
 		}
 		"oldplaytest"
 		{
-			"buildid" "13540100"
+			"buildid" "13685193"
 			"pwdrequired" "1"
-			"timeupdated" "1708671783"
+			"timeupdated" "1709927907"
 		}
 		"playtest1"
 		{
-			"buildid" "13614932"
+			"buildid" "13704022"
 			"pwdrequired" "1"
-			"timeupdated" "1709307078"
+			"timeupdated" "1710172523"
 		}
 		"public_test_realm"
 		{
-			"buildid" "13569650"
+			"buildid" "13676064"
 			"description" "Try out the new stuff"
-			"timeupdated" "1708998662"
+			"timeupdated" "1710190267"
 		}
 		"qa_staging"
 		{
-			"buildid" "13606781"
+			"buildid" "13676064"
 			"pwdrequired" "1"
-			"timeupdated" "1709246928"
+			"timeupdated" "1710190323"
 		}
 		"rating_test"
 		{
@@ -627,9 +635,9 @@
 		}
 		"refeldest"
 		{
-			"buildid" "13593105"
+			"buildid" "13540100"
 			"pwdrequired" "1"
-			"timeupdated" "1709267337"
+			"timeupdated" "1709917834"
 		}
 		"spam"
 		{
@@ -663,6 +671,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "22587472"
-"_sha" "0ea953645d4ea41fd09f728007560f8aff9957bb"
-"_size" "13356"
+"_change_number" "22719651"
+"_sha" "8c007f67a026883e737d6da9b1401d125d77ba50"
+"_size" "13444"
