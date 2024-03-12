@@ -45,7 +45,7 @@
 	}
 	"steam_release_date" "1537365480"
 	"gameid" "223350"
-	"exfgls" "1"
+	"exfgls" "9"
 }
 "extended"
 {
@@ -117,9 +117,9 @@
 		{
 			"public"
 			{
-				"gid" "1244492576246878990"
-				"size" "2875019826"
-				"download" "999681408"
+				"gid" "7826196964672993771"
+				"size" "2875089297"
+				"download" "999682864"
 			}
 			"experimental_public"
 			{
@@ -138,9 +138,9 @@
 			}
 			"internalplaytest"
 			{
-				"gid" "10D4D07962B8F5DE99B526DD0984D465"
-				"size" "FC451742718B215543C362C8610B59FC"
-				"download" "41B095D7E69DF6D28680A7153A7EA322"
+				"gid" "F236B4D700C4F6729E22CD7907814A33"
+				"size" "BE287C30BE3FCFAD527AED9A78E4CB48"
+				"download" "4D7FDAC1F9D360BD66E0348C743F2614"
 			}
 			"pr_test"
 			{
@@ -150,15 +150,15 @@
 			}
 			"ps4_internal"
 			{
-				"gid" "D7ADEB265B774FBC996683B6512495AD"
-				"size" "5F9107730FF9E883BE08A5148A41FFA3"
-				"download" "93A006AB83058F7F639A88DD9FFE6F20"
+				"gid" "0A18400FCF5DB66FFDAD9FCBF4F1CD99"
+				"size" "FD47D76D912E827647355B94E95A2718"
+				"download" "97CA91CAA69AC4668063181BCB96F808"
 			}
 			"ps4_stable"
 			{
-				"gid" "054F9AE94B28B37EC97340A8E4C09564"
-				"size" "456B64259E12EE6CC5431D42F3440B86"
-				"download" "D5B7E45CD26FFFA17A02187CBF6DE4E3"
+				"gid" "383F423DCF73BFAA7152A52A8FD46D35"
+				"size" "2AEC3B681854EA2666E759641F83D105"
+				"download" "3C2D1D091020F152D8235E6B7517B213"
 			}
 			"ps4_test"
 			{
@@ -174,15 +174,15 @@
 			}
 			"release_test"
 			{
-				"gid" "2DF644218A9564A51938666D5934990B"
-				"size" "C1DE01ABEC2A2A1DF60BA72C2A7F0A01"
-				"download" "2AD0DEC9348D60F86933776D714F8A88"
+				"gid" "AF5BF4186C179A392CD168464AB17517"
+				"size" "73885E92C38F3795B0106073B714EB5A"
+				"download" "97BB8E84C3A93595116471A30209A77E"
 			}
 			"stable"
 			{
-				"gid" "A75D8C287708D3226DFBFD99AE3D3502"
-				"size" "91B36501333514D050EE5867678511A6"
-				"download" "7ED1C79BFAFD591E1ED2A60A5B4792B1"
+				"gid" "F29F9DC6DEE454733A536C8CB775FE67"
+				"size" "C5158A7636416634706900B75417D2C4"
+				"download" "063050E874E0D9E5B9A677FEF5BFE95E"
 			}
 			"stableprep"
 			{
@@ -204,9 +204,9 @@
 			}
 			"xb1_internal"
 			{
-				"gid" "086CE4A95E67FD9B6F5E748BC2024713"
-				"size" "2B9FD820526B5D643917AC5CDD7707CE"
-				"download" "67D23DC028CB097905925CB749EBE69B"
+				"gid" "22EE2A6DD1985512FE377AA756C92720"
+				"size" "16B440974D0CCAE62088D053999650C8"
+				"download" "5298A6FF661586FA3932CE160642BCFA"
 			}
 			"xb1_internal_exp"
 			{
@@ -216,9 +216,9 @@
 			}
 			"xb1_stable"
 			{
-				"gid" "31701A3DDDB4AEF396BFB22819AA726D"
-				"size" "21A2C197E1F688AB75A73A0112205388"
-				"download" "6E66FE3A79DCAACFBEC63DC61BBB72D2"
+				"gid" "E32AB47CD954520F844B9BAC25D77433"
+				"size" "F477457BCE3F91440F5A9A25A34F97C5"
+				"download" "2852AE3B7D53746BFD900200E1E9C585"
 			}
 			"xb1_test"
 			{
@@ -239,9 +239,9 @@
 		{
 			"public"
 			{
-				"gid" "8361915546996566143"
-				"size" "58043680"
-				"download" "17028544"
+				"gid" "1046813889205133984"
+				"size" "58035488"
+				"download" "17025376"
 			}
 		}
 		"encryptedmanifests"
@@ -254,9 +254,9 @@
 			}
 			"internalplaytest"
 			{
-				"gid" "3A20C8B54283D447282563F35C0BF23E"
-				"size" "D7A96B55A27D05039C4200678FC53A84"
-				"download" "AC4B29CFA43F2EAB6BF575008B9C7DFE"
+				"gid" "F64E2372EF0EF39C74A179D730AB4B81"
+				"size" "99847AFCE873C10E1C213DE05B260BF3"
+				"download" "0A9FEA3D197B60F7380B8813ED04FC5A"
 			}
 			"pr_test"
 			{
@@ -264,23 +264,47 @@
 				"size" "E2C1B564F656A91450E31A98C73488DC"
 				"download" "49D4D179426A6A2BD2FCF7958CBC222C"
 			}
+			"ps4_internal"
+			{
+				"gid" "3CBFDD1193DE4D5E90D65922C1F62110"
+				"size" "A364DD94E744C4E031612566A0A29DBC"
+				"download" "A364DD94E744C4E031612566A0A29DBC"
+			}
+			"ps4_stable"
+			{
+				"gid" "28D1EE175DA03B44B44F282F2B328764"
+				"size" "FBBD1E1F747864705114F7BC793B93E6"
+				"download" "FBBD1E1F747864705114F7BC793B93E6"
+			}
 			"release_test"
 			{
-				"gid" "BCEA540E585C6E4D82A091B2AB78D7A9"
-				"size" "E64A03FB3E24DBDD6855049EA5D7F38E"
-				"download" "7A66EB7A2E94A37ECA8DE69BBC6696CF"
+				"gid" "C1BDEEA71296FAFB2252A2AAA6B9C7C1"
+				"size" "24CDB3ADC90B56C6CFBD2E5CA4D40979"
+				"download" "26F4D08F35629633BA0F6492C6BEE162"
 			}
 			"stable"
 			{
-				"gid" "1BE22CECB73A7115404567DD34910904"
-				"size" "B30AEE3EFBBED371924757617326DE78"
-				"download" "AC1448486A10561B4A7EC54CD6A1D508"
+				"gid" "81C6848F5D7D65825943F14B54C64A32"
+				"size" "3636FF1C5A2960A533FC902A4ABA5A6D"
+				"download" "CF494FE14663F877870B4A0B4C70E991"
 			}
 			"stableprep"
 			{
 				"gid" "FC65EB9DFA1652435B75018667D82A8B"
 				"size" "137C82544F57F2AF0C157657DD71231E"
 				"download" "137C82544F57F2AF0C157657DD71231E"
+			}
+			"xb1_internal"
+			{
+				"gid" "ED02AD0169D976B853F63657A50F56F0"
+				"size" "778E78BD52DD5F6D59782EF0B476CE09"
+				"download" "778E78BD52DD5F6D59782EF0B476CE09"
+			}
+			"xb1_stable"
+			{
+				"gid" "26CC3D56A4E9E824E9F66CC1B80FCB77"
+				"size" "DD10F92A6624FAB6F552AFD0CA0FC5DB"
+				"download" "DD10F92A6624FAB6F552AFD0CA0FC5DB"
 			}
 		}
 	}
@@ -295,9 +319,9 @@
 		{
 			"public"
 			{
-				"gid" "9134675472149514769"
-				"size" "39998456"
-				"download" "12677104"
+				"gid" "2397781539430549968"
+				"size" "40001528"
+				"download" "12679712"
 			}
 			"experimental_public"
 			{
@@ -316,9 +340,9 @@
 			}
 			"internalplaytest"
 			{
-				"gid" "BF120AF07BEA2AC20932A135C0E472A7"
-				"size" "00BFB7145CF89EAFA10A8226451463BB"
-				"download" "DA10C92026965F8ECFB281FABEC79D4E"
+				"gid" "258C53C5863892D9BDF2099909B0CF9E"
+				"size" "BAB1A31EE1F150C2269BFEAB7ABB0540"
+				"download" "6A128C9CB6F667BC3A0131F1720D7625"
 			}
 			"pr_test"
 			{
@@ -352,15 +376,15 @@
 			}
 			"release_test"
 			{
-				"gid" "BFEFB9C684E38E5F64C4513E5B2C2847"
-				"size" "7A99288ECAC223DB988807B0490B1C5D"
-				"download" "5A1E45B2A2FC9C940B343AF675FDB034"
+				"gid" "81AA5C7F919BF639E2E145D91B415276"
+				"size" "14626762F352F62C03F65FAC422D7EB6"
+				"download" "5BB401138EEA5DA66DBAAA588B1EA0E6"
 			}
 			"stable"
 			{
-				"gid" "5A54254DBD3542489DC05239304187E2"
-				"size" "3FF1AB5A503DB68506821526F9FFAB82"
-				"download" "444F9193C46EEF67D003D7E7F484567F"
+				"gid" "52CB3D9AF8BBCB10EEA338F610522553"
+				"size" "8A82AEBCC801A3D9305AEB5F0B92E91D"
+				"download" "B24F14BC3E85134258AF30F91152CFFA"
 			}
 			"stableprep"
 			{
@@ -413,8 +437,8 @@
 	{
 		"public"
 		{
-			"buildid" "13475038"
-			"timeupdated" "1708433994"
+			"buildid" "13645090"
+			"timeupdated" "1709816184"
 		}
 		"experimental_public"
 		{
@@ -430,9 +454,9 @@
 		}
 		"internalplaytest"
 		{
-			"buildid" "13442398"
+			"buildid" "13644975"
 			"pwdrequired" "1"
-			"timeupdated" "1707822153"
+			"timeupdated" "1709639366"
 		}
 		"pr_test"
 		{
@@ -442,15 +466,15 @@
 		}
 		"ps4_internal"
 		{
-			"buildid" "13441786"
+			"buildid" "13645360"
 			"pwdrequired" "1"
-			"timeupdated" "1707817783"
+			"timeupdated" "1709642204"
 		}
 		"ps4_stable"
 		{
-			"buildid" "13441786"
+			"buildid" "13645360"
 			"pwdrequired" "1"
-			"timeupdated" "1708431392"
+			"timeupdated" "1709815999"
 		}
 		"ps4_test"
 		{
@@ -466,15 +490,15 @@
 		}
 		"release_test"
 		{
-			"buildid" "13475038"
+			"buildid" "13645090"
 			"pwdrequired" "1"
-			"timeupdated" "1708081445"
+			"timeupdated" "1709640286"
 		}
 		"stable"
 		{
-			"buildid" "13442398"
+			"buildid" "13644975"
 			"pwdrequired" "1"
-			"timeupdated" "1708426736"
+			"timeupdated" "1709810354"
 		}
 		"stableprep"
 		{
@@ -496,9 +520,9 @@
 		}
 		"xb1_internal"
 		{
-			"buildid" "13441413"
+			"buildid" "13645332"
 			"pwdrequired" "1"
-			"timeupdated" "1707814939"
+			"timeupdated" "1709642023"
 		}
 		"xb1_internal_exp"
 		{
@@ -508,9 +532,9 @@
 		}
 		"xb1_stable"
 		{
-			"buildid" "13441413"
+			"buildid" "13645332"
 			"pwdrequired" "1"
-			"timeupdated" "1708431436"
+			"timeupdated" "1709815984"
 		}
 		"xb1_test"
 		{
@@ -528,6 +552,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "22423309"
-"_sha" "2930e1dbc6340388edc6469840ac603e8fd5369e"
-"_size" "11767"
+"_change_number" "22671104"
+"_sha" "5ef063eebc5f48cae60827c1c7e622d57b6c8135"
+"_size" "12475"
