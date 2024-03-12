@@ -137,15 +137,15 @@
 		"2" "9551"
 		"3" "3799"
 		"4" "7332"
-		"5" "4726"
-		"6" "4434"
+		"5" "4434"
+		"6" "4726"
 		"7" "1667"
 		"8" "1643"
 		"9" "4328"
 		"10" "16094"
 		"11" "4085"
-		"12" "1742"
-		"13" "11014"
+		"12" "11014"
+		"13" "1742"
 		"14" "6971"
 		"15" "4182"
 		"16" "3959"
@@ -187,14 +187,35 @@
 		{
 			"public"
 			{
-				"gid" "7717235420964899527"
-				"size" "2297561102"
-				"download" "547784912"
+				"gid" "3362344791186341658"
+				"size" "2320142074"
+				"download" "553347808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "C850C039CFEC77B6D43DA270BAE6655F"
+				"size" "11200E8F2BF6131B4722A1D50775ACE3"
+				"download" "BB5A2842FA01FE88885092D340597C95"
 			}
 		}
 	}
 	"2194532"
 	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "62A09165B1B2F1AF7F111F2F982B2BF1"
+				"size" "A81B35964CFCE6DF62E65356AA608144"
+				"download" "247A6DE178A4F6108A3044516CAC9545"
+			}
+		}
 	}
 	"2699860"
 	{
@@ -209,8 +230,14 @@
 	{
 		"public"
 		{
-			"buildid" "13009584"
-			"timeupdated" "1703071483"
+			"buildid" "13699841"
+			"timeupdated" "1710228701"
+		}
+		"test"
+		{
+			"buildid" "13610596"
+			"pwdrequired" "1"
+			"timeupdated" "1709280939"
 		}
 	}
 	"appmanagesdlc" "1"
@@ -234,6 +261,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22086758"
-"_sha" "0460360de62b82e88ee7426d6ef7cac98b846148"
-"_size" "4082"
+"_change_number" "22724996"
+"_sha" "43ed0067eee205b6e9aac96158edff328dc646fe"
+"_size" "4616"
