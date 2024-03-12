@@ -57,9 +57,9 @@
 	}
 	"steam_release_date" "1541615280"
 	"gameid" "830640"
-	"exfgls" "1"
+	"exfgls" "9"
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -174,9 +174,9 @@
 		{
 			"public"
 			{
-				"gid" "6350496167880022772"
-				"size" "484009571"
-				"download" "198742080"
+				"gid" "1231441376900598003"
+				"size" "484009828"
+				"download" "198750864"
 			}
 			"experimental"
 			{
@@ -189,9 +189,9 @@
 		{
 			"staging"
 			{
-				"gid" "E0114490483273BF8DEFF38D60C0C20D"
-				"size" "978D35C8714AA1F7DCCABAD0280985C5"
-				"download" "18E57E960F6C5AB45CB906ED542B8957"
+				"gid" "F1AFCDC9CB31C94FBBE84C7971B06F53"
+				"size" "72F05659AC7A4016DC8DC2FBDD38B28F"
+				"download" "8C825674CB9CB55788D8AAED5F956FA2"
 			}
 		}
 	}
@@ -199,8 +199,8 @@
 	{
 		"public"
 		{
-			"buildid" "13466662"
-			"timeupdated" "1708433964"
+			"buildid" "13645211"
+			"timeupdated" "1709816152"
 		}
 		"experimental"
 		{
@@ -210,13 +210,13 @@
 		}
 		"staging"
 		{
-			"buildid" "13466662"
+			"buildid" "13645211"
 			"pwdrequired" "1"
-			"timeupdated" "1708013121"
+			"timeupdated" "1709641132"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22423303"
-"_sha" "a5b361d6727f79a94a6e783256edf36b779a3839"
+"_change_number" "22671093"
+"_sha" "8702ddba523e80d59712a38528c636d0b60efb12"
 "_size" "3711"
