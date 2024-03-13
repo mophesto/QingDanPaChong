@@ -15,10 +15,6 @@
 	{
 		"schinese" "牛仔不能死"
 	}
-	"content_descriptors"
-	{
-		"0" "5"
-	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -121,6 +117,7 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_18" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -209,9 +206,9 @@
 		{
 			"public"
 			{
-				"gid" "6958012833592486715"
-				"size" "1534703775"
-				"download" "511877808"
+				"gid" "2322449389861087461"
+				"size" "1542084189"
+				"download" "512671424"
 			}
 		}
 		"encryptedmanifests"
@@ -230,9 +227,9 @@
 			}
 			"development"
 			{
-				"gid" "50BBD48B16FDF4CB5B747B701CE9E732"
-				"size" "059E01BCD48683D9B48C772FA987351B"
-				"download" "52460B7E2AB9F2F7D9330538B003EDF2"
+				"gid" "CD41BB6A55A918A91A8B2D7C0BD50F06"
+				"size" "EE0DE3298DDDE51F9AB43EB86F23C296"
+				"download" "0A60798A64B5B973C4FAA4331E5DA682"
 			}
 			"pipeline-development"
 			{
@@ -242,9 +239,9 @@
 			}
 			"stabilization"
 			{
-				"gid" "D3234C5CD98A0DCAE69FA9A347A7A095"
-				"size" "0EE594B5A56F464FFC13ED17B005119B"
-				"download" "B84A4E87FE9F3B68579B732245E86A51"
+				"gid" "DFA270A0562A3E949E3D08689B4828B6"
+				"size" "E92C2AD5713C48280A64538E505874C1"
+				"download" "D50484B0793D2655C0945E5358121207"
 			}
 			"trailer"
 			{
@@ -272,8 +269,8 @@
 	{
 		"public"
 		{
-			"buildid" "13517805"
-			"timeupdated" "1708605871"
+			"buildid" "13727034"
+			"timeupdated" "1710338758"
 		}
 		"beta"
 		{
@@ -289,9 +286,9 @@
 		}
 		"development"
 		{
-			"buildid" "13010947"
+			"buildid" "13710801"
 			"pwdrequired" "1"
-			"timeupdated" "1703081671"
+			"timeupdated" "1710226568"
 		}
 		"pipeline-development"
 		{
@@ -301,9 +298,9 @@
 		}
 		"stabilization"
 		{
-			"buildid" "13517805"
+			"buildid" "13727034"
 			"pwdrequired" "1"
-			"timeupdated" "1708509875"
+			"timeupdated" "1710336590"
 		}
 		"trailer"
 		{
@@ -319,6 +316,6 @@
 	"maxnumfiles" "64"
 }
 "_missing_token" "False"
-"_change_number" "22457237"
-"_sha" "519fb417e37dcb1cc7ac04d3ca2b072e693be5db"
-"_size" "6056"
+"_change_number" "22745753"
+"_sha" "e55e05a2244b6af95e8bb7c9e95aed41cd3c541d"
+"_size" "6034"
