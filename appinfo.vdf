@@ -142,6 +142,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_61" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -257,7 +258,7 @@
 {
 	"developer" "Frontier Developments"
 	"publisher" "Frontier Developments"
-	"listofdlc" "1336320,1336321,1336322,1882470,1966010,2106800,2177430,2314000,2492640,2610980"
+	"listofdlc" "1336320,1336321,1336322,1882470,1966010,2106800,2177430,2314000,2492640,2610980,2806860"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -380,9 +381,9 @@
 		{
 			"public"
 			{
-				"gid" "7942334205900238976"
-				"size" "11356846086"
-				"download" "10751131936"
+				"gid" "8556957453754952473"
+				"size" "11437819074"
+				"download" "10824902400"
 			}
 		}
 		"encryptedmanifests"
@@ -395,27 +396,27 @@
 			}
 			"dev_final_branch"
 			{
-				"gid" "5E0A325868C6CE84C37BF220F669B0C2"
-				"size" "BAA053485D22C2C36E35559F8A4928A6"
-				"download" "0C9852F7623C3FF14E31D5BAF465EFE1"
+				"gid" "126CD01FC0A2A8B20728D9898C64CB53"
+				"size" "86C2DA19AF9D0B608861DB166EB5E0C1"
+				"download" "1D3C8AB34B95CEAB7C02282C0085DF07"
 			}
 			"dev_final_trunk"
 			{
-				"gid" "4157A5A970791F31B8EBE3911DB5A01F"
-				"size" "C04E85CEBCEC72DCD03D457005A3B95C"
-				"download" "AE21CB716468D0255DABEC09CA60D98E"
+				"gid" "103F72009D4C954CA278F9CA273482E6"
+				"size" "521E47E01AF0B23D3CF2C33099D7E8EC"
+				"download" "385B52CB434CFED0A7D718EB89BEDBEC"
 			}
 			"dev_release_branch"
 			{
-				"gid" "B093BF4A4EB5FC48522DC709824C5950"
-				"size" "FD00B5BACDDF4233678FCCEEA4F3D934"
-				"download" "04655A92502F1D1D6B17415329B23747"
+				"gid" "7F625AD7FEB7691C3D580A7EE15E0940"
+				"size" "80675DF19E091803E285708374826881"
+				"download" "A6C6C8F3D6680D9616A3C790C0E4C01B"
 			}
 			"dev_release_trunk"
 			{
-				"gid" "0399CC81DCA8834956020612CA99FCB7"
-				"size" "1A8FF6521B6B0CD24D13B63A1686C26C"
-				"download" "7D4DE1BD65CF33BE0847B9C0BD161B2E"
+				"gid" "5F3432B4E63BE05420E3C2F069276271"
+				"size" "F6AB98354D27140A2C50E95CF0B41700"
+				"download" "A4D8647871DC5CBB4BF87DE3FEC29EC4"
 			}
 			"ext_dev_final"
 			{
@@ -473,9 +474,9 @@
 			}
 			"external_8"
 			{
-				"gid" "46491F95A7354DE199B730A06128C12B"
-				"size" "0F67AF7DBE9F00C4619ADC04A8885560"
-				"download" "D6B1AC5E47C7CF79EC6D1D4FF6B98C5F"
+				"gid" "D2E0C145319DBABDB5E3ED698850A980"
+				"size" "71950C74DC5B037BCE90F5743BE94704"
+				"download" "34E59859C134B133247C039F0E2BCE1E"
 			}
 			"external_9"
 			{
@@ -532,8 +533,8 @@
 	{
 		"public"
 		{
-			"buildid" "13263641"
-			"timeupdated" "1706871589"
+			"buildid" "13457420"
+			"timeupdated" "1710327609"
 		}
 		"denuvo"
 		{
@@ -543,27 +544,27 @@
 		}
 		"dev_final_branch"
 		{
-			"buildid" "13263641"
+			"buildid" "13457420"
 			"pwdrequired" "1"
-			"timeupdated" "1706127552"
+			"timeupdated" "1707936480"
 		}
 		"dev_final_trunk"
 		{
-			"buildid" "13405277"
+			"buildid" "13725910"
 			"pwdrequired" "1"
-			"timeupdated" "1707406754"
+			"timeupdated" "1710329857"
 		}
 		"dev_release_branch"
 		{
-			"buildid" "13264952"
+			"buildid" "13458376"
 			"pwdrequired" "1"
-			"timeupdated" "1706137500"
+			"timeupdated" "1707944379"
 		}
 		"dev_release_trunk"
 		{
-			"buildid" "13406070"
+			"buildid" "13725289"
 			"pwdrequired" "1"
-			"timeupdated" "1707411292"
+			"timeupdated" "1710326698"
 		}
 		"ext_dev_final"
 		{
@@ -621,9 +622,9 @@
 		}
 		"external_8"
 		{
-			"buildid" "12704603"
+			"buildid" "13457420"
 			"pwdrequired" "1"
-			"timeupdated" "1700126847"
+			"timeupdated" "1709038792"
 		}
 		"external_9"
 		{
@@ -705,6 +706,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22264307"
-"_sha" "19b95d10cc78ac8c5dc44026e284a161a18f788b"
-"_size" "15153"
+"_change_number" "22743801"
+"_sha" "f5353ae86427d236bf33623ad5571b5157e75705"
+"_size" "15183"
