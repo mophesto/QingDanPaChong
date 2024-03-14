@@ -145,9 +145,9 @@
 		{
 			"public"
 			{
-				"gid" "7626858333599356995"
-				"size" "14002094614"
-				"download" "4090927856"
+				"gid" "8968611829841564567"
+				"size" "12997780844"
+				"download" "4076481584"
 			}
 			"squad_experimental"
 			{
@@ -214,15 +214,15 @@
 			}
 			"squad_main"
 			{
-				"gid" "4867F64686C9F672A27E0AFB46E5A60C"
-				"size" "E4191ABA7911BA2018D3B679BFDED79D"
-				"download" "E8A6FF6685A910437591A86A5FF36ED3"
+				"gid" "739911F430382B5618C409A7571E6CCF"
+				"size" "33167A533CE29829963D9B8D0FCA6CB5"
+				"download" "DFC3DA0DD264CF8253EBBECC6A42B5DA"
 			}
 			"squad_release"
 			{
-				"gid" "38A09E6C34239ECE838313980297E311"
-				"size" "8C4396509D55F8F190268B5AF3D94084"
-				"download" "30CFA3E365671D20F23F377AD450324F"
+				"gid" "B3D1499F0963DDEFACC65DD335A2CF79"
+				"size" "D33554E59DD8DCA36AF6B2AC7163D4D9"
+				"download" "45F391C326E0B30F1031FE5D9E313987"
 			}
 			"squad_testing"
 			{
@@ -250,9 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "1937610740922252751"
-				"size" "13949480976"
-				"download" "4026498768"
+				"gid" "2158744189197111850"
+				"size" "12947399763"
+				"download" "4012356176"
 			}
 			"squad_experimental"
 			{
@@ -319,15 +319,15 @@
 			}
 			"squad_main"
 			{
-				"gid" "CD2D2A584BB1B18AF5EB2B4379CCB238"
-				"size" "09E26EF100CD03A6D9E7A06828780FC3"
-				"download" "1B5B3D5B22340DBF1AFD7DE34E71B3D6"
+				"gid" "C390032F4BD547F564841D0E5CB8B78F"
+				"size" "1E09C55A9CD0EBDAC31728C2C3963C13"
+				"download" "1A2F59C8EE5DF1307B09CC89CFEA6E33"
 			}
 			"squad_release"
 			{
-				"gid" "E9337726F74FE5446CFE0A39E5752086"
-				"size" "7F82F9521154F3F2F3C9DAB91F5AC5D4"
-				"download" "07EECCB88A9C5680D1E0025268357FB7"
+				"gid" "A0FD070A09F11BB7360A8E2BE474BDB6"
+				"size" "FB01649691027DD679C9923C0C124B2C"
+				"download" "FF5D1B9D6821CFE0C852D87A55D79F66"
 			}
 			"squad_testing"
 			{
@@ -424,8 +424,8 @@
 	{
 		"public"
 		{
-			"buildid" "13485642"
-			"timeupdated" "1708540224"
+			"buildid" "13727612"
+			"timeupdated" "1710349827"
 		}
 		"alpha-11.2"
 		{
@@ -489,15 +489,15 @@
 		}
 		"squad_main"
 		{
-			"buildid" "13520242"
+			"buildid" "13727612"
 			"pwdrequired" "1"
-			"timeupdated" "1708556379"
+			"timeupdated" "1710345021"
 		}
 		"squad_release"
 		{
-			"buildid" "13522365"
+			"buildid" "13727612"
 			"pwdrequired" "1"
-			"timeupdated" "1708537737"
+			"timeupdated" "1710340047"
 		}
 		"squad_testing"
 		{
@@ -538,6 +538,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22448463"
-"_sha" "515bf2b6a5a56a6f4cdbec7b97f6fe4deeb54ceb"
+"_change_number" "22748626"
+"_sha" "b37d57f85fc90fab2a28a20ee177b35457c7d0bb"
 "_size" "11570"
