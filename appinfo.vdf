@@ -87,6 +87,7 @@
 		"library_capsule" "en,zh-cn,zh-tw"
 		"library_hero" "en"
 		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -94,7 +95,7 @@
 			"height_pct" "77.43701224129758"
 		}
 	}
-	"store_asset_mtime" "1700639747"
+	"store_asset_mtime" "1710384505"
 	"associations"
 	{
 		"0"
@@ -126,6 +127,7 @@
 		"category_2" "1"
 		"category_23" "1"
 		"category_18" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -154,15 +156,15 @@
 		"1" "6915"
 		"2" "3964"
 		"3" "1677"
-		"4" "9"
-		"5" "21"
-		"6" "1742"
+		"4" "1742"
+		"5" "9"
+		"6" "21"
 		"7" "1695"
 		"8" "4182"
 		"9" "4975"
 		"10" "5984"
-		"11" "6691"
-		"12" "4608"
+		"11" "4608"
+		"12" "6691"
 		"13" "51306"
 		"14" "4325"
 		"15" "1708"
@@ -236,24 +238,24 @@
 		{
 			"public"
 			{
-				"gid" "3155231276989341528"
-				"size" "3052019436"
-				"download" "2727467360"
+				"gid" "1607877343112274612"
+				"size" "3606689713"
+				"download" "3157198464"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"forqa"
 			{
-				"gid" "735AC06E6036E98615EF0C14583C165A"
-				"size" "53978CC1A2F143C0CEA99EE2EE6CF9D8"
-				"download" "50FD78160D6CD6040795868E44FE155D"
+				"gid" "EDB378467E20C8F2AF260657EEFED775"
+				"size" "BA4EB1314D6F7DE900C66B83100E4B36"
+				"download" "71AC179AB7DC007809427E4349BD159F"
 			}
 			"lqatest"
 			{
-				"gid" "8BA78E613181193BD87EAB7B704948CE"
-				"size" "8EBB24DFDFE46CCE8F09294DB01BD891"
-				"download" "D185F7EDE1788155A70E2AF38D9D4704"
+				"gid" "5CD173973DFCE6D4AD1F30C867D53312"
+				"size" "EDBE7BAC55182898A0BF4CE26F3629B0"
+				"download" "8974572EAD033E10BA7AE78859D74C92"
 			}
 			"performancetest"
 			{
@@ -279,6 +281,12 @@
 				"size" "260DD10A736CBD5B155FC5D9CBED62AD"
 				"download" "FCD2B1B1EC5C19B126546B1A85901DBC"
 			}
+			"ws_tsc"
+			{
+				"gid" "45BE257E2F4F6AFC0C015194D0CD5A42"
+				"size" "8516C9E73E13CED2F18DD10D005BFB45"
+				"download" "CCDF805E616892228D3CA3D99AB65A25"
+			}
 			"xiameng_dev"
 			{
 				"gid" "921137B8837FB365F5F9ABAFE6BF0F06"
@@ -291,20 +299,20 @@
 	{
 		"public"
 		{
-			"buildid" "12686552"
-			"timeupdated" "1699862463"
+			"buildid" "13683593"
+			"timeupdated" "1710384339"
 		}
 		"forqa"
 		{
-			"buildid" "13322067"
+			"buildid" "13726967"
 			"pwdrequired" "1"
-			"timeupdated" "1706757037"
+			"timeupdated" "1710401683"
 		}
 		"lqatest"
 		{
-			"buildid" "13248380"
+			"buildid" "13726967"
 			"pwdrequired" "1"
-			"timeupdated" "1706586589"
+			"timeupdated" "1710383243"
 		}
 		"performancetest"
 		{
@@ -329,6 +337,12 @@
 			"buildid" "12141686"
 			"pwdrequired" "1"
 			"timeupdated" "1694416749"
+		}
+		"ws_tsc"
+		{
+			"buildid" "13683593"
+			"pwdrequired" "1"
+			"timeupdated" "1709944530"
 		}
 		"xiameng_dev"
 		{
@@ -357,6 +371,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22145383"
-"_sha" "58918f334f6b78c1c90b3eea4da378db75a527f0"
-"_size" "6927"
+"_change_number" "22757507"
+"_sha" "57ef3b740b6e53f817f9cd933c0ec4e37bd6a4ca"
+"_size" "7262"
