@@ -219,10 +219,24 @@
 	{
 		"1"
 		{
+			"executable" "Launcher.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "gfwl"
+			}
+			"description_loc"
+			{
+				"english" "GFWL Version"
+			}
+			"description" "GFWL Version"
+		}
+		"2"
+		{
 			"executable" "Fouc.exe"
 			"type" "default"
 		}
-		"2"
+		"3"
 		{
 			"executable" "Fouc.exe"
 			"arguments" "-launcher"
@@ -240,20 +254,6 @@
 				"czech" "Nástroj pro konfiguraci"
 			}
 			"description" "Configuration Tool"
-		}
-		"3"
-		{
-			"executable" "Launcher.exe"
-			"type" "default"
-			"config"
-			{
-				"betakey" "gfwl"
-			}
-			"description_loc"
-			{
-				"english" "GFWL"
-			}
-			"description" "GFWL"
 		}
 	}
 	"steamcontrollertemplateindex" "4"
@@ -307,7 +307,7 @@
 		{
 			"public"
 			{
-				"gid" "5769797207877038219"
+				"gid" "6247001494345259201"
 				"size" "4688619881"
 				"download" "3234781248"
 			}
@@ -322,7 +322,7 @@
 		{
 			"zoomplatform"
 			{
-				"gid" "C8539E411F4083559CED2331025EE250"
+				"gid" "B66820BA7D1AF82D089A9D72B0D8CC71"
 				"size" "95AFE5E6F9C803EC2D0B811061A93F10"
 				"download" "E7B5260C2DC29E9BCD7934C04FD31BE8"
 			}
@@ -558,8 +558,8 @@
 	{
 		"public"
 		{
-			"buildid" "13728763"
-			"timeupdated" "1710348422"
+			"buildid" "13729526"
+			"timeupdated" "1710350862"
 		}
 		"gfwl"
 		{
@@ -569,9 +569,9 @@
 		}
 		"zoomplatform"
 		{
-			"buildid" "13728763"
+			"buildid" "13729526"
 			"pwdrequired" "1"
-			"timeupdated" "1710346153"
+			"timeupdated" "1710350820"
 		}
 	}
 }
@@ -593,9 +593,21 @@
 			"path" "FlatOut Ultimate Carnage/Savegame"
 			"pattern" "*.dat"
 		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FlatOut Ultimate Carnage/Savegame"
+			"pattern" "gfwl_id.txt"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FlatOut Ultimate Carnage/Savegame"
+			"pattern" "gfwl_username.txt"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22748302"
-"_sha" "cad10e7b6a434f882c1899888e0e1f28d9ff145a"
-"_size" "10943"
+"_change_number" "22749264"
+"_sha" "51f112bbf36010aa850f6eeca4b40d85a89e4a99"
+"_size" "11213"
