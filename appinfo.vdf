@@ -87,11 +87,11 @@
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "50"
-			"height_pct" "50"
+			"width_pct" "25.262543757292875"
+			"height_pct" "43.54072666824983"
 		}
 	}
-	"store_asset_mtime" "1707415600"
+	"store_asset_mtime" "1710257456"
 	"associations"
 	{
 		"0"
@@ -166,8 +166,8 @@
 		"14" "7332"
 		"15" "4684"
 		"16" "1695"
-		"17" "9204"
-		"18" "4166"
+		"17" "4166"
+		"18" "9204"
 		"19" "1775"
 	}
 	"review_score" "8"
@@ -180,7 +180,7 @@
 	"developer" "Offworld"
 	"publisher" "Offworld"
 	"homepage" "http://joinsquad.com"
-	"listofdlc" "421270,421271,421272,421273,421274,421275,422950,422960,422961,1123920,2222340,2222341,2222342,2417350,2417351,2522000,2584870,2598380"
+	"listofdlc" "421270,421271,421272,421273,421274,421275,422950,422960,422961,1123920,2222340,2222341,2222342,2417350,2417351,2522000,2584870,2598380,2820320"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -266,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "94321632695786344"
-				"size" "88240849026"
-				"download" "34432841520"
+				"gid" "833918258115251376"
+				"size" "86376581436"
+				"download" "33991297808"
 			}
 			"squad_experimental"
 			{
@@ -377,9 +377,9 @@
 			}
 			"squad_main"
 			{
-				"gid" "2E03F58FE991B14F972C7D5E56E5BC30"
-				"size" "D1733B8B801BDE4F08EA06E6B15D10B7"
-				"download" "CB6A14D66B84190D16ECFCD3D6E1B88C"
+				"gid" "616507456855B0E82C33FE1FB4179655"
+				"size" "7F4683A69178C529B2629B9699C153E3"
+				"download" "0F2A77D53F02B524FE82D40AE7631436"
 			}
 			"squad_previous"
 			{
@@ -389,9 +389,9 @@
 			}
 			"squad_release"
 			{
-				"gid" "313404C65BCD3E6A969CA26090B87869"
-				"size" "93BFFEADAA6ED6299D5530DDC4A609E2"
-				"download" "05C9F384FF3A3B207AC11159124FE079"
+				"gid" "988E5FAA27C3A447A92CD9B3F7610183"
+				"size" "2529D58F8814832D503B587A5A907397"
+				"download" "683D034936ED75267734F97E4D38333F"
 			}
 			"squad_steamfix"
 			{
@@ -508,8 +508,8 @@
 	{
 		"public"
 		{
-			"buildid" "13485652"
-			"timeupdated" "1708542025"
+			"buildid" "13728542"
+			"timeupdated" "1710352799"
 		}
 		"alpha-1.0"
 		{
@@ -609,9 +609,9 @@
 		}
 		"squad_main"
 		{
-			"buildid" "13520331"
+			"buildid" "13728542"
 			"pwdrequired" "1"
-			"timeupdated" "1708556357"
+			"timeupdated" "1710345007"
 		}
 		"squad_previous"
 		{
@@ -621,9 +621,9 @@
 		}
 		"squad_release"
 		{
-			"buildid" "13520331"
+			"buildid" "13728542"
 			"pwdrequired" "1"
-			"timeupdated" "1708537711"
+			"timeupdated" "1710344866"
 		}
 		"squad_steamfix"
 		{
@@ -663,6 +663,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "22448458"
-"_sha" "a5a32e20e4e1f2b172969e8b86f2d8fa008b2245"
-"_size" "14239"
+"_change_number" "22749250"
+"_sha" "1aa5cb8b7334154777f98edf32f23ffb1a04006f"
+"_size" "14279"
