@@ -29,8 +29,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -86,7 +84,6 @@
 	{
 		"schinese" "capsule_231x87_schinese.jpg"
 		"english" "capsule_231x87.jpg"
-		"tchinese" "capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
@@ -105,7 +102,7 @@
 			"height_pct" "64.2840180479696"
 		}
 	}
-	"store_asset_mtime" "1706261740"
+	"store_asset_mtime" "1710429530"
 	"associations"
 	{
 		"0"
@@ -146,6 +143,7 @@
 		"category_23" "1"
 		"category_28" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -193,7 +191,7 @@
 		"19" "3859"
 	}
 	"review_score" "5"
-	"review_percentage" "69"
+	"review_percentage" "68"
 }
 "extended"
 {
@@ -256,30 +254,36 @@
 		{
 			"public"
 			{
-				"gid" "8345765508051895304"
-				"size" "5210714335"
-				"download" "5030213264"
+				"gid" "2505685161844016281"
+				"size" "5519782862"
+				"download" "5332833248"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"dev4qa"
 			{
-				"gid" "6E4ECA0ED1F99310933E00FC5FDCAF0B"
-				"size" "CE73489D41B6428E1254891F6C15CFB2"
-				"download" "FF6FE3D771E5A33890B12C5621848327"
+				"gid" "DE4260874CAE996A0EFEEF4FADD508BC"
+				"size" "B67211EAA8CB83D00C7955041947C9E0"
+				"download" "FDC68FE8228B5ED03D546F41CEE24CEE"
+			}
+			"forkol"
+			{
+				"gid" "9638E70F67A5C8ADA1A780F9BCEBEB16"
+				"size" "6932AB9DC17550B8F92E8804556015E1"
+				"download" "74AC86082BCDE5027927D6B93FFDE5DA"
 			}
 			"happychinesenewyear2024"
 			{
-				"gid" "9D99A38B860B94BA812D4543882DCACA"
-				"size" "3EA8D97E7BD5AAC78838D95BAFBFEB91"
-				"download" "6D0D14A2969F80BC808C4A6BACD91394"
+				"gid" "E9B4B1AD624B392AFBF4693DAD1357E6"
+				"size" "11EA08A6A3CDD4FC2A5A92FF911692D8"
+				"download" "FF4A221A5B1F2FC30895CFD5AD3D613C"
 			}
 			"publishers"
 			{
-				"gid" "C9600820F0ABC16EEB328C8234D5B6D5"
-				"size" "2F6C928B3EC940EB100229BAEFBE858D"
-				"download" "665842AC686DDE67F7424E02F93066A9"
+				"gid" "2251A5AF5820512EB88BBB3B1484D936"
+				"size" "B44D4A48A9C6461AA8E3844A70D5ACF0"
+				"download" "F2A83CD05FBC6F7091FA8D1D06BC90C9"
 			}
 			"testversionbfpublish"
 			{
@@ -296,7 +300,7 @@
 		{
 			"public"
 			{
-				"gid" "531444472774309772"
+				"gid" "8926601487917109841"
 				"size" "1139648"
 				"download" "1151984"
 			}
@@ -309,9 +313,15 @@
 				"size" "D800D61630E73CCD995D4A04E31D96E2"
 				"download" "DA9A97C254A281B4566481E243F99B6B"
 			}
+			"forkol"
+			{
+				"gid" "92C5F188C5CAB6909EAF6FE7677C188D"
+				"size" "8157796099E61AC4171CBE360CE28790"
+				"download" "247B3D0757D80AAE78356EAA26235644"
+			}
 			"happychinesenewyear2024"
 			{
-				"gid" "A45776256FCA7397DB11214CD86178E1"
+				"gid" "2A0A91FBC3DACE2F76AFA516CAE539EB"
 				"size" "2EE3DAC526DDE5479791893C893113F8"
 				"download" "4040A32E25C473372F90E1CAB66ED2A7"
 			}
@@ -333,26 +343,32 @@
 	{
 		"public"
 		{
-			"buildid" "13360613"
-			"timeupdated" "1707113194"
+			"buildid" "13740271"
+			"timeupdated" "1710427519"
 		}
 		"dev4qa"
 		{
-			"buildid" "13379512"
+			"buildid" "13619744"
 			"pwdrequired" "1"
-			"timeupdated" "1707214566"
+			"timeupdated" "1709346496"
+		}
+		"forkol"
+		{
+			"buildid" "13725985"
+			"pwdrequired" "1"
+			"timeupdated" "1710330403"
 		}
 		"happychinesenewyear2024"
 		{
-			"buildid" "13379512"
+			"buildid" "13740271"
 			"pwdrequired" "1"
-			"timeupdated" "1707275679"
+			"timeupdated" "1710426856"
 		}
 		"publishers"
 		{
-			"buildid" "12988307"
+			"buildid" "13701554"
 			"pwdrequired" "1"
-			"timeupdated" "1702893946"
+			"timeupdated" "1710232181"
 		}
 		"testversionbfpublish"
 		{
@@ -396,6 +412,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22281469"
-"_sha" "4641a57d2c081adaca52df782a1df1c494852b85"
-"_size" "7593"
+"_change_number" "22764135"
+"_sha" "6eea83fb9d93607fb99a70c2bf167df8ed47bb02"
+"_size" "7955"
