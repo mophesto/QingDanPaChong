@@ -142,6 +142,7 @@
 		"category_23" "1"
 		"category_22" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -213,8 +214,8 @@
 		"3" "1670"
 		"4" "3987"
 		"5" "1741"
-		"6" "1678"
-		"7" "1708"
+		"6" "1708"
+		"7" "1678"
 		"8" "12472"
 		"9" "4695"
 		"10" "3810"
@@ -261,15 +262,15 @@
 		{
 			"public"
 			{
-				"gid" "4217487581038037842"
-				"size" "5935496481"
-				"download" "4419553392"
+				"gid" "496664386075051545"
+				"size" "6332114252"
+				"download" "4713424944"
 			}
 			"experimental"
 			{
-				"gid" "8250938837638171787"
-				"size" "5819640839"
-				"download" "4352747728"
+				"gid" "6782382598146009432"
+				"size" "6227340454"
+				"download" "4648490816"
 			}
 			"experimental_legacy"
 			{
@@ -283,38 +284,38 @@
 				"size" "5342597398"
 				"download" "4074938240"
 			}
+			"legacy_milestone1"
+			{
+				"gid" "7097994974273295580"
+				"size" "5199574632"
+				"download" "3983016208"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "8E6765FC3A8B2044A189247FF1529706"
-				"size" "CF52AB75AC9C88D7EBCD1A727D56300F"
-				"download" "594BB19249A63057FC87023653AEB4BC"
+				"gid" "77BD0DAA7A794D4CBEF83B47DA0B10C2"
+				"size" "CB7DE7D000876AF940308116C014DEF3"
+				"download" "276DCB6818CCC2F41AA426B1287E8306"
 			}
 			"internal-gj"
 			{
-				"gid" "71F41C5F017DEDE58D2B19AD76D30CB4"
-				"size" "624AF0ABAAAEF4CBBF2C207C412DB008"
-				"download" "C12A4ECA3BD71966FBC62E63CBA6859F"
+				"gid" "6EDBF8310768678197251F182A29B590"
+				"size" "275AE0E51D13A6F2BBBB257AA3711E9D"
+				"download" "1D9836959DC5723DB58EFD248A0E7314"
 			}
 			"internal-jy"
 			{
-				"gid" "C0AE3E8879783CDC92EE4A86304F42A8"
-				"size" "82B1A932B1BAA915C11CF22D80AA7223"
-				"download" "A2C6EE0283352F4BB345E2068F534310"
+				"gid" "4C55D8107E8077D70E17C910890CDE04"
+				"size" "8370E89F9C46E1190F3B63DFD9335D88"
+				"download" "6446A6F18B8FE7A9AB49C139416A6E51"
 			}
 			"internal2"
 			{
 				"gid" "FC4B763CDEAFA989C3825BB4DD0C2D41"
 				"size" "7DA203C77BAA6462CE5D518358806558"
 				"download" "DAF56BDCFE687930F5D7139862ECDF44"
-			}
-			"legacy2"
-			{
-				"gid" "64E7B87865D41EDC37F33AC9AA3E169A"
-				"size" "BA41C1529053EAEC30083CD545EEDA86"
-				"download" "0E74BC85DEFDA24809960E5C04162A59"
 			}
 			"press"
 			{
@@ -328,14 +329,14 @@
 	{
 		"public"
 		{
-			"buildid" "13512747"
-			"timeupdated" "1708512591"
+			"buildid" "13686940"
+			"timeupdated" "1710374846"
 		}
 		"experimental"
 		{
-			"buildid" "13513449"
+			"buildid" "13686375"
 			"description" "Experimental / unstable builds"
-			"timeupdated" "1708512674"
+			"timeupdated" "1709944604"
 		}
 		"experimental_legacy"
 		{
@@ -345,21 +346,21 @@
 		}
 		"internal"
 		{
-			"buildid" "13512747"
+			"buildid" "13686940"
 			"pwdrequired" "1"
-			"timeupdated" "1708507811"
+			"timeupdated" "1710363999"
 		}
 		"internal-gj"
 		{
-			"buildid" "13453418"
+			"buildid" "13689897"
 			"pwdrequired" "1"
-			"timeupdated" "1707909392"
+			"timeupdated" "1709985907"
 		}
 		"internal-jy"
 		{
-			"buildid" "13404439"
+			"buildid" "13590270"
 			"pwdrequired" "1"
-			"timeupdated" "1707401860"
+			"timeupdated" "1709136667"
 		}
 		"internal2"
 		{
@@ -373,11 +374,11 @@
 			"description" "Contains the last Stable build"
 			"timeupdated" "1708333413"
 		}
-		"legacy2"
+		"legacy_milestone1"
 		{
-			"buildid" "13097043"
-			"pwdrequired" "1"
-			"timeupdated" "1708333426"
+			"buildid" "12143950"
+			"description" "Contains the old Milestone 1 Stable build"
+			"timeupdated" "1708550819"
 		}
 		"press"
 		{
@@ -407,6 +408,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22438527"
-"_sha" "8002137827a8ae2d2820016f36fdf47783f0bc86"
-"_size" "7899"
+"_change_number" "22753184"
+"_sha" "5fb370230557ae43438224b1a81d4ea4589f5333"
+"_size" "7923"
