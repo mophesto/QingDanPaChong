@@ -268,15 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "5390201092186914415"
-				"size" "78722865900"
-				"download" "76280851488"
-			}
-			"arc750_beta"
-			{
-				"gid" "5390201092186914415"
-				"size" "78722865900"
-				"download" "76280851488"
+				"gid" "3035294038326937669"
+				"size" "78722885505"
+				"download" "76280085552"
 			}
 		}
 		"encryptedmanifests"
@@ -295,21 +289,21 @@
 			}
 			"internal"
 			{
-				"gid" "97803F96AF3FB9AAE245DF4DF978BF77"
-				"size" "B02A0F072BDDBAF6005D4EB42733C335"
-				"download" "9ACA7194BAEAE3FE2B1DE253CDFBBAE0"
+				"gid" "06C81FA6C6E3517AEF2FCC7DF7559A01"
+				"size" "AF0B8A0E9FB04E6C0F9AAB248A43962C"
+				"download" "F7FED0051A6530BB81EDBD77770A63E0"
 			}
 			"playtest"
 			{
-				"gid" "8B0ED9390604FC738FDFD1267C6A793F"
-				"size" "87CE21BA89A3004CC90C5620D164A80F"
-				"download" "DCCADF2BD068906A0672CA023DADA819"
+				"gid" "2656A4ACBC00AECCABDD2A5DBDA01B54"
+				"size" "A5556ACB73E854B80ADE14E3E7BE3C1B"
+				"download" "B5757BB3EC1510E27C9563167F501BE7"
 			}
 			"playtest_dev"
 			{
-				"gid" "C02A985206BF49B541B382AF6ECDE19C"
-				"size" "14D450945C7EA9D3B41139D76D03E561"
-				"download" "BE00CF71A4B011210090F96FFD58450D"
+				"gid" "8B508C3556B47C08C8A4C1661A9F0B0B"
+				"size" "4155DFC269A2D1F0ACFF468408CFC635"
+				"download" "166367EEF677739BBFCAFD3C63EF7F98"
 			}
 			"pr_dlc"
 			{
@@ -319,9 +313,9 @@
 			}
 			"staging_release"
 			{
-				"gid" "660453EE27AC286CC9F89835DAE65FBB"
-				"size" "EF203542AE7B856041AA2A1A70B94FB7"
-				"download" "A9774498205EB78F8B38191F3DD58961"
+				"gid" "0B2A5489C9DF594344DACF17076A3946"
+				"size" "99FEB2FF094898C848E767A5FC0B0484"
+				"download" "C800F1B60B17542068ED46913F969743"
 			}
 			"testgate"
 			{
@@ -331,9 +325,9 @@
 			}
 			"testgate_playthrough"
 			{
-				"gid" "C159919AD4DB02A96F8BB891D578DC12"
-				"size" "221F14EB4B08A21A450EF434B8805153"
-				"download" "5E74585B516D3A9872874759B50E3AB3"
+				"gid" "9FC1A4B654E40F6C3FDC31D998FF0DBE"
+				"size" "8DB7212C87C04BF82070B1C7E699A62A"
+				"download" "5BDA506081CB26FB4995FA1CB406300C"
 			}
 			"testgate_ps5"
 			{
@@ -343,9 +337,9 @@
 			}
 			"testgate_testbuild"
 			{
-				"gid" "F88513D2135AEFB87FA84504F9ACF962"
-				"size" "BA414F082367BD237EA0A7CFF1B518AB"
-				"download" "BB444422FC09BD13DFDE71CF239BA0FB"
+				"gid" "CD799D33BB64D8F0403F890AC9EE566A"
+				"size" "85FA8440D885DCBA866953B4590708EE"
+				"download" "203FE104CDE4AC25B00748BF2EF05B22"
 			}
 			"testgate_xbox"
 			{
@@ -359,14 +353,8 @@
 	{
 		"public"
 		{
-			"buildid" "13627330"
-			"timeupdated" "1709669180"
-		}
-		"arc750_beta"
-		{
-			"buildid" "13627330"
-			"description" "Beta Test Branch ARC750 video cards only"
-			"timeupdated" "1709669119"
+			"buildid" "13716580"
+			"timeupdated" "1710432750"
 		}
 		"compatibility"
 		{
@@ -382,21 +370,21 @@
 		}
 		"internal"
 		{
-			"buildid" "13645440"
+			"buildid" "13738248"
 			"pwdrequired" "1"
-			"timeupdated" "1709642742"
+			"timeupdated" "1710414744"
 		}
 		"playtest"
 		{
-			"buildid" "13627330"
+			"buildid" "13716580"
 			"pwdrequired" "1"
-			"timeupdated" "1709495972"
+			"timeupdated" "1710260057"
 		}
 		"playtest_dev"
 		{
-			"buildid" "13627270"
+			"buildid" "13713562"
 			"pwdrequired" "1"
-			"timeupdated" "1709495098"
+			"timeupdated" "1710244408"
 		}
 		"pr_dlc"
 		{
@@ -406,9 +394,9 @@
 		}
 		"staging_release"
 		{
-			"buildid" "13627330"
+			"buildid" "13716580"
 			"pwdrequired" "1"
-			"timeupdated" "1709669081"
+			"timeupdated" "1710432274"
 		}
 		"testgate"
 		{
@@ -418,9 +406,9 @@
 		}
 		"testgate_playthrough"
 		{
-			"buildid" "13298370"
+			"buildid" "13739489"
 			"pwdrequired" "1"
-			"timeupdated" "1706531548"
+			"timeupdated" "1710422307"
 		}
 		"testgate_ps5"
 		{
@@ -430,9 +418,9 @@
 		}
 		"testgate_testbuild"
 		{
-			"buildid" "13645869"
+			"buildid" "13739225"
 			"pwdrequired" "1"
-			"timeupdated" "1709645358"
+			"timeupdated" "1710420882"
 		}
 		"testgate_xbox"
 		{
@@ -457,6 +445,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22645473"
-"_sha" "9bce5b6fc862851239fdbbe21cd3a69e7f7a6db6"
-"_size" "8788"
+"_change_number" "22765231"
+"_sha" "f71258613a1e53be8d67654c36cf60e5b3b3e64c"
+"_size" "8519"
