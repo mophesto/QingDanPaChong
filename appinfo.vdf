@@ -198,8 +198,8 @@
 		"5" "1742"
 		"6" "3871"
 		"7" "1677"
-		"8" "4182"
-		"9" "4004"
+		"8" "4004"
+		"9" "4182"
 		"10" "1684"
 		"11" "492"
 		"12" "3854"
@@ -212,7 +212,7 @@
 		"19" "5153"
 	}
 	"review_score" "8"
-	"review_percentage" "89"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -261,9 +261,9 @@
 		{
 			"public"
 			{
-				"gid" "3743279557482666453"
-				"size" "3925471393"
-				"download" "3201124992"
+				"gid" "4990902563101994291"
+				"size" "3925425433"
+				"download" "3201144336"
 			}
 		}
 		"encryptedmanifests"
@@ -276,9 +276,9 @@
 			}
 			"debug"
 			{
-				"gid" "A6D7E4F9066161AF5741897B5CD8462C"
-				"size" "4E1B979D3EF17DE1ECD4A679D10A39E8"
-				"download" "3A79356BE60BBF4F390D3CE2CC38959C"
+				"gid" "0861F6FE005FE8E4C1812E137A74AED8"
+				"size" "0754A84F816CABBA9D3B53E5F99346C5"
+				"download" "6FE7268666C2E7A46167E51E26612A02"
 			}
 			"indieland"
 			{
@@ -288,21 +288,21 @@
 			}
 			"localization"
 			{
-				"gid" "69D3056D74E7B102964E0B2F77D69B05"
-				"size" "BAAF1F1D558FACFBF66CCCC5EA9DC4CD"
-				"download" "F513E01DBB37132BD058872EE1460CA6"
+				"gid" "585BC2B1622F31017B7CFE943FA8BDC1"
+				"size" "88DA853EBA92C6BB5D25A5F8DE7C82E7"
+				"download" "E34ED9A09BD178417831ADB41D5C4955"
 			}
 			"nightly_debug"
 			{
-				"gid" "982781867678A907B6D73B2D1B87DED2"
-				"size" "D1FF392546B14C380C69BC3AC6651E7C"
-				"download" "3F126E6E9F47B716834FCA3A6BAFB909"
+				"gid" "78E8293C3AB5711BA22ABD036984ECF2"
+				"size" "AAF9224C27B17787D3DC77E887D085B4"
+				"download" "DD122A1E94B9A75E982F74A5A7375286"
 			}
 			"nightly_release"
 			{
-				"gid" "834A0B6678515903600F5D28AE038715"
-				"size" "7699277E427E6DD06D207B5AC2DB21F7"
-				"download" "07E4A0C7A47288C51072AC521B558FF6"
+				"gid" "875357E51CA90C828C0EA77498F0C6B4"
+				"size" "829E56B82B9D0AC7B49590E91D746227"
+				"download" "603119F3858E0A6430BE75C70B25FAEB"
 			}
 			"qa_cutscene"
 			{
@@ -318,9 +318,9 @@
 			}
 			"staging"
 			{
-				"gid" "5AE90B88792B05EA71464B379E8B1C0E"
-				"size" "0D3B1930B118F1DBA35962354ED78985"
-				"download" "358A12F042FB145D819D810F161A04AF"
+				"gid" "94D85EF361547A2C9D225A8F30EDB206"
+				"size" "71262D246F2F8AA1D0646C122583D0F4"
+				"download" "9082FB997E90C834517F2252E63B5D78"
 			}
 			"test"
 			{
@@ -330,9 +330,9 @@
 			}
 			"weekly_master"
 			{
-				"gid" "7AF04F175D83684F54CCF166FA440B55"
-				"size" "6080804872E85E5F8F416C9DA50C15AE"
-				"download" "7E4D518A2B17A8C04AD2FC880EFC5D76"
+				"gid" "AF4A11612CF1A8832B3E5F7088A5BA64"
+				"size" "0797197E00561F0EE03F2FA084AAE07F"
+				"download" "39A7864A7DB604AD53FE95F37DFAFDA4"
 			}
 		}
 	}
@@ -368,8 +368,8 @@
 	{
 		"public"
 		{
-			"buildid" "12992129"
-			"timeupdated" "1702923523"
+			"buildid" "13731452"
+			"timeupdated" "1710363196"
 		}
 		"beta_test"
 		{
@@ -379,9 +379,9 @@
 		}
 		"debug"
 		{
-			"buildid" "13327422"
+			"buildid" "13685825"
 			"pwdrequired" "1"
-			"timeupdated" "1706724820"
+			"timeupdated" "1709933072"
 		}
 		"indieland"
 		{
@@ -391,21 +391,21 @@
 		}
 		"localization"
 		{
-			"buildid" "13213111"
+			"buildid" "13718849"
 			"pwdrequired" "1"
-			"timeupdated" "1705621550"
+			"timeupdated" "1710275541"
 		}
 		"nightly_debug"
 		{
-			"buildid" "13449885"
+			"buildid" "13721105"
 			"pwdrequired" "1"
-			"timeupdated" "1707877847"
+			"timeupdated" "1710293460"
 		}
 		"nightly_release"
 		{
-			"buildid" "13433608"
+			"buildid" "13729374"
 			"pwdrequired" "1"
-			"timeupdated" "1707746541"
+			"timeupdated" "1710349825"
 		}
 		"qa_cutscene"
 		{
@@ -421,9 +421,9 @@
 		}
 		"staging"
 		{
-			"buildid" "12992434"
+			"buildid" "13718945"
 			"pwdrequired" "1"
-			"timeupdated" "1702926161"
+			"timeupdated" "1710276320"
 		}
 		"test"
 		{
@@ -433,9 +433,9 @@
 		}
 		"weekly_master"
 		{
-			"buildid" "13449909"
+			"buildid" "13721190"
 			"pwdrequired" "1"
-			"timeupdated" "1707878019"
+			"timeupdated" "1710294138"
 		}
 	}
 }
@@ -471,6 +471,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22337700"
-"_sha" "0eafac503e6ea52d3440fd874622c21c74052d12"
+"_change_number" "22751321"
+"_sha" "2ce0ece313cd9a1772614ec7ba4eac9bfde6a493"
 "_size" "9226"
