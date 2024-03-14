@@ -306,9 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "7004740399795538389"
-				"size" "11706022397"
-				"download" "7133641984"
+				"gid" "561239733851177535"
+				"size" "12673568414"
+				"download" "7660338704"
 			}
 		}
 		"encryptedmanifests"
@@ -333,9 +333,9 @@
 			}
 			"doubledash"
 			{
-				"gid" "63FCCF29D47450FBC62B537BE75B9901"
-				"size" "3359CBF2ECAB2958BD799AF3A16AD7BB"
-				"download" "D07C91A415B23B1AAD32F7D085E554B0"
+				"gid" "EB42DA7E06B7D878942A01C7643474F0"
+				"size" "342208985467D1ADABF221E837CB407D"
+				"download" "5F55F824B7837A6062F5E5F5CB14D112"
 			}
 			"east"
 			{
@@ -351,15 +351,15 @@
 			}
 			"gbx_qa"
 			{
-				"gid" "93C2090C641E05C8D39DCBC5016FA64F"
-				"size" "53F0237E1B6F59D36AB804E6BBD428B9"
-				"download" "21968AF28CCC2077D48BAB1856B068A1"
+				"gid" "0F2ACBFAE560171525E25E77A7F93DC3"
+				"size" "318B328A47BD9363BB4E6B2A84483E41"
+				"download" "326EF740A73D9510220758F59CEAA69F"
 			}
 			"gbx_qa_cheats"
 			{
-				"gid" "F01C093E383C2A318BBE64138C492C10"
-				"size" "D77D6D0CC551E3139C149F84D80723B3"
-				"download" "0024EF635B232A20084FE9411C7FC9CD"
+				"gid" "715FA77D897D6712B305118A34A14170"
+				"size" "29CDEBA80EC990C200A1EFF515BCD2B9"
+				"download" "5E5F3A0892A18591375F72A8419B60DF"
 			}
 			"internal"
 			{
@@ -397,11 +397,17 @@
 				"size" "86C89E6CEB9D3D391F4E30D2DAD20779"
 				"download" "0952D00BB75D84EA7A5F79AC6A5F46E2"
 			}
+			"ms26"
+			{
+				"gid" "FDB0D43E27DB78BA6AFDEF5E2D7852A5"
+				"size" "B1949A19B33F96400C0F2DE069CDA7A3"
+				"download" "82D8825F07891DDEE151FC1A4C313329"
+			}
 			"playtest"
 			{
-				"gid" "B3AD6D7E33583EA4C98683B6FC39AF99"
-				"size" "F491EDF94B9C18D2E69F5B7BCB2E79B6"
-				"download" "5C65E9050554D37AA26419E36F0BB17F"
+				"gid" "A28F63954CFA0E071BA2E39D2009B7D2"
+				"size" "C6654BACC4CE3FE7B6D54CB67D24B10B"
+				"download" "6BFF1F0A739E3A473EDE2E8D32D9D4CD"
 			}
 			"press"
 			{
@@ -415,17 +421,17 @@
 				"size" "58C41B6AF46D5FFA4907A509CD23D6DE"
 				"download" "1B04F63262CB4906B8F875537B347AE8"
 			}
+			"public-test-server"
+			{
+				"gid" "26D7D3714E4C8E5416772282468160D8"
+				"size" "3A9C10DF8BE0409AF9A1B20AC76BFCD3"
+				"download" "3A9C10DF8BE0409AF9A1B20AC76BFCD3"
+			}
 			"rc089"
 			{
 				"gid" "23248863D8670A8BE2C1AC3B936F6386"
 				"size" "3A624BC7A1EBEC0557B407FB52625777"
 				"download" "5306E625B853BB97AEAA8637DBF904C8"
-			}
-			"supernimbus"
-			{
-				"gid" "F1A24D839802EEFDCF332D157C029FCE"
-				"size" "07E4898FBAFE5D6D99FC68445A558C97"
-				"download" "3CD0C3C08A8C7EB73619C4BAA8079BF6"
 			}
 			"telemetry"
 			{
@@ -542,6 +548,12 @@
 				"size" "C09EF2D586869C8C13643681526F1618"
 				"download" "CECD671FBC00911B4F818BC47C2F5AD6"
 			}
+			"ms26"
+			{
+				"gid" "FDFCE908339296658104FDA676ECE159"
+				"size" "6D395247DA247908B586DF5C02931C10"
+				"download" "45D38AF466460AB3E886337A6A0DE848"
+			}
 			"playtest"
 			{
 				"gid" "3F49C8AF1692674C779838BF252973B7"
@@ -560,17 +572,17 @@
 				"size" "DCB78B3730E3D0D218E9386410B099AF"
 				"download" "6D521ECED92FB9B0854461F91961CB36"
 			}
+			"public-test-server"
+			{
+				"gid" "4E32FAF9AD780404A44B22E35C8E5E42"
+				"size" "9B636887D91D3796B61600E463E28272"
+				"download" "CB6410A3D8F39E467D86FE3B0C713FC9"
+			}
 			"rc089"
 			{
 				"gid" "97919B1783F6666E4B19C9E5F4934D98"
 				"size" "4F5983A09D3D83E724F0894941316856"
 				"download" "8DDB1B9503B2EA9639A3E025719AD266"
-			}
-			"supernimbus"
-			{
-				"gid" "85A5BD760992BC318F1FDD2E70DDE073"
-				"size" "26A318CDD59702D7D2A843259491CE22"
-				"download" "7238EA06773C75798C94EFF999DEF15B"
 			}
 			"telemetry"
 			{
@@ -652,11 +664,23 @@
 				"size" "7BA4F874D16B23766CB8C92D84CE57D6"
 				"download" "2C28C56EB4F13B8A62C33D57F9CDA5D4"
 			}
+			"ms26"
+			{
+				"gid" "6ED29F2DF0CF0D229EA3665ACE454B3C"
+				"size" "7E5D29DBB06E2BC6588D090AF2DD084A"
+				"download" "E211CD8A1D2A379F5AB8685098EEEC64"
+			}
 			"playtest"
 			{
 				"gid" "6EBD1E33762E829CB7EE5B9004CF0A6C"
 				"size" "BF7F0004746E52DE2C4CEF42AA0507F4"
 				"download" "53E47EE737F8343E67D5DC4B934B3190"
+			}
+			"public-test-server"
+			{
+				"gid" "11C76D330EE80617621DE3F7F71A3F30"
+				"size" "507F10B565F4EA359F038F36C99768AD"
+				"download" "9899540FE88E303D7C0AEF4B5171903C"
 			}
 			"rc089"
 			{
@@ -682,8 +706,8 @@
 	{
 		"public"
 		{
-			"buildid" "13188369"
-			"timeupdated" "1705439148"
+			"buildid" "13738702"
+			"timeupdated" "1710421687"
 		}
 		"artemis"
 		{
@@ -705,9 +729,9 @@
 		}
 		"doubledash"
 		{
-			"buildid" "13374267"
+			"buildid" "13469516"
 			"pwdrequired" "1"
-			"timeupdated" "1707170698"
+			"timeupdated" "1708033299"
 		}
 		"east"
 		{
@@ -723,15 +747,15 @@
 		}
 		"gbx_qa"
 		{
-			"buildid" "13409810"
+			"buildid" "13738702"
 			"pwdrequired" "1"
-			"timeupdated" "1707439738"
+			"timeupdated" "1710417811"
 		}
 		"gbx_qa_cheats"
 		{
-			"buildid" "13409807"
+			"buildid" "13633467"
 			"pwdrequired" "1"
-			"timeupdated" "1707439727"
+			"timeupdated" "1709562503"
 		}
 		"internal"
 		{
@@ -769,11 +793,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1699997183"
 		}
+		"ms26"
+		{
+			"buildid" "13470768"
+			"pwdrequired" "1"
+			"timeupdated" "1708043429"
+		}
 		"playtest"
 		{
-			"buildid" "13397895"
+			"buildid" "13738588"
 			"pwdrequired" "1"
-			"timeupdated" "1707347990"
+			"timeupdated" "1710417147"
 		}
 		"press"
 		{
@@ -787,17 +817,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1694015749"
 		}
+		"public-test-server"
+		{
+			"buildid" "13565521"
+			"pwdrequired" "1"
+			"timeupdated" "1708960614"
+		}
 		"rc089"
 		{
 			"buildid" "13023872"
 			"pwdrequired" "1"
 			"timeupdated" "1703191376"
-		}
-		"supernimbus"
-		{
-			"buildid" "11968469"
-			"pwdrequired" "1"
-			"timeupdated" "1692301149"
 		}
 		"telemetry"
 		{
@@ -912,6 +942,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22270161"
-"_sha" "92714a7a32b9bada7b7532a4066f0e3673414ef1"
-"_size" "20911"
+"_change_number" "22761799"
+"_sha" "4dbcf3c98b485fff9ce20a3d7f0555b42cf7c711"
+"_size" "21726"
