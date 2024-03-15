@@ -245,8 +245,8 @@
 		}
 		"public"
 		{
-			"buildid" "13747753"
-			"timeupdated" "1710475871"
+			"buildid" "13752762"
+			"timeupdated" "1710509297"
 		}
 		"demo"
 		{
@@ -262,15 +262,15 @@
 		}
 		"development-test"
 		{
-			"buildid" "13749269"
+			"buildid" "13752577"
 			"pwdrequired" "1"
-			"timeupdated" "1710488204"
+			"timeupdated" "1710508281"
 		}
 		"pre_release"
 		{
-			"buildid" "13749273"
+			"buildid" "13752762"
 			"pwdrequired" "1"
-			"timeupdated" "1710488232"
+			"timeupdated" "1710509231"
 		}
 		"test"
 		{
@@ -289,9 +289,9 @@
 		{
 			"public"
 			{
-				"gid" "8294424493314387192"
-				"size" "6834077354"
-				"download" "1424059856"
+				"gid" "3453719622528491572"
+				"size" "6834047735"
+				"download" "1424144784"
 			}
 			"visualeditor_test"
 			{
@@ -316,15 +316,15 @@
 			}
 			"development-test"
 			{
-				"gid" "5AF831FD2A495B8D20A4FFEFD5719B25"
-				"size" "F747F240DABC1DC2BE80DF4D79007258"
-				"download" "6E69A31B224BA6130EB69E7B23D89EB0"
+				"gid" "D85C69DCBE193BC3C8F63CCFDCA37625"
+				"size" "9506FDAAE19C1819955AE3DB21273DF7"
+				"download" "64F4C67E4CF221D0161844A0F8288829"
 			}
 			"pre_release"
 			{
-				"gid" "C9012CE042F2E4A17B3F8C1BEE821AEF"
-				"size" "BDF4CC3D7607734EFE69A60A0693CC03"
-				"download" "6F8212F5FA59BF732ACDC1538F18391B"
+				"gid" "8D17E9D7A8D7CA437A96F748CA69F951"
+				"size" "E50C0A5086FFBB4116631A6F331EC0EE"
+				"download" "556C110C86B9D9ABDAC29C16B3F48101"
 			}
 			"test"
 			{
@@ -344,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "5849943480562185832"
-				"size" "6853383582"
-				"download" "1431056272"
+				"gid" "872513114291858929"
+				"size" "6853422307"
+				"download" "1431101056"
 			}
 			"visualeditor_test"
 			{
@@ -365,9 +365,9 @@
 			}
 			"pre_release"
 			{
-				"gid" "58E119C55ED46C39373E19E76D6A1009"
-				"size" "D0F36BACA290D928625CAD5D08304A59"
-				"download" "9171C8FDBFED52B14B095BEE729F7F02"
+				"gid" "E4062271DE9829E7A2E2692D45CD0CA1"
+				"size" "D97C969FCDA6FA0468FD9E0ADE671344"
+				"download" "121CD4F0C96C8B8F3AC383E5EEAF4D1B"
 			}
 			"test"
 			{
@@ -409,6 +409,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22776441"
-"_sha" "519903935c6f352a0518e7fc5cd66a07033e6573"
-"_size" "8119"
+"_change_number" "22781036"
+"_sha" "740e5625e37531c7c63733db181c910fac54d2aa"
+"_size" "8118"
