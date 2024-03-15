@@ -30,34 +30,32 @@
 			"height_pct" "85.71428405788228"
 		}
 	}
-	"store_asset_mtime" "1698540400"
+	"store_asset_mtime" "1699306814"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Joure &amp; Joe"
+			"name" "Digital Cybercherries"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "Joure & Joe"
-		}
-		"2"
-		{
-			"type" "franchise"
-			"name" "Joure &amp; Joe"
+			"name" "Digital Cybercherries"
 		}
 	}
 	"primary_genre" "23"
 	"genres"
 	{
-		"0" "23"
-		"1" "70"
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
 	}
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -77,34 +75,34 @@
 	"gameid" "2497900"
 	"store_tags"
 	{
-		"0" "1667"
-		"1" "1721"
-		"2" "42089"
+		"0" "42089"
+		"1" "1667"
+		"2" "1721"
 		"3" "27758"
 		"4" "10808"
-		"5" "4175"
-		"6" "5716"
-		"7" "6691"
-		"8" "3839"
-		"9" "4234"
-		"10" "4182"
-		"11" "3834"
-		"12" "1710"
-		"13" "1742"
-		"14" "3934"
-		"15" "492"
-		"16" "599"
-		"17" "597"
+		"5" "599"
+		"6" "4175"
+		"7" "3839"
+		"8" "6691"
+		"9" "5716"
+		"10" "4234"
+		"11" "597"
+		"12" "4182"
+		"13" "3834"
+		"14" "1710"
+		"15" "1742"
+		"16" "3934"
+		"17" "492"
 		"18" "4166"
-		"19" "4342"
+		"19" "5900"
 	}
 	"review_score" "5"
 	"review_percentage" "64"
 }
 "extended"
 {
-	"developer" "Joure &amp; Joe"
-	"publisher" "Joure & Joe"
+	"developer" "Digital Cybercherries"
+	"publisher" "Digital Cybercherries"
 	"homepage" "https://justdontscream.com/"
 }
 "config"
@@ -147,18 +145,18 @@
 		{
 			"public"
 			{
-				"gid" "780708880854845964"
-				"size" "7247425597"
-				"download" "4015892640"
+				"gid" "3438872341667973254"
+				"size" "12683850472"
+				"download" "7511662416"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "F12812B0FD3055163FE646CAA9223BE2"
-				"size" "C4919D4ACCCFE025068788A461F6DB58"
-				"download" "1C2744A97029916BB7B4B09BA137D545"
+				"gid" "E373428264D2AA84362C336B30A7E422"
+				"size" "D65976D6947701A3ADCA457780AE4D39"
+				"download" "28D5D7EB54D6DCA5174A2A0D390E64FC"
 			}
 		}
 	}
@@ -175,18 +173,18 @@
 	{
 		"public"
 		{
-			"buildid" "13023908"
-			"timeupdated" "1703192457"
+			"buildid" "13743541"
+			"timeupdated" "1710445196"
 		}
 		"development"
 		{
-			"buildid" "13148813"
+			"buildid" "13743541"
 			"pwdrequired" "1"
-			"timeupdated" "1704993408"
+			"timeupdated" "1710445012"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22019032"
-"_sha" "a327baf97698f7c02ba36a0f03345054951c77c3"
-"_size" "3009"
+"_change_number" "22769360"
+"_sha" "cce7ffdd6772c5cd55c09212c3bb12ebfe8e5b06"
+"_size" "3019"
