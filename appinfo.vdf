@@ -365,9 +365,9 @@
 			}
 			"shiro-test"
 			{
-				"gid" "612AA7CB6FCAD0DB76907F76CB718811"
-				"size" "C123FD3D10104248750B720BF6A61352"
-				"download" "94914C47B41569748567B281CA787587"
+				"gid" "92492E1C82D8D396349B60A10F20451C"
+				"size" "DD11F7084F736860910B512A7D7F7655"
+				"download" "94BA6E0CC4AC7BDB02E0A49CE40A3C09"
 			}
 		}
 	}
@@ -421,9 +421,9 @@
 		{
 			"public"
 			{
-				"gid" "5732931044705573059"
-				"size" "18873503"
-				"download" "4922720"
+				"gid" "2913402166785933335"
+				"size" "19424092"
+				"download" "5147776"
 			}
 		}
 		"encryptedmanifests"
@@ -448,9 +448,9 @@
 			}
 			"shiro-test"
 			{
-				"gid" "F7B987F52841303391EBA095E0D1ADE2"
-				"size" "34FA4F8995628FC5B2499401D06DE52D"
-				"download" "9612B631EB0EE7F2A34514D95763D56E"
+				"gid" "05DF6784623F686E763529EC5AB3C6B1"
+				"size" "4C9570DD23B17024A75947FF8C1403FF"
+				"download" "BF55FD92E2C1E1FF33D25C554527144F"
 			}
 		}
 	}
@@ -587,8 +587,8 @@
 	{
 		"public"
 		{
-			"buildid" "13739860"
-			"timeupdated" "1710431205"
+			"buildid" "13753053"
+			"timeupdated" "1710510895"
 		}
 		"closed-beta"
 		{
@@ -610,9 +610,9 @@
 		}
 		"shiro-test"
 		{
-			"buildid" "13739860"
+			"buildid" "13753623"
 			"pwdrequired" "1"
-			"timeupdated" "1710424381"
+			"timeupdated" "1710513783"
 		}
 	}
 }
@@ -643,6 +643,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22764619"
-"_sha" "b23a207783e1502cde487b35de29ab848b1c49de"
+"_change_number" "22782247"
+"_sha" "c86e11595664190e0bd953f32828e82aa60f4cf6"
 "_size" "12672"
