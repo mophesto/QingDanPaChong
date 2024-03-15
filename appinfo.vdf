@@ -32,6 +32,50 @@
 			"version" "1"
 		}
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1708473600"
+		"tested_build_id" "13429405"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -57,7 +101,7 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1706663423"
+	"store_asset_mtime" "1710158712"
 	"associations"
 	{
 		"0"
@@ -82,6 +126,9 @@
 	{
 		"category_2" "1"
 		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -89,6 +136,11 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
 			"subtitles" "true"
 		}
 	}
@@ -109,15 +161,15 @@
 		"8" "5716"
 		"9" "6129"
 		"10" "8369"
-		"11" "3854"
-		"12" "3987"
+		"11" "3987"
+		"12" "3854"
 		"13" "122"
 		"14" "4182"
 		"15" "31275"
 		"16" "3839"
 		"17" "3916"
-		"18" "4305"
-		"19" "3871"
+		"18" "3871"
+		"19" "4305"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -162,20 +214,20 @@
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "13429408"
+			"buildid" "13739098"
 			"pwdrequired" "1"
-			"timeupdated" "1707700013"
+			"timeupdated" "1710474866"
 		}
 		"public"
 		{
-			"buildid" "13429405"
-			"timeupdated" "1707699966"
+			"buildid" "13739098"
+			"timeupdated" "1710474805"
 		}
 		"test_branch"
 		{
-			"buildid" "13426534"
+			"buildid" "13739098"
 			"pwdrequired" "1"
-			"timeupdated" "1707647592"
+			"timeupdated" "1710420187"
 		}
 	}
 	"baselanguages" "english,schinese"
@@ -189,24 +241,24 @@
 		{
 			"public"
 			{
-				"gid" "5001004997643853369"
-				"size" "6673705043"
-				"download" "5156130640"
+				"gid" "2990608122813683902"
+				"size" "6763230542"
+				"download" "5239013296"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"steam_china_only"
 			{
-				"gid" "622827E01E827FEA10A6690FECA78817"
-				"size" "3BE65802B2CE19BB0086F8904F242DCF"
-				"download" "42FCE44E3C4F5FADE96BD32D8EC614D4"
+				"gid" "CADEB289DBB3E8FD6DB947EEE8C8A6B7"
+				"size" "DA88D05894F432CCB8B31F5B79C17BE0"
+				"download" "E6AEEA37F7A0BBD70EC47610CDEEF8CD"
 			}
 			"test_branch"
 			{
-				"gid" "8FF8D3A50226F6B792ABFC83A9740727"
-				"size" "758DCEC4C5F89CFE7EE242FC7D971DD8"
-				"download" "B0BD52B24EB61084D458FED6A86B3265"
+				"gid" "CB9625431456CD9C9CB669B73F564935"
+				"size" "F1B4C1DBE783DA7D0A9DF8FFD432400E"
+				"download" "6F60F45091A69EC45B761CADFD404150"
 			}
 		}
 	}
@@ -221,24 +273,24 @@
 		{
 			"public"
 			{
-				"gid" "5205488611751935472"
-				"size" "6653911207"
-				"download" "5179933264"
+				"gid" "1624732747321091377"
+				"size" "6743502660"
+				"download" "5262802880"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"steam_china_only"
 			{
-				"gid" "0594927CA2895740453F3B5744C677D2"
-				"size" "40C16BD3A582C7B46E3F4D0CCBAC5524"
-				"download" "0E600B60C59D066ABF98BAB53BA3BB72"
+				"gid" "042DF4C269F5DC6A4FFFF94B652252C6"
+				"size" "8A83217754EE7B4F06A7C0D961FF86C9"
+				"download" "161EAD5E5E5E416E73D13F9CCBCB049C"
 			}
 			"test_branch"
 			{
-				"gid" "A2275E453AB07D2C7108B86770DEFF98"
-				"size" "57CADFADA595C8292A685639D75011B7"
-				"download" "6B5B158B9C7D069768A70BA5E9FAE142"
+				"gid" "C00B0F43E661C92716D06C77490CFB94"
+				"size" "9BF0722D918A03F56502CF92B043DA59"
+				"download" "EC51F6F7AD307B6BD93A6C105C887308"
 			}
 		}
 	}
@@ -263,6 +315,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22303112"
-"_sha" "2079ce5a2ce0a5fa0c10907a684a46b1f8c7f4ed"
-"_size" "4978"
+"_change_number" "22774461"
+"_sha" "068a82f208ea4d061f9ec2a619eea16af94fbe51"
+"_size" "6215"
