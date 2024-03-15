@@ -218,9 +218,9 @@
 		{
 			"public"
 			{
-				"gid" "6135414835834127295"
-				"size" "12442873098"
-				"download" "5200603552"
+				"gid" "71372638726752623"
+				"size" "12442881978"
+				"download" "5200608928"
 			}
 		}
 		"encryptedmanifests"
@@ -233,9 +233,9 @@
 			}
 			"master"
 			{
-				"gid" "D6BAF6B804CF4F26C8074046B0367B4C"
-				"size" "9375EBB9342D958E8F9F47E08044FBA5"
-				"download" "FCFF75BA2A9DF23C81199E2295197FCA"
+				"gid" "ADAD21774020B8087F2507A304D47E74"
+				"size" "2CBC4C4CB4FFB4725A6B6026669012D9"
+				"download" "6A547ECB9F2B8326C5E56869A9F66774"
 			}
 			"nowy_test_mr"
 			{
@@ -261,8 +261,8 @@
 	{
 		"public"
 		{
-			"buildid" "13669833"
-			"timeupdated" "1709906252"
+			"buildid" "13718698"
+			"timeupdated" "1710454789"
 		}
 		"dostepne_lokacje"
 		{
@@ -272,9 +272,9 @@
 		}
 		"master"
 		{
-			"buildid" "13669833"
+			"buildid" "13718698"
 			"pwdrequired" "1"
-			"timeupdated" "1709818553"
+			"timeupdated" "1710274474"
 		}
 		"nowy_test_mr"
 		{
@@ -297,6 +297,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22687700"
-"_sha" "17cb07ba7afb16cda99c2b6b0e5b19c31311353e"
-"_size" "5198"
+"_change_number" "22771230"
+"_sha" "242b2d31a5d8164b17e87988ea00571fc9b35b30"
+"_size" "5196"
