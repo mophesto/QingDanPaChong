@@ -241,18 +241,18 @@
 		{
 			"public"
 			{
-				"gid" "8667608531915356470"
-				"size" "1592170632"
-				"download" "281553472"
+				"gid" "5871371270750682648"
+				"size" "1592516976"
+				"download" "281617168"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"banbenyanshou"
 			{
-				"gid" "280978BCC29FAFAC13DEF1179E2CC7D2"
-				"size" "F4258C377EE137C3CC7B2B5C25A5CE95"
-				"download" "7465FEE00C59A371D94A5C9F8FD9575E"
+				"gid" "55D2FEA2799CE94E19D5BFF4C13016F5"
+				"size" "E23C38827E83204F4C33BECD14BE9268"
+				"download" "AA8965151F98D3CF015FC446FD1A7AAD"
 			}
 			"bilibiliqatesting"
 			{
@@ -274,9 +274,9 @@
 			}
 			"fullcontenttest"
 			{
-				"gid" "93D56F4E7C9CB9E49CDDA9518244724F"
-				"size" "FA35A43385D94D4062F74AA688291155"
-				"download" "1C1B0F016A2EB64A5BE3CEC54BA365D1"
+				"gid" "5AA0B654E693AA349F13E5930ECF585D"
+				"size" "E5F46FBA0E2D00D649C1B65FDD166115"
+				"download" "54166E3E45927989BC68E14615E53AD2"
 			}
 			"shantuiceshi"
 			{
@@ -319,14 +319,14 @@
 		}
 		"public"
 		{
-			"buildid" "13739030"
-			"timeupdated" "1710422922"
+			"buildid" "13751227"
+			"timeupdated" "1710502515"
 		}
 		"banbenyanshou"
 		{
-			"buildid" "13725570"
+			"buildid" "13217461"
 			"pwdrequired" "1"
-			"timeupdated" "1710328402"
+			"timeupdated" "1710497115"
 		}
 		"bilibiliqatesting"
 		{
@@ -348,9 +348,9 @@
 		}
 		"fullcontenttest"
 		{
-			"buildid" "13739030"
+			"buildid" "13751175"
 			"pwdrequired" "1"
-			"timeupdated" "1710419933"
+			"timeupdated" "1710500054"
 		}
 		"shantuiceshi"
 		{
@@ -391,6 +391,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22762843"
-"_sha" "0703eb010b00703f14ae9a22964a85e256b66c17"
+"_change_number" "22779641"
+"_sha" "e92c7a73ed9dbd7780633dac19d9e5d5d6fcd8d7"
 "_size" "8252"
