@@ -102,7 +102,7 @@
 			"height_pct" "64.2840180479696"
 		}
 	}
-	"store_asset_mtime" "1710429530"
+	"store_asset_mtime" "1710520169"
 	"associations"
 	{
 		"0"
@@ -158,6 +158,11 @@
 			"subtitles" "true"
 		}
 		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -254,9 +259,9 @@
 		{
 			"public"
 			{
-				"gid" "2505685161844016281"
-				"size" "5519782862"
-				"download" "5332833248"
+				"gid" "7187680913479138232"
+				"size" "5519841585"
+				"download" "5332554768"
 			}
 		}
 		"encryptedmanifests"
@@ -275,9 +280,9 @@
 			}
 			"happychinesenewyear2024"
 			{
-				"gid" "E9B4B1AD624B392AFBF4693DAD1357E6"
-				"size" "11EA08A6A3CDD4FC2A5A92FF911692D8"
-				"download" "FF4A221A5B1F2FC30895CFD5AD3D613C"
+				"gid" "473E89D3D4514CC699147AA44305BD5F"
+				"size" "92FFB101704A0A2BEE881FC6B2E6C1C0"
+				"download" "B0556BF13A4E82141721D49DF3A421A3"
 			}
 			"publishers"
 			{
@@ -300,7 +305,7 @@
 		{
 			"public"
 			{
-				"gid" "8926601487917109841"
+				"gid" "531444472774309772"
 				"size" "1139648"
 				"download" "1151984"
 			}
@@ -321,7 +326,7 @@
 			}
 			"happychinesenewyear2024"
 			{
-				"gid" "2A0A91FBC3DACE2F76AFA516CAE539EB"
+				"gid" "A45776256FCA7397DB11214CD86178E1"
 				"size" "2EE3DAC526DDE5479791893C893113F8"
 				"download" "4040A32E25C473372F90E1CAB66ED2A7"
 			}
@@ -343,8 +348,8 @@
 	{
 		"public"
 		{
-			"buildid" "13740271"
-			"timeupdated" "1710427519"
+			"buildid" "13751443"
+			"timeupdated" "1710550254"
 		}
 		"dev4qa"
 		{
@@ -360,9 +365,9 @@
 		}
 		"happychinesenewyear2024"
 		{
-			"buildid" "13740271"
+			"buildid" "13751443"
 			"pwdrequired" "1"
-			"timeupdated" "1710426856"
+			"timeupdated" "1710501756"
 		}
 		"publishers"
 		{
@@ -412,6 +417,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22764135"
-"_sha" "6eea83fb9d93607fb99a70c2bf167df8ed47bb02"
-"_size" "7955"
+"_change_number" "22788970"
+"_sha" "b33269549cfde5089abbd58e485509217bba30e0"
+"_size" "8025"
