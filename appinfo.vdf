@@ -18,6 +18,7 @@
 	{
 		"english" "1"
 		"schinese" "1"
+		"tchinese" "1"
 	}
 	"controllertagwizard" "1"
 	"controller_support" "partial"
@@ -56,8 +57,18 @@
 		}
 		"1"
 		{
+			"type" "developer"
+			"name" "AIKUN"
+		}
+		"2"
+		{
 			"type" "publisher"
-			"name" "IKUN&KUN"
+			"name" "AIKUN"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "AIKUN"
 		}
 	}
 	"primary_genre" "1"
@@ -77,6 +88,10 @@
 		"category_18" "1"
 		"category_44" "1"
 		"category_29" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_1" "1"
+		"category_9" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -127,6 +142,30 @@
 		{
 			"supported" "true"
 		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1707062420"
 	"community_visible_stats" "1"
@@ -134,25 +173,25 @@
 	"gameid" "2781370"
 	"store_tags"
 	{
-		"0" "12095"
+		"0" "9551"
 		"1" "4136"
 		"2" "10397"
 		"3" "5900"
-		"4" "9551"
-		"5" "3834"
+		"4" "12095"
+		"5" "1667"
 		"6" "9130"
-		"7" "9204"
+		"7" "3834"
 		"8" "1664"
-		"9" "3839"
-		"10" "21"
-		"11" "4191"
-		"12" "1710"
-		"13" "1663"
-		"14" "597"
-		"15" "4175"
-		"16" "19"
-		"17" "4166"
-		"18" "1667"
+		"9" "9204"
+		"10" "3839"
+		"11" "21"
+		"12" "4191"
+		"13" "1710"
+		"14" "1663"
+		"15" "597"
+		"16" "4175"
+		"17" "19"
+		"18" "4166"
 		"19" "4182"
 	}
 	"review_score" "8"
@@ -161,7 +200,7 @@
 "extended"
 {
 	"developer" "IKUN&amp;KUN"
-	"publisher" "IKUN&KUN"
+	"publisher" "AIKUN"
 	"homepage" "https://space.bilibili.com/518054215/dynamic"
 	"listofdlc" "2836780,2858720"
 	"dlcavailableonstore" "1"
@@ -262,6 +301,66 @@
 			}
 			"description" "Korean(한국인)"
 		}
+		"9"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-d3d11 -dx11 -culture=de"
+			"description_loc"
+			{
+				"english" "German(Deutsch)"
+			}
+			"description" "German(Deutsch)"
+		}
+		"10"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-d3d11 -dx11 -culture=pl"
+			"description_loc"
+			{
+				"english" "Polish(polski)"
+			}
+			"description" "Polish(polski)"
+		}
+		"11"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-d3d11 -dx11 -culture=cs"
+			"description_loc"
+			{
+				"english" "Czech(čeština)"
+			}
+			"description" "Czech(čeština)"
+		}
+		"12"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-d3d11 -dx11 -culture=hu"
+			"description_loc"
+			{
+				"english" "Hungarian(magyar nyelv)"
+			}
+			"description" "Hungarian(magyar nyelv)"
+		}
+		"13"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-d3d11 -dx11 -culture=tr"
+			"description_loc"
+			{
+				"english" "Turkish(Türkçe)"
+			}
+			"description" "Turkish(Türkçe)"
+		}
+		"14"
+		{
+			"executable" "EXITKUN.exe"
+			"arguments" "-d3d11 -dx11 -culture=fr"
+			"description_loc"
+			{
+				"english" "Italian(Italiano)"
+			}
+			"description" "Italian(Italiano)"
+		}
 	}
 	"steamdecktouchscreen" "1"
 }
@@ -311,9 +410,9 @@
 		{
 			"public"
 			{
-				"gid" "7234157637146986782"
-				"size" "2495517079"
-				"download" "2198688848"
+				"gid" "2428241735962043490"
+				"size" "2524224969"
+				"download" "2227705344"
 			}
 		}
 	}
@@ -321,8 +420,8 @@
 	{
 		"public"
 		{
-			"buildid" "13716194"
-			"timeupdated" "1710258154"
+			"buildid" "13766587"
+			"timeupdated" "1710676233"
 		}
 	}
 }
@@ -341,6 +440,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22731705"
-"_sha" "00f6eb6883cd522c22673786543f5c8cdeaaf1cc"
-"_size" "5781"
+"_change_number" "22799877"
+"_sha" "dcf607f16168bab57ce023bac4828cf82eb5937c"
+"_size" "7499"
