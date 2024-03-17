@@ -275,9 +275,9 @@
 		{
 			"public"
 			{
-				"gid" "1534312930872492313"
-				"size" "375668287"
-				"download" "132261136"
+				"gid" "3122846935924788195"
+				"size" "386036879"
+				"download" "135529296"
 			}
 			"dsx_v2.4.2"
 			{
@@ -287,18 +287,18 @@
 			}
 			"dsx_v3_beta"
 			{
-				"gid" "1534312930872492313"
-				"size" "375668287"
-				"download" "132261136"
+				"gid" "3122846935924788195"
+				"size" "386036879"
+				"download" "135529296"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"dsx_v3_beta_devteam"
 			{
-				"gid" "7AD5E1F0D6A7784D84A3E7DFBB6434BE"
-				"size" "09EF52380060C054378ADEB0037750D0"
-				"download" "2C2A77F97B246C7734E25FE3575D25E0"
+				"gid" "70124B40789279A85B98414E9417A0C8"
+				"size" "B8C11C54FB73DD96F651C0477EBF4F33"
+				"download" "36EF8D3F78F78A03D1DF5777525D3CE6"
 			}
 		}
 	}
@@ -306,8 +306,8 @@
 	{
 		"public"
 		{
-			"buildid" "13753929"
-			"timeupdated" "1710515509"
+			"buildid" "13764970"
+			"timeupdated" "1710640024"
 		}
 		"dsx_v2.4.2"
 		{
@@ -317,15 +317,15 @@
 		}
 		"dsx_v3_beta"
 		{
-			"buildid" "13753929"
+			"buildid" "13764970"
 			"description" "Access to the DSX v3 beta"
-			"timeupdated" "1710515417"
+			"timeupdated" "1710640040"
 		}
 		"dsx_v3_beta_devteam"
 		{
-			"buildid" "13753929"
+			"buildid" "13764970"
 			"pwdrequired" "1"
-			"timeupdated" "1710515443"
+			"timeupdated" "1710640048"
 		}
 	}
 }
@@ -361,6 +361,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22782681"
-"_sha" "50921f65ddacf85a4e1348a43a0638f39d3c6698"
+"_change_number" "22796526"
+"_sha" "c9da48ac2b9d6c0802001ab0faad41efb95eecf3"
 "_size" "5831"
