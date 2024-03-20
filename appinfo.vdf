@@ -83,12 +83,12 @@
 		"library_logo" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "35"
-			"height_pct" "62"
+			"pinned_position" "BottomCenter"
+			"width_pct" "77.24037339556588"
+			"height_pct" "94.6805984326763"
 		}
 	}
-	"store_asset_mtime" "1666917378"
+	"store_asset_mtime" "1710874357"
 	"associations"
 	{
 		"0"
@@ -127,6 +127,7 @@
 		"category_39" "1"
 		"category_24" "1"
 		"category_44" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -204,8 +205,8 @@
 		"14" "1695"
 		"15" "3871"
 		"16" "4726"
-		"17" "1756"
-		"18" "9551"
+		"17" "9551"
+		"18" "1756"
 		"19" "15564"
 	}
 	"review_score" "9"
@@ -297,15 +298,21 @@
 		{
 			"public"
 			{
-				"gid" "5609262347030774375"
-				"size" "650810621"
-				"download" "429122928"
+				"gid" "5012590689708703589"
+				"size" "664343709"
+				"download" "439091600"
 			}
 			"compatibility"
 			{
-				"gid" "618057478175226131"
-				"size" "565832437"
-				"download" "399346288"
+				"gid" "6543677344228623535"
+				"size" "576056743"
+				"download" "407478832"
+			}
+			"legacy_1.5.6"
+			{
+				"gid" "5609262347030774375"
+				"size" "650810621"
+				"download" "429122928"
 			}
 		}
 		"encryptedmanifests"
@@ -318,9 +325,9 @@
 			}
 			"internal_playtest"
 			{
-				"gid" "7F0FE1D37E8F6C2866CE3C1FDDE7622F"
-				"size" "E24CBAB0E8E72566F25664F06FBC8F1F"
-				"download" "DF42CC626F5571D4E0080C56A08498D2"
+				"gid" "094C73E069DD488A118732EB1BE44F0B"
+				"size" "F24D47EBA26307A2F25F986E2ECA2B8F"
+				"download" "45CCABA5291CBE744FC6D5175A702DEE"
 			}
 			"localization"
 			{
@@ -328,17 +335,11 @@
 				"size" "47D1D78BAA31623FBEFB3C9165BB3756"
 				"download" "2CB85F14ED4BAC74A77AE3011FE9D49F"
 			}
-			"modding_alpha"
-			{
-				"gid" "F1740C13103BEA89ACD2B9C133E88784"
-				"size" "C904BCACCD9F58F9402A7CE7D55E41AC"
-				"download" "B30BD5BFA0A20B8B6BBBB35C815D28E0"
-			}
 			"private_beta"
 			{
-				"gid" "5BB4CA48A542599E38CB6EEC5ECE8F3B"
-				"size" "95CB80736BB00AC26CC6005217C4ADC1"
-				"download" "FDF1DEFF46D87CDF02D4DC6AE4375417"
+				"gid" "4649102B4203B3E8E766746C6DCBD889"
+				"size" "75516F97B26FAC5905A60A625D444AE0"
+				"download" "D0C4F0107986DE75E9E56238546E8C4F"
 			}
 			"test_mgwb"
 			{
@@ -358,15 +359,21 @@
 		{
 			"public"
 			{
-				"gid" "7794216274031597899"
-				"size" "672863431"
-				"download" "432497296"
+				"gid" "3938410169258187842"
+				"size" "682390938"
+				"download" "442110304"
 			}
 			"compatibility"
 			{
-				"gid" "1732216710540764564"
-				"size" "673267974"
-				"download" "424264112"
+				"gid" "3642157676601108901"
+				"size" "682195901"
+				"download" "432280416"
+			}
+			"legacy_1.5.6"
+			{
+				"gid" "7794216274031597899"
+				"size" "672863431"
+				"download" "432497296"
 			}
 		}
 		"encryptedmanifests"
@@ -379,9 +386,9 @@
 			}
 			"internal_playtest"
 			{
-				"gid" "CEA63F0D3A36391A17464964A998C065"
-				"size" "854CAA5195175F90153DFEB592D042DA"
-				"download" "90DBC8927A4372C62248F5499D05FC25"
+				"gid" "C3677A2FEC2FD823D1BE37A58228492F"
+				"size" "8DA772E16D8D1E873F8E5884FCDA2448"
+				"download" "4AB94CA4F1B67F129565673CB4EF3818"
 			}
 			"localization"
 			{
@@ -389,17 +396,11 @@
 				"size" "2EE211C479C7F8B022D74A9E08536803"
 				"download" "1723DC8FF89AF54C62407FFB1C0D9FFF"
 			}
-			"modding_alpha"
-			{
-				"gid" "2DE44715121F0863D67418B0326F3E78"
-				"size" "6B81F063A1198332CF8FBC8F38C5D79F"
-				"download" "7176477F76458A63B31CBE791CC990A4"
-			}
 			"private_beta"
 			{
-				"gid" "FF5BB48060045C953E400024C036EEF2"
-				"size" "1454BFB769BAB3C3309263F33948C6A8"
-				"download" "84B48488D29EB51276B1856E38836C43"
+				"gid" "06D2B62F3F84B56183FF3D0E6C1A0345"
+				"size" "4CB385CD6AD891D67B2DB980117BDF95"
+				"download" "9F2CBE9F1A24CE4E371C54C3CCFAD5B1"
 			}
 			"test_mgwb"
 			{
@@ -419,15 +420,21 @@
 		{
 			"public"
 			{
-				"gid" "5898757968212855302"
-				"size" "673045222"
-				"download" "433542112"
+				"gid" "5534900256137511427"
+				"size" "681553197"
+				"download" "443057088"
 			}
 			"compatibility"
 			{
-				"gid" "8322187383152776702"
-				"size" "652943674"
-				"download" "422820336"
+				"gid" "1654251923624426035"
+				"size" "661487041"
+				"download" "430474592"
+			}
+			"legacy_1.5.6"
+			{
+				"gid" "5898757968212855302"
+				"size" "673045222"
+				"download" "433542112"
 			}
 		}
 		"encryptedmanifests"
@@ -440,9 +447,9 @@
 			}
 			"internal_playtest"
 			{
-				"gid" "26268B9B5BA7AE81D0BBE9D0948B5F96"
-				"size" "4E204B73E31778B25D095E82E23D895D"
-				"download" "0F06DCB0A3C79C9551BC965F8D108CE9"
+				"gid" "5DDCF0D2EB564A4651B84C2D7A7B9493"
+				"size" "56E43831FA6AAD30D914085E7D85921C"
+				"download" "BB1C8CAE0128E535680573E3C5DC3BAE"
 			}
 			"localization"
 			{
@@ -450,17 +457,11 @@
 				"size" "98BBC4BFBC3B6FA93B030642B522F221"
 				"download" "89F9B0618E031DD3C547FDC4C0DC0566"
 			}
-			"modding_alpha"
-			{
-				"gid" "1FA847ABBCA37C68FF7313AD8AB0973A"
-				"size" "3E7784A0D4241DF5FB57B7FA481A54B1"
-				"download" "BAF6F02D9DD25C5913FA74B654EB7814"
-			}
 			"private_beta"
 			{
-				"gid" "A1DF999230462B0BA4D4F3D10C834B08"
-				"size" "74B52D546FBFBAB39E022902377D9A8B"
-				"download" "EFD05EF53F761CEC6E56D58861020F5B"
+				"gid" "790162D5AF1992603153C23A3151A6F1"
+				"size" "DC5B9263D48B685E97C6F7754B63FC5E"
+				"download" "D2564E2A02FC68DA8AE7B7DA460484B4"
 			}
 			"test_mgwb"
 			{
@@ -474,14 +475,14 @@
 	{
 		"public"
 		{
-			"buildid" "8043676"
-			"timeupdated" "1642546711"
+			"buildid" "13789412"
+			"timeupdated" "1710872668"
 		}
 		"compatibility"
 		{
-			"buildid" "8043681"
-			"description" "For 32-bit systems. The legacy, XNA version of Stardew Valley."
-			"timeupdated" "1642546722"
+			"buildid" "13789415"
+			"description" "For 32-bit systems. The legacy XNA version of Stardew Valley."
+			"timeupdated" "1710872572"
 		}
 		"internal"
 		{
@@ -491,9 +492,15 @@
 		}
 		"internal_playtest"
 		{
-			"buildid" "13026257"
+			"buildid" "13493151"
 			"pwdrequired" "1"
-			"timeupdated" "1703272547"
+			"timeupdated" "1708380823"
+		}
+		"legacy_1.5.6"
+		{
+			"buildid" "8043676"
+			"description" "The legacy 1.5.6 version of Stardew Valley."
+			"timeupdated" "1710783857"
 		}
 		"localization"
 		{
@@ -501,17 +508,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1626916992"
 		}
-		"modding_alpha"
-		{
-			"buildid" "13400506"
-			"pwdrequired" "1"
-			"timeupdated" "1707373138"
-		}
 		"private_beta"
 		{
-			"buildid" "13398952"
+			"buildid" "13789412"
 			"pwdrequired" "1"
-			"timeupdated" "1707356995"
+			"timeupdated" "1710871976"
 		}
 		"test_mgwb"
 		{
@@ -570,6 +571,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22256432"
-"_sha" "c6fe1bf86ca17af1a28a25432942d677b8261ab1"
-"_size" "11224"
+"_change_number" "22829783"
+"_sha" "fe3eca37888b4f2c540c3a32b2a74f8968b5f292"
+"_size" "11139"
