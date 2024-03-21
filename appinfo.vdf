@@ -96,6 +96,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -103,7 +104,7 @@
 			"height_pct" "51.75606876170876"
 		}
 	}
-	"store_asset_mtime" "1701892330"
+	"store_asset_mtime" "1709682136"
 	"associations"
 	{
 		"0"
@@ -153,6 +154,7 @@
 		"category_59" "1"
 		"category_55" "1"
 		"category_57" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -431,9 +433,9 @@
 		{
 			"public"
 			{
-				"gid" "5667713363487469240"
-				"size" "29229136972"
-				"download" "26568191472"
+				"gid" "6008089904046586067"
+				"size" "29234802265"
+				"download" "26565950848"
 			}
 		}
 		"encryptedmanifests"
@@ -446,15 +448,15 @@
 			}
 			"devqa"
 			{
-				"gid" "FDBF5B2ABEF1B715BA5B1BD41EB530B1"
-				"size" "9257AE9FC5CB47511BE0029EF22ED2B9"
-				"download" "2FC7809E13C3FB677606AD0761EA212B"
+				"gid" "BF7E0B9E29863BDBDDA0BED46AB8766E"
+				"size" "D8620E727BC2E21ACBDF2E979CF1A945"
+				"download" "E6DE6AF363BB653FE2C7C58196C2B437"
 			}
 			"enzyme"
 			{
-				"gid" "F968FE26CFF00DA3EFFC435A34B06D28"
-				"size" "FD5FA74B17136EB0CDF4F4F9E3CEA4BE"
-				"download" "938B9B327E9312B8E6E70C347E3A127F"
+				"gid" "4C4F8D7EC1730B752280FFD585B6ECDD"
+				"size" "539CCCA17642394C08A8DE59EDFDDDF1"
+				"download" "092EB2C73ECB2252C17AACB275C0A909"
 			}
 			"enzyme2"
 			{
@@ -488,27 +490,27 @@
 			}
 			"nightly"
 			{
-				"gid" "D0EAF246F18097BA0F544B6B94457F33"
-				"size" "A075C200F5DC998D13161FD70CAD669F"
-				"download" "DD99ED4A4367835019AFBE3B385A4A12"
+				"gid" "1C1799012AB2D8A5671176A12403C08E"
+				"size" "97CE03C31BC7254AE90D55E2DC7D62DF"
+				"download" "39815E8E2E324FEB944B0C680417D51A"
 			}
 			"playtests"
 			{
-				"gid" "63AA28EDCD93D0AD01E317D68BBAD7C5"
-				"size" "D97A0C9145177B04567B7287041D9D6E"
-				"download" "DDD97A3165E7783DDD9522DBC88AE621"
+				"gid" "6A7109F299F2F40C4EE2C2061435410B"
+				"size" "39B763D16F6BF733B7F6DDF37FBDBD56"
+				"download" "D728B677F43EEFD737030A44070CA8C1"
 			}
 			"qa-staging"
 			{
-				"gid" "EDED2FC76D9A3881B185419D08B4EB90"
-				"size" "2E7D4FC60FBEECE335487C67659E909D"
-				"download" "DF661F07FB06FAAFFE16D24A3EBAC9E2"
+				"gid" "4918E268C595A152B6E28AC436BD1EF0"
+				"size" "0F91AE86F30318F951EA85E5D1DFABA0"
+				"download" "4DABA75EEB74EEB5D8CCB531E56965D4"
 			}
 			"qa-test"
 			{
-				"gid" "CE903ABFB412BCF6BAFCAC2465CFC7DF"
-				"size" "8472BEE0540C83C2B6361B240DAAEEF3"
-				"download" "C1AA0AE20DEE94660D2D978BFAC40E70"
+				"gid" "305C0C6B49C5816A9F5145F417C7D116"
+				"size" "8F70A302CA2F44BE1FD46F2061AAFD16"
+				"download" "C3045484AFD82309AB2DFD8B51ABC6E9"
 			}
 		}
 	}
@@ -543,9 +545,9 @@
 			}
 			"enzyme"
 			{
-				"gid" "EB02E9DC374EF4C902442A890195B1BF"
-				"size" "E22C1238E1A25287C4ABA1D1392A3607"
-				"download" "E22C1238E1A25287C4ABA1D1392A3607"
+				"gid" "B5D5049E8C268E025755312B5F204B3D"
+				"size" "AA433FEB2E88C0582BA5FC835B2B17DA"
+				"download" "2641FB4236BB8581943FDD87D5247C45"
 			}
 			"enzyme2"
 			{
@@ -585,9 +587,9 @@
 			}
 			"playtests"
 			{
-				"gid" "B2306F57BB400C3CAC9A4563ADA78695"
-				"size" "476818460E1C03FF83283AEA6C6AA6DF"
-				"download" "476818460E1C03FF83283AEA6C6AA6DF"
+				"gid" "CE2F6AE54A1E4E7E2606477CA210E6CD"
+				"size" "C0F6D5FCFC72EE8BBBCFA2C4B5CD9454"
+				"download" "3380D3FFF307852CC3AA0F115B53CB86"
 			}
 			"qa-staging"
 			{
@@ -634,9 +636,9 @@
 			}
 			"enzyme"
 			{
-				"gid" "B35E6FBD9710EF86F0B83F642BE35820"
-				"size" "E22C1238E1A25287C4ABA1D1392A3607"
-				"download" "E22C1238E1A25287C4ABA1D1392A3607"
+				"gid" "800BCD9509A675CCF61510C8720B846F"
+				"size" "02B0CC06810DD6168F8B4E83ACFAA632"
+				"download" "B3C07DF5CC256C3BD1AC10E8432BDADA"
 			}
 			"enzyme2"
 			{
@@ -676,9 +678,9 @@
 			}
 			"playtests"
 			{
-				"gid" "AB8944C70A978874D0D53EDA0D3C5D10"
-				"size" "476818460E1C03FF83283AEA6C6AA6DF"
-				"download" "476818460E1C03FF83283AEA6C6AA6DF"
+				"gid" "4B044E8D15897C9B6AFE1829477430B6"
+				"size" "586464B5C54E3E5CD4A363696DACF371"
+				"download" "5020BE4C076767D8E7A29EC7075EFB35"
 			}
 			"qa-staging"
 			{
@@ -1699,8 +1701,8 @@
 	{
 		"public"
 		{
-			"buildid" "13549490"
-			"timeupdated" "1709683157"
+			"buildid" "13755163"
+			"timeupdated" "1710975601"
 		}
 		"compliance"
 		{
@@ -1710,15 +1712,15 @@
 		}
 		"devqa"
 		{
-			"buildid" "13500899"
+			"buildid" "13755163"
 			"pwdrequired" "1"
-			"timeupdated" "1708477102"
+			"timeupdated" "1710867845"
 		}
 		"enzyme"
 		{
-			"buildid" "13637538"
+			"buildid" "13802397"
 			"pwdrequired" "1"
-			"timeupdated" "1709601727"
+			"timeupdated" "1710975874"
 		}
 		"enzyme2"
 		{
@@ -1752,27 +1754,27 @@
 		}
 		"nightly"
 		{
-			"buildid" "13641672"
+			"buildid" "13793637"
 			"pwdrequired" "1"
-			"timeupdated" "1709614203"
+			"timeupdated" "1710906614"
 		}
 		"playtests"
 		{
-			"buildid" "13580701"
+			"buildid" "13790782"
 			"pwdrequired" "1"
-			"timeupdated" "1709146245"
+			"timeupdated" "1710954170"
 		}
 		"qa-staging"
 		{
-			"buildid" "13549490"
+			"buildid" "13802397"
 			"pwdrequired" "1"
-			"timeupdated" "1708919789"
+			"timeupdated" "1710975894"
 		}
 		"qa-test"
 		{
-			"buildid" "13637538"
+			"buildid" "13687443"
 			"pwdrequired" "1"
-			"timeupdated" "1709601700"
+			"timeupdated" "1710114680"
 		}
 	}
 }
@@ -1848,6 +1850,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22648006"
-"_sha" "097a358865571e48ecfc0990dad94f6ed5255a79"
-"_size" "43547"
+"_change_number" "22845132"
+"_sha" "7a23e98efe814ee1a44630937ca395547c9d005c"
+"_size" "43595"
