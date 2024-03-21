@@ -33,7 +33,7 @@
 			"id" "2134770_eula_0"
 			"name" "SteamWorld Build EULA"
 			"url" "https://store.steampowered.com//eula/2134770_eula_0"
-			"version" "1"
+			"version" "2"
 		}
 	}
 	"steam_deck_compatibility"
@@ -100,7 +100,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1707384201"
+	"store_asset_mtime" "1710957384"
 	"associations"
 	{
 		"0"
@@ -133,6 +133,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -266,18 +267,18 @@
 		{
 			"public"
 			{
-				"gid" "8109248230022100281"
-				"size" "2816790476"
-				"download" "1094172528"
+				"gid" "534874394107435391"
+				"size" "2885805676"
+				"download" "1158845968"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"after_work"
 			{
-				"gid" "898CF7EAE7E84474337FAB632A421869"
-				"size" "E6813BF30FDD268A22B96CAB67F691D6"
-				"download" "53CE6259F565E9AB9A41C3F2BD30C5F9"
+				"gid" "68A17F022EEE2A1514E5702F8CAAEC4A"
+				"size" "05848F07B329630529AF3EF7E8D14FF9"
+				"download" "89F5051976FAEC6590825F0FD7D930C4"
 			}
 			"develop_art"
 			{
@@ -287,21 +288,21 @@
 			}
 			"develop_debug_il2cpp"
 			{
-				"gid" "E4E50C28B03E3B8527FC7E6DC91F9C96"
-				"size" "66C2477CF295F572D88D188440971B3A"
-				"download" "02493D84390564AA72A6DB60650F1FCD"
+				"gid" "C3B105F3092E0FCBF691942258C410D4"
+				"size" "9CDE4813142B8D7DBD22490E0FA653DC"
+				"download" "9955A558450163421DE0D989B94CE5FB"
 			}
 			"develop_master_il2cpp"
 			{
-				"gid" "46130C862BCE53A29843D8108B43AF90"
-				"size" "B2C977920E0D980411ECA751EE22E31C"
-				"download" "38D63D94D164E26E77A9A0AECA729950"
+				"gid" "AAF7902E87924C5534760DF31F7D65F7"
+				"size" "4B0125D84D6A2C5D901E12D2EC35CBD7"
+				"download" "562FB6E7C1C1DBF94B782323AA71AC89"
 			}
 			"develop_release_il2cpp"
 			{
-				"gid" "8280B5763401560A0964B2B2053321CC"
-				"size" "7D64126B1FC0B6CDF255A3B027B1A334"
-				"download" "D87F68B3D5A560E9B8848E28B472D940"
+				"gid" "212F3612B57F9BF02B9B2E566FDC8002"
+				"size" "38B9541BEABF9E435212F2B18033DD8B"
+				"download" "EBFBBDFA47DAE30853FD793DF85FAE11"
 			}
 			"experimental_01"
 			{
@@ -311,15 +312,15 @@
 			}
 			"external_qa"
 			{
-				"gid" "861D1B6678A3A3FF650F66829E6745EF"
-				"size" "149E3A1A705D94C6EDBD75505B7F188E"
-				"download" "BF8AE193E9A7E951D6FCF529F3789DCF"
+				"gid" "E762F87CBC23E903E4C7EE55185FFF12"
+				"size" "C110E4695A025BCB5B8DDF7B37AAEA5A"
+				"download" "5B2B90734483E8F224072DB720EB755E"
 			}
 			"external_qa_master_il2cpp"
 			{
-				"gid" "84D5DBF818BE64CED688F9CA7E230892"
-				"size" "6F7554BBDABECBB9AB2713D4AFFBBE1B"
-				"download" "9612213C8CFBE1B4A2216E483A7147D1"
+				"gid" "480925FD8AF221C14673D437C9B7B694"
+				"size" "074CF629ABF71ECF618E7E011EA7AFB4"
+				"download" "287849FA3C25809850328C115B5062E7"
 			}
 			"external_stable"
 			{
@@ -335,15 +336,21 @@
 			}
 			"group_lee"
 			{
-				"gid" "883616C82BE87EF2D73E9D91554C289A"
-				"size" "23AD5C2162051F8D625A194260D9B7A7"
-				"download" "0FDF6855E1CF8060DF30805D64DEA805"
+				"gid" "1B141FFB9A3110E852F932FF78978CD6"
+				"size" "EA964F2EC42968DC532502E78673A2F0"
+				"download" "E270D46C66BDD173C4613BEEB6D5427C"
 			}
 			"release_candidate"
 			{
 				"gid" "ED951E6AC3A4B7492C530789F3A21E30"
 				"size" "86C8DE92ABE97DF97B715294B9891710"
 				"download" "2876A535D42EA0030DF76D94105681B6"
+			}
+			"release_candidate_2"
+			{
+				"gid" "4935551436370EC5D98ADFFCDD21BB05"
+				"size" "5A7866713FF849C496597B3634BF6D15"
+				"download" "25DD91FC959AE6F647C657AC99F5C1F3"
 			}
 			"sprint_debug_il2cpp"
 			{
@@ -369,14 +376,14 @@
 	{
 		"public"
 		{
-			"buildid" "13029904"
-			"timeupdated" "1707382716"
+			"buildid" "13413413"
+			"timeupdated" "1711015383"
 		}
 		"after_work"
 		{
-			"buildid" "13427552"
+			"buildid" "13533243"
 			"pwdrequired" "1"
-			"timeupdated" "1707668227"
+			"timeupdated" "1708618648"
 		}
 		"develop_art"
 		{
@@ -386,21 +393,21 @@
 		}
 		"develop_debug_il2cpp"
 		{
-			"buildid" "13419780"
+			"buildid" "13803944"
 			"pwdrequired" "1"
-			"timeupdated" "1707521551"
+			"timeupdated" "1710977076"
 		}
 		"develop_master_il2cpp"
 		{
-			"buildid" "13419878"
+			"buildid" "13804029"
 			"pwdrequired" "1"
-			"timeupdated" "1707522840"
+			"timeupdated" "1710978022"
 		}
 		"develop_release_il2cpp"
 		{
-			"buildid" "13419805"
+			"buildid" "13804018"
 			"pwdrequired" "1"
-			"timeupdated" "1707521860"
+			"timeupdated" "1710977862"
 		}
 		"experimental_01"
 		{
@@ -410,15 +417,15 @@
 		}
 		"external_qa"
 		{
-			"buildid" "13394188"
+			"buildid" "13501262"
 			"pwdrequired" "1"
-			"timeupdated" "1707321435"
+			"timeupdated" "1708378123"
 		}
 		"external_qa_master_il2cpp"
 		{
-			"buildid" "13393990"
+			"buildid" "13501393"
 			"pwdrequired" "1"
-			"timeupdated" "1707320424"
+			"timeupdated" "1708379259"
 		}
 		"external_stable"
 		{
@@ -434,15 +441,21 @@
 		}
 		"group_lee"
 		{
-			"buildid" "13413014"
+			"buildid" "13452160"
 			"pwdrequired" "1"
-			"timeupdated" "1707471847"
+			"timeupdated" "1707901155"
 		}
 		"release_candidate"
 		{
 			"buildid" "13413413"
 			"pwdrequired" "1"
 			"timeupdated" "1707474787"
+		}
+		"release_candidate_2"
+		{
+			"buildid" "13541592"
+			"pwdrequired" "1"
+			"timeupdated" "1708682729"
 		}
 		"sprint_debug_il2cpp"
 		{
@@ -470,6 +483,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "22298760"
-"_sha" "0e102eadf9573a9231a601d382146e59cd2ace25"
-"_size" "9466"
+"_change_number" "22850995"
+"_sha" "2a58a84a94048872b0b1821f2a3e2bc7fa164eee"
+"_size" "9788"
