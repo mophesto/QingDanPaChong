@@ -145,9 +145,9 @@
 		{
 			"public"
 			{
-				"gid" "8968611829841564567"
-				"size" "12997780844"
-				"download" "4076481584"
+				"gid" "1148705338202855930"
+				"size" "12998052314"
+				"download" "4076489392"
 			}
 			"squad_experimental"
 			{
@@ -214,21 +214,21 @@
 			}
 			"squad_main"
 			{
-				"gid" "739911F430382B5618C409A7571E6CCF"
-				"size" "33167A533CE29829963D9B8D0FCA6CB5"
-				"download" "DFC3DA0DD264CF8253EBBECC6A42B5DA"
+				"gid" "51BB78723DD37899197ADFE68CE608BA"
+				"size" "86ED27F93669957A0C19902681DC3CF0"
+				"download" "0B51A3340D8CE703108F7E1887463EA9"
 			}
 			"squad_release"
 			{
-				"gid" "B3D1499F0963DDEFACC65DD335A2CF79"
-				"size" "D33554E59DD8DCA36AF6B2AC7163D4D9"
-				"download" "45F391C326E0B30F1031FE5D9E313987"
+				"gid" "2F8E4BE23687B8A09A43518994AF0157"
+				"size" "18C93E9F39A61FE05F37E4E543E958DF"
+				"download" "4D983BE46193782EA8DD8E89B43B84F6"
 			}
 			"squad_testing"
 			{
-				"gid" "0630514D2FDADB22ABBCEC0E3A0C234C"
-				"size" "B890200820C0C1A4B97D9F38F4A4EDCA"
-				"download" "5E122E39AF5FBD0577DD84217BAD82BD"
+				"gid" "8788180A06670ED2203054CC59A52A84"
+				"size" "4EC4B73D4D36859385176B7D3E8912A9"
+				"download" "FAFD61489AA20DE6EC94E61E72FFC056"
 			}
 			"squad_tournament"
 			{
@@ -250,9 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "2158744189197111850"
-				"size" "12947399763"
-				"download" "4012356176"
+				"gid" "4393305802708147771"
+				"size" "12947674985"
+				"download" "4012377920"
 			}
 			"squad_experimental"
 			{
@@ -319,21 +319,21 @@
 			}
 			"squad_main"
 			{
-				"gid" "C390032F4BD547F564841D0E5CB8B78F"
-				"size" "1E09C55A9CD0EBDAC31728C2C3963C13"
-				"download" "1A2F59C8EE5DF1307B09CC89CFEA6E33"
+				"gid" "FAC396347E73DE0B4D7C6E9B60291D50"
+				"size" "C1A54669B9A11D79DA18FA38FBD1775D"
+				"download" "47E9FC11FEF9A1DDE95A644C7A4BC147"
 			}
 			"squad_release"
 			{
-				"gid" "A0FD070A09F11BB7360A8E2BE474BDB6"
-				"size" "FB01649691027DD679C9923C0C124B2C"
-				"download" "FF5D1B9D6821CFE0C852D87A55D79F66"
+				"gid" "BD5CCE057E64E8BA05F86D6822000CFF"
+				"size" "76698524062E0117DF444B71FFCCFFB7"
+				"download" "217B9035E1738D12A21F0AB180CF3892"
 			}
 			"squad_testing"
 			{
-				"gid" "8DB728442DC66C1898B7F1142EE235AD"
-				"size" "998252CDE79C9892FE4770CD9A3ED653"
-				"download" "856D896CCF5B369BD7C9D918EE650673"
+				"gid" "80C10D6827ABA44A1BD7C500BACF8235"
+				"size" "F76CA3C97390B453D462D117B96FC969"
+				"download" "F1417DB066B26110C9F918845417535A"
 			}
 			"squad_tournament"
 			{
@@ -424,8 +424,8 @@
 	{
 		"public"
 		{
-			"buildid" "13727612"
-			"timeupdated" "1710349827"
+			"buildid" "13794231"
+			"timeupdated" "1711042162"
 		}
 		"alpha-11.2"
 		{
@@ -489,21 +489,21 @@
 		}
 		"squad_main"
 		{
-			"buildid" "13727612"
+			"buildid" "13809970"
 			"pwdrequired" "1"
-			"timeupdated" "1710345021"
+			"timeupdated" "1711023832"
 		}
 		"squad_release"
 		{
-			"buildid" "13727612"
+			"buildid" "13794231"
 			"pwdrequired" "1"
-			"timeupdated" "1710340047"
+			"timeupdated" "1710912095"
 		}
 		"squad_testing"
 		{
-			"buildid" "12663952"
+			"buildid" "13741257"
 			"pwdrequired" "1"
-			"timeupdated" "1699561672"
+			"timeupdated" "1710431880"
 		}
 		"squad_tournament"
 		{
@@ -538,6 +538,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22748626"
-"_sha" "b37d57f85fc90fab2a28a20ee177b35457c7d0bb"
+"_change_number" "22857276"
+"_sha" "26c1feda3a36e195715ba333239509493b0e63d1"
 "_size" "11570"
