@@ -24,7 +24,6 @@
 	{
 		"0" "5"
 	}
-	"has_adult_content" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -293,9 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "3831452888092106014"
-				"size" "9477957411"
-				"download" "9200223408"
+				"gid" "4724404028641371960"
+				"size" "9479526571"
+				"download" "9201503856"
 			}
 		}
 		"encryptedmanifests"
@@ -308,9 +307,9 @@
 			}
 			"internal_testing"
 			{
-				"gid" "4996D91BA247953B8D4FF6F7E5DE08C5"
-				"size" "61D9D0309518D4C7D88E63E72B89580D"
-				"download" "5FB82F6CB35C3734ACA33E421B043514"
+				"gid" "14432B5DF1A07B74E811450EDF3C32FE"
+				"size" "E7F8ADDB1B72638C75F4E7243998782C"
+				"download" "F116208DDA6599E3E979E82C8C0E559C"
 			}
 			"internal_testing_2"
 			{
@@ -336,8 +335,8 @@
 	{
 		"public"
 		{
-			"buildid" "9823374"
-			"timeupdated" "1666977007"
+			"buildid" "13601381"
+			"timeupdated" "1711057854"
 		}
 		"industria_rtx"
 		{
@@ -347,9 +346,9 @@
 		}
 		"internal_testing"
 		{
-			"buildid" "9823374"
+			"buildid" "13601381"
 			"pwdrequired" "1"
-			"timeupdated" "1666976619"
+			"timeupdated" "1709212074"
 		}
 		"internal_testing_2"
 		{
@@ -390,6 +389,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21852113"
-"_sha" "e93c681cabd709b93e359fba1f4b8db908ef0707"
-"_size" "7217"
+"_change_number" "22860792"
+"_sha" "6bca8ed24516d4a8fa3c075b93afd62eb8ee4fd1"
+"_size" "7192"
