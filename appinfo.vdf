@@ -266,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "833918258115251376"
-				"size" "86376581436"
-				"download" "33991297808"
+				"gid" "3341035518327280393"
+				"size" "86382793767"
+				"download" "33991669104"
 			}
 			"squad_experimental"
 			{
@@ -377,9 +377,9 @@
 			}
 			"squad_main"
 			{
-				"gid" "616507456855B0E82C33FE1FB4179655"
-				"size" "7F4683A69178C529B2629B9699C153E3"
-				"download" "0F2A77D53F02B524FE82D40AE7631436"
+				"gid" "C2C4B2B3D761C6D7780160FADF97CA46"
+				"size" "A6FE797227DC715D4FB8774D9FF88897"
+				"download" "AF101779280888B9DB8AD0B276037194"
 			}
 			"squad_previous"
 			{
@@ -389,9 +389,9 @@
 			}
 			"squad_release"
 			{
-				"gid" "988E5FAA27C3A447A92CD9B3F7610183"
-				"size" "2529D58F8814832D503B587A5A907397"
-				"download" "683D034936ED75267734F97E4D38333F"
+				"gid" "215876BD41222076C8D3A3F1AA6FD060"
+				"size" "C44EEDF1BB93043DA5EA064B60004ED7"
+				"download" "407E29108A7E6A79B9EF592FCF0496B1"
 			}
 			"squad_steamfix"
 			{
@@ -401,9 +401,9 @@
 			}
 			"squad_testing"
 			{
-				"gid" "6537D3B1439A894F4C1CFA7516AACAE5"
-				"size" "3B05529306546ABF098EBCC21DF78D34"
-				"download" "116D74DA1709BD3B15FAE904BA6A3E46"
+				"gid" "FD756989BF748E4B6417F5C11DC47990"
+				"size" "2DEAA5413A375B16D398975386F58C79"
+				"download" "AFB86EDC662C6402BD5B87707BB70798"
 			}
 			"squad_troubleshooting"
 			{
@@ -508,8 +508,8 @@
 	{
 		"public"
 		{
-			"buildid" "13728542"
-			"timeupdated" "1710352799"
+			"buildid" "13794369"
+			"timeupdated" "1711044001"
 		}
 		"alpha-1.0"
 		{
@@ -609,9 +609,9 @@
 		}
 		"squad_main"
 		{
-			"buildid" "13728542"
+			"buildid" "13810197"
 			"pwdrequired" "1"
-			"timeupdated" "1710345007"
+			"timeupdated" "1711025311"
 		}
 		"squad_previous"
 		{
@@ -621,9 +621,9 @@
 		}
 		"squad_release"
 		{
-			"buildid" "13728542"
+			"buildid" "13794369"
 			"pwdrequired" "1"
-			"timeupdated" "1710344866"
+			"timeupdated" "1710913568"
 		}
 		"squad_steamfix"
 		{
@@ -633,9 +633,9 @@
 		}
 		"squad_testing"
 		{
-			"buildid" "12664391"
+			"buildid" "13742127"
 			"pwdrequired" "1"
-			"timeupdated" "1699561737"
+			"timeupdated" "1710436085"
 		}
 		"squad_tournament"
 		{
@@ -663,6 +663,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "22749250"
-"_sha" "1aa5cb8b7334154777f98edf32f23ffb1a04006f"
-"_size" "14279"
+"_change_number" "22857825"
+"_sha" "89041d1df0130536159983e218422fbc271dd621"
+"_size" "14280"
