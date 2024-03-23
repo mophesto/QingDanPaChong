@@ -65,6 +65,7 @@
 		}
 	}
 	"metacritic_name" "Midnight Ghost Hunt"
+	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
 	{
@@ -88,7 +89,7 @@
 			"height_pct" "59.55483895026536"
 		}
 	}
-	"store_asset_mtime" "1685700213"
+	"store_asset_mtime" "1710931692"
 	"associations"
 	{
 		"0"
@@ -112,7 +113,6 @@
 	{
 		"0" "1"
 		"1" "23"
-		"2" "70"
 	}
 	"category"
 	{
@@ -123,6 +123,10 @@
 		"category_49" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_27" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -173,7 +177,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1648742367"
+	"steam_release_date" "1711040628"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "915810"
@@ -183,8 +187,8 @@
 		"1" "3993"
 		"2" "5711"
 		"3" "1775"
-		"4" "1663"
-		"5" "10808"
+		"4" "10808"
+		"5" "1663"
 		"6" "3839"
 		"7" "19"
 		"8" "1774"
@@ -322,9 +326,9 @@
 		{
 			"public"
 			{
-				"gid" "8296545786122091181"
+				"gid" "7292112794230995548"
 				"size" "14377905085"
-				"download" "11690791616"
+				"download" "11690798176"
 			}
 		}
 		"encryptedmanifests"
@@ -427,15 +431,15 @@
 			}
 			"sharingiscaring"
 			{
-				"gid" "46ACF3BA1774BCADA0E4DA9A2D9A4F7C"
+				"gid" "A7B16851000D7DCF58EC4440813E4043"
 				"size" "ECFEF7B81992688617546E9E14A0D751"
-				"download" "198AB6285F6AF65D2AF4E7F466DE2E1D"
+				"download" "E1634EFA16739FEC2C64A4D68E44A5C2"
 			}
 			"sketest"
 			{
-				"gid" "FBE4424A86799667BAD45104ECC4F0A9"
+				"gid" "A6913CDDF9D4670FDD22FBD6479A6805"
 				"size" "E1AF19EB5FC22E17C7E204F823E1AF46"
-				"download" "E006C60A571D755DFFD7BE466D264E1B"
+				"download" "0ADA1F6C0F57ABE30F16DB8FDF46203F"
 			}
 		}
 	}
@@ -443,8 +447,8 @@
 	{
 		"public"
 		{
-			"buildid" "13806856"
-			"timeupdated" "1711039747"
+			"buildid" "13826279"
+			"timeupdated" "1711135615"
 		}
 		"actest"
 		{
@@ -544,15 +548,15 @@
 		}
 		"sharingiscaring"
 		{
-			"buildid" "13806856"
+			"buildid" "13826279"
 			"pwdrequired" "1"
-			"timeupdated" "1711006425"
+			"timeupdated" "1711132453"
 		}
 		"sketest"
 		{
-			"buildid" "13806856"
+			"buildid" "13826279"
 			"pwdrequired" "1"
-			"timeupdated" "1711003542"
+			"timeupdated" "1711132589"
 		}
 	}
 }
@@ -593,6 +597,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22856396"
-"_sha" "2db370a9d049002b4f8dd6d4ae1c530c9f94f33e"
-"_size" "11872"
+"_change_number" "22874918"
+"_sha" "0a27f6bd615c025bcad5c9af52231c02f0a92f36"
+"_size" "11976"
