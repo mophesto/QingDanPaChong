@@ -47,8 +47,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -115,7 +113,7 @@
 			"height_pct" "78"
 		}
 	}
-	"store_asset_mtime" "1696608687"
+	"store_asset_mtime" "1708682682"
 	"associations"
 	{
 		"0"
@@ -8722,6 +8720,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "22068309"
-"_sha" "14a021e40d1d6a9d74a1c95c2c5532e568b60eac"
-"_size" "242323"
+"_change_number" "22472108"
+"_sha" "6a61e99b3aa8d6e0196856077305d188feef2a9e"
+"_size" "242260"
