@@ -95,6 +95,7 @@
 		"library_capsule" "en,ko,zh-cn,zh-tw"
 		"library_hero" "en,ko,zh-cn,zh-tw"
 		"library_logo" "en,ko,zh-cn,zh-tw"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
@@ -102,7 +103,7 @@
 			"height_pct" "87.08145333649965"
 		}
 	}
-	"store_asset_mtime" "1678874771"
+	"store_asset_mtime" "1711367160"
 	"associations"
 	{
 		"0"
@@ -179,6 +180,14 @@
 		{
 			"supported" "true"
 		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1663833600"
 	"metacritic_score" "72"
@@ -197,12 +206,12 @@
 		"6" "9551"
 		"7" "1702"
 		"8" "21"
-		"9" "1654"
-		"10" "552282"
-		"11" "597"
-		"12" "599"
-		"13" "4747"
-		"14" "122"
+		"9" "552282"
+		"10" "1654"
+		"11" "599"
+		"12" "597"
+		"13" "122"
+		"14" "4747"
 		"15" "15564"
 		"16" "4726"
 		"17" "4231"
@@ -286,9 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "2542840713197974164"
-				"size" "946289042"
-				"download" "188229216"
+				"gid" "4515939566722725884"
+				"size" "997187027"
+				"download" "216484896"
 			}
 			"public_beta"
 			{
@@ -336,9 +345,9 @@
 		{
 			"public"
 			{
-				"gid" "6488924301751764896"
-				"size" "951543309"
-				"download" "188184800"
+				"gid" "8327016200057182827"
+				"size" "999349138"
+				"download" "211680608"
 			}
 			"public_beta"
 			{
@@ -387,8 +396,8 @@
 	{
 		"public"
 		{
-			"buildid" "11756284"
-			"timeupdated" "1695987850"
+			"buildid" "13586947"
+			"timeupdated" "1711358744"
 		}
 		"beta"
 		{
@@ -471,6 +480,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22619622"
-"_sha" "3a4073f7471aaec309816d4822c087c2f88e4368"
-"_size" "9181"
+"_change_number" "22897594"
+"_sha" "a8cbaa382ae13060cef3b17328b48237150923db"
+"_size" "9305"
