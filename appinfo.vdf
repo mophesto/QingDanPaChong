@@ -10,6 +10,11 @@
 	"clienticon" "d4ca0c20d1e43ec129675acd61fdc4a585122c1f"
 	"clienttga" "51aa5f64bebdf514cae22864a847b5bdd34e03a8"
 	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "Xiangsheng Simulator"
+		"schinese" "相声模拟器"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -184,9 +189,9 @@
 		{
 			"public"
 			{
-				"gid" "3802582284052887759"
-				"size" "229893112"
-				"download" "189009600"
+				"gid" "8846391760859104679"
+				"size" "229899224"
+				"download" "189015008"
 			}
 		}
 	}
@@ -200,9 +205,9 @@
 		{
 			"public"
 			{
-				"gid" "5072342887488665519"
-				"size" "176863208"
-				"download" "135311680"
+				"gid" "6673919243299895886"
+				"size" "229896648"
+				"download" "189012224"
 			}
 		}
 	}
@@ -210,8 +215,8 @@
 	{
 		"public"
 		{
-			"buildid" "13542651"
-			"timeupdated" "1708689598"
+			"buildid" "13842389"
+			"timeupdated" "1711362293"
 		}
 	}
 }
@@ -230,6 +235,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22473508"
-"_sha" "72347ad056278e70662681840f70a559dacae53f"
-"_size" "4152"
+"_change_number" "22896616"
+"_sha" "18ef69963c487778bc6e058eb37f616c27b54832"
+"_size" "4249"
