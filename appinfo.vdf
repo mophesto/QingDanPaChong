@@ -28,8 +28,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -404,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "3372822377489966767"
-				"size" "21631703293"
-				"download" "17963602976"
+				"gid" "1100786247880405503"
+				"size" "21633828298"
+				"download" "17965555104"
 			}
 			"labtech_beta"
 			{
@@ -419,9 +417,9 @@
 		{
 			"bugbase"
 			{
-				"gid" "34CA7B75150AB1C12B4A79ECE098D7AF"
-				"size" "A539ADAE54995ABA3A1B0CB2C53D5D0A"
-				"download" "C9A9D88B6F1769CF924AD9F6F46A3552"
+				"gid" "378B946F3AE7CCB5BB6A8C0C443C53BD"
+				"size" "0FA9D888482C6BA3F57F33274C80BA34"
+				"download" "0FA9D888482C6BA3F57F33274C80BA34"
 			}
 			"demo"
 			{
@@ -443,9 +441,9 @@
 			}
 			"public_prerelease"
 			{
-				"gid" "F240CDACC14290DB4E7018C228DE6749"
-				"size" "BC07776289E66A890D75C0B691CCA590"
-				"download" "3F9321BFFC8B6217E0992EB16103087E"
+				"gid" "694B5C3C5396C5FDC9509205529864F6"
+				"size" "0696D6F220C200C0251752AC73870283"
+				"download" "37A6E412CDFB69E49E5CC831248CD31E"
 			}
 			"release"
 			{
@@ -496,6 +494,12 @@
 				"size" "4BAEB4552D02C14C74DE6C93C1088B72"
 				"download" "E773A4B568F1184CB4AC79938C05D3DF"
 			}
+			"main"
+			{
+				"gid" "347A4324577D9F5F0454E8450473B13A"
+				"size" "70C9CCE818249ECD2CB4D8B0A10D4680"
+				"download" "D860AFE3C6C2460DECDAA1E5B9CB281A"
+			}
 			"public_prerelease"
 			{
 				"gid" "96E74844C8D6F9BE2AFF5D74DF30312F"
@@ -536,21 +540,21 @@
 		{
 			"bugbase"
 			{
-				"gid" "4C0B3076CBBEBC1CE933B6C0DD41A9B6"
-				"size" "0FA9D888482C6BA3F57F33274C80BA34"
-				"download" "0FA9D888482C6BA3F57F33274C80BA34"
+				"gid" "AA4D92E1DF0CA4FF07E9B7EB163207F2"
+				"size" "FC16C47EE6B601188FB0B40BE326C260"
+				"download" "7FF85F57AC0B42126962C437727E9526"
 			}
 			"demo"
 			{
-				"gid" "F1FCCF7E65FE09F16400223CB86A8F13"
-				"size" "B47C5E0D4634BDDBD14EEC3FDA7716A2"
-				"download" "5559D239911BA9187551C62B32C61E15"
+				"gid" "8E84F482DF13E3352138895296690763"
+				"size" "8ECB995CFC24DB18ED3C31D4134ED680"
+				"download" "1EB5772CFB6DDAA4016DBF84B077A062"
 			}
 			"main"
 			{
-				"gid" "852FC56C61E9E3382A2FDCD5AFE319AD"
-				"size" "33577699247DD27F1A1CD74ABAD5BB8F"
-				"download" "B41720B4C44A84ED57B6EB1CE4E9C9D8"
+				"gid" "3CAEAC254F06C334D6B9B057AF0F73C9"
+				"size" "C8EED6E1911E224EE026CE1537E4A620"
+				"download" "6E2B38CC368A2580624D8EC0C2901197"
 			}
 			"playtest"
 			{
@@ -566,15 +570,15 @@
 			}
 			"release"
 			{
-				"gid" "3BBAB5742AFED299DF85697E950FD939"
-				"size" "B80A2E8ABB66457230B8BE576BDA2596"
-				"download" "DAC071604565EC631B04776D92BDE539"
+				"gid" "DC496267A0B342F7000E20C355276F7D"
+				"size" "0BB9324DB4BB288E77A29756AEAE36AF"
+				"download" "3A149458C8E4630D6C460480296E5E8E"
 			}
 			"stage"
 			{
-				"gid" "AC70733C63DB9D8082847BF201ABDD19"
-				"size" "DD10FE3081C8398046FE3EBB94073EFD"
-				"download" "AB5EF35C0E76DE8A892A6E4B5B148D03"
+				"gid" "9E987E6FA3E36788370D9722B84AC996"
+				"size" "8525710A9872DFC9CB9C1AE3A9F45AE7"
+				"download" "3B18C91C26FD1E2E64A97A409DD8E4CC"
 			}
 		}
 	}
@@ -608,6 +612,18 @@
 				"size" "0FA9D888482C6BA3F57F33274C80BA34"
 				"download" "0FA9D888482C6BA3F57F33274C80BA34"
 			}
+			"demo"
+			{
+				"gid" "09C1CE48FE3F5CA644BDF2DD11334967"
+				"size" "1EAA8CC5BA1F30AD62E055A4011897F7"
+				"download" "1EAA8CC5BA1F30AD62E055A4011897F7"
+			}
+			"main"
+			{
+				"gid" "76D3E135518D1DDB19ED5EBCF014DCF3"
+				"size" "73527CA62F9D99AB2DAAC6AC091E2DE1"
+				"download" "73527CA62F9D99AB2DAAC6AC091E2DE1"
+			}
 			"release"
 			{
 				"gid" "534C1A9A30FD43CBE4DD219BB7C1B126"
@@ -620,20 +636,20 @@
 	{
 		"public"
 		{
-			"buildid" "12867742"
-			"timeupdated" "1701684835"
+			"buildid" "13855149"
+			"timeupdated" "1711447442"
 		}
 		"bugbase"
 		{
-			"buildid" "12867742"
+			"buildid" "13857222"
 			"pwdrequired" "1"
-			"timeupdated" "1705665437"
+			"timeupdated" "1711458737"
 		}
 		"demo"
 		{
-			"buildid" "9763346"
+			"buildid" "13844078"
 			"pwdrequired" "1"
-			"timeupdated" "1666278133"
+			"timeupdated" "1711373786"
 		}
 		"labtech_beta"
 		{
@@ -643,9 +659,9 @@
 		}
 		"main"
 		{
-			"buildid" "13405413"
+			"buildid" "13855442"
 			"pwdrequired" "1"
-			"timeupdated" "1707407556"
+			"timeupdated" "1711449233"
 		}
 		"playtest"
 		{
@@ -655,21 +671,21 @@
 		}
 		"public_prerelease"
 		{
-			"buildid" "12852891"
+			"buildid" "13845905"
 			"pwdrequired" "1"
-			"timeupdated" "1701453534"
+			"timeupdated" "1711384292"
 		}
 		"release"
 		{
-			"buildid" "13418534"
+			"buildid" "13813890"
 			"pwdrequired" "1"
-			"timeupdated" "1707510557"
+			"timeupdated" "1711046104"
 		}
 		"stage"
 		{
-			"buildid" "13414904"
+			"buildid" "13713755"
 			"pwdrequired" "1"
-			"timeupdated" "1707484954"
+			"timeupdated" "1710245186"
 		}
 	}
 }
@@ -818,6 +834,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22282786"
-"_sha" "d4d5c0c7ae3453690db74951efc226ba460f998f"
-"_size" "19182"
+"_change_number" "22913786"
+"_sha" "eb47becea4d3a038a22dc21325ef2eaf618d8b96"
+"_size" "19630"
