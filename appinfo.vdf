@@ -1,0 +1,449 @@
+"appid" "931180"
+"common"
+{
+	"name" "Conan Exiles - Public Beta Client"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "d27cbd7391566bcd59dfd4e6af6e49db12180789"
+	"logo_small" "d27cbd7391566bcd59dfd4e6af6e49db12180789_thumb"
+	"clienticon" "b0a68a35e3f0f96819fe93aadc1cf421e40ac64c"
+	"clienttga" "f9d4937ceedb02204ef505a83fbc9b4938d02576"
+	"icon" "67a32c9bdd0738df619162c70bdebfe8a735abec"
+	"releasestate" "released"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "931180_eula_0"
+			"name" "Conan Exiles - Public Beta Client EULA"
+			"url" "https://store.steampowered.com//eula/931180_eula_0"
+			"version" "1"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "89.21753554971023"
+			"height_pct" "58.034985179177504"
+		}
+	}
+	"store_asset_mtime" "1678891250"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Funcom"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funcom"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "931180"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1695"
+		"2" "1643"
+		"3" "1702"
+		"4" "3859"
+		"5" "3810"
+		"6" "122"
+		"7" "128"
+		"8" "19"
+		"9" "21"
+		"10" "3843"
+		"11" "3834"
+		"12" "1685"
+		"13" "4182"
+		"14" "1684"
+		"15" "1775"
+		"16" "599"
+		"17" "9"
+	}
+}
+"extended"
+{
+	"developer" "Funcom"
+	"publisher" "Funcom"
+	"homepage" "https://www.conanexiles.com/"
+}
+"config"
+{
+	"installdir" "Conan Exiles - Public Beta Client"
+	"launch"
+	{
+		"3"
+		{
+			"executable" "Launcher\\FuncomLauncher.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"931181"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8561461447442904614"
+				"size" "110257178647"
+				"download" "68294389424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_backup1"
+			{
+				"gid" "43E09B15DEE9EE2420892FA093AFE0D0"
+				"size" "58AA3086FDEC187BC2D8FB955AA36653"
+				"download" "97D1E5C227E9437090FD9CA8DBED248D"
+			}
+			"beta_backup2"
+			{
+				"gid" "A006FFC0D52599CA7E0EACCC38A680A3"
+				"size" "7DDE363BCAD1741BDB91700C538F0A1D"
+				"download" "693EBB6AFE294858D58347C0F205940D"
+			}
+			"candidate4testlive"
+			{
+				"gid" "F9D15306C636F4A621275174BB7D2D55"
+				"size" "58046B702B86FCBD037AE1683F315B3E"
+				"download" "35444B42D340D28D56E1405FF55C4F02"
+			}
+			"coc_staging"
+			{
+				"gid" "2E27C641BFBAA62719F8D65281124CE1"
+				"size" "C1876F6DE1D542A0CFDA15FEE33E873E"
+				"download" "F224CA4D53974FBACB4C8F803C820E97"
+			}
+			"cocplaytest"
+			{
+				"gid" "11695B29DC1125AD30C2B2ACF3C9A1CF"
+				"size" "64FE0B662F0D57AB278746780C06F22E"
+				"download" "61EFA4CECD99AABED353E9181A121CAD"
+			}
+			"launcher"
+			{
+				"gid" "2C8426A1C2C0D945A90D7BB430606DB2"
+				"size" "2511D8E0ADF12C05E377A4120A71F1D8"
+				"download" "E7D67E3C14808C4F63F07005CD234D49"
+			}
+			"rc-beta"
+			{
+				"gid" "1DE5978F905A1D475843E85EE43DAF5A"
+				"size" "E6B8066E9A0957DBE9FA270873DBCF12"
+				"download" "C79A594A8CDC92190CF5D8F40FCBD0D2"
+			}
+		}
+	}
+	"931182"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3287710049690541970"
+				"size" "120049050"
+				"download" "40238112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_backup1"
+			{
+				"gid" "B5C48481AC9EFD71280A7CB2A64D1568"
+				"size" "978166C03B2345355BCFF0C73572D774"
+				"download" "4F594A9B93EDA15281280DADE4E88E49"
+			}
+			"beta_backup2"
+			{
+				"gid" "E6A1FFF4045CB2BCE78D6BA0D9217F82"
+				"size" "BF8C795F797D75E848BD9AA7BD6F5485"
+				"download" "3A6121C9A0E590320CEA60DC3FDAAD5B"
+			}
+			"candidate4testlive"
+			{
+				"gid" "A5248E565398B14E9C9BDFEC5DFBE795"
+				"size" "A17EAB32B8797B838347B5327FA2F85C"
+				"download" "29DAC9C066B79313D13257C9171C9E33"
+			}
+			"coc_staging"
+			{
+				"gid" "E91AEBBD10ED34C9AC09FD36141B9021"
+				"size" "5AE8E245B1EFE253DC150DFFBBE8F536"
+				"download" "791730610A2AB1FEB9C6751E56B9A104"
+			}
+			"cocplaytest"
+			{
+				"gid" "D49C29C91242E75CFECF6744AD46B529"
+				"size" "FE850C9D8571DE506D4495192FA473E2"
+				"download" "D23D214778D1C18D9BAE3EC825DEE243"
+			}
+			"launcher"
+			{
+				"gid" "83113710BA756CF42D85CAFF502F790A"
+				"size" "B233044FA926FCA00F66AE89EE7455E1"
+				"download" "545200D8EEEFB0C8D27B65C4E544A4F5"
+			}
+			"rc-beta"
+			{
+				"gid" "1EC79B0654EDCD32D53B5215F7DD6EE5"
+				"size" "DEA0DBA2DD24FBB7795203D5E697CE6E"
+				"download" "E297C257D27D20A05BBDD774A7324A3B"
+			}
+		}
+	}
+	"931183"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3043056097065241510"
+				"size" "221465309"
+				"download" "92987040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_backup1"
+			{
+				"gid" "6F7757953D0BC3E5140BFB5C2631DBF4"
+				"size" "ECC7A35A5431C63E69F29815BFE2B09B"
+				"download" "62DA85D6B81D08226E0547063AC3EE8E"
+			}
+			"beta_backup2"
+			{
+				"gid" "512569224D8EB3ED4CDE8BEBC4B43986"
+				"size" "DC42DB0803695545EA33D261E64618C4"
+				"download" "493FD8CD8E002580B89FCC3E7B2BDE8D"
+			}
+			"candidate4testlive"
+			{
+				"gid" "7F34440F0BBAD0551CDA58E24A8A7B3B"
+				"size" "D5FC7D25265BDAB2707C295CC4DFE5EA"
+				"download" "886DBFA97E83BACE1C0EC1AFE54A5576"
+			}
+			"coc_staging"
+			{
+				"gid" "D76580F2D791FC88882C9F786F0B3AEC"
+				"size" "16D03358613A0601F786900DA342B189"
+				"download" "47DE397D32DE75FEC83E5E37970E93CA"
+			}
+			"cocplaytest"
+			{
+				"gid" "F527AB013ECD49493414899DC5A43615"
+				"size" "B3EEDFE2B63CACB512811D4E916DA41E"
+				"download" "C69BAC285C29130934BD04C90A74A41F"
+			}
+			"launcher"
+			{
+				"gid" "CF9402D90B993CFF8889436FAADA021A"
+				"size" "0B5E13DABC713BEB13993EDA408A2B65"
+				"download" "22D01BD6F74E60E02654A5B2099F7428"
+			}
+			"rc-beta"
+			{
+				"gid" "EA57C213143D615A26DCE9B2F0383AAC"
+				"size" "4A94E91AF5B7CF6C09E904B14AE57EF9"
+				"download" "2154B67B02D838F692C7B16B4DA74433"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"workshopdepot" "931180"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13646379"
+			"timeupdated" "1709816316"
+		}
+		"beta_backup1"
+		{
+			"buildid" "13380997"
+			"pwdrequired" "1"
+			"timeupdated" "1709814832"
+		}
+		"beta_backup2"
+		{
+			"buildid" "12720569"
+			"pwdrequired" "1"
+			"timeupdated" "1709814809"
+		}
+		"candidate4testlive"
+		{
+			"buildid" "10538622"
+			"pwdrequired" "1"
+			"timeupdated" "1702994743"
+		}
+		"coc_staging"
+		{
+			"buildid" "13562302"
+			"pwdrequired" "1"
+			"timeupdated" "1708936682"
+		}
+		"cocplaytest"
+		{
+			"buildid" "13562302"
+			"pwdrequired" "1"
+			"timeupdated" "1709038744"
+		}
+		"launcher"
+		{
+			"buildid" "13821761"
+			"pwdrequired" "1"
+			"timeupdated" "1711106809"
+		}
+		"rc-beta"
+		{
+			"buildid" "13855210"
+			"pwdrequired" "1"
+			"timeupdated" "1711447889"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+}
+"_missing_token" "False"
+"_change_number" "22911484"
+"_sha" "7a9e724703aa000c953c303f2c772506597d5f64"
+"_size" "8877"
