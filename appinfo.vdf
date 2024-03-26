@@ -16,6 +16,12 @@
 	{
 		"schinese" "纵横命途"
 	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -70,17 +76,19 @@
 	{
 		"english" "capsule_231x87.jpg"
 		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
 		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,zh-cn"
+		"library_capsule" "zh-cn,zh-tw,en"
 		"library_hero" "en"
-		"library_logo" "en"
+		"library_header" "en,zh-cn,zh-tw"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -88,7 +96,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1705930548"
+	"store_asset_mtime" "1711467010"
 	"associations"
 	{
 		"0"
@@ -119,6 +127,8 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -140,6 +150,7 @@
 		}
 	}
 	"steam_release_date" "1701270134"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1619520"
 	"store_tags"
@@ -166,7 +177,7 @@
 		"19" "1742"
 	}
 	"review_score" "5"
-	"review_percentage" "67"
+	"review_percentage" "68"
 }
 "extended"
 {
@@ -201,18 +212,24 @@
 		{
 			"public"
 			{
-				"gid" "6184566043315513263"
-				"size" "521744720"
-				"download" "392264208"
+				"gid" "3077941085402026553"
+				"size" "525088086"
+				"download" "394300480"
+			}
+			"crossblitz_beta"
+			{
+				"gid" "4138593600730926324"
+				"size" "525087578"
+				"download" "394306112"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"backup"
 			{
-				"gid" "63BBCABB38560593FB1BE132F6272A5B"
-				"size" "F9DF1C90557C4BEAA20E7ED0023FFF77"
-				"download" "D78FE4A42A427407CEEFD01873714361"
+				"gid" "D31348D97FB68C560897862346682A58"
+				"size" "5E8653FB954877B2857DD6B0145DB39E"
+				"download" "9F0502FB91EECB5634D4BA260F71F56B"
 			}
 			"compat"
 			{
@@ -220,17 +237,11 @@
 				"size" "9228F7A2DF79BBD4FF49C402EDD5845E"
 				"download" "EB56EFD515094264A8B80C70F5D7E482"
 			}
-			"demo"
-			{
-				"gid" "8DDF4BF64ECCEE0881AF8ECD566DC626"
-				"size" "4FC8AF9E5B54E6BB091CE92DEDB57C4D"
-				"download" "EDEA7FF63074CFF9EAE6E6CA33516D5C"
-			}
 			"developer"
 			{
-				"gid" "96A8CAF0FC662EF345F70B5042260026"
-				"size" "3F9C194C38C193F7F084AB65BBD7B3EF"
-				"download" "8D1898EAFEF0A3FD0AC918F48BFB5432"
+				"gid" "1922FBC58A40AFB97B1F4A3E2D835E02"
+				"size" "10882104ABBD68FE23D5181F952AA3A4"
+				"download" "10DEC0C37427F7E36133F94C20B7A160"
 			}
 			"external"
 			{
@@ -240,21 +251,21 @@
 			}
 			"gamera"
 			{
-				"gid" "CAA8386C735D7895ABC9EF27C8E37BE8"
-				"size" "E192F78641952B1B61E33D3A4FA37662"
-				"download" "37E8A51F5A8E0FB30F8F092F78F688F7"
+				"gid" "734B78FCA3B8EE7C1B39CBEC5CF53D41"
+				"size" "5DA07F29FB4FF7C225AB1781CC9CDA28"
+				"download" "F8D5CD9C3492B18C095FC31067DC56BD"
 			}
-			"networking"
+			"press_influencers"
 			{
-				"gid" "56FBA97039772A43F0CE7469CDD624FC"
-				"size" "6F1389C56942EB8F574DCAFB1E2DEF71"
-				"download" "6896C55809B7EBB9D99C4E9C13FB0B64"
+				"gid" "D983E02689D1A2CC91B9938F438717BA"
+				"size" "FDABE45FBEDA5518443D643D03A28AED"
+				"download" "E4E849E491B08F55F30CEB51EFCCC756"
 			}
 			"qaintern"
 			{
-				"gid" "C12D0D1C0385FD5BE63096417415E6EB"
-				"size" "7A27CF73C2F48885163FE3B5CF2FD26A"
-				"download" "3D4373E5C227F61BCF7F3B6B3ACC1A8A"
+				"gid" "C08F7A83CF5DEF3D12E838B04FF9EADE"
+				"size" "036ACE27DA57A4A5B8037A7C78CE37B5"
+				"download" "A715A043EA518C3F1482DD63ED6F3568"
 			}
 		}
 	}
@@ -262,14 +273,14 @@
 	{
 		"public"
 		{
-			"buildid" "13408758"
-			"timeupdated" "1707431235"
+			"buildid" "13841155"
+			"timeupdated" "1711461586"
 		}
 		"backup"
 		{
-			"buildid" "13372741"
+			"buildid" "13722010"
 			"pwdrequired" "1"
-			"timeupdated" "1707399079"
+			"timeupdated" "1711115286"
 		}
 		"compat"
 		{
@@ -277,17 +288,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1703061435"
 		}
-		"demo"
+		"crossblitz_beta"
 		{
-			"buildid" "11300886"
-			"pwdrequired" "1"
-			"timeupdated" "1684876136"
+			"buildid" "13840711"
+			"description" "Beta branch of Cross Blitz, open to the public"
+			"timeupdated" "1711461555"
 		}
 		"developer"
 		{
-			"buildid" "12809879"
+			"buildid" "13717911"
 			"pwdrequired" "1"
-			"timeupdated" "1701263801"
+			"timeupdated" "1710268110"
 		}
 		"external"
 		{
@@ -297,21 +308,21 @@
 		}
 		"gamera"
 		{
-			"buildid" "13343854"
+			"buildid" "13841155"
 			"pwdrequired" "1"
-			"timeupdated" "1706882278"
+			"timeupdated" "1711366081"
 		}
-		"networking"
+		"press_influencers"
 		{
-			"buildid" "10972480"
+			"buildid" "13743240"
 			"pwdrequired" "1"
-			"timeupdated" "1681172592"
+			"timeupdated" "1710769944"
 		}
 		"qaintern"
 		{
-			"buildid" "13408758"
+			"buildid" "13840711"
 			"pwdrequired" "1"
-			"timeupdated" "1707431160"
+			"timeupdated" "1711380888"
 		}
 	}
 }
@@ -349,6 +360,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22268582"
-"_sha" "3fe4442c8ca30af5f1e07a8fa5d52528542671a7"
-"_size" "6683"
+"_change_number" "22915877"
+"_sha" "bd92b712780492a0e443937d50f32455be817ff7"
+"_size" "6962"
