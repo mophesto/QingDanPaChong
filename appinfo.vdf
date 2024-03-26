@@ -87,6 +87,7 @@
 		}
 	}
 	"metacritic_name" "RaceRoom Racing Experience"
+	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
 	{
@@ -144,6 +145,11 @@
 		"category_35" "1"
 		"category_49" "1"
 		"category_36" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
 		"category_53" "1"
 	}
 	"supported_languages"
@@ -193,8 +199,8 @@
 		"15" "3839"
 		"16" "128"
 		"17" "5055"
-		"18" "1663"
-		"19" "1685"
+		"18" "1685"
+		"19" "1663"
 	}
 	"review_score" "6"
 	"review_percentage" "74"
@@ -297,9 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "1025389932146842516"
-				"size" "63950604857"
-				"download" "56735309344"
+				"gid" "8839681807532282630"
+				"size" "64129722090"
+				"download" "57067095712"
 			}
 		}
 		"encryptedmanifests"
@@ -318,51 +324,51 @@
 			}
 			"kws-internal-ser"
 			{
-				"gid" "3C783CCF672F288CF488F90FF594CF84"
-				"size" "84746119D88437EBA8052E3AE82048A1"
-				"download" "A089D647DBB07C3DA850C35C1EE22E81"
+				"gid" "B994871914A18CE6680CE47AC217DB46"
+				"size" "F275B3E2778176E023C91362765A9A97"
+				"download" "18277D85D4BC2A26076506788B6D039B"
 			}
 			"kws-internal-sim"
 			{
-				"gid" "BB38D5C1D19D2CDF7CD948523643F048"
-				"size" "A3EFABBB13214BC132C3EBF32C252BA5"
-				"download" "BE345176F3E2008C372E69D29533BABC"
+				"gid" "137834396298E4E995D98007B08B352B"
+				"size" "B0AC617334984DBBD3C78433BE5E0740"
+				"download" "E75EF9B2E2972C37B88641A810FBA7C2"
 			}
 			"kws-preview-ser"
 			{
-				"gid" "DEACF469EBE9758EB53923D90F69F39E"
-				"size" "6C0D84E102738288E2DF310C5B7431EE"
-				"download" "9C013C4CA3928AC289E808975C4F01B1"
+				"gid" "CB4456419731923F4051D92E70932D78"
+				"size" "56F6BBDF3C81FD19708923352E6000A9"
+				"download" "64A809D0DB06A2B04EE49E8D3F21829E"
 			}
 			"kws-preview-sim"
 			{
-				"gid" "F85E5B48CF06D2D1D8D40F5C7A9AA9AA"
-				"size" "3665BA6ED182EF64A51F30546EEB8C4F"
-				"download" "C901432F125EE2B7F98A15EA0146F0C7"
+				"gid" "BFD378C34425CF94603EA804A6773FAB"
+				"size" "74F6DC75B6E95732C619BAD88BC74EEF"
+				"download" "35548C0F214760B8DB29D50A4AEC6BC1"
 			}
 			"livepreview"
 			{
-				"gid" "681D6EA8B2A82B3F9666422FCF848184"
-				"size" "221CFC98D28BAD81C9A95FD8F4A59E7A"
-				"download" "E9E0A7E32ADFD88C48DB2A8051BAF8F9"
+				"gid" "D9C35F020C91E84E69F139A7CB00E804"
+				"size" "8B2FE26E1952580B8040AACD24B9FE2B"
+				"download" "1F2DA757483C96C30039B3133C2CCA8B"
 			}
 			"p.i.2024"
 			{
-				"gid" "3D7D5E6643E5160A0AD6F9E41317C5F7"
-				"size" "78326E9A96DFA6501B44751C2D68CE82"
-				"download" "90F1C7777A067F5EBDF3ADB8B45C3266"
+				"gid" "37900CA7D8F836602195C1B938155E0B"
+				"size" "18230C36E06AF7502C2C5724987E4E57"
+				"download" "9A5BF63425C8F201A3EC1FD9A38DD31D"
 			}
 			"preview"
 			{
-				"gid" "3695463A14717B199CA025D3B40CA006"
-				"size" "37BDE5351933D15B98FBE3CB82A3004A"
-				"download" "5CB9549D6483FA77C53234E4F5AD036C"
+				"gid" "59F313661291EE580652ADF701A99B0A"
+				"size" "135EC72675EBFD751C9A34E6071A9153"
+				"download" "E72057D94E09FD01CF1D4FC87C178B0D"
 			}
 			"staging"
 			{
-				"gid" "5635AD83484A8D22188129FE4505F681"
-				"size" "394D556AD9F64A9D38FD27195ED13CA4"
-				"download" "BB5E5D9B526D8A062B69772019F98CB0"
+				"gid" "A3970E8A1AF3B250123339EF54AFA625"
+				"size" "E17F8EE95F3110CE4E13DD0E36177C04"
+				"download" "969CFD294EE56A67A5DA1CBCC1E3AC7E"
 			}
 		}
 	}
@@ -371,8 +377,8 @@
 	{
 		"public"
 		{
-			"buildid" "13655374"
-			"timeupdated" "1709721087"
+			"buildid" "13835720"
+			"timeupdated" "1711359279"
 		}
 		"kws-external-ser"
 		{
@@ -388,51 +394,51 @@
 		}
 		"kws-internal-ser"
 		{
-			"buildid" "13585411"
+			"buildid" "13771177"
 			"pwdrequired" "1"
-			"timeupdated" "1709107192"
+			"timeupdated" "1710756189"
 		}
 		"kws-internal-sim"
 		{
-			"buildid" "13588126"
+			"buildid" "13771829"
 			"pwdrequired" "1"
-			"timeupdated" "1709287514"
+			"timeupdated" "1710756170"
 		}
 		"kws-preview-ser"
 		{
-			"buildid" "11782688"
+			"buildid" "13710936"
 			"pwdrequired" "1"
-			"timeupdated" "1709287473"
+			"timeupdated" "1710230375"
 		}
 		"kws-preview-sim"
 		{
-			"buildid" "11781219"
+			"buildid" "13711153"
 			"pwdrequired" "1"
-			"timeupdated" "1709287491"
+			"timeupdated" "1710234468"
 		}
 		"livepreview"
 		{
-			"buildid" "13655374"
+			"buildid" "13835720"
 			"pwdrequired" "1"
-			"timeupdated" "1709720112"
+			"timeupdated" "1711270662"
 		}
 		"p.i.2024"
 		{
-			"buildid" "12979008"
+			"buildid" "13819804"
 			"pwdrequired" "1"
-			"timeupdated" "1702713912"
+			"timeupdated" "1711097867"
 		}
 		"preview"
 		{
-			"buildid" "13183147"
+			"buildid" "13835720"
 			"pwdrequired" "1"
-			"timeupdated" "1705911063"
+			"timeupdated" "1711359381"
 		}
 		"staging"
 		{
-			"buildid" "13655374"
+			"buildid" "13835720"
 			"pwdrequired" "1"
-			"timeupdated" "1709718796"
+			"timeupdated" "1711270373"
 		}
 	}
 }
@@ -442,6 +448,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "22653517"
-"_sha" "91cb580b3edaf34f8bc2ec995ef5831c3b2ae40d"
-"_size" "8735"
+"_change_number" "22895964"
+"_sha" "ac5864bf48060329bf45c9012e65da4a2e496ea6"
+"_size" "8874"
