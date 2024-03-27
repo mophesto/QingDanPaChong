@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "1699617756809139040"
-				"size" "27768197199"
-				"download" "24887654880"
+				"gid" "3066870969032248219"
+				"size" "27951784504"
+				"download" "25013469920"
 			}
 		}
 		"encryptedmanifests"
@@ -1235,6 +1235,12 @@
 		"dlcappid" "2449171"
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "4274761634327527371"
+				"size" "144"
+				"download" "288"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1271,7 +1277,7 @@
 		{
 			"public"
 			{
-				"gid" "2861165616458946141"
+				"gid" "2372859754295510374"
 				"size" "336"
 				"download" "672"
 			}
@@ -1417,7 +1423,7 @@
 		{
 			"public"
 			{
-				"gid" "5048982034437906563"
+				"gid" "2820906211075097558"
 				"size" "106520272"
 				"download" "107978304"
 			}
@@ -1563,6 +1569,12 @@
 		"dlcappid" "2617330"
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "2413082009446378633"
+				"size" "48"
+				"download" "96"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1602,8 +1614,8 @@
 	{
 		"public"
 		{
-			"buildid" "13235412"
-			"timeupdated" "1707271237"
+			"buildid" "13377449"
+			"timeupdated" "1711504841"
 		}
 		"compat"
 		{
@@ -1764,6 +1776,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22369660"
-"_sha" "b28b5caa1296e6f51d7ca94c7c1e439b25a2430c"
-"_size" "43784"
+"_change_number" "22922988"
+"_sha" "7d9cbadd0f970a7aaff037bb504d482b71834e5b"
+"_size" "43984"
