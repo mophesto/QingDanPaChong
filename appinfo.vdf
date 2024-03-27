@@ -129,6 +129,7 @@
 		"category_18" "1"
 		"category_22" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -292,9 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "4724404028641371960"
-				"size" "9479526571"
-				"download" "9201503856"
+				"gid" "4677057679280728670"
+				"size" "9479457963"
+				"download" "9201651712"
 			}
 		}
 		"encryptedmanifests"
@@ -307,9 +308,9 @@
 			}
 			"internal_testing"
 			{
-				"gid" "14432B5DF1A07B74E811450EDF3C32FE"
-				"size" "E7F8ADDB1B72638C75F4E7243998782C"
-				"download" "F116208DDA6599E3E979E82C8C0E559C"
+				"gid" "29411E5A0A7E180A48E908034995B27E"
+				"size" "98276C335B1260FB6197A24E8763F20F"
+				"download" "FC805083A294DB0DFF3D975FA1F3D94C"
 			}
 			"internal_testing_2"
 			{
@@ -335,8 +336,8 @@
 	{
 		"public"
 		{
-			"buildid" "13601381"
-			"timeupdated" "1711057854"
+			"buildid" "13858196"
+			"timeupdated" "1711473021"
 		}
 		"industria_rtx"
 		{
@@ -346,9 +347,9 @@
 		}
 		"internal_testing"
 		{
-			"buildid" "13601381"
+			"buildid" "13858196"
 			"pwdrequired" "1"
-			"timeupdated" "1709212074"
+			"timeupdated" "1711463347"
 		}
 		"internal_testing_2"
 		{
@@ -389,6 +390,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22860792"
-"_sha" "6bca8ed24516d4a8fa3c075b93afd62eb8ee4fd1"
-"_size" "7192"
+"_change_number" "22917429"
+"_sha" "d2ab06595be3c0ffab25fb9811e1d6aeaf905082"
+"_size" "7214"
