@@ -288,7 +288,7 @@
 	"developer" "Playground Games"
 	"publisher" "Xbox Game Studios"
 	"homepage" "http://www.forzamotorsport.net"
-	"listofdlc" "1613280,1613281,1613282,1613283,1613284,1613285,1648020,1764060,1764061,1764062,1764063,1798680,1812150,1812151,1812152,1812153,1824140,1824141,1824142,1824143,1846790,1846791,1846792,1852790,1890180,1890181,1890182,1890183,1919260,1919261,1919262,1919263,1949470,1949471,1949472,1949473,1949474,1949475,1949476,1949477,2013600,2013620,2013621,2111240,2440490,2507010,2614920,2638820,2676380,2738880,2814020"
+	"listofdlc" "1613280,1613281,1613282,1613283,1613284,1613285,1648020,1764060,1764061,1764062,1764063,1798680,1812150,1812151,1812152,1812153,1824140,1824141,1824142,1824143,1846790,1846791,1846792,1852790,1890180,1890181,1890182,1890183,1919260,1919261,1919262,1919263,1949470,1949471,1949472,1949473,1949474,1949475,1949476,1949477,2013600,2013620,2013621,2111240,2440490,2507010,2614920,2638820,2676380,2738880,2814020,2868420"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -385,9 +385,9 @@
 		{
 			"public"
 			{
-				"gid" "3756148971092558982"
-				"size" "152327819974"
-				"download" "141787679904"
+				"gid" "2235952483878261507"
+				"size" "152756725103"
+				"download" "142235551616"
 			}
 		}
 		"encryptedmanifests"
@@ -400,39 +400,39 @@
 			}
 			"hotfixcert"
 			{
-				"gid" "AADC629585FBF7B13F62A2FCD10D65FE"
-				"size" "4DBF73F780795F3588BBBF87208BD064"
-				"download" "6B1A400A9A4C6A644FF447E355B5CA43"
+				"gid" "A3892C129E61A01B96E888D39E44A298"
+				"size" "EDE3FFF36D422E3982C9AF4FE42F66F8"
+				"download" "BED5A6377B116229EFC3AB3CC35D3391"
 			}
 			"hotfixinstall"
 			{
-				"gid" "79F9FF9189CE691534FA81635DC8A0AD"
-				"size" "F132231877498E70E1EA1F50F50AD7FD"
-				"download" "75B19298804D895C35EE85B2F5F1B365"
+				"gid" "2C586932D35469551049C2A0A6514D91"
+				"size" "F91BF5F206C76394D36E7C05A7B41289"
+				"download" "D376CD8A27105188A350CB61A5F6E05C"
 			}
 			"mainlinecert"
 			{
-				"gid" "0114DA97252DB044FB85FFC7C5E550BD"
-				"size" "834B4534B3AF670F57135CFC9C539B52"
-				"download" "8286D9C2B753030265F722E9625586C4"
+				"gid" "02260DFC2AFD4977A6F252213763348D"
+				"size" "1CBE06FA75AFA62CBA67BFDB9F06522A"
+				"download" "A0A4472B9C6971121664C689FEC537F3"
 			}
 			"mainlineinstall"
 			{
-				"gid" "A4F2CC1FD7AE162B9C493A15F17D699B"
-				"size" "FBCBC5510A795A2209C59FD85D13D8A4"
-				"download" "E04930DC26267C5909B6A0275D59DBDA"
+				"gid" "FC992E8BEA536960E734DF182B06CD9B"
+				"size" "33BD326ACA6E5AAF6775724E021B2D63"
+				"download" "5A25C4037535B1E84A86B453DA0A7321"
 			}
 			"rccert"
 			{
-				"gid" "8C50FB209DCECB505F0A44F1F15691E2"
-				"size" "1472E06CECE77344C9FAFC54B546B25E"
-				"download" "0CBECD843843F9E5781F8F1A67B9806D"
+				"gid" "271A5C23CA70482F73DD32B34A5B62A5"
+				"size" "6F867EBAD518B9EB27785B930B2CC5B7"
+				"download" "9E6BE10493BA8D554DDA6037BD7D6563"
 			}
 			"rcinstall"
 			{
-				"gid" "D1D27F8FCD83069991C590E77CFB1A8D"
-				"size" "BBDB72F6B5E38E3202A5EB67492C429D"
-				"download" "C9A79977B79BE7C494B37BFCD92159FB"
+				"gid" "0B13D32D4971F431667E930AF5356DC4"
+				"size" "17DAD7B9BE885B86786C5917E403FA62"
+				"download" "3B77C70CD77737381C42DB380EA3DB96"
 			}
 			"releasecert"
 			{
@@ -442,9 +442,9 @@
 			}
 			"retailvalidation"
 			{
-				"gid" "CF10547545C3316096FA094A78840D58"
-				"size" "66BA85FADB5F8655C8F078E50D0796EA"
-				"download" "0E7BE60553188BE1A39C2D650EF16DBD"
+				"gid" "5FB56253AA0BA92DE1F0F892205E6383"
+				"size" "D64D45FC56971ECA16BBD2F9B945F4AD"
+				"download" "426A371129DEE95CE6710D1EA39C05A6"
 			}
 			"sideload"
 			{
@@ -539,8 +539,8 @@
 	{
 		"public"
 		{
-			"buildid" "13538700"
-			"timeupdated" "1709057143"
+			"buildid" "13814140"
+			"timeupdated" "1711472431"
 		}
 		"dlc1install"
 		{
@@ -550,39 +550,39 @@
 		}
 		"hotfixcert"
 		{
-			"buildid" "13380041"
+			"buildid" "13583366"
 			"pwdrequired" "1"
-			"timeupdated" "1707217607"
+			"timeupdated" "1709088091"
 		}
 		"hotfixinstall"
 		{
-			"buildid" "13379624"
+			"buildid" "13583214"
 			"pwdrequired" "1"
-			"timeupdated" "1707215057"
+			"timeupdated" "1709086911"
 		}
 		"mainlinecert"
 		{
-			"buildid" "13572188"
+			"buildid" "13853063"
 			"pwdrequired" "1"
-			"timeupdated" "1709013128"
+			"timeupdated" "1711431486"
 		}
 		"mainlineinstall"
 		{
-			"buildid" "13578192"
+			"buildid" "13852865"
 			"pwdrequired" "1"
-			"timeupdated" "1709051911"
+			"timeupdated" "1711429602"
 		}
 		"rccert"
 		{
-			"buildid" "13538700"
+			"buildid" "13814140"
 			"pwdrequired" "1"
-			"timeupdated" "1708657796"
+			"timeupdated" "1711047997"
 		}
 		"rcinstall"
 		{
-			"buildid" "13538144"
+			"buildid" "13813585"
 			"pwdrequired" "1"
-			"timeupdated" "1708654011"
+			"timeupdated" "1711044208"
 		}
 		"releasecert"
 		{
@@ -592,9 +592,9 @@
 		}
 		"retailvalidation"
 		{
-			"buildid" "13538700"
+			"buildid" "13814140"
 			"pwdrequired" "1"
-			"timeupdated" "1708683242"
+			"timeupdated" "1711095895"
 		}
 		"sideload"
 		{
@@ -2104,6 +2104,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22530306"
-"_sha" "55bdaae162db8689b9f2d18d1e083d4ad1309c20"
-"_size" "113961"
+"_change_number" "22917282"
+"_sha" "6ace4bfeddfb54da49ff1260bc73693057a4ad44"
+"_size" "113969"
