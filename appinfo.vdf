@@ -60,8 +60,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -263,7 +261,7 @@
 		"19" "4182"
 	}
 	"review_score" "5"
-	"review_percentage" "63"
+	"review_percentage" "64"
 }
 "extended"
 {
@@ -353,9 +351,9 @@
 		{
 			"public"
 			{
-				"gid" "7416413226703822136"
-				"size" "81633465947"
-				"download" "77405474368"
+				"gid" "4852073134158999523"
+				"size" "81392919493"
+				"download" "77254469040"
 			}
 		}
 		"encryptedmanifests"
@@ -416,9 +414,9 @@
 		{
 			"public"
 			{
-				"gid" "2680715026838482730"
-				"size" "81633465947"
-				"download" "77471087408"
+				"gid" "2788861808233218923"
+				"size" "81392919493"
+				"download" "77320083376"
 			}
 		}
 		"encryptedmanifests"
@@ -946,8 +944,8 @@
 	{
 		"public"
 		{
-			"buildid" "12514895"
-			"timeupdated" "1703116436"
+			"buildid" "13179062"
+			"timeupdated" "1711472646"
 		}
 		"argon"
 		{
@@ -1888,6 +1886,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21904276"
-"_sha" "330f410ac553a5f5c34503cb3345263cc1c33ba2"
-"_size" "50831"
+"_change_number" "22917362"
+"_sha" "2f7d5a53c4f8b04c4b9a86c701a93dc91c60ac90"
+"_size" "50768"
