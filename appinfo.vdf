@@ -177,15 +177,15 @@
 		{
 			"public"
 			{
-				"gid" "7879585805715866383"
-				"size" "613707313"
-				"download" "413152848"
+				"gid" "355653729641191673"
+				"size" "613707329"
+				"download" "413154880"
 			}
 			"beta"
 			{
-				"gid" "7879585805715866383"
-				"size" "613707313"
-				"download" "413152848"
+				"gid" "355653729641191673"
+				"size" "613707329"
+				"download" "413154880"
 			}
 		}
 		"encryptedmanifests"
@@ -202,14 +202,14 @@
 	{
 		"public"
 		{
-			"buildid" "13870886"
-			"timeupdated" "1711553841"
+			"buildid" "13876092"
+			"timeupdated" "1711580531"
 		}
 		"beta"
 		{
-			"buildid" "13870886"
+			"buildid" "13876092"
 			"description" "Beta version of Tiny Rogues: Between Heaven and Hell."
-			"timeupdated" "1711548420"
+			"timeupdated" "1711580468"
 		}
 		"pre-release"
 		{
@@ -271,6 +271,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22932070"
-"_sha" "d7690c191b6f529370e2b87698610e6b7e97fbef"
-"_size" "4857"
+"_change_number" "22937518"
+"_sha" "cce55240e1fd55d364b27b65a927918507e9adbb"
+"_size" "4855"
