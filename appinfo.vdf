@@ -23,8 +23,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -146,6 +144,7 @@
 		"category_29" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -354,9 +353,9 @@
 		{
 			"public"
 			{
-				"gid" "4754447066641475675"
-				"size" "1102233530"
-				"download" "964447040"
+				"gid" "3496998145768914925"
+				"size" "1123576230"
+				"download" "971722448"
 			}
 			"macos-compatibility"
 			{
@@ -366,9 +365,9 @@
 			}
 			"unstable"
 			{
-				"gid" "6140295787233237579"
-				"size" "1102699910"
-				"download" "964592528"
+				"gid" "4257635172986117899"
+				"size" "1118018596"
+				"download" "979188560"
 			}
 		}
 		"encryptedmanifests"
@@ -381,9 +380,9 @@
 			}
 			"experimental"
 			{
-				"gid" "69C7C91CB1172A5E994E56D18885FFB7"
-				"size" "B4C3838E6F1BA1E26CCC773466A2D339"
-				"download" "A8A319F29E4C0D0D57CD8FA84A4122B8"
+				"gid" "950AF5DA5FAAA67BDA68D99B98F11AE1"
+				"size" "367CBD93497659257A50DE32AC5AF9ED"
+				"download" "27133DEDC519A30C124F77B3D9481914"
 			}
 			"fullrelease-preview"
 			{
@@ -405,9 +404,9 @@
 			}
 			"refactor_our_souls"
 			{
-				"gid" "EEE83C0289E62C823604CCDB7DA1B7D7"
-				"size" "A29D5B7CA6358AFF7829E7E35D3A7FE2"
-				"download" "52EDA2BC9F605A6B467C5D5DD84D3871"
+				"gid" "184950C47618DB93F01870F6AE670C20"
+				"size" "B3D13CA453CF3AE1C35ABAC11265ECCB"
+				"download" "2B18E5BCA36FDA6A27E529BBBF172EC2"
 			}
 		}
 	}
@@ -422,9 +421,9 @@
 		{
 			"public"
 			{
-				"gid" "4085300547132138580"
-				"size" "1113636631"
-				"download" "966045968"
+				"gid" "8572380442515165419"
+				"size" "1145042331"
+				"download" "975062368"
 			}
 			"macos-compatibility"
 			{
@@ -434,9 +433,9 @@
 			}
 			"unstable"
 			{
-				"gid" "3124392201202136208"
-				"size" "1113937319"
-				"download" "966182752"
+				"gid" "8969197051689051893"
+				"size" "1128802301"
+				"download" "980727072"
 			}
 		}
 		"encryptedmanifests"
@@ -449,9 +448,9 @@
 			}
 			"experimental"
 			{
-				"gid" "DFD82974DA7B18AC616696DA7B83989D"
-				"size" "856F86D0461B236BA760B2A26EBEDA37"
-				"download" "285CFD0B147AE7B4319C185263CB3849"
+				"gid" "4EB0E17B3BA5D64F2668B54E3645EE5E"
+				"size" "8CCF6CC55934AEDB947AA51A1ECD609B"
+				"download" "BCAF20D5864C91D3E803D07F774B3B6E"
 			}
 			"fullrelease-preview"
 			{
@@ -473,9 +472,9 @@
 			}
 			"refactor_our_souls"
 			{
-				"gid" "5F7059F79C43FCB3B2F8889610CD404D"
-				"size" "90160A63E87AFACE55F09D72BE9EE8B3"
-				"download" "15B7226E8F8DC19ECF15CFED7A2B85F4"
+				"gid" "1274D4B5B81A0F8AAD2FE4BEDA0531E0"
+				"size" "2642FB5502204767813B5E7DAE1E577D"
+				"download" "A30106A18C9016DB3F1581BCB4EE31E3"
 			}
 		}
 	}
@@ -490,9 +489,9 @@
 		{
 			"public"
 			{
-				"gid" "6793162811618451055"
-				"size" "1085235983"
-				"download" "962648160"
+				"gid" "4144268322496889407"
+				"size" "1133594547"
+				"download" "976455696"
 			}
 			"macos-compatibility"
 			{
@@ -502,9 +501,9 @@
 			}
 			"unstable"
 			{
-				"gid" "9218300427208964728"
-				"size" "1085536165"
-				"download" "962783088"
+				"gid" "4681830667728430601"
+				"size" "1100415095"
+				"download" "977329808"
 			}
 		}
 		"encryptedmanifests"
@@ -517,9 +516,9 @@
 			}
 			"experimental"
 			{
-				"gid" "6E826D3A8C2A6374004EF428D7AB598B"
-				"size" "869D9A4F509EBFD01AD70F43A755F5FA"
-				"download" "CDA3F974634EB647A9A78184CE1E4B56"
+				"gid" "2474FB046D0F457A095BE0BF784B0A9E"
+				"size" "2B115619001B7B7AA5116FF030365563"
+				"download" "EDA3CDABADF6649712734C39AB8D67C7"
 			}
 			"fullrelease-preview"
 			{
@@ -541,9 +540,9 @@
 			}
 			"refactor_our_souls"
 			{
-				"gid" "2A27F388FCF4417D3AD987971591690C"
-				"size" "B71BF7A01F89DC005AE9EFD45A6CA6D8"
-				"download" "8699AD88A650C9EFEA0B3DC339F946E4"
+				"gid" "AAB8A2FC6A73790342ADCB6B6E845DF2"
+				"size" "1231F8B731D942A13439136939CE8DF0"
+				"download" "9DB9ED0CF1D54113DF531CC0BAEC8D5A"
 			}
 		}
 	}
@@ -619,8 +618,8 @@
 	{
 		"public"
 		{
-			"buildid" "13127249"
-			"timeupdated" "1704982594"
+			"buildid" "13868890"
+			"timeupdated" "1711641899"
 		}
 		"development"
 		{
@@ -630,9 +629,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "13349219"
+			"buildid" "13654125"
 			"pwdrequired" "1"
-			"timeupdated" "1706889221"
+			"timeupdated" "1709710946"
 		}
 		"fullrelease-preview"
 		{
@@ -660,15 +659,15 @@
 		}
 		"refactor_our_souls"
 		{
-			"buildid" "12999978"
+			"buildid" "13868890"
 			"pwdrequired" "1"
-			"timeupdated" "1702986757"
+			"timeupdated" "1711537078"
 		}
 		"unstable"
 		{
-			"buildid" "13349219"
+			"buildid" "13654125"
 			"description" "Public unstable version"
-			"timeupdated" "1706889452"
+			"timeupdated" "1709711087"
 		}
 	}
 }
@@ -718,6 +717,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22173348"
-"_sha" "8de79819aacc4bb5a9594e0e855907b2f10c5f31"
-"_size" "14649"
+"_change_number" "22948615"
+"_sha" "c1e463f415a3dc3a9c781bb27cc2682d05e3ba52"
+"_size" "14608"
