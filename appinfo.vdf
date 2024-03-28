@@ -200,15 +200,21 @@
 		{
 			"public"
 			{
-				"gid" "1653416710131222981"
-				"size" "3464423046"
-				"download" "2440393264"
+				"gid" "8324106755763509887"
+				"size" "3520516329"
+				"download" "2480061808"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "4534454870854554447"
 				"size" "3390131066"
 				"download" "2380486432"
+			}
+			"updatebeta"
+			{
+				"gid" "5177796829942504577"
+				"size" "3511195552"
+				"download" "2474132160"
 			}
 		}
 		"encryptedmanifests"
@@ -227,9 +233,9 @@
 			}
 			"dev"
 			{
-				"gid" "730B56266E69C34C51E919E2C724CE01"
-				"size" "B98A816F5CB72EFBF481952A97E66C55"
-				"download" "F9C7AAC0EC7C17315EAE02A872FD7606"
+				"gid" "3050FD8CA86993C3B4BB8E9C36A427C4"
+				"size" "2062791348D39D3FE1551DEDE7836CF0"
+				"download" "E9A703482D8F15CC3F1A31544CD02F1B"
 			}
 			"fmod"
 			{
@@ -245,15 +251,15 @@
 			}
 			"release"
 			{
-				"gid" "7504BEB5FDF7D710D00034BA055D7D8A"
-				"size" "276FA6AFEA53117460598B945EB166AB"
-				"download" "3BEC672B0D735967E7064EB778CF549E"
+				"gid" "7A8E200DF467C89ED4F687CBD9A283CF"
+				"size" "D4D101D8C8705506CF9B66CC86BE1F8A"
+				"download" "BAC979EB324DD36C13CF646FF39A66C8"
 			}
 			"staging"
 			{
-				"gid" "58ECA61A5D6BDB8E8EC7425829693CF7"
-				"size" "52690460DA54152888C277B4B89721AD"
-				"download" "A028906BACB1F19B16DCBC6E0F8E605E"
+				"gid" "FF912999AE12B4918C84ABDCBD304522"
+				"size" "DEE3AECB922760C14599F214EAEBE3CB"
+				"download" "454BD97853E231193C13978F399A171B"
 			}
 			"test_jesse"
 			{
@@ -279,15 +285,21 @@
 		{
 			"public"
 			{
-				"gid" "4820557111694210750"
-				"size" "3369814216"
-				"download" "2334841424"
+				"gid" "6603193865106273056"
+				"size" "3425907307"
+				"download" "2374530176"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "4555268090536644559"
 				"size" "3295530575"
 				"download" "2274945136"
+			}
+			"updatebeta"
+			{
+				"gid" "6037822396169676227"
+				"size" "3416583922"
+				"download" "2368587152"
 			}
 		}
 		"encryptedmanifests"
@@ -306,9 +318,9 @@
 			}
 			"dev"
 			{
-				"gid" "58E1C22D695555981D898782782C9DBC"
-				"size" "6D4880BDEFA365917456A202B2CCCCE8"
-				"download" "C8272DFAB4558C2AEC95C3885E9424CB"
+				"gid" "48B8FC83CA2AEBD3F1DA3590CA651D08"
+				"size" "5909D8191066725FAE265234F2470910"
+				"download" "8B47EB9A384E21F8AA76D3CB555225C3"
 			}
 			"fmod"
 			{
@@ -324,15 +336,15 @@
 			}
 			"release"
 			{
-				"gid" "358A21681920E01F9D729E2461CDB435"
-				"size" "02A2A049FB7A7B4AF5A139A680B514AC"
-				"download" "134E85AADFF7532C1FEAFC3AF77C4ABC"
+				"gid" "74BD5E3FF4DD8EBC54CDE5D27499AE02"
+				"size" "8F10F4353EDF86BDAF8E1474386294FD"
+				"download" "11445CE84288D3D75186F8CEB17F3967"
 			}
 			"staging"
 			{
-				"gid" "81999F4B26DCCC4C7B30E896E398C27E"
-				"size" "A90707AF8BA95FDE0FDB4BF6015E9A5A"
-				"download" "B6BF6B4F1F14C5CA65E26A647C74F153"
+				"gid" "439AC1A05E08CED66F10B8446C4961DC"
+				"size" "1AFB61ECFFF0EA18C46B45F8CAD094D6"
+				"download" "F9A817AB4CAC7994CD7EE9F0DF5EFC15"
 			}
 			"test_jesse"
 			{
@@ -358,15 +370,21 @@
 		{
 			"public"
 			{
-				"gid" "857726044293564188"
-				"size" "3288688926"
-				"download" "2313989920"
+				"gid" "5717877186947765185"
+				"size" "3344789080"
+				"download" "2353682672"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "2845679795893720385"
 				"size" "3225653113"
 				"download" "2257541728"
+			}
+			"updatebeta"
+			{
+				"gid" "8242941572661570059"
+				"size" "3335464723"
+				"download" "2347736608"
 			}
 		}
 		"encryptedmanifests"
@@ -385,9 +403,9 @@
 			}
 			"dev"
 			{
-				"gid" "6AA0C3EC88AA4D83209D2465E8450E97"
-				"size" "EE8E9AFD81B8A717135AF3E04D9D0124"
-				"download" "90934D96988897DF9E8A5C79D91EE225"
+				"gid" "EAA55BBD80E9D02589E0B0442FB7EB98"
+				"size" "46CA6B0DF354EB74280795AB1FD95BEF"
+				"download" "8B29A78FA41A7B95804CFD2FC7298E68"
 			}
 			"fmod"
 			{
@@ -403,15 +421,15 @@
 			}
 			"release"
 			{
-				"gid" "A60702D2B19977038D934B710BC50A26"
-				"size" "3F1DF1B1E04F854D0146FE950D7726AC"
-				"download" "7BD014C5C7901BFB8E83ED2D0A51EBB0"
+				"gid" "8EAD7BC267CA2B9C1F403F1329664A2A"
+				"size" "5EE48B8FF6B69AF029D8A01637A4EBC1"
+				"download" "EE0378A3DA821E2AAAE6BCB09F2A8B8E"
 			}
 			"staging"
 			{
-				"gid" "B62CF2A012217AC2811898102D7DE787"
-				"size" "6874A930E25F2F0DA4636732376E7A34"
-				"download" "F9342C9B64629BC9587D328F53F7BEE0"
+				"gid" "86988DBA80B8436C06C787B320A1A2A2"
+				"size" "2AE220C0E9E7422594AF0EF5E30FFDA9"
+				"download" "8DA7B1EFE031964C0A8227F32C01FAF9"
 			}
 			"test_jesse"
 			{
@@ -431,8 +449,8 @@
 	{
 		"public"
 		{
-			"buildid" "13580085"
-			"timeupdated" "1709071056"
+			"buildid" "13865954"
+			"timeupdated" "1711560314"
 		}
 		"archive"
 		{
@@ -454,9 +472,9 @@
 		}
 		"dev"
 		{
-			"buildid" "13575131"
+			"buildid" "13875494"
 			"pwdrequired" "1"
-			"timeupdated" "1709034562"
+			"timeupdated" "1711575619"
 		}
 		"fmod"
 		{
@@ -472,15 +490,15 @@
 		}
 		"release"
 		{
-			"buildid" "13580085"
+			"buildid" "13876921"
 			"pwdrequired" "1"
-			"timeupdated" "1709064408"
+			"timeupdated" "1711587295"
 		}
 		"staging"
 		{
-			"buildid" "12993936"
+			"buildid" "13827797"
 			"pwdrequired" "1"
-			"timeupdated" "1702938761"
+			"timeupdated" "1711144115"
 		}
 		"test_jesse"
 		{
@@ -494,9 +512,15 @@
 			"pwdrequired" "1"
 			"timeupdated" "1645225755"
 		}
+		"updatebeta"
+		{
+			"buildid" "13827797"
+			"description" "Public Beta"
+			"timeupdated" "1711146436"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22533116"
-"_sha" "c44eecc0db3e0e8f8ad8dec1df58520add8303a1"
-"_size" "10714"
+"_change_number" "22938519"
+"_sha" "27c6043ca94f71f56c82d1b6d2c5d4e4ab0d73b6"
+"_size" "11189"
