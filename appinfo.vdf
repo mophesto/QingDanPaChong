@@ -1,0 +1,541 @@
+"appid" "1996430"
+"common"
+{
+	"name" "Dicefolk"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "7a665cbb3f0269db70a8723014b602e2e88c988b"
+	"clienttga" "975f34aaf4df4334ddc53f0f60a6b348c22dc376"
+	"clienticon" "9102e726fac74e35af80cd82c30048fc1b545d05"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "神骰传说"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1708560000"
+		"tested_build_id" "13474680"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,ja,ko"
+		"library_hero" "en,zh-cn,zh-tw,ja,ko"
+		"library_logo" "en,zh-cn,zh-tw,ja,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.754959159859965"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1709379397"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LEAP Game Studios"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Tiny Ghoul"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Good Shepherd Entertainment"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Good Shepherd Entertainment"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1709042684"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1996430"
+	"store_tags"
+	{
+		"0" "1091588"
+		"1" "1716"
+		"2" "1741"
+		"3" "4325"
+		"4" "3959"
+		"5" "9"
+		"6" "916648"
+		"7" "17305"
+		"8" "4182"
+		"9" "597"
+		"10" "3871"
+		"11" "32322"
+		"12" "4726"
+		"13" "5125"
+		"14" "4195"
+		"15" "4305"
+		"16" "5350"
+		"17" "1684"
+		"18" "4236"
+		"19" "1708"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "LEAP Game Studios"
+	"publisher" "Good Shepherd Entertainment"
+}
+"config"
+{
+	"installdir" "Dicefolk"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dicefolk.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "8"
+}
+"depots"
+{
+	"1996431"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2376483882684009130"
+				"size" "394962946"
+				"download" "188069472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"compatibility_dev"
+			{
+				"gid" "638FBC689CC76393056E2D500FB36AAA"
+				"size" "B1E06C297F988108958E88D2B63E2C38"
+				"download" "899FE50B681704473E1F150E52BEC666"
+			}
+			"compatibility_release"
+			{
+				"gid" "3613AC3AE21E5B011D18C322899596FF"
+				"size" "D57AFE14987B52EFCF3559D987590CB7"
+				"download" "861234E890CE4AC1293271EAC9FE82CA"
+			}
+			"controller"
+			{
+				"gid" "84BFBB090FE7A67F28D95467C391387C"
+				"size" "BC88C0DC4013B96F189BA8B249C1C581"
+				"download" "781F641AF3EDAEC522C112C3FF89F8FD"
+			}
+			"deck_review"
+			{
+				"gid" "1FE2A60C465B57AA7F53CDD65F94799F"
+				"size" "0B46886CAB4F5FF014CB0FC13ADB55A3"
+				"download" "88C2F20E264137C022D9E51751FF6A13"
+			}
+			"demo2"
+			{
+				"gid" "2849BF283B5BF9E0C87448E08573CBD9"
+				"size" "84AD922103FBC92C452EC10C5007E4F8"
+				"download" "DC109D96EF541714063BE75383D72640"
+			}
+			"demo2_dev"
+			{
+				"gid" "5346FD8BF9B28438F0F2CD5BF6EE9BE6"
+				"size" "ED2736B974493981F6E75A3E9BC394FE"
+				"download" "61787E006DEFD2023263B1EB35ACE49F"
+			}
+			"fqa_dev"
+			{
+				"gid" "4E791E2FEE3148172B7C12BAD56AA45B"
+				"size" "065C28FABE04A8F3536C449CA2957E12"
+				"download" "9EE99E76090C60FF3705968DD8D55008"
+			}
+			"fqa_release"
+			{
+				"gid" "89CB94197A9F24866C41B87F19D7F40A"
+				"size" "8E35F0449620A07FCEAA1CC575956016"
+				"download" "04E56326E0DD05ABB0A6F17E1EA21C53"
+			}
+			"goodshepherd"
+			{
+				"gid" "2F890F9FA7D570157AC33F67BB66C6C8"
+				"size" "F01F3186C0AAE5FE0ACD1B07BFC8612F"
+				"download" "ECEDDCE3E45FCFAE5C2641C7C618DB7F"
+			}
+			"internal"
+			{
+				"gid" "092FE4618639E164D7048A2FEC016DE5"
+				"size" "5304EC295747D32BDB3788963322DA4E"
+				"download" "746451887E862AA997E84A8127E05BF5"
+			}
+			"partners"
+			{
+				"gid" "FBF90CC24F1B5247DEE913EB987AC271"
+				"size" "A888E94C069A8106276E09DBB04F21EF"
+				"download" "CAFAC38E9779752E06AA7278B67583B0"
+			}
+			"playtest"
+			{
+				"gid" "258BE99B66C1B9D0E078248FAB38B44E"
+				"size" "92BB049A3A87001F2D7DF8DA04E00BAE"
+				"download" "E48AF706689C638F024A8FB5CF23AAF2"
+			}
+			"playtest_dev"
+			{
+				"gid" "EF4055674C1585B7CC414D41862BF664"
+				"size" "BA4BD9A08D0BE51E16A582E60B35D573"
+				"download" "0971A97B7B414D58212C448FF27E1707"
+			}
+			"playtest_release"
+			{
+				"gid" "82949EA50C25BECD358F509BC55F4BE4"
+				"size" "8EE30ABFD119B79D392DF37B1FD1B9A2"
+				"download" "647DAC728E7A96B366A370EC1CDB2AA6"
+			}
+			"press_review"
+			{
+				"gid" "E0A72B81AD7037E44095AB520C41C2DA"
+				"size" "85D09FD6E9155C1EFB00D2E074404509"
+				"download" "0DCD83F57906F503DA0C838C073C3CE3"
+			}
+			"test"
+			{
+				"gid" "6BF6F17E3DB2E91390D1242293AA4518"
+				"size" "3DEC8D9343F56BA5BAD8B8954176D5BA"
+				"download" "050ACEFB1B7C208FD5CE175C53B2E6D6"
+			}
+			"trailer_capture"
+			{
+				"gid" "64D2E98595E43DC22C9D47BA11939204"
+				"size" "54583DAE9D13478E039355F2F6FDE8E5"
+				"download" "51DF7320201F4F51D1AE860F85FC361E"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13715579"
+			"timeupdated" "1710422573"
+		}
+		"compatibility_dev"
+		{
+			"buildid" "13169388"
+			"pwdrequired" "1"
+			"timeupdated" "1705247065"
+		}
+		"compatibility_release"
+		{
+			"buildid" "12960529"
+			"pwdrequired" "1"
+			"timeupdated" "1702564807"
+		}
+		"controller"
+		{
+			"buildid" "13505488"
+			"pwdrequired" "1"
+			"timeupdated" "1708418973"
+		}
+		"deck_review"
+		{
+			"buildid" "13474680"
+			"pwdrequired" "1"
+			"timeupdated" "1708079136"
+		}
+		"demo2"
+		{
+			"buildid" "11836186"
+			"pwdrequired" "1"
+			"timeupdated" "1690878466"
+		}
+		"demo2_dev"
+		{
+			"buildid" "11809414"
+			"pwdrequired" "1"
+			"timeupdated" "1690531209"
+		}
+		"fqa_dev"
+		{
+			"buildid" "13715440"
+			"pwdrequired" "1"
+			"timeupdated" "1710254184"
+		}
+		"fqa_release"
+		{
+			"buildid" "13715579"
+			"pwdrequired" "1"
+			"timeupdated" "1710254776"
+		}
+		"goodshepherd"
+		{
+			"buildid" "13505488"
+			"pwdrequired" "1"
+			"timeupdated" "1708418961"
+		}
+		"internal"
+		{
+			"buildid" "13232574"
+			"pwdrequired" "1"
+			"timeupdated" "1708611143"
+		}
+		"partners"
+		{
+			"buildid" "13505188"
+			"pwdrequired" "1"
+			"timeupdated" "1708593699"
+		}
+		"playtest"
+		{
+			"buildid" "12170222"
+			"pwdrequired" "1"
+			"timeupdated" "1694543122"
+		}
+		"playtest_dev"
+		{
+			"buildid" "12169435"
+			"pwdrequired" "1"
+			"timeupdated" "1694532929"
+		}
+		"playtest_release"
+		{
+			"buildid" "12170222"
+			"pwdrequired" "1"
+			"timeupdated" "1694533006"
+		}
+		"press_review"
+		{
+			"buildid" "13505188"
+			"pwdrequired" "1"
+			"timeupdated" "1708593659"
+		}
+		"test"
+		{
+			"buildid" "13505488"
+			"pwdrequired" "1"
+			"timeupdated" "1708418994"
+		}
+		"trailer_capture"
+		{
+			"buildid" "12960604"
+			"pwdrequired" "1"
+			"timeupdated" "1702564766"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Tiny Ghoul - Leap/Dicefolk"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Tiny Ghoul - Leap/Dicefolk"
+					"replace" "unity.Tiny-Ghoul---Leap.Dicefolk"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Tiny Ghoul - Leap/Dicefolk"
+					"replace" ".config/unity3d/Tiny Ghoul - Leap/Dicefolk"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22962538"
+"_sha" "6485b873aa7cf3cd4c96c59297092fda5397b081"
+"_size" "10827"
