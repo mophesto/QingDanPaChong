@@ -1,0 +1,401 @@
+"appid" "1287530"
+"common"
+{
+	"name" "Lords and Villeins"
+	"type" "Game"
+	"logo" "f85f77c1b5adc346ec392f1aadc9b2891af56cc5"
+	"logo_small" "f85f77c1b5adc346ec392f1aadc9b2891af56cc5_thumb"
+	"icon" "e238e071cfe40fa12b4f49e359c546071ef1e871"
+	"clienticon" "2aaa09565653344dca5988553304ee2a4919e8ae"
+	"clienttga" "1a2729a8defe926d9f3ef0630171614b1dddc688"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669075200"
+		"tested_build_id" "9113346"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "51.59561477300478"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1673963611"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Honestly Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fulqrum Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Fulqrum"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1668103119"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1287530"
+	"store_tags"
+	{
+		"0" "220585"
+		"1" "9"
+		"2" "4328"
+		"3" "12472"
+		"4" "599"
+		"5" "4172"
+		"6" "1643"
+		"7" "3871"
+		"8" "3810"
+		"9" "492"
+		"10" "1695"
+		"11" "4791"
+		"12" "4166"
+		"13" "493"
+		"14" "4695"
+		"15" "4136"
+		"16" "1702"
+		"17" "8945"
+		"18" "4182"
+		"19" "3964"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Honestly Games"
+	"publisher" "Fulqrum Publishing"
+	"homepage" "http://lordsandvilleins.com/"
+}
+"config"
+{
+	"installdir" "Lords & Villeins"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Lords and Villeins.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1287531"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3231433507671692781"
+				"size" "793582326"
+				"download" "375146784"
+			}
+			"oldversion"
+			{
+				"gid" "6831112217003954383"
+				"size" "672272350"
+				"download" "337747648"
+			}
+			"openbeta"
+			{
+				"gid" "3231433507671692781"
+				"size" "793582326"
+				"download" "375146784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"champions"
+			{
+				"gid" "A1B432FAC8473FC0CC386818987D574F"
+				"size" "C0C9F4047FB7DD0B48C07624D21E8F23"
+				"download" "974698594B93544642071D6F7465C6DA"
+			}
+			"honestlyinternal"
+			{
+				"gid" "0077FA3CE3E346956AA242555B882314"
+				"size" "5D153B42838D04D1BB373D64E46A763B"
+				"download" "2110027CAC2EFE12764DC0B82A7D9FDA"
+			}
+			"influencers"
+			{
+				"gid" "73C8FA97E03C23E452E20D0A66BF7676"
+				"size" "892F5B5BF593A2EF00AA0EFF1DF17C69"
+				"download" "731B7B82B09EFCEED84E9B53A712F6CB"
+			}
+			"internal"
+			{
+				"gid" "6AB0863E68D3D67517C4332C69247415"
+				"size" "C06B4CD24E1B1A9C724B09723A839BB9"
+				"download" "C7E3BAE2980181F5702B5537BFA0E88F"
+			}
+			"internal_old"
+			{
+				"gid" "EA5B5AC4F24A1F7311C87DA5DD13A5BA"
+				"size" "AC0B35E943702D46817180884C2AA5D1"
+				"download" "F4EA3E73D2B9CCC4D88D5DE307AF00AA"
+			}
+			"playtest"
+			{
+				"gid" "89965BF85B42CB31D827BB2D3BFFE5C8"
+				"size" "B3FD4420A8B1E39E035583FB4C8C515C"
+				"download" "77576F85ECA811BB5531628ABFFD56FF"
+			}
+			"preview"
+			{
+				"gid" "40ECB5EF0D4B27C0019E863904C764CA"
+				"size" "9CEF5DB66E3B4114B81A298E1EE40762"
+				"download" "493EAA6BAD0AEA8A59FDB28A16477C67"
+			}
+			"qabuild"
+			{
+				"gid" "AAE0772AF9279D720BB8C2F81E5954A4"
+				"size" "E7643B72842B2622258705D821F6A297"
+				"download" "349A8D16AAC0EBBAF2F58282515B0731"
+			}
+			"qabuildcheats"
+			{
+				"gid" "2DA9CE2AD4C9B1BDF1EBFA3C326C6A18"
+				"size" "6C59A22FDDCB9A858FB253D885A623D8"
+				"download" "3EC0AEE069245364DA3B21E6C1969F09"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13428099"
+			"timeupdated" "1708610562"
+		}
+		"champions"
+		{
+			"buildid" "12106110"
+			"pwdrequired" "1"
+			"timeupdated" "1693908699"
+		}
+		"honestlyinternal"
+		{
+			"buildid" "12671344"
+			"pwdrequired" "1"
+			"timeupdated" "1699621679"
+		}
+		"influencers"
+		{
+			"buildid" "8971794"
+			"pwdrequired" "1"
+			"timeupdated" "1655909863"
+		}
+		"internal"
+		{
+			"buildid" "13428099"
+			"pwdrequired" "1"
+			"timeupdated" "1707748929"
+		}
+		"internal_old"
+		{
+			"buildid" "11882412"
+			"pwdrequired" "1"
+			"timeupdated" "1691486419"
+		}
+		"oldversion"
+		{
+			"buildid" "10721044"
+			"description" "Previous version of L&V"
+			"timeupdated" "1686052060"
+		}
+		"openbeta"
+		{
+			"buildid" "13428099"
+			"description" "Open Beta branch with the upcoming updates!"
+			"timeupdated" "1707919467"
+		}
+		"playtest"
+		{
+			"buildid" "13428099"
+			"pwdrequired" "1"
+			"timeupdated" "1707680185"
+		}
+		"preview"
+		{
+			"buildid" "9638074"
+			"pwdrequired" "1"
+			"timeupdated" "1664891064"
+		}
+		"qabuild"
+		{
+			"buildid" "9780032"
+			"pwdrequired" "1"
+			"timeupdated" "1667471353"
+		}
+		"qabuildcheats"
+		{
+			"buildid" "9839015"
+			"pwdrequired" "1"
+			"timeupdated" "1667473662"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "300000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Honestly Games/Lords and Villeins/SaveData/{64BitSteamID}/"
+			"pattern" "*.sgz"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Honestly Games/Lords and Villeins/ConfigData/{64BitSteamID}/"
+			"pattern" "*.ini"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Honestly Games/Lords and Villeins/SaveData/{64BitSteamID}/"
+			"pattern" "*.png"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Honestly Games/Lords and Villeins/BuildableTemplates/{64BitSteamID}/"
+			"pattern" "*.bt"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22458288"
+"_sha" "463795113088954fc7c37842173418d7304b346b"
+"_size" "7932"
