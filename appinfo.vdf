@@ -1,0 +1,265 @@
+"appid" "2340650"
+"common"
+{
+	"name" "古龙风云录"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "63c93a215c853f4d9a954ec62d1feb1fed54b48b"
+	"clienticon" "c55eb09ef52f00b41cce810455fa7fc2bc3b308c"
+	"clienttga" "021276087729a62faa917b0cc73256b1477186fa"
+	"name_localized"
+	{
+		"tchinese" "古龍風雲錄"
+		"sc_schinese" "古龙风云录"
+	}
+	"releasestatesteamchina" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc,zh-tw"
+		"library_hero" "en"
+		"library_logo" "zh-tw,en,zh-xc"
+		"library_header" "en,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "109.35325231610713"
+			"height_pct" "96.875201022352"
+		}
+	}
+	"store_asset_mtime" "1706767638"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "香港商河洛互動娛樂股份有限公司"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "心火游戏"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1706773861"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2340650"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1742"
+		"2" "3834"
+		"3" "6915"
+		"4" "21"
+		"5" "4325"
+		"6" "1695"
+		"7" "3854"
+		"8" "4182"
+		"9" "5984"
+		"10" "9"
+		"11" "9551"
+		"12" "5613"
+		"13" "1677"
+		"14" "4085"
+		"15" "492"
+		"16" "3810"
+		"17" "12095"
+		"18" "44868"
+		"19" "1693"
+	}
+	"review_score" "5"
+	"review_percentage" "60"
+}
+"extended"
+{
+	"developer" "香港商河洛互動娛樂股份有限公司"
+	"publisher" "心火游戏"
+	"homepage" "https://weibo.com/u/7824314603"
+}
+"config"
+{
+	"installdir" "古龙风云录"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GuLong.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"2340651"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9137578971610512084"
+				"size" "29505566001"
+				"download" "14292057392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "4CE3F74DA2DFBF0773274E5352D87B98"
+				"size" "0B5A1B4670E50081CBE1EAB7B2C29D69"
+				"download" "47EB702265FCF2D4CE8E99E39CFCDA15"
+			}
+			"debug"
+			{
+				"gid" "7DFB684FC934ADCEC0BCF2654F108A09"
+				"size" "D544E4E38343C775D80477271C5E8A23"
+				"download" "2252E4B5062024E4536F760C4A3CA010"
+			}
+			"pre_default"
+			{
+				"gid" "B6B891675EF102ECC40D87D0A11C27AC"
+				"size" "7426DD699BE095F54D65055AD7819E4B"
+				"download" "3DBA9A418DB0D9C5083978BA7BAC36E2"
+			}
+			"pre_steam_china"
+			{
+				"gid" "B1C97EF2F71C7F8F0D11897171544BE5"
+				"size" "72C9B9BD4428EA883D0FCA5A9AF5DC01"
+				"download" "A3227E638B5AC663990AFDF066487758"
+			}
+			"steam_china_only"
+			{
+				"gid" "CDB2CFFE109F84413E0633561A8DC46F"
+				"size" "20EBB9D8526AE943D6202E216B489FCA"
+				"download" "0AD513DBE58A7A022EDC48A47A78E03E"
+			}
+			"test"
+			{
+				"gid" "E582D8E5296B87A7258AF07D3CAF5137"
+				"size" "D5BB8680170AF3428ADA09DFD263B88F"
+				"download" "D9FA8952FA8BA691CA9E665563B66818"
+			}
+		}
+	}
+	"branches"
+	{
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+			"buildid" "13879556"
+			"pwdrequired" "1"
+			"timeupdated" "1711677629"
+		}
+		"public"
+		{
+			"buildid" "13868421"
+			"timeupdated" "1711677482"
+		}
+		"alpha"
+		{
+			"buildid" "13853325"
+			"pwdrequired" "1"
+			"timeupdated" "1711434479"
+		}
+		"debug"
+		{
+			"buildid" "13355628"
+			"pwdrequired" "1"
+			"timeupdated" "1706951720"
+		}
+		"pre_default"
+		{
+			"buildid" "13868421"
+			"pwdrequired" "1"
+			"timeupdated" "1711534251"
+		}
+		"pre_steam_china"
+		{
+			"buildid" "13879556"
+			"pwdrequired" "1"
+			"timeupdated" "1711612449"
+		}
+		"test"
+		{
+			"buildid" "13391007"
+			"pwdrequired" "1"
+			"timeupdated" "1707301581"
+		}
+	}
+	"baselanguages" "english"
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SaveData"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22955704"
+"_sha" "04fe0d636d4e86e7b7e1c91fbbe1c65d9d1453d6"
+"_size" "4924"
