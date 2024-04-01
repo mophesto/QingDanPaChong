@@ -110,6 +110,7 @@
 		"category_29" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -296,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "459665680813548276"
-				"size" "12332277067"
-				"download" "6165785120"
+				"gid" "5962268813919641662"
+				"size" "12317638705"
+				"download" "6159237328"
 			}
 			"1.0.55"
 			{
@@ -308,9 +309,9 @@
 			}
 			"experimental"
 			{
-				"gid" "459665680813548276"
-				"size" "12332277067"
-				"download" "6165785120"
+				"gid" "5962268813919641662"
+				"size" "12317638705"
+				"download" "6159237328"
 			}
 			"old_version_966"
 			{
@@ -330,11 +331,20 @@
 				"size" "4213909307"
 				"download" "2311249744"
 			}
+		}
+		"encryptedmanifests"
+		{
+			"photomode"
+			{
+				"gid" "2289E8FFDCCD9DC78BFA5BE72143164A"
+				"size" "F4DB1D378A13F8804FD0ABE30DA9E627"
+				"download" "4A685B7D2AAFD5D45C846F4743232E0D"
+			}
 			"test"
 			{
-				"gid" "459665680813548276"
-				"size" "12332277067"
-				"download" "6165785120"
+				"gid" "FA3FD350D498331DE128828D79CC6731"
+				"size" "AF39BC9315CFFAB356FAE67E54C88403"
+				"download" "D79EC8F504E1C905A8AA6CE23B10B94B"
 			}
 		}
 	}
@@ -372,11 +382,20 @@
 				"size" "349236479"
 				"download" "343066496"
 			}
+		}
+		"encryptedmanifests"
+		{
+			"photomode"
+			{
+				"gid" "26DCFE791CB23D6CC4BF1917831F783B"
+				"size" "0FEDBBA2F690E9149D5F9DCC27F9E761"
+				"download" "EA5D824B22F7297BB364AA8E87284F6A"
+			}
 			"test"
 			{
-				"gid" "989505602589646683"
-				"size" "859952553"
-				"download" "717488128"
+				"gid" "02508B90345A9CB95F19D27B660B60E0"
+				"size" "A726E1FFA4D35210FE0713838881DDB7"
+				"download" "8E5CD8F840D7F20EF88937065CFBE7E4"
 			}
 		}
 		"dlcappid" "468550"
@@ -386,8 +405,8 @@
 	{
 		"public"
 		{
-			"buildid" "13521789"
-			"timeupdated" "1708609652"
+			"buildid" "13871665"
+			"timeupdated" "1711990072"
 		}
 		"1.0.55"
 		{
@@ -397,9 +416,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "13521789"
+			"buildid" "13871665"
 			"description" "Very latest Kenshi updates, prone to crashes and bugs."
-			"timeupdated" "1708535453"
+			"timeupdated" "1711552510"
 		}
 		"old_version_966"
 		{
@@ -418,11 +437,17 @@
 			"description" "Old stable version 0.74, 32-bit support"
 			"timeupdated" "1462482602"
 		}
+		"photomode"
+		{
+			"buildid" "13871665"
+			"pwdrequired" "1"
+			"timeupdated" "1711552537"
+		}
 		"test"
 		{
-			"buildid" "13521789"
-			"description" "internal use only"
-			"timeupdated" "1708534476"
+			"buildid" "13716646"
+			"pwdrequired" "1"
+			"timeupdated" "1710260363"
 		}
 	}
 }
@@ -432,6 +457,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "22458069"
-"_sha" "dc09b56d9883ed61612df903cdb57a41279ce03a"
-"_size" "7884"
+"_change_number" "22987013"
+"_sha" "fa894c8b00b883696cd35a4dd1ecca3497d0c4f1"
+"_size" "8533"
