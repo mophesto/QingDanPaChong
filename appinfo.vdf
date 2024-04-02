@@ -55,7 +55,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Greenolor Studio"
+			"name" "Kaser Studio"
 		}
 		"2"
 		{
@@ -79,6 +79,7 @@
 		"category_29" "1"
 		"category_25" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -146,12 +147,12 @@
 		"18" "7782"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "73"
 }
 "extended"
 {
 	"developer" "Greenolor Studio"
-	"publisher" "Greenolor Studio"
+	"publisher" "Kaser Studio"
 	"homepage" "https://beastsbattle.com/"
 	"listofdlc" "796410"
 	"dlcavailableonstore" "1"
@@ -194,9 +195,9 @@
 		{
 			"public"
 			{
-				"gid" "5989163435622806461"
-				"size" "130069412"
-				"download" "112880208"
+				"gid" "1255628266030143408"
+				"size" "130149077"
+				"download" "112911680"
 			}
 		}
 	}
@@ -233,8 +234,8 @@
 	{
 		"public"
 		{
-			"buildid" "13172420"
-			"timeupdated" "1705297604"
+			"buildid" "13922765"
+			"timeupdated" "1712060918"
 		}
 	}
 }
@@ -271,6 +272,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21893511"
-"_sha" "ddec2b6968a6b9c5ce9ceca3e4ae52a79e21b588"
-"_size" "4480"
+"_change_number" "22997947"
+"_sha" "6f2aeb4232b84f0118337a5473ec9deb0a24deeb"
+"_size" "4494"
