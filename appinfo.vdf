@@ -92,11 +92,11 @@
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "10"
-			"height_pct" "100"
+			"width_pct" "2.339833194665374"
+			"height_pct" "43.23557237464522"
 		}
 	}
-	"store_asset_mtime" "1709633948"
+	"store_asset_mtime" "1712070699"
 	"associations"
 	{
 		"0"
@@ -308,18 +308,18 @@
 		{
 			"public"
 			{
-				"gid" "1852069693952204174"
-				"size" "27149691189"
-				"download" "11649583072"
+				"gid" "70461013865232860"
+				"size" "27607079499"
+				"download" "11808121008"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "4C846EFEE6C22A6EE7F4EF28BBFC240D"
-				"size" "E569FA0E235925120541A4612A7B0221"
-				"download" "9F5F6C1C1885481F74C405FEB082224B"
+				"gid" "9633011AAB626D4BE8C614FF237827DE"
+				"size" "7A37DC46C9084995B05D27F6B83BDC17"
+				"download" "9A6004DE9859C3C61BB257EB5A4C6E44"
 			}
 			"beta_test"
 			{
@@ -336,18 +336,18 @@
 		{
 			"public"
 			{
-				"gid" "3787020020593322950"
-				"size" "2213217568"
-				"download" "2193872256"
+				"gid" "1635996529223777563"
+				"size" "2209335758"
+				"download" "2189999088"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "2B42D87F18FC9D8E1F331CB427F305CE"
-				"size" "66558EEB9A9B7DF1DFC6AA32913CDCAA"
-				"download" "34475A30F137F7060ED9ACAA63C05DD0"
+				"gid" "BB2EDF13C7DEF2EC16EDA3D4E27D4763"
+				"size" "B6E3DD9D57DC1D32DAFDA64B0296F78B"
+				"download" "8A9EF10C706EFF085F3168ADDE2FC94D"
 			}
 			"beta_test"
 			{
@@ -364,18 +364,18 @@
 		{
 			"public"
 			{
-				"gid" "8246240577898331165"
-				"size" "4004139298"
-				"download" "3919393120"
+				"gid" "4760429906934279970"
+				"size" "4004142774"
+				"download" "3919408288"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "CF3173B3464F0AD725961D2017FA2E58"
-				"size" "9DF9830F94A83F83D43AAC1BB19B6211"
-				"download" "93CB823857082F288F118BA8EC0A6DD2"
+				"gid" "25577E837EF8C0C85F71034EA8A6B3AC"
+				"size" "A92D19865AA9E9C782C4F9C0DC5C362C"
+				"download" "E570DB6793DD1A2C4C6B9BD9EF8E3A25"
 			}
 			"beta_test"
 			{
@@ -389,14 +389,14 @@
 	{
 		"public"
 		{
-			"buildid" "13725694"
-			"timeupdated" "1710507764"
+			"buildid" "13924864"
+			"timeupdated" "1712074898"
 		}
 		"beta"
 		{
-			"buildid" "13880902"
+			"buildid" "13924864"
 			"pwdrequired" "1"
-			"timeupdated" "1711620701"
+			"timeupdated" "1712073174"
 		}
 		"beta_test"
 		{
@@ -421,6 +421,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22943747"
-"_sha" "6adf42fd7b86bee7e186a7e30d5a169df370c8b1"
-"_size" "7629"
+"_change_number" "23001033"
+"_sha" "5a1815f891b9cdfdd3ce081adc47a4df4598cd71"
+"_size" "7656"
