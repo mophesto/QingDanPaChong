@@ -359,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "6051956783431941865"
+				"gid" "8353956856340571442"
 				"size" "4739134504"
-				"download" "3659741696"
+				"download" "3659742000"
 			}
 			"e1.7.0"
 			{
@@ -491,9 +491,9 @@
 			}
 			"v1.2.9"
 			{
-				"gid" "6051956783431941865"
+				"gid" "8353956856340571442"
 				"size" "4739134504"
-				"download" "3659741696"
+				"download" "3659742000"
 			}
 		}
 		"encryptedmanifests"
@@ -524,9 +524,9 @@
 			}
 			"dev_shipping"
 			{
-				"gid" "DFF9C08AB98AE4972D1A90895A334F1D"
-				"size" "BA03EE3D7342AABCAD59562D0810E8CF"
-				"download" "FC3995E4BDB8A4BC29F7B1904EB3A246"
+				"gid" "97556206B5FB81B9C7E366939EEB75E9"
+				"size" "08796EE23BB2138885980692D607C210"
+				"download" "20D5730033A03C0299A1411033D0924D"
 			}
 			"event_demo"
 			{
@@ -536,9 +536,9 @@
 			}
 			"gfn_works"
 			{
-				"gid" "CF0C37C302F60AF5EE6AF9813FC33BD3"
-				"size" "AE4A80B06585FD15EC43FFCE4C2C942B"
-				"download" "9D5B886DAB0FAD1F5267DA1413949275"
+				"gid" "9E03B743439F02BD8A973440D63A6494"
+				"size" "D3C5563E3D9ED8810E40917B94FA26A1"
+				"download" "99DE859AFE2F5BD0C822873E2F1190FD"
 			}
 			"internal.test.a"
 			{
@@ -584,9 +584,9 @@
 			}
 			"steam.live.test"
 			{
-				"gid" "FBF0A978FCBD0E241D90A1412DA19CB5"
-				"size" "F546A4783B00FE27270DBCF67C0B75B6"
-				"download" "559006345BF6AAE9D9963A495D584B1A"
+				"gid" "5FFF13B260178AE775CE313C4D5BF2E6"
+				"size" "1C7FA82EEDE63B8DFC212347B1E273E1"
+				"download" "F7C129537155020FDCBB6115002FC870"
 			}
 			"worldmap"
 			{
@@ -608,9 +608,9 @@
 		{
 			"public"
 			{
-				"gid" "3965002534922922193"
+				"gid" "5742353185252759595"
 				"size" "47553188541"
-				"download" "34668496080"
+				"download" "34668495648"
 			}
 			"e1.7.0"
 			{
@@ -746,9 +746,9 @@
 			}
 			"v1.2.9"
 			{
-				"gid" "3965002534922922193"
+				"gid" "5742353185252759595"
 				"size" "47553188541"
-				"download" "34668496080"
+				"download" "34668495648"
 			}
 		}
 		"encryptedmanifests"
@@ -803,9 +803,9 @@
 			}
 			"dev_shipping"
 			{
-				"gid" "5C94E0811B2035286B1B99C1CE155AE5"
-				"size" "EBADB55C286D77845F7491308F487F3A"
-				"download" "A04BDA9D80B38C24A7D7E7BA965B8790"
+				"gid" "B54FA0793E9E326FA99FFB65F38450EF"
+				"size" "524249FEA9E89283D56E04D180AF7520"
+				"download" "0A790EEF295A23AE5E53F977DD921AB1"
 			}
 			"event_demo"
 			{
@@ -815,9 +815,9 @@
 			}
 			"gfn_works"
 			{
-				"gid" "EC3EEE8AD5E858E2C074FBBB4DD92DA1"
-				"size" "1074F42B11C4C2E04ACB5FC695DB3E03"
-				"download" "CB7097512FE5A2724346D4B3EF112B77"
+				"gid" "ACB73D8EB61047A8E40D8EB6DFFFACDB"
+				"size" "F319FD72AAE98010139AC303EDBC8A2C"
+				"download" "644427708C06A5E18702950CD50D264B"
 			}
 			"intel.build.test"
 			{
@@ -881,9 +881,9 @@
 			}
 			"steam.live.test"
 			{
-				"gid" "DBB145672FBE58DFD836B76F5CA76006"
-				"size" "9117C0FAD365BABAE6F0430E949D06CE"
-				"download" "8AABEF6B284D10F0500FA1CFE0B5C02B"
+				"gid" "8361B0152D4D296B5C6A570C5F35A080"
+				"size" "4BB00DDAD582AA9A437DE6C9B01CC16D"
+				"download" "FCD9CE8221359D0A83498D34DB165FF4"
 			}
 			"worldmap"
 			{
@@ -897,8 +897,8 @@
 	{
 		"public"
 		{
-			"buildid" "13666536"
-			"timeupdated" "1709901447"
+			"buildid" "13869034"
+			"timeupdated" "1712146193"
 		}
 		"age_rating_build"
 		{
@@ -950,9 +950,9 @@
 		}
 		"dev_shipping"
 		{
-			"buildid" "13675323"
+			"buildid" "13893058"
 			"pwdrequired" "1"
-			"timeupdated" "1709854853"
+			"timeupdated" "1711707104"
 		}
 		"e1.7.0"
 		{
@@ -992,9 +992,9 @@
 		}
 		"gfn_works"
 		{
-			"buildid" "13655601"
+			"buildid" "13929389"
 			"pwdrequired" "1"
-			"timeupdated" "1709720009"
+			"timeupdated" "1712104332"
 		}
 		"intel.build.test"
 		{
@@ -1077,9 +1077,9 @@
 		}
 		"steam.live.test"
 		{
-			"buildid" "13442478"
+			"buildid" "13869034"
 			"pwdrequired" "1"
-			"timeupdated" "1707823453"
+			"timeupdated" "1711538354"
 		}
 		"v1.0.0"
 		{
@@ -1167,9 +1167,9 @@
 		}
 		"v1.2.9"
 		{
-			"buildid" "13666536"
+			"buildid" "13869034"
 			"description" "v1.2.9"
-			"timeupdated" "1709901486"
+			"timeupdated" "1712146243"
 		}
 		"worldmap"
 		{
@@ -1199,6 +1199,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22686811"
-"_sha" "dabf2bac6de0f54d1bf1478a84f0fde40dd50f1f"
+"_change_number" "23013406"
+"_sha" "ab34284d7e03fc6eb74cce24b9a05a7f48055096"
 "_size" "25024"
