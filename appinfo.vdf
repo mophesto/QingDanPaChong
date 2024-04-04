@@ -249,7 +249,7 @@
 	"developer" "Brace Yourself Games"
 	"publisher" "Brace Yourself Games"
 	"homepage" "http://necrodancer.com"
-	"listofdlc" "379400,554000,2094810"
+	"listofdlc" "379400,554000,2094810,2828720"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -1272,9 +1272,9 @@
 		{
 			"public"
 			{
-				"gid" "2472114717701109944"
-				"size" "208059264"
-				"download" "91237552"
+				"gid" "5343797737210667244"
+				"size" "213045467"
+				"download" "93617760"
 			}
 			"legacy"
 			{
@@ -1293,9 +1293,9 @@
 			}
 			"coldsteel_new"
 			{
-				"gid" "FC5C16F8EC6A30FE16F46C78BF5EA2B4"
-				"size" "21B2826FF086A76756ECC16185A1F39F"
-				"download" "5459282B10EFEE71829E147D5F343639"
+				"gid" "FEA3F0CF60FCC1720BBBAD64D4C35667"
+				"size" "3842CB8ED9F449E6813F0568C68F367D"
+				"download" "E8DD2626287388CFB6A14AA02C67B5EA"
 			}
 			"experimental_client"
 			{
@@ -1334,9 +1334,9 @@
 		{
 			"public"
 			{
-				"gid" "2539222257682641525"
-				"size" "232721095"
-				"download" "103285408"
+				"gid" "3770112329548434310"
+				"size" "237086403"
+				"download" "105365408"
 			}
 			"legacy"
 			{
@@ -1355,9 +1355,9 @@
 			}
 			"coldsteel_new"
 			{
-				"gid" "AD53C5C771AE2E82B51A1D2694F8E9BF"
-				"size" "D486B68AAC3E04B2DE8DBEF86695F6FF"
-				"download" "E694846D132252C38271CC2925A8532D"
+				"gid" "6D1F96EC11BDA2925D9034250AE27805"
+				"size" "5B411FCEE8F062C2E7A4AA91FD512C67"
+				"download" "25FECBC6D9B074BFE0421A35E94F9BDC"
 			}
 			"experimental_client"
 			{
@@ -1396,9 +1396,9 @@
 		{
 			"public"
 			{
-				"gid" "4920141796723455856"
-				"size" "117009385"
-				"download" "78676848"
+				"gid" "1357342762947673328"
+				"size" "119513332"
+				"download" "81174320"
 			}
 			"legacy"
 			{
@@ -1417,9 +1417,9 @@
 			}
 			"coldsteel_new"
 			{
-				"gid" "9CBE09E365831DFF7B82447F0C223106"
-				"size" "A055285AE4E937077E8F5594027A48AB"
-				"download" "59E3391A9DD4962E3815A80AF4BD24E6"
+				"gid" "3A1C5E44DA0E765230DA3756D752907C"
+				"size" "E1E7185551B5567D70A5C1F7D8303D04"
+				"download" "A425F65572D44FDE6AC0495EBF592C01"
 			}
 			"experimental_client"
 			{
@@ -1459,9 +1459,9 @@
 		{
 			"public"
 			{
-				"gid" "3039705897431729673"
-				"size" "129086899"
-				"download" "90795680"
+				"gid" "2041207704279446959"
+				"size" "131284380"
+				"download" "92994112"
 			}
 			"legacy"
 			{
@@ -1480,9 +1480,9 @@
 			}
 			"coldsteel_new"
 			{
-				"gid" "A97F0248AD25DEB8AA53109C8F7AD635"
-				"size" "B09A7C3F9364DCACA0E38C28949679C4"
-				"download" "02BEE59CB050FF60E6ECE11043DE4EBF"
+				"gid" "C9E380BC3EC6591332C25EA3D1A4B232"
+				"size" "DCC28D92A1D7ABB0DD985332898BB71A"
+				"download" "5AF67AFA0BA3B6F5D7C49168FB124CDE"
 			}
 			"experimental_client"
 			{
@@ -1521,9 +1521,9 @@
 		{
 			"public"
 			{
-				"gid" "1007604955173410691"
-				"size" "197017105"
-				"download" "85357072"
+				"gid" "3689334231813407400"
+				"size" "201698164"
+				"download" "89524816"
 			}
 			"legacy"
 			{
@@ -1542,9 +1542,9 @@
 			}
 			"coldsteel_new"
 			{
-				"gid" "3A2F2F575D47EF427F77A583315E31CF"
-				"size" "8BC2BB260AD4B172E0B80E9F3C8109E1"
-				"download" "AC634D3697065DDA2DC75371071681DE"
+				"gid" "78E8479D1B58A36C44F5684DF767175C"
+				"size" "F962D0DF9D02D0B28CCDDEE7F0D593C7"
+				"download" "FC74CC679E07E12202E5AD7F34F20592"
 			}
 			"experimental_client"
 			{
@@ -1584,9 +1584,9 @@
 		{
 			"public"
 			{
-				"gid" "4154269982809290947"
-				"size" "211247319"
-				"download" "99162816"
+				"gid" "1200205716944924905"
+				"size" "213452271"
+				"download" "101361344"
 			}
 			"legacy"
 			{
@@ -1605,9 +1605,9 @@
 			}
 			"coldsteel_new"
 			{
-				"gid" "3A797BB5E179FE0D8E488A36E5ABA653"
-				"size" "9702E4C96E294B010469339C53783E10"
-				"download" "F424B169CF86D353FF6D83A129376AF7"
+				"gid" "F47D1078B1C06891A83C23E7C9A6FD15"
+				"size" "3BA4C3220D1F4A763B8F524CF2EE5897"
+				"download" "80C3693E38B7A0B14CDBBF0A28687E62"
 			}
 			"experimental_client"
 			{
@@ -1638,6 +1638,12 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "4146741503923437070"
+				"size" "86023965"
+				"download" "85868752"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1665,6 +1671,12 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "7328089473884558084"
+				"size" "86023965"
+				"download" "85868752"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1686,8 +1698,8 @@
 	{
 		"public"
 		{
-			"buildid" "13854418"
-			"timeupdated" "1711519723"
+			"buildid" "13941743"
+			"timeupdated" "1712245708"
 		}
 		"coldsteel"
 		{
@@ -1697,9 +1709,9 @@
 		}
 		"coldsteel_new"
 		{
-			"buildid" "13850278"
+			"buildid" "13941743"
 			"pwdrequired" "1"
-			"timeupdated" "1711408138"
+			"timeupdated" "1712181150"
 		}
 		"experimental_client"
 		{
@@ -1762,6 +1774,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22924964"
-"_sha" "bd484f65685e848d592218a5ea4c2e718934e463"
-"_size" "38628"
+"_change_number" "23031665"
+"_sha" "805fcd4829288703995415b015f06bf61cba3e93"
+"_size" "38859"
