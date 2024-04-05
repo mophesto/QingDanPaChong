@@ -45,7 +45,7 @@
 			"height_pct" "71.87703535131405"
 		}
 	}
-	"store_asset_mtime" "1710252469"
+	"store_asset_mtime" "1712145811"
 	"associations"
 	{
 		"0"
@@ -101,6 +101,8 @@
 		}
 	}
 	"steam_release_date" "1709834448"
+	"metacritic_score" "70"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/zoria-age-of-shattering\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1159090"
@@ -128,7 +130,7 @@
 		"19" "9"
 	}
 	"review_score" "6"
-	"review_percentage" "79"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -187,9 +189,9 @@
 		{
 			"public"
 			{
-				"gid" "8871195003288756293"
-				"size" "20041489825"
-				"download" "9759374784"
+				"gid" "4464992757795035647"
+				"size" "20052464206"
+				"download" "9763887616"
 			}
 		}
 		"encryptedmanifests"
@@ -202,15 +204,15 @@
 			}
 			"beta"
 			{
-				"gid" "66220DEDC12F7790976D0F5A1ECCAF95"
-				"size" "A54CC8865AB9057AB2DDFDEAEAF40282"
-				"download" "346300F1D402D3BBD7674E854A969675"
+				"gid" "F91CAF11724E5DDA92B4E02F35844C92"
+				"size" "0278F2E3AB4F5EEF3A12B24435DF8902"
+				"download" "0B6992B20E68BA6EF0890693494CCAB3"
 			}
 			"review-build"
 			{
-				"gid" "C2EABD9CAFB6F016DB1A80C99380B295"
-				"size" "622C03836184C1449A520C74B1B14D70"
-				"download" "D6C49CA7BCFB72816AE692AA6746932F"
+				"gid" "18F4629C358C5F96726E9AB13E7FDF67"
+				"size" "327ABB7A9A6F8F8651B59E3E417777E5"
+				"download" "B8858EF9C41CCACCDEAD125018CC019F"
 			}
 		}
 	}
@@ -225,9 +227,9 @@
 		{
 			"public"
 			{
-				"gid" "8480741082842187059"
-				"size" "20130604887"
-				"download" "9792893328"
+				"gid" "1829139470908766799"
+				"size" "20141556982"
+				"download" "9797372976"
 			}
 		}
 		"encryptedmanifests"
@@ -240,15 +242,15 @@
 			}
 			"beta"
 			{
-				"gid" "9BEEA635220CC7CBA0B3F568AD404417"
-				"size" "CEE40C683D83E3173B5F9B84ACF2AE48"
-				"download" "C1750176DA9D425050877F71D0A84AE0"
+				"gid" "7E762E8D3EF0B729F841E4C0C205A825"
+				"size" "995EDA07B6F532372BB6EF021343F14F"
+				"download" "0FEB18DEE4A21A6B2050DFDED9626BEB"
 			}
 			"review-build"
 			{
-				"gid" "E4A1D03959860CC02360A46310BA1681"
-				"size" "7FA67BC6FC702860DA5E13C89CE4D3BD"
-				"download" "5E5D6165C6B0F446AE2D858F48C06B6B"
+				"gid" "0B0CFF01ED4A66C0AFB0197521999961"
+				"size" "28B5B5F5419135E8FA3642BE56FCB854"
+				"download" "4AAA4510DC484C124CF6681C231BDC9F"
 			}
 		}
 	}
@@ -512,8 +514,8 @@
 	{
 		"public"
 		{
-			"buildid" "13856313"
-			"timeupdated" "1711453932"
+			"buildid" "13956552"
+			"timeupdated" "1712312551"
 		}
 		"0.9.5"
 		{
@@ -541,9 +543,9 @@
 		}
 		"beta"
 		{
-			"buildid" "13846806"
+			"buildid" "13956552"
 			"pwdrequired" "1"
-			"timeupdated" "1711389941"
+			"timeupdated" "1712279460"
 		}
 		"beta-dev"
 		{
@@ -607,9 +609,9 @@
 		}
 		"review-build"
 		{
-			"buildid" "13859025"
+			"buildid" "13956552"
 			"pwdrequired" "1"
-			"timeupdated" "1711467907"
+			"timeupdated" "1712312905"
 		}
 	}
 }
@@ -640,6 +642,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22936650"
-"_sha" "41628b1bc9484bd8c369367c725b55ec640861c3"
-"_size" "13304"
+"_change_number" "23042640"
+"_sha" "4709b231152749929c6299a21ef3ef7cf2cba69e"
+"_size" "13436"
