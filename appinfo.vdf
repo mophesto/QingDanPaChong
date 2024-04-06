@@ -24,14 +24,11 @@
 		"1" "2"
 		"2" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
-		"test_timestamp" "1685059200"
-		"tested_build_id" "10766074"
+		"test_timestamp" "1708387200"
+		"tested_build_id" "12592268"
 		"tests"
 		{
 			"0"
@@ -44,15 +41,16 @@
 		{
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "1"
-			"requires_non_controller_launcher_nav" "0"
+			"requires_non_controller_launcher_nav" "1"
 			"primary_player_is_controller_slot_0" "1"
-			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-experimental"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 			"proton_compat_config" "gamedrive,"
 		}
 	}
@@ -81,7 +79,7 @@
 			"height_pct" "58.23581097126573"
 		}
 	}
-	"store_asset_mtime" "1705611565"
+	"store_asset_mtime" "1711981742"
 	"associations"
 	{
 		"0"
@@ -122,6 +120,7 @@
 		"category_38" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -182,8 +181,8 @@
 		"13" "3854"
 		"14" "1742"
 		"15" "4486"
-		"16" "4231"
-		"17" "4057"
+		"16" "4057"
+		"17" "4231"
 		"18" "4155"
 		"19" "4166"
 	}
@@ -281,18 +280,18 @@
 		{
 			"public"
 			{
-				"gid" "5659192717901729432"
-				"size" "135529049807"
-				"download" "119085605328"
+				"gid" "5034223569531973779"
+				"size" "137905814720"
+				"download" "120972099728"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "EF5DC669D4397292E426D299F8204648"
-				"size" "073D30CFD5B83B42D3C08C0D60B431DC"
-				"download" "E9A0E77A4F8E17D57FD8B94178101FB3"
+				"gid" "3E4228C11C19A8CADC4D9C624A92351E"
+				"size" "3A793F6270983E64F04F39E49E66742B"
+				"download" "350A7BCB50A7FA3330EF4C3258908D06"
 			}
 			"bluedove"
 			{
@@ -318,14 +317,14 @@
 	{
 		"public"
 		{
-			"buildid" "12592268"
-			"timeupdated" "1698933724"
+			"buildid" "13824055"
+			"timeupdated" "1711375489"
 		}
 		"beta"
 		{
-			"buildid" "12592268"
+			"buildid" "13826242"
 			"pwdrequired" "1"
-			"timeupdated" "1698845412"
+			"timeupdated" "1711132144"
 		}
 		"bluedove"
 		{
@@ -348,6 +347,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22039364"
-"_sha" "ce993952ea83a70192350c5d0e3c8febd4aed3fb"
-"_size" "7199"
+"_change_number" "23040852"
+"_sha" "0c79028127ed0f34c8cca3977cc14697e3a5674e"
+"_size" "7144"
