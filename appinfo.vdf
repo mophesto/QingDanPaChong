@@ -87,7 +87,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1681481833"
+	"store_asset_mtime" "1710778088"
 	"associations"
 	{
 		"0"
@@ -125,6 +125,7 @@
 		"category_44" "1"
 		"category_1" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -310,9 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "4502856537318820969"
-				"size" "13208633298"
-				"download" "3252635728"
+				"gid" "4642729404220891343"
+				"size" "13208795090"
+				"download" "3252671712"
 			}
 			"early_development_version_0.8"
 			{
@@ -333,27 +334,6 @@
 				"download" "2231905408"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"closed-beta"
-			{
-				"gid" "519D9A5E4C50F796506A1A0E623E51B0"
-				"size" "0669D289E81AE82A5774CB46F6C2CE51"
-				"download" "DA27150A260C7948021EE241166FE463"
-			}
-			"content_creator"
-			{
-				"gid" "E60FDB84FFF2E3ED19095813FD2EDEF0"
-				"size" "835BD6BAFD69F7D4815147C7BC927936"
-				"download" "B246EC6BF86C9B7B1DC43AFA0E32C4E1"
-			}
-			"dev_branch"
-			{
-				"gid" "C68EEF9049508CFDDAEFBCB5E5D91C9B"
-				"size" "F1969C0FDF55746E823962CF6E4AC2AA"
-				"download" "0E9D73FA1A813AA5A8A4C48CCB4D5BF7"
-			}
-		}
 	}
 	"2659380"
 	{
@@ -362,30 +342,9 @@
 		{
 			"public"
 			{
-				"gid" "6035642049452071023"
+				"gid" "4423473473087316482"
 				"size" "1629612630"
-				"download" "326478192"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"closed-beta"
-			{
-				"gid" "1634A5A0CB478DCE8F96711E34EB903F"
-				"size" "535BE22ED3ACA6D961D90A649D6D7397"
-				"download" "936BFD6E207F6C3B53DB2C780ACEE988"
-			}
-			"content_creator"
-			{
-				"gid" "AFCA8825E2D491EA4D564C644AB4EFF6"
-				"size" "DFBC620EC0DA5AEB0CFD07B7A42401AB"
-				"download" "E145EE22B03C430290CA5758A33E6BFD"
-			}
-			"dev_branch"
-			{
-				"gid" "B53C0A8D626022F73A0168B578E01AEC"
-				"size" "0A4FB17B38BE3AFBDFB8B9A943330855"
-				"download" "B4DC661171C4E8C23D9C6D5F4B1A6E57"
+				"download" "326477184"
 			}
 		}
 	}
@@ -393,26 +352,8 @@
 	{
 		"public"
 		{
-			"buildid" "13948219"
-			"timeupdated" "1712335991"
-		}
-		"closed-beta"
-		{
-			"buildid" "13948219"
-			"pwdrequired" "1"
-			"timeupdated" "1712316477"
-		}
-		"content_creator"
-		{
-			"buildid" "13948219"
-			"pwdrequired" "1"
-			"timeupdated" "1712335250"
-		}
-		"dev_branch"
-		{
-			"buildid" "13948219"
-			"pwdrequired" "1"
-			"timeupdated" "1712228791"
+			"buildid" "13968848"
+			"timeupdated" "1712357606"
 		}
 		"early_development_version_0.8"
 		{
@@ -440,6 +381,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "23047501"
-"_sha" "767ec4b9cfc8a73dfc65c4fb4ec87ce6e456d6fc"
-"_size" "8461"
+"_change_number" "23051309"
+"_sha" "06ee3aec16691dff10e1705587fd377576001c12"
+"_size" "7020"
