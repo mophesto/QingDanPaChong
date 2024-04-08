@@ -129,6 +129,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -173,6 +174,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1701910823"
 	"community_visible_stats" "1"
@@ -202,7 +208,7 @@
 		"19" "7481"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -228,9 +234,9 @@
 		{
 			"public"
 			{
-				"gid" "4031723726482031929"
-				"size" "7611040973"
-				"download" "3857867376"
+				"gid" "6162835116741356440"
+				"size" "7599783039"
+				"download" "3857756656"
 			}
 		}
 	}
@@ -238,8 +244,8 @@
 	{
 		"public"
 		{
-			"buildid" "13537770"
-			"timeupdated" "1708651451"
+			"buildid" "13982892"
+			"timeupdated" "1712559982"
 		}
 	}
 }
@@ -270,6 +276,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22467274"
-"_sha" "691e2987cf43f77ce96889f6e8c44f4ae2ab90a4"
-"_size" "4801"
+"_change_number" "23068441"
+"_sha" "ef6ca764021a7cffff8c04f0548bac564fa61582"
+"_size" "4896"
