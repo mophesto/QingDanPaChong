@@ -57,8 +57,6 @@
 		"2" "5"
 		"3" "4"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
 	"restricted_countries" "CN,DE"
 	"small_capsule"
 	{
@@ -109,6 +107,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -311,8 +310,8 @@
 		"15" "1721"
 		"16" "1698"
 		"17" "379975"
-		"18" "4106"
-		"19" "4486"
+		"18" "4486"
+		"19" "4106"
 	}
 	"review_score" "8"
 	"review_percentage" "83"
@@ -371,9 +370,9 @@
 		{
 			"public"
 			{
-				"gid" "167573895470855334"
-				"size" "834607627"
-				"download" "667329792"
+				"gid" "1952851236873200622"
+				"size" "834607542"
+				"download" "667325216"
 			}
 		}
 	}
@@ -389,9 +388,9 @@
 		{
 			"public"
 			{
-				"gid" "3773949526251370943"
-				"size" "826612491"
-				"download" "665016128"
+				"gid" "6134960238283870077"
+				"size" "827351155"
+				"download" "665016832"
 			}
 		}
 	}
@@ -433,12 +432,12 @@
 	{
 		"public"
 		{
-			"buildid" "13422850"
-			"timeupdated" "1707571459"
+			"buildid" "13554090"
+			"timeupdated" "1708799736"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22289765"
-"_sha" "ce6f2aea7bb43dcad8db5b634a0a79338ee8b4b8"
-"_size" "7447"
+"_change_number" "22685896"
+"_sha" "ed0addd9cc4813d7acf43f13c199c3f714fbce7f"
+"_size" "7412"
