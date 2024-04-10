@@ -201,9 +201,9 @@
 		"4" "7332"
 		"5" "220585"
 		"6" "1643"
-		"7" "1670"
-		"8" "1708"
-		"9" "4695"
+		"7" "4695"
+		"8" "1670"
+		"9" "1708"
 		"10" "1678"
 		"11" "12472"
 		"12" "1775"
@@ -338,15 +338,15 @@
 		{
 			"public"
 			{
-				"gid" "8618541713494282357"
-				"size" "2989371818"
-				"download" "1229650640"
+				"gid" "6997112320154855489"
+				"size" "2989379967"
+				"download" "1229649920"
 			}
 			"public-beta"
 			{
-				"gid" "2179885539897788979"
-				"size" "3038245559"
-				"download" "1244493984"
+				"gid" "7256985628988938655"
+				"size" "3049200574"
+				"download" "1251280880"
 			}
 		}
 		"encryptedmanifests"
@@ -365,9 +365,9 @@
 			}
 			"shiro-test"
 			{
-				"gid" "6E2CC68D1B9E6FF61B3E83FACBA93DE4"
-				"size" "133ED96E137765BBF26E7E89C4CBCC1B"
-				"download" "426F987B8A706C6A3F8ED8634DCEEA2A"
+				"gid" "7A36F2B8799AE1CACEDB7D53AC2F9B1E"
+				"size" "8B6115AA975CB043084E193EE55F7248"
+				"download" "4E6ED46574A0217E777DC24763438B48"
 			}
 		}
 	}
@@ -421,7 +421,7 @@
 		{
 			"public"
 			{
-				"gid" "2913402166785933335"
+				"gid" "5354732304671991987"
 				"size" "19424092"
 				"download" "5147776"
 			}
@@ -448,9 +448,9 @@
 			}
 			"shiro-test"
 			{
-				"gid" "CDCABFF7C9B93D9D9412DAAC4C085C8B"
-				"size" "34FA4F8995628FC5B2499401D06DE52D"
-				"download" "9612B631EB0EE7F2A34514D95763D56E"
+				"gid" "E4188B5800A22CFAF2A2DF30E1BBC5FE"
+				"size" "4C9570DD23B17024A75947FF8C1403FF"
+				"download" "BF55FD92E2C1E1FF33D25C554527144F"
 			}
 		}
 	}
@@ -464,9 +464,9 @@
 		{
 			"public"
 			{
-				"gid" "139822226555864209"
-				"size" "17420753"
-				"download" "4329456"
+				"gid" "4739849763759123538"
+				"size" "17421001"
+				"download" "4329968"
 			}
 			"public-beta"
 			{
@@ -491,9 +491,9 @@
 			}
 			"shiro-test"
 			{
-				"gid" "798A31C54F045EB7F01685DB789FE91A"
-				"size" "0C6221A0C279786C2EE8536052B2FF49"
-				"download" "1965F31AE5B9ABEC4146DD8F85384467"
+				"gid" "7E5D5FA1381A2AB7C1AD69B3BEB31F5B"
+				"size" "492F74A2862DF8B024E0E32852F62519"
+				"download" "C7C10B17E0895319C51271E9647559C4"
 			}
 		}
 	}
@@ -550,9 +550,9 @@
 		{
 			"public"
 			{
-				"gid" "1551909344245302828"
-				"size" "219899547"
-				"download" "75058784"
+				"gid" "2444457629100233845"
+				"size" "284919082"
+				"download" "100805904"
 			}
 			"public-beta"
 			{
@@ -587,8 +587,8 @@
 	{
 		"public"
 		{
-			"buildid" "13881628"
-			"timeupdated" "1711625308"
+			"buildid" "14007494"
+			"timeupdated" "1712755681"
 		}
 		"closed-beta"
 		{
@@ -598,9 +598,9 @@
 		}
 		"public-beta"
 		{
-			"buildid" "13855015"
+			"buildid" "13946692"
 			"description" "Test the latest addition to the game!"
-			"timeupdated" "1711458808"
+			"timeupdated" "1712227320"
 		}
 		"shiro-qa"
 		{
@@ -610,9 +610,9 @@
 		}
 		"shiro-test"
 		{
-			"buildid" "13882955"
+			"buildid" "14011265"
 			"pwdrequired" "1"
-			"timeupdated" "1711634168"
+			"timeupdated" "1712761700"
 		}
 	}
 }
@@ -643,6 +643,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22948723"
-"_sha" "98f4ce45488c0a8e906d09773ed510794c55dee2"
-"_size" "12344"
+"_change_number" "23103732"
+"_sha" "8406705befa2b197a4755673cf65bab51ba5f6f1"
+"_size" "12346"
