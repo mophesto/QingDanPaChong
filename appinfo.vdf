@@ -1,0 +1,493 @@
+"appid" "2071280"
+"common"
+{
+	"name" "Ravenswatch"
+	"type" "Game"
+	"clienticon" "25cc67d069380847818f05c0e7d5567763919719"
+	"clienttga" "97a4d0cfd3fca3f0f10c1663f6864d95bff76a7a"
+	"icon" "f1f1815dab259b1e00125a3e58b9c107945b265a"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2071280_eula_0"
+			"name" "Ravenswatch EULA"
+			"url" "https://store.steampowered.com//eula/2071280_eula_0"
+			"version" "1"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "Ravenswatch 鸦卫奇旅"
+		"tchinese" "Ravenswatch 鸦卫奇旅"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681430400"
+		"tested_build_id" "10937238"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "57.5447340770973"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1711448465"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Passtech Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nacon"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Nacon"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1680796824"
+	"community_hub_visible" "1"
+	"gameid" "2071280"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1716"
+		"2" "1685"
+		"3" "42804"
+		"4" "4182"
+		"5" "492"
+		"6" "3959"
+		"7" "4026"
+		"8" "21"
+		"9" "3859"
+		"10" "3843"
+		"11" "122"
+		"12" "4166"
+		"13" "1646"
+		"14" "493"
+		"15" "4711"
+		"16" "4791"
+		"17" "4604"
+		"18" "4342"
+		"19" "5851"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Passtech Games"
+	"publisher" "Nacon"
+}
+"config"
+{
+	"installdir" "Ravenswatch"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ravenswatch.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2071281"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4222676753606789862"
+				"size" "3970102593"
+				"download" "1343858688"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"marketing"
+			{
+				"gid" "B29886F58E80FA1918E022C2DD87E72F"
+				"size" "86C4017DAE4BAC6F53663C8C3D7C70F7"
+				"download" "63D3C53F504C0901B3BFA4495F05A85D"
+			}
+			"nacon_ea"
+			{
+				"gid" "D07413DB0309A8FBA9923BF401A2F3F7"
+				"size" "908364EAA73BC5B7A87147216D720757"
+				"download" "2D0B211C65E146395C7622887591AED9"
+			}
+			"nacon_prod"
+			{
+				"gid" "BCB91345669F693BC288954223DE8C40"
+				"size" "006481B9A0A6D61385136AA64678A895"
+				"download" "F7F5D9CD388574B9098A91DE9A749752"
+			}
+			"nacon_qa"
+			{
+				"gid" "4623A0C8982EE7E3D77B3401628EC43A"
+				"size" "B81DD00E626114774D6B5DB90C12C54A"
+				"download" "710BB238579D973F0E6C185D351C74E5"
+			}
+			"nacon_ratings"
+			{
+				"gid" "4BA496B720EB73D202873E7D14FE1892"
+				"size" "0DB12DDB0B40F271653CFD9F614F104E"
+				"download" "5ED126C24148E649AC58D825B05F9C6F"
+			}
+			"ptg_main"
+			{
+				"gid" "0BEC5B47A92EAA7F11FA182A31AB2F3C"
+				"size" "FAA27AF9C6CBAA5BE00B1A83B6131DAD"
+				"download" "69189A2E15FC2F0001F5EBF00702E70B"
+			}
+			"ptg_main_cheats"
+			{
+				"gid" "B26DACA1CB9D9C89E9AC68ED987161C6"
+				"size" "636630ECF0E0FA181062EADEAF024BF9"
+				"download" "63B06164BD38310D364491BD941FE5A2"
+			}
+			"ptg_main_wip"
+			{
+				"gid" "3D429374077679AF5D8D73D89171D1AE"
+				"size" "B9E7DFF3950F1E3D92FD08CF7B575CFD"
+				"download" "957439FEA6FF6980CED4AD67B5AE81DB"
+			}
+			"ptg_retro"
+			{
+				"gid" "E98F4F635F9961AB7A966C6E355BF855"
+				"size" "44A62A6BFDCBB8F4E481F490D9CF001E"
+				"download" "DB77519BC79651D35B796623E33EF5A1"
+			}
+			"ptg_test"
+			{
+				"gid" "FBF2BF0621605135C7C6D9EC4CFF40B1"
+				"size" "593225BAEA2C5B821B862AAAFF2BC9D7"
+				"download" "EF0BA64F1EA1477D88FB43F4D1AC4DFB"
+			}
+			"ptg_version"
+			{
+				"gid" "D9D62D8429EF27615519B3C9FEF871AF"
+				"size" "B6B6A43D6AC9342C195D28830EABDBBE"
+				"download" "903BA5DBBCEF9CB72BABA1E63F6EF270"
+			}
+			"ptg_version_cheats"
+			{
+				"gid" "B019D632369D32822A34C7BDCB705FDF"
+				"size" "927502B96D8510970451085D223507BB"
+				"download" "59256FFEFBDFEDA3B282ECBE0F144FA5"
+			}
+			"ptg_version_wip"
+			{
+				"gid" "7F899919BCAD23F4015646B71E0EF514"
+				"size" "C29E8E55A7E7F46E9FF1430A17D1563B"
+				"download" "D443895BA1C4929810D49209F5ED7978"
+			}
+			"public_test"
+			{
+				"gid" "8CD12C2301307A16F66D6B3B7BABF0C8"
+				"size" "CD8A71868F0424C1B87DEE5B0A46E7DC"
+				"download" "35B6994CACC0076DB02F702999D8A1F5"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13529857"
+			"timeupdated" "1708614249"
+		}
+		"marketing"
+		{
+			"buildid" "13134576"
+			"pwdrequired" "1"
+			"timeupdated" "1704989616"
+		}
+		"nacon_ea"
+		{
+			"buildid" "13949533"
+			"pwdrequired" "1"
+			"timeupdated" "1712334924"
+		}
+		"nacon_prod"
+		{
+			"buildid" "13758308"
+			"pwdrequired" "1"
+			"timeupdated" "1710754221"
+		}
+		"nacon_qa"
+		{
+			"buildid" "13949248"
+			"pwdrequired" "1"
+			"timeupdated" "1712334937"
+		}
+		"nacon_ratings"
+		{
+			"buildid" "10850187"
+			"pwdrequired" "1"
+			"timeupdated" "1680702659"
+		}
+		"ptg_main"
+		{
+			"buildid" "14003586"
+			"pwdrequired" "1"
+			"timeupdated" "1712706917"
+		}
+		"ptg_main_cheats"
+		{
+			"buildid" "14003079"
+			"pwdrequired" "1"
+			"timeupdated" "1712702647"
+		}
+		"ptg_main_wip"
+		{
+			"buildid" "11682062"
+			"pwdrequired" "1"
+			"timeupdated" "1689583703"
+		}
+		"ptg_retro"
+		{
+			"buildid" "12942884"
+			"pwdrequired" "1"
+			"timeupdated" "1706022388"
+		}
+		"ptg_test"
+		{
+			"buildid" "13638769"
+			"pwdrequired" "1"
+			"timeupdated" "1709635260"
+		}
+		"ptg_version"
+		{
+			"buildid" "13949533"
+			"pwdrequired" "1"
+			"timeupdated" "1712236192"
+		}
+		"ptg_version_cheats"
+		{
+			"buildid" "13949248"
+			"pwdrequired" "1"
+			"timeupdated" "1712234937"
+		}
+		"ptg_version_wip"
+		{
+			"buildid" "11342577"
+			"pwdrequired" "1"
+			"timeupdated" "1685369422"
+		}
+		"public_test"
+		{
+			"buildid" "13495394"
+			"pwdrequired" "1"
+			"timeupdated" "1708336435"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "_Save/"
+			"pattern" "Profile_1.ob"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "_Save/"
+			"pattern" "Profile_2.ob"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "_Save/"
+			"pattern" "Profile_3.ob"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23094257"
+"_sha" "a4ba2695206bbf1597cbf28d36350a6e3645dc82"
+"_size" "9617"
