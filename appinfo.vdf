@@ -37,7 +37,7 @@
 		"0"
 		{
 			"executable" "rust.exe"
-			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning"
+			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning +nexus.serverlistenabled 1"
 			"type" "default"
 			"config"
 			{
@@ -52,7 +52,7 @@
 		"1"
 		{
 			"executable" "./rust.app"
-			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning --normal-rendering"
+			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning --normal-rendering +nexus.serverlistenabled 1"
 			"type" "default"
 			"config"
 			{
@@ -67,7 +67,7 @@
 		"2"
 		{
 			"executable" "rust"
-			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning"
+			"arguments" "-logfile output_log.txt -timestamps -disable-gpu-skinning +nexus.serverlistenabled 1"
 			"type" "default"
 			"config"
 			{
@@ -89,9 +89,9 @@
 		{
 			"public"
 			{
-				"gid" "8869203616267958237"
-				"size" "29906199481"
-				"download" "17716867520"
+				"gid" "851419262740924417"
+				"size" "29906415737"
+				"download" "17716938992"
 			}
 			"2021.3.29"
 			{
@@ -119,9 +119,9 @@
 			}
 			"main"
 			{
-				"gid" "3123525686466502786"
-				"size" "29906199481"
-				"download" "17716865888"
+				"gid" "8396136838491204633"
+				"size" "29906430233"
+				"download" "17716951824"
 			}
 		}
 		"encryptedmanifests"
@@ -170,9 +170,9 @@
 			}
 			"debug"
 			{
-				"gid" "82AC664B25FB4E7EF521D8D799319427"
-				"size" "CDDC5D3EF8ABC609A2359B94B865A3EF"
-				"download" "793756436516FCE3F755814F3F66F4BD"
+				"gid" "8645BD95B62C216CA3ACDE4EDBCB97A0"
+				"size" "04E8154A34523BFE016DDC10789D3C26"
+				"download" "F86371814C262DE87B901AC02DA57A76"
 			}
 			"demo"
 			{
@@ -247,9 +247,9 @@
 		{
 			"public"
 			{
-				"gid" "4007412263028214975"
-				"size" "781489599"
-				"download" "533476784"
+				"gid" "7996121357265680551"
+				"size" "781753786"
+				"download" "533501280"
 			}
 			"2021.3.29"
 			{
@@ -277,9 +277,9 @@
 			}
 			"main"
 			{
-				"gid" "4308139626192776512"
-				"size" "781489680"
-				"download" "533475664"
+				"gid" "8527257943200633791"
+				"size" "781804979"
+				"download" "533489600"
 			}
 		}
 		"encryptedmanifests"
@@ -328,9 +328,9 @@
 			}
 			"debug"
 			{
-				"gid" "7E623E5C182C92ACE8B9357595358B93"
-				"size" "04DB927DC351C018012B20926E504609"
-				"download" "7504FA14E10757642785D86D725F9583"
+				"gid" "28C06015271DF1671D5C0E1A678F4E29"
+				"size" "79DC7B2949BEB442B831E1BFAD9DEA7F"
+				"download" "A925B0E4A1327E367798CEC465641784"
 			}
 			"demo"
 			{
@@ -405,9 +405,9 @@
 		{
 			"public"
 			{
-				"gid" "2788231114172779635"
-				"size" "5021850694"
-				"download" "1913163904"
+				"gid" "6411391929919948180"
+				"size" "5022765918"
+				"download" "1913449536"
 			}
 			"2021.3.29"
 			{
@@ -435,9 +435,9 @@
 			}
 			"main"
 			{
-				"gid" "7608939150143826580"
-				"size" "5021850750"
-				"download" "1913155424"
+				"gid" "89854404645944095"
+				"size" "5022914060"
+				"download" "1913467008"
 			}
 		}
 		"encryptedmanifests"
@@ -486,9 +486,9 @@
 			}
 			"debug"
 			{
-				"gid" "1C2BC2A5A2F96029CF34CDD0FD3D0B43"
-				"size" "2DA87CB855791DB7AA1B581EA9FE6313"
-				"download" "3AEB65861509B953D966316CFB300418"
+				"gid" "5AC0E3588D9A888F69C056677C6FFF56"
+				"size" "31E3193FE296B2E6E6063D1DAD7BF018"
+				"download" "1C4167BD4277F744040EAEC7FAA67E06"
 			}
 			"demo"
 			{
@@ -714,8 +714,8 @@
 	{
 		"public"
 		{
-			"buildid" "13999012"
-			"timeupdated" "1712731455"
+			"buildid" "14021537"
+			"timeupdated" "1712839644"
 		}
 		"2021.3.29"
 		{
@@ -785,9 +785,9 @@
 		}
 		"debug"
 		{
-			"buildid" "14006692"
+			"buildid" "14024267"
 			"pwdrequired" "1"
-			"timeupdated" "1712734738"
+			"timeupdated" "1712849461"
 		}
 		"demo"
 		{
@@ -815,8 +815,8 @@
 		}
 		"main"
 		{
-			"buildid" "14006666"
-			"timeupdated" "1712734627"
+			"buildid" "14024238"
+			"timeupdated" "1712849310"
 		}
 		"media"
 		{
@@ -873,6 +873,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23098015"
-"_sha" "6315974a22bef414eceb4f6df7aceb58c9e4174e"
-"_size" "20372"
+"_change_number" "23119491"
+"_sha" "2630e9adc41d627fac6cc4a1fbf41d466f33213a"
+"_size" "20450"
