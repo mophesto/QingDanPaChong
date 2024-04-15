@@ -145,15 +145,15 @@
 		"4" "1663"
 		"5" "4168"
 		"6" "1659"
-		"7" "4345"
-		"8" "3839"
+		"7" "3839"
+		"8" "4345"
 		"9" "4136"
 		"10" "4182"
-		"11" "4667"
-		"12" "1685"
+		"11" "1685"
+		"12" "4667"
 		"13" "3878"
-		"14" "10397"
-		"15" "1775"
+		"14" "1775"
+		"15" "10397"
 		"16" "5711"
 		"17" "492"
 		"18" "599"
@@ -223,9 +223,9 @@
 		{
 			"public"
 			{
-				"gid" "1395100274966374577"
-				"size" "68920891433"
-				"download" "32174040016"
+				"gid" "1307285795006295924"
+				"size" "66844046313"
+				"download" "29333675712"
 			}
 			"legacy"
 			{
@@ -233,20 +233,26 @@
 				"size" "62754833589"
 				"download" "29855394176"
 			}
+			"vrml"
+			{
+				"gid" "1395100274966374577"
+				"size" "68920891433"
+				"download" "32174040016"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"map_preview_group"
 			{
-				"gid" "9E98F17592D7662486DB1A8DBC7865BF"
-				"size" "FC36B5EC5287980A1AA08DB1D4CA6D3E"
-				"download" "E57E6CDAF8B6BAEA7FAB27EB9C6F7294"
+				"gid" "3825E952B2D84304D5082BC8C3CB766E"
+				"size" "89D087BDC8112F159EF2B7477AED02E1"
+				"download" "AEFFED20842DD855663A1275ACF02211"
 			}
 			"nighly"
 			{
-				"gid" "E0BBCD80DCC26615873C041589BE8B04"
-				"size" "AFF0B5C597FE3C280FFCD6EF53A70A6E"
-				"download" "63089FEA82BD27DBFF88238D1F4EF751"
+				"gid" "CCDD80B29ED1D22FC76C0F44F5AB1DFE"
+				"size" "7954DBD41951089F6A350D153756B84F"
+				"download" "2022153FFFA04BA497FC514EDB9CBA1A"
 			}
 			"nighly_dev"
 			{
@@ -262,9 +268,9 @@
 			}
 			"wizards"
 			{
-				"gid" "1F063586E0D9C7148F954A75510B3307"
-				"size" "1C711A1729083CA7B91C3CAC72FA0A35"
-				"download" "DFA9E615DEFA2E9006B3866C6AAA9A0C"
+				"gid" "3B0F5A933DE65945CF791E518D56A210"
+				"size" "D00F3388E476AFA1FE0BB27675D18ABD"
+				"download" "983753409594093ECEAF06359C7D27C6"
 			}
 		}
 	}
@@ -281,8 +287,8 @@
 	{
 		"public"
 		{
-			"buildid" "11884780"
-			"timeupdated" "1691442533"
+			"buildid" "13974134"
+			"timeupdated" "1713200596"
 		}
 		"legacy"
 		{
@@ -292,15 +298,15 @@
 		}
 		"map_preview_group"
 		{
-			"buildid" "13222810"
+			"buildid" "13974134"
 			"pwdrequired" "1"
-			"timeupdated" "1705707541"
+			"timeupdated" "1712772748"
 		}
 		"nighly"
 		{
-			"buildid" "13604425"
+			"buildid" "14057680"
 			"pwdrequired" "1"
-			"timeupdated" "1709230814"
+			"timeupdated" "1713191123"
 		}
 		"nighly_dev"
 		{
@@ -314,11 +320,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1677197310"
 		}
+		"vrml"
+		{
+			"buildid" "11884780"
+			"description" "Update 29 build for Season 13"
+			"timeupdated" "1712154913"
+		}
 		"wizards"
 		{
-			"buildid" "12219265"
+			"buildid" "13871843"
 			"pwdrequired" "1"
-			"timeupdated" "1695071871"
+			"timeupdated" "1711555573"
 		}
 	}
 }
@@ -328,6 +340,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "22565676"
-"_sha" "b545282d7986700879eca45000ff5ffcd8679d9d"
-"_size" "5994"
+"_change_number" "23162713"
+"_sha" "6a5c9f7bc0b0e6dd993cea7abea99c9e06e76a54"
+"_size" "6238"
