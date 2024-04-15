@@ -99,12 +99,12 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Reverie World Studios"
+			"name" "Freedom Games"
 		}
 		"2"
 		{
 			"type" "franchise"
-			"name" "Kingdom Wars"
+			"name" "Freedom Games"
 		}
 	}
 	"primary_genre" "2"
@@ -127,6 +127,7 @@
 		"category_49" "1"
 		"category_9" "1"
 		"category_38" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -200,7 +201,7 @@
 "extended"
 {
 	"developer" "Reverie World Studios"
-	"publisher" "Reverie World Studios"
+	"publisher" "Freedom Games"
 	"homepage" "http://reverieworld.com"
 	"listofdlc" "2110750,2155290,2431010"
 	"dlcavailableonstore" "1"
@@ -233,9 +234,9 @@
 		{
 			"public"
 			{
-				"gid" "2180154485637451183"
+				"gid" "7958778324257671491"
 				"size" "8086614240"
-				"download" "2582947424"
+				"download" "2582949744"
 			}
 		}
 	}
@@ -307,8 +308,8 @@
 	{
 		"public"
 		{
-			"buildid" "12892145"
-			"timeupdated" "1701882802"
+			"buildid" "14058978"
+			"timeupdated" "1713198993"
 		}
 	}
 }
@@ -361,6 +362,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22501312"
-"_sha" "de62bf2014759d7531a7b059e2ad4fdadf3e7a77"
-"_size" "6112"
+"_change_number" "23162311"
+"_sha" "7030eceaaba5ed55f0968f60569bf2db47d95274"
+"_size" "6119"
