@@ -81,7 +81,7 @@
 			"height_pct" "68.45282178277765"
 		}
 	}
-	"store_asset_mtime" "1699908732"
+	"store_asset_mtime" "1713284453"
 	"associations"
 	{
 		"0"
@@ -113,6 +113,7 @@
 		"category_42" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -171,6 +172,7 @@
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"thai"
 		{
@@ -209,8 +211,8 @@
 		"0" "1662"
 		"1" "3859"
 		"2" "1100689"
-		"3" "7332"
-		"4" "1685"
+		"3" "1685"
+		"4" "7332"
 		"5" "1702"
 		"6" "21"
 		"7" "1695"
@@ -439,9 +441,9 @@
 		{
 			"public"
 			{
-				"gid" "8998334070794133945"
-				"size" "11113620041"
-				"download" "10516659056"
+				"gid" "2436844893947657259"
+				"size" "11890187648"
+				"download" "11235521056"
 			}
 		}
 		"encryptedmanifests"
@@ -472,15 +474,9 @@
 			}
 			"buddha"
 			{
-				"gid" "B3DC6F067C0DC5EAAB84D5733F543C60"
-				"size" "F8099C9C6800ADF02E98194D912AD2EF"
-				"download" "24A32DE5CD66FD107CEAA755C75FBFAB"
-			}
-			"convention_demo"
-			{
-				"gid" "B223208976E03034ED9EF4D45B2E4D96"
-				"size" "805A7BE4736131C72CEB6109514D5EDB"
-				"download" "4F92091CAEAF057381032036779BA82A"
+				"gid" "98A463A02676545608C43FD09972324F"
+				"size" "30CF264186AB8A2B75E1649FF0EDF785"
+				"download" "22D5AB5293C64D4A0080189B54187140"
 			}
 			"kindafunny_playground"
 			{
@@ -490,21 +486,21 @@
 			}
 			"latest_dev"
 			{
-				"gid" "BB78969C02BF3889F9528FBF16190A32"
-				"size" "E3164798A2D92D7DB5AD52307CA0E4EE"
-				"download" "E3A6538AB2F12A7ABA0DFDFC4A6E4368"
+				"gid" "8EC651786EA45B1455EE067FDD094D03"
+				"size" "5FF1652BE2C6FEBC280B02FD8325C4DC"
+				"download" "48D2B047C2E06093F93AA3B144D7F027"
 			}
 			"latest_release"
 			{
-				"gid" "CED265FD7BC114E52C4DD97A459EF65F"
-				"size" "B2ABE82F7B4D638A32341F5B345BFA6F"
-				"download" "EFEA222AF51792A9FC226B04AC149F19"
+				"gid" "6D37E302180FA671C76B7451CA7BC817"
+				"size" "F734BC6C548984BD62160D1FD95FF3AE"
+				"download" "1B73C2C0286A875B6E513A3175F6AAB0"
 			}
 			"live_debug"
 			{
-				"gid" "5D88B4AFC6C2780347861A42F9144D93"
-				"size" "CB050E0BEEA3403C5CF287166662077A"
-				"download" "3B589EEBB51C177DE48259BBD160CA27"
+				"gid" "C9562361A87B381EA78804FF70051E98"
+				"size" "8AC1EC506D75F0C1E7A1F0063D861874"
+				"download" "3B878CA9B37CDC81AD80921DBFB03857"
 			}
 			"microsoft_research"
 			{
@@ -520,27 +516,33 @@
 			}
 			"shipping_staging"
 			{
-				"gid" "4D99EF2915E0C34A8938E2E7A769A55E"
-				"size" "02DA3ADEB4A4F5FB867217E5699DFF43"
-				"download" "537E563C3CD29C4875DC43B1954032DD"
+				"gid" "DD61A01ABC86B7C881CD7BEAE3B73859"
+				"size" "4FDA6A499F480D9355D2A14262745C36"
+				"download" "D80211677404070DF161351CC8EC946E"
 			}
 			"stable_dev"
 			{
-				"gid" "E96D9C46F3733F7D7CF167B89140E50E"
-				"size" "050C5E03870F829F8E96B3C46B72AF5E"
-				"download" "DFC55F6C1F3979B375CEA7BFD43D05FD"
+				"gid" "56D7B33DE6E6E957DB7C38A3D0ACE130"
+				"size" "96545E00B63DF9BA2FCD93DD44CC80B0"
+				"download" "977E2B76B3EAEF4A97B8219A1C6113E6"
 			}
 			"stable_release"
 			{
-				"gid" "0424D06A520F6398EA8FB200756FC93F"
-				"size" "EF7BB4EA701841182286AE0F9EB3FB45"
-				"download" "0C9AA5ED2B048892707061C2F205EB1B"
+				"gid" "45EF678BCE2100B6573E8848A18D14BF"
+				"size" "2D94B53A4FCFF2516CA1F5F22A294E3A"
+				"download" "8935B3A2CB8877B0035CEA3C1ADC0BE9"
 			}
 			"test_dev"
 			{
 				"gid" "6A8FAFD83E9A7C9E7121582DB71E30D2"
 				"size" "6B23CC064F373CAF9AC3C5DD115A00DD"
 				"download" "AC764EAEF7B92A5F455B2EFE3BB77A72"
+			}
+			"xbox_team"
+			{
+				"gid" "F26574FA10F1A1C7E043D0A37D82FCA5"
+				"size" "16339E1938042FE393566E3FDD19035E"
+				"download" "C7DD26B9873847BBFD5CB787F918949A"
 			}
 		}
 	}
@@ -591,12 +593,6 @@
 				"gid" "3AE4CBC58B6A3C4D4DF37A36DC474972"
 				"size" "451AB5A4065C2635512FDE4CD869050A"
 				"download" "451AB5A4065C2635512FDE4CD869050A"
-			}
-			"convention_demo"
-			{
-				"gid" "63D310FC1607F2C0050EDF5A56295545"
-				"size" "3D3319729B5135F068302146910551CF"
-				"download" "3D3319729B5135F068302146910551CF"
 			}
 			"kindafunny_playground"
 			{
@@ -658,6 +654,12 @@
 				"size" "D12F5F3BFBE6D862CD9CA712B6CA6418"
 				"download" "D12F5F3BFBE6D862CD9CA712B6CA6418"
 			}
+			"xbox_team"
+			{
+				"gid" "15D1C5281F6490002E90106FC2DE4414"
+				"size" "0460FFFDA44F9CF4D53D0F6CC44DA01C"
+				"download" "0460FFFDA44F9CF4D53D0F6CC44DA01C"
+			}
 		}
 	}
 	"962133"
@@ -707,12 +709,6 @@
 				"gid" "E4E1D7A4A67D78BD17CF7273C631BA9F"
 				"size" "451AB5A4065C2635512FDE4CD869050A"
 				"download" "451AB5A4065C2635512FDE4CD869050A"
-			}
-			"convention_demo"
-			{
-				"gid" "2AFF5E6847BBCD3594131D3D8DF50678"
-				"size" "3D3319729B5135F068302146910551CF"
-				"download" "3D3319729B5135F068302146910551CF"
 			}
 			"kindafunny_playground"
 			{
@@ -773,6 +769,12 @@
 				"gid" "91D55F9397645071B544F76345BE4F82"
 				"size" "D12F5F3BFBE6D862CD9CA712B6CA6418"
 				"download" "D12F5F3BFBE6D862CD9CA712B6CA6418"
+			}
+			"xbox_team"
+			{
+				"gid" "8357721995B7E1D45960ACEA7F7D22AC"
+				"size" "0460FFFDA44F9CF4D53D0F6CC44DA01C"
+				"download" "0460FFFDA44F9CF4D53D0F6CC44DA01C"
 			}
 		}
 	}
@@ -865,6 +867,12 @@
 				"size" "D12F5F3BFBE6D862CD9CA712B6CA6418"
 				"download" "D12F5F3BFBE6D862CD9CA712B6CA6418"
 			}
+			"xbox_team"
+			{
+				"gid" "186A48646AEE61E0AB7404D76CDE670C"
+				"size" "0460FFFDA44F9CF4D53D0F6CC44DA01C"
+				"download" "0460FFFDA44F9CF4D53D0F6CC44DA01C"
+			}
 		}
 	}
 	"962135"
@@ -940,14 +948,20 @@
 				"size" "BF8AE70515F152AE781C3B4502F337B4"
 				"download" "7E569FA26C3C7DD9C5D247A79174C7E1"
 			}
+			"xbox_team"
+			{
+				"gid" "4FA38480EE528DF0F34C8C78035286B9"
+				"size" "C61D90D13352549EA83FB4CF685030A4"
+				"download" "3F069AF91A6E277D6354FF01B9920099"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "12964642"
-			"timeupdated" "1702577209"
+			"buildid" "14071339"
+			"timeupdated" "1713279630"
 		}
 		"accessibility_dev"
 		{
@@ -971,19 +985,13 @@
 		{
 			"buildid" "12964660"
 			"pwdrequired" "1"
-			"timeupdated" "1707249916"
+			"timeupdated" "1713281167"
 		}
 		"buddha"
 		{
-			"buildid" "13313248"
+			"buildid" "13649744"
 			"pwdrequired" "1"
-			"timeupdated" "1706665184"
-		}
-		"convention_demo"
-		{
-			"buildid" "9086064"
-			"pwdrequired" "1"
-			"timeupdated" "1657576276"
+			"timeupdated" "1709941953"
 		}
 		"kindafunny_playground"
 		{
@@ -993,21 +1001,21 @@
 		}
 		"latest_dev"
 		{
-			"buildid" "13414886"
+			"buildid" "14069478"
 			"pwdrequired" "1"
-			"timeupdated" "1707484867"
+			"timeupdated" "1713268838"
 		}
 		"latest_release"
 		{
-			"buildid" "13415837"
+			"buildid" "14068805"
 			"pwdrequired" "1"
-			"timeupdated" "1707490794"
+			"timeupdated" "1713264814"
 		}
 		"live_debug"
 		{
-			"buildid" "12964660"
+			"buildid" "13956026"
 			"pwdrequired" "1"
-			"timeupdated" "1702577355"
+			"timeupdated" "1713281192"
 		}
 		"microsoft_research"
 		{
@@ -1023,27 +1031,33 @@
 		}
 		"shipping_staging"
 		{
-			"buildid" "13415739"
+			"buildid" "14068680"
 			"pwdrequired" "1"
-			"timeupdated" "1707490174"
+			"timeupdated" "1713264015"
 		}
 		"stable_dev"
 		{
-			"buildid" "13313248"
+			"buildid" "14009879"
 			"pwdrequired" "1"
-			"timeupdated" "1706665224"
+			"timeupdated" "1712773825"
 		}
 		"stable_release"
 		{
-			"buildid" "13375633"
+			"buildid" "14071611"
 			"pwdrequired" "1"
-			"timeupdated" "1707181399"
+			"timeupdated" "1713281221"
 		}
 		"test_dev"
 		{
 			"buildid" "13037015"
 			"pwdrequired" "1"
 			"timeupdated" "1704470809"
+		}
+		"xbox_team"
+		{
+			"buildid" "14059783"
+			"pwdrequired" "1"
+			"timeupdated" "1713204084"
 		}
 	}
 }
@@ -1067,6 +1081,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22278733"
-"_sha" "19e4d6d5c576c69761667b7ac022d585420184c1"
-"_size" "23883"
+"_change_number" "23177979"
+"_sha" "314fee98b7bde6c13b58f89b769fd320744bbaf2"
+"_size" "24257"
