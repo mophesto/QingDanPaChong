@@ -336,9 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "5155119599929899032"
-				"size" "2279123619"
-				"download" "2063017104"
+				"gid" "834320871453499196"
+				"size" "2279117475"
+				"download" "2063216176"
 			}
 		}
 		"encryptedmanifests"
@@ -357,9 +357,9 @@
 			}
 			"developer"
 			{
-				"gid" "9050578C82C0B667EBCA9D91135D6DB8"
-				"size" "D947D1F2287BAF7A588B80C44DE7D232"
-				"download" "A68904734764CBCAE82DC6B47B081B61"
+				"gid" "F2216440720D39269F702270EF051AA5"
+				"size" "CD02E54A846CAD0533025028404887E4"
+				"download" "B6B4A1EA8A7E2BEA0ADCF74D83D92174"
 			}
 			"event"
 			{
@@ -381,21 +381,21 @@
 			}
 			"nightly"
 			{
-				"gid" "125B0BC9F17990B7EC0BD03B243CB31C"
-				"size" "16CA47C6C6D3F386B3862B8280970482"
-				"download" "E9578B3BC9F50B5540014FDC6D55374A"
+				"gid" "EDEA3FC9E3229548F3132BD78666F827"
+				"size" "3AF2908B26F2AA1C7BF01B5B3F61FE80"
+				"download" "6788F759EFA3C5C5C0292993E8E669E8"
 			}
 			"nightly-megapatch"
 			{
-				"gid" "A48F880988871E83201E9BE706C456D9"
-				"size" "7BE822EE833D6431A950A2867C971504"
-				"download" "2ADCC08A4E478DEFD0E45BD0061B4191"
+				"gid" "655914C6A2224198B5B80CE4B3D4F540"
+				"size" "A9FD2BC8BCE4691B059B139BA83BB860"
+				"download" "894D9F2BF85A3D183CB84D4AE42A7DAD"
 			}
 			"nightly-minipatch"
 			{
-				"gid" "016C169003A31770237C24C586CD8B0A"
-				"size" "258CEFBE7BE2B3A5B566E4CE1CFD788A"
-				"download" "8174D3F6F70C74CFCDB8AA9C44105CC5"
+				"gid" "4FA7DE50A3A985EA94521144813E2930"
+				"size" "5DB5DCF55E1B7E7EE60D0BDA8379D53D"
+				"download" "3E52836262BDAE52C7F177B3F9AE142D"
 			}
 			"playtesting"
 			{
@@ -405,9 +405,9 @@
 			}
 			"staging"
 			{
-				"gid" "12380FEE93779A969964B3B2A1A67425"
-				"size" "849EFD888E9A58678596DCCF7DB66480"
-				"download" "70FA34DACAA163F33B7516A773E0B96C"
+				"gid" "AD7ECD8A2D599627DF2A55EE30EE3ECD"
+				"size" "F9E145CE8C0907380CC20F7709D8D95B"
+				"download" "B06589D84009E71ACC17F2F5FF8AF8A6"
 			}
 			"staging2"
 			{
@@ -427,8 +427,8 @@
 	{
 		"public"
 		{
-			"buildid" "14000960"
-			"timeupdated" "1713170451"
+			"buildid" "14069308"
+			"timeupdated" "1713342095"
 		}
 		"capture"
 		{
@@ -444,9 +444,9 @@
 		}
 		"developer"
 		{
-			"buildid" "14052114"
+			"buildid" "14077505"
 			"pwdrequired" "1"
-			"timeupdated" "1713145780"
+			"timeupdated" "1713321606"
 		}
 		"event"
 		{
@@ -468,21 +468,21 @@
 		}
 		"nightly"
 		{
-			"buildid" "14052115"
+			"buildid" "14077512"
 			"pwdrequired" "1"
-			"timeupdated" "1713145826"
+			"timeupdated" "1713321653"
 		}
 		"nightly-megapatch"
 		{
-			"buildid" "14052761"
+			"buildid" "14078350"
 			"pwdrequired" "1"
-			"timeupdated" "1713154295"
+			"timeupdated" "1713329061"
 		}
 		"nightly-minipatch"
 		{
-			"buildid" "14052457"
+			"buildid" "14077957"
 			"pwdrequired" "1"
-			"timeupdated" "1713150126"
+			"timeupdated" "1713325437"
 		}
 		"playtesting"
 		{
@@ -492,9 +492,9 @@
 		}
 		"staging"
 		{
-			"buildid" "14000960"
+			"buildid" "14069308"
 			"pwdrequired" "1"
-			"timeupdated" "1712686557"
+			"timeupdated" "1713267716"
 		}
 		"staging2"
 		{
@@ -531,6 +531,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23156354"
-"_sha" "561dde9e0c3bc4314ab45adfb4229fae6f9dd616"
-"_size" "10239"
+"_change_number" "23187359"
+"_sha" "2698fc32a7b09550ecf791616ec992f484a1962a"
+"_size" "10238"
