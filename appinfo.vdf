@@ -39,8 +39,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "1"
-		"test_timestamp" "1651104000"
-		"tested_build_id" "8471073"
+		"test_timestamp" "1712275200"
+		"tested_build_id" "13536979"
 		"tests"
 		{
 			"0"
@@ -51,17 +51,18 @@
 		}
 		"configuration"
 		{
-			"supported_input" "simultaneous_gamepad_mouse"
+			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "1"
-			"small_text" "0"
+			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-1RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Midnight Ghost Hunt"
@@ -326,9 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "5710992452282646878"
-				"size" "14378978803"
-				"download" "11690775840"
+				"gid" "3771482794904377215"
+				"size" "14378978931"
+				"download" "11691196096"
 			}
 		}
 		"encryptedmanifests"
@@ -365,9 +366,9 @@
 			}
 			"internal"
 			{
-				"gid" "9246BCB21A90A45C6B6083FD11F10AA4"
-				"size" "AB49DB713941FB0F0B0C30E9660F60C1"
-				"download" "5EDD975C8EF0D03DEBD3338F9A6D95D2"
+				"gid" "BD1329166DF55666FC772823B86088D8"
+				"size" "76F709704FAFCDA9141B2EFC42A05FF0"
+				"download" "6D11401A8E7BFAFA3CB37B3F1D0CC897"
 			}
 			"internal-crossplat"
 			{
@@ -395,15 +396,15 @@
 			}
 			"pingle2"
 			{
-				"gid" "03B566D9931EEA8C0F9E6824AF4CD9BC"
-				"size" "39C5832C4E95A438ACE403B98EE0EE89"
-				"download" "A420131554C13ACDA4822564460A986F"
+				"gid" "097A11A1DCFDDBFC40CEA7C85C6D993D"
+				"size" "A99272E16DD8DC203D213FF65CC1D1C3"
+				"download" "9E47C716BC586223B0E5F1562E896229"
 			}
 			"press"
 			{
-				"gid" "1EEFF506694970A14ECF44E60184558E"
-				"size" "3D8602D47DCD06F1A78EC3DE19CB47BA"
-				"download" "12FFF7EFB39801ED452969FBA28C4C2A"
+				"gid" "7AF25D8A8F92D06E42A8A4B9F0454A9D"
+				"size" "85A4D8A2CABDA2FB233AF5D9456C61F5"
+				"download" "9E0B9F0DA727DF0559650FF8138538E1"
 			}
 			"public-staging"
 			{
@@ -413,33 +414,33 @@
 			}
 			"qa-test"
 			{
-				"gid" "919BF56CDF67D3147B052CAD3D592877"
-				"size" "6D8570F507A579C3D8BA5D581A26FD1F"
-				"download" "D7A52592A51321B81C7584D5A77B7356"
+				"gid" "0185A46D511544344F7FAA614BFE9094"
+				"size" "867604F90ADA47CF797DF949D12446DA"
+				"download" "E231F9E2EC6F1B238DC7D8F192BC9ACC"
 			}
 			"reset"
 			{
-				"gid" "1AA6D80D3D3A04ED43E187F32994D56C"
-				"size" "2468E959864B5C0B2F6400A733046FCC"
-				"download" "1C3890DE8093FA80A6DB18E74A66EA77"
+				"gid" "BACBB4BC450EF57DB5F0D5CA438ECB8B"
+				"size" "B8F2BF93C18211FC2CF4F736836E3B73"
+				"download" "5FCA48137236AC1DFE24F9C0CFC00B0D"
 			}
 			"review"
 			{
-				"gid" "B1A1EF61B75B036C50CA986030FB471F"
-				"size" "B4F32127D1F20E55960E4F85AC9495A2"
-				"download" "D4239E17BA45C70475BE2F5AFDA33D2C"
+				"gid" "B6C28B17ADB1567BDE47C64BC89CE9FB"
+				"size" "18B723D63E0D1C28402488C4875F5747"
+				"download" "CC3BBF8ECFC29F70037F92C9FAF89198"
 			}
 			"sharingiscaring"
 			{
-				"gid" "BCA2B9305C72DC5700B98DFE1B726650"
-				"size" "AE400067DC3D3FF963320AFBC33C1CF1"
-				"download" "7FA64C140D1033AECDCDA37B78DB28B4"
+				"gid" "6012AA3FA95BBB02C9D5138DC0682554"
+				"size" "5EE1ADA60DAF0919F247BBF8E85C8F36"
+				"download" "95CDCE8B3232C0FC35161532FA71650B"
 			}
 			"sketest"
 			{
-				"gid" "B956A94A9185F62E26E8EC75DACE4674"
-				"size" "500F0A3546423480EBB4B36183848CE1"
-				"download" "EF1E127E39D610CC8D2A3C6481327FF1"
+				"gid" "2B0E54E4F94D3F25AEFA7C7E47CA806D"
+				"size" "404E36C79699887F7367F0BC874B9ABC"
+				"download" "2E6ACE118D30F3400E553887ACF4D71F"
 			}
 		}
 	}
@@ -447,8 +448,8 @@
 	{
 		"public"
 		{
-			"buildid" "13937326"
-			"timeupdated" "1712163076"
+			"buildid" "14064687"
+			"timeupdated" "1713302342"
 		}
 		"actest"
 		{
@@ -482,9 +483,9 @@
 		}
 		"internal"
 		{
-			"buildid" "13937326"
+			"buildid" "14064687"
 			"pwdrequired" "1"
-			"timeupdated" "1712163005"
+			"timeupdated" "1713302271"
 		}
 		"internal-crossplat"
 		{
@@ -512,15 +513,15 @@
 		}
 		"pingle2"
 		{
-			"buildid" "13937326"
+			"buildid" "14064687"
 			"pwdrequired" "1"
-			"timeupdated" "1712163014"
+			"timeupdated" "1713302280"
 		}
 		"press"
 		{
-			"buildid" "13937326"
+			"buildid" "14064687"
 			"pwdrequired" "1"
-			"timeupdated" "1712163024"
+			"timeupdated" "1713302288"
 		}
 		"public-staging"
 		{
@@ -530,33 +531,33 @@
 		}
 		"qa-test"
 		{
-			"buildid" "13937326"
+			"buildid" "14064687"
 			"pwdrequired" "1"
-			"timeupdated" "1712163031"
+			"timeupdated" "1713302296"
 		}
 		"reset"
 		{
-			"buildid" "13937326"
+			"buildid" "14064687"
 			"pwdrequired" "1"
-			"timeupdated" "1712163041"
+			"timeupdated" "1713302303"
 		}
 		"review"
 		{
-			"buildid" "13937326"
+			"buildid" "14064687"
 			"pwdrequired" "1"
-			"timeupdated" "1712163048"
+			"timeupdated" "1713302310"
 		}
 		"sharingiscaring"
 		{
-			"buildid" "13937326"
+			"buildid" "14064687"
 			"pwdrequired" "1"
-			"timeupdated" "1712162749"
+			"timeupdated" "1713235034"
 		}
 		"sketest"
 		{
-			"buildid" "13937326"
+			"buildid" "14064687"
 			"pwdrequired" "1"
-			"timeupdated" "1712162755"
+			"timeupdated" "1713235022"
 		}
 	}
 }
@@ -597,6 +598,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23017120"
-"_sha" "36334302552cd04d1a37cc89916cfd3cf8413b8f"
-"_size" "11976"
+"_change_number" "23181229"
+"_sha" "1dedeb2529b384eec846b6cf8be45c0e7e80c469"
+"_size" "11982"
