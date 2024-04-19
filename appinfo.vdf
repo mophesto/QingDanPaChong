@@ -46,8 +46,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -276,7 +274,7 @@
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "440"
-	"exfgls" "2"
+	"exfgls" "3"
 	"store_tags"
 	{
 		"0" "113"
@@ -352,12 +350,12 @@
 	{
 		"0"
 		{
-			"executable" "hl2.exe"
-			"arguments" "-steam -game tf"
-			"vacmodulefilename" "resource\\sourceinit.dat"
+			"executable" "tf_win64.exe"
+			"arguments" "-steam"
 			"config"
 			{
 				"oslist" "windows"
+				"osarch" "64"
 			}
 		}
 		"1"
@@ -371,29 +369,38 @@
 		}
 		"2"
 		{
-			"executable" "hl2.sh"
-			"arguments" "-steam -game tf"
+			"executable" "tf.sh"
+			"arguments" "-steam"
 			"config"
 			{
 				"oslist" "linux"
+				"osarch" "64"
 			}
 		}
-		"3"
+		"6"
 		{
-			"executable" "hl2_win64.exe"
-			"arguments" "-steam -game tf"
+			"executable" "tf.exe"
+			"arguments" "-steam"
 			"config"
 			{
 				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"7"
+		{
+			"executable" "tf.sh"
+			"arguments" "-steam -gl"
+			"config"
+			{
+				"oslist" "linux"
 				"osarch" "64"
-				"betakey" "x64_linux_test"
-				"steamdeck" "0"
 			}
 			"description_loc"
 			{
-				"english" "Windows 64bit Beta Test"
+				"english" "Legacy OpenGL"
 			}
-			"description" "Windows 64bit Beta Test"
+			"description" "Legacy OpenGL"
 		}
 	}
 	"vrcompositorsupport" "0"
@@ -422,7 +429,6 @@
 		"1"
 		{
 			"platform" "linux"
-			"branch" "x64_linux_test"
 			"tool" "SteamLinuxRuntime_sniper"
 			"comment" "sniper SLR"
 		}
@@ -450,9 +456,9 @@
 		{
 			"public"
 			{
-				"gid" "310401172695269575"
-				"size" "27580496338"
-				"download" "13103139344"
+				"gid" "3635157605395103386"
+				"size" "27585185992"
+				"download" "13104915840"
 			}
 			"pre_07_25_23_demos"
 			{
@@ -474,15 +480,9 @@
 			}
 			"prerelease"
 			{
-				"gid" "310401172695269575"
-				"size" "27580496338"
-				"download" "13103139344"
-			}
-			"x64_linux_test"
-			{
-				"gid" "5245122642531341961"
-				"size" "27585022210"
-				"download" "13104906112"
+				"gid" "3635157605395103386"
+				"size" "27585185992"
+				"download" "13104915840"
 			}
 		}
 	}
@@ -521,12 +521,6 @@
 				"size" "825745"
 				"download" "43168"
 			}
-			"x64_linux_test"
-			{
-				"gid" "1118032470228587934"
-				"size" "825745"
-				"download" "43168"
-			}
 		}
 	}
 	"232251"
@@ -540,9 +534,9 @@
 		{
 			"public"
 			{
-				"gid" "3545034868290892873"
-				"size" "597833872"
-				"download" "479509088"
+				"gid" "1976382797546040682"
+				"size" "553204947"
+				"download" "352578816"
 			}
 			"pre_07_25_23_demos"
 			{
@@ -564,15 +558,9 @@
 			}
 			"prerelease"
 			{
-				"gid" "3545034868290892873"
-				"size" "597833872"
-				"download" "479509088"
-			}
-			"x64_linux_test"
-			{
-				"gid" "5541339265937780970"
-				"size" "739139788"
-				"download" "524896096"
+				"gid" "1976382797546040682"
+				"size" "553204947"
+				"download" "352578816"
 			}
 		}
 	}
@@ -587,9 +575,9 @@
 		{
 			"public"
 			{
-				"gid" "948384044076174684"
-				"size" "510916113"
-				"download" "391278896"
+				"gid" "678390272316880472"
+				"size" "103246051"
+				"download" "22586512"
 			}
 			"pre_07_25_23_demos"
 			{
@@ -611,15 +599,9 @@
 			}
 			"prerelease"
 			{
-				"gid" "948384044076174684"
-				"size" "510916113"
-				"download" "391278896"
-			}
-			"x64_linux_test"
-			{
-				"gid" "1854981344192824238"
-				"size" "510814740"
-				"download" "391335056"
+				"gid" "678390272316880472"
+				"size" "103246051"
+				"download" "22586512"
 			}
 		}
 	}
@@ -634,9 +616,9 @@
 		{
 			"public"
 			{
-				"gid" "1021304105111148610"
-				"size" "575311564"
-				"download" "459132032"
+				"gid" "7356486807344930561"
+				"size" "405622516"
+				"download" "285114960"
 			}
 			"pre_07_25_23_demos"
 			{
@@ -658,15 +640,9 @@
 			}
 			"prerelease"
 			{
-				"gid" "1021304105111148610"
-				"size" "575311564"
-				"download" "459132032"
-			}
-			"x64_linux_test"
-			{
-				"gid" "4860683892721429603"
-				"size" "590011149"
-				"download" "459137200"
+				"gid" "7356486807344930561"
+				"size" "405622516"
+				"download" "285114960"
 			}
 		}
 	}
@@ -708,12 +684,6 @@
 				"size" "7452052"
 				"download" "2986208"
 			}
-			"x64_linux_test"
-			{
-				"gid" "646330807595077556"
-				"size" "7452052"
-				"download" "2986208"
-			}
 		}
 	}
 	"445"
@@ -726,9 +696,9 @@
 		{
 			"public"
 			{
-				"gid" "5602233730528152354"
+				"gid" "4462275339090266921"
 				"size" "90075889"
-				"download" "79353248"
+				"download" "79353264"
 			}
 			"pre_07_25_23_demos"
 			{
@@ -749,12 +719,6 @@
 				"download" "79353248"
 			}
 			"prerelease"
-			{
-				"gid" "5602233730528152354"
-				"size" "90075889"
-				"download" "79353248"
-			}
-			"x64_linux_test"
 			{
 				"gid" "4462275339090266921"
 				"size" "90075889"
@@ -772,9 +736,9 @@
 		{
 			"public"
 			{
-				"gid" "6215119033293728486"
+				"gid" "4932209831621142568"
 				"size" "74594251"
-				"download" "65214128"
+				"download" "65214112"
 			}
 			"pre_07_25_23_demos"
 			{
@@ -795,12 +759,6 @@
 				"download" "65214128"
 			}
 			"prerelease"
-			{
-				"gid" "6215119033293728486"
-				"size" "74594251"
-				"download" "65214128"
-			}
-			"x64_linux_test"
 			{
 				"gid" "4932209831621142568"
 				"size" "74594251"
@@ -818,9 +776,9 @@
 		{
 			"public"
 			{
-				"gid" "8469957949853360122"
+				"gid" "638274067337307989"
 				"size" "73934506"
-				"download" "64158192"
+				"download" "64158176"
 			}
 			"pre_07_25_23_demos"
 			{
@@ -841,12 +799,6 @@
 				"download" "64158192"
 			}
 			"prerelease"
-			{
-				"gid" "8469957949853360122"
-				"size" "73934506"
-				"download" "64158192"
-			}
-			"x64_linux_test"
 			{
 				"gid" "638274067337307989"
 				"size" "73934506"
@@ -864,9 +816,9 @@
 		{
 			"public"
 			{
-				"gid" "2451727451644207550"
+				"gid" "476175847494669680"
 				"size" "73947996"
-				"download" "58909344"
+				"download" "58909360"
 			}
 			"pre_07_25_23_demos"
 			{
@@ -888,12 +840,6 @@
 			}
 			"prerelease"
 			{
-				"gid" "2451727451644207550"
-				"size" "73947996"
-				"download" "58909344"
-			}
-			"x64_linux_test"
-			{
 				"gid" "476175847494669680"
 				"size" "73947996"
 				"download" "58909360"
@@ -904,8 +850,8 @@
 	{
 		"public"
 		{
-			"buildid" "13131251"
-			"timeupdated" "1704848318"
+			"buildid" "14098740"
+			"timeupdated" "1713480155"
 		}
 		"pre_07_25_23_demos"
 		{
@@ -926,14 +872,8 @@
 		}
 		"prerelease"
 		{
-			"buildid" "13131251"
-			"timeupdated" "1704848395"
-		}
-		"x64_linux_test"
-		{
-			"buildid" "13357742"
-			"description" "64bit Linux test. Cannot connect to public servers or matchmaking."
-			"timeupdated" "1706985203"
+			"buildid" "14098740"
+			"timeupdated" "1713480261"
 		}
 	}
 }
@@ -1521,6 +1461,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22248332"
-"_sha" "79bc70419a6f872a0a5011fc10051dbc17469d1a"
-"_size" "50645"
+"_change_number" "23214432"
+"_sha" "81473f14109bbe8f6dcdcb7f58e095f3672a9ebd"
+"_size" "49203"
