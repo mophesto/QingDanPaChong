@@ -22,6 +22,11 @@
 	"oslist" "macos,windows,linux"
 	"linuxclienticon" "9fdf1fd03f3f8a2669826902124f6b99ecf7981f"
 	"type" "game"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -122,6 +127,7 @@
 		"category_1" "1"
 		"category_29" "1"
 		"category_30" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -189,8 +195,8 @@
 		"12" "3839"
 		"13" "3978"
 		"14" "1669"
-		"15" "4155"
-		"16" "5796"
+		"15" "5796"
+		"16" "4155"
 		"17" "4191"
 		"18" "4182"
 		"19" "19995"
@@ -655,6 +661,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "21511503"
-"_sha" "344c28045e70f70e35ea9772b2a09d986218aa3a"
-"_size" "12938"
+"_change_number" "22625276"
+"_sha" "3dcb0e04bf33dcc27f7e0686dc6b71c6dbb6c5ca"
+"_size" "13016"
