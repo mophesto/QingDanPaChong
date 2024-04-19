@@ -117,6 +117,7 @@
 		"category_42" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -237,9 +238,9 @@
 		{
 			"public"
 			{
-				"gid" "6511004538898806694"
-				"size" "4226127026"
-				"download" "3348073120"
+				"gid" "8017962400125715418"
+				"size" "3696210680"
+				"download" "2947066816"
 			}
 			"event-test"
 			{
@@ -249,9 +250,9 @@
 			}
 			"frame-test"
 			{
-				"gid" "5063291926811851644"
-				"size" "3884099477"
-				"download" "3106763984"
+				"gid" "6687659281010261726"
+				"size" "3920897875"
+				"download" "3141460880"
 			}
 			"taiwu"
 			{
@@ -261,24 +262,24 @@
 			}
 			"test"
 			{
-				"gid" "1915322310762328043"
-				"size" "4226127045"
-				"download" "3348074208"
+				"gid" "8242490352889919865"
+				"size" "3696211149"
+				"download" "2947064112"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "838527E6FA4DC38BC64B90B25F6C20C8"
-				"size" "4DDCAA59C1D53BF67C3FCB68E137227A"
-				"download" "95E0B47F20BA27EDBF3ABB6D068B5F3D"
+				"gid" "F7B2AE6D9587805DE50EF9CD95BFE310"
+				"size" "D95389D72FA5208848398188CB8BAA41"
+				"download" "6E368FE5BEE2FC3D218681A42EEB260D"
 			}
 			"longterm-test"
 			{
-				"gid" "A00D500ABDE3ED2766FEB18CAF0202D9"
-				"size" "136F5BD16A7ECB530F788079B234A4FA"
-				"download" "C4F20DF78136A7E31CFED9376259AE35"
+				"gid" "EAACD849C5E8B68FCD4A5D23A2D17F53"
+				"size" "FF4F5FD6B628166A8B5F3D3D13FE7E8A"
+				"download" "1C04AFFBFC238065E8A64C046CF0BAE6"
 			}
 		}
 	}
@@ -349,14 +350,14 @@
 	{
 		"public"
 		{
-			"buildid" "13710452"
-			"timeupdated" "1710231380"
+			"buildid" "14111043"
+			"timeupdated" "1713538319"
 		}
 		"alpha"
 		{
-			"buildid" "13700146"
+			"buildid" "14112082"
 			"pwdrequired" "1"
-			"timeupdated" "1710231186"
+			"timeupdated" "1713544814"
 		}
 		"event-test"
 		{
@@ -366,15 +367,15 @@
 		}
 		"frame-test"
 		{
-			"buildid" "13561351"
+			"buildid" "13865514"
 			"description" "框架测试分支"
-			"timeupdated" "1708940278"
+			"timeupdated" "1711605870"
 		}
 		"longterm-test"
 		{
-			"buildid" "13700146"
+			"buildid" "14112163"
 			"pwdrequired" "1"
-			"timeupdated" "1710231401"
+			"timeupdated" "1713544613"
 		}
 		"taiwu"
 		{
@@ -384,9 +385,9 @@
 		}
 		"test"
 		{
-			"buildid" "13700146"
+			"buildid" "14112163"
 			"description" "测试分支"
-			"timeupdated" "1710231391"
+			"timeupdated" "1713544628"
 		}
 	}
 }
@@ -398,6 +399,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "22725466"
-"_sha" "1ab2b8665ae2eb6aa2feafcb75262ceca017d671"
-"_size" "7745"
+"_change_number" "23225982"
+"_sha" "49a6c3cdf79a065523d2b3c0e17b65ff19260787"
+"_size" "7767"
