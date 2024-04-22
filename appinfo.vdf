@@ -72,6 +72,7 @@
 			"hdr_support" "0"
 		}
 	}
+	"metacritic_name" "Quilts and Cats of Calico"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -239,6 +240,8 @@
 		}
 	}
 	"steam_release_date" "1709660533"
+	"metacritic_score" "88"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/quilts-and-cats-of-calico\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1993180"
@@ -330,9 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "219043588953151403"
-				"size" "897134867"
-				"download" "614050944"
+				"gid" "6274563150493755809"
+				"size" "899711767"
+				"download" "615460144"
 			}
 		}
 		"encryptedmanifests"
@@ -343,23 +346,23 @@
 				"size" "D646C1298F610C4247EE21FEE5351A15"
 				"download" "2B903AB4630E1DACE702446287C9D8AB"
 			}
+			"challenge"
+			{
+				"gid" "44E8F117BCFB8116EE90B561A5BF1801"
+				"size" "853F22D3F359EC2569C6092BB013D9F4"
+				"download" "159F6DC4AC078F34B72349908C98D754"
+			}
 			"develop"
 			{
-				"gid" "1B11B2C9E23399B54608B7814DA9F40C"
-				"size" "1E390E18DE8082D57B6A471D00BC017C"
-				"download" "102AB1E4D6CF3A850BFE9458371E9946"
-			}
-			"justnewunity"
-			{
-				"gid" "424C3E0D0D9E52344EEDB33F01DE1E8B"
-				"size" "FF1C75D6DFB630FCA6844F5F9A6BD1B7"
-				"download" "703EB23BFE1441F598D713CE78F8FE71"
+				"gid" "A21D9A73421238B31E328E443046260E"
+				"size" "4277F2CBD6651BAF176091DC1B08B04E"
+				"download" "763735E1903FB33D55BAE17C6CF79FC5"
 			}
 			"main"
 			{
-				"gid" "689EF9C4DAC892B7335C5D254126D5BE"
-				"size" "CED57B5DDCC163D5B1B88C9F3BD188AB"
-				"download" "BE56F8EA607F4DD4FCFE69CCC83390A2"
+				"gid" "AAE6B375BAD3AD240FF0CC324482DE09"
+				"size" "9EB1BC66CEA0802B4C9E3847E58A8474"
+				"download" "92CA44AF810804AF699259C7E192F6FE"
 			}
 			"optimization"
 			{
@@ -379,9 +382,9 @@
 		{
 			"public"
 			{
-				"gid" "2969987737472142405"
-				"size" "1027639763"
-				"download" "641034048"
+				"gid" "8063211171779146227"
+				"size" "1030251097"
+				"download" "642466864"
 			}
 		}
 		"encryptedmanifests"
@@ -392,23 +395,23 @@
 				"size" "9FCDC7F51A7A14E92D3503F4A550FAF1"
 				"download" "795005DC960FB567C1E8F5E0D674E2DF"
 			}
+			"challenge"
+			{
+				"gid" "FFBD3D2331E1BE208338F6D763470199"
+				"size" "E72051AB035365DC17164922F56F104A"
+				"download" "D2D60EEF3BB2C28DF6E3F10C90FC8B4A"
+			}
 			"develop"
 			{
-				"gid" "FF62F08C2DEE80C512004201D9BF245B"
-				"size" "1CFB38FBFFE059AA8D356FE96E2C626B"
-				"download" "88A6F64F221264C7FF51C30CD08AFE51"
-			}
-			"justnewunity"
-			{
-				"gid" "BC7E19A8C7B2C9B32B8996FD79F883DD"
-				"size" "3FA1E933AC4F804ECC2A0EA728BABA1D"
-				"download" "DDB2A82360B6981DBE450161F5C84A47"
+				"gid" "464D2AA2B46A3E0BC13E2BAB31A3C86E"
+				"size" "87229AE248A3ED7D32B497478D2BDE98"
+				"download" "D74BA022D1DD32153CA09F4ADFDA2A42"
 			}
 			"main"
 			{
-				"gid" "A3E265BCBE921391CC098A9669E8C18F"
-				"size" "981882DB31BFF862A871E6BD2BC2A444"
-				"download" "169ED67A84A7FC9E8DBCE9D882750CE9"
+				"gid" "AB2136FFDDC85358167417E7DAB82039"
+				"size" "E35C63E9A3969AEFBDC612385E49CDBA"
+				"download" "9212D0044462162BB62168B06E9F5D94"
 			}
 			"optimization"
 			{
@@ -422,8 +425,8 @@
 	{
 		"public"
 		{
-			"buildid" "13737480"
-			"timeupdated" "1710424032"
+			"buildid" "14109429"
+			"timeupdated" "1713773541"
 		}
 		"authentication_test"
 		{
@@ -431,23 +434,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1710153781"
 		}
+		"challenge"
+		{
+			"buildid" "13949273"
+			"pwdrequired" "1"
+			"timeupdated" "1712235122"
+		}
 		"develop"
 		{
-			"buildid" "13894484"
+			"buildid" "14130342"
 			"pwdrequired" "1"
-			"timeupdated" "1711717586"
-		}
-		"justnewunity"
-		{
-			"buildid" "13679012"
-			"pwdrequired" "1"
-			"timeupdated" "1709888259"
+			"timeupdated" "1713774584"
 		}
 		"main"
 		{
-			"buildid" "13737480"
+			"buildid" "14109429"
 			"pwdrequired" "1"
-			"timeupdated" "1710410314"
+			"timeupdated" "1713529326"
 		}
 		"optimization"
 		{
@@ -463,6 +466,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "22961640"
-"_sha" "afd97cffa59724c2863d048afdfe7e9cec5d14ef"
-"_size" "9277"
+"_change_number" "23247743"
+"_sha" "6d7bff07ba44ffd3266b482ad29a6f81da9f0818"
+"_size" "9452"
