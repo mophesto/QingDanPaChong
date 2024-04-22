@@ -89,6 +89,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -96,7 +97,7 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1703176611"
+	"store_asset_mtime" "1712152399"
 	"associations"
 	{
 		"0"
@@ -131,6 +132,7 @@
 		"category_23" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -244,15 +246,15 @@
 		{
 			"public"
 			{
-				"gid" "2655871719399907791"
-				"size" "638790629"
-				"download" "369726320"
+				"gid" "8016999435136266869"
+				"size" "638638291"
+				"download" "372794448"
 			}
 			"experimental"
 			{
-				"gid" "5314991758100378474"
-				"size" "667462779"
-				"download" "376912176"
+				"gid" "8915964660743370551"
+				"size" "667258861"
+				"download" "379971712"
 			}
 			"legacy-0.7.17"
 			{
@@ -262,18 +264,18 @@
 			}
 			"save-migration"
 			{
-				"gid" "7348521436792099224"
-				"size" "638892512"
-				"download" "369766960"
+				"gid" "2905505571129572686"
+				"size" "638894560"
+				"download" "369766560"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"audio"
 			{
-				"gid" "1D02602ADDC5129E32BF2DAECD608074"
-				"size" "3605453B57CB7D0DE40DF1B30BC07B29"
-				"download" "F0C8AEC690BC35A65F9FAE0D303A1744"
+				"gid" "F22B17A834988268291A5CC88CD5C4E1"
+				"size" "3EF86FA389A2A47819EBE94ABCD2FFC6"
+				"download" "A55CE3CE2A730440FDDC172E8F721C2E"
 			}
 			"internal"
 			{
@@ -305,20 +307,20 @@
 	{
 		"public"
 		{
-			"buildid" "13727449"
-			"timeupdated" "1710339596"
+			"buildid" "14111176"
+			"timeupdated" "1713784853"
 		}
 		"audio"
 		{
-			"buildid" "12849604"
+			"buildid" "13739918"
 			"pwdrequired" "1"
-			"timeupdated" "1701431828"
+			"timeupdated" "1710424663"
 		}
 		"experimental"
 		{
-			"buildid" "13703746"
+			"buildid" "14111190"
 			"description" "Home of future updates"
-			"timeupdated" "1710172308"
+			"timeupdated" "1713538689"
 		}
 		"internal"
 		{
@@ -346,9 +348,9 @@
 		}
 		"save-migration"
 		{
-			"buildid" "13703964"
+			"buildid" "13996113"
 			"description" "Migrate old saves to 0.18 and above"
-			"timeupdated" "1710172297"
+			"timeupdated" "1712657896"
 		}
 		"staging"
 		{
@@ -385,6 +387,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22745951"
-"_sha" "9aec71e45d66d0905de692dba3d42f92b99b4ed1"
-"_size" "7215"
+"_change_number" "23249628"
+"_sha" "fe394552bcd3197678f1ed7f08289242ed80f30a"
+"_size" "7263"
