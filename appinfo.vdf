@@ -84,7 +84,8 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
-	"controller_support" "partial"
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -107,7 +108,7 @@
 			"height_pct" "68.58841057605605"
 		}
 	}
-	"store_asset_mtime" "1708009451"
+	"store_asset_mtime" "1708514653"
 	"associations"
 	{
 		"0"
@@ -147,8 +148,9 @@
 		"category_9" "1"
 		"category_45" "1"
 		"category_46" "1"
-		"category_18" "1"
 		"category_22" "1"
+		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -204,20 +206,20 @@
 		"6" "1643"
 		"7" "1702"
 		"8" "3834"
-		"9" "4182"
-		"10" "1685"
+		"9" "1685"
+		"10" "4182"
 		"11" "3810"
 		"12" "21"
 		"13" "122"
 		"14" "4747"
 		"15" "4106"
 		"16" "1697"
-		"17" "4328"
-		"18" "3839"
+		"17" "3839"
+		"18" "4328"
 		"19" "19"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -295,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "7971218670380547790"
-				"size" "21270966451"
-				"download" "9808474288"
+				"gid" "5795028491922735548"
+				"size" "21574344138"
+				"download" "9944144640"
 			}
 			"local"
 			{
@@ -322,9 +324,9 @@
 			}
 			"development"
 			{
-				"gid" "DCDBDF997519236247CC94771256E3E3"
-				"size" "8B4ABEA9ED0788006853715252DA451D"
-				"download" "714037C1DC2DD8E2DEC91A163831D1B9"
+				"gid" "6BE1B8F3AD0A8CCF2A5AAAB9E2C1724D"
+				"size" "7B1819570CA962869611E278225309B6"
+				"download" "652ADF0EB690682D66A5F8BAD63E05DF"
 			}
 			"epictesting"
 			{
@@ -358,9 +360,9 @@
 			}
 			"marketingcapture"
 			{
-				"gid" "EE8C2BBE6864D671E04561DA475C8A98"
-				"size" "D39FB3CDFDC0F37EC2C13B5A9E287A10"
-				"download" "8BB9BFD34B4CFD930A670878C3CFE49C"
+				"gid" "E51303F192CFA2FE94950EAED065C595"
+				"size" "5BDA754B3513C1E0526D13D2170A6A96"
+				"download" "6F3AA8195CA774D7041066BF9328511B"
 			}
 			"nvidia"
 			{
@@ -410,8 +412,8 @@
 	{
 		"public"
 		{
-			"buildid" "13455547"
-			"timeupdated" "1708005618"
+			"buildid" "14113174"
+			"timeupdated" "1713794257"
 		}
 		"creators"
 		{
@@ -428,9 +430,9 @@
 		}
 		"development"
 		{
-			"buildid" "13455547"
+			"buildid" "14113174"
 			"pwdrequired" "1"
-			"timeupdated" "1707923977"
+			"timeupdated" "1713772228"
 		}
 		"epictesting"
 		{
@@ -471,9 +473,9 @@
 		}
 		"marketingcapture"
 		{
-			"buildid" "13408735"
+			"buildid" "14112184"
 			"pwdrequired" "1"
-			"timeupdated" "1707739620"
+			"timeupdated" "1713772217"
 		}
 		"nvidia"
 		{
@@ -549,6 +551,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22358931"
-"_sha" "f0cb084465802336b5d7090e26b1a970e620e0bb"
-"_size" "10844"
+"_change_number" "23251498"
+"_sha" "5a9195dda26b5e849fdc7ce82aa87f30c0fb3661"
+"_size" "10892"
