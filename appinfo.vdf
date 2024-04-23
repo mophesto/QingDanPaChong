@@ -311,48 +311,54 @@
 		{
 			"public"
 			{
-				"gid" "142470953434606996"
-				"size" "21549137468"
-				"download" "9322773056"
+				"gid" "3341932292337519638"
+				"size" "21549158868"
+				"download" "9322804560"
+			}
+			"publictest"
+			{
+				"gid" "3341932292337519638"
+				"size" "21549158868"
+				"download" "9322804560"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"demo"
 			{
-				"gid" "53D78A32049CE2EEF33506ABD9902974"
-				"size" "202625970BF6819358808D66C48ED6E7"
-				"download" "0CA9686C6E3E04CBC84B3EDCBE0C8EA7"
+				"gid" "6DA8F9E12FCB3D102609B95F23131417"
+				"size" "048EA916B2C5C9791484AAF8FA212166"
+				"download" "5F73B3D1F47568F89692F5FC471834B5"
 			}
 			"development"
 			{
-				"gid" "45A23E55166C3223DAFCB4DC31331653"
-				"size" "DBEED5A881732ADA653C05183872B05B"
-				"download" "067EC7DD3FDCB39CF1B1A0B83E908C08"
+				"gid" "5040E0634757669FC71660E1A9B5EAD5"
+				"size" "B8D06BE3ED48D0FD800390523A97B505"
+				"download" "B252C28C711E66FFAA708C69636519AB"
 			}
 			"experimental"
 			{
-				"gid" "E4272A0626D7CC25EA67C5F7C232731B"
-				"size" "E2B189636DE9A041922D88E2013BCEE4"
-				"download" "DED6EE1F710DA56951FD874FFBCCFBB5"
+				"gid" "BD243716FDD7C56C7547CE5595438430"
+				"size" "F0D25F533B4BB2F1254A3CEE16F64BD1"
+				"download" "38DCEE0CCA29D06C60BF8C468287E4E3"
 			}
 			"gamescon"
 			{
-				"gid" "D487CB64A19F6E795B453A41C6D0CFF8"
-				"size" "B500DB8CBA49E00FBFB91A9EC718569A"
-				"download" "3C1BC5620FD4DCF220A3C84B413C49DB"
+				"gid" "29A901EE3CDA3B746F7BA9E5BC358A04"
+				"size" "54D85954D9158E3C820914AC161B1C18"
+				"download" "CE7C3754776CCA83DB55213C33D727B5"
 			}
 			"localization"
 			{
-				"gid" "3EFC9CA5552913A4A225AD73D2547727"
-				"size" "B7F2E9B277AE086F69FDF4C2BC81A46A"
-				"download" "B5242B27B3BCD5E2AE61F4E8B3827CC2"
+				"gid" "D0BD134111FFA1F4508795CA4598DFBA"
+				"size" "E6F6461D53509356A592E2330842269D"
+				"download" "2C2CC60F367D71893F6BBB28AE86F1FF"
 			}
 			"press1"
 			{
-				"gid" "CD544F6646AD4984C280ADFD769DB4AD"
-				"size" "64661388DB0750297145A7E1EC81CEAF"
-				"download" "A34E9BD80072CAB44259429D679FA2F0"
+				"gid" "5661117D8D3CF2295D4E93DE4A498C3C"
+				"size" "56245AA322438CC193EE69415E8ABE7F"
+				"download" "56C8FF136FE8C7AAAC824A006AB8277D"
 			}
 		}
 	}
@@ -360,44 +366,50 @@
 	{
 		"public"
 		{
-			"buildid" "14134860"
-			"timeupdated" "1713803935"
+			"buildid" "14147096"
+			"timeupdated" "1713888075"
 		}
 		"demo"
 		{
-			"buildid" "14134860"
+			"buildid" "14147096"
 			"pwdrequired" "1"
-			"timeupdated" "1713803950"
+			"timeupdated" "1713888086"
 		}
 		"development"
 		{
-			"buildid" "14134860"
+			"buildid" "14147096"
 			"pwdrequired" "1"
-			"timeupdated" "1713802537"
+			"timeupdated" "1713883740"
 		}
 		"experimental"
 		{
-			"buildid" "14134860"
+			"buildid" "14147096"
 			"pwdrequired" "1"
-			"timeupdated" "1713803957"
+			"timeupdated" "1713888095"
 		}
 		"gamescon"
 		{
-			"buildid" "14134860"
+			"buildid" "14147096"
 			"pwdrequired" "1"
-			"timeupdated" "1713803962"
+			"timeupdated" "1713888106"
 		}
 		"localization"
 		{
-			"buildid" "14134860"
+			"buildid" "14147096"
 			"pwdrequired" "1"
-			"timeupdated" "1713803968"
+			"timeupdated" "1713888113"
 		}
 		"press1"
 		{
-			"buildid" "14134860"
+			"buildid" "14147096"
 			"pwdrequired" "1"
-			"timeupdated" "1713803945"
+			"timeupdated" "1713888119"
+		}
+		"publictest"
+		{
+			"buildid" "14147096"
+			"description" "Public Test"
+			"timeupdated" "1713884310"
 		}
 	}
 }
@@ -407,6 +419,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "23253738"
-"_sha" "494b471f86239b6ef2f88f2a50c8d1a1539de860"
-"_size" "7667"
+"_change_number" "23269153"
+"_sha" "db1752b0106a9fce1c9cbcaa4acc4bef62c9d722"
+"_size" "7905"
