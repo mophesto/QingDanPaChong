@@ -13,6 +13,8 @@
 	{
 		"schinese" "风暴之城 Against the Storm"
 		"tchinese" "風暴之城 Against the Storm"
+		"japanese" "Against the Storm アゲインスト・ザ・ストーム"
+		"koreana" "Against the Storm 어게인스트 더 스톰"
 	}
 	"languages"
 	{
@@ -114,7 +116,7 @@
 			"height_pct" "59.06585327745503"
 		}
 	}
-	"store_asset_mtime" "1707417004"
+	"store_asset_mtime" "1711576529"
 	"associations"
 	{
 		"0"
@@ -147,6 +149,7 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -236,6 +239,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1702050749"
 	"metacritic_score" "91"
@@ -246,25 +254,25 @@
 	"store_tags"
 	{
 		"0" "9"
-		"1" "4328"
-		"2" "599"
-		"3" "7332"
-		"4" "1643"
-		"5" "12472"
-		"6" "8945"
+		"1" "599"
+		"2" "7332"
+		"3" "4328"
+		"4" "220585"
+		"5" "87918"
+		"6" "1643"
 		"7" "3810"
-		"8" "220585"
-		"9" "1662"
-		"10" "1716"
-		"11" "1669"
-		"12" "4695"
-		"13" "4182"
-		"14" "1695"
-		"15" "3871"
-		"16" "3959"
+		"8" "12472"
+		"9" "1695"
+		"10" "8945"
+		"11" "1662"
+		"12" "1676"
+		"13" "1669"
+		"14" "4182"
+		"15" "4695"
+		"16" "1702"
 		"17" "255534"
-		"18" "1684"
-		"19" "492"
+		"18" "4711"
+		"19" "3871"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -323,15 +331,21 @@
 		{
 			"public"
 			{
+				"gid" "8318090861246245053"
+				"size" "4955156455"
+				"download" "2673821744"
+			}
+			"1.2.3"
+			{
 				"gid" "1415845506340075393"
 				"size" "5149027406"
 				"download" "2851351376"
 			}
 			"experimental"
 			{
-				"gid" "7433218514538262046"
-				"size" "5149027165"
-				"download" "2851351296"
+				"gid" "1125270304177996530"
+				"size" "4955156214"
+				"download" "2673822064"
 			}
 		}
 		"encryptedmanifests"
@@ -344,15 +358,15 @@
 			}
 			"development"
 			{
-				"gid" "65BF55B4313D079F5624A55617B2D251"
-				"size" "96B1B3B30AE2EF30E1CEDA99C902134F"
-				"download" "1D3196E6B7CCEBD613C87BAD37763EB1"
+				"gid" "98358B776B1ACFD77B4F6BC8654EE287"
+				"size" "3D01688ABAC12D8128D0299F9745C870"
+				"download" "96AABCA0E2507F8F92F4286F58203608"
 			}
 			"experimental_internal"
 			{
-				"gid" "E158AD8BEC9011F7208BA48365087442"
-				"size" "3F9DF432756B6AD7955BE2CBBD4E3F88"
-				"download" "4843EFB8A116C81C16982B4BD55496A8"
+				"gid" "B5432343FDD165DBA5965C5E9FD3372E"
+				"size" "15292FC6BB6A1C233E2EA049866C2741"
+				"download" "7897A134351B8BF0F53255E71D65263C"
 			}
 			"external_qa"
 			{
@@ -409,8 +423,14 @@
 	{
 		"public"
 		{
+			"buildid" "14144299"
+			"timeupdated" "1713877221"
+		}
+		"1.2.3"
+		{
 			"buildid" "13602983"
-			"timeupdated" "1709574790"
+			"description" "Against the Storm version 1.2"
+			"timeupdated" "1713466250"
 		}
 		"closed_alpha"
 		{
@@ -420,21 +440,21 @@
 		}
 		"development"
 		{
-			"buildid" "13602983"
+			"buildid" "14144299"
 			"pwdrequired" "1"
-			"timeupdated" "1709221459"
+			"timeupdated" "1713868480"
 		}
 		"experimental"
 		{
-			"buildid" "13603100"
+			"buildid" "14144347"
 			"description" "Experimental Branch"
-			"timeupdated" "1709574804"
+			"timeupdated" "1713877237"
 		}
 		"experimental_internal"
 		{
-			"buildid" "13603100"
+			"buildid" "14144347"
 			"pwdrequired" "1"
-			"timeupdated" "1709222067"
+			"timeupdated" "1713868781"
 		}
 		"external_qa"
 		{
@@ -506,6 +526,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22626291"
-"_sha" "b3d21153e51b168ae1a82459a6eb68b267bdc862"
-"_size" "10278"
+"_change_number" "23266499"
+"_sha" "0c59bec8bbed83b2841de22ed7f3fb153627f11b"
+"_size" "10751"
