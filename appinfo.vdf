@@ -102,7 +102,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Gearbox Publishing"
+			"name" "Arc Games"
 		}
 	}
 	"primary_genre" "1"
@@ -127,6 +127,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -206,8 +207,8 @@
 		"9" "3835"
 		"10" "3859"
 		"11" "3993"
-		"12" "1697"
-		"13" "3843"
+		"12" "3843"
+		"13" "1697"
 		"14" "1667"
 		"15" "4166"
 		"16" "6730"
@@ -221,9 +222,9 @@
 "extended"
 {
 	"developer" "Gunfire Games"
-	"publisher" "Gearbox Publishing"
+	"publisher" "Arc Games"
 	"homepage" "https://www.remnantgame.com/"
-	"listofdlc" "2384070,2384071,2384072,2384073,2384076"
+	"listofdlc" "2384070,2384071,2384072,2384073,2384074,2384076"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -268,9 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "3035294038326937669"
-				"size" "78722885505"
-				"download" "76280085552"
+				"gid" "6042461979781944836"
+				"size" "87935069988"
+				"download" "85015694128"
 			}
 		}
 		"encryptedmanifests"
@@ -289,33 +290,33 @@
 			}
 			"internal"
 			{
-				"gid" "06C81FA6C6E3517AEF2FCC7DF7559A01"
-				"size" "AF0B8A0E9FB04E6C0F9AAB248A43962C"
-				"download" "F7FED0051A6530BB81EDBD77770A63E0"
+				"gid" "697E43BE561A2C059FAA14B5B02FBD35"
+				"size" "E5505F61E1BEAD9DF78A6B9A11A03552"
+				"download" "DAF3864B53D21F1F9EF5CCD1488BCF07"
 			}
 			"playtest"
 			{
-				"gid" "2656A4ACBC00AECCABDD2A5DBDA01B54"
-				"size" "A5556ACB73E854B80ADE14E3E7BE3C1B"
-				"download" "B5757BB3EC1510E27C9563167F501BE7"
+				"gid" "332992F27D63939C2D20DB99BEF5D31D"
+				"size" "5E59E6A6E23444FD67613F2BB8C8A49F"
+				"download" "5D946F8361141E75B0A97A3317B7A2CD"
 			}
 			"playtest_dev"
 			{
-				"gid" "8B508C3556B47C08C8A4C1661A9F0B0B"
-				"size" "4155DFC269A2D1F0ACFF468408CFC635"
-				"download" "166367EEF677739BBFCAFD3C63EF7F98"
+				"gid" "08159E01181B829C3980F9C8428676EE"
+				"size" "2A3601494B6C76F0FB35CA7DCA9CCF9D"
+				"download" "49627A0ECBC3BFD5F49906A303725B20"
 			}
 			"pr_dlc"
 			{
-				"gid" "8BB9AA5125874655FB305EFA27D45945"
-				"size" "E5F72C6625961679470BD30A2BBC2570"
-				"download" "1E2BB2524ED1AB30329FA3D0BE851C6F"
+				"gid" "8B83ABB89D0298DA69C7D7317F744184"
+				"size" "4032DC9545032632810B537DD82487D0"
+				"download" "04C47739D02C881DA0F4C8B4A582B6D3"
 			}
 			"staging_release"
 			{
-				"gid" "0B2A5489C9DF594344DACF17076A3946"
-				"size" "99FEB2FF094898C848E767A5FC0B0484"
-				"download" "C800F1B60B17542068ED46913F969743"
+				"gid" "1C23D3B1896E191CC75C69BF89D2E0B3"
+				"size" "6A24553056EE1282E55958170808D3CF"
+				"download" "56474CBEDA9590E421504ADF05170452"
 			}
 			"testgate"
 			{
@@ -325,9 +326,9 @@
 			}
 			"testgate_playthrough"
 			{
-				"gid" "9FC1A4B654E40F6C3FDC31D998FF0DBE"
-				"size" "8DB7212C87C04BF82070B1C7E699A62A"
-				"download" "5BDA506081CB26FB4995FA1CB406300C"
+				"gid" "86E66B4AE051C1760DA99569970BEF3B"
+				"size" "683D5249E0D8815078BF1F0F93FC23A3"
+				"download" "239BCF8E04218E8C3D5E7FBC436214A8"
 			}
 			"testgate_ps5"
 			{
@@ -337,9 +338,9 @@
 			}
 			"testgate_testbuild"
 			{
-				"gid" "CD799D33BB64D8F0403F890AC9EE566A"
-				"size" "85FA8440D885DCBA866953B4590708EE"
-				"download" "203FE104CDE4AC25B00748BF2EF05B22"
+				"gid" "3361A9AAE21B96E9B717F6D2622858E8"
+				"size" "FC30AF28FC9D60FC4D2AEFD012A81CD8"
+				"download" "6D18DC0D2D874CEB7322FBEDA5EA8FDC"
 			}
 			"testgate_xbox"
 			{
@@ -353,8 +354,8 @@
 	{
 		"public"
 		{
-			"buildid" "13716580"
-			"timeupdated" "1710432750"
+			"buildid" "14109576"
+			"timeupdated" "1713888321"
 		}
 		"compatibility"
 		{
@@ -370,33 +371,33 @@
 		}
 		"internal"
 		{
-			"buildid" "13738248"
+			"buildid" "14143858"
 			"pwdrequired" "1"
-			"timeupdated" "1710414744"
+			"timeupdated" "1713865901"
 		}
 		"playtest"
 		{
-			"buildid" "13716580"
+			"buildid" "14109576"
 			"pwdrequired" "1"
-			"timeupdated" "1710260057"
+			"timeupdated" "1713530066"
 		}
 		"playtest_dev"
 		{
-			"buildid" "13713562"
+			"buildid" "14109290"
 			"pwdrequired" "1"
-			"timeupdated" "1710244408"
+			"timeupdated" "1713528458"
 		}
 		"pr_dlc"
 		{
-			"buildid" "13180728"
+			"buildid" "14003526"
 			"pwdrequired" "1"
-			"timeupdated" "1709049955"
+			"timeupdated" "1712846610"
 		}
 		"staging_release"
 		{
-			"buildid" "13716580"
+			"buildid" "14109576"
 			"pwdrequired" "1"
-			"timeupdated" "1710432274"
+			"timeupdated" "1713821952"
 		}
 		"testgate"
 		{
@@ -406,9 +407,9 @@
 		}
 		"testgate_playthrough"
 		{
-			"buildid" "13739489"
+			"buildid" "14109576"
 			"pwdrequired" "1"
-			"timeupdated" "1710422307"
+			"timeupdated" "1713536979"
 		}
 		"testgate_ps5"
 		{
@@ -418,9 +419,9 @@
 		}
 		"testgate_testbuild"
 		{
-			"buildid" "13739225"
+			"buildid" "14146697"
 			"pwdrequired" "1"
-			"timeupdated" "1710420882"
+			"timeupdated" "1713881597"
 		}
 		"testgate_xbox"
 		{
@@ -445,6 +446,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22765231"
-"_sha" "f71258613a1e53be8d67654c36cf60e5b3b3e64c"
-"_size" "8519"
+"_change_number" "23269200"
+"_sha" "538f2550a909f6f1bbc0d22291e2666e7053bd06"
+"_size" "8531"
