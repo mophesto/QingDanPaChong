@@ -154,8 +154,8 @@
 		"2" "1663"
 		"3" "3859"
 		"4" "1708"
-		"5" "5711"
-		"6" "1774"
+		"5" "1774"
+		"6" "5711"
 		"7" "1678"
 		"8" "3839"
 		"9" "19"
@@ -166,8 +166,8 @@
 		"14" "7332"
 		"15" "4684"
 		"16" "1695"
-		"17" "9204"
-		"18" "4166"
+		"17" "4166"
+		"18" "9204"
 		"19" "1775"
 	}
 	"review_score" "8"
@@ -266,15 +266,15 @@
 		{
 			"public"
 			{
-				"gid" "6333761959957981525"
-				"size" "86441395733"
-				"download" "33999880896"
+				"gid" "6517631680513206435"
+				"size" "86441270297"
+				"download" "33999919968"
 			}
 			"squad_experimental"
 			{
-				"gid" "94321632695786344"
-				"size" "88240849026"
-				"download" "34432841520"
+				"gid" "6517631680513206435"
+				"size" "86441270297"
+				"download" "33999919968"
 			}
 			"squad_tournament"
 			{
@@ -377,9 +377,9 @@
 			}
 			"squad_main"
 			{
-				"gid" "51F4207F1510B31D230D7CBFAD1676FD"
-				"size" "4C97B002A4F036C7E59EF6FA422C9689"
-				"download" "81EC99797F1F5A94EE3D06ECC2C359A2"
+				"gid" "6A0ED92715BA27F847CB7712FE1DE27A"
+				"size" "E608CCC487457A46C736030AED89282E"
+				"download" "5ECFBFF1C42EE046E0F2B8C8CB3D9597"
 			}
 			"squad_previous"
 			{
@@ -389,9 +389,9 @@
 			}
 			"squad_release"
 			{
-				"gid" "8573D2F4D9B6B57886F6C6CF0CB0D8E9"
-				"size" "5AA1D2F0CEAE4351424C4E0DBB4EEEDA"
-				"download" "4DD49E36EB8B638828B0CE08D64766D0"
+				"gid" "26DD9D81E19592CDC86FA6F79509ECAA"
+				"size" "5D17F2DD159711C69A87C16F67723F34"
+				"download" "DCDC3E10A4ACFC6B3D3E6FAB6598D217"
 			}
 			"squad_steamfix"
 			{
@@ -508,8 +508,8 @@
 	{
 		"public"
 		{
-			"buildid" "14035224"
-			"timeupdated" "1713376800"
+			"buildid" "14092450"
+			"timeupdated" "1713809027"
 		}
 		"alpha-1.0"
 		{
@@ -603,15 +603,15 @@
 		}
 		"squad_experimental"
 		{
-			"buildid" "13485652"
+			"buildid" "14092450"
 			"description" "Experimental Squad builds (compatible with Live servers)"
-			"timeupdated" "1708361595"
+			"timeupdated" "1713475605"
 		}
 		"squad_main"
 		{
-			"buildid" "14035224"
+			"buildid" "14092450"
 			"pwdrequired" "1"
-			"timeupdated" "1713287570"
+			"timeupdated" "1713422676"
 		}
 		"squad_previous"
 		{
@@ -621,9 +621,9 @@
 		}
 		"squad_release"
 		{
-			"buildid" "14042130"
+			"buildid" "14105560"
 			"pwdrequired" "1"
-			"timeupdated" "1712977068"
+			"timeupdated" "1713506459"
 		}
 		"squad_steamfix"
 		{
@@ -663,6 +663,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "23194883"
-"_sha" "b146e5be4b0a38a67182f6d2a076d4c910e5b122"
-"_size" "14296"
+"_change_number" "23254882"
+"_sha" "aaf377f819a693723e02e50fe082f68744d8eaef"
+"_size" "14298"
