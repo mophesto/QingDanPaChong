@@ -190,15 +190,15 @@
 		{
 			"public"
 			{
-				"gid" "6407509990222364435"
-				"size" "7594915154"
-				"download" "1110757440"
+				"gid" "8597023279026797137"
+				"size" "7602421929"
+				"download" "1111206064"
 			}
 			"testbranch"
 			{
-				"gid" "7962235444574821955"
-				"size" "7594915158"
-				"download" "1110757440"
+				"gid" "7090258970842615877"
+				"size" "7602422172"
+				"download" "1111206256"
 			}
 		}
 		"encryptedmanifests"
@@ -211,9 +211,9 @@
 			}
 			"yusuitest"
 			{
-				"gid" "B7E354AB2F70616609FB779386D1B379"
-				"size" "60165DE4D13AE8802D3AC3FABFE8A9AB"
-				"download" "ECA430029348B2267680ACFB2EA336C0"
+				"gid" "E2719E2581A552571B2615DCB63D784B"
+				"size" "F3CCE08C7E3BDA3BDDCDA8F62005903E"
+				"download" "EE5043FA5D49862F06EB6B1904FFAC96"
 			}
 		}
 	}
@@ -222,8 +222,8 @@
 	{
 		"public"
 		{
-			"buildid" "13310419"
-			"timeupdated" "1706602939"
+			"buildid" "14140118"
+			"timeupdated" "1713839915"
 		}
 		"realsetest"
 		{
@@ -233,15 +233,15 @@
 		}
 		"testbranch"
 		{
-			"buildid" "13310230"
+			"buildid" "14106036"
 			"description" "测试服"
-			"timeupdated" "1706602823"
+			"timeupdated" "1713513747"
 		}
 		"yusuitest"
 		{
-			"buildid" "13310230"
+			"buildid" "14106036"
 			"pwdrequired" "1"
-			"timeupdated" "1706601576"
+			"timeupdated" "1713510012"
 		}
 	}
 }
@@ -274,6 +274,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22623022"
-"_sha" "3b0b13ffaee593fe4575f67c892c1c0b96f5aadf"
+"_change_number" "23259810"
+"_sha" "2a34a9e6982e1f437bee5a9e6094ece89ca84980"
 "_size" "5253"
