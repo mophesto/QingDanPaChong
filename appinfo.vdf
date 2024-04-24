@@ -238,9 +238,9 @@
 		{
 			"public"
 			{
-				"gid" "5141805171552292653"
-				"size" "3696217497"
-				"download" "2947059328"
+				"gid" "4844403294962029527"
+				"size" "3577682825"
+				"download" "2843138848"
 			}
 			"event-test"
 			{
@@ -262,24 +262,24 @@
 			}
 			"test"
 			{
-				"gid" "105480886656445905"
-				"size" "3696217968"
-				"download" "2947060800"
+				"gid" "3315922573820091979"
+				"size" "3577683297"
+				"download" "2843146784"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "9D72CBB348D919CC736709BEA68A9647"
-				"size" "F2741B57BD475F5FF0894C5A87B92490"
-				"download" "72BE5A5626A876646442022384243078"
+				"gid" "EAA22299B493B7239F2C97297415DE42"
+				"size" "D400F36E928565B0DE7094BC8C91F720"
+				"download" "A919AEDBBFFCCAB2E6B71811B74E23CE"
 			}
 			"longterm-test"
 			{
-				"gid" "30E055819890848FFDFA8DB22F7B8D63"
-				"size" "A46FA6182332452AFC6F958DEFE29A7D"
-				"download" "876E23FF86B71778A3A83246D877D316"
+				"gid" "05AB1BAA08FE80393DA911424C32914E"
+				"size" "B455AAEE12EE12B72F12C4AD9700B695"
+				"download" "6C2DF7C9974FB5455275756EFB3B56B4"
 			}
 		}
 	}
@@ -350,14 +350,8 @@
 	{
 		"public"
 		{
-			"buildid" "14143704"
-			"timeupdated" "1713871120"
-		}
-		"alpha"
-		{
-			"buildid" "14142826"
-			"pwdrequired" "1"
-			"timeupdated" "1713870945"
+			"buildid" "14158494"
+			"timeupdated" "1713958293"
 		}
 		"event-test"
 		{
@@ -371,23 +365,29 @@
 			"description" "框架测试分支"
 			"timeupdated" "1711605870"
 		}
-		"longterm-test"
-		{
-			"buildid" "14142826"
-			"pwdrequired" "1"
-			"timeupdated" "1713871100"
-		}
 		"taiwu"
 		{
 			"buildid" "4945721"
 			"description" "《太吾绘卷》纪念版"
 			"timeupdated" "1663765671"
 		}
+		"alpha"
+		{
+			"buildid" "14158494"
+			"pwdrequired" "1"
+			"timeupdated" "1713956625"
+		}
+		"longterm-test"
+		{
+			"buildid" "14158045"
+			"pwdrequired" "1"
+			"timeupdated" "1713958317"
+		}
 		"test"
 		{
-			"buildid" "14142826"
+			"buildid" "14158045"
 			"description" "测试分支"
-			"timeupdated" "1713871090"
+			"timeupdated" "1713958306"
 		}
 	}
 }
@@ -399,6 +399,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "23265238"
-"_sha" "9d7051e32908aeed790adee792b4d0b9a71c92c1"
-"_size" "7766"
+"_change_number" "23282006"
+"_sha" "8347f6e8d586d8a9a76cf27e857d0ecd750927d4"
+"_size" "7767"
