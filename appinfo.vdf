@@ -15,6 +15,20 @@
 	"languages"
 	{
 		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"brazilian" "1"
+		"latam" "1"
+		"indonesian" "1"
 	}
 	"steam_deck_compatibility"
 	{
@@ -84,7 +98,7 @@
 			"height_pct" "79.56761245269996"
 		}
 	}
-	"store_asset_mtime" "1710160567"
+	"store_asset_mtime" "1712664840"
 	"associations"
 	{
 		"0"
@@ -200,8 +214,8 @@
 		"3" "32322"
 		"4" "4182"
 		"5" "9"
-		"6" "1677"
-		"7" "791774"
+		"6" "791774"
+		"7" "1677"
 		"8" "6426"
 		"9" "4711"
 		"10" "3964"
@@ -211,9 +225,9 @@
 		"14" "4026"
 		"15" "3871"
 		"16" "599"
-		"17" "5125"
-		"18" "1654"
-		"19" "1773"
+		"17" "1773"
+		"18" "5125"
+		"19" "1654"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -251,7 +265,16 @@
 }
 "depots"
 {
-	"baselanguages" "english"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,brazilian,latam,indonesian"
 	"2379781"
 	{
 		"config"
@@ -262,15 +285,15 @@
 		{
 			"public"
 			{
-				"gid" "1435140510430378530"
-				"size" "65801985"
-				"download" "59289808"
+				"gid" "2613954275820226707"
+				"size" "65400790"
+				"download" "59227984"
 			}
 			"public_experimental"
 			{
-				"gid" "1435140510430378530"
-				"size" "65801985"
-				"download" "59289808"
+				"gid" "2613954275820226707"
+				"size" "65400790"
+				"download" "59227984"
 			}
 		}
 		"encryptedmanifests"
@@ -293,29 +316,35 @@
 				"size" "4DA292790E4C5E59E3BFF8AC4DBD9849"
 				"download" "5497DC6837138F6AAABB0621599941D3"
 			}
-			"internal_experimental"
-			{
-				"gid" "0B8A1C398F9BA6D5B1A3EC920B553FC9"
-				"size" "057AFEE10BE7D7D85574E26439EED5E5"
-				"download" "F45D2F54ADBF463032BE24B0EAE40983"
-			}
 			"mac_experimental"
 			{
 				"gid" "F2372FD29D6F48D0189D2394257A3B4B"
 				"size" "48206F6709C9E73E0D5E827B90EFCB31"
 				"download" "C62EC7DBAFD32B07CCC4D1B97038818B"
 			}
+			"internal_experimental"
+			{
+				"gid" "AFC90A5510A208BE60446A4F5BFD71FD"
+				"size" "129F8B49E4873EAC49D01A90CB8D810F"
+				"download" "677DBF7CAE787670667C4F3F64CF5301"
+			}
+			"internal_localization"
+			{
+				"gid" "31445E413C0FBFD6656ADFC4588AC1FF"
+				"size" "7FF64D4A74A176CEB57D6B4C31A024C1"
+				"download" "6CF2EF4D50A5D1FA6A04C69AEFD7183B"
+			}
 			"playtester_debug"
 			{
-				"gid" "264403D352BFBED20AB543CF28CE4C96"
-				"size" "D5D56DB6745CC73B8E3C6E7568946908"
-				"download" "9B2579585416501706461FBD06D96B0D"
+				"gid" "234620F24470AE61F3062262351D8802"
+				"size" "9C461B4F06D399E1951D137442F93183"
+				"download" "AA7FBD8B12040CF28A51945BF7B07630"
 			}
 			"playtesters"
 			{
-				"gid" "B5BD28D05679E77F1F999C373DE5AF78"
-				"size" "57FC1070BFA7986DF6216D98E369E918"
-				"download" "0511053C4EC9A52EEC7782CF719DAFBF"
+				"gid" "06519E0C36955A6C79BE1E2683CF6C65"
+				"size" "03C6AA58EA6A7D2BC27ED22A9A1E2A7E"
+				"download" "8C3FDD22D7CA3C3F5C3F92910FF7CD8F"
 			}
 		}
 	}
@@ -329,15 +358,15 @@
 		{
 			"public"
 			{
-				"gid" "4271678992532753564"
-				"size" "84218107"
-				"download" "64473872"
+				"gid" "7110028505693681654"
+				"size" "84223952"
+				"download" "64478032"
 			}
 			"public_experimental"
 			{
-				"gid" "4271678992532753564"
-				"size" "84218107"
-				"download" "64473872"
+				"gid" "7110028505693681654"
+				"size" "84223952"
+				"download" "64478032"
 			}
 		}
 		"encryptedmanifests"
@@ -360,29 +389,35 @@
 				"size" "0D4EF788605731D752C0B90F67B06E38"
 				"download" "F4459A701DD556664395663CD370D303"
 			}
-			"internal_experimental"
-			{
-				"gid" "E1C2F0F35EC558E199E8E01324E9EEA5"
-				"size" "9AC47BCE559DD2A6F976E74DDC5605AC"
-				"download" "2CD4309853B04AAF679F68E8011D8D38"
-			}
 			"mac_experimental"
 			{
 				"gid" "4F4B65219F9082BE9AA269AAD26CA36D"
 				"size" "98F6875BBF8897B3DF203C8D6451F994"
 				"download" "6AA0E237634EC894506636F9EF3128CF"
 			}
+			"internal_experimental"
+			{
+				"gid" "D1E2B9B662BB46B954B52D25910D36D6"
+				"size" "523B7AD454CD5E282527561A0007F9AE"
+				"download" "0BAD6DE3417D06DE7E9C105796BD7A24"
+			}
+			"internal_localization"
+			{
+				"gid" "B8AE0C9F1DE403F1A96ADDCDA36FADB3"
+				"size" "6EA3F8602121CB6F44EE7FF0350AF7B2"
+				"download" "34BBBE5055E06863C61BBB4ADE1758CB"
+			}
 			"playtester_debug"
 			{
-				"gid" "B82D30873EEFEC3C4D8387D3EBE33B0D"
-				"size" "AC8524C62090A152CBE15E095CF1FB4B"
-				"download" "07BC6A3188E3F30011464D8CB3CDE958"
+				"gid" "C48C21674092136E3330482D534E9A0F"
+				"size" "6F7D67D52AB70604BB8E640CC5AE816A"
+				"download" "10711FC276AE344E842B86D5A45041EB"
 			}
 			"playtesters"
 			{
-				"gid" "C86934C8D62826BBCF9BD31CB31FE265"
-				"size" "5A6FD3237B94DF25FE4202DE86FB1158"
-				"download" "1A92D62B81A4581DD061F2A924C8BFA5"
+				"gid" "238E21F6ED48FE437F8674DFE0FA0673"
+				"size" "79EFEAFDA155C5576F8698286548EEB0"
+				"download" "E5BA5A20D48A7C84781E3B0D40B76589"
 			}
 		}
 	}
@@ -390,8 +425,8 @@
 	{
 		"public"
 		{
-			"buildid" "13682455"
-			"timeupdated" "1709911073"
+			"buildid" "14234225"
+			"timeupdated" "1714581265"
 		}
 		"demo_experimental"
 		{
@@ -411,35 +446,41 @@
 			"pwdrequired" "1"
 			"timeupdated" "1705693712"
 		}
-		"internal_experimental"
-		{
-			"buildid" "13887464"
-			"pwdrequired" "1"
-			"timeupdated" "1711661493"
-		}
 		"mac_experimental"
 		{
 			"buildid" "13465291"
 			"pwdrequired" "1"
 			"timeupdated" "1708004859"
 		}
+		"internal_experimental"
+		{
+			"buildid" "14234225"
+			"pwdrequired" "1"
+			"timeupdated" "1714580780"
+		}
+		"internal_localization"
+		{
+			"buildid" "14188875"
+			"pwdrequired" "1"
+			"timeupdated" "1714152893"
+		}
 		"playtester_debug"
 		{
-			"buildid" "13887488"
+			"buildid" "14213735"
 			"pwdrequired" "1"
-			"timeupdated" "1711661475"
+			"timeupdated" "1714425851"
 		}
 		"playtesters"
 		{
-			"buildid" "13887464"
+			"buildid" "14234225"
 			"pwdrequired" "1"
-			"timeupdated" "1711661465"
+			"timeupdated" "1714580789"
 		}
 		"public_experimental"
 		{
-			"buildid" "13682455"
+			"buildid" "14234225"
 			"description" "Public Experimental build"
-			"timeupdated" "1709911023"
+			"timeupdated" "1714580877"
 		}
 	}
 }
@@ -470,6 +511,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22982759"
-"_sha" "df03e9bc4566fd255e28e0d2d6bce4577d93c55d"
-"_size" "9331"
+"_change_number" "23376133"
+"_sha" "ceb74d31660ff3006a944a50fc0bbb6b401e7971"
+"_size" "10317"
