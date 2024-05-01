@@ -1,0 +1,305 @@
+"appid" "629520"
+"common"
+{
+	"name" "Soundpad"
+	"type" "Application"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "e8e5372573e93fea0f8e57ed79bbf354a72480da"
+	"clienttga" "916039c687ccdddd8198fc8e5bbd4a0d523b38a6"
+	"icon" "f261c8f5948de73428a1dbed573ec964fcbecb67"
+	"logo" "05c34b3e59d5dce5abb29b2650c31c6a3e2a4f25"
+	"logo_small" "05c34b3e59d5dce5abb29b2650c31c6a3e2a4f25_thumb"
+	"exfgls" "0"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1658534400"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Soundpad"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "52.97549591598601"
+			"height_pct" "62.38601998159204"
+		}
+	}
+	"store_asset_mtime" "1670602108"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Leppsoft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Leppsoft"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "52"
+		"1" "57"
+	}
+	"category"
+	{
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1478678400"
+	"steam_release_date" "1506794118"
+	"community_hub_visible" "1"
+	"gameid" "629520"
+	"store_tags"
+	{
+		"0" "87"
+		"1" "1027"
+		"2" "1621"
+		"3" "8013"
+		"4" "113"
+		"5" "4182"
+		"6" "21978"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Leppsoft"
+	"publisher" "Leppsoft"
+	"homepage" "https://www.leppsoft.com/soundpad/"
+}
+"config"
+{
+	"installdir" "Soundpad"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Soundpad.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"629521"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2216671507100888167"
+				"size" "17135580"
+				"download" "5723200"
+			}
+			"3.4.1"
+			{
+				"gid" "4519935662256761195"
+				"size" "15710212"
+				"download" "5035104"
+			}
+		}
+	}
+	"629522"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2402519236116599903"
+				"size" "15917020"
+				"download" "5267328"
+			}
+			"3.4.1"
+			{
+				"gid" "7805643622397552072"
+				"size" "15199236"
+				"download" "4698240"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14209516"
+			"timeupdated" "1714405044"
+		}
+		"3.4.1"
+		{
+			"buildid" "6650831"
+			"description" "last stable pre v4.0.0"
+			"timeupdated" "1714055648"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23345479"
+"_sha" "3bbc4c785b28d50ae4c0f5a7e04be00c87203750"
+"_size" "4697"
