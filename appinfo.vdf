@@ -69,7 +69,6 @@
 			"requires_h264" "0"
 		}
 	}
-	"metacritic_name" "Pavlov VR"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -90,7 +89,7 @@
 			"height_pct" "67.99663532875849"
 		}
 	}
-	"store_asset_mtime" "1666987129"
+	"store_asset_mtime" "1713276193"
 	"associations"
 	{
 		"0"
@@ -114,7 +113,6 @@
 	"category"
 	{
 		"category_36" "1"
-		"category_30" "1"
 		"category_1" "1"
 		"category_49" "1"
 		"category_9" "1"
@@ -147,8 +145,8 @@
 		"6" "1659"
 		"7" "3839"
 		"8" "4345"
-		"9" "4136"
-		"10" "4182"
+		"9" "4182"
+		"10" "4136"
 		"11" "1685"
 		"12" "4667"
 		"13" "3878"
@@ -223,9 +221,9 @@
 		{
 			"public"
 			{
-				"gid" "1307285795006295924"
-				"size" "66844046313"
-				"download" "29333675712"
+				"gid" "1653129062212430261"
+				"size" "64675955044"
+				"download" "28669726176"
 			}
 			"legacy"
 			{
@@ -248,12 +246,6 @@
 				"size" "89D087BDC8112F159EF2B7477AED02E1"
 				"download" "AEFFED20842DD855663A1275ACF02211"
 			}
-			"nighly"
-			{
-				"gid" "CCDD80B29ED1D22FC76C0F44F5AB1DFE"
-				"size" "7954DBD41951089F6A350D153756B84F"
-				"download" "2022153FFFA04BA497FC514EDB9CBA1A"
-			}
 			"nighly_dev"
 			{
 				"gid" "315BDF67695727C118468857DF0CC113"
@@ -268,9 +260,15 @@
 			}
 			"wizards"
 			{
-				"gid" "3B0F5A933DE65945CF791E518D56A210"
-				"size" "D00F3388E476AFA1FE0BB27675D18ABD"
-				"download" "983753409594093ECEAF06359C7D27C6"
+				"gid" "4B0C35C758A3AEFEB3EF246EA4ABCA61"
+				"size" "80544D2C48CE7A21C5964030AC94638C"
+				"download" "5D6A524211CD6ECDA7FE64CD6E0B4039"
+			}
+			"nighly"
+			{
+				"gid" "ADDE86299D96650904ADB6223CA15E30"
+				"size" "95FFC2DB14D58215437816A999F15DAE"
+				"download" "DE6B2E8C318695A12D07C98EBF1DA348"
 			}
 		}
 	}
@@ -287,8 +285,8 @@
 	{
 		"public"
 		{
-			"buildid" "13974134"
-			"timeupdated" "1713200596"
+			"buildid" "14247109"
+			"timeupdated" "1714702946"
 		}
 		"legacy"
 		{
@@ -301,12 +299,6 @@
 			"buildid" "13974134"
 			"pwdrequired" "1"
 			"timeupdated" "1712772748"
-		}
-		"nighly"
-		{
-			"buildid" "14057680"
-			"pwdrequired" "1"
-			"timeupdated" "1713191123"
 		}
 		"nighly_dev"
 		{
@@ -328,9 +320,15 @@
 		}
 		"wizards"
 		{
-			"buildid" "13871843"
+			"buildid" "14101161"
 			"pwdrequired" "1"
-			"timeupdated" "1711555573"
+			"timeupdated" "1713546768"
+		}
+		"nighly"
+		{
+			"buildid" "14247109"
+			"pwdrequired" "1"
+			"timeupdated" "1714673600"
 		}
 	}
 }
@@ -340,6 +338,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "23162713"
-"_sha" "6a5c9f7bc0b0e6dd993cea7abea99c9e06e76a54"
-"_size" "6238"
+"_change_number" "23396650"
+"_sha" "92f39f264448e37e7403e482bb48fe178c321da3"
+"_size" "6183"
