@@ -99,9 +99,9 @@
 		{
 			"public"
 			{
-				"gid" "8648778438691684357"
-				"size" "8219730612"
-				"download" "1497598544"
+				"gid" "2065657531587635986"
+				"size" "8061216374"
+				"download" "1474892224"
 			}
 			"beta_server"
 			{
@@ -145,12 +145,6 @@
 				"size" "3116916540"
 				"download" "769319520"
 			}
-			"shack"
-			{
-				"gid" "4425488473843583293"
-				"size" "2059448722"
-				"download" "427272368"
-			}
 			"shack_beta"
 			{
 				"gid" "510778677660452160"
@@ -169,26 +163,20 @@
 				"size" "6194829343"
 				"download" "1143440832"
 			}
+			"shack"
+			{
+				"gid" "1540096880128864950"
+				"size" "2762770659"
+				"download" "560043232"
+			}
 		}
 		"encryptedmanifests"
 		{
-			"nighly"
-			{
-				"gid" "341ED75803D0B00E488DBC2892247A44"
-				"size" "E40B382A161D83F7494DF5ECBA2713FC"
-				"download" "BFA377B1A13823C59624B907E48A7964"
-			}
 			"nighly_arm64"
 			{
 				"gid" "210881CDCC747DEF1A58D52308186623"
 				"size" "DFBEAB39F61924703D171CD192A1F902"
 				"download" "50AEEDEEEF51087873AD92E9842EB882"
-			}
-			"nighly_shack"
-			{
-				"gid" "AA7343E3661ABD7C0DBE224B1667F279"
-				"size" "BDDA5028ED8B772946E8A961B74D510C"
-				"download" "6DCDE29627B5F4257523707058A3A209"
 			}
 			"nighly_shack_arm64"
 			{
@@ -210,15 +198,27 @@
 			}
 			"wizards"
 			{
-				"gid" "2F2ABBF52E0CA80634AF100A5DC4F12D"
-				"size" "C22C08C4D4FB2DD1D80913E9D48D4CCB"
-				"download" "33BAFE76002A826D544380A1F12E0F56"
+				"gid" "C4C26AF068AF4427AB19F100C1851CB9"
+				"size" "A5CBA2D1FC31B3FF250B67CCA13EC817"
+				"download" "67CB7A2430D25843E8ABBDDC1BA8B50D"
 			}
 			"wizards_shack"
 			{
-				"gid" "F836464600C9891285269480C3F8CC82"
-				"size" "F02177DCAFE2069EEA832B1208C3C0A2"
-				"download" "9C7D5DAFE0D2373C147F68EF8F43B34F"
+				"gid" "3CBC337801D35BA40D7E8027A5CE3099"
+				"size" "A787BD70ED18763A39C49F5707261306"
+				"download" "78765CAF019657F8C610F8F1F0A42CDF"
+			}
+			"nighly"
+			{
+				"gid" "AB709A194AB093E92AAA7C34D2B2770F"
+				"size" "2EF017FF3339DD53D8B15C96E9FA0AAC"
+				"download" "D6E656CB0AEB9A9CC1CCA2CF5D6DCE5C"
+			}
+			"nighly_shack"
+			{
+				"gid" "C4C33E156432403900E3546765FCCC2C"
+				"size" "779022575566ACB5F3E4DEFC173CAF02"
+				"download" "5DE407FEF0784B979DBA88CCC3C3573F"
 			}
 		}
 	}
@@ -227,8 +227,8 @@
 	{
 		"public"
 		{
-			"buildid" "13966641"
-			"timeupdated" "1713200520"
+			"buildid" "14247194"
+			"timeupdated" "1714702864"
 		}
 		"beta_server"
 		{
@@ -269,34 +269,17 @@
 			"description" "Update 28 with Workshop"
 			"timeupdated" "1686261512"
 		}
-		"nighly"
-		{
-			"buildid" "14058211"
-			"pwdrequired" "1"
-			"timeupdated" "1713194394"
-		}
 		"nighly_arm64"
 		{
 			"buildid" "8774567"
 			"pwdrequired" "1"
 			"timeupdated" "1653004510"
 		}
-		"nighly_shack"
-		{
-			"buildid" "14000440"
-			"pwdrequired" "1"
-			"timeupdated" "1712683775"
-		}
 		"nighly_shack_arm64"
 		{
 			"buildid" "8816294"
 			"pwdrequired" "1"
 			"timeupdated" "1653585272"
-		}
-		"shack"
-		{
-			"buildid" "12822323"
-			"timeupdated" "1701212430"
 		}
 		"shack_beta"
 		{
@@ -329,19 +312,36 @@
 		}
 		"wizards"
 		{
-			"buildid" "13871922"
+			"buildid" "14101045"
 			"pwdrequired" "1"
-			"timeupdated" "1711555600"
+			"timeupdated" "1713546744"
 		}
 		"wizards_shack"
 		{
-			"buildid" "12181847"
+			"buildid" "14136550"
 			"pwdrequired" "1"
-			"timeupdated" "1694637450"
+			"timeupdated" "1713813913"
+		}
+		"nighly"
+		{
+			"buildid" "14247194"
+			"pwdrequired" "1"
+			"timeupdated" "1714674215"
+		}
+		"nighly_shack"
+		{
+			"buildid" "14247269"
+			"pwdrequired" "1"
+			"timeupdated" "1714674229"
+		}
+		"shack"
+		{
+			"buildid" "14247269"
+			"timeupdated" "1714690878"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "23162683"
-"_sha" "e129aa040110f6a5843b4fa04505942ef0786e14"
+"_change_number" "23396643"
+"_sha" "148c2b862b54a95cdc389c76007731ee7e4f8789"
 "_size" "6517"
