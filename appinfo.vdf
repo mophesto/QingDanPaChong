@@ -99,9 +99,9 @@
 		{
 			"public"
 			{
-				"gid" "2065657531587635986"
-				"size" "8061216374"
-				"download" "1474892224"
+				"gid" "8177743822106612474"
+				"size" "8280560901"
+				"download" "1509874176"
 			}
 			"beta_server"
 			{
@@ -165,9 +165,9 @@
 			}
 			"shack"
 			{
-				"gid" "1540096880128864950"
-				"size" "2762770659"
-				"download" "560043232"
+				"gid" "5249274135596625379"
+				"size" "3016641888"
+				"download" "601350496"
 			}
 		}
 		"encryptedmanifests"
@@ -210,15 +210,15 @@
 			}
 			"nighly"
 			{
-				"gid" "AB709A194AB093E92AAA7C34D2B2770F"
-				"size" "2EF017FF3339DD53D8B15C96E9FA0AAC"
-				"download" "D6E656CB0AEB9A9CC1CCA2CF5D6DCE5C"
+				"gid" "A3B71E23384DA3B1E88FAF31EF648C3E"
+				"size" "E817313FDEEDA0950ABEF9DC724D07DD"
+				"download" "4C5518066254F019821EEE50118DEEAA"
 			}
 			"nighly_shack"
 			{
-				"gid" "C4C33E156432403900E3546765FCCC2C"
-				"size" "779022575566ACB5F3E4DEFC173CAF02"
-				"download" "5DE407FEF0784B979DBA88CCC3C3573F"
+				"gid" "60447DEB5D6A7C794FCC7A356D5E286F"
+				"size" "4C7D3302BF04B180832F08F0F41A0799"
+				"download" "371B066EA21E520AD9A4AFEBDA04E22A"
 			}
 		}
 	}
@@ -227,8 +227,8 @@
 	{
 		"public"
 		{
-			"buildid" "14247194"
-			"timeupdated" "1714702864"
+			"buildid" "14259945"
+			"timeupdated" "1714771518"
 		}
 		"beta_server"
 		{
@@ -324,24 +324,24 @@
 		}
 		"nighly"
 		{
-			"buildid" "14247194"
+			"buildid" "14259945"
 			"pwdrequired" "1"
-			"timeupdated" "1714674215"
+			"timeupdated" "1714768461"
 		}
 		"nighly_shack"
 		{
-			"buildid" "14247269"
+			"buildid" "14259787"
 			"pwdrequired" "1"
-			"timeupdated" "1714674229"
+			"timeupdated" "1714767398"
 		}
 		"shack"
 		{
-			"buildid" "14247269"
-			"timeupdated" "1714690878"
+			"buildid" "14259787"
+			"timeupdated" "1714771535"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "23396643"
-"_sha" "148c2b862b54a95cdc389c76007731ee7e4f8789"
+"_change_number" "23408676"
+"_sha" "de99123de594e24541b7506974b3ee130522bc00"
 "_size" "6517"
