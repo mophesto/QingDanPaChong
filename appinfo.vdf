@@ -99,7 +99,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1709020574"
+	"store_asset_mtime" "1715071883"
 	"associations"
 	{
 		"0"
@@ -203,15 +203,15 @@
 		"11" "1669"
 		"12" "6310"
 		"13" "12472"
-		"14" "4295"
-		"15" "4168"
+		"14" "4168"
+		"15" "4295"
 		"16" "4711"
-		"17" "5125"
-		"18" "1756"
+		"17" "1756"
+		"18" "5125"
 		"19" "4166"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -219,7 +219,7 @@
 	"developer" "Paradox Development Studio"
 	"publisher" "Paradox Interactive"
 	"homepage" "https://www.stellaris.com/"
-	"listofdlc" "447680,447681,447682,447683,447684,447685,447686,447687,461071,461073,461461,462720,497660,498870,518910,553280,554350,616190,616191,633310,642750,716670,756010,844810,944290,1045980,1140000,1140001,1341520,1522090,1749080,1889490,2115770,2277860,2380030,2534090,2729490,2840100"
+	"listofdlc" "447680,447681,447682,447683,447684,447685,447686,447687,461071,461073,461461,462720,497660,498870,518910,553280,554350,616190,616191,633310,642750,716670,756010,844810,944290,1045980,1140000,1140001,1341520,1522090,1749080,1889490,2115770,2277860,2380030,2534090,2729490,2840100,2863060,2863080,2863180,2863190"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -419,9 +419,9 @@
 		{
 			"public"
 			{
-				"gid" "2330524973562749834"
-				"size" "16365180626"
-				"download" "7627303472"
+				"gid" "698259393176098795"
+				"size" "18921805874"
+				"download" "8664565856"
 			}
 			"2.1.3"
 			{
@@ -489,30 +489,6 @@
 				"size" "10957433778"
 				"download" "5087407280"
 			}
-			"3.10.4"
-			{
-				"gid" "7305120258542220911"
-				"size" "16363631859"
-				"download" "7626852400"
-			}
-			"3.11.1"
-			{
-				"gid" "4956705497660451289"
-				"size" "16363238403"
-				"download" "7626777104"
-			}
-			"3.11.2"
-			{
-				"gid" "2168114204347738700"
-				"size" "16363243281"
-				"download" "7626777568"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "3865219390363328551"
-				"size" "16363244926"
-				"download" "7626777760"
-			}
 			"3.2.2"
 			{
 				"gid" "7759404866433351082"
@@ -561,6 +537,36 @@
 				"size" "16064588787"
 				"download" "7455108720"
 			}
+			"3.10.4"
+			{
+				"gid" "7305120258542220911"
+				"size" "16363631859"
+				"download" "7626852400"
+			}
+			"3.11.1"
+			{
+				"gid" "4956705497660451289"
+				"size" "16363238403"
+				"download" "7626777104"
+			}
+			"3.11.2"
+			{
+				"gid" "2168114204347738700"
+				"size" "16363243281"
+				"download" "7626777568"
+			}
+			"3.11.3"
+			{
+				"gid" "2330524973562749834"
+				"size" "16365180626"
+				"download" "7627303472"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "3865219390363328551"
+				"size" "16363244926"
+				"download" "7626777760"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -569,6 +575,12 @@
 				"gid" "E9BDED0D1A280343F1F7070AFDBFBF66"
 				"size" "23764A8CC14C5E87975AA1346D745FEF"
 				"download" "06436E6C67B687B95A3FB512590745B4"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "28396F6F67A8AD6C330450CF12441F5A"
+				"size" "1C96E57EFB783C5D296ED6CC182F9776"
+				"download" "58BCE3F7121922A0F72EE550AEE102BF"
 			}
 			"1.1.0"
 			{
@@ -626,21 +638,21 @@
 			}
 			"atlantis_rising"
 			{
-				"gid" "A0E3A6B5C8FB45DA5108DF62573D4D8D"
-				"size" "854865A27B5C53020D782C3113590A65"
-				"download" "73EB140DAF268159D221F11C96FB933C"
-			}
-			"atlantis_rising_2"
-			{
-				"gid" "9CF43A319681F61FD17640DFFD9F7024"
-				"size" "4CD8CDA25B21BAA879097255414B1789"
-				"download" "1916DCC2482676D5066A629E0422DF61"
+				"gid" "97F46774AFEB1ACB72CEAA53DB359425"
+				"size" "2A6ABA34C6D9FCE9E94D8387FF2C9781"
+				"download" "7A85A018AE91B3276A8E76AC9793528C"
 			}
 			"review_branch"
 			{
 				"gid" "57CCDE54E6E61587CF9C6EC90D1366EA"
 				"size" "B51551FAC6D3D7E27812D3F742D60934"
 				"download" "B82B69125169EBD926BE1C6EAF99C7FE"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "21F98C9A3794B2CF021F534B64CEEEAE"
+				"size" "3DACF9AE5D863671BEAA132AF8871F5A"
+				"download" "B6A2F13F0CEECA4B35F42314445A7144"
 			}
 		}
 	}
@@ -654,9 +666,9 @@
 		{
 			"public"
 			{
-				"gid" "3893870655561989199"
-				"size" "474268627"
-				"download" "307156784"
+				"gid" "3067098664990520320"
+				"size" "314570483"
+				"download" "270525888"
 			}
 			"2.1.3"
 			{
@@ -724,30 +736,6 @@
 				"size" "337857400"
 				"download" "172494832"
 			}
-			"3.10.4"
-			{
-				"gid" "5601562209959413533"
-				"size" "474933912"
-				"download" "307289200"
-			}
-			"3.11.1"
-			{
-				"gid" "3521851839489170979"
-				"size" "474274771"
-				"download" "307162528"
-			}
-			"3.11.2"
-			{
-				"gid" "8606237768407566115"
-				"size" "474273747"
-				"download" "307160368"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "2845559251962885670"
-				"size" "474271207"
-				"download" "307163264"
-			}
 			"3.2.2"
 			{
 				"gid" "755653515500822697"
@@ -796,6 +784,36 @@
 				"size" "473991831"
 				"download" "307047056"
 			}
+			"3.10.4"
+			{
+				"gid" "5601562209959413533"
+				"size" "474933912"
+				"download" "307289200"
+			}
+			"3.11.1"
+			{
+				"gid" "3521851839489170979"
+				"size" "474274771"
+				"download" "307162528"
+			}
+			"3.11.2"
+			{
+				"gid" "8606237768407566115"
+				"size" "474273747"
+				"download" "307160368"
+			}
+			"3.11.3"
+			{
+				"gid" "3893870655561989199"
+				"size" "474268627"
+				"download" "307156784"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "2845559251962885670"
+				"size" "474271207"
+				"download" "307163264"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -804,6 +822,12 @@
 				"gid" "2E1A0A02E65733B6F8C5F60A4E18003D"
 				"size" "E7C35E39CB203F9CC0266C0144C1F35D"
 				"download" "9C3E4D3F6788ABF70521280C886CD0C0"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "6CFB481E336333293D8B590C77944C33"
+				"size" "E52DECF46FF61E54A8CFEFA3F2ED0AF9"
+				"download" "8CEF2FE05A600CA06943C8D624A9687D"
 			}
 			"1.1.0"
 			{
@@ -861,21 +885,21 @@
 			}
 			"atlantis_rising"
 			{
-				"gid" "3A68E1ABE512C328FE0280C55C9CF049"
-				"size" "A534497B94DA4C87D9CA3467D72EE076"
-				"download" "1EE1A274BE4511E2973FAC00D8FB908A"
-			}
-			"atlantis_rising_2"
-			{
-				"gid" "9558209B6AFA0D813507CCE64DBC09F4"
-				"size" "E0962B278A7E2F9C45D18A3D666BAB9F"
-				"download" "C66F5FE8AF685AF0A4CC807F948DEA7E"
+				"gid" "93A347FFEB22E60C66490C1CE9ED9249"
+				"size" "7B2DE9F5D1028547CF6F62E99E90383E"
+				"download" "C42F74FFEDEBE8506DF5296B75C6BEDB"
 			}
 			"review_branch"
 			{
 				"gid" "B7C6AAAD737334B30EB89F4E57A233CC"
 				"size" "53B11877E4AF20F3692C70EC1AC5D117"
 				"download" "090EEC7F917E524A304BB3B14EF54372"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "3ED03B921D353916813CA13FDB214647"
+				"size" "C0F9DD375A9A6BD3F4F393340FC43C45"
+				"download" "9DA3AA9BF32B6A999039BB98DC62CB9F"
 			}
 		}
 	}
@@ -889,9 +913,9 @@
 		{
 			"public"
 			{
-				"gid" "7333365518519476744"
-				"size" "723869567"
-				"download" "527971984"
+				"gid" "6757793384263831446"
+				"size" "608124053"
+				"download" "521704576"
 			}
 			"2.1.3"
 			{
@@ -959,30 +983,6 @@
 				"size" "375966484"
 				"download" "186526432"
 			}
-			"3.10.4"
-			{
-				"gid" "5329203055436430336"
-				"size" "724384020"
-				"download" "528040144"
-			}
-			"3.11.1"
-			{
-				"gid" "8075164679447402635"
-				"size" "723885439"
-				"download" "527969920"
-			}
-			"3.11.2"
-			{
-				"gid" "2523175986130795163"
-				"size" "723887143"
-				"download" "527969216"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "7792849956152869355"
-				"size" "723885883"
-				"download" "527975552"
-			}
 			"3.2.2"
 			{
 				"gid" "7930059615316151366"
@@ -1031,6 +1031,36 @@
 				"size" "722479195"
 				"download" "527670032"
 			}
+			"3.10.4"
+			{
+				"gid" "5329203055436430336"
+				"size" "724384020"
+				"download" "528040144"
+			}
+			"3.11.1"
+			{
+				"gid" "8075164679447402635"
+				"size" "723885439"
+				"download" "527969920"
+			}
+			"3.11.2"
+			{
+				"gid" "2523175986130795163"
+				"size" "723887143"
+				"download" "527969216"
+			}
+			"3.11.3"
+			{
+				"gid" "7333365518519476744"
+				"size" "723869567"
+				"download" "527971984"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "7792849956152869355"
+				"size" "723885883"
+				"download" "527975552"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1039,6 +1069,12 @@
 				"gid" "0494D7FB5B6059B2A2C6C6BB47E0C59F"
 				"size" "B2F20609F11D6DCF4C535BE8B6D97104"
 				"download" "D69A83B4247C9E54A7BF3AF13D9A3E05"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "D03A980C34AE4230CF57E3F9AE7B3F4A"
+				"size" "788384BCD7057414567509D7FB3A0374"
+				"download" "DC1E91C3A5D5861C29909524EBDE694F"
 			}
 			"1.1.0"
 			{
@@ -1096,21 +1132,21 @@
 			}
 			"atlantis_rising"
 			{
-				"gid" "8428982DB4E57DFA3B3435CC7E0763DE"
-				"size" "538D5E9AB245260D6A53764D6125DC3C"
-				"download" "5C9ECC147B56C9B2392A6CF70AA1D07B"
-			}
-			"atlantis_rising_2"
-			{
-				"gid" "D1C3201EA6885978A0109FBF9D7BD4B1"
-				"size" "740DACB17DA2287C9DD40D15F3A09D67"
-				"download" "35F9440382521FA0B79DBBE5F85B1047"
+				"gid" "63E33599E4683918A42743A4B8CDD8A3"
+				"size" "E3132A5CA522051FD140D1989D9275F6"
+				"download" "44F1EDFAF828CE2CACE462455709372F"
 			}
 			"review_branch"
 			{
 				"gid" "82C26C12EA016FF22E996AC7C3BED36C"
 				"size" "143E28F725F331A86B57F6188925362A"
 				"download" "CF327D603A39B48B469A34CCFA5F3723"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "77699B3F4AB9A96C9E67FEF6BD301002"
+				"size" "F9486AB76E0952732C78C98C513BE101"
+				"download" "847445C2D3BD175A794D9063FB2BBA72"
 			}
 		}
 	}
@@ -1124,9 +1160,9 @@
 		{
 			"public"
 			{
-				"gid" "8411349667815041009"
-				"size" "575060213"
-				"download" "322631168"
+				"gid" "9074865758391593427"
+				"size" "371881082"
+				"download" "281544384"
 			}
 			"2.1.3"
 			{
@@ -1194,30 +1230,6 @@
 				"size" "426561462"
 				"download" "190031280"
 			}
-			"3.10.4"
-			{
-				"gid" "5505039830571654989"
-				"size" "575383714"
-				"download" "322742768"
-			}
-			"3.11.1"
-			{
-				"gid" "3854576999326968143"
-				"size" "575064229"
-				"download" "322634480"
-			}
-			"3.11.2"
-			{
-				"gid" "6657022018625482452"
-				"size" "575064229"
-				"download" "322628928"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "2896129569877665875"
-				"size" "575064329"
-				"download" "322636416"
-			}
 			"3.2.2"
 			{
 				"gid" "8036210319207165579"
@@ -1266,6 +1278,36 @@
 				"size" "573641361"
 				"download" "322313504"
 			}
+			"3.10.4"
+			{
+				"gid" "5505039830571654989"
+				"size" "575383714"
+				"download" "322742768"
+			}
+			"3.11.1"
+			{
+				"gid" "3854576999326968143"
+				"size" "575064229"
+				"download" "322634480"
+			}
+			"3.11.2"
+			{
+				"gid" "6657022018625482452"
+				"size" "575064229"
+				"download" "322628928"
+			}
+			"3.11.3"
+			{
+				"gid" "8411349667815041009"
+				"size" "575060213"
+				"download" "322631168"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "2896129569877665875"
+				"size" "575064329"
+				"download" "322636416"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1274,6 +1316,12 @@
 				"gid" "E1A5B65D4F499B0B968F6309394519A9"
 				"size" "FB6F46A7A3ECECF4183F742B98A43DD7"
 				"download" "99B9B12149D92E5644C9132B7F739C47"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "D31F08F81BB89EE77B71F6202EAB15B1"
+				"size" "EBB63D9C49DD1838B1B8FB865C3917D6"
+				"download" "1B771ADAB318A5F650C08B04E98CEC46"
 			}
 			"1.1.0"
 			{
@@ -1331,21 +1379,21 @@
 			}
 			"atlantis_rising"
 			{
-				"gid" "5703F84552B394DF7CA9EB8CBC28301B"
-				"size" "24D47278F2E450EC4E444059435BA747"
-				"download" "74330762369AEF0D1ACE9FDD932F3BFF"
-			}
-			"atlantis_rising_2"
-			{
-				"gid" "B2B03EA2644D1B0B95F94E325F2DBD0B"
-				"size" "616CF01C1742591B66A2A7131C5B37AB"
-				"download" "5122C8B62ECF7B8A18DCEB9600AC22FE"
+				"gid" "57CA7527073944B5F986C0101E83D9AF"
+				"size" "7C6C3E70922D7E3E320F38D733E6A7F5"
+				"download" "196D71A3C19BC007D0953F72E44C831D"
 			}
 			"review_branch"
 			{
 				"gid" "127F91B2AD252F220F4D64D4B5481F02"
 				"size" "0D74C33CA176C99F7A086330F1960E1A"
 				"download" "5A88744EA266B3D5AB3306086672B150"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "5F0609633F8A3F3DC11731DC767E2ADD"
+				"size" "0619152006F69F9E09485B8BDABD27B6"
+				"download" "E7B8B81CAFD6CB1EFAA5C35B7FC2B2C5"
 			}
 		}
 	}
@@ -1426,30 +1474,6 @@
 				"size" "76974"
 				"download" "77840"
 			}
-			"3.10.4"
-			{
-				"gid" "5593148761305922162"
-				"size" "76982"
-				"download" "77840"
-			}
-			"3.11.1"
-			{
-				"gid" "5593148761305922162"
-				"size" "76982"
-				"download" "77840"
-			}
-			"3.11.2"
-			{
-				"gid" "5593148761305922162"
-				"size" "76982"
-				"download" "77840"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "5593148761305922162"
-				"size" "76982"
-				"download" "77840"
-			}
 			"3.2.2"
 			{
 				"gid" "6276884665439123936"
@@ -1498,6 +1522,36 @@
 				"size" "76982"
 				"download" "77840"
 			}
+			"3.10.4"
+			{
+				"gid" "5593148761305922162"
+				"size" "76982"
+				"download" "77840"
+			}
+			"3.11.1"
+			{
+				"gid" "5593148761305922162"
+				"size" "76982"
+				"download" "77840"
+			}
+			"3.11.2"
+			{
+				"gid" "5593148761305922162"
+				"size" "76982"
+				"download" "77840"
+			}
+			"3.11.3"
+			{
+				"gid" "5593148761305922162"
+				"size" "76982"
+				"download" "77840"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "5593148761305922162"
+				"size" "76982"
+				"download" "77840"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1506,6 +1560,12 @@
 				"gid" "61EBA6A512B4183B8483712BFE1B0832"
 				"size" "5878278EF1231FAC16B0E1C6A9F4DBF9"
 				"download" "49278E4D8E4C51CB4353D0B056CD92FD"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "EF6DA8B104EBF90852FC7EC618B0890F"
+				"size" "08A0FF2D2CB0FC536E8B5572923EAC33"
+				"download" "108CF26AE0E416AAD24C65A1C6CC5666"
 			}
 			"1.1.0"
 			{
@@ -1567,17 +1627,17 @@
 				"size" "BF5DAA453820528B35DFAE1911DEA297"
 				"download" "E29F8BAE952BEB3403718C0929B45B5B"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "A721262953D247A8C40AA49420DE7D0E"
-				"size" "550DFD00D440BE3DEB5301CB05A9517C"
-				"download" "254607E754DD120F143E5E2C0E20EB11"
-			}
 			"review_branch"
 			{
 				"gid" "29CE121C653B111C80079BBC46B963CD"
 				"size" "333392D00EE3FB2B3514F2335FEB93B4"
 				"download" "085849BBA32CE5338AE589D932A74D9B"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "8DB7B6F74728481938F4AFE011BE768E"
+				"size" "69FFA83C43836BE8858D87135D73A483"
+				"download" "BC50DEAD630903A5E729F4251B6FB8B6"
 			}
 		}
 	}
@@ -1658,30 +1718,6 @@
 				"size" "76999"
 				"download" "77856"
 			}
-			"3.10.4"
-			{
-				"gid" "3163660048283588036"
-				"size" "77007"
-				"download" "77856"
-			}
-			"3.11.1"
-			{
-				"gid" "3163660048283588036"
-				"size" "77007"
-				"download" "77856"
-			}
-			"3.11.2"
-			{
-				"gid" "3163660048283588036"
-				"size" "77007"
-				"download" "77856"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "3163660048283588036"
-				"size" "77007"
-				"download" "77856"
-			}
 			"3.2.2"
 			{
 				"gid" "2411905612792847387"
@@ -1730,6 +1766,36 @@
 				"size" "77007"
 				"download" "77856"
 			}
+			"3.10.4"
+			{
+				"gid" "3163660048283588036"
+				"size" "77007"
+				"download" "77856"
+			}
+			"3.11.1"
+			{
+				"gid" "3163660048283588036"
+				"size" "77007"
+				"download" "77856"
+			}
+			"3.11.2"
+			{
+				"gid" "3163660048283588036"
+				"size" "77007"
+				"download" "77856"
+			}
+			"3.11.3"
+			{
+				"gid" "3163660048283588036"
+				"size" "77007"
+				"download" "77856"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "3163660048283588036"
+				"size" "77007"
+				"download" "77856"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1738,6 +1804,12 @@
 				"gid" "F9C6F9545ABD4DDD66990FDAB3395A5F"
 				"size" "66FDE6A6B4ACCCA7BAA941CCAF6770C9"
 				"download" "49278E4D8E4C51CB4353D0B056CD92FD"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "B68E03C325391A15EF1513C5E75BEE27"
+				"size" "B475FA4D319FE874B216EDA2DE44DD17"
+				"download" "19AF18BE61F4C6B4E8A9D82C61AC051A"
 			}
 			"1.1.0"
 			{
@@ -1799,17 +1871,17 @@
 				"size" "AC267BCD3354945B06BAB90CB0A593FC"
 				"download" "87C7ABA2397B89A3D014B684CE8CD297"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "C80B6E7F4F7A446AFDD95A3420EAE206"
-				"size" "5096808BE598C7242B6D61A5395158AF"
-				"download" "947A408DF8167E65ABF942FCFCE188E7"
-			}
 			"review_branch"
 			{
 				"gid" "CF5C065D75ABAC7F18D7A4AC6D5965CD"
 				"size" "4F44FE24AB99FAB03EC1D7411400B166"
 				"download" "2AEED9287675F9EE99C81DEB0D097A0D"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "138973250BD4EC94138BE87798733147"
+				"size" "43F5B00E9ADFD12967EB896300E74912"
+				"download" "C39533166B656A2AFDA4902280C85B61"
 			}
 		}
 	}
@@ -1890,30 +1962,6 @@
 				"size" "119359244"
 				"download" "105718688"
 			}
-			"3.10.4"
-			{
-				"gid" "8126759959369925319"
-				"size" "119359244"
-				"download" "105718688"
-			}
-			"3.11.1"
-			{
-				"gid" "8126759959369925319"
-				"size" "119359244"
-				"download" "105718688"
-			}
-			"3.11.2"
-			{
-				"gid" "8126759959369925319"
-				"size" "119359244"
-				"download" "105718688"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "8126759959369925319"
-				"size" "119359244"
-				"download" "105718688"
-			}
 			"3.2.2"
 			{
 				"gid" "8126759959369925319"
@@ -1962,6 +2010,36 @@
 				"size" "119359244"
 				"download" "105718688"
 			}
+			"3.10.4"
+			{
+				"gid" "8126759959369925319"
+				"size" "119359244"
+				"download" "105718688"
+			}
+			"3.11.1"
+			{
+				"gid" "8126759959369925319"
+				"size" "119359244"
+				"download" "105718688"
+			}
+			"3.11.2"
+			{
+				"gid" "8126759959369925319"
+				"size" "119359244"
+				"download" "105718688"
+			}
+			"3.11.3"
+			{
+				"gid" "8126759959369925319"
+				"size" "119359244"
+				"download" "105718688"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "8126759959369925319"
+				"size" "119359244"
+				"download" "105718688"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -1970,6 +2048,12 @@
 				"gid" "858B2212E4E0AD369BB167E4C712BEBF"
 				"size" "B78587B54B981FE5EB2699F27F7AAF9A"
 				"download" "A6103FCAA7EAFEDBE96A8AD9CE77ED40"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "76E0E26E8C5F3F068A9CA144FF893D55"
+				"size" "BE1523BBDF5AE716A28FD5FCFEBA086A"
+				"download" "AA68836561FE0195D5037D21D99FB791"
 			}
 			"1.1.0"
 			{
@@ -2031,17 +2115,17 @@
 				"size" "9A42931286F30FBB9E7714D26E5F11CF"
 				"download" "99DD88AE0287C0BABA8ED76F5F6A28BA"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "CD4A8D10A86D23971EE14F3E432D5490"
-				"size" "C7EB8B6572DF6064DA2CAD505E6B676A"
-				"download" "6BB462BDC9E1424290D5C5789024D72A"
-			}
 			"review_branch"
 			{
 				"gid" "EBF3F6CF8AA5F4C3A36B48B0CACF034E"
 				"size" "C7667B85BBD9D87061F2776256863EAB"
 				"download" "3BCBAC262B77EFAD2844912B5CEE3E78"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "7CEFAD5E827A003D0550C42E66B180E0"
+				"size" "DCA7AB6A3ABBD4DE31FDCB6296E62B39"
+				"download" "EF28CD20137FE1F4D2BDB949F0BE12CC"
 			}
 		}
 	}
@@ -2122,30 +2206,6 @@
 				"size" "76986"
 				"download" "77840"
 			}
-			"3.10.4"
-			{
-				"gid" "3391837523933751578"
-				"size" "76994"
-				"download" "77856"
-			}
-			"3.11.1"
-			{
-				"gid" "3391837523933751578"
-				"size" "76994"
-				"download" "77856"
-			}
-			"3.11.2"
-			{
-				"gid" "3391837523933751578"
-				"size" "76994"
-				"download" "77856"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "3391837523933751578"
-				"size" "76994"
-				"download" "77856"
-			}
 			"3.2.2"
 			{
 				"gid" "1320217022947086587"
@@ -2194,6 +2254,36 @@
 				"size" "76994"
 				"download" "77856"
 			}
+			"3.10.4"
+			{
+				"gid" "3391837523933751578"
+				"size" "76994"
+				"download" "77856"
+			}
+			"3.11.1"
+			{
+				"gid" "3391837523933751578"
+				"size" "76994"
+				"download" "77856"
+			}
+			"3.11.2"
+			{
+				"gid" "3391837523933751578"
+				"size" "76994"
+				"download" "77856"
+			}
+			"3.11.3"
+			{
+				"gid" "3391837523933751578"
+				"size" "76994"
+				"download" "77856"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "3391837523933751578"
+				"size" "76994"
+				"download" "77856"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -2202,6 +2292,12 @@
 				"gid" "8193590357FDC4DE0FBF2E4991A1F899"
 				"size" "0616622B7F5B7042C475EAC7E72AA051"
 				"download" "A841BC80B1520448AE2BCB1B53E28B97"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "7CFFBD44F7F5F482610C7ED790309F46"
+				"size" "D7EB223C054E4A457D79DF74AC827043"
+				"download" "19AF18BE61F4C6B4E8A9D82C61AC051A"
 			}
 			"1.1.0"
 			{
@@ -2263,17 +2359,17 @@
 				"size" "AD586E38DCBDC93D8AA1FA296A25F47E"
 				"download" "87C7ABA2397B89A3D014B684CE8CD297"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "8E31C64058B88F9A2ABA54A0C5999FD2"
-				"size" "0BFC8F5E0BC172359F6DFC1036A5B63E"
-				"download" "947A408DF8167E65ABF942FCFCE188E7"
-			}
 			"review_branch"
 			{
 				"gid" "990724B27727808B140277CAEE8A1FCF"
 				"size" "4C6A3BCE1CB31F3B5613A69DA21BF2C5"
 				"download" "2AEED9287675F9EE99C81DEB0D097A0D"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "BEAE45695EBC3495B1DAA0B466682CB8"
+				"size" "35C8AB902F65E43C390C08800A35D362"
+				"download" "C39533166B656A2AFDA4902280C85B61"
 			}
 		}
 	}
@@ -2354,30 +2450,6 @@
 				"size" "1161285479"
 				"download" "1143479312"
 			}
-			"3.10.4"
-			{
-				"gid" "4984318181401498898"
-				"size" "1161285479"
-				"download" "1143479312"
-			}
-			"3.11.1"
-			{
-				"gid" "4984318181401498898"
-				"size" "1161285479"
-				"download" "1143479312"
-			}
-			"3.11.2"
-			{
-				"gid" "4984318181401498898"
-				"size" "1161285479"
-				"download" "1143479312"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "4984318181401498898"
-				"size" "1161285479"
-				"download" "1143479312"
-			}
 			"3.2.2"
 			{
 				"gid" "4984318181401498898"
@@ -2426,6 +2498,36 @@
 				"size" "1161285479"
 				"download" "1143479312"
 			}
+			"3.10.4"
+			{
+				"gid" "4984318181401498898"
+				"size" "1161285479"
+				"download" "1143479312"
+			}
+			"3.11.1"
+			{
+				"gid" "4984318181401498898"
+				"size" "1161285479"
+				"download" "1143479312"
+			}
+			"3.11.2"
+			{
+				"gid" "4984318181401498898"
+				"size" "1161285479"
+				"download" "1143479312"
+			}
+			"3.11.3"
+			{
+				"gid" "4984318181401498898"
+				"size" "1161285479"
+				"download" "1143479312"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "4984318181401498898"
+				"size" "1161285479"
+				"download" "1143479312"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -2434,6 +2536,12 @@
 				"gid" "66FF5E863DC697F98FF4550173F9131C"
 				"size" "1E8B84F0332C9A6B77C9AC3458CB3518"
 				"download" "2CC3A11ED07EC075C5DF63FF418A5540"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "E14AEB64D8B8B4E4F602D8D67A3C3A06"
+				"size" "A133878D918C268CFF78D46DFBBA3370"
+				"download" "CAB6A6FE127E79E4DDAE6D0F3D062927"
 			}
 			"1.1.0"
 			{
@@ -2495,17 +2603,17 @@
 				"size" "63502B93FF124984398960BB11BEE148"
 				"download" "F1AC6CB5B392053C177D676D18554D53"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "776675457C39433415175C458F3C7A4E"
-				"size" "5309C57F057BAFD5E012A77EFB013836"
-				"download" "9BDB6BD4AEBFEF1E6C4CECCDDAAA4FB5"
-			}
 			"review_branch"
 			{
 				"gid" "991953676627FFC910A4420C16FD2AF4"
 				"size" "A8731008A12B7504A0E760AF1E06EEFD"
 				"download" "50DF6BA53FC4C92CA3DA9C6C765D7716"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "0ADDC76301D1A027D66A9589BA98D5E2"
+				"size" "134275B2C177E52DE8443D59FF44209B"
+				"download" "8A675FC99470616652259822C5DB5E7D"
 			}
 		}
 	}
@@ -2586,30 +2694,6 @@
 				"size" "5084430"
 				"download" "4683728"
 			}
-			"3.10.4"
-			{
-				"gid" "5616497098841117414"
-				"size" "5084430"
-				"download" "4683728"
-			}
-			"3.11.1"
-			{
-				"gid" "5616497098841117414"
-				"size" "5084430"
-				"download" "4683728"
-			}
-			"3.11.2"
-			{
-				"gid" "5616497098841117414"
-				"size" "5084430"
-				"download" "4683728"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "5616497098841117414"
-				"size" "5084430"
-				"download" "4683728"
-			}
 			"3.2.2"
 			{
 				"gid" "5616497098841117414"
@@ -2658,6 +2742,36 @@
 				"size" "5084430"
 				"download" "4683728"
 			}
+			"3.10.4"
+			{
+				"gid" "5616497098841117414"
+				"size" "5084430"
+				"download" "4683728"
+			}
+			"3.11.1"
+			{
+				"gid" "5616497098841117414"
+				"size" "5084430"
+				"download" "4683728"
+			}
+			"3.11.2"
+			{
+				"gid" "5616497098841117414"
+				"size" "5084430"
+				"download" "4683728"
+			}
+			"3.11.3"
+			{
+				"gid" "5616497098841117414"
+				"size" "5084430"
+				"download" "4683728"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "5616497098841117414"
+				"size" "5084430"
+				"download" "4683728"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -2666,6 +2780,12 @@
 				"gid" "E900A4377ADD2C09E1948465F5458054"
 				"size" "4A24237F935A8A9BE47A543D5265776A"
 				"download" "5F6990166FB6B3E7F687A270CF0FC184"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "D3AE0A262449BD5FE0281B3697CE42B6"
+				"size" "CE07D090BB9D6BEB4B41771DAB6D45A5"
+				"download" "EAFE878394B2A311EBFDF06BCB4A8388"
 			}
 			"1.1.0"
 			{
@@ -2727,17 +2847,17 @@
 				"size" "CD768A1059091B452864F11437F41E33"
 				"download" "D9C1B4FBF015D61DD3A21BA5A46E672E"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "5044DCADC84DE2E876ACFEDD7E17156F"
-				"size" "D5CB0D66EE8F1A5ED3E1D846500563FF"
-				"download" "0F556F2952E681E85E6EBDE3036CED6A"
-			}
 			"review_branch"
 			{
 				"gid" "E618B813161005726F3D156C0871502A"
 				"size" "6AACD1BFA926448A80D4233F1BB754DA"
 				"download" "D39F3A550DDD7501EB7A16251F21137C"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "FE10019DDA7A74FFA659700E683B4277"
+				"size" "AA4C9BA01F6CCE8E3F7FA6981DA9AE84"
+				"download" "A13A5BA945034973086C35EF98F7E0C4"
 			}
 		}
 	}
@@ -2818,30 +2938,6 @@
 				"size" "2398034"
 				"download" "2147392"
 			}
-			"3.10.4"
-			{
-				"gid" "380104706699965241"
-				"size" "2398034"
-				"download" "2147392"
-			}
-			"3.11.1"
-			{
-				"gid" "380104706699965241"
-				"size" "2398034"
-				"download" "2147392"
-			}
-			"3.11.2"
-			{
-				"gid" "380104706699965241"
-				"size" "2398034"
-				"download" "2147392"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "380104706699965241"
-				"size" "2398034"
-				"download" "2147392"
-			}
 			"3.2.2"
 			{
 				"gid" "380104706699965241"
@@ -2890,6 +2986,36 @@
 				"size" "2398034"
 				"download" "2147392"
 			}
+			"3.10.4"
+			{
+				"gid" "380104706699965241"
+				"size" "2398034"
+				"download" "2147392"
+			}
+			"3.11.1"
+			{
+				"gid" "380104706699965241"
+				"size" "2398034"
+				"download" "2147392"
+			}
+			"3.11.2"
+			{
+				"gid" "380104706699965241"
+				"size" "2398034"
+				"download" "2147392"
+			}
+			"3.11.3"
+			{
+				"gid" "380104706699965241"
+				"size" "2398034"
+				"download" "2147392"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "380104706699965241"
+				"size" "2398034"
+				"download" "2147392"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -2898,6 +3024,12 @@
 				"gid" "4D09DA6D57B7102ED0B123FC7A51C5D3"
 				"size" "46BECB9CB92EF8D57AFEF5D16F47CE24"
 				"download" "4723F7BF48174EF6A05DD704807B0E7C"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "91DBCB7A3C1C4C05652053B0344E50E6"
+				"size" "F500655BD5DCD6D89ABCA44C7B918BC8"
+				"download" "F5FB0E42A70BB2B03B535AC869A2C815"
 			}
 			"1.1.0"
 			{
@@ -2959,17 +3091,17 @@
 				"size" "AC4865525FA69A0B32B5D51C19012345"
 				"download" "AB1F0BA638F79602697B0E6CD590406D"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "24C04122E37CEA43B7E4A6C6CB525D93"
-				"size" "38681A497B947CBB406522822DCFBE5B"
-				"download" "DCAF5A99772931C9DB49A5D202EAB92C"
-			}
 			"review_branch"
 			{
 				"gid" "39467053E2D292B38B9630389026E8B8"
 				"size" "40F413DC7B7D0BE2B9635440535F2FF1"
 				"download" "9EED24BA0A7E09B81E72FF5003DC1ABC"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "2058B9A7E67CF0560C2CDD7F74CAFFC5"
+				"size" "91BF3941B49A7D0183B15E7A9AF304D9"
+				"download" "7DDF6F57CAB855BD5BB53967152B6387"
 			}
 		}
 	}
@@ -3050,30 +3182,6 @@
 				"size" "1302880"
 				"download" "1257056"
 			}
-			"3.10.4"
-			{
-				"gid" "8750895669882452148"
-				"size" "1302880"
-				"download" "1257056"
-			}
-			"3.11.1"
-			{
-				"gid" "8750895669882452148"
-				"size" "1302880"
-				"download" "1257056"
-			}
-			"3.11.2"
-			{
-				"gid" "8750895669882452148"
-				"size" "1302880"
-				"download" "1257056"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "8750895669882452148"
-				"size" "1302880"
-				"download" "1257056"
-			}
 			"3.2.2"
 			{
 				"gid" "8750895669882452148"
@@ -3122,6 +3230,36 @@
 				"size" "1302880"
 				"download" "1257056"
 			}
+			"3.10.4"
+			{
+				"gid" "8750895669882452148"
+				"size" "1302880"
+				"download" "1257056"
+			}
+			"3.11.1"
+			{
+				"gid" "8750895669882452148"
+				"size" "1302880"
+				"download" "1257056"
+			}
+			"3.11.2"
+			{
+				"gid" "8750895669882452148"
+				"size" "1302880"
+				"download" "1257056"
+			}
+			"3.11.3"
+			{
+				"gid" "8750895669882452148"
+				"size" "1302880"
+				"download" "1257056"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "8750895669882452148"
+				"size" "1302880"
+				"download" "1257056"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -3130,6 +3268,12 @@
 				"gid" "6A5E81725D002B3092C355B9C34A865E"
 				"size" "8DB4C2DEC450DD17763E36F61CFF8E94"
 				"download" "B90495802D4261F5A311B0680530F658"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "9AF82F55876E14507097F56802C0CB33"
+				"size" "B3427C1A5AF8CF14B53A7261F6E51EE0"
+				"download" "BA8B5313AF17543A63F2EDEAB11A19E8"
 			}
 			"1.1.0"
 			{
@@ -3191,17 +3335,17 @@
 				"size" "6074D8F45F023FBDA503DBB1BBC4FA7E"
 				"download" "01C5C63A7C84BBE58E4F7D27510E40AA"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "82C0FB1947AEB2DF137128A7D3ECE127"
-				"size" "8A0E5051EC09FEB2D4E17547F69220AD"
-				"download" "6A4213CC8E9E14A2EA59FFFB9E7E7D2D"
-			}
 			"review_branch"
 			{
 				"gid" "14F3E4B6F4EBE24A1FE8A81EEB944F97"
 				"size" "9A09F68A367D5423470E1E48C3458E12"
 				"download" "AC2674129862FBDA112F1F936F150854"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "9B10BDF113649A6B28F29C8C93B20B7D"
+				"size" "E3B149C9610C01A540A7CF3346BFCD19"
+				"download" "796C34AF6F99A32A8D64D38FFA27EF94"
 			}
 		}
 	}
@@ -3286,30 +3430,6 @@
 				"size" "0"
 				"download" "0"
 			}
-			"3.10.4"
-			{
-				"gid" "5298150507268136665"
-				"size" "0"
-				"download" "0"
-			}
-			"3.11.1"
-			{
-				"gid" "5298150507268136665"
-				"size" "0"
-				"download" "0"
-			}
-			"3.11.2"
-			{
-				"gid" "5298150507268136665"
-				"size" "0"
-				"download" "0"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "5298150507268136665"
-				"size" "0"
-				"download" "0"
-			}
 			"3.2.2"
 			{
 				"gid" "5298150507268136665"
@@ -3358,6 +3478,36 @@
 				"size" "0"
 				"download" "0"
 			}
+			"3.10.4"
+			{
+				"gid" "5298150507268136665"
+				"size" "0"
+				"download" "0"
+			}
+			"3.11.1"
+			{
+				"gid" "5298150507268136665"
+				"size" "0"
+				"download" "0"
+			}
+			"3.11.2"
+			{
+				"gid" "5298150507268136665"
+				"size" "0"
+				"download" "0"
+			}
+			"3.11.3"
+			{
+				"gid" "5298150507268136665"
+				"size" "0"
+				"download" "0"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "5298150507268136665"
+				"size" "0"
+				"download" "0"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -3366,6 +3516,12 @@
 				"gid" "BC15533DD4AD9E7A4B7210795153E4DA"
 				"size" "2FA337EDEE5E441D12F129A5C6E57A05"
 				"download" "2FA337EDEE5E441D12F129A5C6E57A05"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "BB55C1AAE09A630213B66454211E9F8F"
+				"size" "4A37F6CCB5C1CCFDCF4078EB2B771EF1"
+				"download" "4A37F6CCB5C1CCFDCF4078EB2B771EF1"
 			}
 			"1.1.0"
 			{
@@ -3427,17 +3583,17 @@
 				"size" "2342B076E2603EF83CF2CBA99B168DBF"
 				"download" "2342B076E2603EF83CF2CBA99B168DBF"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "EEBF5D1CEBA0B646D74C0D2EE0426B9C"
-				"size" "09BEB4662FA447B07B5BD528B6891F0C"
-				"download" "09BEB4662FA447B07B5BD528B6891F0C"
-			}
 			"review_branch"
 			{
 				"gid" "DAC85898EF5FBB33FFE15F6DED3E6DAD"
 				"size" "4885C6E0CCC8910C6B2B833393981604"
 				"download" "4885C6E0CCC8910C6B2B833393981604"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "AA7CF545940467FD848CCE66E4F2BF3B"
+				"size" "AEFD4B5692E34901E47DE23C661D5965"
+				"download" "AEFD4B5692E34901E47DE23C661D5965"
 			}
 		}
 	}
@@ -3518,30 +3674,6 @@
 				"size" "76988"
 				"download" "77856"
 			}
-			"3.10.4"
-			{
-				"gid" "8067996932135208368"
-				"size" "76996"
-				"download" "77856"
-			}
-			"3.11.1"
-			{
-				"gid" "8067996932135208368"
-				"size" "76996"
-				"download" "77856"
-			}
-			"3.11.2"
-			{
-				"gid" "8067996932135208368"
-				"size" "76996"
-				"download" "77856"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "8067996932135208368"
-				"size" "76996"
-				"download" "77856"
-			}
 			"3.2.2"
 			{
 				"gid" "7133521562352933117"
@@ -3590,6 +3722,36 @@
 				"size" "76996"
 				"download" "77856"
 			}
+			"3.10.4"
+			{
+				"gid" "8067996932135208368"
+				"size" "76996"
+				"download" "77856"
+			}
+			"3.11.1"
+			{
+				"gid" "8067996932135208368"
+				"size" "76996"
+				"download" "77856"
+			}
+			"3.11.2"
+			{
+				"gid" "8067996932135208368"
+				"size" "76996"
+				"download" "77856"
+			}
+			"3.11.3"
+			{
+				"gid" "8067996932135208368"
+				"size" "76996"
+				"download" "77856"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "8067996932135208368"
+				"size" "76996"
+				"download" "77856"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -3598,6 +3760,12 @@
 				"gid" "26D5CD44BDBBB3A2484581ED12A58D70"
 				"size" "A54B7A7FC00C19F6DF40BE1E9784D826"
 				"download" "A841BC80B1520448AE2BCB1B53E28B97"
+			}
+			"the_machine_age_influencer2"
+			{
+				"gid" "12F5DEFE17AE6828FA3EAB0BAEF144E8"
+				"size" "BAA91BA522AC3885A9A197C8F16B2E39"
+				"download" "19AF18BE61F4C6B4E8A9D82C61AC051A"
 			}
 			"1.1.0"
 			{
@@ -3659,17 +3827,17 @@
 				"size" "BA5651D12FF491F76CB403E1E5127962"
 				"download" "87C7ABA2397B89A3D014B684CE8CD297"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "B881A06F84C7BF4F21D6D547EE077DC7"
-				"size" "76B82654C4D1D64EB6C4E41761335B76"
-				"download" "947A408DF8167E65ABF942FCFCE188E7"
-			}
 			"review_branch"
 			{
 				"gid" "5CB18BCB8E6E74DFAB2229244A9E84C2"
 				"size" "A352E359A10E407798C542BD3D66B9DE"
 				"download" "2AEED9287675F9EE99C81DEB0D097A0D"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "3210627CFD1AB6CE9F3B8A87D43683F3"
+				"size" "04EB35E48F88415F60082CB99824CFBF"
+				"download" "C39533166B656A2AFDA4902280C85B61"
 			}
 		}
 	}
@@ -3750,30 +3918,6 @@
 				"size" "2321437"
 				"download" "2069904"
 			}
-			"3.10.4"
-			{
-				"gid" "8675625826638210993"
-				"size" "2321437"
-				"download" "2069904"
-			}
-			"3.11.1"
-			{
-				"gid" "8675625826638210993"
-				"size" "2321437"
-				"download" "2069904"
-			}
-			"3.11.2"
-			{
-				"gid" "8675625826638210993"
-				"size" "2321437"
-				"download" "2069904"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "8675625826638210993"
-				"size" "2321437"
-				"download" "2069904"
-			}
 			"3.2.2"
 			{
 				"gid" "8675625826638210993"
@@ -3822,9 +3966,45 @@
 				"size" "2321437"
 				"download" "2069904"
 			}
+			"3.10.4"
+			{
+				"gid" "8675625826638210993"
+				"size" "2321437"
+				"download" "2069904"
+			}
+			"3.11.1"
+			{
+				"gid" "8675625826638210993"
+				"size" "2321437"
+				"download" "2069904"
+			}
+			"3.11.2"
+			{
+				"gid" "8675625826638210993"
+				"size" "2321437"
+				"download" "2069904"
+			}
+			"3.11.3"
+			{
+				"gid" "8675625826638210993"
+				"size" "2321437"
+				"download" "2069904"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "8675625826638210993"
+				"size" "2321437"
+				"download" "2069904"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "870201A005481D36186333A26F42B879"
+				"size" "EE7634AA4435C7731C19682DA8037F59"
+				"download" "75E71DC75B92A2AC277F6A5213AC38B1"
+			}
 			"1.2.5"
 			{
 				"gid" "4F2FD1C2E887D62B3C49BFA3D0654706"
@@ -3879,17 +4059,17 @@
 				"size" "8BA7E22747F843753698423CD18ACE29"
 				"download" "576C68A195587FA1910EA91FAE3C078A"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "39B045B9C21C079ADE07595684A728FC"
-				"size" "E2384D8AC761CC74ABE11A446163207C"
-				"download" "01245AC6B576127ED7A5A7A155E735A5"
-			}
 			"review_branch"
 			{
 				"gid" "3A8B7E41D4D0C375DF8B075CF67C6E3E"
 				"size" "DC1B2108BCBD256A00F59763A59A91E5"
 				"download" "FA4D06CF0D912EE5A61593FDB78C8D55"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "F6217CC86A51F2D18EC4C2FAC9B9D767"
+				"size" "1E60DB84D08943A1D5484642A8484489"
+				"download" "CDEC240E55B1FD0B120ACF86DBC16C55"
 			}
 		}
 	}
@@ -3970,30 +4150,6 @@
 				"size" "84403"
 				"download" "85296"
 			}
-			"3.10.4"
-			{
-				"gid" "4861879200389357458"
-				"size" "97278"
-				"download" "98048"
-			}
-			"3.11.1"
-			{
-				"gid" "4861879200389357458"
-				"size" "97278"
-				"download" "98048"
-			}
-			"3.11.2"
-			{
-				"gid" "4861879200389357458"
-				"size" "97278"
-				"download" "98048"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "4861879200389357458"
-				"size" "97278"
-				"download" "98048"
-			}
 			"3.2.2"
 			{
 				"gid" "362767544071593740"
@@ -4042,9 +4198,45 @@
 				"size" "97278"
 				"download" "98048"
 			}
+			"3.10.4"
+			{
+				"gid" "4861879200389357458"
+				"size" "97278"
+				"download" "98048"
+			}
+			"3.11.1"
+			{
+				"gid" "4861879200389357458"
+				"size" "97278"
+				"download" "98048"
+			}
+			"3.11.2"
+			{
+				"gid" "4861879200389357458"
+				"size" "97278"
+				"download" "98048"
+			}
+			"3.11.3"
+			{
+				"gid" "4861879200389357458"
+				"size" "97278"
+				"download" "98048"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "4861879200389357458"
+				"size" "97278"
+				"download" "98048"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "AEE3E6149FBFFD9BB9163C344999655F"
+				"size" "BD0269E813F91930AE82EA10285B278C"
+				"download" "460E9D13D888FD4C2E3EE7AAAB2F5E74"
+			}
 			"1.2.5"
 			{
 				"gid" "1127062E6BCBA6BF30BEB961B8FE221B"
@@ -4099,17 +4291,17 @@
 				"size" "F1AC9EEC6A718B8CBBF1115398820AD4"
 				"download" "5814A779B93FE964BFB5D6E8396B2930"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "DBD5F9BD83B09FE38100F2CDA03DABF7"
-				"size" "22BE6AD383C9A2A3C0BBF348371A5494"
-				"download" "6C41437B9CB97ECC9CED0CC67A1305F6"
-			}
 			"review_branch"
 			{
 				"gid" "184FCC6A459A55916F37ADF52BE60247"
 				"size" "C36C534361FE33733E48A172D62D3397"
 				"download" "61C153DEC225A344974AC40F1EC8C8D7"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "8ED65B3B7CC778FD0A94D89198E390AA"
+				"size" "8F37070474B701F46BE47DD1C5F5BD77"
+				"download" "8E8146685CFBA6C48A2EF46269F3BB47"
 			}
 		}
 	}
@@ -4190,30 +4382,6 @@
 				"size" "59068514"
 				"download" "59824784"
 			}
-			"3.10.4"
-			{
-				"gid" "2431260053894884791"
-				"size" "59068522"
-				"download" "59824784"
-			}
-			"3.11.1"
-			{
-				"gid" "2431260053894884791"
-				"size" "59068522"
-				"download" "59824784"
-			}
-			"3.11.2"
-			{
-				"gid" "2431260053894884791"
-				"size" "59068522"
-				"download" "59824784"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "2431260053894884791"
-				"size" "59068522"
-				"download" "59824784"
-			}
 			"3.2.2"
 			{
 				"gid" "3971819854726490089"
@@ -4262,9 +4430,45 @@
 				"size" "59068522"
 				"download" "59824784"
 			}
+			"3.10.4"
+			{
+				"gid" "2431260053894884791"
+				"size" "59068522"
+				"download" "59824784"
+			}
+			"3.11.1"
+			{
+				"gid" "2431260053894884791"
+				"size" "59068522"
+				"download" "59824784"
+			}
+			"3.11.2"
+			{
+				"gid" "2431260053894884791"
+				"size" "59068522"
+				"download" "59824784"
+			}
+			"3.11.3"
+			{
+				"gid" "2431260053894884791"
+				"size" "59068522"
+				"download" "59824784"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "2431260053894884791"
+				"size" "59068522"
+				"download" "59824784"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "DDDF7989B3D7FBE8E53FCBE1FD27930B"
+				"size" "43E34D549D7E1CC633AFF78463E99DF8"
+				"download" "8A2FE2E0F900E68F9B4D6B369C89CFB4"
+			}
 			"1.3.2"
 			{
 				"gid" "07235AFFF7B9D9E76B9937066038AF57"
@@ -4313,17 +4517,17 @@
 				"size" "7830C19BECB997C877ED490E118BAABD"
 				"download" "023FA78DC2BC7AFEA4209273B2EE28EA"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "55B45D041BCDBBF500D37841B440391C"
-				"size" "D8D4CADAF8ECD5B7AA0E3BB05E009F45"
-				"download" "AD30417C6687183337BEBA52EC99906D"
-			}
 			"review_branch"
 			{
 				"gid" "0949360ED15E48ABABF6EB7590BC7D15"
 				"size" "C1E38F9CE6CAF41D09D39EC26BD18C14"
 				"download" "364C1E107A6BE1F4B0294EB12DB6DA7C"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "24005241EC81FDEB2EF89789C0ADA631"
+				"size" "2FEF7ACEFA08FB0179844FEB02F86DDA"
+				"download" "B51722CEF406AF3984503EFDA06F2100"
 			}
 		}
 	}
@@ -4404,30 +4608,6 @@
 				"size" "76047589"
 				"download" "77042448"
 			}
-			"3.10.4"
-			{
-				"gid" "5348158420175847653"
-				"size" "76047593"
-				"download" "77042448"
-			}
-			"3.11.1"
-			{
-				"gid" "5348158420175847653"
-				"size" "76047593"
-				"download" "77042448"
-			}
-			"3.11.2"
-			{
-				"gid" "5348158420175847653"
-				"size" "76047593"
-				"download" "77042448"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "5348158420175847653"
-				"size" "76047593"
-				"download" "77042448"
-			}
 			"3.2.2"
 			{
 				"gid" "5041188771127592999"
@@ -4476,9 +4656,45 @@
 				"size" "76047593"
 				"download" "77042448"
 			}
+			"3.10.4"
+			{
+				"gid" "5348158420175847653"
+				"size" "76047593"
+				"download" "77042448"
+			}
+			"3.11.1"
+			{
+				"gid" "5348158420175847653"
+				"size" "76047593"
+				"download" "77042448"
+			}
+			"3.11.2"
+			{
+				"gid" "5348158420175847653"
+				"size" "76047593"
+				"download" "77042448"
+			}
+			"3.11.3"
+			{
+				"gid" "5348158420175847653"
+				"size" "76047593"
+				"download" "77042448"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "5348158420175847653"
+				"size" "76047593"
+				"download" "77042448"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "8F11F77B59608E93641DC77DC1AB180E"
+				"size" "7E5CF01B42E64536585DD0B7A8C0B41D"
+				"download" "24C629516A06612D5EB62D1A2A621D07"
+			}
 			"1.5.1"
 			{
 				"gid" "1388299BDBF433EE182DC249DD88CD93"
@@ -4515,17 +4731,17 @@
 				"size" "D2BFE6C562A7AAD0D5CE2A86152C4FEC"
 				"download" "2F7E9895ABC7E374075B9237AEBF533C"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "7464B13D094CD18FAE7827D6417FC282"
-				"size" "D972DD9438745138C0BFC349276FC651"
-				"download" "15A436D2FC7504DFD4F75A296ED2C202"
-			}
 			"review_branch"
 			{
 				"gid" "FFF0C7623918F702C457CB4AF674BF73"
 				"size" "3BA3D424AD6B368A3400FE9F34022B82"
 				"download" "1247C22E823197BA6968E5EF5DEF3AE2"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "FF55BD3E16CF03A7F818E6BD33B26D6A"
+				"size" "9297A22CB75AAB946A74F9735C5F0418"
+				"download" "DBC6C23ED089BBDA11B381316F69686F"
 			}
 		}
 	}
@@ -4606,30 +4822,6 @@
 				"size" "76949"
 				"download" "77840"
 			}
-			"3.10.4"
-			{
-				"gid" "1490369501198761492"
-				"size" "76955"
-				"download" "77840"
-			}
-			"3.11.1"
-			{
-				"gid" "1490369501198761492"
-				"size" "76955"
-				"download" "77840"
-			}
-			"3.11.2"
-			{
-				"gid" "1490369501198761492"
-				"size" "76955"
-				"download" "77840"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "1490369501198761492"
-				"size" "76955"
-				"download" "77840"
-			}
 			"3.2.2"
 			{
 				"gid" "6175945044272300741"
@@ -4678,9 +4870,45 @@
 				"size" "76955"
 				"download" "77840"
 			}
+			"3.10.4"
+			{
+				"gid" "1490369501198761492"
+				"size" "76955"
+				"download" "77840"
+			}
+			"3.11.1"
+			{
+				"gid" "1490369501198761492"
+				"size" "76955"
+				"download" "77840"
+			}
+			"3.11.2"
+			{
+				"gid" "1490369501198761492"
+				"size" "76955"
+				"download" "77840"
+			}
+			"3.11.3"
+			{
+				"gid" "1490369501198761492"
+				"size" "76955"
+				"download" "77840"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "1490369501198761492"
+				"size" "76955"
+				"download" "77840"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "9D5EEE95F379420F317D6F38B2CAC725"
+				"size" "651E032976120DF3F0A69CEE2776AD71"
+				"download" "108CF26AE0E416AAD24C65A1C6CC5666"
+			}
 			"1.4.1"
 			{
 				"gid" "91D4AF39F9582A0BE4A6170EF49DF8C9"
@@ -4723,17 +4951,17 @@
 				"size" "680F69CC0A5A7FA7B775EBFD37B8A131"
 				"download" "E29F8BAE952BEB3403718C0929B45B5B"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "95360E06C302F93242B93DDA049BED38"
-				"size" "DBF6663021DD394D3BD071E0DF63F253"
-				"download" "254607E754DD120F143E5E2C0E20EB11"
-			}
 			"review_branch"
 			{
 				"gid" "FA929E456DD164DD977BD0CA3A3D58F3"
 				"size" "2E24D726F2B47C5AF33AD36CB6E753AD"
 				"download" "085849BBA32CE5338AE589D932A74D9B"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "4933D8D6240EF9117A2430760FE5B301"
+				"size" "EF7120DF8F243400F2EDEB56BCA35E88"
+				"download" "BC50DEAD630903A5E729F4251B6FB8B6"
 			}
 		}
 	}
@@ -4814,30 +5042,6 @@
 				"size" "104510"
 				"download" "105616"
 			}
-			"3.10.4"
-			{
-				"gid" "747097202119440400"
-				"size" "104514"
-				"download" "105616"
-			}
-			"3.11.1"
-			{
-				"gid" "747097202119440400"
-				"size" "104514"
-				"download" "105616"
-			}
-			"3.11.2"
-			{
-				"gid" "747097202119440400"
-				"size" "104514"
-				"download" "105616"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "747097202119440400"
-				"size" "104514"
-				"download" "105616"
-			}
 			"3.2.2"
 			{
 				"gid" "9185842234660734472"
@@ -4886,9 +5090,45 @@
 				"size" "104514"
 				"download" "105616"
 			}
+			"3.10.4"
+			{
+				"gid" "747097202119440400"
+				"size" "104514"
+				"download" "105616"
+			}
+			"3.11.1"
+			{
+				"gid" "747097202119440400"
+				"size" "104514"
+				"download" "105616"
+			}
+			"3.11.2"
+			{
+				"gid" "747097202119440400"
+				"size" "104514"
+				"download" "105616"
+			}
+			"3.11.3"
+			{
+				"gid" "747097202119440400"
+				"size" "104514"
+				"download" "105616"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "747097202119440400"
+				"size" "104514"
+				"download" "105616"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "27F35B7E0873C86E2C5FA7D578C56589"
+				"size" "2E1ECDABCBA225D716D7907E08CAA764"
+				"download" "E34DD8A21471D9E7365D8C08E843D08F"
+			}
 			"1.6.2"
 			{
 				"gid" "339C9E121F0F5AA684F9CA7DC8EC94F7"
@@ -4919,17 +5159,17 @@
 				"size" "4B5DBB7BFABD3A6413604617AECD1F89"
 				"download" "1A7ABDF8B930995D92DDDB1C4204AC0F"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "2BBEEFA2F3AC19F100316485F9F6E4D1"
-				"size" "816CDAE6D60278D199FFCF9863CFE2AF"
-				"download" "D126274D520DB387F22A7F283B4A7406"
-			}
 			"review_branch"
 			{
 				"gid" "CA8F1F2C97A87A82870FA8943BC9E414"
 				"size" "0E832165743CFBE47291367BD74543A9"
 				"download" "2B6D5BA0E9F16D0E5968F022DAF062C9"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "3545EB3CABFFB30BE5B6A3EF6F9F1184"
+				"size" "657CBCE341DFDB115767E58BD558312A"
+				"download" "FFA0520AF7C8B02985D3D0636EAD5397"
 			}
 		}
 	}
@@ -5010,30 +5250,6 @@
 				"size" "48642853"
 				"download" "49267376"
 			}
-			"3.10.4"
-			{
-				"gid" "9013252645368791920"
-				"size" "48642857"
-				"download" "49267376"
-			}
-			"3.11.1"
-			{
-				"gid" "9013252645368791920"
-				"size" "48642857"
-				"download" "49267376"
-			}
-			"3.11.2"
-			{
-				"gid" "9013252645368791920"
-				"size" "48642857"
-				"download" "49267376"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "9013252645368791920"
-				"size" "48642857"
-				"download" "49267376"
-			}
 			"3.2.2"
 			{
 				"gid" "1042119558674002883"
@@ -5082,9 +5298,45 @@
 				"size" "48642857"
 				"download" "49267376"
 			}
+			"3.10.4"
+			{
+				"gid" "9013252645368791920"
+				"size" "48642857"
+				"download" "49267376"
+			}
+			"3.11.1"
+			{
+				"gid" "9013252645368791920"
+				"size" "48642857"
+				"download" "49267376"
+			}
+			"3.11.2"
+			{
+				"gid" "9013252645368791920"
+				"size" "48642857"
+				"download" "49267376"
+			}
+			"3.11.3"
+			{
+				"gid" "9013252645368791920"
+				"size" "48642857"
+				"download" "49267376"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "9013252645368791920"
+				"size" "48642857"
+				"download" "49267376"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "212DA7E87008A04DC9C5C382D8263568"
+				"size" "1424D31F2628B4E017D12366BE2FDA09"
+				"download" "2D0A389206F63D6725A7E07012A9C98B"
+			}
 			"1.8.3"
 			{
 				"gid" "6CF94D31A6B764A82345146C6867C959"
@@ -5109,17 +5361,17 @@
 				"size" "907DD2DF8219F7075C77A10522D75704"
 				"download" "DFAE6650BB79655C080D0B566951BA0F"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "8C6A2E9B94FD651C473B828734D4D83A"
-				"size" "43898E45B1C852925CE80A40DBF87242"
-				"download" "C11BA7EF2DFB4AC14051EB3A0EAC6AA4"
-			}
 			"review_branch"
 			{
 				"gid" "7DF3D9029BA016D1077E72E23829CF71"
 				"size" "3EC13C9C3D3B569ABC62A615FFE6F63E"
 				"download" "D89D6EB69673569D9ACE0AECDC3AAD01"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "9CA11AE64AD0C88A8B59A1CBB07B0421"
+				"size" "DA1D5757A2207D7CDBA1A7DEAE9AD2FF"
+				"download" "B6123478B0DEAC433816994FB11A19BC"
 			}
 		}
 	}
@@ -5200,30 +5452,6 @@
 				"size" "38026510"
 				"download" "38416432"
 			}
-			"3.10.4"
-			{
-				"gid" "2322655893369385861"
-				"size" "38026514"
-				"download" "38416432"
-			}
-			"3.11.1"
-			{
-				"gid" "2322655893369385861"
-				"size" "38026514"
-				"download" "38416432"
-			}
-			"3.11.2"
-			{
-				"gid" "2322655893369385861"
-				"size" "38026514"
-				"download" "38416432"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "2322655893369385861"
-				"size" "38026514"
-				"download" "38416432"
-			}
 			"3.2.2"
 			{
 				"gid" "6083136013856469265"
@@ -5272,9 +5500,45 @@
 				"size" "38026514"
 				"download" "38416432"
 			}
+			"3.10.4"
+			{
+				"gid" "2322655893369385861"
+				"size" "38026514"
+				"download" "38416432"
+			}
+			"3.11.1"
+			{
+				"gid" "2322655893369385861"
+				"size" "38026514"
+				"download" "38416432"
+			}
+			"3.11.2"
+			{
+				"gid" "2322655893369385861"
+				"size" "38026514"
+				"download" "38416432"
+			}
+			"3.11.3"
+			{
+				"gid" "2322655893369385861"
+				"size" "38026514"
+				"download" "38416432"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "2322655893369385861"
+				"size" "38026514"
+				"download" "38416432"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "F698D2584CB0CC50AF51BE803649FA52"
+				"size" "A12CB48E275F5735C2EF964436A13F5D"
+				"download" "3A7C312797C89B3D5D4AC810C372D500"
+			}
 			"2.0.5"
 			{
 				"gid" "694643DF457389B96D388A806143545B"
@@ -5287,17 +5551,17 @@
 				"size" "D04D22B4D80E2E22AF5A7B3AE09C108E"
 				"download" "922B4426543F8C00B770DF279864FDD9"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "5B91AFD3AF66AF204BAE7614FF868B49"
-				"size" "6866473FB962EB5B500BFB331B0FC3F1"
-				"download" "8E2B7902A77A7F6481E9810AA6B92E60"
-			}
 			"review_branch"
 			{
 				"gid" "303E8DD1EBAF4D85F536FF52D6C415D0"
 				"size" "7938C56E6981E99545FC61C9ACC8ACD6"
 				"download" "4FAE35276B42EC727E9D1FDAADE6C676"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "88972BC1592E12E5785CC84BC36F4F8F"
+				"size" "F5537CDC07BB4D27D30B1FA99C4E140D"
+				"download" "74C24BD0F4A0F6EB952EF4B06E3D8A7C"
 			}
 		}
 	}
@@ -5378,30 +5642,6 @@
 				"size" "118484386"
 				"download" "115113808"
 			}
-			"3.10.4"
-			{
-				"gid" "7962760454581577027"
-				"size" "118343735"
-				"download" "114981920"
-			}
-			"3.11.1"
-			{
-				"gid" "7962760454581577027"
-				"size" "118343735"
-				"download" "114981920"
-			}
-			"3.11.2"
-			{
-				"gid" "7962760454581577027"
-				"size" "118343735"
-				"download" "114981920"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "7962760454581577027"
-				"size" "118343735"
-				"download" "114981920"
-			}
 			"3.2.2"
 			{
 				"gid" "6760009967864212822"
@@ -5450,9 +5690,45 @@
 				"size" "118343735"
 				"download" "114981920"
 			}
+			"3.10.4"
+			{
+				"gid" "7962760454581577027"
+				"size" "118343735"
+				"download" "114981920"
+			}
+			"3.11.1"
+			{
+				"gid" "7962760454581577027"
+				"size" "118343735"
+				"download" "114981920"
+			}
+			"3.11.2"
+			{
+				"gid" "7962760454581577027"
+				"size" "118343735"
+				"download" "114981920"
+			}
+			"3.11.3"
+			{
+				"gid" "7962760454581577027"
+				"size" "118343735"
+				"download" "114981920"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "7962760454581577027"
+				"size" "118343735"
+				"download" "114981920"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "5C22326B488C52B430A25AAEBCAA586A"
+				"size" "7B85AC61CEC48E80552F29C2516BF106"
+				"download" "5475D450898163563385261D3D52BB02"
+			}
 			"1.9.1"
 			{
 				"gid" "FA108A51652022506A9DF17DBD60F52D"
@@ -5471,17 +5747,17 @@
 				"size" "F0848D1D717DAE7CC2F5EB117F79ED5F"
 				"download" "30DCCFBA1FC269D858B9C7A57DEBAAE9"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "4A82A0BFDE78B9A8A63CFE8FE5FE04DD"
-				"size" "91CDFEEF65D5F3D5577E543B7A50CC5C"
-				"download" "C50796D0523C9A92D480E503B8141F73"
-			}
 			"review_branch"
 			{
 				"gid" "2B4F897767C3DB76262D336DDE199755"
 				"size" "3FD2D3AD27DFD835F1246409B115E9BD"
 				"download" "DF41C5F5D9D78AD481A892D8B320A23A"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "59BE4C82B7E5E8B2A2BDCCC08DD016C5"
+				"size" "A81AD974528F328E2D2D42B98DE2B415"
+				"download" "024D323A0B5A4D26D7345771B2B4DE0B"
 			}
 		}
 	}
@@ -5562,30 +5838,6 @@
 				"size" "20572271"
 				"download" "20828864"
 			}
-			"3.10.4"
-			{
-				"gid" "2871165293910894501"
-				"size" "20572275"
-				"download" "20828864"
-			}
-			"3.11.1"
-			{
-				"gid" "2871165293910894501"
-				"size" "20572275"
-				"download" "20828864"
-			}
-			"3.11.2"
-			{
-				"gid" "2871165293910894501"
-				"size" "20572275"
-				"download" "20828864"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "2871165293910894501"
-				"size" "20572275"
-				"download" "20828864"
-			}
 			"3.2.2"
 			{
 				"gid" "8522651042727570637"
@@ -5634,26 +5886,62 @@
 				"size" "20572275"
 				"download" "20828864"
 			}
+			"3.10.4"
+			{
+				"gid" "2871165293910894501"
+				"size" "20572275"
+				"download" "20828864"
+			}
+			"3.11.1"
+			{
+				"gid" "2871165293910894501"
+				"size" "20572275"
+				"download" "20828864"
+			}
+			"3.11.2"
+			{
+				"gid" "2871165293910894501"
+				"size" "20572275"
+				"download" "20828864"
+			}
+			"3.11.3"
+			{
+				"gid" "2871165293910894501"
+				"size" "20572275"
+				"download" "20828864"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "2871165293910894501"
+				"size" "20572275"
+				"download" "20828864"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "CF65EF20A35A4E1BD3A77F76C1DBC492"
+				"size" "E25F5CB62B40072B292F31C06BAD2012"
+				"download" "60F9AE21041277AA1FD61EF1DC774605"
+			}
 			"atlantis_rising"
 			{
 				"gid" "8650CDF7E6BF71DD3308CB0CF89326EF"
 				"size" "63E2D61DF88BE959D83698F32B533F29"
 				"download" "2FFF99B90B9F243550264B162EB76262"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "AD0C54D9F99E7A17CE7C7941534C8459"
-				"size" "78C0CA32A2EEEBEF288259620C914220"
-				"download" "8272EAD6F8A7EA3B420D6DC8634A5AF9"
-			}
 			"review_branch"
 			{
 				"gid" "091A7380E246B387237D9A0E66BF735C"
 				"size" "FD332A4BC124A79F9F533957EC0C742D"
 				"download" "09F9E29DA827B3AD7DB1DDCA34E439C3"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "D62D9344ED75614E1EAF67C99480260B"
+				"size" "D655DAA25B2D4BAFFEC977D13D21CB62"
+				"download" "CC17693209C880E3E324C316284E4790"
 			}
 		}
 	}
@@ -5728,30 +6016,6 @@
 				"size" "132989691"
 				"download" "128705168"
 			}
-			"3.10.4"
-			{
-				"gid" "5449955303327171940"
-				"size" "132989695"
-				"download" "128705168"
-			}
-			"3.11.1"
-			{
-				"gid" "5449955303327171940"
-				"size" "132989695"
-				"download" "128705168"
-			}
-			"3.11.2"
-			{
-				"gid" "5449955303327171940"
-				"size" "132989695"
-				"download" "128705168"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "5449955303327171940"
-				"size" "132989695"
-				"download" "128705168"
-			}
 			"3.2.2"
 			{
 				"gid" "2822394713918396159"
@@ -5800,26 +6064,62 @@
 				"size" "132989695"
 				"download" "128705168"
 			}
+			"3.10.4"
+			{
+				"gid" "5449955303327171940"
+				"size" "132989695"
+				"download" "128705168"
+			}
+			"3.11.1"
+			{
+				"gid" "5449955303327171940"
+				"size" "132989695"
+				"download" "128705168"
+			}
+			"3.11.2"
+			{
+				"gid" "5449955303327171940"
+				"size" "132989695"
+				"download" "128705168"
+			}
+			"3.11.3"
+			{
+				"gid" "5449955303327171940"
+				"size" "132989695"
+				"download" "128705168"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "5449955303327171940"
+				"size" "132989695"
+				"download" "128705168"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "6D3249958BF3705002EB4290FF90A924"
+				"size" "AFA18BF9BAA1F04936E20CFA7A4EF27E"
+				"download" "3B04AE142D40C84D964BE86C097A0608"
+			}
 			"atlantis_rising"
 			{
 				"gid" "80F94D0E5B21756A4B77BC4B90FAC89B"
 				"size" "CC5D3D9BBA28D0A29BAFA37059E0326A"
 				"download" "357F93DDD976E4F46F774621A9421592"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "5C07B34B0EEA013B981E7A2244F7FC29"
-				"size" "0EADCEA473B2CCFB0BCAF0D448BAE12B"
-				"download" "B3DE920217C33D3DDF40944F895F0AD8"
-			}
 			"review_branch"
 			{
 				"gid" "ADE3D16FE9C9B8A7B38150D788ECD47C"
 				"size" "224AE3DCD4689EAB4EED16CBAFF7F0D2"
 				"download" "3EED8452893732DD26CBC333D4BD6C71"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "DB38212EC8CBAFD2A4EA375795602BC5"
+				"size" "3A2CBF460B847A9275514B47463A8DB2"
+				"download" "A049DAC2AECCA4E954F762CD219F3EE4"
 			}
 		}
 	}
@@ -5888,30 +6188,6 @@
 				"size" "32765494"
 				"download" "33179888"
 			}
-			"3.10.4"
-			{
-				"gid" "4141875752236908345"
-				"size" "32765498"
-				"download" "33179888"
-			}
-			"3.11.1"
-			{
-				"gid" "4141875752236908345"
-				"size" "32765498"
-				"download" "33179888"
-			}
-			"3.11.2"
-			{
-				"gid" "4141875752236908345"
-				"size" "32765498"
-				"download" "33179888"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "4141875752236908345"
-				"size" "32765498"
-				"download" "33179888"
-			}
 			"3.2.2"
 			{
 				"gid" "4921821807846876554"
@@ -5960,26 +6236,62 @@
 				"size" "32765498"
 				"download" "33179888"
 			}
+			"3.10.4"
+			{
+				"gid" "4141875752236908345"
+				"size" "32765498"
+				"download" "33179888"
+			}
+			"3.11.1"
+			{
+				"gid" "4141875752236908345"
+				"size" "32765498"
+				"download" "33179888"
+			}
+			"3.11.2"
+			{
+				"gid" "4141875752236908345"
+				"size" "32765498"
+				"download" "33179888"
+			}
+			"3.11.3"
+			{
+				"gid" "4141875752236908345"
+				"size" "32765498"
+				"download" "33179888"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "4141875752236908345"
+				"size" "32765498"
+				"download" "33179888"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "853C85174A12CD902AC072D125FC5174"
+				"size" "F5F6868FE692C5C511C2F0782DAE8628"
+				"download" "922CC265095656F70ECD313966BCA480"
+			}
 			"atlantis_rising"
 			{
 				"gid" "B93AB73CE0ED4C724DC2905E88A43474"
 				"size" "6A5C882298F8A5F741B52BB1A55DD217"
 				"download" "CF5B80EA86541804AC4765B0B66BD01A"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "F17489DD90588CA718E559E9ACB58665"
-				"size" "BD5716A99B13372816F0200D3F2B2486"
-				"download" "303A00BB5944A82E98F8D9D4E806AC9E"
-			}
 			"review_branch"
 			{
 				"gid" "0AF546063CBA8A62976C5983A51E2627"
 				"size" "3BE9CF5349D11FF823139CD370B954FF"
 				"download" "DEDFBC22C609CD2913E73F91253FB1ED"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "AA627DC84C6087D8AC34A7292B3EC22E"
+				"size" "6A3586A1E93BB23D520DC3E00BF458DB"
+				"download" "FB0D8EAF6AD7B664BC3F80EE094934B6"
 			}
 		}
 	}
@@ -6036,30 +6348,6 @@
 				"size" "53102371"
 				"download" "53657344"
 			}
-			"3.10.4"
-			{
-				"gid" "1250496627204676222"
-				"size" "53106341"
-				"download" "53661088"
-			}
-			"3.11.1"
-			{
-				"gid" "1250496627204676222"
-				"size" "53106341"
-				"download" "53661088"
-			}
-			"3.11.2"
-			{
-				"gid" "1250496627204676222"
-				"size" "53106341"
-				"download" "53661088"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "1250496627204676222"
-				"size" "53106341"
-				"download" "53661088"
-			}
 			"3.2.2"
 			{
 				"gid" "908099754239150817"
@@ -6108,26 +6396,62 @@
 				"size" "53106341"
 				"download" "53661088"
 			}
+			"3.10.4"
+			{
+				"gid" "1250496627204676222"
+				"size" "53106341"
+				"download" "53661088"
+			}
+			"3.11.1"
+			{
+				"gid" "1250496627204676222"
+				"size" "53106341"
+				"download" "53661088"
+			}
+			"3.11.2"
+			{
+				"gid" "1250496627204676222"
+				"size" "53106341"
+				"download" "53661088"
+			}
+			"3.11.3"
+			{
+				"gid" "1250496627204676222"
+				"size" "53106341"
+				"download" "53661088"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "1250496627204676222"
+				"size" "53106341"
+				"download" "53661088"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "659597D34AFE5514D49E915D582BAC2B"
+				"size" "38AF220E06974D88E671F324345131D0"
+				"download" "A63D54AB99D608CC425746B540A1BFBD"
+			}
 			"atlantis_rising"
 			{
 				"gid" "9828312707B4768360287FE1C014FA2D"
 				"size" "B2452E059C178739439C43786DF387EB"
 				"download" "4FDB3B4648073D03707B07C1590EE80B"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "7F7563A95565E7CB9941DF8E2F29BE39"
-				"size" "C520FEC7A440DD6FAAC6E88E719676E8"
-				"download" "9B435E45DFC28BD1E845506F59B0FEAC"
-			}
 			"review_branch"
 			{
 				"gid" "3FFF8D0BED47F8C570E2BDD740D110D3"
 				"size" "A2899D9761B6D4CE15649CDC6DD84FCD"
 				"download" "B207B43E9161392B386D7526353832C5"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "9415EF8627FBD01A31F7D5F2B01D6EC3"
+				"size" "B9F844EC50FD0BC8E4155D1D1A184024"
+				"download" "AA1AF7B0C5828EDB77AAA4417FE2A4FA"
 			}
 		}
 	}
@@ -6184,30 +6508,6 @@
 				"size" "14019651"
 				"download" "14199248"
 			}
-			"3.10.4"
-			{
-				"gid" "1374645851295769267"
-				"size" "14019655"
-				"download" "14199248"
-			}
-			"3.11.1"
-			{
-				"gid" "1374645851295769267"
-				"size" "14019655"
-				"download" "14199248"
-			}
-			"3.11.2"
-			{
-				"gid" "1374645851295769267"
-				"size" "14019655"
-				"download" "14199248"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "1374645851295769267"
-				"size" "14019655"
-				"download" "14199248"
-			}
 			"3.2.2"
 			{
 				"gid" "7758107984391089663"
@@ -6256,26 +6556,62 @@
 				"size" "14019655"
 				"download" "14199248"
 			}
+			"3.10.4"
+			{
+				"gid" "1374645851295769267"
+				"size" "14019655"
+				"download" "14199248"
+			}
+			"3.11.1"
+			{
+				"gid" "1374645851295769267"
+				"size" "14019655"
+				"download" "14199248"
+			}
+			"3.11.2"
+			{
+				"gid" "1374645851295769267"
+				"size" "14019655"
+				"download" "14199248"
+			}
+			"3.11.3"
+			{
+				"gid" "1374645851295769267"
+				"size" "14019655"
+				"download" "14199248"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "1374645851295769267"
+				"size" "14019655"
+				"download" "14199248"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "071EB3E411C23D01C9630D0D436080F5"
+				"size" "F7DA6EEB98106FA2F0C10C7F393EEC04"
+				"download" "9F25BB01E605B0826ABB49273030B965"
+			}
 			"atlantis_rising"
 			{
 				"gid" "958408E77F372ABCAF385E3A42CAEE45"
 				"size" "AA5433B8123F66FFBA6DBE9A46D69393"
 				"download" "5A6F0829EDB28BCFB5782ED9E1D6C6A0"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "86F286F4583F295A07B1E1C341F124F1"
-				"size" "78048BACD4429BACEA23FD48C0BD7F91"
-				"download" "505FFA84F17F789387D9F22C4A6673DD"
-			}
 			"review_branch"
 			{
 				"gid" "621562687027C308626ED9E33E5A4399"
 				"size" "D2B8370CBE90A2070A1500A4810CB01B"
 				"download" "F0C673C9527100191BE73FBEA2DCB7E7"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "2EACF6C3266E666F66715002F7661A7E"
+				"size" "3D60381D91599007FAFA3738B91D0CEF"
+				"download" "ED26973111251BD3D838631D877C3773"
 			}
 		}
 	}
@@ -6314,30 +6650,6 @@
 				"size" "49682751"
 				"download" "50201072"
 			}
-			"3.10.4"
-			{
-				"gid" "4380984167118905326"
-				"size" "49630126"
-				"download" "50147872"
-			}
-			"3.11.1"
-			{
-				"gid" "4380984167118905326"
-				"size" "49630126"
-				"download" "50147872"
-			}
-			"3.11.2"
-			{
-				"gid" "4380984167118905326"
-				"size" "49630126"
-				"download" "50147872"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "4380984167118905326"
-				"size" "49630126"
-				"download" "50147872"
-			}
 			"3.2.2"
 			{
 				"gid" "5470482360697804435"
@@ -6386,26 +6698,62 @@
 				"size" "49630126"
 				"download" "50147872"
 			}
+			"3.10.4"
+			{
+				"gid" "4380984167118905326"
+				"size" "49630126"
+				"download" "50147872"
+			}
+			"3.11.1"
+			{
+				"gid" "4380984167118905326"
+				"size" "49630126"
+				"download" "50147872"
+			}
+			"3.11.2"
+			{
+				"gid" "4380984167118905326"
+				"size" "49630126"
+				"download" "50147872"
+			}
+			"3.11.3"
+			{
+				"gid" "4380984167118905326"
+				"size" "49630126"
+				"download" "50147872"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "4380984167118905326"
+				"size" "49630126"
+				"download" "50147872"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "BA921CF302B2FB8CC0222C4BC71DB0CE"
+				"size" "C0DA067DBFD29F26B408439CEFA58998"
+				"download" "781BBACB669F565F5A57038947EB6DAF"
+			}
 			"atlantis_rising"
 			{
 				"gid" "46626B2A4C83758348BE2318B62933C6"
 				"size" "799C111E2FFFF64980A064D4297CDC82"
 				"download" "B57B9B89880F2852553C54DA7FD70C1D"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "73E59E45050324470CB99D824FA819B2"
-				"size" "F797B52EEAD2D8E5CF9FD36602046DE7"
-				"download" "5E4F215AFFE79D51961DCAEF968AABCF"
-			}
 			"review_branch"
 			{
 				"gid" "866EEA6FE13777FACE3EF82301E08B34"
 				"size" "8EE9E467956190F3DCDEA90DD9681B28"
 				"download" "FAB57871812102DBD9FA27D38D32D419"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "E785C4F00DB589EF4729E3BBE20A40F6"
+				"size" "D88ED4DE97881ABFEF10A6940597CFC2"
+				"download" "6F961324AD0D52286A96BDA1B185ACA0"
 			}
 		}
 	}
@@ -6438,30 +6786,6 @@
 				"size" "38704192"
 				"download" "39142128"
 			}
-			"3.10.4"
-			{
-				"gid" "8911888477824105255"
-				"size" "38704196"
-				"download" "39142128"
-			}
-			"3.11.1"
-			{
-				"gid" "8911888477824105255"
-				"size" "38704196"
-				"download" "39142128"
-			}
-			"3.11.2"
-			{
-				"gid" "8911888477824105255"
-				"size" "38704196"
-				"download" "39142128"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "8911888477824105255"
-				"size" "38704196"
-				"download" "39142128"
-			}
 			"3.2.2"
 			{
 				"gid" "3669080757597761992"
@@ -6510,26 +6834,62 @@
 				"size" "38704196"
 				"download" "39142128"
 			}
+			"3.10.4"
+			{
+				"gid" "8911888477824105255"
+				"size" "38704196"
+				"download" "39142128"
+			}
+			"3.11.1"
+			{
+				"gid" "8911888477824105255"
+				"size" "38704196"
+				"download" "39142128"
+			}
+			"3.11.2"
+			{
+				"gid" "8911888477824105255"
+				"size" "38704196"
+				"download" "39142128"
+			}
+			"3.11.3"
+			{
+				"gid" "8911888477824105255"
+				"size" "38704196"
+				"download" "39142128"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "8911888477824105255"
+				"size" "38704196"
+				"download" "39142128"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "B05E0EE436B0A627EB2A93CA02634211"
+				"size" "04865849AEA281E01FF1E37D8A519F06"
+				"download" "32AC0994EF62D6022E8EE8232288A4EF"
+			}
 			"atlantis_rising"
 			{
 				"gid" "98D24280BE189A4EF4095E3DD73B9EAF"
 				"size" "C6F8ACA2525B79A9FAF6259F271EA22D"
 				"download" "029FB86EBA5B9BB1A61EB80709E105FE"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "81F19BE94E04D2956A910D9CB8674097"
-				"size" "2D06C4F6BBC5B1765647A94D24F6CADA"
-				"download" "B2821122C9ECBCF59F49AD345CF17BB0"
-			}
 			"review_branch"
 			{
 				"gid" "BD7063B853E8FAC72851BFEB594F2D9B"
 				"size" "7EBA60B39958D5F9A442A6B21DDB647A"
 				"download" "DC78C43B7F45AA0E4394297FD7B3646E"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "0269611FD6C964E7E18762983E0A50AB"
+				"size" "92CC7D2E4F9DB51FA37FA3E3D8C751A7"
+				"download" "1DA3CDD0921C566DA89196B45011D8C5"
 			}
 		}
 	}
@@ -6550,30 +6910,6 @@
 				"size" "58165417"
 				"download" "58817360"
 			}
-			"3.10.4"
-			{
-				"gid" "2393804793743906359"
-				"size" "58165421"
-				"download" "58817376"
-			}
-			"3.11.1"
-			{
-				"gid" "2393804793743906359"
-				"size" "58165421"
-				"download" "58817376"
-			}
-			"3.11.2"
-			{
-				"gid" "2393804793743906359"
-				"size" "58165421"
-				"download" "58817376"
-			}
-			"3.11.3_open_beta"
-			{
-				"gid" "2393804793743906359"
-				"size" "58165421"
-				"download" "58817376"
-			}
 			"3.2.2"
 			{
 				"gid" "8198577433119078099"
@@ -6622,26 +6958,62 @@
 				"size" "58165421"
 				"download" "58817376"
 			}
+			"3.10.4"
+			{
+				"gid" "2393804793743906359"
+				"size" "58165421"
+				"download" "58817376"
+			}
+			"3.11.1"
+			{
+				"gid" "2393804793743906359"
+				"size" "58165421"
+				"download" "58817376"
+			}
+			"3.11.2"
+			{
+				"gid" "2393804793743906359"
+				"size" "58165421"
+				"download" "58817376"
+			}
+			"3.11.3"
+			{
+				"gid" "2393804793743906359"
+				"size" "58165421"
+				"download" "58817376"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "2393804793743906359"
+				"size" "58165421"
+				"download" "58817376"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "C0B6E1B3057313C02F3F0FEF177A14C9"
+				"size" "7F4ADD7C4B323BFB4FDD2D76E83BAB44"
+				"download" "33FF52B1843A08E466851B66AEBBCA87"
+			}
 			"atlantis_rising"
 			{
 				"gid" "001B384126F2C9760C72D485EE160391"
 				"size" "B50BB61F6507D202C49D207A35F3A5C5"
 				"download" "695AA83244A3CDF47E47884B5712B0D3"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "8FFAC95D214129AB9824D241AF5E96D3"
-				"size" "1B52304C061B978FE084C19A79C1B82C"
-				"download" "EF840E28E178D85D1EA14E6E7CC7425E"
-			}
 			"review_branch"
 			{
 				"gid" "C15E216D6C93AE35FE071BF72A3B549F"
 				"size" "EAC7D255688B66A510380B8695B8C76C"
 				"download" "36B1E8D4740E7679F3D4F2B7406FCC35"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "F55A564C0EED30251818292368457372"
+				"size" "A7AE90B9B0923D54E58D5837638D022F"
+				"download" "3425F302E127E28B7DC44B8096208957"
 			}
 		}
 	}
@@ -6651,30 +7023,6 @@
 		"manifests"
 		{
 			"public"
-			{
-				"gid" "8608764450636340277"
-				"size" "101497561"
-				"download" "102807920"
-			}
-			"3.10.4"
-			{
-				"gid" "8608764450636340277"
-				"size" "101497561"
-				"download" "102807920"
-			}
-			"3.11.1"
-			{
-				"gid" "8608764450636340277"
-				"size" "101497561"
-				"download" "102807920"
-			}
-			"3.11.2"
-			{
-				"gid" "8608764450636340277"
-				"size" "101497561"
-				"download" "102807920"
-			}
-			"3.11.3_open_beta"
 			{
 				"gid" "8608764450636340277"
 				"size" "101497561"
@@ -6716,26 +7064,62 @@
 				"size" "101497561"
 				"download" "102807920"
 			}
+			"3.10.4"
+			{
+				"gid" "8608764450636340277"
+				"size" "101497561"
+				"download" "102807920"
+			}
+			"3.11.1"
+			{
+				"gid" "8608764450636340277"
+				"size" "101497561"
+				"download" "102807920"
+			}
+			"3.11.2"
+			{
+				"gid" "8608764450636340277"
+				"size" "101497561"
+				"download" "102807920"
+			}
+			"3.11.3"
+			{
+				"gid" "8608764450636340277"
+				"size" "101497561"
+				"download" "102807920"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "8608764450636340277"
+				"size" "101497561"
+				"download" "102807920"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "98F2F295EBCE352F36786C28367D516F"
+				"size" "863BCF73CEA4EC323666098254710FC6"
+				"download" "7BEC1BF4B45B0B67D2AA35E537C36AF1"
+			}
 			"atlantis_rising"
 			{
 				"gid" "3B5B0F4C71EEB3E16F121FD4310BB23D"
 				"size" "CDEC5A07C0F2A8EE8D5A950AA68A5337"
 				"download" "EE17C2348518D711642CF7E4A7409D24"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "BAF69C0BF64432C4C39141F833DC1D81"
-				"size" "7018C91D010FB9359C45F70EEAA809F2"
-				"download" "51488658DCCEBE48F4F01C65FF7384D8"
-			}
 			"review_branch"
 			{
 				"gid" "A5ADF717D25C97020008C69700A9FA54"
 				"size" "6169F404E9E3B90F75A98F89ADBAF129"
 				"download" "FB533623F10393C3A9DA337225925DF0"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "9AE21C1AD875F5CA73FE9518C5D14EC5"
+				"size" "DF37C5F8C5A3FEBE6402D17D1F12F100"
+				"download" "12FB53EC176937C7305CCC396EC73F3E"
 			}
 		}
 	}
@@ -6745,30 +7129,6 @@
 		"manifests"
 		{
 			"public"
-			{
-				"gid" "52292814380006034"
-				"size" "41731188"
-				"download" "42147008"
-			}
-			"3.10.4"
-			{
-				"gid" "52292814380006034"
-				"size" "41731188"
-				"download" "42147008"
-			}
-			"3.11.1"
-			{
-				"gid" "52292814380006034"
-				"size" "41731188"
-				"download" "42147008"
-			}
-			"3.11.2"
-			{
-				"gid" "52292814380006034"
-				"size" "41731188"
-				"download" "42147008"
-			}
-			"3.11.3_open_beta"
 			{
 				"gid" "52292814380006034"
 				"size" "41731188"
@@ -6804,26 +7164,62 @@
 				"size" "41731188"
 				"download" "42147008"
 			}
+			"3.10.4"
+			{
+				"gid" "52292814380006034"
+				"size" "41731188"
+				"download" "42147008"
+			}
+			"3.11.1"
+			{
+				"gid" "52292814380006034"
+				"size" "41731188"
+				"download" "42147008"
+			}
+			"3.11.2"
+			{
+				"gid" "52292814380006034"
+				"size" "41731188"
+				"download" "42147008"
+			}
+			"3.11.3"
+			{
+				"gid" "52292814380006034"
+				"size" "41731188"
+				"download" "42147008"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "52292814380006034"
+				"size" "41731188"
+				"download" "42147008"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "9358DF3F14204BBC7C908906F206DC70"
+				"size" "5D752DC43AF8EC276D634FE69C6701E1"
+				"download" "F9FEF68753B01CFFE751213769FB5ADB"
+			}
 			"atlantis_rising"
 			{
 				"gid" "0897B2754C8CB72FC972F56148F594AB"
 				"size" "5D1CB3E567CC27FB75FAAB744A22FAC1"
 				"download" "AF53DFA4245DAF7B72F85373CF042F62"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "00C47773209D2359A575277F766221BF"
-				"size" "74AD844EED790EFDFE10DC2E6C5CDED7"
-				"download" "AB69B501A01540E86702E3501FE9950C"
-			}
 			"review_branch"
 			{
 				"gid" "B0E5B3455499746FCF6E3314A486F736"
 				"size" "27068FA2BC5720B7255884E0AE7E8A25"
 				"download" "15C97BDDD737068999105AB13DB26826"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "5DE27F184588D711552DFE085EAC4BA7"
+				"size" "5E3D9BA22C5284B933A9DB6CC5A72B6F"
+				"download" "2FA6A822201FF56F4A54FFEBDD5D5F19"
 			}
 		}
 	}
@@ -6833,30 +7229,6 @@
 		"manifests"
 		{
 			"public"
-			{
-				"gid" "3503117745494668115"
-				"size" "92173"
-				"download" "93008"
-			}
-			"3.10.4"
-			{
-				"gid" "3503117745494668115"
-				"size" "92173"
-				"download" "93008"
-			}
-			"3.11.1"
-			{
-				"gid" "3503117745494668115"
-				"size" "92173"
-				"download" "93008"
-			}
-			"3.11.2"
-			{
-				"gid" "3503117745494668115"
-				"size" "92173"
-				"download" "93008"
-			}
-			"3.11.3_open_beta"
 			{
 				"gid" "3503117745494668115"
 				"size" "92173"
@@ -6880,26 +7252,62 @@
 				"size" "92173"
 				"download" "93008"
 			}
+			"3.10.4"
+			{
+				"gid" "3503117745494668115"
+				"size" "92173"
+				"download" "93008"
+			}
+			"3.11.1"
+			{
+				"gid" "3503117745494668115"
+				"size" "92173"
+				"download" "93008"
+			}
+			"3.11.2"
+			{
+				"gid" "3503117745494668115"
+				"size" "92173"
+				"download" "93008"
+			}
+			"3.11.3"
+			{
+				"gid" "3503117745494668115"
+				"size" "92173"
+				"download" "93008"
+			}
+			"3.11.3_open_beta"
+			{
+				"gid" "3503117745494668115"
+				"size" "92173"
+				"download" "93008"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "B92E816C0BEF8ED4EA1E9744AE882915"
+				"size" "C8282AB308EBF1844AD97CFFAAE8B1A8"
+				"download" "5AAB30AA015CF884F4B7A691725FF686"
+			}
 			"atlantis_rising"
 			{
 				"gid" "3D288C788A440D209C7CD21DBF8C8A83"
 				"size" "128A1A0FF1482907860F66D7FF0B565B"
 				"download" "6D3A234E94C41C811797C529BB99E485"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "A00CED60ED960A27D714DBBC70710CE4"
-				"size" "951F5D4CE9FDE3FE644911607A215481"
-				"download" "9DB006C86733E5E318F2B06481F9F2F5"
-			}
 			"review_branch"
 			{
 				"gid" "1B6B666D1CEE5474C5198451AAB94DEE"
 				"size" "45C6BD1C1B5D24AE886A5973184A4ABA"
 				"download" "A28959BFC200620D161B5A19CEE77511"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "30B000EAA75F70FCC12E9CE24D47B635"
+				"size" "96ADA7F5A455F4EF574AD07462420361"
+				"download" "CB13FFEC817AD9418BE925D34E7CD005"
 			}
 		}
 	}
@@ -6909,6 +7317,18 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "8343102774299497261"
+				"size" "91988"
+				"download" "92688"
+			}
+			"3.8.4"
+			{
+				"gid" "2401591672438646749"
+				"size" "91966"
+				"download" "92624"
+			}
+			"3.9.3"
 			{
 				"gid" "8343102774299497261"
 				"size" "91988"
@@ -6932,19 +7352,13 @@
 				"size" "91988"
 				"download" "92688"
 			}
-			"3.11.3_open_beta"
+			"3.11.3"
 			{
 				"gid" "8343102774299497261"
 				"size" "91988"
 				"download" "92688"
 			}
-			"3.8.4"
-			{
-				"gid" "2401591672438646749"
-				"size" "91966"
-				"download" "92624"
-			}
-			"3.9.3"
+			"3.11.3_open_beta"
 			{
 				"gid" "8343102774299497261"
 				"size" "91988"
@@ -6953,23 +7367,29 @@
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "EDA36D9D3D91622EAC59E28A02ECD128"
+				"size" "D07F3685CB6EA3A94AA97C9DFDEED560"
+				"download" "85074A39CA5D38035B1FF167E667C64B"
+			}
 			"atlantis_rising"
 			{
 				"gid" "B5B344B66AC06BAD73060C8FACCEA611"
 				"size" "9A7265DA8E012423736FDF2D8AA4A443"
 				"download" "FC4797D8327990959B1507E2CB288F6A"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "3B324C3C982FFDCA733204C196EE43CC"
-				"size" "DEA01B37CCA03562C59DAE7C6E7BD1F7"
-				"download" "002945C472396914B8C72F590C108333"
-			}
 			"review_branch"
 			{
 				"gid" "730E11B95138209A30AE94D83EA28F76"
 				"size" "1CE5FF46551C3B96F689289E30498E07"
 				"download" "D50F8F1ACFC6AE219755215E7D339AE1"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "809DAEAD5218A5FE14F350A6877AFB21"
+				"size" "2631173159E1ABCB46AECC4406B5BE73"
+				"download" "5E2D145DD757935E3FA37C9C4C1E2414"
 			}
 		}
 	}
@@ -7002,6 +7422,12 @@
 				"size" "47152388"
 				"download" "47667776"
 			}
+			"3.11.3"
+			{
+				"gid" "6807342264439767019"
+				"size" "47152388"
+				"download" "47667776"
+			}
 			"3.11.3_open_beta"
 			{
 				"gid" "6807342264439767019"
@@ -7011,23 +7437,29 @@
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "BD545C4BE75D0D2B3BB0FFCCA02F5DF1"
+				"size" "B7515312AAB43DE1907435D4A8433F26"
+				"download" "96CC21C4099A8DE3C190696BEDF32F2A"
+			}
 			"atlantis_rising"
 			{
 				"gid" "2F0D39129C6409130A8606FA0F78EBCF"
 				"size" "04C62A3362E368989B84CAB9C09EBA15"
 				"download" "06B70E9A6394AD094A5AC1C5A240D764"
 			}
-			"atlantis_rising_2"
-			{
-				"gid" "87943E6C331FEAC4BCFA11B8BF331E12"
-				"size" "E1B408D212527D81BCF95528BE1986EC"
-				"download" "0A0A0E9C00443A6FE38A641E47F643D7"
-			}
 			"review_branch"
 			{
 				"gid" "210805EA0042308F6AB6DAE3F98F9D1E"
 				"size" "CE12089E8919A0767BEA0437F9249C40"
 				"download" "BAEE048363895B433983AE37F3172A20"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "D8071EFB6193BDF87DE4C3789A3D6594"
+				"size" "D8E8451D479878E992E08FA658619389"
+				"download" "86E5D0F44C06A678C56ECA9DE457192F"
 			}
 		}
 	}
@@ -7042,14 +7474,66 @@
 				"size" "77950"
 				"download" "78608"
 			}
+			"3.11.3"
+			{
+				"gid" "3817181787897598749"
+				"size" "77950"
+				"download" "78608"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "60018B2B17DF0FF0FF662E963F2FE64B"
+				"size" "55E6E9EDF60C5D8E08AAA7CA7A84FCB3"
+				"download" "DF24B26C9A836766F21E2F74C4F0EE81"
+			}
 			"atlantis_rising"
 			{
 				"gid" "AA31BB05AA4638F5F891D14CD1F91D4E"
 				"size" "B2FD4DF2DE11026067A45C79D0312C59"
 				"download" "15811C2F1CF6E556686A37757207BA33"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "7262184F5ED7222D215380B1FF59BB01"
+				"size" "E128D95A0EB9A42ADEB057DF8CA8954F"
+				"download" "9EEEE9C341393829926DC8AE04921642"
+			}
+		}
+	}
+	"2840100"
+	{
+		"dlcappid" "2840100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4145532989747615677"
+				"size" "120815974"
+				"download" "122270624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"the_machine_age_influencer2"
+			{
+				"gid" "D738847F6B050F0B97269C6A46256C53"
+				"size" "EB949ABF910A7B51C24E5878B1E8BEA5"
+				"download" "503F3B930B93C1C2DEF05704A403718E"
+			}
+			"atlantis_rising"
+			{
+				"gid" "48A6FF9DF547ABBCE166C64B10A53647"
+				"size" "0433EB045E987A6D8AC43F9EB4B4DFFB"
+				"download" "B27FD368B9DCBE759AC215C6F7B27924"
+			}
+			"the_machine_age_influencer"
+			{
+				"gid" "963BF609C9270D7574784476B300AB37"
+				"size" "D2BE06E6D400886A436B7498704B347E"
+				"download" "12B01B3A12130D6287AAFC900A3F7FE3"
 			}
 		}
 	}
@@ -7057,14 +7541,20 @@
 	{
 		"public"
 		{
-			"buildid" "13985673"
-			"timeupdated" "1712822219"
+			"buildid" "14218409"
+			"timeupdated" "1715097439"
 		}
 		"1.0.3"
 		{
 			"buildid" "1133367"
 			"pwdrequired" "1"
 			"timeupdated" "1463558691"
+		}
+		"the_machine_age_influencer2"
+		{
+			"buildid" "14218409"
+			"pwdrequired" "1"
+			"timeupdated" "1714645774"
 		}
 		"1.1.0"
 		{
@@ -7186,30 +7676,6 @@
 			"description" "Lem Version rollback"
 			"timeupdated" "1637596964"
 		}
-		"3.10.4"
-		{
-			"buildid" "12931226"
-			"description" "Pyxis Version rollback"
-			"timeupdated" "1708952633"
-		}
-		"3.11.1"
-		{
-			"buildid" "13523034"
-			"description" "Eridanus Version Rollback"
-			"timeupdated" "1710231625"
-		}
-		"3.11.2"
-		{
-			"buildid" "13669331"
-			"description" "Eridanus Version Rollback"
-			"timeupdated" "1712820550"
-		}
-		"3.11.3_open_beta"
-		{
-			"buildid" "13881298"
-			"description" "Eridanus Open Beta"
-			"timeupdated" "1711634674"
-		}
 		"3.2.2"
 		{
 			"buildid" "7783125"
@@ -7258,23 +7724,53 @@
 			"description" "Caelum Version rollback"
 			"timeupdated" "1699976465"
 		}
-		"atlantis_rising"
+		"3.10.4"
+		{
+			"buildid" "12931226"
+			"description" "Pyxis Version rollback"
+			"timeupdated" "1708952633"
+		}
+		"3.11.1"
+		{
+			"buildid" "13523034"
+			"description" "Eridanus Version Rollback"
+			"timeupdated" "1710231625"
+		}
+		"3.11.2"
+		{
+			"buildid" "13669331"
+			"description" "Eridanus Version Rollback"
+			"timeupdated" "1712820550"
+		}
+		"3.11.3"
 		{
 			"buildid" "13985673"
-			"pwdrequired" "1"
-			"timeupdated" "1712579351"
+			"description" " Eridanus Version Rollback"
+			"timeupdated" "1715080476"
 		}
-		"atlantis_rising_2"
+		"3.11.3_open_beta"
 		{
-			"buildid" "13524700"
+			"buildid" "13881298"
+			"description" "Eridanus Open Beta"
+			"timeupdated" "1711634674"
+		}
+		"atlantis_rising"
+		{
+			"buildid" "14218409"
 			"pwdrequired" "1"
-			"timeupdated" "1708555099"
+			"timeupdated" "1714464959"
 		}
 		"review_branch"
 		{
 			"buildid" "13523034"
 			"pwdrequired" "1"
 			"timeupdated" "1708603366"
+		}
+		"the_machine_age_influencer"
+		{
+			"buildid" "14158187"
+			"pwdrequired" "1"
+			"timeupdated" "1713954777"
 		}
 	}
 }
@@ -7305,6 +7801,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23113677"
-"_sha" "16441d58ee46a9b763361adf128bc00fda459174"
-"_size" "150677"
+"_change_number" "23446443"
+"_sha" "c3c3a91f034261e1d5ffeab5ab28e848232381b6"
+"_size" "163455"
