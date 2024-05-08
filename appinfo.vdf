@@ -239,7 +239,7 @@
 		"16" "7208"
 		"17" "4158"
 		"18" "493"
-		"19" "10397"
+		"19" "4136"
 	}
 	"review_score" "5"
 	"review_percentage" "67"
@@ -426,9 +426,9 @@
 			}
 			"zltwsn6qtljn"
 			{
-				"gid" "90CDC03652B4B35F79F4C396552A551D"
-				"size" "A0877A802C4EECF49C5115C74CB06090"
-				"download" "09D96AB88BCAF41CDFCCFD89F48D874B"
+				"gid" "6BC91F990E9DB2A690CDEF603480C694"
+				"size" "08AD70AE428C2DC3A66896A9C55B9AE1"
+				"download" "1F882E8D98A194EF48C0286E192E4316"
 			}
 		}
 	}
@@ -1596,9 +1596,9 @@
 		}
 		"zltwsn6qtljn"
 		{
-			"buildid" "13183617"
+			"buildid" "13920834"
 			"pwdrequired" "1"
-			"timeupdated" "1705399617"
+			"timeupdated" "1712048809"
 		}
 	}
 	"appmanagesdlc" "1"
@@ -1618,6 +1618,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22552759"
-"_sha" "2f81ec7c0b804578bededfe5bd65c3e707b4f963"
-"_size" "38621"
+"_change_number" "23393739"
+"_sha" "2d80e313629ba20bb394f055e8ef484efe9a72aa"
+"_size" "38620"
