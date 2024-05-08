@@ -211,14 +211,14 @@
 		}
 		"public"
 		{
-			"buildid" "14280871"
-			"timeupdated" "1715184418"
+			"buildid" "14305722"
+			"timeupdated" "1715187404"
 		}
 		"pre-release"
 		{
-			"buildid" "14280871"
+			"buildid" "14305722"
 			"description" "正式版提前测试分支"
-			"timeupdated" "1715017106"
+			"timeupdated" "1715187352"
 		}
 		"staging"
 		{
@@ -276,9 +276,9 @@
 		{
 			"public"
 			{
-				"gid" "7809702714398257670"
-				"size" "4536107324"
-				"download" "1375928528"
+				"gid" "5927379912065958194"
+				"size" "4536110484"
+				"download" "1375925872"
 			}
 			"beforedlc"
 			{
@@ -288,9 +288,9 @@
 			}
 			"pre-release"
 			{
-				"gid" "7809702714398257670"
-				"size" "4536107324"
-				"download" "1375928528"
+				"gid" "5927379912065958194"
+				"size" "4536110484"
+				"download" "1375925872"
 			}
 		}
 		"encryptedmanifests"
@@ -360,6 +360,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23461527"
-"_sha" "0600ad23f2090717f4f2296ba5fae675b7caef3b"
+"_change_number" "23462119"
+"_sha" "6c5598db5915539a8e4c677df7e0542f869682a5"
 "_size" "6594"
