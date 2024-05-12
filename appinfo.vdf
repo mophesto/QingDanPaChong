@@ -6,6 +6,9 @@
 	"oslist" "windows,linux"
 	"releasestate" "released"
 	"osarch" ""
+	"icon" "40e930f14e623018eff62e7bb38f44a7dd7c302d"
+	"clienticon" "1415b1b6fac6fda330c576e7de3a5e8bcc852f2a"
+	"clienttga" "294f739d2bf9ef4734cb1a11bec8b9dc23c05c4d"
 	"associations"
 	{
 	}
@@ -14,7 +17,7 @@
 "extended"
 {
 	"no_revenue_accumulation" "1"
-	"gamedir" "bms"
+	"gamedir" "blackmesa"
 	"serverbrowsername" "Black Mesa"
 }
 "config"
@@ -39,13 +42,17 @@
 {
 	"346682"
 	{
+		"config"
+		{
+			"oslist" "windows"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "6651014900891771239"
-				"size" "112643990"
-				"download" "37065392"
+				"gid" "9159837158737103288"
+				"size" "45204520"
+				"download" "14485776"
 			}
 			"black-mesa-1-0"
 			{
@@ -53,32 +60,42 @@
 				"size" "112573334"
 				"download" "37045904"
 			}
-			"public-beta"
+			"black-mesa-de"
 			{
 				"gid" "6651014900891771239"
 				"size" "112643990"
 				"download" "37065392"
+			}
+			"public-beta"
+			{
+				"gid" "9159837158737103288"
+				"size" "45204520"
+				"download" "14485776"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer"
 			{
-				"gid" "FEB2CDA91F359CDA6944C2703BAD6926"
-				"size" "8E8FAC031C4AEA979B51B0A9FB7310F6"
-				"download" "6E510E9473B5411BB67895622D2C6AF4"
+				"gid" "C68FAAE8771550EC6FB02EF283C87B48"
+				"size" "ECDCCA0AB21E1F9163D4D3044D89AF1A"
+				"download" "7A237AD79E41386883BE888C31906DC2"
 			}
 		}
 	}
 	"346683"
 	{
+		"config"
+		{
+			"oslist" "linux"
+		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3281609962914482076"
-				"size" "65325359"
-				"download" "16957280"
+				"gid" "4821938341305737070"
+				"size" "85439887"
+				"download" "23021712"
 			}
 			"black-mesa-1-0"
 			{
@@ -86,20 +103,26 @@
 				"size" "65293658"
 				"download" "16944720"
 			}
-			"public-beta"
+			"black-mesa-de"
 			{
 				"gid" "3281609962914482076"
 				"size" "65325359"
 				"download" "16957280"
+			}
+			"public-beta"
+			{
+				"gid" "4821938341305737070"
+				"size" "85439887"
+				"download" "23021712"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer"
 			{
-				"gid" "19B59530D03014AE5A902151D580FFF8"
-				"size" "B95E47BEC8B2D817788C987BB40E0400"
-				"download" "7151280E7AB1AF63CD094E5C49794827"
+				"gid" "97B01F69C6149EB18212598AB62BBB5F"
+				"size" "F0429EA88EF06CAD73C44EA2925ACE7A"
+				"download" "A3B8057CB3DA7419D630F7C0A559DF81"
 			}
 		}
 	}
@@ -109,9 +132,9 @@
 		{
 			"public"
 			{
-				"gid" "5265910307883701012"
-				"size" "29492190564"
-				"download" "13095509168"
+				"gid" "6332553555188295499"
+				"size" "29572220272"
+				"download" "12806079856"
 			}
 			"black-mesa-1-0"
 			{
@@ -119,20 +142,26 @@
 				"size" "27900582069"
 				"download" "12458952352"
 			}
-			"public-beta"
+			"black-mesa-de"
 			{
 				"gid" "5265910307883701012"
 				"size" "29492190564"
 				"download" "13095509168"
+			}
+			"public-beta"
+			{
+				"gid" "6332553555188295499"
+				"size" "29572220272"
+				"download" "12806079856"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer"
 			{
-				"gid" "AD5BAE05C213D759A3A95AD47EC01D52"
-				"size" "6AB1EEB166BBEA094A86A3D281DD7BD6"
-				"download" "B894105C94213353898DF8805BD5D8BE"
+				"gid" "F67B8071DD4817E847BB8EB37DE98BBD"
+				"size" "7D0C0FED2B3E6ABB881E22C20C312AA5"
+				"download" "D84ABAFEA07A32DF327221DB0F589F90"
 			}
 		}
 	}
@@ -157,8 +186,8 @@
 	{
 		"public"
 		{
-			"buildid" "7336718"
-			"timeupdated" "1631704302"
+			"buildid" "14122831"
+			"timeupdated" "1713898997"
 		}
 		"black-mesa-1-0"
 		{
@@ -166,20 +195,26 @@
 			"description" "The March release of Black Mesa 1.0"
 			"timeupdated" "1603678780"
 		}
-		"developer"
+		"black-mesa-de"
 		{
-			"buildid" "13410369"
-			"pwdrequired" "1"
-			"timeupdated" "1707444988"
+			"buildid" "7336718"
+			"description" "Definitive Edition"
+			"timeupdated" "1713200359"
 		}
 		"public-beta"
 		{
-			"buildid" "7336718"
-			"timeupdated" "1631297337"
+			"buildid" "14122831"
+			"timeupdated" "1713666942"
+		}
+		"developer"
+		{
+			"buildid" "14255671"
+			"pwdrequired" "1"
+			"timeupdated" "1714741160"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22270902"
-"_sha" "d9b0f804f1fbe360ae0cf7e7b510a13ca86f1da5"
-"_size" "3095"
+"_change_number" "23402662"
+"_sha" "44aa679c93e891ee76d4feb19884e1f6955dba10"
+"_size" "3848"
