@@ -212,12 +212,6 @@
 				"size" "FE6AA2308A5D06E18324DD6345EF39A7"
 				"download" "C540D83838147479AA4A7B85A959B231"
 			}
-			"squad_testing"
-			{
-				"gid" "8788180A06670ED2203054CC59A52A84"
-				"size" "4EC4B73D4D36859385176B7D3E8912A9"
-				"download" "FAFD61489AA20DE6EC94E61E72FFC056"
-			}
 			"squad_tournament"
 			{
 				"gid" "7C1CFAEF49AB11F839A726D50BF19B60"
@@ -226,15 +220,21 @@
 			}
 			"squad_main"
 			{
-				"gid" "50202051F1CD6173BC358181AF809D06"
-				"size" "DC35CCE7E2E02995921031954E6EC0E1"
-				"download" "493802DDF5D5A4C049D5AB5CB0A6DEEA"
+				"gid" "48C3D204CDFE59E627A251A97FEF5304"
+				"size" "F95533A46121B9BE756529C397547E3E"
+				"download" "E6628D87EE48777D985C868BC9884807"
 			}
 			"squad_release"
 			{
-				"gid" "62831D8A34FE22A0581A30AC49342275"
-				"size" "EEFA66540E66085E9791C8C373EFB42F"
-				"download" "606809FF7F5E186B777A28DF5EF80801"
+				"gid" "E02C64A414650AEA84C5C0D97C611C05"
+				"size" "3D354FF948BFF8DEE6177E90C6CD0235"
+				"download" "838D8B7B5384776845D9ABD69F616484"
+			}
+			"squad_testing"
+			{
+				"gid" "0A8558CF2C6052642C62E21A98311192"
+				"size" "38F9F2DF84B2C575DCBB3FBC969B8F0F"
+				"download" "5BC9C02D660C7F046915E5AC6949355F"
 			}
 		}
 	}
@@ -317,12 +317,6 @@
 				"size" "71035ADEA2B26A0BABB289C0C8F143F7"
 				"download" "370592E4CF3CA387E36B0187C3D8E4D5"
 			}
-			"squad_testing"
-			{
-				"gid" "80C10D6827ABA44A1BD7C500BACF8235"
-				"size" "F76CA3C97390B453D462D117B96FC969"
-				"download" "F1417DB066B26110C9F918845417535A"
-			}
 			"squad_tournament"
 			{
 				"gid" "A55291FC7CF68BF8947C1B8E448B84AF"
@@ -331,15 +325,21 @@
 			}
 			"squad_main"
 			{
-				"gid" "E7714DC7EA01EDA9586DE7339D22CE8B"
-				"size" "C6A089A18EDC3119C97A7A8A8C5F17E5"
-				"download" "C01FC334FB6D6E1E23351BCFECA72D69"
+				"gid" "4EA62B5324F43243BD24FF9F0EA24D60"
+				"size" "502DCAEA991C82393E4F78CC580A5D7D"
+				"download" "68BC6FE9E74BBE5C88370FEF5A79EEFE"
 			}
 			"squad_release"
 			{
-				"gid" "8A595F2037AB26B91772B8EEEF198E97"
-				"size" "2388CBA68323416483E2C563EEBCB608"
-				"download" "D36850FEF71AEADB26BF706091640027"
+				"gid" "4000D269B72133380FA2E45785C60978"
+				"size" "A71D6948D6E14FADB2003DA912090D04"
+				"download" "784589B119E60918A5DBD74A64A94C90"
+			}
+			"squad_testing"
+			{
+				"gid" "E7EE57A610A3DBB35D7C4F664892A277"
+				"size" "58BF2BE4252B6C6E4CC094FB529FDE91"
+				"download" "9377B9E757F9D6683A6A08EC9AEDD5BC"
 			}
 		}
 	}
@@ -387,12 +387,6 @@
 				"size" "FD87B6FE7BA3619F1AB8EFE8845D38BB"
 				"download" "48516B0D4E4253238FECA475565388E2"
 			}
-			"squad_testing"
-			{
-				"gid" "0379D217A1216252162AED3597E1A5BA"
-				"size" "A7E22080F827422A33FE654244F677A5"
-				"download" "4C1D4E2B8C218F85E6C4E04289388C63"
-			}
 			"squad_troubleshooting"
 			{
 				"gid" "97BEC1AEDDD2DAE76D681F7FBC1473FB"
@@ -416,6 +410,12 @@
 				"gid" "6EDA25A524BEF748B8997D93D19343C4"
 				"size" "0363CFD8664B5D41F12AB387E6174D64"
 				"download" "ACA80BC758CF9AFD8EFD4AD029A3516A"
+			}
+			"squad_testing"
+			{
+				"gid" "0379D217A1216252162AED3597E1A5BA"
+				"size" "A7E22080F827422A33FE654244F677A5"
+				"download" "4C1D4E2B8C218F85E6C4E04289388C63"
 			}
 		}
 		"depotfromapp" "393380"
@@ -487,12 +487,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1706829362"
 		}
-		"squad_testing"
-		{
-			"buildid" "13741257"
-			"pwdrequired" "1"
-			"timeupdated" "1710431880"
-		}
 		"squad_tournament"
 		{
 			"buildid" "12651833"
@@ -501,15 +495,21 @@
 		}
 		"squad_main"
 		{
-			"buildid" "14232060"
+			"buildid" "14413499"
 			"pwdrequired" "1"
-			"timeupdated" "1714595429"
+			"timeupdated" "1716034574"
 		}
 		"squad_release"
 		{
-			"buildid" "14248127"
+			"buildid" "14394387"
 			"pwdrequired" "1"
-			"timeupdated" "1714680549"
+			"timeupdated" "1715891074"
+		}
+		"squad_testing"
+		{
+			"buildid" "14379111"
+			"pwdrequired" "1"
+			"timeupdated" "1715794614"
 		}
 		"squad_previous"
 		{
@@ -538,6 +538,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23432837"
-"_sha" "5a43a07fd72bc77d138320b6abcf9ff8b291104e"
+"_change_number" "23594803"
+"_sha" "4f241a3d00cd4f1c7c4fd0f5e895e44172026ecb"
 "_size" "11570"
