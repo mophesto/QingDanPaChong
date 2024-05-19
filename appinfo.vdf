@@ -39,8 +39,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -158,6 +156,7 @@
 		"category_1" "1"
 		"category_9" "1"
 		"category_55" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -234,8 +233,8 @@
 		"4" "1685"
 		"5" "4434"
 		"6" "1697"
-		"7" "19"
-		"8" "4182"
+		"7" "4182"
+		"8" "19"
 		"9" "122"
 		"10" "4026"
 		"11" "4018"
@@ -665,6 +664,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21335691"
-"_sha" "ceca4c2a22dab58cecbc33b2b72e5844cdda6a29"
-"_size" "13704"
+"_change_number" "23591175"
+"_sha" "41cd3c75b57d7255e828e0432473284af72632dc"
+"_size" "13663"
