@@ -93,7 +93,7 @@
 			"height_pct" "41.329916356632076"
 		}
 	}
-	"store_asset_mtime" "1704789848"
+	"store_asset_mtime" "1716209689"
 	"associations"
 	{
 		"0"
@@ -150,6 +150,11 @@
 			"subtitles" "true"
 		}
 		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -420,6 +425,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23615432"
-"_sha" "d3facb8d303094975843aa10b23254bdb065fd46"
-"_size" "8248"
+"_change_number" "23615560"
+"_sha" "d7ca2f21fab9ea8cf812ca3280dfa60af8b158f8"
+"_size" "8319"
