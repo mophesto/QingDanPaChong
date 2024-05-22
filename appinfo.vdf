@@ -1,0 +1,229 @@
+"appid" "1836200"
+"common"
+{
+	"name" "Fallout 76 Public Test Server"
+	"type" "Beta"
+	"parent" "1151340"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "371ddde278809ff35f9ea406c921fc66d0510f47"
+	"clienticon" "e70e202c276d3e49163d30f320c778ac8648ec79"
+	"icon" "e153521098b536cc1ca5a79e03031533c44a6b05"
+	"logo" "6fadf075d478c811dff8de8900c662e84704a01f"
+	"logo_small" "6fadf075d478c811dff8de8900c662e84704a01f_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1663286400"
+		"tested_build_id" "8750170"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "58.953488372093034"
+			"height_pct" "77.35692234623605"
+		}
+	}
+	"store_asset_mtime" "1641218655"
+	"associations"
+	{
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"steam_release_date" "1643658448"
+	"community_hub_visible" "1"
+	"gameid" "1836200"
+	"exfgls" "6"
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"betaforappid" "1151340"
+}
+"config"
+{
+	"installdir" "Fallout 76 Playtest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fallout76.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1836201"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3051488908961350187"
+				"size" "108258171"
+				"download" "54409728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qavalidation"
+			{
+				"gid" "02D02CF30DA461541049DFBABDA0E8F9"
+				"size" "31A90871281F99F346993B8143123598"
+				"download" "666F6735079EA42D80F2F5B7F6E89499"
+			}
+		}
+	}
+	"1836202"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1543868154123404313"
+				"size" "94085509105"
+				"download" "86805324192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qavalidation"
+			{
+				"gid" "340BC247BF6CD08194F48B5F89E841D2"
+				"size" "6D9EF30AEA2CBD7C6C346C76F54793D7"
+				"download" "621F0F65660E13884BE6A3BF5DE6CB70"
+			}
+		}
+	}
+	"1836203"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5829783214666946787"
+				"size" "3572157978"
+				"download" "3029040144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qavalidation"
+			{
+				"gid" "F97A06299C5C5A463461E5858780F19B"
+				"size" "27FB61B3B0874870A70A986491672885"
+				"download" "F0BEFD135E07924CE837A116A152382D"
+			}
+		}
+	}
+	"1836204"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "685950529408728112"
+				"size" "13533071"
+				"download" "2800432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qavalidation"
+			{
+				"gid" "363D23E9300A31F148374A8606BF7A06"
+				"size" "3DFC618E8483DF4573EF46852CEFDBA5"
+				"download" "D80B20D52826128DE2D24A54B18A000C"
+			}
+		}
+	}
+	"1836205"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5137413015923881981"
+				"size" "3700"
+				"download" "1408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qavalidation"
+			{
+				"gid" "6AD43C32CA7ED44CC9AC945D23E4E679"
+				"size" "13ACEBEF87F5FC8F25EE62D34DB30664"
+				"download" "4D24C0A324A7DF34B7FE84A8216B3CB4"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14392492"
+			"timeupdated" "1715886140"
+		}
+		"qavalidation"
+		{
+			"buildid" "14392492"
+			"pwdrequired" "1"
+			"timeupdated" "1715879031"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23571961"
+"_sha" "1fcd170c127592b0c130cd7013f379d548faba59"
+"_size" "4218"
