@@ -1,0 +1,387 @@
+"appid" "16900"
+"common"
+{
+	"name" "GROUND BRANCH"
+	"type" "Game"
+	"oslist" "windows"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "16900_eula_0"
+			"name" "Ground Branch EULA"
+			"url" "http://store.steampowered.com//eula/16900_eula_0"
+		}
+	}
+	"releasestate" "released"
+	"clienticon" "7b0091cf24a217ba3864cba50ffaa86753648f89"
+	"clienttga" "a299eff20f49bca78382ee15b0fa04fd3db53e17"
+	"icon" "ab83c7c2f72264eba26029301fb5961ab8b2d147"
+	"logo" "503c939261883a84cbd0291a63a1c40a1566fd58"
+	"logo_small" "503c939261883a84cbd0291a63a1c40a1566fd58_thumb"
+	"osarch" "64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669075200"
+		"tested_build_id" "9934877"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "GROUND BRANCH"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "29.867384262735385"
+			"height_pct" "78.19544173857824"
+		}
+	}
+	"store_asset_mtime" "1711054283"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "BlackFoot Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MicroProse Software"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1534253340"
+	"community_hub_visible" "1"
+	"gameid" "16900"
+	"store_tags"
+	{
+		"0" "1708"
+		"1" "4175"
+		"2" "4168"
+		"3" "1663"
+		"4" "1774"
+		"5" "3859"
+		"6" "599"
+		"7" "4182"
+		"8" "19"
+		"9" "1685"
+		"10" "3839"
+		"11" "5765"
+		"12" "3843"
+		"13" "492"
+		"14" "1678"
+		"15" "493"
+		"16" "9"
+		"17" "5711"
+		"18" "3810"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"gamedir" "groundbranch"
+	"serverbrowsername" "Ground Branch"
+	"vrheadsetstreaming" "1"
+	"minclientversion" "1616532526"
+	"developer" "BlackFoot Studios"
+	"publisher" "MicroProse Software"
+	"homepage" "https://www.groundbranch.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GroundBranch.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "GROUND BRANCH DX11"
+			}
+			"description" "GROUND BRANCH DX11"
+		}
+		"1"
+		{
+			"executable" "GroundBranch.exe"
+			"arguments" "-dx12"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "GROUND BRANCH DX12"
+			}
+			"description" "GROUND BRANCH DX12"
+		}
+	}
+	"installdir" "Ground Branch"
+}
+"depots"
+{
+	"workshopdepot" "16900"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"16901"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7954561038473719520"
+				"size" "45940024129"
+				"download" "25653840544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"externalpartners"
+			{
+				"gid" "1F266A346D4AF90FA17C0319C975EB71"
+				"size" "E012F7E1F421C892D0EC627A78114AAC"
+				"download" "49E044670E25B9A91F98265625FA364F"
+			}
+			"qa-tester"
+			{
+				"gid" "3A491ACD30DAE418DFC7FE4F2D5CD449"
+				"size" "7AD58D51B5034DF36EDA386E7E20940A"
+				"download" "EB2EC4A1E907C8E574DA5985CF5FB4AA"
+			}
+			"1034"
+			{
+				"gid" "8A49C702805C058EF6F6A940481BC2EA"
+				"size" "E1B6684F5D8FF0E7DAFDB06500942E64"
+				"download" "0B473BEE5ED8C1C7C39A290674832F3E"
+			}
+			"devtest"
+			{
+				"gid" "A0408446B000C4B034C4FEAC37E60639"
+				"size" "CE44A98FD74DC5B4C9F07F69475B8C13"
+				"download" "B4AB60A575527FE0BE460C41994271B1"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14114099"
+			"timeupdated" "1713558061"
+		}
+		"externalpartners"
+		{
+			"buildid" "13898068"
+			"pwdrequired" "1"
+			"timeupdated" "1712772778"
+		}
+		"qa-tester"
+		{
+			"buildid" "13139511"
+			"pwdrequired" "1"
+			"timeupdated" "1704917544"
+		}
+		"1034"
+		{
+			"buildid" "14456961"
+			"pwdrequired" "1"
+			"timeupdated" "1716391177"
+		}
+		"devtest"
+		{
+			"buildid" "14423517"
+			"pwdrequired" "1"
+			"timeupdated" "1716175880"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "GroundBranch"
+			"pattern" "*.kit"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "GroundBranch/ServerConfig"
+			"pattern" "*.ini"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "23645737"
+"_sha" "ac143f65882dd233427def137df2904c68ad7471"
+"_size" "7041"
