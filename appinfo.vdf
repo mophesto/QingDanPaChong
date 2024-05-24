@@ -98,6 +98,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -105,7 +106,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1694019562"
+	"store_asset_mtime" "1712811798"
 	"associations"
 	{
 		"0"
@@ -147,6 +148,7 @@
 		"category_44" "1"
 		"category_18" "1"
 		"category_60" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -195,16 +197,16 @@
 	"store_tags"
 	{
 		"0" "701"
-		"1" "599"
-		"2" "1746"
+		"1" "1746"
+		"2" "599"
 		"3" "5055"
 		"4" "4191"
 		"5" "4175"
-		"6" "9204"
-		"7" "12472"
-		"8" "1775"
-		"9" "4747"
-		"10" "7481"
+		"6" "12472"
+		"7" "1775"
+		"8" "9204"
+		"9" "7481"
+		"10" "4747"
 		"11" "5711"
 		"12" "4202"
 		"13" "1685"
@@ -216,7 +218,7 @@
 		"19" "4182"
 	}
 	"review_score" "4"
-	"review_percentage" "21"
+	"review_percentage" "26"
 }
 "extended"
 {
@@ -225,7 +227,7 @@
 	"developer" "Visual Concepts"
 	"publisher" "2K"
 	"homepage" "https://www.nba2k.com/"
-	"listofdlc" "2413250,2413251,2413260,2413261,2413262,2413263,2413264,2413265,2514210,2514220,2514230,2514240"
+	"listofdlc" "2413250,2413251,2413260,2413261,2413262,2413263,2413264,2413265,2413266,2413267,2413268,2413269,2413270,2413271,2514210,2514220,2514230,2514240"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -265,24 +267,18 @@
 		{
 			"public"
 			{
-				"gid" "4275964380846883824"
-				"size" "159816350594"
-				"download" "137873531232"
+				"gid" "1841896606543507429"
+				"size" "162065001800"
+				"download" "139151058048"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"milestones"
 			{
-				"gid" "276F1CF2CB3431070D7D6923B3108130"
-				"size" "28EECE1091D3779D62E4CE7C093D678A"
-				"download" "E50734785D24F58B15EEA09A685C41C9"
-			}
-			"silver"
-			{
-				"gid" "01DA25A2C1BFF9658396676E14CB55BE"
-				"size" "C4A4EFCF03D36A35C92B42DB3490C076"
-				"download" "8D474DCA9A904F7D464C7829863A5C5C"
+				"gid" "901188E1F0E7BD6DDD4695EB559C7289"
+				"size" "6624FE50F6682CC50693D52461D6815B"
+				"download" "5F4C64CACFB03B8F911106E0CE1B7330"
 			}
 			"silvercompatrun"
 			{
@@ -296,6 +292,12 @@
 				"size" "49E2170AE82EA97E7AC93E061AE48D3E"
 				"download" "D37ED19E6F93E07B749F532854AB9C31"
 			}
+			"silver"
+			{
+				"gid" "D89DB9D1318C087179F57A1F12B6CC11"
+				"size" "29ECC31D94393D5BE3206C173AEB1FDD"
+				"download" "758A2591539E351C1877CA9D0CE093F8"
+			}
 		}
 	}
 	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
@@ -303,20 +305,14 @@
 	{
 		"public"
 		{
-			"buildid" "13131365"
-			"timeupdated" "1705073319"
+			"buildid" "14227144"
+			"timeupdated" "1715955498"
 		}
 		"milestones"
 		{
-			"buildid" "13131365"
+			"buildid" "13955149"
 			"pwdrequired" "1"
-			"timeupdated" "1705070791"
-		}
-		"silver"
-		{
-			"buildid" "13375397"
-			"pwdrequired" "1"
-			"timeupdated" "1707246665"
+			"timeupdated" "1712334170"
 		}
 		"silvercompatrun"
 		{
@@ -330,6 +326,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1694036728"
 		}
+		"silver"
+		{
+			"buildid" "14434546"
+			"pwdrequired" "1"
+			"timeupdated" "1716254729"
+		}
 	}
 }
 "ufs"
@@ -338,6 +340,6 @@
 	"maxnumfiles" "250"
 }
 "_missing_token" "False"
-"_change_number" "22232100"
-"_sha" "26d27befedbc98bf8c481893eecd3ae29eb672f0"
-"_size" "6458"
+"_change_number" "23672786"
+"_sha" "585c298a5f9c03507b07702098870b908dc5141e"
+"_size" "6554"
