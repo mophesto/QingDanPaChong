@@ -130,6 +130,7 @@
 		"category_23" "1"
 		"category_22" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -283,9 +284,9 @@
 		{
 			"public"
 			{
-				"gid" "5496802178233427735"
-				"size" "6020047020"
-				"download" "2982337248"
+				"gid" "6991950529222461212"
+				"size" "6020941684"
+				"download" "2982721472"
 			}
 		}
 		"encryptedmanifests"
@@ -326,8 +327,8 @@
 	{
 		"public"
 		{
-			"buildid" "12107713"
-			"timeupdated" "1693897792"
+			"buildid" "14533213"
+			"timeupdated" "1716986601"
 		}
 		"agro"
 		{
@@ -390,6 +391,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22645107"
-"_sha" "28b85be2edf3ae0ebd19ddadbbc5d5bb815a524d"
-"_size" "7127"
+"_change_number" "23740078"
+"_sha" "d2479f0cb7c6e10fcddc09b30f7cd402b2f71b3e"
+"_size" "7149"
