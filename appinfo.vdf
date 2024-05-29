@@ -199,20 +199,20 @@
 		"3" "5363"
 		"4" "3810"
 		"5" "6129"
-		"6" "4345"
-		"7" "4172"
-		"8" "1664"
-		"9" "1669"
-		"10" "4711"
-		"11" "15045"
-		"12" "3843"
-		"13" "1736"
+		"6" "4172"
+		"7" "1664"
+		"8" "1669"
+		"9" "4711"
+		"10" "15045"
+		"11" "3843"
+		"12" "1736"
+		"13" "5752"
 		"14" "3859"
-		"15" "5752"
-		"16" "4994"
-		"17" "8122"
-		"18" "11104"
-		"19" "5923"
+		"15" "4994"
+		"16" "8122"
+		"17" "11104"
+		"18" "5923"
+		"19" "1100689"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -315,6 +315,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"beta2"
+			{
+				"gid" "6A61D82A33DB11C970FEB2104D7B1CC8"
+				"size" "AE2E52E90C9D6CDC9AE87C3044987E47"
+				"download" "A8F13507BD294B5576D66B5C07C8C2FB"
+			}
 			"prversion"
 			{
 				"gid" "F1DD7A9B92D519B5E7CA65746D635B7B"
@@ -359,6 +365,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"beta2"
+			{
+				"gid" "8219D32339776C1543D5E61CD5B6AF0A"
+				"size" "D2E9DC6780B074A6BA7DA9858F26DD44"
+				"download" "C474A9A42950D19A7BB26CFDD47E779E"
+			}
 			"prversion"
 			{
 				"gid" "E5DE32CA76588C8A98E8966DC06E8FDE"
@@ -403,6 +415,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"beta2"
+			{
+				"gid" "928DBF3A9199A351704749201BB1FE41"
+				"size" "1B240920857C282C8F0CEF2636D9A49F"
+				"download" "0ABEF5E5108300B75E1A1FE581C5DCBF"
+			}
 			"prversion"
 			{
 				"gid" "3F5B3A67EB61A9C0F1EF8DC95EBA7543"
@@ -428,9 +446,9 @@
 		{
 			"public"
 			{
-				"gid" "9181049260940593785"
-				"size" "3737994966"
-				"download" "1136040336"
+				"gid" "6758236331424101938"
+				"size" "3742946941"
+				"download" "1136721584"
 			}
 			"045a"
 			{
@@ -447,6 +465,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"beta2"
+			{
+				"gid" "3B65E06CE041A2F5134C510AFB8C135F"
+				"size" "06B0290B5D821824B4912094FA3E8CA2"
+				"download" "484233AC4CAC69659374A088465439EB"
+			}
 			"prversion"
 			{
 				"gid" "FF79EDF28EF9FA09E83EE4563852C58A"
@@ -472,9 +496,9 @@
 		{
 			"public"
 			{
-				"gid" "5743803643863993463"
-				"size" "7495703359"
-				"download" "1225126448"
+				"gid" "7866134468797498002"
+				"size" "3762636715"
+				"download" "1139000832"
 			}
 			"045a"
 			{
@@ -491,6 +515,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"beta2"
+			{
+				"gid" "1AF66CD3B4DC9E0A2E3AEDA351318933"
+				"size" "23AC0092A330BC65809CEFDCA91C1567"
+				"download" "2B3B7266B973068D8874E9B0D6B77575"
+			}
 			"prversion"
 			{
 				"gid" "609F5DDE2AE60D5E4B7027C8DE2712CF"
@@ -516,9 +546,9 @@
 		{
 			"public"
 			{
-				"gid" "9019884505619811590"
-				"size" "3749673822"
-				"download" "1136965840"
+				"gid" "7567087844157001035"
+				"size" "3754624085"
+				"download" "1137600640"
 			}
 			"045a"
 			{
@@ -535,6 +565,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"beta2"
+			{
+				"gid" "3D8C47BF41893C5B0283EBF77CB629BC"
+				"size" "0C2098455B6E2B25822BC3A85C9EF690"
+				"download" "B832C795F087DF01CD09F148F5E5C4B1"
+			}
 			"prversion"
 			{
 				"gid" "998FC9271E2704455474882362AF7838"
@@ -553,14 +589,20 @@
 	{
 		"public"
 		{
-			"buildid" "14484520"
-			"timeupdated" "1716563748"
+			"buildid" "14534633"
+			"timeupdated" "1716999351"
 		}
 		"045a"
 		{
 			"buildid" "1871221"
 			"description" "Pre-Multiplayer"
 			"timeupdated" "1641916576"
+		}
+		"beta2"
+		{
+			"buildid" "14519335"
+			"pwdrequired" "1"
+			"timeupdated" "1716900697"
 		}
 		"previousbuild"
 		{
@@ -587,6 +629,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "23680553"
-"_sha" "3e6976521b404721806d4260b24bdf298ee956f7"
-"_size" "10975"
+"_change_number" "23743479"
+"_sha" "64101ee5a7b660dd9edc52de32b72c8fc6731928"
+"_size" "12106"
