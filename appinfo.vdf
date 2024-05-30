@@ -99,7 +99,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1715758917"
+	"store_asset_mtime" "1716477689"
 	"associations"
 	{
 		"0"
@@ -419,9 +419,9 @@
 		{
 			"public"
 			{
-				"gid" "499630519068854533"
-				"size" "18948783078"
-				"download" "8673542144"
+				"gid" "8750073413406900651"
+				"size" "18949207023"
+				"download" "8673594496"
 			}
 			"2.1.3"
 			{
@@ -543,35 +543,23 @@
 				"size" "16363631859"
 				"download" "7626852400"
 			}
-			"3.11.1"
-			{
-				"gid" "4956705497660451289"
-				"size" "16363238403"
-				"download" "7626777104"
-			}
-			"3.11.2"
-			{
-				"gid" "2168114204347738700"
-				"size" "16363243281"
-				"download" "7626777568"
-			}
 			"3.11.3"
 			{
 				"gid" "2330524973562749834"
 				"size" "16365180626"
 				"download" "7627303472"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
-				"gid" "3865219390363328551"
-				"size" "16363244926"
-				"download" "7626777760"
+				"gid" "698259393176098795"
+				"size" "18921805874"
+				"download" "8664565856"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
-				"gid" "6834214943968440397"
-				"size" "18948781204"
-				"download" "8673541936"
+				"gid" "499630519068854533"
+				"size" "18948783078"
+				"download" "8673542144"
 			}
 		}
 		"encryptedmanifests"
@@ -644,9 +632,15 @@
 			}
 			"atlantis_rising"
 			{
-				"gid" "E2D100938C6133689534D1B3A53E560B"
-				"size" "F0A4241DAA22BA2AE3C1711D2B407BD4"
-				"download" "D4EF4DAB912229988F18629C2A443B7A"
+				"gid" "B3636F84D5F45689E2BA9696C624476F"
+				"size" "6A46DC25F80A500C757A472705380945"
+				"download" "FF16318386CF8F2422C2160AB20CE59A"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "E30940CB5297F0DDA8950F96A0514C6F"
+				"size" "B4B352B1C9E640D6F61760CE6DE30EBB"
+				"download" "68FA4F35DDBE3AF4849FCB7E0755C163"
 			}
 			"review_branch"
 			{
@@ -672,9 +666,9 @@
 		{
 			"public"
 			{
-				"gid" "1859909116464618451"
-				"size" "201019123"
-				"download" "156275120"
+				"gid" "7416914731047612645"
+				"size" "344351568"
+				"download" "281524128"
 			}
 			"2.1.3"
 			{
@@ -796,35 +790,23 @@
 				"size" "474933912"
 				"download" "307289200"
 			}
-			"3.11.1"
-			{
-				"gid" "3521851839489170979"
-				"size" "474274771"
-				"download" "307162528"
-			}
-			"3.11.2"
-			{
-				"gid" "8606237768407566115"
-				"size" "474273747"
-				"download" "307160368"
-			}
 			"3.11.3"
 			{
 				"gid" "3893870655561989199"
 				"size" "474268627"
 				"download" "307156784"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
-				"gid" "2845559251962885670"
-				"size" "474271207"
-				"download" "307163264"
+				"gid" "3067098664990520320"
+				"size" "314570483"
+				"download" "270525888"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
-				"gid" "1020158944515761247"
-				"size" "201018631"
-				"download" "156272176"
+				"gid" "1859909116464618451"
+				"size" "201019123"
+				"download" "156275120"
 			}
 		}
 		"encryptedmanifests"
@@ -897,9 +879,15 @@
 			}
 			"atlantis_rising"
 			{
-				"gid" "511D564FE15996478CC156006D571846"
-				"size" "6AC952C775E9E8AB22351F87FF607C51"
-				"download" "4E034815D6B6886002C9D8474704CDA8"
+				"gid" "EBD0EDFFD04B0301AA5A5C86FA83E586"
+				"size" "43CEF2F790E9FFF9DC4F66D2EE6B1705"
+				"download" "6CB7528C802E946CFD1E9A0D649D61B7"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "22207C6666314EE45C39B328C9AD6A17"
+				"size" "E09F8BF1BFEBA8C70EE68BCF628B30FB"
+				"download" "382AEF7914D6A4F37E97809A22F5DCB6"
 			}
 			"review_branch"
 			{
@@ -925,9 +913,9 @@
 		{
 			"public"
 			{
-				"gid" "8475476229727988417"
-				"size" "384517101"
-				"download" "298380656"
+				"gid" "3929401431437967635"
+				"size" "665719832"
+				"download" "562948112"
 			}
 			"2.1.3"
 			{
@@ -1049,35 +1037,23 @@
 				"size" "724384020"
 				"download" "528040144"
 			}
-			"3.11.1"
-			{
-				"gid" "8075164679447402635"
-				"size" "723885439"
-				"download" "527969920"
-			}
-			"3.11.2"
-			{
-				"gid" "2523175986130795163"
-				"size" "723887143"
-				"download" "527969216"
-			}
 			"3.11.3"
 			{
 				"gid" "7333365518519476744"
 				"size" "723869567"
 				"download" "527971984"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
-				"gid" "7792849956152869355"
-				"size" "723885883"
-				"download" "527975552"
+				"gid" "6757793384263831446"
+				"size" "608124053"
+				"download" "521704576"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
-				"gid" "558456410447579860"
-				"size" "384516209"
-				"download" "298386496"
+				"gid" "8475476229727988417"
+				"size" "384517101"
+				"download" "298380656"
 			}
 		}
 		"encryptedmanifests"
@@ -1150,9 +1126,15 @@
 			}
 			"atlantis_rising"
 			{
-				"gid" "D8B58661BF9917C9552595E9E15D9AEB"
-				"size" "83D8786724A10A3B5E13E2F18EA7AFAE"
-				"download" "264A5B307C6D897E49D94959883514B5"
+				"gid" "518A471D625AD60B7C78FDB91B1C43F1"
+				"size" "DAE481ED526A5DC772007ABB5518FF40"
+				"download" "D6006B0AE5428D280811036B28F13E67"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "009E821EE5D7D64C76DC202529E6DC44"
+				"size" "3B6B914E62D4D5A4B562E106EE3CE38C"
+				"download" "50CE6047902241731C78D94F82BCA67E"
 			}
 			"review_branch"
 			{
@@ -1178,9 +1160,9 @@
 		{
 			"public"
 			{
-				"gid" "9037502856463944561"
-				"size" "257617806"
-				"download" "167942432"
+				"gid" "3755169107714868499"
+				"size" "419312723"
+				"download" "295784256"
 			}
 			"2.1.3"
 			{
@@ -1302,35 +1284,23 @@
 				"size" "575383714"
 				"download" "322742768"
 			}
-			"3.11.1"
-			{
-				"gid" "3854576999326968143"
-				"size" "575064229"
-				"download" "322634480"
-			}
-			"3.11.2"
-			{
-				"gid" "6657022018625482452"
-				"size" "575064229"
-				"download" "322628928"
-			}
 			"3.11.3"
 			{
 				"gid" "8411349667815041009"
 				"size" "575060213"
 				"download" "322631168"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
-				"gid" "2896129569877665875"
-				"size" "575064329"
-				"download" "322636416"
+				"gid" "9074865758391593427"
+				"size" "371881082"
+				"download" "281544384"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
-				"gid" "5263209225904732226"
-				"size" "257617826"
-				"download" "167942240"
+				"gid" "9037502856463944561"
+				"size" "257617806"
+				"download" "167942432"
 			}
 		}
 		"encryptedmanifests"
@@ -1403,9 +1373,15 @@
 			}
 			"atlantis_rising"
 			{
-				"gid" "686A0E9AF4709D2CE53922DC86913828"
-				"size" "6E92DCFCF1ED0799D4A8F2DF3DE14196"
-				"download" "8A2C06C92CF25D278B33465AA5BBDBA5"
+				"gid" "E9BDE5741A5C7D169F5ECD922A0B8EFF"
+				"size" "50F4C66B76EE490A28D636164BCACA83"
+				"download" "0393BCB4AE41E518E1485C08E2D8D626"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "CDA6826860FF0291A03055C80208E346"
+				"size" "E1F1CD5201370ABF624E8BFD1BAFC995"
+				"download" "1A9DD0663F218E8257DFA40809E3E5AD"
 			}
 			"review_branch"
 			{
@@ -1552,31 +1528,19 @@
 				"size" "76982"
 				"download" "77840"
 			}
-			"3.11.1"
-			{
-				"gid" "5593148761305922162"
-				"size" "76982"
-				"download" "77840"
-			}
-			"3.11.2"
-			{
-				"gid" "5593148761305922162"
-				"size" "76982"
-				"download" "77840"
-			}
 			"3.11.3"
 			{
 				"gid" "5593148761305922162"
 				"size" "76982"
 				"download" "77840"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "5593148761305922162"
 				"size" "76982"
 				"download" "77840"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "5593148761305922162"
 				"size" "76982"
@@ -1656,6 +1620,12 @@
 				"gid" "752297F572F5485D1470997729EAF92D"
 				"size" "BF5DAA453820528B35DFAE1911DEA297"
 				"download" "E29F8BAE952BEB3403718C0929B45B5B"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "2E40531D44CE4A3120BE3B1E52FDE782"
+				"size" "704AD9919BE069F265DC50BB30C9C178"
+				"download" "9758490910D38DC953D9971501CD632D"
 			}
 			"review_branch"
 			{
@@ -1802,31 +1772,19 @@
 				"size" "77007"
 				"download" "77856"
 			}
-			"3.11.1"
-			{
-				"gid" "3163660048283588036"
-				"size" "77007"
-				"download" "77856"
-			}
-			"3.11.2"
-			{
-				"gid" "3163660048283588036"
-				"size" "77007"
-				"download" "77856"
-			}
 			"3.11.3"
 			{
 				"gid" "3163660048283588036"
 				"size" "77007"
 				"download" "77856"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "3163660048283588036"
 				"size" "77007"
 				"download" "77856"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "3163660048283588036"
 				"size" "77007"
@@ -1906,6 +1864,12 @@
 				"gid" "D3425DBD68DF5F40D87E2A658E46CDC7"
 				"size" "AC267BCD3354945B06BAB90CB0A593FC"
 				"download" "87C7ABA2397B89A3D014B684CE8CD297"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "B9C2EFAA39DEC09FA2788A56D0E0A92C"
+				"size" "8BD98554C748A13179B1D580E793C938"
+				"download" "4E09DF51076DBD3AAB84349BA58F59B6"
 			}
 			"review_branch"
 			{
@@ -2052,31 +2016,19 @@
 				"size" "119359244"
 				"download" "105718688"
 			}
-			"3.11.1"
-			{
-				"gid" "8126759959369925319"
-				"size" "119359244"
-				"download" "105718688"
-			}
-			"3.11.2"
-			{
-				"gid" "8126759959369925319"
-				"size" "119359244"
-				"download" "105718688"
-			}
 			"3.11.3"
 			{
 				"gid" "8126759959369925319"
 				"size" "119359244"
 				"download" "105718688"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "8126759959369925319"
 				"size" "119359244"
 				"download" "105718688"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "8126759959369925319"
 				"size" "119359244"
@@ -2156,6 +2108,12 @@
 				"gid" "36E7B09E42672B14BCC837E7B3D31D14"
 				"size" "9A42931286F30FBB9E7714D26E5F11CF"
 				"download" "99DD88AE0287C0BABA8ED76F5F6A28BA"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "A639C518B1704F80F2E533880399AFD9"
+				"size" "35B92426351D949149D49AD8D217D7E4"
+				"download" "BCE98D72A2C64A8C011EF05D19DA9BD0"
 			}
 			"review_branch"
 			{
@@ -2302,31 +2260,19 @@
 				"size" "76994"
 				"download" "77856"
 			}
-			"3.11.1"
-			{
-				"gid" "3391837523933751578"
-				"size" "76994"
-				"download" "77856"
-			}
-			"3.11.2"
-			{
-				"gid" "3391837523933751578"
-				"size" "76994"
-				"download" "77856"
-			}
 			"3.11.3"
 			{
 				"gid" "3391837523933751578"
 				"size" "76994"
 				"download" "77856"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "3391837523933751578"
 				"size" "76994"
 				"download" "77856"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "3391837523933751578"
 				"size" "76994"
@@ -2406,6 +2352,12 @@
 				"gid" "3A860430E2AAE4E7D2878655F114F3E2"
 				"size" "AD586E38DCBDC93D8AA1FA296A25F47E"
 				"download" "87C7ABA2397B89A3D014B684CE8CD297"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "ACE05B0D5CF0933E289A471D44C9109A"
+				"size" "E8B3B752E33A6040098AB60AF66F460B"
+				"download" "4E09DF51076DBD3AAB84349BA58F59B6"
 			}
 			"review_branch"
 			{
@@ -2552,31 +2504,19 @@
 				"size" "1161285479"
 				"download" "1143479312"
 			}
-			"3.11.1"
-			{
-				"gid" "4984318181401498898"
-				"size" "1161285479"
-				"download" "1143479312"
-			}
-			"3.11.2"
-			{
-				"gid" "4984318181401498898"
-				"size" "1161285479"
-				"download" "1143479312"
-			}
 			"3.11.3"
 			{
 				"gid" "4984318181401498898"
 				"size" "1161285479"
 				"download" "1143479312"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "4984318181401498898"
 				"size" "1161285479"
 				"download" "1143479312"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "4984318181401498898"
 				"size" "1161285479"
@@ -2656,6 +2596,12 @@
 				"gid" "9FF6287CBB6928E8EDE2A7477DDD8948"
 				"size" "63502B93FF124984398960BB11BEE148"
 				"download" "F1AC6CB5B392053C177D676D18554D53"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "F5BD34342AB8A5AFC3F232B1D5271828"
+				"size" "16DAE1C007F9107CFDA24D7074386180"
+				"download" "AA328AE78C21418AEAC9E5655EE70C7A"
 			}
 			"review_branch"
 			{
@@ -2802,31 +2748,19 @@
 				"size" "5084430"
 				"download" "4683728"
 			}
-			"3.11.1"
-			{
-				"gid" "5616497098841117414"
-				"size" "5084430"
-				"download" "4683728"
-			}
-			"3.11.2"
-			{
-				"gid" "5616497098841117414"
-				"size" "5084430"
-				"download" "4683728"
-			}
 			"3.11.3"
 			{
 				"gid" "5616497098841117414"
 				"size" "5084430"
 				"download" "4683728"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "5616497098841117414"
 				"size" "5084430"
 				"download" "4683728"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "5616497098841117414"
 				"size" "5084430"
@@ -2906,6 +2840,12 @@
 				"gid" "D0FAF48109B2704F1D0F66AF15570471"
 				"size" "CD768A1059091B452864F11437F41E33"
 				"download" "D9C1B4FBF015D61DD3A21BA5A46E672E"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "E94B9BE504AE193C7D403EBEB45C5745"
+				"size" "7D1FA8A6C693EA43AF3CB885ACF15531"
+				"download" "09523B036D9AA0D7837B8B712A4ACBE1"
 			}
 			"review_branch"
 			{
@@ -3052,31 +2992,19 @@
 				"size" "2398034"
 				"download" "2147392"
 			}
-			"3.11.1"
-			{
-				"gid" "380104706699965241"
-				"size" "2398034"
-				"download" "2147392"
-			}
-			"3.11.2"
-			{
-				"gid" "380104706699965241"
-				"size" "2398034"
-				"download" "2147392"
-			}
 			"3.11.3"
 			{
 				"gid" "380104706699965241"
 				"size" "2398034"
 				"download" "2147392"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "380104706699965241"
 				"size" "2398034"
 				"download" "2147392"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "380104706699965241"
 				"size" "2398034"
@@ -3156,6 +3084,12 @@
 				"gid" "CC93012EE785AFCB8FF1CAFEB2F2F81C"
 				"size" "AC4865525FA69A0B32B5D51C19012345"
 				"download" "AB1F0BA638F79602697B0E6CD590406D"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "1643D22DB655ABF5A520FA3EFDC00E18"
+				"size" "BF8BF91449C98A1E121DC09B22121737"
+				"download" "83C975EBE6AA3D393B0AFB2747309DD6"
 			}
 			"review_branch"
 			{
@@ -3302,31 +3236,19 @@
 				"size" "1302880"
 				"download" "1257056"
 			}
-			"3.11.1"
-			{
-				"gid" "8750895669882452148"
-				"size" "1302880"
-				"download" "1257056"
-			}
-			"3.11.2"
-			{
-				"gid" "8750895669882452148"
-				"size" "1302880"
-				"download" "1257056"
-			}
 			"3.11.3"
 			{
 				"gid" "8750895669882452148"
 				"size" "1302880"
 				"download" "1257056"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "8750895669882452148"
 				"size" "1302880"
 				"download" "1257056"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "8750895669882452148"
 				"size" "1302880"
@@ -3406,6 +3328,12 @@
 				"gid" "209324AB6B6130FAA323C008DB8BB2A3"
 				"size" "6074D8F45F023FBDA503DBB1BBC4FA7E"
 				"download" "01C5C63A7C84BBE58E4F7D27510E40AA"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "C614A510AFB15C9803E442B3D4BF81C5"
+				"size" "CD51C2B38682A92DBF32E195BDE83BB8"
+				"download" "3AA9F8AD21EF07607D951CD3D4D771AB"
 			}
 			"review_branch"
 			{
@@ -3556,31 +3484,19 @@
 				"size" "0"
 				"download" "0"
 			}
-			"3.11.1"
-			{
-				"gid" "5298150507268136665"
-				"size" "0"
-				"download" "0"
-			}
-			"3.11.2"
-			{
-				"gid" "5298150507268136665"
-				"size" "0"
-				"download" "0"
-			}
 			"3.11.3"
 			{
 				"gid" "5298150507268136665"
 				"size" "0"
 				"download" "0"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "5298150507268136665"
 				"size" "0"
 				"download" "0"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "5298150507268136665"
 				"size" "0"
@@ -3660,6 +3576,12 @@
 				"gid" "AD11EFB11A909E5F8394E8382F63A38C"
 				"size" "2342B076E2603EF83CF2CBA99B168DBF"
 				"download" "2342B076E2603EF83CF2CBA99B168DBF"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "23D64A8A9D14783DD12B80543852868E"
+				"size" "662FAA9C63F8297566B35769D6A37A8F"
+				"download" "662FAA9C63F8297566B35769D6A37A8F"
 			}
 			"review_branch"
 			{
@@ -3806,31 +3728,19 @@
 				"size" "76996"
 				"download" "77856"
 			}
-			"3.11.1"
-			{
-				"gid" "8067996932135208368"
-				"size" "76996"
-				"download" "77856"
-			}
-			"3.11.2"
-			{
-				"gid" "8067996932135208368"
-				"size" "76996"
-				"download" "77856"
-			}
 			"3.11.3"
 			{
 				"gid" "8067996932135208368"
 				"size" "76996"
 				"download" "77856"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "8067996932135208368"
 				"size" "76996"
 				"download" "77856"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "8067996932135208368"
 				"size" "76996"
@@ -3910,6 +3820,12 @@
 				"gid" "1D76C0940C07CA013D6E94BEC38A5114"
 				"size" "BA5651D12FF491F76CB403E1E5127962"
 				"download" "87C7ABA2397B89A3D014B684CE8CD297"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "821F838475F299E18A3D49CFB0D426BA"
+				"size" "E356251A00BE6523AD66C0ADFFD1B212"
+				"download" "4E09DF51076DBD3AAB84349BA58F59B6"
 			}
 			"review_branch"
 			{
@@ -4056,31 +3972,19 @@
 				"size" "2321437"
 				"download" "2069904"
 			}
-			"3.11.1"
-			{
-				"gid" "8675625826638210993"
-				"size" "2321437"
-				"download" "2069904"
-			}
-			"3.11.2"
-			{
-				"gid" "8675625826638210993"
-				"size" "2321437"
-				"download" "2069904"
-			}
 			"3.11.3"
 			{
 				"gid" "8675625826638210993"
 				"size" "2321437"
 				"download" "2069904"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "8675625826638210993"
 				"size" "2321437"
 				"download" "2069904"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "8675625826638210993"
 				"size" "2321437"
@@ -4148,6 +4052,12 @@
 				"gid" "A9C1538936AC57C172F6C4E4FC9E9202"
 				"size" "8BA7E22747F843753698423CD18ACE29"
 				"download" "576C68A195587FA1910EA91FAE3C078A"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "8C88153A2539D978858107F0A91CCDB8"
+				"size" "FF1352D82D8A38DC3C630CA147C5458F"
+				"download" "A16CAF7486D474CE3FB392CF17F18A08"
 			}
 			"review_branch"
 			{
@@ -4294,31 +4204,19 @@
 				"size" "97278"
 				"download" "98048"
 			}
-			"3.11.1"
-			{
-				"gid" "4861879200389357458"
-				"size" "97278"
-				"download" "98048"
-			}
-			"3.11.2"
-			{
-				"gid" "4861879200389357458"
-				"size" "97278"
-				"download" "98048"
-			}
 			"3.11.3"
 			{
 				"gid" "4861879200389357458"
 				"size" "97278"
 				"download" "98048"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "4861879200389357458"
 				"size" "97278"
 				"download" "98048"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "4861879200389357458"
 				"size" "97278"
@@ -4386,6 +4284,12 @@
 				"gid" "57694AC3A4887160C95E41595E2558E8"
 				"size" "F1AC9EEC6A718B8CBBF1115398820AD4"
 				"download" "5814A779B93FE964BFB5D6E8396B2930"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "7BFFC91BBDCDBE6F701D214D5608EC48"
+				"size" "3C7D09273599D28D91A8F5E362D9ED56"
+				"download" "7010DA4836E57ADC56BD28BC60536DCB"
 			}
 			"review_branch"
 			{
@@ -4532,31 +4436,19 @@
 				"size" "59068522"
 				"download" "59824784"
 			}
-			"3.11.1"
-			{
-				"gid" "2431260053894884791"
-				"size" "59068522"
-				"download" "59824784"
-			}
-			"3.11.2"
-			{
-				"gid" "2431260053894884791"
-				"size" "59068522"
-				"download" "59824784"
-			}
 			"3.11.3"
 			{
 				"gid" "2431260053894884791"
 				"size" "59068522"
 				"download" "59824784"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "2431260053894884791"
 				"size" "59068522"
 				"download" "59824784"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "2431260053894884791"
 				"size" "59068522"
@@ -4618,6 +4510,12 @@
 				"gid" "603316149782BED04579DBD20F6BE0AE"
 				"size" "7830C19BECB997C877ED490E118BAABD"
 				"download" "023FA78DC2BC7AFEA4209273B2EE28EA"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "CEE4F42925B52259D7323A20A8F1892D"
+				"size" "B7584D73C941979EF1779CB3EF457D8C"
+				"download" "84913BB9F99CFAB40C805003AD2BEEA2"
 			}
 			"review_branch"
 			{
@@ -4764,31 +4662,19 @@
 				"size" "76047593"
 				"download" "77042448"
 			}
-			"3.11.1"
-			{
-				"gid" "5348158420175847653"
-				"size" "76047593"
-				"download" "77042448"
-			}
-			"3.11.2"
-			{
-				"gid" "5348158420175847653"
-				"size" "76047593"
-				"download" "77042448"
-			}
 			"3.11.3"
 			{
 				"gid" "5348158420175847653"
 				"size" "76047593"
 				"download" "77042448"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "5348158420175847653"
 				"size" "76047593"
 				"download" "77042448"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "5348158420175847653"
 				"size" "76047593"
@@ -4838,6 +4724,12 @@
 				"gid" "44D1C0E40547A4677254FF7DF8791795"
 				"size" "D2BFE6C562A7AAD0D5CE2A86152C4FEC"
 				"download" "2F7E9895ABC7E374075B9237AEBF533C"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "C9AB0C92395B474EC1CC47BDCF1EA83D"
+				"size" "B45AD30E8B4E1A274207F4F919DCC6DE"
+				"download" "BA6D4C45DB26409BD21D384BDE0D17D4"
 			}
 			"review_branch"
 			{
@@ -4984,31 +4876,19 @@
 				"size" "76955"
 				"download" "77840"
 			}
-			"3.11.1"
-			{
-				"gid" "1490369501198761492"
-				"size" "76955"
-				"download" "77840"
-			}
-			"3.11.2"
-			{
-				"gid" "1490369501198761492"
-				"size" "76955"
-				"download" "77840"
-			}
 			"3.11.3"
 			{
 				"gid" "1490369501198761492"
 				"size" "76955"
 				"download" "77840"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "1490369501198761492"
 				"size" "76955"
 				"download" "77840"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "1490369501198761492"
 				"size" "76955"
@@ -5064,6 +4944,12 @@
 				"gid" "2ACAB4DFAC95839DBFD49CAB8D2DFED1"
 				"size" "680F69CC0A5A7FA7B775EBFD37B8A131"
 				"download" "E29F8BAE952BEB3403718C0929B45B5B"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "6C5B98644689E6C8BC1EBC68EEA6D2CA"
+				"size" "15FACCCEC3F87A689EA36178B6C40A1C"
+				"download" "9758490910D38DC953D9971501CD632D"
 			}
 			"review_branch"
 			{
@@ -5210,31 +5096,19 @@
 				"size" "104514"
 				"download" "105616"
 			}
-			"3.11.1"
-			{
-				"gid" "747097202119440400"
-				"size" "104514"
-				"download" "105616"
-			}
-			"3.11.2"
-			{
-				"gid" "747097202119440400"
-				"size" "104514"
-				"download" "105616"
-			}
 			"3.11.3"
 			{
 				"gid" "747097202119440400"
 				"size" "104514"
 				"download" "105616"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "747097202119440400"
 				"size" "104514"
 				"download" "105616"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "747097202119440400"
 				"size" "104514"
@@ -5278,6 +5152,12 @@
 				"gid" "4C3D228FAE1007B85B620E66DCB508C1"
 				"size" "4B5DBB7BFABD3A6413604617AECD1F89"
 				"download" "1A7ABDF8B930995D92DDDB1C4204AC0F"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "1059121EE6C7142CD72CCE1B8BEC8E48"
+				"size" "4F4466F12221794288C4D54851B07740"
+				"download" "6032477BB7A9AEBC43BF016819651018"
 			}
 			"review_branch"
 			{
@@ -5424,31 +5304,19 @@
 				"size" "48642857"
 				"download" "49267376"
 			}
-			"3.11.1"
-			{
-				"gid" "9013252645368791920"
-				"size" "48642857"
-				"download" "49267376"
-			}
-			"3.11.2"
-			{
-				"gid" "9013252645368791920"
-				"size" "48642857"
-				"download" "49267376"
-			}
 			"3.11.3"
 			{
 				"gid" "9013252645368791920"
 				"size" "48642857"
 				"download" "49267376"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "9013252645368791920"
 				"size" "48642857"
 				"download" "49267376"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "9013252645368791920"
 				"size" "48642857"
@@ -5486,6 +5354,12 @@
 				"gid" "7F2F1E7C667A20C73DFC9479E64CBBBB"
 				"size" "907DD2DF8219F7075C77A10522D75704"
 				"download" "DFAE6650BB79655C080D0B566951BA0F"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "E8189A10D454C9DD1E6D287FA83EA6E9"
+				"size" "E829F5E1785CF1B2E4D02A37468E287A"
+				"download" "E0D84B9B4883E3B99EE2FEFB67152EA9"
 			}
 			"review_branch"
 			{
@@ -5632,31 +5506,19 @@
 				"size" "38026514"
 				"download" "38416432"
 			}
-			"3.11.1"
-			{
-				"gid" "2322655893369385861"
-				"size" "38026514"
-				"download" "38416432"
-			}
-			"3.11.2"
-			{
-				"gid" "2322655893369385861"
-				"size" "38026514"
-				"download" "38416432"
-			}
 			"3.11.3"
 			{
 				"gid" "2322655893369385861"
 				"size" "38026514"
 				"download" "38416432"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "2322655893369385861"
 				"size" "38026514"
 				"download" "38416432"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "2322655893369385861"
 				"size" "38026514"
@@ -5682,6 +5544,12 @@
 				"gid" "848655A3C657CF11357A962A8F3D6CDB"
 				"size" "D04D22B4D80E2E22AF5A7B3AE09C108E"
 				"download" "922B4426543F8C00B770DF279864FDD9"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "1F5639DE78BB71AFA91A50F4FFA03D99"
+				"size" "A15C1C7D2A48D734E1A512C1C676B88A"
+				"download" "028CBB8CC91BEB7446E64E923DC0767F"
 			}
 			"review_branch"
 			{
@@ -5828,31 +5696,19 @@
 				"size" "118343735"
 				"download" "114981920"
 			}
-			"3.11.1"
-			{
-				"gid" "7962760454581577027"
-				"size" "118343735"
-				"download" "114981920"
-			}
-			"3.11.2"
-			{
-				"gid" "7962760454581577027"
-				"size" "118343735"
-				"download" "114981920"
-			}
 			"3.11.3"
 			{
 				"gid" "7962760454581577027"
 				"size" "118343735"
 				"download" "114981920"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "7962760454581577027"
 				"size" "118343735"
 				"download" "114981920"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "7962760454581577027"
 				"size" "118343735"
@@ -5884,6 +5740,12 @@
 				"gid" "CEF0282F279CEAF42A19EE676CC41E83"
 				"size" "F0848D1D717DAE7CC2F5EB117F79ED5F"
 				"download" "30DCCFBA1FC269D858B9C7A57DEBAAE9"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "528C59824A849324D5ABF6B40FE73B03"
+				"size" "B4C93C4D766F53B01A9AB6E5DCE80C9B"
+				"download" "432FA1A8E3E7161B55F7E3CBA22718EE"
 			}
 			"review_branch"
 			{
@@ -6030,31 +5892,19 @@
 				"size" "20572275"
 				"download" "20828864"
 			}
-			"3.11.1"
-			{
-				"gid" "2871165293910894501"
-				"size" "20572275"
-				"download" "20828864"
-			}
-			"3.11.2"
-			{
-				"gid" "2871165293910894501"
-				"size" "20572275"
-				"download" "20828864"
-			}
 			"3.11.3"
 			{
 				"gid" "2871165293910894501"
 				"size" "20572275"
 				"download" "20828864"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "2871165293910894501"
 				"size" "20572275"
 				"download" "20828864"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "2871165293910894501"
 				"size" "20572275"
@@ -6074,6 +5924,12 @@
 				"gid" "8650CDF7E6BF71DD3308CB0CF89326EF"
 				"size" "63E2D61DF88BE959D83698F32B533F29"
 				"download" "2FFF99B90B9F243550264B162EB76262"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "58C810B8D0D187D6466BCE6B04811F50"
+				"size" "0AA71DA3137CB809E7CD40AAFD08861C"
+				"download" "FA7F187B1756F1418DBFA274D54E3B00"
 			}
 			"review_branch"
 			{
@@ -6214,31 +6070,19 @@
 				"size" "132989695"
 				"download" "128705168"
 			}
-			"3.11.1"
-			{
-				"gid" "5449955303327171940"
-				"size" "132989695"
-				"download" "128705168"
-			}
-			"3.11.2"
-			{
-				"gid" "5449955303327171940"
-				"size" "132989695"
-				"download" "128705168"
-			}
 			"3.11.3"
 			{
 				"gid" "5449955303327171940"
 				"size" "132989695"
 				"download" "128705168"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "5449955303327171940"
 				"size" "132989695"
 				"download" "128705168"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "5449955303327171940"
 				"size" "132989695"
@@ -6258,6 +6102,12 @@
 				"gid" "80F94D0E5B21756A4B77BC4B90FAC89B"
 				"size" "CC5D3D9BBA28D0A29BAFA37059E0326A"
 				"download" "357F93DDD976E4F46F774621A9421592"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "D390104D6A75DE98DCD247CB3563E7DB"
+				"size" "47D4C4E537FF3E12F47B198C0508344C"
+				"download" "1AB27A0FB30C6513AA904D7B47389C31"
 			}
 			"review_branch"
 			{
@@ -6392,31 +6242,19 @@
 				"size" "32765498"
 				"download" "33179888"
 			}
-			"3.11.1"
-			{
-				"gid" "4141875752236908345"
-				"size" "32765498"
-				"download" "33179888"
-			}
-			"3.11.2"
-			{
-				"gid" "4141875752236908345"
-				"size" "32765498"
-				"download" "33179888"
-			}
 			"3.11.3"
 			{
 				"gid" "4141875752236908345"
 				"size" "32765498"
 				"download" "33179888"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "4141875752236908345"
 				"size" "32765498"
 				"download" "33179888"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "4141875752236908345"
 				"size" "32765498"
@@ -6436,6 +6274,12 @@
 				"gid" "B93AB73CE0ED4C724DC2905E88A43474"
 				"size" "6A5C882298F8A5F741B52BB1A55DD217"
 				"download" "CF5B80EA86541804AC4765B0B66BD01A"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "0902EDE5FE834C8D31E27D86E2238D43"
+				"size" "A58B5DE2D50C5623262F1AF8001A6E05"
+				"download" "8EED397586A19D2D26FA5E359EDA7C66"
 			}
 			"review_branch"
 			{
@@ -6558,31 +6402,19 @@
 				"size" "53106341"
 				"download" "53661088"
 			}
-			"3.11.1"
-			{
-				"gid" "1250496627204676222"
-				"size" "53106341"
-				"download" "53661088"
-			}
-			"3.11.2"
-			{
-				"gid" "1250496627204676222"
-				"size" "53106341"
-				"download" "53661088"
-			}
 			"3.11.3"
 			{
 				"gid" "1250496627204676222"
 				"size" "53106341"
 				"download" "53661088"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "1250496627204676222"
 				"size" "53106341"
 				"download" "53661088"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "1250496627204676222"
 				"size" "53106341"
@@ -6602,6 +6434,12 @@
 				"gid" "9828312707B4768360287FE1C014FA2D"
 				"size" "B2452E059C178739439C43786DF387EB"
 				"download" "4FDB3B4648073D03707B07C1590EE80B"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "7A8B8A7D566AE11BA007780D59FFDB08"
+				"size" "09FDAE11169979422C333621F3D5DE72"
+				"download" "AEF72F04AF0B4290CD44DE774038906A"
 			}
 			"review_branch"
 			{
@@ -6724,31 +6562,19 @@
 				"size" "14019655"
 				"download" "14199248"
 			}
-			"3.11.1"
-			{
-				"gid" "1374645851295769267"
-				"size" "14019655"
-				"download" "14199248"
-			}
-			"3.11.2"
-			{
-				"gid" "1374645851295769267"
-				"size" "14019655"
-				"download" "14199248"
-			}
 			"3.11.3"
 			{
 				"gid" "1374645851295769267"
 				"size" "14019655"
 				"download" "14199248"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "1374645851295769267"
 				"size" "14019655"
 				"download" "14199248"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "1374645851295769267"
 				"size" "14019655"
@@ -6768,6 +6594,12 @@
 				"gid" "958408E77F372ABCAF385E3A42CAEE45"
 				"size" "AA5433B8123F66FFBA6DBE9A46D69393"
 				"download" "5A6F0829EDB28BCFB5782ED9E1D6C6A0"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "4AEB09D81C4CFAF95BEBE1E353D25EDD"
+				"size" "29A9C9154097D9E5B50D3858A7BB12B2"
+				"download" "CB5149FAB8F8417752B5A5BF078503F7"
 			}
 			"review_branch"
 			{
@@ -6872,31 +6704,19 @@
 				"size" "49630126"
 				"download" "50147872"
 			}
-			"3.11.1"
-			{
-				"gid" "4380984167118905326"
-				"size" "49630126"
-				"download" "50147872"
-			}
-			"3.11.2"
-			{
-				"gid" "4380984167118905326"
-				"size" "49630126"
-				"download" "50147872"
-			}
 			"3.11.3"
 			{
 				"gid" "4380984167118905326"
 				"size" "49630126"
 				"download" "50147872"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "4380984167118905326"
 				"size" "49630126"
 				"download" "50147872"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "4380984167118905326"
 				"size" "49630126"
@@ -6916,6 +6736,12 @@
 				"gid" "46626B2A4C83758348BE2318B62933C6"
 				"size" "799C111E2FFFF64980A064D4297CDC82"
 				"download" "B57B9B89880F2852553C54DA7FD70C1D"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "2BBE4DD33BFCCE3EA6D6639EDBBB6990"
+				"size" "39FDD56DEC214836C1CA373E308B972F"
+				"download" "38926D003CAB1A8D2BAB4EEA5BEC7D97"
 			}
 			"review_branch"
 			{
@@ -7014,31 +6840,19 @@
 				"size" "38704196"
 				"download" "39142128"
 			}
-			"3.11.1"
-			{
-				"gid" "8911888477824105255"
-				"size" "38704196"
-				"download" "39142128"
-			}
-			"3.11.2"
-			{
-				"gid" "8911888477824105255"
-				"size" "38704196"
-				"download" "39142128"
-			}
 			"3.11.3"
 			{
 				"gid" "8911888477824105255"
 				"size" "38704196"
 				"download" "39142128"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "8911888477824105255"
 				"size" "38704196"
 				"download" "39142128"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "8911888477824105255"
 				"size" "38704196"
@@ -7058,6 +6872,12 @@
 				"gid" "98D24280BE189A4EF4095E3DD73B9EAF"
 				"size" "C6F8ACA2525B79A9FAF6259F271EA22D"
 				"download" "029FB86EBA5B9BB1A61EB80709E105FE"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "27AFC7DFF6D3EE40F59263AE87AC931E"
+				"size" "0D35D7BA1820A4BC854760676649EC84"
+				"download" "0274D39689B98524C158160D13043728"
 			}
 			"review_branch"
 			{
@@ -7144,31 +6964,19 @@
 				"size" "58165421"
 				"download" "58817376"
 			}
-			"3.11.1"
-			{
-				"gid" "2393804793743906359"
-				"size" "58165421"
-				"download" "58817376"
-			}
-			"3.11.2"
-			{
-				"gid" "2393804793743906359"
-				"size" "58165421"
-				"download" "58817376"
-			}
 			"3.11.3"
 			{
 				"gid" "2393804793743906359"
 				"size" "58165421"
 				"download" "58817376"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "2393804793743906359"
 				"size" "58165421"
 				"download" "58817376"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "2393804793743906359"
 				"size" "58165421"
@@ -7188,6 +6996,12 @@
 				"gid" "001B384126F2C9760C72D485EE160391"
 				"size" "B50BB61F6507D202C49D207A35F3A5C5"
 				"download" "695AA83244A3CDF47E47884B5712B0D3"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "1F42EAB1687B0F64A169A6E9725F3B0E"
+				"size" "34E2856366139A8D33EC6D44FD99CD91"
+				"download" "FD1D788B8EFB2627B9BCAB5E30BC4EFB"
 			}
 			"review_branch"
 			{
@@ -7256,31 +7070,19 @@
 				"size" "101497561"
 				"download" "102807920"
 			}
-			"3.11.1"
-			{
-				"gid" "8608764450636340277"
-				"size" "101497561"
-				"download" "102807920"
-			}
-			"3.11.2"
-			{
-				"gid" "8608764450636340277"
-				"size" "101497561"
-				"download" "102807920"
-			}
 			"3.11.3"
 			{
 				"gid" "8608764450636340277"
 				"size" "101497561"
 				"download" "102807920"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "8608764450636340277"
 				"size" "101497561"
 				"download" "102807920"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "8608764450636340277"
 				"size" "101497561"
@@ -7300,6 +7102,12 @@
 				"gid" "3B5B0F4C71EEB3E16F121FD4310BB23D"
 				"size" "CDEC5A07C0F2A8EE8D5A950AA68A5337"
 				"download" "EE17C2348518D711642CF7E4A7409D24"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "76F651EF68F9003C26E8F364EDAF1813"
+				"size" "CBB2257823ACDC3725BAFCAA5B917612"
+				"download" "914787155CD12433FBF61700BC45776F"
 			}
 			"review_branch"
 			{
@@ -7362,31 +7170,19 @@
 				"size" "41731188"
 				"download" "42147008"
 			}
-			"3.11.1"
-			{
-				"gid" "52292814380006034"
-				"size" "41731188"
-				"download" "42147008"
-			}
-			"3.11.2"
-			{
-				"gid" "52292814380006034"
-				"size" "41731188"
-				"download" "42147008"
-			}
 			"3.11.3"
 			{
 				"gid" "52292814380006034"
 				"size" "41731188"
 				"download" "42147008"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "52292814380006034"
 				"size" "41731188"
 				"download" "42147008"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "52292814380006034"
 				"size" "41731188"
@@ -7406,6 +7202,12 @@
 				"gid" "0897B2754C8CB72FC972F56148F594AB"
 				"size" "5D1CB3E567CC27FB75FAAB744A22FAC1"
 				"download" "AF53DFA4245DAF7B72F85373CF042F62"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "58391FE9318D395770A73ACBE0C84354"
+				"size" "691AE96E058A6BDAA288D01293D49318"
+				"download" "D1283FECB66DC2312CCCA65B0C8A613C"
 			}
 			"review_branch"
 			{
@@ -7456,31 +7258,19 @@
 				"size" "92173"
 				"download" "93008"
 			}
-			"3.11.1"
-			{
-				"gid" "3503117745494668115"
-				"size" "92173"
-				"download" "93008"
-			}
-			"3.11.2"
-			{
-				"gid" "3503117745494668115"
-				"size" "92173"
-				"download" "93008"
-			}
 			"3.11.3"
 			{
 				"gid" "3503117745494668115"
 				"size" "92173"
 				"download" "93008"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "3503117745494668115"
 				"size" "92173"
 				"download" "93008"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "3503117745494668115"
 				"size" "92173"
@@ -7500,6 +7290,12 @@
 				"gid" "3D288C788A440D209C7CD21DBF8C8A83"
 				"size" "128A1A0FF1482907860F66D7FF0B565B"
 				"download" "6D3A234E94C41C811797C529BB99E485"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "FFEFFC6E77F2BF58FAE85277910323D2"
+				"size" "222CB9DD7EBD0551863AA733E7E03549"
+				"download" "49BE7A3F516626521F9C4FA0E322E7C9"
 			}
 			"review_branch"
 			{
@@ -7544,31 +7340,19 @@
 				"size" "91988"
 				"download" "92688"
 			}
-			"3.11.1"
-			{
-				"gid" "8343102774299497261"
-				"size" "91988"
-				"download" "92688"
-			}
-			"3.11.2"
-			{
-				"gid" "8343102774299497261"
-				"size" "91988"
-				"download" "92688"
-			}
 			"3.11.3"
 			{
 				"gid" "8343102774299497261"
 				"size" "91988"
 				"download" "92688"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "8343102774299497261"
 				"size" "91988"
 				"download" "92688"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "8343102774299497261"
 				"size" "91988"
@@ -7588,6 +7372,12 @@
 				"gid" "B5B344B66AC06BAD73060C8FACCEA611"
 				"size" "9A7265DA8E012423736FDF2D8AA4A443"
 				"download" "FC4797D8327990959B1507E2CB288F6A"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "CAE1C65DA3673AE4CF9412BF7C221914"
+				"size" "3AEE0C7422CA842F602289B98BCCA8F9"
+				"download" "ABF6A05783563CF0EC43050DCE159BB1"
 			}
 			"review_branch"
 			{
@@ -7620,31 +7410,19 @@
 				"size" "47152388"
 				"download" "47667776"
 			}
-			"3.11.1"
-			{
-				"gid" "6807342264439767019"
-				"size" "47152388"
-				"download" "47667776"
-			}
-			"3.11.2"
-			{
-				"gid" "6807342264439767019"
-				"size" "47152388"
-				"download" "47667776"
-			}
 			"3.11.3"
 			{
 				"gid" "6807342264439767019"
 				"size" "47152388"
 				"download" "47667776"
 			}
-			"3.11.3_open_beta"
+			"3.12.1"
 			{
 				"gid" "6807342264439767019"
 				"size" "47152388"
 				"download" "47667776"
 			}
-			"stellaris_test"
+			"3.12.2"
 			{
 				"gid" "6807342264439767019"
 				"size" "47152388"
@@ -7664,6 +7442,12 @@
 				"gid" "2F0D39129C6409130A8606FA0F78EBCF"
 				"size" "04C62A3362E368989B84CAB9C09EBA15"
 				"download" "06B70E9A6394AD094A5AC1C5A240D764"
+			}
+			"atlantis_rising2"
+			{
+				"gid" "109FB6AF3E0A227DFEC9B353D5442824"
+				"size" "F99DEBA488C9840AE22D29A90D9F79CB"
+				"download" "D98B6C059163D07002429A6C3692E50E"
 			}
 			"review_branch"
 			{
@@ -7696,7 +7480,13 @@
 				"size" "77950"
 				"download" "78608"
 			}
-			"stellaris_test"
+			"3.12.1"
+			{
+				"gid" "3817181787897598749"
+				"size" "77950"
+				"download" "78608"
+			}
+			"3.12.2"
 			{
 				"gid" "3817181787897598749"
 				"size" "77950"
@@ -7717,6 +7507,12 @@
 				"size" "B2FD4DF2DE11026067A45C79D0312C59"
 				"download" "15811C2F1CF6E556686A37757207BA33"
 			}
+			"atlantis_rising2"
+			{
+				"gid" "9EB5A0411EBCE7ACBCA2CB7CF639E5F0"
+				"size" "F62B43DAD949CAF9732FD3A4EFE8DADC"
+				"download" "73AF9CEC7567DE4D7D7A32A41B5083C7"
+			}
 			"the_machine_age_influencer"
 			{
 				"gid" "7262184F5ED7222D215380B1FF59BB01"
@@ -7736,7 +7532,13 @@
 				"size" "120815974"
 				"download" "122270624"
 			}
-			"stellaris_test"
+			"3.12.1"
+			{
+				"gid" "4145532989747615677"
+				"size" "120815974"
+				"download" "122270624"
+			}
+			"3.12.2"
 			{
 				"gid" "4145532989747615677"
 				"size" "120815974"
@@ -7757,6 +7559,12 @@
 				"size" "0433EB045E987A6D8AC43F9EB4B4DFFB"
 				"download" "B27FD368B9DCBE759AC215C6F7B27924"
 			}
+			"atlantis_rising2"
+			{
+				"gid" "FE80114F1D5CC30EAFC2B82FCBDB9654"
+				"size" "D943F365998E2FF15C37C31C4CD103D9"
+				"download" "2A36CBCBDA75B1F7C3A64B803EF7B954"
+			}
 			"the_machine_age_influencer"
 			{
 				"gid" "963BF609C9270D7574784476B300AB37"
@@ -7769,8 +7577,8 @@
 	{
 		"public"
 		{
-			"buildid" "14351611"
-			"timeupdated" "1715846372"
+			"buildid" "14533954"
+			"timeupdated" "1717055918"
 		}
 		"1.0.3"
 		{
@@ -7952,35 +7760,23 @@
 			"description" "Pyxis Version rollback"
 			"timeupdated" "1708952633"
 		}
-		"3.11.1"
-		{
-			"buildid" "13523034"
-			"description" "Eridanus Version Rollback"
-			"timeupdated" "1710231625"
-		}
-		"3.11.2"
-		{
-			"buildid" "13669331"
-			"description" "Eridanus Version Rollback"
-			"timeupdated" "1712820550"
-		}
 		"3.11.3"
 		{
 			"buildid" "13985673"
 			"description" " Eridanus Version Rollback"
 			"timeupdated" "1715080476"
 		}
-		"3.11.3_open_beta"
+		"3.12.1"
 		{
-			"buildid" "13881298"
-			"description" "Eridanus Open Beta"
-			"timeupdated" "1711634674"
+			"buildid" "14218409"
+			"description" "Andromeda Version Rollback"
+			"timeupdated" "1715961832"
 		}
-		"stellaris_test"
+		"3.12.2"
 		{
-			"buildid" "14303218"
-			"description" "3.12.2 Open Beta"
-			"timeupdated" "1715177764"
+			"buildid" "14351611"
+			"description" " Andromeda Version Rollback"
+			"timeupdated" "1717051724"
 		}
 		"the_machine_age_influencer2"
 		{
@@ -7990,9 +7786,15 @@
 		}
 		"atlantis_rising"
 		{
-			"buildid" "14351611"
+			"buildid" "14533954"
 			"pwdrequired" "1"
-			"timeupdated" "1715616063"
+			"timeupdated" "1716990390"
+		}
+		"atlantis_rising2"
+		{
+			"buildid" "14533954"
+			"pwdrequired" "1"
+			"timeupdated" "1716990176"
 		}
 		"review_branch"
 		{
@@ -8035,6 +7837,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23562726"
-"_sha" "2bd7c7bf62d61db90fbd1d192f716a1a7e7db272"
-"_size" "168043"
+"_change_number" "23753287"
+"_sha" "b371dbc1fea91cc924c61cbbb1daf6408c46e27c"
+"_size" "166491"
