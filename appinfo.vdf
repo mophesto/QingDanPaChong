@@ -151,6 +151,7 @@
 		"category_29" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -219,8 +220,8 @@
 		"8" "4325"
 		"9" "4726"
 		"10" "9"
-		"11" "4085"
-		"12" "3964"
+		"11" "3964"
+		"12" "4085"
 		"13" "1684"
 		"14" "597"
 		"15" "4057"
@@ -331,9 +332,9 @@
 		{
 			"public"
 			{
-				"gid" "3601664456645742493"
-				"size" "7622048438"
-				"download" "7066633632"
+				"gid" "1880363709147535524"
+				"size" "7938319601"
+				"download" "7374720416"
 			}
 		}
 		"encryptedmanifests"
@@ -417,8 +418,8 @@
 	{
 		"public"
 		{
-			"buildid" "10440977"
-			"timeupdated" "1691571953"
+			"buildid" "13399590"
+			"timeupdated" "1717602888"
 		}
 		"denuvo-submit"
 		{
@@ -583,6 +584,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22254988"
-"_sha" "6f133e6120b9412ccbd9e516ac2e25f8dccb2d94"
-"_size" "11474"
+"_change_number" "23841335"
+"_sha" "5d23bb398ef90a0932e231c2e1d61b5e7e6d2a44"
+"_size" "11496"
