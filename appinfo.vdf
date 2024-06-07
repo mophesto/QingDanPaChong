@@ -10,6 +10,10 @@
 	"icon" "482b229474b9a0c20f7c906ca9c43fa2dd749053"
 	"clienticon" "5183ea4c23898889d08323b1af3689a4b87add6d"
 	"clienttga" "018954bba8c0a9265c57f8c6f15471944366963a"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -83,6 +87,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -90,7 +95,7 @@
 			"height_pct" "75.8370933270007"
 		}
 	}
-	"store_asset_mtime" "1698848078"
+	"store_asset_mtime" "1714463374"
 	"associations"
 	{
 		"0"
@@ -101,6 +106,11 @@
 		"1"
 		{
 			"type" "publisher"
+			"name" "Untold Tales"
+		}
+		"2"
+		{
+			"type" "franchise"
 			"name" "Untold Tales"
 		}
 	}
@@ -126,6 +136,7 @@
 		"category_9" "1"
 		"category_39" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -161,6 +172,11 @@
 			"subtitles" "true"
 		}
 		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -256,18 +272,18 @@
 		{
 			"public"
 			{
-				"gid" "5101863713673892296"
-				"size" "374536001"
-				"download" "175820704"
+				"gid" "4383910407956832440"
+				"size" "376000367"
+				"download" "176377136"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "141CBAA4371B38C4870A24B56497E424"
-				"size" "95293E7B0BB5C1883B8C3F57B50A302D"
-				"download" "39F47BB3FEC37CC94AC6DE567DC96960"
+				"gid" "313A72DEAACC67C00BF38B083C976FC0"
+				"size" "B5222B63FE492EAF971D2504C630A68D"
+				"download" "B975EC249E570F2487DF133204877C70"
 			}
 		}
 	}
@@ -282,18 +298,18 @@
 		{
 			"public"
 			{
-				"gid" "8498948627514339319"
-				"size" "71401152"
-				"download" "12418736"
+				"gid" "8732321029105793284"
+				"size" "6150854"
+				"download" "2190448"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "B422CE63AF3E32F8810554FD006A2071"
-				"size" "FDF03983374229CD9FD9BEEBF421BBEB"
-				"download" "916270A2E3721AC0534DC2820E1DA9B4"
+				"gid" "3CFEABFD4A0DDACC5F9C005CA716B625"
+				"size" "6F93D659328219B92E351C8192999BEC"
+				"download" "160A91E64137873ED5877AFC5B8B2449"
 			}
 		}
 	}
@@ -307,18 +323,18 @@
 		{
 			"public"
 			{
-				"gid" "8647553828946538562"
-				"size" "11388788"
-				"download" "3147584"
+				"gid" "248241448276727848"
+				"size" "382149173"
+				"download" "178561648"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "0FC70DFFBC06CA5336F21651E97A353F"
-				"size" "0BDF7C7A47BC78C0B9C08741CE077B41"
-				"download" "C3C3C835A27656024D8869294B3C4555"
+				"gid" "C97C81463F1AD18EA0303C7DF7F73A6E"
+				"size" "0BD21848FA1A808CCCA4606C07C8F1CA"
+				"download" "44258BFD643A278BF229CBD69E631982"
 			}
 		}
 	}
@@ -332,18 +348,18 @@
 		{
 			"public"
 			{
-				"gid" "8087615308886675456"
-				"size" "10390648"
-				"download" "2975360"
+				"gid" "316375630532752850"
+				"size" "382149173"
+				"download" "178561648"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "0397FC1E188FF45A358FF82648AF92F7"
-				"size" "7996F1F4757B009D3B8A04169BEA0DC5"
-				"download" "49006C83BEDC97B24F99E50BCEF57431"
+				"gid" "A44330A32954145DCCA8ED83D593C827"
+				"size" "0BD21848FA1A808CCCA4606C07C8F1CA"
+				"download" "44258BFD643A278BF229CBD69E631982"
 			}
 		}
 	}
@@ -351,14 +367,14 @@
 	{
 		"public"
 		{
-			"buildid" "10579565"
-			"timeupdated" "1676668215"
+			"buildid" "14624694"
+			"timeupdated" "1717754494"
 		}
 		"test"
 		{
-			"buildid" "10579565"
+			"buildid" "14624694"
 			"pwdrequired" "1"
-			"timeupdated" "1676667073"
+			"timeupdated" "1717671043"
 		}
 	}
 }
@@ -368,6 +384,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "21842565"
-"_sha" "85769324463878b49340d176220cf496691d9538"
-"_size" "6676"
+"_change_number" "23870377"
+"_sha" "834f7a80910d20e9d31a4ce21304c19be998d426"
+"_size" "6908"
