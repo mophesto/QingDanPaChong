@@ -35,7 +35,6 @@
 	{
 		"0" "5"
 	}
-	"has_adult_content" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -104,7 +103,7 @@
 			"height_pct" "99.66564091400829"
 		}
 	}
-	"store_asset_mtime" "1707237393"
+	"store_asset_mtime" "1715271981"
 	"associations"
 	{
 		"0"
@@ -131,6 +130,7 @@
 		"category_22" "1"
 		"category_29" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -198,8 +198,8 @@
 	"store_tags"
 	{
 		"0" "21725"
-		"1" "9204"
-		"2" "1687"
+		"1" "1687"
+		"2" "9204"
 		"3" "4231"
 		"4" "3813"
 		"5" "122"
@@ -254,9 +254,9 @@
 		{
 			"public"
 			{
-				"gid" "7765733969311179392"
-				"size" "4966926676"
-				"download" "3807287312"
+				"gid" "390761713255582872"
+				"size" "4974436239"
+				"download" "3816189920"
 			}
 		}
 		"encryptedmanifests"
@@ -273,8 +273,8 @@
 	{
 		"public"
 		{
-			"buildid" "13423150"
-			"timeupdated" "1707578422"
+			"buildid" "14693656"
+			"timeupdated" "1718205797"
 		}
 		"test"
 		{
@@ -303,6 +303,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22292026"
-"_sha" "bfa226e6058e5473cb51b200e65915798125a227"
-"_size" "5265"
+"_change_number" "23941809"
+"_sha" "b7e75eec6fa6db048120b5e411da2170d3042ec8"
+"_size" "5259"
