@@ -118,7 +118,7 @@
 			"height_pct" "45.0607905026333"
 		}
 	}
-	"store_asset_mtime" "1710502563"
+	"store_asset_mtime" "1718278826"
 	"associations"
 	{
 		"0"
@@ -240,7 +240,7 @@
 		}
 	}
 	"steam_release_date" "1709660533"
-	"metacritic_score" "88"
+	"metacritic_score" "86"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/quilts-and-cats-of-calico\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -249,8 +249,8 @@
 	{
 		"0" "9"
 		"1" "597"
-		"2" "1664"
-		"3" "1770"
+		"2" "1770"
+		"3" "1664"
 		"4" "17389"
 		"5" "4726"
 		"6" "17894"
@@ -333,9 +333,9 @@
 		{
 			"public"
 			{
-				"gid" "6274563150493755809"
-				"size" "899711767"
-				"download" "615460144"
+				"gid" "9176487635728301944"
+				"size" "975842312"
+				"download" "664963360"
 			}
 		}
 		"encryptedmanifests"
@@ -352,23 +352,23 @@
 				"size" "853F22D3F359EC2569C6092BB013D9F4"
 				"download" "159F6DC4AC078F34B72349908C98D754"
 			}
-			"develop"
-			{
-				"gid" "A21D9A73421238B31E328E443046260E"
-				"size" "4277F2CBD6651BAF176091DC1B08B04E"
-				"download" "763735E1903FB33D55BAE17C6CF79FC5"
-			}
-			"main"
-			{
-				"gid" "AAE6B375BAD3AD240FF0CC324482DE09"
-				"size" "9EB1BC66CEA0802B4C9E3847E58A8474"
-				"download" "92CA44AF810804AF699259C7E192F6FE"
-			}
 			"optimization"
 			{
 				"gid" "09CC3769ABF6F759D4331BD482AB05D5"
 				"size" "CDE83A913C0DCF40A995F81A9A8814A7"
 				"download" "CDEA2A487A03F0CCD2CA5B0B9BDB8538"
+			}
+			"develop"
+			{
+				"gid" "86D8989FB49B74158E841535D16A2C34"
+				"size" "9063AA863C47500F0B456EAC0B2F057D"
+				"download" "0A98A338E9F0541EEB6C5391C5374690"
+			}
+			"main"
+			{
+				"gid" "D068095505908B3030DDD9B6B7555702"
+				"size" "96E90444B36085D8644E9DD6C5886C48"
+				"download" "2608EE2C8C43C71891275BB8745C87BA"
 			}
 		}
 	}
@@ -382,9 +382,9 @@
 		{
 			"public"
 			{
-				"gid" "8063211171779146227"
-				"size" "1030251097"
-				"download" "642466864"
+				"gid" "6338901844643255252"
+				"size" "1135565513"
+				"download" "696252400"
 			}
 		}
 		"encryptedmanifests"
@@ -401,23 +401,23 @@
 				"size" "E72051AB035365DC17164922F56F104A"
 				"download" "D2D60EEF3BB2C28DF6E3F10C90FC8B4A"
 			}
-			"develop"
-			{
-				"gid" "464D2AA2B46A3E0BC13E2BAB31A3C86E"
-				"size" "87229AE248A3ED7D32B497478D2BDE98"
-				"download" "D74BA022D1DD32153CA09F4ADFDA2A42"
-			}
-			"main"
-			{
-				"gid" "AB2136FFDDC85358167417E7DAB82039"
-				"size" "E35C63E9A3969AEFBDC612385E49CDBA"
-				"download" "9212D0044462162BB62168B06E9F5D94"
-			}
 			"optimization"
 			{
 				"gid" "44CDA965632D48F9F34587FE5642074E"
 				"size" "0EFC72A602C41E853C78A260B720AB2B"
 				"download" "273EA5CFAD202540571922F21FD54484"
+			}
+			"develop"
+			{
+				"gid" "BEFF5596881FB4F02CF13C6D515EEE79"
+				"size" "25E83DDD320719F7701FB86FABC79E13"
+				"download" "11FF1A9793C033F1F2322BBFCD8F50EA"
+			}
+			"main"
+			{
+				"gid" "E190DB84C6AA73E86FBCE815370723DB"
+				"size" "30D3E9474B11A1BFA8621D75F67999A4"
+				"download" "F96DC04B75886BC3ABA8823F4C3C6D6C"
 			}
 		}
 	}
@@ -425,8 +425,8 @@
 	{
 		"public"
 		{
-			"buildid" "14109429"
-			"timeupdated" "1713773541"
+			"buildid" "14695418"
+			"timeupdated" "1718287090"
 		}
 		"authentication_test"
 		{
@@ -440,23 +440,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1712235122"
 		}
-		"develop"
-		{
-			"buildid" "14130342"
-			"pwdrequired" "1"
-			"timeupdated" "1713774584"
-		}
-		"main"
-		{
-			"buildid" "14109429"
-			"pwdrequired" "1"
-			"timeupdated" "1713529326"
-		}
 		"optimization"
 		{
 			"buildid" "13821136"
 			"pwdrequired" "1"
 			"timeupdated" "1711103532"
+		}
+		"develop"
+		{
+			"buildid" "14697280"
+			"pwdrequired" "1"
+			"timeupdated" "1718227497"
+		}
+		"main"
+		{
+			"buildid" "14695418"
+			"pwdrequired" "1"
+			"timeupdated" "1718214574"
 		}
 	}
 }
@@ -466,6 +466,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "23247743"
-"_sha" "6d7bff07ba44ffd3266b482ad29a6f81da9f0818"
+"_change_number" "23957019"
+"_sha" "46f31447530e51c24ba822605536becb9b6764fe"
 "_size" "9452"
