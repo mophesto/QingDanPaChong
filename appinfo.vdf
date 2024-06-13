@@ -45,9 +45,9 @@
 		{
 			"public"
 			{
-				"gid" "1923798258558304932"
-				"size" "44194776"
-				"download" "13804528"
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
 			}
 		}
 		"depotfromapp" "1007"
@@ -79,9 +79,9 @@
 		{
 			"public"
 			{
-				"gid" "4884950798805348056"
-				"size" "73781292"
-				"download" "20270768"
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
 			}
 		}
 		"depotfromapp" "1007"
@@ -123,18 +123,18 @@
 		{
 			"public"
 			{
-				"gid" "3538487270127216254"
-				"size" "1864124479"
-				"download" "1426526352"
+				"gid" "1815665076759800628"
+				"size" "1864132102"
+				"download" "1426701440"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "00E7109A956041332DF80DD422D5626F"
-				"size" "C1D50C9051DEB4A9999F413FD580C4FB"
-				"download" "F6056C5B21C1A88BB7F4097580CE010C"
+				"gid" "B839E051C4F748A7062EDE1FCD4C766D"
+				"size" "808092766D1133F3BF28FDA73705E287"
+				"download" "33BE9CDCF0722E91CDCE1FDECBB48573"
 			}
 		}
 	}
@@ -142,18 +142,18 @@
 	{
 		"public"
 		{
-			"buildid" "14395935"
-			"timeupdated" "1715980132"
+			"buildid" "14699712"
+			"timeupdated" "1718297506"
 		}
 		"internal"
 		{
-			"buildid" "14395935"
+			"buildid" "14699712"
 			"pwdrequired" "1"
-			"timeupdated" "1715980115"
+			"timeupdated" "1718244841"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "23589464"
-"_sha" "1585258f8ad5dd8c7f17b65ce5179b47c6d24a95"
+"_change_number" "23959615"
+"_sha" "a76ceabeae4486412256fa03af96756ee66b5fd0"
 "_size" "2321"
