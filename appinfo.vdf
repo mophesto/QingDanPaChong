@@ -329,9 +329,9 @@
 		{
 			"public"
 			{
-				"gid" "5062681909832250323"
-				"size" "10076985821"
-				"download" "9571888624"
+				"gid" "5292341238902805007"
+				"size" "10084243076"
+				"download" "9574362784"
 			}
 		}
 		"encryptedmanifests"
@@ -398,45 +398,45 @@
 			}
 			"amd_tech"
 			{
-				"gid" "EF30AF480A479BA20F7E96856308F977"
-				"size" "25C0E1282315A7C5AFC1AE79BF9C0B1B"
-				"download" "8DAEC50834B2A8E90BCD7C67E5AC5E85"
+				"gid" "1D1162EF6976EDD42F7B4D7A6F83C21F"
+				"size" "80743F71851B8BC886BB7F0B06C58D95"
+				"download" "FCE051852F2485087D53FCD52A9AEA6D"
 			}
 			"beta_dev"
 			{
-				"gid" "50CDEB494A7351FE5037002F88702693"
-				"size" "7CC38C203F8639E312AC1FAB12E7C57B"
-				"download" "1F86B475B30327EAFB487506C529B28F"
+				"gid" "B786147E9032C91EB92BFA1654BBA474"
+				"size" "9F979FC33AE98C9B19507EE5ECB96651"
+				"download" "AD03A30B24369AA1D608480B4D5D7240"
 			}
 			"experimental"
 			{
-				"gid" "DF80C5C342A60DFFB9B8F06A026F811E"
-				"size" "A6A85CB834B77D2D8EDA8524545E814C"
-				"download" "A95D567490B818C76DCDF7530412E9D4"
+				"gid" "9520F77FE1C5A97038903B9F2B28535F"
+				"size" "793AF1A930BF5A9B6848312F48A90DDA"
+				"download" "AE66B54C9F25A27B6BCD1E1AC2B3CB5B"
 			}
 			"intel_tech"
 			{
-				"gid" "8D4985B7A66FF10CA8B115A4A5D1B6B8"
-				"size" "8D5069ECA9F159A6F67CE704988D74F3"
-				"download" "EA46BD1C4D015D34D703608B37F8731D"
+				"gid" "BC323D321D7EFC52DA3C465CC42979C2"
+				"size" "B2DE92A4977E2DBC3FC9D4D41A533BB0"
+				"download" "A8DFF5C7AE161B41B62A5FA2CF597C99"
 			}
 			"nvidia_tech"
 			{
-				"gid" "8C986598DF687E12958DEEF2540CF93C"
-				"size" "803BA608F2EB01EFFE9A640CF0732936"
-				"download" "E0C710C202E6910FA9A6F93214E6781F"
+				"gid" "692232386C285BA7F23DEAFB68015962"
+				"size" "06E4CBDFFDF49F3BA17AEB38580FC58A"
+				"download" "50068038847DF59FB4BF3AE724036C67"
 			}
 			"steam_deck"
 			{
-				"gid" "A3D45E0D69CF38859C552F23BD93EB80"
-				"size" "7B72766E66B30D2DD98B45EB65449FC0"
-				"download" "9BCD16ACB4DF0A45B4F9B9924AF14674"
+				"gid" "1C54A8A2928A4A869CA67208A333D0EE"
+				"size" "4393A75AF7BC80DA47C86EA304BD71FC"
+				"download" "FE25772705B2C381066BA7D25BA70B2B"
 			}
 			"thirdparty_testing"
 			{
-				"gid" "C00D910F8DC31FBFB471E72342853249"
-				"size" "B9AE0E6C72DE356954C4A4E5ED5A1754"
-				"download" "B098D41EBDF8B09B587F7631089EE81E"
+				"gid" "7B5C898D48E1EFC20DAB6543528F580C"
+				"size" "916EF4C1EF9AAF469C95A5E8D815A33D"
+				"download" "466C42CAAFC9E28C954F027EAE8F358E"
 			}
 		}
 	}
@@ -642,8 +642,8 @@
 	{
 		"public"
 		{
-			"buildid" "14781672"
-			"timeupdated" "1718987217"
+			"buildid" "14798603"
+			"timeupdated" "1719003524"
 		}
 		"alpha2"
 		{
@@ -707,45 +707,45 @@
 		}
 		"amd_tech"
 		{
-			"buildid" "14781672"
+			"buildid" "14798603"
 			"pwdrequired" "1"
-			"timeupdated" "1718987238"
+			"timeupdated" "1719003573"
 		}
 		"beta_dev"
 		{
-			"buildid" "14781672"
+			"buildid" "14798603"
 			"pwdrequired" "1"
-			"timeupdated" "1718890305"
+			"timeupdated" "1718999478"
 		}
 		"experimental"
 		{
-			"buildid" "14781672"
+			"buildid" "14798603"
 			"pwdrequired" "1"
-			"timeupdated" "1718987117"
+			"timeupdated" "1719003590"
 		}
 		"intel_tech"
 		{
-			"buildid" "14781672"
+			"buildid" "14798603"
 			"pwdrequired" "1"
-			"timeupdated" "1718987259"
+			"timeupdated" "1719003610"
 		}
 		"nvidia_tech"
 		{
-			"buildid" "14781672"
+			"buildid" "14798603"
 			"pwdrequired" "1"
-			"timeupdated" "1718987296"
+			"timeupdated" "1719003641"
 		}
 		"steam_deck"
 		{
-			"buildid" "14781672"
+			"buildid" "14798603"
 			"pwdrequired" "1"
-			"timeupdated" "1718987307"
+			"timeupdated" "1719003660"
 		}
 		"thirdparty_testing"
 		{
-			"buildid" "14781672"
+			"buildid" "14798603"
 			"pwdrequired" "1"
-			"timeupdated" "1718987146"
+			"timeupdated" "1719003673"
 		}
 	}
 }
@@ -795,6 +795,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24069183"
-"_sha" "d44289bd197375660274b52e162e7ad7807e4012"
+"_change_number" "24072192"
+"_sha" "643b2aca92551a25cf2daaf061e7048d09eef32a"
 "_size" "17376"
