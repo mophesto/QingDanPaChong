@@ -81,7 +81,7 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1673963611"
+	"store_asset_mtime" "1719318039"
 	"associations"
 	{
 		"0"
@@ -112,6 +112,7 @@
 		"category_2" "1"
 		"category_23" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -172,16 +173,18 @@
 		"16" "1702"
 		"17" "8945"
 		"18" "4182"
-		"19" "3964"
+		"19" "4711"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "74"
 }
 "extended"
 {
 	"developer" "Honestly Games"
 	"publisher" "Fulqrum Publishing"
 	"homepage" "http://lordsandvilleins.com/"
+	"listofdlc" "2943600"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -207,84 +210,122 @@
 		"config"
 		{
 			"oslist" "windows"
-			"language" ""
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "3231433507671692781"
-				"size" "793582326"
-				"download" "375146784"
-			}
-			"oldversion"
-			{
-				"gid" "6831112217003954383"
-				"size" "672272350"
-				"download" "337747648"
-			}
-			"openbeta"
-			{
-				"gid" "3231433507671692781"
-				"size" "793582326"
-				"download" "375146784"
+				"gid" "1843799634754370570"
+				"size" "970443944"
+				"download" "472372992"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"champions"
-			{
-				"gid" "A1B432FAC8473FC0CC386818987D574F"
-				"size" "C0C9F4047FB7DD0B48C07624D21E8F23"
-				"download" "974698594B93544642071D6F7465C6DA"
-			}
 			"honestlyinternal"
 			{
-				"gid" "0077FA3CE3E346956AA242555B882314"
-				"size" "5D153B42838D04D1BB373D64E46A763B"
-				"download" "2110027CAC2EFE12764DC0B82A7D9FDA"
-			}
-			"influencers"
-			{
-				"gid" "73C8FA97E03C23E452E20D0A66BF7676"
-				"size" "892F5B5BF593A2EF00AA0EFF1DF17C69"
-				"download" "731B7B82B09EFCEED84E9B53A712F6CB"
+				"gid" "D40D8117A9B02E13BE66C2AC24B3BC07"
+				"size" "7EEB931A6B5CC4DCA895DA9C8CB2C115"
+				"download" "80F49706295FDAEAC8420CA962562400"
 			}
 			"internal"
 			{
-				"gid" "6AB0863E68D3D67517C4332C69247415"
-				"size" "C06B4CD24E1B1A9C724B09723A839BB9"
-				"download" "C7E3BAE2980181F5702B5537BFA0E88F"
+				"gid" "EB848F6185FEE3A291C8B93A5A5ACE91"
+				"size" "AA7282D30730BCE4C90F9FC95760DAD3"
+				"download" "0945920672E5EBB1AF1A488987EACAD9"
 			}
-			"internal_old"
+			"internal2"
 			{
-				"gid" "EA5B5AC4F24A1F7311C87DA5DD13A5BA"
-				"size" "AC0B35E943702D46817180884C2AA5D1"
-				"download" "F4EA3E73D2B9CCC4D88D5DE307AF00AA"
+				"gid" "C38E486D5F7E60172D9FB9E4A995B580"
+				"size" "644DD5CFE58A3ED89A3C3CBA48866E3A"
+				"download" "C599A05C1B47A051BB15803778F6A41F"
 			}
-			"playtest"
+			"marketing"
 			{
-				"gid" "89965BF85B42CB31D827BB2D3BFFE5C8"
-				"size" "B3FD4420A8B1E39E035583FB4C8C515C"
-				"download" "77576F85ECA811BB5531628ABFFD56FF"
+				"gid" "85482E1B62BC509AFD94E1BA3CB78C10"
+				"size" "08637161E1AD52401ED266BF15632261"
+				"download" "4C9349496EBDF5EE16F6412FCEE4EFA2"
 			}
 			"preview"
 			{
-				"gid" "40ECB5EF0D4B27C0019E863904C764CA"
-				"size" "9CEF5DB66E3B4114B81A298E1EE40762"
-				"download" "493EAA6BAD0AEA8A59FDB28A16477C67"
+				"gid" "A6D3622A3D354106615D4263EA0CB460"
+				"size" "2199F899B9578A58D3565E766AAB031B"
+				"download" "7F7355C91DA8FA025C06674F288F387A"
 			}
-			"qabuild"
+			"stove"
 			{
-				"gid" "AAE0772AF9279D720BB8C2F81E5954A4"
-				"size" "E7643B72842B2622258705D821F6A297"
-				"download" "349A8D16AAC0EBBAF2F58282515B0731"
+				"gid" "7826AE40DE1D6354145AC22C5CCC53A0"
+				"size" "6EC9B4F0CAAA02AA44CE6B87CB07D22C"
+				"download" "C2365D8912D098954D1B5F03C490F567"
 			}
-			"qabuildcheats"
+			"stove2"
 			{
-				"gid" "2DA9CE2AD4C9B1BDF1EBFA3C326C6A18"
-				"size" "6C59A22FDDCB9A858FB253D885A623D8"
-				"download" "3EC0AEE069245364DA3B21E6C1969F09"
+				"gid" "25703D59C0F5A938EF66F2C5FE01790A"
+				"size" "3CE3D9FFD03D1B03C7BD251E49052D7E"
+				"download" "5777D15FFC610271DE6328AA5157E205"
+			}
+		}
+	}
+	"2943600"
+	{
+		"dlcappid" "2943600"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5627712341300497316"
+				"size" "915"
+				"download" "800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"honestlyinternal"
+			{
+				"gid" "808E81E43D608C15658F64BD47FEC2CC"
+				"size" "76D3DC83A729A0943DD0792440CDF1DA"
+				"download" "E8070CD6DC752DC6AFCEA43D91C285D4"
+			}
+			"internal"
+			{
+				"gid" "8ED8C2AB3B7F5B9AC6D7C8214F44A6EE"
+				"size" "F0345F048D025B02A679771133F8D637"
+				"download" "3DA6F9A24064CB7833C11C99E1F48E9F"
+			}
+			"internal2"
+			{
+				"gid" "307540E82692C724E381918E2DCC28B9"
+				"size" "7991542FF46EC701344F6FADAF9E86F4"
+				"download" "558540C34F2CA4D7FC6559AD72F56D50"
+			}
+			"marketing"
+			{
+				"gid" "5F6EC65B166AFE64B46D92CC60F6AAD5"
+				"size" "08A8D75F1634E1B539F41B183D829B8B"
+				"download" "AECBFC72288895012803A6D9A780E1DB"
+			}
+			"preview"
+			{
+				"gid" "6A16B8450198C709AA5B95D195A785F9"
+				"size" "948CE66DECF1CE7B63F63171D25509EC"
+				"download" "AFDD8852D918538DCB8B2BEB2502CCD1"
+			}
+			"stove"
+			{
+				"gid" "24AA4015F2D4EA60BB3C4CBE5D7BC7DB"
+				"size" "0CA60313C2B93B8B6FB4F7CC5BAF08C9"
+				"download" "5EF72B447B36596BCC519AA7AA0600F7"
+			}
+			"stove2"
+			{
+				"gid" "49630CE8F47D4687D4F6EEEF46535559"
+				"size" "172206C7E41E00C84500477ACEE74DF2"
+				"download" "FAACF6CFACFFE9D87019193449ADFB33"
 			}
 		}
 	}
@@ -292,74 +333,50 @@
 	{
 		"public"
 		{
-			"buildid" "13428099"
-			"timeupdated" "1708610562"
-		}
-		"champions"
-		{
-			"buildid" "12106110"
-			"pwdrequired" "1"
-			"timeupdated" "1693908699"
+			"buildid" "14817361"
+			"timeupdated" "1719333651"
 		}
 		"honestlyinternal"
 		{
-			"buildid" "12671344"
+			"buildid" "14817361"
 			"pwdrequired" "1"
-			"timeupdated" "1699621679"
-		}
-		"influencers"
-		{
-			"buildid" "8971794"
-			"pwdrequired" "1"
-			"timeupdated" "1655909863"
+			"timeupdated" "1719231767"
 		}
 		"internal"
 		{
-			"buildid" "13428099"
+			"buildid" "14817361"
 			"pwdrequired" "1"
-			"timeupdated" "1707748929"
+			"timeupdated" "1719296553"
 		}
-		"internal_old"
+		"internal2"
 		{
-			"buildid" "11882412"
+			"buildid" "14817351"
 			"pwdrequired" "1"
-			"timeupdated" "1691486419"
+			"timeupdated" "1719296581"
 		}
-		"oldversion"
+		"marketing"
 		{
-			"buildid" "10721044"
-			"description" "Previous version of L&V"
-			"timeupdated" "1686052060"
-		}
-		"openbeta"
-		{
-			"buildid" "13428099"
-			"description" "Open Beta branch with the upcoming updates!"
-			"timeupdated" "1707919467"
-		}
-		"playtest"
-		{
-			"buildid" "13428099"
+			"buildid" "14817351"
 			"pwdrequired" "1"
-			"timeupdated" "1707680185"
+			"timeupdated" "1719296572"
 		}
 		"preview"
 		{
-			"buildid" "9638074"
+			"buildid" "14817361"
 			"pwdrequired" "1"
-			"timeupdated" "1664891064"
+			"timeupdated" "1719242765"
 		}
-		"qabuild"
+		"stove"
 		{
-			"buildid" "9780032"
+			"buildid" "14817361"
 			"pwdrequired" "1"
-			"timeupdated" "1667471353"
+			"timeupdated" "1719296639"
 		}
-		"qabuildcheats"
+		"stove2"
 		{
-			"buildid" "9839015"
+			"buildid" "14817351"
 			"pwdrequired" "1"
-			"timeupdated" "1667473662"
+			"timeupdated" "1719296610"
 		}
 	}
 }
@@ -396,6 +413,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22458288"
-"_sha" "463795113088954fc7c37842173418d7304b346b"
-"_size" "7932"
+"_change_number" "24112896"
+"_sha" "1e52f63e30c525248dcbe329fdecb2d6c1523ac6"
+"_size" "8389"
