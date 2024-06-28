@@ -258,21 +258,9 @@
 		{
 			"public"
 			{
-				"gid" "4220237134846512542"
-				"size" "1476846193"
-				"download" "306822048"
-			}
-			"experimental"
-			{
-				"gid" "4012025631333739250"
-				"size" "1444293362"
-				"download" "307581184"
-			}
-			"multiplayer-beta"
-			{
-				"gid" "4012025631333739250"
-				"size" "1444293362"
-				"download" "307581184"
+				"gid" "6477660125510914883"
+				"size" "1476845433"
+				"download" "306816752"
 			}
 			"v2021.6.2"
 			{
@@ -280,32 +268,44 @@
 				"size" "667215615"
 				"download" "116345984"
 			}
+			"experimental"
+			{
+				"gid" "1605247392795777344"
+				"size" "1454268533"
+				"download" "341767344"
+			}
+			"multiplayer-beta"
+			{
+				"gid" "1605247392795777344"
+				"size" "1454268533"
+				"download" "341767344"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"default-staging"
 			{
-				"gid" "BC53C83334B9347E869FD68D81E2CAC3"
-				"size" "82171161AACFC3077D81B15E8ACA15B9"
-				"download" "8CAB3985B8C4158F36BDCC3860C53935"
-			}
-			"guanacos-place"
-			{
-				"gid" "0C2D4F93088A69808F78F8580079EA27"
-				"size" "2C0EDB63AC3D458DEB8360E7A9DE60D4"
-				"download" "C245740E6FC75D8F1FB4CDD17DD53339"
+				"gid" "7C2B4FB2C94823D53A30D7717FDE7F29"
+				"size" "8DA1BB5E13AB316071370E59BC15D99E"
+				"download" "ED8B2951F97C258DA559550C3F0EB39C"
 			}
 			"multiplayer-private"
 			{
-				"gid" "8A59391A3B5DA1D0A7FF31FE5D0A1F84"
-				"size" "5878DDFE06E82E776238C8FFF3681C1C"
-				"download" "ABCB57A3174B1D8974871FBEBB0F374A"
+				"gid" "C380BCB430D9659A98CCED4193F53E7D"
+				"size" "02FD1E2C5C8DC7B848480F9FF7525C26"
+				"download" "3635A2FE3E2155B17CC361F38EAA5E17"
 			}
-			"super-private-multiplayer"
+			"multiplayer-unity6-urp"
 			{
-				"gid" "A1A574E193C20ADF546907E9A54DBD80"
-				"size" "B29849218190FCE153F01993905D5D5C"
-				"download" "123378B11D56D434419681252FB6FB44"
+				"gid" "994D9342989ED5B93B7A4CA5D9A9B749"
+				"size" "17FC7ED76FA1677AB90A7347E8F819F6"
+				"download" "B1842F4F1A3FDC494073A29D62032D73"
+			}
+			"new-years-demo-2019"
+			{
+				"gid" "53359A41C8FFC1F97A33150979F2F88F"
+				"size" "93464CEFCE2BED16E5231789DA4644A0"
+				"download" "B6E36B315C9F776C69E1A2D1176CC67B"
 			}
 		}
 	}
@@ -313,44 +313,8 @@
 	{
 		"public"
 		{
-			"buildid" "13334430"
-			"timeupdated" "1706804598"
-		}
-		"default-staging"
-		{
-			"buildid" "13334430"
-			"pwdrequired" "1"
-			"timeupdated" "1706783322"
-		}
-		"experimental"
-		{
-			"buildid" "13315476"
-			"description" "Public experimental branch for testing out new things"
-			"timeupdated" "1706726061"
-		}
-		"guanacos-place"
-		{
-			"buildid" "13893832"
-			"pwdrequired" "1"
-			"timeupdated" "1711713273"
-		}
-		"multiplayer-beta"
-		{
-			"buildid" "13315476"
-			"description" "Public multiplayer beta"
-			"timeupdated" "1706726053"
-		}
-		"multiplayer-private"
-		{
-			"buildid" "13893832"
-			"pwdrequired" "1"
-			"timeupdated" "1711713264"
-		}
-		"super-private-multiplayer"
-		{
-			"buildid" "13893832"
-			"pwdrequired" "1"
-			"timeupdated" "1711712807"
+			"buildid" "14810530"
+			"timeupdated" "1719515173"
 		}
 		"v2021.6.2"
 		{
@@ -358,9 +322,45 @@
 			"description" "In case you want to go back to before mod support"
 			"timeupdated" "1639832351"
 		}
+		"default-staging"
+		{
+			"buildid" "14810530"
+			"pwdrequired" "1"
+			"timeupdated" "1719158039"
+		}
+		"experimental"
+		{
+			"buildid" "14862912"
+			"description" "Public experimental branch for testing out new things"
+			"timeupdated" "1719515681"
+		}
+		"multiplayer-beta"
+		{
+			"buildid" "14862912"
+			"description" "Public multiplayer beta"
+			"timeupdated" "1719515673"
+		}
+		"multiplayer-private"
+		{
+			"buildid" "14862912"
+			"pwdrequired" "1"
+			"timeupdated" "1719515666"
+		}
+		"multiplayer-unity6-urp"
+		{
+			"buildid" "14794316"
+			"pwdrequired" "1"
+			"timeupdated" "1718972686"
+		}
+		"new-years-demo-2019"
+		{
+			"buildid" "4508379"
+			"pwdrequired" "1"
+			"timeupdated" "1716987175"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22960950"
-"_sha" "a466381233e10a13f63c18363f1104a9a2cef4cb"
-"_size" "6539"
+"_change_number" "24150467"
+"_sha" "8579714db183a6d5b9638c1d2bdbfb4afdbb19d4"
+"_size" "6542"
