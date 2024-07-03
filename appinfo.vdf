@@ -272,9 +272,9 @@
 		{
 			"public"
 			{
-				"gid" "7952704618181489620"
-				"size" "5914144827"
-				"download" "4991471232"
+				"gid" "295160844027774984"
+				"size" "5914145524"
+				"download" "4991471392"
 			}
 		}
 		"encryptedmanifests"
@@ -317,9 +317,9 @@
 			}
 			"dlc_experimental"
 			{
-				"gid" "862655120BF7D01630C0824C485F575B"
-				"size" "5B3E594FF7F63FEC8EF4B29F8A4381AD"
-				"download" "9DE85269E8B0C5DFE28A0FA266109B7D"
+				"gid" "EBCF4D3E708881837B0329A4CA9B82C0"
+				"size" "6F7581153911EFA7E8641B627B2E283B"
+				"download" "F682C300E6CCCAF5855DE11260B548B6"
 			}
 			"game_t"
 			{
@@ -329,9 +329,9 @@
 			}
 			"release_vip"
 			{
-				"gid" "71FD43988A16104CD3252932117614C2"
-				"size" "0C730C120F539CF9C95D340C45842DA3"
-				"download" "5D624C47EF69197DF2D4EEF95318F88C"
+				"gid" "817F65EB528EC36FA67781D257A1F8EB"
+				"size" "19B4F6F7835742C919817267D8499F2D"
+				"download" "3ABD318C3E3B5D49710BBF1FE7E8C06F"
 			}
 			"resistance_staging"
 			{
@@ -375,8 +375,8 @@
 	{
 		"public"
 		{
-			"buildid" "14867272"
-			"timeupdated" "1719970959"
+			"buildid" "14913351"
+			"timeupdated" "1720024374"
 		}
 		"development_testing"
 		{
@@ -416,9 +416,9 @@
 		}
 		"dlc_experimental"
 		{
-			"buildid" "14821660"
+			"buildid" "14867272"
 			"pwdrequired" "1"
-			"timeupdated" "1719256571"
+			"timeupdated" "1720025648"
 		}
 		"game_t"
 		{
@@ -428,9 +428,9 @@
 		}
 		"release_vip"
 		{
-			"buildid" "14867272"
+			"buildid" "14913351"
 			"pwdrequired" "1"
-			"timeupdated" "1719971175"
+			"timeupdated" "1720024410"
 		}
 		"resistance_staging"
 		{
@@ -491,6 +491,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24216205"
-"_sha" "a826b4cd5203fb3668a73ae8a90ce7b5c1be6033"
-"_size" "9858"
+"_change_number" "24225277"
+"_sha" "b3e92246b754101b2b0ceb4ac2756ef6b271c2a5"
+"_size" "9857"
