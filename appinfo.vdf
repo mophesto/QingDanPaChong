@@ -135,6 +135,7 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -253,9 +254,9 @@
 		{
 			"public"
 			{
-				"gid" "322938263110424418"
-				"size" "1229183462"
-				"download" "405129264"
+				"gid" "8784689266832912062"
+				"size" "1229218021"
+				"download" "404169168"
 			}
 		}
 		"encryptedmanifests"
@@ -308,12 +309,6 @@
 				"size" "E49FAD3C3DFAC53B35E3ED375AAF545E"
 				"download" "D7B0417D990DF942A7BF454E004A146E"
 			}
-			"nightly"
-			{
-				"gid" "5531BC16E46738C88D22CFD1F46455CA"
-				"size" "868BF6C6D360E17C603665DC1B5056C3"
-				"download" "7AF3AE9B2F23145613D70126E9E08417"
-			}
 			"russian"
 			{
 				"gid" "4EF8EACDB2504C8AFDC735800AB89B70"
@@ -325,6 +320,12 @@
 				"gid" "AE8CC5A22A9F6EE9C6F0D7D8B4F2304F"
 				"size" "3F0F3C1AE99B0FB11D75FC619C1C801F"
 				"download" "85C9B406B025A8E8C8CCE35ACC1504C5"
+			}
+			"nightly"
+			{
+				"gid" "073E5633D62B5572CAA03431353DD2CE"
+				"size" "8ED7B9467006A84FBA97812B0F94CCE4"
+				"download" "7FBDF9A21717CF8F4FB01A62653D88D1"
 			}
 		}
 	}
@@ -412,8 +413,8 @@
 	{
 		"public"
 		{
-			"buildid" "12833191"
-			"timeupdated" "1701835080"
+			"buildid" "14920156"
+			"timeupdated" "1720096151"
 		}
 		"armory"
 		{
@@ -463,12 +464,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1635663077"
 		}
-		"nightly"
-		{
-			"buildid" "12833191"
-			"pwdrequired" "1"
-			"timeupdated" "1701298305"
-		}
 		"russian"
 		{
 			"buildid" "5294912"
@@ -480,6 +475,12 @@
 			"buildid" "7918686"
 			"pwdrequired" "1"
 			"timeupdated" "1640061129"
+		}
+		"nightly"
+		{
+			"buildid" "14920156"
+			"pwdrequired" "1"
+			"timeupdated" "1720016679"
 		}
 	}
 }
@@ -502,6 +503,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22921155"
-"_sha" "9849233be51cb7a64a7c018acb46de2ef50d0a94"
-"_size" "9916"
+"_change_number" "24236652"
+"_sha" "df180d0caf14050542008972e05ff91ae182d3c5"
+"_size" "9939"
