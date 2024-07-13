@@ -229,7 +229,7 @@
 		"19" "6426"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -268,9 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "6861190481215867172"
-				"size" "533644363"
-				"download" "169947376"
+				"gid" "2065408382118445587"
+				"size" "533454002"
+				"download" "169893952"
 			}
 		}
 		"encryptedmanifests"
@@ -311,8 +311,8 @@
 	{
 		"public"
 		{
-			"buildid" "15002013"
-			"timeupdated" "1720707142"
+			"buildid" "15023412"
+			"timeupdated" "1720879208"
 		}
 		"devtest2"
 		{
@@ -411,6 +411,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24321963"
-"_sha" "b520eb934ca9ced4898254f0290b4100164e5038"
+"_change_number" "24351092"
+"_sha" "c92d91a95e8e66b55e335933bc2b5283cd9116a1"
 "_size" "7533"
