@@ -189,24 +189,24 @@
 	{
 		"0" "4328"
 		"1" "1662"
-		"2" "220585"
-		"3" "9"
-		"4" "1643"
-		"5" "4168"
-		"6" "599"
-		"7" "4182"
-		"8" "3810"
-		"9" "8945"
-		"10" "12472"
-		"11" "1676"
-		"12" "4175"
-		"13" "1100689"
-		"14" "3916"
-		"15" "9204"
-		"16" "4191"
-		"17" "4598"
-		"18" "1670"
-		"19" "4695"
+		"2" "1676"
+		"3" "9204"
+		"4" "22602"
+		"5" "4791"
+		"6" "1670"
+		"7" "220585"
+		"8" "9"
+		"9" "1643"
+		"10" "4168"
+		"11" "599"
+		"12" "4182"
+		"13" "3810"
+		"14" "8945"
+		"15" "12472"
+		"16" "4172"
+		"17" "4175"
+		"18" "1100689"
+		"19" "3916"
 	}
 	"review_score" "8"
 	"review_percentage" "85"
@@ -241,24 +241,24 @@
 		{
 			"public"
 			{
-				"gid" "7860013542305752309"
-				"size" "3358433351"
-				"download" "1921684464"
-			}
-			"bears"
-			{
-				"gid" "4829833624581717404"
-				"size" "3346448144"
-				"download" "1916965008"
+				"gid" "3648098332655227666"
+				"size" "4928203996"
+				"download" "2155726320"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"contractor"
+			{
+				"gid" "8F7450DED1D0F785BE139722E41A25E1"
+				"size" "933A67C18BC4E226A4EAD60C35733BBB"
+				"download" "ABCB5E9767BBCA9A70CFE7FE7D61A308"
+			}
 			"internal"
 			{
-				"gid" "1FB1F6186DCA9D3B3BAD717B064C46AD"
-				"size" "2432461936C95F1649DD487DF406D458"
-				"download" "EB62E0105DC2B27095925389A2387CCD"
+				"gid" "CFEB1575678C9A7D79DF07EBE132EE35"
+				"size" "3D1A20C55C09FC5468E929B7197E3526"
+				"download" "7C9976DF634E1109B29AA13302AE04C2"
 			}
 		}
 	}
@@ -267,20 +267,20 @@
 	{
 		"public"
 		{
-			"buildid" "14175390"
-			"timeupdated" "1714063105"
+			"buildid" "15080725"
+			"timeupdated" "1721338576"
 		}
-		"bears"
+		"contractor"
 		{
-			"buildid" "14163061"
-			"description" "Bear Mode"
-			"timeupdated" "1713981880"
+			"buildid" "15081084"
+			"pwdrequired" "1"
+			"timeupdated" "1721338286"
 		}
 		"internal"
 		{
-			"buildid" "14168118"
+			"buildid" "15084368"
 			"pwdrequired" "1"
-			"timeupdated" "1714019984"
+			"timeupdated" "1721362417"
 		}
 	}
 }
@@ -304,6 +304,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23302086"
-"_sha" "63cc53e574ac849a68086e1af95f5b8e9b3b245a"
-"_size" "5251"
+"_change_number" "24426330"
+"_sha" "2ce640d08367664a119f6d016107ea56bccc0d60"
+"_size" "5311"
