@@ -104,7 +104,7 @@
 			"height_pct" "54"
 		}
 	}
-	"store_asset_mtime" "1710441361"
+	"store_asset_mtime" "1715622480"
 	"associations"
 	{
 		"0"
@@ -234,26 +234,26 @@
 	"gameid" "386940"
 	"store_tags"
 	{
-		"0" "7108"
-		"1" "3859"
+		"0" "3859"
+		"1" "7108"
 		"2" "1625"
 		"3" "4136"
 		"4" "3841"
-		"5" "7368"
-		"6" "8122"
-		"7" "1775"
-		"8" "3877"
-		"9" "4840"
-		"10" "3843"
-		"11" "597"
-		"12" "3878"
-		"13" "5350"
-		"14" "4036"
-		"15" "3871"
-		"16" "4726"
-		"17" "4195"
+		"5" "7178"
+		"6" "1775"
+		"7" "7368"
+		"8" "8122"
+		"9" "3877"
+		"10" "4840"
+		"11" "3843"
+		"12" "597"
+		"13" "3878"
+		"14" "5350"
+		"15" "4036"
+		"16" "3871"
+		"17" "4726"
 		"18" "19"
-		"19" "492"
+		"19" "5379"
 	}
 	"review_score" "9"
 	"review_percentage" "95"
@@ -355,7 +355,7 @@
 				"size" "6"
 				"download" "64"
 			}
-			"previousversion"
+			"online-fixes"
 			{
 				"gid" "819494070590847490"
 				"size" "6"
@@ -412,12 +412,6 @@
 				"size" "27AA6B822AB0967F47B91FF359E6E1F9"
 				"download" "A8B5E9EC944605F66FF4E758134334B1"
 			}
-			"privatebeta"
-			{
-				"gid" "8FAF3BB0EC816F7CE872B6D3F24AE7A5"
-				"size" "93F0EEC121386D4FC8A2F9028B6DE852"
-				"download" "AE2AE45F8F26577E391C55464D8C45BB"
-			}
 			"privatebetawithdebug"
 			{
 				"gid" "A27485A36D03D6CE944D98C41BC493E9"
@@ -454,6 +448,18 @@
 				"size" "0BEC1D33CB25E441ECA31573A86F722C"
 				"download" "DB66486098CED00AC742606931E3CD84"
 			}
+			"privatebeta"
+			{
+				"gid" "8FAF3BB0EC816F7CE872B6D3F24AE7A5"
+				"size" "93F0EEC121386D4FC8A2F9028B6DE852"
+				"download" "AE2AE45F8F26577E391C55464D8C45BB"
+			}
+			"streaming_panda"
+			{
+				"gid" "3E669B22A23E18A797DE380E921C6214"
+				"size" "B4B6126443DF9C5DE33EC0E1D37AB928"
+				"download" "BC1370E3FD5F9A89164FA0331677C4F0"
+			}
 		}
 	}
 	"386942"
@@ -467,9 +473,9 @@
 		{
 			"public"
 			{
-				"gid" "7258797834174948784"
-				"size" "1871482997"
-				"download" "613441040"
+				"gid" "3809156757754413550"
+				"size" "2183943234"
+				"download" "726316784"
 			}
 			"mac_input_fix"
 			{
@@ -477,11 +483,11 @@
 				"size" "1871359269"
 				"download" "613374816"
 			}
-			"previousversion"
+			"online-fixes"
 			{
-				"gid" "7387537396490729250"
-				"size" "1865663464"
-				"download" "612381088"
+				"gid" "4426958378491955095"
+				"size" "2183893602"
+				"download" "726323072"
 			}
 		}
 		"encryptedmanifests"
@@ -534,12 +540,6 @@
 				"size" "C427EC44EF6259E0C01D83E1DE73D6F1"
 				"download" "88F34733DBDB63E7C82078306EBE63DF"
 			}
-			"privatebeta"
-			{
-				"gid" "30350A54080475FF88B1277339EB60E0"
-				"size" "87377F35E3FA0E953696AE056393DD27"
-				"download" "3F373A047B5E20CFB330C3FF7EB2E126"
-			}
 			"privatebetawithdebug"
 			{
 				"gid" "5A1AE2688EA312E7F689AE75D386D066"
@@ -576,6 +576,18 @@
 				"size" "C218A5EB24E3422BE40569CEBF5D386D"
 				"download" "710DFB961D4DB41E2D889EA1885E9693"
 			}
+			"privatebeta"
+			{
+				"gid" "284D956F46C8E830C6E2FEEE8C2BF645"
+				"size" "0779803682A3071AE12835B9DDB4221F"
+				"download" "DD4F6556A81A719B951593018B97AE6F"
+			}
+			"streaming_panda"
+			{
+				"gid" "D8AA95904699CBCDDFFF7649D3A077E0"
+				"size" "1A447D24DE97E6FC2FC5EE6DFBC23927"
+				"download" "49425FAC358943289788E14D076D365E"
+			}
 		}
 	}
 	"386943"
@@ -588,9 +600,9 @@
 		{
 			"public"
 			{
-				"gid" "1310976168932168874"
-				"size" "1908547320"
-				"download" "621834640"
+				"gid" "8055098452350029857"
+				"size" "2221932671"
+				"download" "734872192"
 			}
 			"mac_input_fix"
 			{
@@ -598,11 +610,11 @@
 				"size" "1908919570"
 				"download" "621900160"
 			}
-			"previousversion"
+			"online-fixes"
 			{
-				"gid" "9099903074585229395"
-				"size" "1903338062"
-				"download" "621028528"
+				"gid" "2298774592664681860"
+				"size" "2221883039"
+				"download" "734871024"
 			}
 		}
 		"encryptedmanifests"
@@ -655,12 +667,6 @@
 				"size" "50BD5E8B0BC7F629A8AAA57B0F667DB5"
 				"download" "AE1095437B633701D8A9B0C037DB2E0F"
 			}
-			"privatebeta"
-			{
-				"gid" "77926A9813381B70335E0AB27AA82690"
-				"size" "02589CC300FF63CD8F94DF4D34D40426"
-				"download" "8C840398C4379F2A53F694E51BFC48B4"
-			}
 			"privatebetawithdebug"
 			{
 				"gid" "ADDEE4DB5B0386BB4696AA0E89F479A4"
@@ -697,6 +703,18 @@
 				"size" "440F8CAE004D37739E2A849D9DDDE444"
 				"download" "CB2702E7A44BB37D5B889FB77A88990B"
 			}
+			"privatebeta"
+			{
+				"gid" "A6580D255E338F13022C4DCFD4890B83"
+				"size" "B975D4C595D68CC93747DB5F8CB6454D"
+				"download" "395B4A1A0FF1A30E75DE1544FEE865A6"
+			}
+			"streaming_panda"
+			{
+				"gid" "4A41666AEFFAC84AEEF4CF3CBC678FD3"
+				"size" "151739E48636E4EAF054713395DAC4E9"
+				"download" "A9EE394BC18236F566FDF5760D0C6679"
+			}
 		}
 	}
 	"386944"
@@ -709,9 +727,9 @@
 		{
 			"public"
 			{
-				"gid" "7586292482177130326"
-				"size" "1912473851"
-				"download" "613371728"
+				"gid" "2259178326577677740"
+				"size" "2225525143"
+				"download" "726347856"
 			}
 			"mac_input_fix"
 			{
@@ -719,11 +737,11 @@
 				"size" "1912530363"
 				"download" "613382560"
 			}
-			"previousversion"
+			"online-fixes"
 			{
-				"gid" "3762164674046719930"
-				"size" "1907419256"
-				"download" "612588640"
+				"gid" "2778063160963917943"
+				"size" "2225475511"
+				"download" "726345520"
 			}
 		}
 		"encryptedmanifests"
@@ -776,12 +794,6 @@
 				"size" "00D3ABA78C4F8F58108A4E2145EDE7F2"
 				"download" "020CA16ABEDE24241FDE1CA1913A9832"
 			}
-			"privatebeta"
-			{
-				"gid" "73361DBEED453AD52FAD7930FEEBD210"
-				"size" "38541FBB86AD33A9679F293078318F37"
-				"download" "F48B77A59AFE2CD80790616FBD79B40A"
-			}
 			"privatebetawithdebug"
 			{
 				"gid" "73E937198E7352FD2E1D6486A06C381F"
@@ -818,6 +830,18 @@
 				"size" "0E248EE171BEBB1D95ADD96739C50784"
 				"download" "E3C6ECE8D46429AE14495B0D8E8ADC6A"
 			}
+			"privatebeta"
+			{
+				"gid" "31936DD1AB8C8EC6781B2843FE55CF9E"
+				"size" "097CFB906FBC7390663402E3F0DEDC19"
+				"download" "356ECC9334632F97E95E2DEFEFC9B0A5"
+			}
+			"streaming_panda"
+			{
+				"gid" "7ACD959E2B4C9E7D4DDE7C58AD154FCE"
+				"size" "4474E2409580F7161F01BD609FBCCC9E"
+				"download" "72100876DC7C83DA36457CF8A5400AD9"
+			}
 		}
 	}
 	"386945"
@@ -831,9 +855,9 @@
 		{
 			"public"
 			{
-				"gid" "1958669811393417836"
-				"size" "1862340461"
-				"download" "610663152"
+				"gid" "3736500402373036818"
+				"size" "2174850362"
+				"download" "723553824"
 			}
 			"mac_input_fix"
 			{
@@ -841,11 +865,11 @@
 				"size" "1862266397"
 				"download" "610607952"
 			}
-			"previousversion"
+			"online-fixes"
 			{
-				"gid" "7922263534534443699"
-				"size" "1856522464"
-				"download" "609603712"
+				"gid" "2808105220566564620"
+				"size" "2174800730"
+				"download" "723553104"
 			}
 		}
 		"encryptedmanifests"
@@ -898,12 +922,6 @@
 				"size" "EBFB784C901003716AF88921866CE7CF"
 				"download" "3BE395A2314D2EDBAA28469F57EEBB9D"
 			}
-			"privatebeta"
-			{
-				"gid" "A67E368D3030C73E45E47C31B182EECB"
-				"size" "4547FF6134FD26DDC5874F5663B1E666"
-				"download" "B37049D645D7187F667446A849F11249"
-			}
 			"privatebetawithdebug"
 			{
 				"gid" "C8D4644C4EC5BC87176F658E7AFF39F3"
@@ -940,14 +958,26 @@
 				"size" "4FEC78ED5CAA256FB3DB48BAD9462021"
 				"download" "C473238AD6CBB364311E810288FB5CC2"
 			}
+			"privatebeta"
+			{
+				"gid" "80873CF1B5FEF5B79F74FE8A1AD9CABD"
+				"size" "906242C8A1006B5D8160302A53FA53D3"
+				"download" "106921C130E394A09F3D01318E47BB7E"
+			}
+			"streaming_panda"
+			{
+				"gid" "6CED4D4C4371D160D662BA081FE2FAFF"
+				"size" "80705DD20AC4B2039773B5A8CA04B695"
+				"download" "680C6BF4B3F80D98702E243C70FCB46E"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "12074760"
-			"timeupdated" "1693485701"
+			"buildid" "14630387"
+			"timeupdated" "1717703740"
 		}
 		"audio"
 		{
@@ -1003,18 +1033,6 @@
 			"description" "Test fix for the mac controllers"
 			"timeupdated" "1699990508"
 		}
-		"previousversion"
-		{
-			"buildid" "11200160"
-			"description" "Previous version of the game"
-			"timeupdated" "1692109407"
-		}
-		"privatebeta"
-		{
-			"buildid" "13711440"
-			"pwdrequired" "1"
-			"timeupdated" "1710231649"
-		}
 		"privatebetawithdebug"
 		{
 			"buildid" "6946348"
@@ -1050,6 +1068,24 @@
 			"buildid" "13171658"
 			"pwdrequired" "1"
 			"timeupdated" "1705329722"
+		}
+		"online-fixes"
+		{
+			"buildid" "14536422"
+			"description" "Branch for testing online fixes"
+			"timeupdated" "1717002431"
+		}
+		"privatebeta"
+		{
+			"buildid" "14630387"
+			"pwdrequired" "1"
+			"timeupdated" "1717702533"
+		}
+		"streaming_panda"
+		{
+			"buildid" "14351943"
+			"pwdrequired" "1"
+			"timeupdated" "1715618108"
 		}
 	}
 }
@@ -1682,6 +1718,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22768478"
-"_sha" "df3d7472329b8bd4be3217cd306cd53f09a461bc"
-"_size" "48053"
+"_change_number" "23861837"
+"_sha" "c7ccc5fde797fa3d1c851e6808b9c8d63b5a18c9"
+"_size" "49056"
