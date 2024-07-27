@@ -28,7 +28,7 @@
 	}
 	"gameid" "222860"
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -67,9 +67,9 @@
 		{
 			"public"
 			{
-				"gid" "4874268565672104380"
-				"size" "9541755776"
-				"download" "4642147120"
+				"gid" "2809963246637360369"
+				"size" "9549154681"
+				"download" "4643088432"
 			}
 		}
 		"encryptedmanifests"
@@ -104,9 +104,9 @@
 		{
 			"public"
 			{
-				"gid" "910083824331287331"
+				"gid" "4517500774301325669"
 				"size" "161511741"
-				"download" "57338944"
+				"download" "57335840"
 			}
 		}
 		"encryptedmanifests"
@@ -141,9 +141,9 @@
 		{
 			"public"
 			{
-				"gid" "7843884094647682020"
+				"gid" "8380353631829239189"
 				"size" "241001786"
-				"download" "70348272"
+				"download" "70347776"
 			}
 		}
 		"encryptedmanifests"
@@ -174,8 +174,8 @@
 	{
 		"public"
 		{
-			"buildid" "14822615"
-			"timeupdated" "1719341409"
+			"buildid" "15163087"
+			"timeupdated" "1722030182"
 		}
 		"beta"
 		{
@@ -198,6 +198,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24114781"
-"_sha" "5e7c4543afd38551142c1acc8e7765fe2808b7b6"
-"_size" "3812"
+"_change_number" "24531972"
+"_sha" "83da315ac41ea7540e3686033c1b891a006c85f9"
+"_size" "3813"
