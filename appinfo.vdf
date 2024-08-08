@@ -278,7 +278,7 @@
 		}
 		"3"
 		{
-			"executable" "Draw&Guess.exe"
+			"executable" "legacy/Draw&Guess.exe"
 			"type" "option1"
 			"config"
 			{
@@ -294,7 +294,7 @@
 		}
 		"4"
 		{
-			"executable" "Draw&Guess"
+			"executable" "legacy/Draw&Guess"
 			"type" "option1"
 			"config"
 			{
@@ -310,7 +310,7 @@
 		}
 		"5"
 		{
-			"executable" "Draw&Guess.app"
+			"executable" "legacy/Draw&Guess.app"
 			"type" "option1"
 			"config"
 			{
@@ -324,6 +324,7 @@
 			"description" "Draw & Guess (Legacy)"
 		}
 	}
+	"uselaunchcommandline" "1"
 }
 "depots"
 {
@@ -338,18 +339,24 @@
 		{
 			"public"
 			{
-				"gid" "2681322508194669053"
-				"size" "600800678"
-				"download" "397923600"
+				"gid" "6787620807694257848"
+				"size" "600817152"
+				"download" "397924736"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"linuxrevive"
+			{
+				"gid" "73B16D3D5E6C4ADFED8F202DDBADE036"
+				"size" "643F9754AA9FDC063D06E97A958E9DDB"
+				"download" "C435FD9B7295DB3C1D1D026F55782537"
+			}
 			"revamp"
 			{
-				"gid" "43F7D7A05980CBE3AB0D29636D07C9C2"
-				"size" "F9C7E9B0927C82C3DB5A8996F7FBF8FC"
-				"download" "275FA3745114B4ED1E92C2E9C299B43D"
+				"gid" "7E45555DDE0D4E9CB7029AE10572EAA8"
+				"size" "FEDE27A19BB6FBF9E010B4521CBA5957"
+				"download" "7C0E9700844BC602D54C29728C9AE33B"
 			}
 		}
 	}
@@ -363,18 +370,24 @@
 		{
 			"public"
 			{
-				"gid" "244431330406609655"
-				"size" "692990381"
-				"download" "399768176"
+				"gid" "3670902779954060284"
+				"size" "693006469"
+				"download" "399772336"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"linuxrevive"
+			{
+				"gid" "0C4AF21B7803033FC741B73CA0FE85AA"
+				"size" "AFCDF2C5A205AA48E8890A4EEF158F2C"
+				"download" "69A3921265351D5F2D1F44219B35C16D"
+			}
 			"revamp"
 			{
-				"gid" "9626A4563EEACF6EF756093FF7ECCC98"
-				"size" "02C8F9F77FDB0C03EA1B77097D4C3539"
-				"download" "3545EFA8B90FF99D39F791238B66B76C"
+				"gid" "1AB87A27B054F389D1098BC4D3B793C0"
+				"size" "2C2B67E20C1D47EEF419C0731F439844"
+				"download" "7E6752BEF4A9D25D079CF4DF31F65286"
 			}
 		}
 	}
@@ -388,18 +401,24 @@
 		{
 			"public"
 			{
-				"gid" "2777102090141785860"
-				"size" "652755611"
-				"download" "407420432"
+				"gid" "1531057108763452897"
+				"size" "630183360"
+				"download" "402900400"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"linuxrevive"
+			{
+				"gid" "6849EEEDB400336857FCE0A02A6A2E27"
+				"size" "0C71136EA6D09600379F7D5154DBB725"
+				"download" "C33411434EA1D9D916E55F4B7700F0F0"
+			}
 			"revamp"
 			{
-				"gid" "B0432193FDC147331934CCBDF167D572"
-				"size" "75DDB5873BE79CB48E37AA8405ABC4B0"
-				"download" "F9A7B99F0A38F7C72DF834FF4B33E8CC"
+				"gid" "B01C6C1EB06B20D040D6CA242863C38B"
+				"size" "3C5A3FB00CF6C2B400CBA85E7A2E6F7C"
+				"download" "B661B79A3D48D2E68FF00CD039CDE10E"
 			}
 		}
 	}
@@ -408,18 +427,24 @@
 	{
 		"public"
 		{
-			"buildid" "15294185"
-			"timeupdated" "1723055209"
+			"buildid" "15304351"
+			"timeupdated" "1723120863"
+		}
+		"linuxrevive"
+		{
+			"buildid" "15304351"
+			"pwdrequired" "1"
+			"timeupdated" "1723120222"
 		}
 		"revamp"
 		{
-			"buildid" "15294185"
+			"buildid" "15307110"
 			"pwdrequired" "1"
-			"timeupdated" "1723054963"
+			"timeupdated" "1723134353"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "24690172"
-"_sha" "6cacae4fa2bb728ed14a34c35d5faba46e56f9a9"
-"_size" "7644"
+"_change_number" "24705886"
+"_sha" "0b30d7da0c83f8e4551400024f4fce744bf85ef4"
+"_size" "8335"
