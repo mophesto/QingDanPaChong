@@ -222,18 +222,18 @@
 		{
 			"public"
 			{
-				"gid" "8750335143014412783"
-				"size" "801030455"
-				"download" "193197120"
+				"gid" "5791619248629518166"
+				"size" "801021731"
+				"download" "193214640"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "01EEFE76CE759E714268A15ED122638F"
-				"size" "DD5DF0EDBC009EE77230CDE57EC39490"
-				"download" "58A9238D9DB18C9E067B1160D22AA873"
+				"gid" "52EF1AF64BD9920191C08EE2EFFC5CD9"
+				"size" "97B18035B09A00B6B85884425C22A978"
+				"download" "74FCF3DEBB74758EB1CF4D300D188C4C"
 			}
 		}
 	}
@@ -247,18 +247,18 @@
 		{
 			"public"
 			{
-				"gid" "2523517486612503682"
-				"size" "841637125"
-				"download" "193508992"
+				"gid" "6412865116369949921"
+				"size" "841628401"
+				"download" "193557536"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "0F4F50CCFC47919E932797C288C3D719"
-				"size" "AD11398CCB81B3F9A4EC3538B8E2A280"
-				"download" "74619132F37EE1D34D11CBC41D4385DC"
+				"gid" "16CCCB3A3C81B2598DC221F7BF219FDC"
+				"size" "1E07B185571F7B4E32157B38BFF6FCC1"
+				"download" "60B7944806B592880A456DE7C275C022"
 			}
 		}
 	}
@@ -266,14 +266,14 @@
 	{
 		"public"
 		{
-			"buildid" "15345725"
-			"timeupdated" "1723489124"
+			"buildid" "15356650"
+			"timeupdated" "1723563642"
 		}
 		"beta"
 		{
-			"buildid" "15345750"
+			"buildid" "15356785"
 			"pwdrequired" "1"
-			"timeupdated" "1723489098"
+			"timeupdated" "1723566185"
 		}
 	}
 }
@@ -326,6 +326,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24754881"
-"_sha" "2b58d25d96b5a9bbaba32f52a9bff75d482104a5"
+"_change_number" "24769585"
+"_sha" "053908dad6f19a1b0527faebcd082666784d7577"
 "_size" "5512"
