@@ -498,9 +498,9 @@
 		{
 			"public"
 			{
-				"gid" "6836385815903505528"
-				"size" "8522259534"
-				"download" "3787869472"
+				"gid" "4520064850742352115"
+				"size" "8564033105"
+				"download" "3779332880"
 			}
 		}
 		"encryptedmanifests"
@@ -723,9 +723,9 @@
 		{
 			"public"
 			{
-				"gid" "5795443765205168189"
-				"size" "41361359949"
-				"download" "19440234608"
+				"gid" "5088502083496026728"
+				"size" "41307218876"
+				"download" "19446258256"
 			}
 		}
 		"encryptedmanifests"
@@ -822,9 +822,9 @@
 		{
 			"public"
 			{
-				"gid" "4192664280844513563"
-				"size" "484688992"
-				"download" "124113952"
+				"gid" "1657451746862689781"
+				"size" "484759136"
+				"download" "124131184"
 			}
 		}
 		"encryptedmanifests"
@@ -871,9 +871,9 @@
 		{
 			"public"
 			{
-				"gid" "429078361786041057"
-				"size" "1417396548"
-				"download" "586387664"
+				"gid" "5224560217875984696"
+				"size" "1417462156"
+				"download" "586398640"
 			}
 		}
 		"encryptedmanifests"
@@ -965,9 +965,9 @@
 		{
 			"public"
 			{
-				"gid" "2098938594487062514"
-				"size" "1484028411"
-				"download" "586410960"
+				"gid" "3230329791893704409"
+				"size" "1484216795"
+				"download" "586579120"
 			}
 		}
 		"encryptedmanifests"
@@ -1213,9 +1213,9 @@
 		{
 			"public"
 			{
-				"gid" "3455630623672188852"
-				"size" "13388338454"
-				"download" "4216915632"
+				"gid" "7873160429983072746"
+				"size" "13388344583"
+				"download" "4216914544"
 			}
 		}
 		"encryptedmanifests"
@@ -1397,8 +1397,8 @@
 	{
 		"public"
 		{
-			"buildid" "15535869"
-			"timeupdated" "1724960704"
+			"buildid" "15550684"
+			"timeupdated" "1725065279"
 		}
 		"old_build_test"
 		{
@@ -5904,6 +5904,7 @@
 				"#npc_dota_hero_rattletrap" "Clockwerk"
 				"#npc_dota_hero_razor" "Razor"
 				"#npc_dota_hero_riki" "Riki"
+				"#npc_dota_hero_ringmaster" "Ringmaster"
 				"#npc_dota_hero_rubick" "Rubick"
 				"#npc_dota_hero_sand_king" "Sand King"
 				"#npc_dota_hero_shadow_demon" "Shadow Demon"
@@ -7664,6 +7665,7 @@
 				"#npc_dota_hero_rattletrap" "發條技師"
 				"#npc_dota_hero_razor" "剃刀"
 				"#npc_dota_hero_riki" "力丸"
+				"#npc_dota_hero_ringmaster" "魔戲團長"
 				"#npc_dota_hero_rubick" "拉比克"
 				"#npc_dota_hero_sand_king" "沙王"
 				"#npc_dota_hero_shadow_demon" "暗影惡魔"
@@ -8780,6 +8782,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25002212"
-"_sha" "ce5dd791c634bc2a9c94de70f00a6925c1cf0728"
-"_size" "396097"
+"_change_number" "25019953"
+"_sha" "5dbd036327377f37355fc857ec62f8cd5ee89646"
+"_size" "396194"
