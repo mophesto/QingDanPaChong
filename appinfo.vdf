@@ -118,6 +118,55 @@
 			"height_pct" "46"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35"
+				"height_pct" "46"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1719449857"
 	"associations"
 	{
@@ -237,19 +286,19 @@
 		"2" "3859"
 		"3" "1695"
 		"4" "1100689"
-		"5" "1732"
-		"6" "7332"
+		"5" "7332"
+		"6" "1732"
 		"7" "3835"
 		"8" "3843"
 		"9" "1643"
 		"10" "3834"
 		"11" "3810"
-		"12" "599"
-		"13" "1663"
+		"12" "1663"
+		"13" "599"
 		"14" "4747"
 		"15" "9"
-		"16" "1645"
-		"17" "19"
+		"16" "19"
+		"17" "1645"
 		"18" "5125"
 		"19" "1667"
 	}
@@ -433,21 +482,21 @@
 		{
 			"public"
 			{
-				"gid" "1246687066768620699"
-				"size" "20687327117"
-				"download" "13509315344"
+				"gid" "9041223685991769906"
+				"size" "20687353483"
+				"download" "13509612704"
 			}
 			"latest_experimental"
 			{
-				"gid" "1246687066768620699"
-				"size" "20687327117"
-				"download" "13509315344"
+				"gid" "829098154835774632"
+				"size" "20694347675"
+				"download" "13508960752"
 			}
 			"v1.0"
 			{
-				"gid" "1246687066768620699"
-				"size" "20687327117"
-				"download" "13509315344"
+				"gid" "9041223685991769906"
+				"size" "20687353483"
+				"download" "13509612704"
 			}
 			"alpha21.2"
 			{
@@ -550,15 +599,15 @@
 		{
 			"testing_trunk"
 			{
-				"gid" "7C1EC3BCA8C179D330CC7D72638FED98"
-				"size" "D16615A54D6EE41F9862AF13EE213BE0"
-				"download" "48EDA7FFB1786E5E91304F10827835DB"
+				"gid" "18E592F936CE4DA000F04DF2BB1BED48"
+				"size" "D863851295E4106C6E886D1CAC58DC86"
+				"download" "181DA257822CE0371BE2B4E7651DFAF1"
 			}
 			"testing_branch"
 			{
-				"gid" "FC7EA5242EC3C8D294B7F94DD80CF995"
-				"size" "AA8976A02982A8222E30DC09ADEF02A1"
-				"download" "F6CA245DD0D728563EC7C620841192C7"
+				"gid" "C387D9130468952B395E5E0E116708B5"
+				"size" "B9829D6106FED10A20D2EC98FBF52CFF"
+				"download" "F1A829F1DB51424D161901465F3FBC1C"
 			}
 			"testing_branch_alt"
 			{
@@ -584,21 +633,21 @@
 		{
 			"public"
 			{
-				"gid" "4411618925338179636"
-				"size" "20484368758"
-				"download" "13416216768"
+				"gid" "4708207484780144264"
+				"size" "20484433873"
+				"download" "13416320528"
 			}
 			"latest_experimental"
 			{
-				"gid" "4411618925338179636"
-				"size" "20484368758"
-				"download" "13416216768"
+				"gid" "1993686405959769529"
+				"size" "20491081975"
+				"download" "13416776928"
 			}
 			"v1.0"
 			{
-				"gid" "4411618925338179636"
-				"size" "20484368758"
-				"download" "13416216768"
+				"gid" "4708207484780144264"
+				"size" "20484433873"
+				"download" "13416320528"
 			}
 			"alpha21.2"
 			{
@@ -701,15 +750,15 @@
 		{
 			"testing_trunk"
 			{
-				"gid" "C328873C4E793BC42DF577E20699BAE0"
-				"size" "A7A532C1A1EE5D04E395489BFCCBC002"
-				"download" "DC9642283312553C8175A423E47043FB"
+				"gid" "F14425AA2E1658385383CC1DDCC548CA"
+				"size" "CB02F521EB303C7423FA846A4C79D80F"
+				"download" "10A8915DCA98F2F1765D561493F92DE0"
 			}
 			"testing_branch"
 			{
-				"gid" "4ECFDB4E258140B3F75A6838278A8B15"
-				"size" "0912C8A13A963D91185ABE009CB69781"
-				"download" "1056DFB3DA1E3F086B45BCF13621E597"
+				"gid" "21F44F1DE9ADB9B53AE7BDEFB0144C2D"
+				"size" "16A46D195B1B32AE4AFBAC3DA3EDBE07"
+				"download" "01F53B7035CD3C090A0279C909F383FB"
 			}
 			"testing_branch_alt"
 			{
@@ -735,21 +784,21 @@
 		{
 			"public"
 			{
-				"gid" "6302227305402434055"
-				"size" "20671586390"
-				"download" "13479159024"
+				"gid" "4662460455840960371"
+				"size" "20671655213"
+				"download" "13479619712"
 			}
 			"latest_experimental"
 			{
-				"gid" "6302227305402434055"
-				"size" "20671586390"
-				"download" "13479159024"
+				"gid" "1594288487610664244"
+				"size" "20678927684"
+				"download" "13479617744"
 			}
 			"v1.0"
 			{
-				"gid" "6302227305402434055"
-				"size" "20671586390"
-				"download" "13479159024"
+				"gid" "4662460455840960371"
+				"size" "20671655213"
+				"download" "13479619712"
 			}
 			"alpha21.2"
 			{
@@ -852,15 +901,15 @@
 		{
 			"testing_trunk"
 			{
-				"gid" "03A8638F048D5F20553E886C90817646"
-				"size" "1FD2E52487DB66E7A11B23F23822B2EB"
-				"download" "4D0D39D15EFABC34666FAA6A494BF8B1"
+				"gid" "B3E847B8DDD4F74A27B7E1D67C1B58D5"
+				"size" "6C45CD91487713DE8139ECAE8D8B682C"
+				"download" "8A6BD5BB85A823DEF785AFAE369008E4"
 			}
 			"testing_branch"
 			{
-				"gid" "759169DA84114DF265D83057F1390E67"
-				"size" "24551620B00CE6ECB4CC5CF9CF138FD8"
-				"download" "41CEAE9B7D286E0CC3A6FAA461F48F30"
+				"gid" "8E8FD4F13FF1DC0DC6D47DA1E3594CDD"
+				"size" "94BEE7B0F873C2018677BBF4005B849F"
+				"download" "081CAF8964CEE9702159F44F2D6CE5EE"
 			}
 			"testing_branch_alt"
 			{
@@ -1027,32 +1076,32 @@
 	{
 		"public"
 		{
-			"buildid" "15145898"
-			"timeupdated" "1721925581"
+			"buildid" "15378400"
+			"timeupdated" "1723735140"
 		}
 		"testing_trunk"
 		{
-			"buildid" "15191846"
+			"buildid" "15550731"
 			"pwdrequired" "1"
-			"timeupdated" "1722291822"
+			"timeupdated" "1725064329"
 		}
 		"testing_branch"
 		{
-			"buildid" "15188191"
+			"buildid" "15404339"
 			"pwdrequired" "1"
-			"timeupdated" "1722268125"
+			"timeupdated" "1723888076"
 		}
 		"latest_experimental"
 		{
-			"buildid" "15145898"
+			"buildid" "15287296"
 			"description" "Unstable build"
-			"timeupdated" "1721887317"
+			"timeupdated" "1723073718"
 		}
 		"v1.0"
 		{
-			"buildid" "15145898"
+			"buildid" "15378400"
 			"description" "Version 1.0 Stable"
-			"timeupdated" "1721891718"
+			"timeupdated" "1723735102"
 		}
 		"alpha21.2"
 		{
@@ -1176,6 +1225,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24563200"
-"_sha" "176d416628ba79633dee1aea57b8e63973568bbb"
-"_size" "22894"
+"_change_number" "25019850"
+"_sha" "1a4578627c9690fd80bcf3af4d4e963311dc4189"
+"_size" "23578"
