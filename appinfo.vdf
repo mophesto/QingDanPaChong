@@ -78,6 +78,40 @@
 			"height_pct" "36"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "31"
+				"height_pct" "36"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1494439094"
 	"associations"
 	{
@@ -107,6 +141,7 @@
 		"category_17" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -136,9 +171,9 @@
 		"11" "1708"
 		"12" "9"
 		"13" "492"
-		"14" "3968"
+		"14" "1669"
 		"15" "599"
-		"16" "1669"
+		"16" "3968"
 		"17" "4175"
 		"18" "4166"
 		"19" "21"
@@ -384,9 +419,9 @@
 		{
 			"public"
 			{
-				"gid" "3921846046732476867"
-				"size" "1940227076"
-				"download" "631356864"
+				"gid" "5594148554274595620"
+				"size" "1992872044"
+				"download" "665518816"
 			}
 			"legacy-ea25"
 			{
@@ -400,17 +435,17 @@
 				"size" "1508527855"
 				"download" "525250880"
 			}
-			"ravenm-compatible"
-			{
-				"gid" "535952217990928218"
-				"size" "1876473353"
-				"download" "611935072"
-			}
 			"beta"
 			{
-				"gid" "8029601015302170773"
-				"size" "1992849876"
-				"download" "665505568"
+				"gid" "5594148554274595620"
+				"size" "1992872044"
+				"download" "665518816"
+			}
+			"ravenm-compatible"
+			{
+				"gid" "3921846046732476867"
+				"size" "1940227076"
+				"download" "631356864"
 			}
 		}
 		"encryptedmanifests"
@@ -440,9 +475,9 @@
 		{
 			"public"
 			{
-				"gid" "2126238881521803023"
-				"size" "1937287422"
-				"download" "630147552"
+				"gid" "6046542363243417937"
+				"size" "1989932390"
+				"download" "664454352"
 			}
 			"legacy-ea25"
 			{
@@ -456,17 +491,17 @@
 				"size" "1504955119"
 				"download" "523409520"
 			}
-			"ravenm-compatible"
-			{
-				"gid" "8755771031943156044"
-				"size" "1873539851"
-				"download" "610733680"
-			}
 			"beta"
 			{
-				"gid" "1135168011553903699"
-				"size" "1989910222"
-				"download" "664441456"
+				"gid" "6046542363243417937"
+				"size" "1989932390"
+				"download" "664454352"
+			}
+			"ravenm-compatible"
+			{
+				"gid" "2126238881521803023"
+				"size" "1937287422"
+				"download" "630147552"
 			}
 		}
 		"encryptedmanifests"
@@ -495,9 +530,9 @@
 		{
 			"public"
 			{
-				"gid" "8357851976633760251"
-				"size" "1943667447"
-				"download" "639610064"
+				"gid" "1359403156121038595"
+				"size" "1996351095"
+				"download" "674153936"
 			}
 			"legacy-ea25"
 			{
@@ -511,17 +546,17 @@
 				"size" "1512047487"
 				"download" "529690736"
 			}
-			"ravenm-compatible"
-			{
-				"gid" "53206852052873979"
-				"size" "1879711910"
-				"download" "620088512"
-			}
 			"beta"
 			{
-				"gid" "967319252930740093"
-				"size" "1996328927"
-				"download" "674137408"
+				"gid" "1359403156121038595"
+				"size" "1996351095"
+				"download" "674153936"
+			}
+			"ravenm-compatible"
+			{
+				"gid" "8357851976633760251"
+				"size" "1943667447"
+				"download" "639610064"
 			}
 		}
 		"encryptedmanifests"
@@ -550,9 +585,9 @@
 		{
 			"public"
 			{
-				"gid" "7259707960189215060"
-				"size" "1993620672"
-				"download" "646969232"
+				"gid" "992388466436561328"
+				"size" "2046569000"
+				"download" "680746240"
 			}
 			"legacy-ea25"
 			{
@@ -566,17 +601,17 @@
 				"size" "1561888690"
 				"download" "538656256"
 			}
-			"ravenm-compatible"
-			{
-				"gid" "2211830728400371946"
-				"size" "1929250608"
-				"download" "627014720"
-			}
 			"beta"
 			{
-				"gid" "4265377508138986023"
-				"size" "2046547344"
-				"download" "680727584"
+				"gid" "992388466436561328"
+				"size" "2046569000"
+				"download" "680746240"
+			}
+			"ravenm-compatible"
+			{
+				"gid" "7259707960189215060"
+				"size" "1993620672"
+				"download" "646969232"
 			}
 		}
 		"encryptedmanifests"
@@ -600,8 +635,8 @@
 	{
 		"public"
 		{
-			"buildid" "12790037"
-			"timeupdated" "1701100073"
+			"buildid" "14428568"
+			"timeupdated" "1716211114"
 		}
 		"debug"
 		{
@@ -627,17 +662,17 @@
 			"description" "EA26 running on Unity 2020.3"
 			"timeupdated" "1695201173"
 		}
-		"ravenm-compatible"
-		{
-			"buildid" "11954317"
-			"description" "Latest game version confirmed compatible with RavenM"
-			"timeupdated" "1695201203"
-		}
 		"beta"
 		{
-			"buildid" "14161208"
+			"buildid" "14428568"
 			"description" "Latest builds, might be buggy!!!"
-			"timeupdated" "1713971716"
+			"timeupdated" "1716210927"
+		}
+		"ravenm-compatible"
+		{
+			"buildid" "12790037"
+			"description" "Latest game version confirmed compatible with RavenM"
+			"timeupdated" "1715706874"
 		}
 	}
 }
@@ -647,6 +682,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "23285132"
-"_sha" "cc186edf28cbb39f6c6451ae21e8dce41820b51a"
-"_size" "12497"
+"_change_number" "24981165"
+"_sha" "ba1d13dcece25d29b9b4e411263f5961a15ea5c5"
+"_size" "12995"
