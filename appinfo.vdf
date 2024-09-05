@@ -48,7 +48,7 @@
 			"id" "284160_eula_1"
 			"name" "BeamNG.drive EULA 1"
 			"url" "http://store.steampowered.com//eula/284160_eula_1"
-			"version" "2"
+			"version" "3"
 		}
 	}
 	"steam_deck_compatibility"
@@ -122,6 +122,55 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "28.533118909810625"
 			"height_pct" "22.801284248926862"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.533118909810625"
+				"height_pct" "22.801284248926862"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
 		}
 	}
 	"store_asset_mtime" "1709017444"
@@ -223,8 +272,8 @@
 	{
 		"0" "599"
 		"1" "1644"
-		"2" "3968"
-		"3" "4175"
+		"2" "4175"
+		"3" "3968"
 		"4" "5363"
 		"5" "1100687"
 		"6" "1695"
@@ -236,8 +285,8 @@
 		"12" "493"
 		"13" "3839"
 		"14" "1697"
-		"15" "3834"
-		"16" "4136"
+		"15" "4136"
+		"16" "3834"
 		"17" "19"
 		"18" "21"
 		"19" "15045"
@@ -298,6 +347,21 @@
 			}
 			"description" "BeamNG.drive (Windows)"
 		}
+		"3"
+		{
+			"executable" "BeamNG.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "qa_latest"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
 	}
 	"steamcontrollertemplateindex" "2"
 	"steamcontrollertouchtemplateindex" "1"
@@ -341,9 +405,9 @@
 		{
 			"public"
 			{
-				"gid" "1770974130937088450"
-				"size" "52591382871"
-				"download" "16746681920"
+				"gid" "6804178318207658213"
+				"size" "52616406853"
+				"download" "16774758704"
 			}
 			"0.14.0.5-dx10"
 			{
@@ -392,15 +456,15 @@
 			}
 			"qa_latest"
 			{
-				"gid" "4C195400D208EFE532536A92A146DE7A"
-				"size" "0C6427966BFF829A0BD6BCC852B635E6"
-				"download" "DAFEE1369D0BAE6DB025F890ED2F2649"
+				"gid" "CB0DF62D2F745A66718240B26E287A02"
+				"size" "069D9E4D00A3A3C9B0A4DA64DFDE8C25"
+				"download" "4A8FAC99FBD9C6C3F6B592AAB5554698"
 			}
 			"qa_stable"
 			{
-				"gid" "A460A4D68DFC9126CF24D6A73EC8DB7E"
-				"size" "59954AAE72884A63FAD151243C4A4788"
-				"download" "2A5F8200920ACFC92EF5CA63485D40A2"
+				"gid" "1FFF2C21995F85019170CEAC22289A57"
+				"size" "9B557A6389E04FB31D7864A8AE2A5E14"
+				"download" "59B95A3AF4F044C5D2CA4BE6EDB99723"
 			}
 		}
 	}
@@ -408,8 +472,8 @@
 	{
 		"public"
 		{
-			"buildid" "14456291"
-			"timeupdated" "1716449426"
+			"buildid" "15125675"
+			"timeupdated" "1721745886"
 		}
 		"0.14.0.5-dx10"
 		{
@@ -454,15 +518,15 @@
 		}
 		"qa_latest"
 		{
-			"buildid" "14459377"
+			"buildid" "15594374"
 			"pwdrequired" "1"
-			"timeupdated" "1716405669"
+			"timeupdated" "1725477596"
 		}
 		"qa_stable"
 		{
-			"buildid" "14456291"
+			"buildid" "15435106"
 			"pwdrequired" "1"
-			"timeupdated" "1716387820"
+			"timeupdated" "1724161144"
 		}
 	}
 }
@@ -495,6 +559,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23656344"
-"_sha" "16fc8c7fea42fcb58840b6e0d331c642421c7edf"
-"_size" "9444"
+"_change_number" "25079678"
+"_sha" "fa33585f40976f4f15367132855de748470fe4b3"
+"_size" "10396"
