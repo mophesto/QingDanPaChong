@@ -25,7 +25,7 @@
 		{
 			"public"
 			{
-				"gid" "1485789732828145635"
+				"gid" "6034085187219928899"
 				"size" "7"
 				"download" "64"
 			}
@@ -107,6 +107,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.3.0"
+			{
+				"gid" "1485789732828145635"
+				"size" "7"
+				"download" "64"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -122,6 +128,12 @@
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
+			"test"
+			{
+				"gid" "E989822241485B3057F34C12FD7DB516"
+				"size" "FA14425633D41BFC69C3FB1FECCAF7BC"
+				"download" "7ACFB7FEB22C9423942EF677D5EE77A7"
+			}
 		}
 		"depotfromapp" "730"
 	}
@@ -131,7 +143,7 @@
 		{
 			"public"
 			{
-				"gid" "3801825919878110082"
+				"gid" "3506628640598398324"
 				"size" "7"
 				"download" "64"
 			}
@@ -213,6 +225,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.3.0"
+			{
+				"gid" "3801825919878110082"
+				"size" "7"
+				"download" "64"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -228,6 +246,12 @@
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
 			}
+			"test"
+			{
+				"gid" "D7DD82E6B5A24231D32EF48780C3B9EF"
+				"size" "FA14425633D41BFC69C3FB1FECCAF7BC"
+				"download" "7ACFB7FEB22C9423942EF677D5EE77A7"
+			}
 		}
 		"depotfromapp" "730"
 	}
@@ -237,7 +261,7 @@
 		{
 			"public"
 			{
-				"gid" "5492819955496514704"
+				"gid" "8695322666333535384"
 				"size" "7"
 				"download" "64"
 			}
@@ -319,6 +343,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.3.0"
+			{
+				"gid" "5492819955496514704"
+				"size" "7"
+				"download" "64"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -333,6 +363,12 @@
 				"gid" "61DC6180596A2E22F2A308A6A2CC9AD9"
 				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
 				"download" "3D2C948DD298272F42A9294690DCF8C0"
+			}
+			"test"
+			{
+				"gid" "BF554701AE0D0EA685D97E34D078FC9F"
+				"size" "FA14425633D41BFC69C3FB1FECCAF7BC"
+				"download" "7ACFB7FEB22C9423942EF677D5EE77A7"
 			}
 		}
 		"depotfromapp" "730"
@@ -351,9 +387,15 @@
 			"pwdrequired" "1"
 			"timeupdated" "1725399747"
 		}
+		"test"
+		{
+			"buildid" "15643476"
+			"pwdrequired" "1"
+			"timeupdated" "1725919077"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25064203"
-"_sha" "69a4d0f2df0bdcf6a147f272b342c0ef7b813bd9"
-"_size" "6139"
+"_change_number" "25147793"
+"_sha" "0bb08b4bc539f9d4b76fb5f53d81dc67781ee92f"
+"_size" "7050"
