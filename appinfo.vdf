@@ -279,6 +279,7 @@
 	}
 	"original_release_date" "1428994800"
 	"steam_release_date" "1428966000"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/271590/announcements/detail/6356356787200715685\?snr=2___"
 	"metacritic_score" "96"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/grand-theft-auto-v\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
@@ -319,7 +320,7 @@
 	"microtxnrestrictedcountries" "RU,BY"
 	"developer" "Rockstar North"
 	"publisher" "Rockstar Games"
-	"homepage" "http://www.rockstargames.com/V/"
+	"homepage" "https://www.rockstargames.com/V/"
 	"aliases" "gta5, gtav"
 	"listofdlc" "362000,362001,362002,362003,413180,771300"
 	"dlcavailableonstore" "1"
@@ -606,9 +607,9 @@
 		{
 			"public"
 			{
-				"gid" "7873900738795625050"
-				"size" "227337501"
-				"download" "184174800"
+				"gid" "1029471015847706848"
+				"size" "224990493"
+				"download" "181849264"
 			}
 		}
 		"encryptedmanifests"
@@ -673,6 +674,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "25263420"
-"_sha" "0c926a6ac390e72e5e41f94b46f63d492298b98e"
-"_size" "13450"
+"_change_number" "25276056"
+"_sha" "0cd6e409ea25ed1a6eeb8df743cd9d9881d7566e"
+"_size" "13568"
