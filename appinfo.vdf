@@ -38,36 +38,31 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1646092800"
-		"tested_build_id" "6599348"
+		"test_timestamp" "1726617600"
+		"tested_build_id" "15504645"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 			}
 			"1"
 			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"3"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"4"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-			}
-			"5"
 			{
 				"display" "1"
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
@@ -77,14 +72,16 @@
 		{
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
-			"requires_non_controller_launcher_nav" "1"
+			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "0"
-			"small_text" "0"
+			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Atelier Ryza: Ever Darkness &amp; the Secret Hideout"
@@ -267,8 +264,7 @@
 	{
 		"0"
 		{
-			"executable" "Atelier_Ryza_Launcher.exe"
-			"type" "none"
+			"executable" "Atelier_Ryza.exe"
 		}
 	}
 	"steamcontrollertouchtemplateindex" "1"
@@ -309,13 +305,19 @@
 		{
 			"public"
 			{
-				"gid" "6994354400409562667"
-				"size" "19229612072"
-				"download" "6596009744"
+				"gid" "4770515783795775162"
+				"size" "19229612048"
+				"download" "6596001936"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"6qrqpy2pv91d"
+			{
+				"gid" "6B433485B481FF67569BED9A0576653D"
+				"size" "8FF2A835B0689640AC7A4CAB4CC90430"
+				"download" "9085DFA7A00D08DBC3F667862FEFCBD9"
+			}
 			"csqmcc2illgm"
 			{
 				"gid" "BA6F1C02738E714FD4ECD1B9C632647D"
@@ -410,6 +412,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"6qrqpy2pv91d"
+			{
+				"gid" "B7888888A1DA2A209D5DAF44CACB76FD"
+				"size" "59121836433AA43F2CF7B64880B5A306"
+				"download" "0CA0C09F0397089B5ED21879289CF78F"
+			}
 			"csqmcc2illgm"
 			{
 				"gid" "F9E5D24A91C98CB993B2C1534B6F2CDD"
@@ -504,6 +512,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"6qrqpy2pv91d"
+			{
+				"gid" "AEF79826FD1D9E8868B36149E408F1F5"
+				"size" "4BF250D88AEEA49EFDD208595713D4C6"
+				"download" "BA6C4E7F08CD28048050AF6704073D01"
+			}
 			"csqmcc2illgm"
 			{
 				"gid" "7A08CFFA07C8A54BBEAB27C1978C4AE8"
@@ -574,6 +588,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"6qrqpy2pv91d"
+			{
+				"gid" "6B4AD6E18D229B8917342744CE711493"
+				"size" "BF18A24CE67DF39360142CAA8B4D820C"
+				"download" "F26777562A34FEE430E988B8DA74930E"
+			}
 			"csqmcc2illgm"
 			{
 				"gid" "F8FF01409525879D176E3A9254621B1B"
@@ -604,8 +624,14 @@
 	{
 		"public"
 		{
-			"buildid" "15504645"
-			"timeupdated" "1726795749"
+			"buildid" "15768026"
+			"timeupdated" "1726830287"
+		}
+		"6qrqpy2pv91d"
+		{
+			"buildid" "15768026"
+			"pwdrequired" "1"
+			"timeupdated" "1726821700"
 		}
 		"csqmcc2illgm"
 		{
@@ -707,6 +733,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25308543"
-"_sha" "869ef7afaf50ed244c46e5330160403e7ae6dfb9"
-"_size" "16086"
+"_change_number" "25315592"
+"_sha" "a118b62b7d03f55febf256efc7e2b395bce7f21e"
+"_size" "16847"
