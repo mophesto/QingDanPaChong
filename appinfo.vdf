@@ -97,7 +97,65 @@
 			"height_pct" "33.35715337991181"
 		}
 	}
-	"store_asset_mtime" "1720616253"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "6.606407322654462"
+				"height_pct" "33.35715337991181"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1721822052"
 	"associations"
 	{
 		"0"
@@ -220,12 +278,12 @@
 		"1" "597"
 		"2" "492"
 		"3" "4202"
-		"4" "4182"
-		"5" "4695"
+		"4" "4695"
+		"5" "4182"
 		"6" "3834"
 		"7" "12472"
-		"8" "3810"
-		"9" "3839"
+		"8" "3839"
+		"9" "3810"
 		"10" "4175"
 		"11" "3968"
 		"12" "4136"
@@ -238,7 +296,7 @@
 		"19" "1693"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -309,9 +367,9 @@
 		{
 			"public"
 			{
-				"gid" "956814104344816839"
-				"size" "22946532149"
-				"download" "9882471696"
+				"gid" "1119550617642804686"
+				"size" "22984145358"
+				"download" "9895205888"
 			}
 		}
 		"encryptedmanifests"
@@ -324,9 +382,9 @@
 			}
 			"beta"
 			{
-				"gid" "143E322B13B0EF1BDDB407EBE951A789"
-				"size" "04FFA8C1B6A0E3737324A4713AE6A4BE"
-				"download" "F0CB1B8821568645B08DA9297B6B48D1"
+				"gid" "F2F18392DEB9F0C31B10C1767FD69FF5"
+				"size" "D1061157DE70D65DBD175348F9437B29"
+				"download" "B6DCA5527499C7F65C128B5455C4052D"
 			}
 			"superhero"
 			{
@@ -343,9 +401,9 @@
 		{
 			"public"
 			{
-				"gid" "4361328352096259979"
-				"size" "1801928859"
-				"download" "1781549712"
+				"gid" "1042791271827730487"
+				"size" "1801935003"
+				"download" "1781555168"
 			}
 		}
 		"encryptedmanifests"
@@ -358,9 +416,9 @@
 			}
 			"beta"
 			{
-				"gid" "E6A9EBE4FA91CACCD8D45D55DCD14A45"
-				"size" "D14B4E8B6B53CD9638D3BD73AEF5DA8C"
-				"download" "A09DB62CB4E368875F4459AA8584429E"
+				"gid" "939526208BE74D371C8156E58650B5B9"
+				"size" "EC163CBFAB150C1D2090B35979618D89"
+				"download" "A62075C9692595BD38ED58EFC4BDC42D"
 			}
 			"superhero"
 			{
@@ -377,9 +435,9 @@
 		{
 			"public"
 			{
-				"gid" "1166262442444622220"
-				"size" "3770708271"
-				"download" "3685404272"
+				"gid" "5394598618710877642"
+				"size" "3770718511"
+				"download" "3685413872"
 			}
 		}
 		"encryptedmanifests"
@@ -392,9 +450,9 @@
 			}
 			"beta"
 			{
-				"gid" "754F3730B002B8E322C8720B3F4660B2"
-				"size" "05AE6829AA9815A50D5E181011BB168D"
-				"download" "AF4E402D3EE370E1432418A4C771598C"
+				"gid" "7CF6CCF01F0628F5DFD7CF0AA6D269C0"
+				"size" "B4CB460D4FBC6E184CEC3E4B367BE47A"
+				"download" "65EC51315AA0D0D712AFC6C9C6DCE77A"
 			}
 			"superhero"
 			{
@@ -408,8 +466,8 @@
 	{
 		"public"
 		{
-			"buildid" "15050455"
-			"timeupdated" "1721288770"
+			"buildid" "15792400"
+			"timeupdated" "1727096786"
 		}
 		"beta_test"
 		{
@@ -419,9 +477,9 @@
 		}
 		"beta"
 		{
-			"buildid" "15050455"
+			"buildid" "15792400"
 			"pwdrequired" "1"
-			"timeupdated" "1721139204"
+			"timeupdated" "1727081462"
 		}
 		"superhero"
 		{
@@ -446,6 +504,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24411291"
-"_sha" "14344b38ef4897b3c3958044aed31e8d61ad7040"
-"_size" "8313"
+"_change_number" "25350338"
+"_sha" "154efc60d93a483bd9cbc38b2b96d32a3f0bcdb9"
+"_size" "9431"
