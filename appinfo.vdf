@@ -44,65 +44,31 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1689811200"
+		"category" "1"
+		"test_timestamp" "1726704000"
 		"tested_build_id" "11431047"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
-			}
-			"1"
-			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
-			}
-			"2"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
-			}
-			"3"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-			}
-			"4"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
-			}
-			"5"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-			}
-			"6"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
-			}
-			"7"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
 			}
 		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
-			"requires_non_controller_launcher_nav" "1"
-			"primary_player_is_controller_slot_0" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "0"
 			"small_text" "0"
-			"requires_internet_for_setup" "1"
+			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-experimental"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Grand Theft Auto V"
@@ -412,9 +378,9 @@
 		{
 			"public"
 			{
-				"gid" "110437132090798567"
-				"size" "83701548"
-				"download" "57796800"
+				"gid" "2023989706897707134"
+				"size" "84287276"
+				"download" "58395248"
 			}
 		}
 		"encryptedmanifests"
@@ -427,15 +393,15 @@
 			}
 			"qabeta"
 			{
-				"gid" "3CD3793241BA30CBDA991F29D250F39D"
-				"size" "96345AE40BA5093DD8B732CB7FD76D2A"
-				"download" "C472E84A233333D8DF50B61883B909D2"
+				"gid" "D65F5FF8067FCD854877D6EFCD87FF4D"
+				"size" "F4A790C5945FEBB488B633C0A878DA1F"
+				"download" "9637F19919E3FCBD92F009F3370B79A2"
 			}
 			"qalive"
 			{
-				"gid" "259CCD306539D57008000045ECBE2E7C"
-				"size" "0ED9D104B2E1E530658A4A27431AA8B6"
-				"download" "5FB593535CC725C68E8107DF9B529953"
+				"gid" "BBEDAEF38942149754CC6DA49F7E8026"
+				"size" "80B4CAF53CA9F7837FC7E96D43BFD66C"
+				"download" "FCA203EF7157FCA94068698CABF18EB1"
 			}
 			"qatest"
 			{
@@ -451,9 +417,9 @@
 		{
 			"public"
 			{
-				"gid" "1439214622179389873"
+				"gid" "5977299555834988798"
 				"size" "30974511"
-				"download" "28643568"
+				"download" "28643552"
 			}
 		}
 		"encryptedmanifests"
@@ -466,15 +432,15 @@
 			}
 			"qabeta"
 			{
-				"gid" "430D3565B6E43A7DA57B0E8E9381A3D3"
-				"size" "6349FE0EAAA50E2E46814E73EFBCCACD"
-				"download" "197A60E48C60F357DACCB1B2C22EA835"
+				"gid" "AC25735642C3C79F914E10600EF52A66"
+				"size" "3CE5D9B9746BB27294D0960CDC8133A5"
+				"download" "81CC70836EA106A2A133C7A6DF05BE24"
 			}
 			"qalive"
 			{
-				"gid" "DC3F8D87DE069A0DC0ACDF53B60CAADE"
+				"gid" "6C8E6020C63D1747D695EFDF7CC5C652"
 				"size" "0AD29288F394F6B16E24BE2B02C096BC"
-				"download" "9A5453BCC8A42D5811C893566E9C9F56"
+				"download" "D7BCA13DA6078654504FDBFCA0E8811F"
 			}
 			"qatest"
 			{
@@ -529,9 +495,9 @@
 		{
 			"public"
 			{
-				"gid" "7695410780488672984"
+				"gid" "3341566387092794604"
 				"size" "63461888799"
-				"download" "61560693168"
+				"download" "61560692560"
 			}
 		}
 		"encryptedmanifests"
@@ -544,15 +510,15 @@
 			}
 			"qabeta"
 			{
-				"gid" "1F6CE37EE49A9CB188E459B8DA434CA0"
-				"size" "8B84458FF94C8E5699FE351E3482CCC0"
-				"download" "169892E471EE9EF8E6806683BD791B05"
+				"gid" "16CDF4A3ECEA389D54C596295982B604"
+				"size" "027C2D2A589635C1C5FBB2B402D4A530"
+				"download" "4521159D3F5AADCAA616DB6EF1E2FE85"
 			}
 			"qalive"
 			{
-				"gid" "C3FCA2F414F9CF541448F020588A5A62"
+				"gid" "C5EBBA39F960020785917EDB2C61FD9D"
 				"size" "3C11BE1405CF80A8FD60BDC2FFD7C3F8"
-				"download" "C358218B3B58B41E1FB0EDB0FDD7AE7A"
+				"download" "614F4887B3C34407DDF308F10BFD43D3"
 			}
 			"qatest"
 			{
@@ -639,8 +605,8 @@
 	{
 		"public"
 		{
-			"buildid" "15680176"
-			"timeupdated" "1726565744"
+			"buildid" "15810442"
+			"timeupdated" "1727254983"
 		}
 		"externalbuilds"
 		{
@@ -650,15 +616,15 @@
 		}
 		"qabeta"
 		{
-			"buildid" "15664360"
+			"buildid" "15793654"
 			"pwdrequired" "1"
-			"timeupdated" "1726059774"
+			"timeupdated" "1727088842"
 		}
 		"qalive"
 		{
-			"buildid" "15680176"
+			"buildid" "15810442"
 			"pwdrequired" "1"
-			"timeupdated" "1726160177"
+			"timeupdated" "1727191236"
 		}
 		"qatest"
 		{
@@ -674,6 +640,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "25276056"
-"_sha" "0cd6e409ea25ed1a6eeb8df743cd9d9881d7566e"
-"_size" "13568"
+"_change_number" "25383277"
+"_sha" "723945975bf02048dbb7fbd4ee9047dbf9dcdfe2"
+"_size" "12752"
