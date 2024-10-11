@@ -20,6 +20,18 @@
 	"clienticon" "c36a0215754fbe5529c09c3a944f84ecfec22615"
 	"clienttga" "cffd25958843e2dd5d3efd381a50db285adccdb8"
 	"icon" "08325c6ba9b395a845173ae342a900184f897d0b"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
 	"content_descriptors"
 	{
 		"0" "2"
@@ -145,7 +157,6 @@
 	{
 		"0" "1"
 		"1" "23"
-		"2" "70"
 	}
 	"category"
 	{
@@ -165,7 +176,8 @@
 			"full_audio" "true"
 		}
 	}
-	"steam_release_date" "1684343036"
+	"steam_release_date" "1728604769"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1268750"
 	"store_tags"
@@ -199,6 +211,8 @@
 	"developer" "Offworld"
 	"publisher" "Offworld"
 	"homepage" "https://starshiptroopersextermination.com/"
+	"listofdlc" "3205210,3205220,3205230,3205240"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -264,9 +278,9 @@
 		{
 			"public"
 			{
-				"gid" "3350293997364154030"
-				"size" "9240842736"
-				"download" "8686656352"
+				"gid" "9026050914570907404"
+				"size" "9252173103"
+				"download" "8702666848"
 			}
 		}
 		"encryptedmanifests"
@@ -297,9 +311,9 @@
 			}
 			"development"
 			{
-				"gid" "3D1D71A8CF80D07ECF4FF6C32C9CE761"
-				"size" "3E3CB62794BCB9D93FF826FF67518AA7"
-				"download" "70D340E4EFFF38757CD84BA3845C412D"
+				"gid" "B2BAC134AE1BDF0B0F8FACF6A6BA8281"
+				"size" "1ECDB463401EC0C4FA655B7B1F586BA7"
+				"download" "4F08A345549BBE42666C7B0470467B6E"
 			}
 			"external_marketing"
 			{
@@ -309,9 +323,9 @@
 			}
 			"featurebranch1"
 			{
-				"gid" "4B407EDBD13E00111C6427BDAE3A6FF4"
-				"size" "DE93745933638186656F6E4ECA285663"
-				"download" "6AC3327C7F469C545F108574A24D830B"
+				"gid" "35BEFE473A94E9505F92D228F18C4534"
+				"size" "58EB555FCC2EFAF08F74EB1B071AA3F2"
+				"download" "063B0F425F8BCF1EEECAFD2E0832D475"
 			}
 			"featurebranch2"
 			{
@@ -345,9 +359,9 @@
 			}
 			"integration_development"
 			{
-				"gid" "4EFCE33A4548BF56F744ADCF4AC3429C"
-				"size" "229D9D4978D1C8C8BDBB0760F90093FB"
-				"download" "280840919D6D575A77FC56C6BD1AFF64"
+				"gid" "59A0B06357742A0BDCAFC09B877D076F"
+				"size" "7505E0A534AB09324A5A562835BA0D13"
+				"download" "5D9B238284FE6F9913DA620E25BB2687"
 			}
 			"kp_dev"
 			{
@@ -375,9 +389,9 @@
 			}
 			"prerelease"
 			{
-				"gid" "681C9C129564B04739E5DDA285029A4D"
-				"size" "386C47584184D3B477806A9554CAFDF8"
-				"download" "8FE54F2EA914883B6E1C17123663DB14"
+				"gid" "58447DC84D96F91E11FC859442C99BAB"
+				"size" "8A803450D1A88F787E84D3DCDCA0FF4D"
+				"download" "1B779BF93411E316B8B16C55E9EA4C4B"
 			}
 			"press"
 			{
@@ -387,15 +401,15 @@
 			}
 			"releasecandidate"
 			{
-				"gid" "BD110F3A810BF07D86A06A3E167A7A41"
-				"size" "7FD6910664556A84D3E981197718EEA8"
-				"download" "C0F80B97936A0D9852275418A5D6F7A9"
+				"gid" "051BB34F72A37FE34DC68654CC8C6F17"
+				"size" "10DBE4A5677CAA9904C31AE8B7A064A8"
+				"download" "B7D26070F1AB97EEAF3B73876B53DBE3"
 			}
 			"releasecandidate_dev"
 			{
-				"gid" "A38966580E6FBE7C12E5CEC81E12ABDA"
-				"size" "87735527554D848C811DF3902E9794EB"
-				"download" "D8F80D3DCB8949CC044B14520BE5BFCA"
+				"gid" "CC51E7AF91F5B125E3C19486F905179A"
+				"size" "1922A7AF2CAB7F6A5561BD97C6793C0A"
+				"download" "E33D4313A401964E4429B761AE537BBF"
 			}
 		}
 	}
@@ -403,8 +417,8 @@
 	{
 		"public"
 		{
-			"buildid" "15987193"
-			"timeupdated" "1728579054"
+			"buildid" "15988365"
+			"timeupdated" "1728592888"
 		}
 		"engine_update"
 		{
@@ -432,9 +446,9 @@
 		}
 		"development"
 		{
-			"buildid" "15988537"
+			"buildid" "16000537"
 			"pwdrequired" "1"
-			"timeupdated" "1728526330"
+			"timeupdated" "1728596413"
 		}
 		"external_marketing"
 		{
@@ -444,9 +458,9 @@
 		}
 		"featurebranch1"
 		{
-			"buildid" "15732640"
+			"buildid" "15988537"
 			"pwdrequired" "1"
-			"timeupdated" "1726597089"
+			"timeupdated" "1728596193"
 		}
 		"featurebranch2"
 		{
@@ -480,9 +494,9 @@
 		}
 		"integration_development"
 		{
-			"buildid" "15990247"
+			"buildid" "16004788"
 			"pwdrequired" "1"
-			"timeupdated" "1728540094"
+			"timeupdated" "1728626516"
 		}
 		"kp_dev"
 		{
@@ -510,9 +524,9 @@
 		}
 		"prerelease"
 		{
-			"buildid" "15988365"
+			"buildid" "16000242"
 			"pwdrequired" "1"
-			"timeupdated" "1728525160"
+			"timeupdated" "1728594713"
 		}
 		"press"
 		{
@@ -522,19 +536,19 @@
 		}
 		"releasecandidate"
 		{
-			"buildid" "15987193"
+			"buildid" "16003676"
 			"pwdrequired" "1"
-			"timeupdated" "1728577041"
+			"timeupdated" "1728618094"
 		}
 		"releasecandidate_dev"
 		{
-			"buildid" "15989344"
+			"buildid" "16003795"
 			"pwdrequired" "1"
-			"timeupdated" "1728532703"
+			"timeupdated" "1728619074"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25651977"
-"_sha" "f77949ecc0ba554d44b2825bb70e445abd380871"
-"_size" "10970"
+"_change_number" "25662072"
+"_sha" "a444978799d48147e8bbd8875fe24e671031dfdb"
+"_size" "11254"
