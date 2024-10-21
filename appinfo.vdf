@@ -275,7 +275,7 @@
 		"19" "1669"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "87"
 }
 "extended"
 {
@@ -378,9 +378,9 @@
 		{
 			"public"
 			{
-				"gid" "2023989706897707134"
-				"size" "84287276"
-				"download" "58395248"
+				"gid" "4148712806132596056"
+				"size" "80371492"
+				"download" "54404544"
 			}
 		}
 		"encryptedmanifests"
@@ -393,9 +393,9 @@
 			}
 			"qabeta"
 			{
-				"gid" "B77BBE94D60D8BF67DEC7BC4A64E2659"
-				"size" "72E1BB21F3AE016F63E98A3FA644E60B"
-				"download" "0C878C594430B56575C09B2D8AB31D20"
+				"gid" "E78805755CAEA036422BAC82C6BBA545"
+				"size" "81D15AE3473BFA4A0C0AD8B9499E8E59"
+				"download" "7680B2E1A23701C757E8E7B21E385BF6"
 			}
 			"qalive"
 			{
@@ -417,9 +417,9 @@
 		{
 			"public"
 			{
-				"gid" "5977299555834988798"
-				"size" "30974511"
-				"download" "28643552"
+				"gid" "6895113908287539233"
+				"size" "30974503"
+				"download" "28643536"
 			}
 		}
 		"encryptedmanifests"
@@ -495,9 +495,9 @@
 		{
 			"public"
 			{
-				"gid" "3341566387092794604"
+				"gid" "8496545153343461683"
 				"size" "63461888799"
-				"download" "61560692560"
+				"download" "61560693328"
 			}
 		}
 		"encryptedmanifests"
@@ -510,9 +510,9 @@
 			}
 			"qabeta"
 			{
-				"gid" "1C16B7F701A69F8B118427DC54211A76"
-				"size" "5688009EF18E56753611DC0922A36BA0"
-				"download" "56C3893F9FC100722185B5D4CA4F398C"
+				"gid" "C174B8AB1639730203805A3EF578636C"
+				"size" "FFCE45ACCC40FEF094FCF95BB2730F07"
+				"download" "478F998242DAFC39A1CA6BD1377F136D"
 			}
 			"qalive"
 			{
@@ -549,7 +549,7 @@
 			}
 			"qabeta"
 			{
-				"gid" "647BF3F2EB4213DE9D3EA03D369739C0"
+				"gid" "3C8026569FB03971A2430B480A122426"
 				"size" "A3173A8EF1285BB3C54CFF5A453531BD"
 				"download" "22C93D39A23A00D9B63C76F1AD2C3BB1"
 			}
@@ -582,21 +582,21 @@
 		{
 			"qabeta"
 			{
-				"gid" "E0B04F6A42813ABABED969968CC3678C"
-				"size" "27619545059E139D18DDAF17B082C9F1"
-				"download" "286DED30B79861D236C832E68B270FBA"
+				"gid" "8FFFF96E4BF6AF92614958AE5F08FBC5"
+				"size" "75E3CD68E6C0679B7C63852DA0AE3D5D"
+				"download" "A42493915BB475BAD0B538B2D0008C86"
 			}
 			"qalive"
 			{
-				"gid" "9B4B03CA8A51ED8F31AA184B0FE63FD2"
-				"size" "7CDB9AC80A8518F826572A9FCFE1537D"
-				"download" "0F3112E0567A2F559F7B6F166B048E5C"
+				"gid" "E7F37104093366FA41933F5566BB9EC5"
+				"size" "C678698DA7B2E35C9DD2E6CBC1983218"
+				"download" "FAC0E6A4087F1E78ADA91B6ACEE28A95"
 			}
 			"qatest"
 			{
-				"gid" "3E30387BEC52F4529566CC422D0A73B4"
-				"size" "4B4FAB577813BDAE13FB538941A1D93F"
-				"download" "8E7DBC523DD809386ECD51D7F7E414EC"
+				"gid" "2F9C726AC3CE48552E9350AB9AA921B0"
+				"size" "1963A83898A0FCAF646FD586FD3D925D"
+				"download" "0B864E187E1962815CDCFE0EA8296DE5"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -605,8 +605,8 @@
 	{
 		"public"
 		{
-			"buildid" "15810442"
-			"timeupdated" "1727254983"
+			"buildid" "15953844"
+			"timeupdated" "1728982820"
 		}
 		"externalbuilds"
 		{
@@ -616,9 +616,9 @@
 		}
 		"qabeta"
 		{
-			"buildid" "15957509"
+			"buildid" "16100098"
 			"pwdrequired" "1"
-			"timeupdated" "1728327172"
+			"timeupdated" "1729276012"
 		}
 		"qalive"
 		{
@@ -640,6 +640,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "25586918"
-"_sha" "0608efcef92de3f4908c840ccd5725390ba6c822"
+"_change_number" "25791141"
+"_sha" "bb9d72482676c36715030c174bb09557ddb64d66"
 "_size" "12751"
