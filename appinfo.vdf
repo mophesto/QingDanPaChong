@@ -133,7 +133,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728411229"
+	"store_asset_mtime" "1728666809"
 	"associations"
 	{
 		"0"
@@ -174,6 +174,52 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1728604769"
@@ -192,19 +238,19 @@
 		"7" "1685"
 		"8" "1673"
 		"9" "1773"
-		"10" "6730"
-		"11" "4684"
+		"10" "4684"
+		"11" "6730"
 		"12" "1774"
 		"13" "1755"
 		"14" "7332"
 		"15" "5547"
 		"16" "4155"
 		"17" "493"
-		"18" "4191"
-		"19" "4175"
+		"18" "4175"
+		"19" "4191"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -278,9 +324,9 @@
 		{
 			"public"
 			{
-				"gid" "9026050914570907404"
-				"size" "9252173103"
-				"download" "8702666848"
+				"gid" "3252904309471524397"
+				"size" "9251230290"
+				"download" "8732320096"
 			}
 		}
 		"encryptedmanifests"
@@ -311,9 +357,9 @@
 			}
 			"development"
 			{
-				"gid" "B2BAC134AE1BDF0B0F8FACF6A6BA8281"
-				"size" "1ECDB463401EC0C4FA655B7B1F586BA7"
-				"download" "4F08A345549BBE42666C7B0470467B6E"
+				"gid" "3CFECC479DE73D7C83B44614AEC4B2C0"
+				"size" "23531C7045F332480260FC32643F490F"
+				"download" "0173EF4A9BF312E4DE05B5A2747FFB29"
 			}
 			"external_marketing"
 			{
@@ -341,15 +387,15 @@
 			}
 			"featurebranch4"
 			{
-				"gid" "60E8F3F0AB8D82A4312183666D331016"
-				"size" "DAD76AB0E2E6DC2D8FBFA80801810064"
-				"download" "A26B5398E5638F799350A7815989D38F"
+				"gid" "5A93D3A087C8B58411EF72ED93AEAE50"
+				"size" "171CC5E2F93EE925D8E5722F08A803D8"
+				"download" "7BAD4EAE903FB139ABC457E743B3DBAB"
 			}
 			"featurebranch5"
 			{
-				"gid" "B0640FC9E10DB557BF37A7D6ECE3F51C"
-				"size" "BB42710B9C8407A01207D70710779442"
-				"download" "23D534723AE1C695AEFF8404D0CD6C55"
+				"gid" "0D90ECAB9E0A14E8BC5DD4ACA51BDE18"
+				"size" "9DA3F2059CE0DFD569D22991AB8D2DF7"
+				"download" "DA2BDACE88708AD1F81582B8D9E5BD3A"
 			}
 			"integration"
 			{
@@ -359,9 +405,9 @@
 			}
 			"integration_development"
 			{
-				"gid" "59A0B06357742A0BDCAFC09B877D076F"
-				"size" "7505E0A534AB09324A5A562835BA0D13"
-				"download" "5D9B238284FE6F9913DA620E25BB2687"
+				"gid" "B46C156EAB1047CA433EE8E0D9FC2C4A"
+				"size" "0008BE45D86F8727633D7D9C1278A1F5"
+				"download" "E912A4F5C2FD022721AD3E640A79D547"
 			}
 			"kp_dev"
 			{
@@ -383,15 +429,15 @@
 			}
 			"playtest"
 			{
-				"gid" "7FA0CE622DE4DA1DB8B8963002D02958"
-				"size" "FD270781432CB1B84D0F8108A14FABEE"
-				"download" "45E1FBCD8C56E40CCA71D171914A2607"
+				"gid" "2B69A1A17CB81324999990E5760CC2E2"
+				"size" "2FF80B1392E2821BF1A6D262F2624370"
+				"download" "9F4A6D38A4458B60D8B800C9D1E827EA"
 			}
 			"prerelease"
 			{
-				"gid" "58447DC84D96F91E11FC859442C99BAB"
-				"size" "8A803450D1A88F787E84D3DCDCA0FF4D"
-				"download" "1B779BF93411E316B8B16C55E9EA4C4B"
+				"gid" "F6D32325FA89AC5B0B562175AEB490E4"
+				"size" "1450422C5ECA2F808006F11A91D5CDF9"
+				"download" "9409C9F46CEA379422A7E268DD4F7EDF"
 			}
 			"press"
 			{
@@ -401,15 +447,15 @@
 			}
 			"releasecandidate"
 			{
-				"gid" "051BB34F72A37FE34DC68654CC8C6F17"
-				"size" "10DBE4A5677CAA9904C31AE8B7A064A8"
-				"download" "B7D26070F1AB97EEAF3B73876B53DBE3"
+				"gid" "8C2A260D12546130D55BDBA6BB9F365D"
+				"size" "34AA337A90CF80EB142992FE23EBB15E"
+				"download" "6EF046D8C05A00C7F4D555F90208031D"
 			}
 			"releasecandidate_dev"
 			{
-				"gid" "CC51E7AF91F5B125E3C19486F905179A"
-				"size" "1922A7AF2CAB7F6A5561BD97C6793C0A"
-				"download" "E33D4313A401964E4429B761AE537BBF"
+				"gid" "8730ABE559C06E187F94AF2F9CEA4E19"
+				"size" "43761EECEB2ADF9294F58C03EB86925D"
+				"download" "ABE3BE5F82D734F4B4F1E1CC20ABFCC4"
 			}
 		}
 	}
@@ -417,8 +463,8 @@
 	{
 		"public"
 		{
-			"buildid" "15988365"
-			"timeupdated" "1728592888"
+			"buildid" "16100731"
+			"timeupdated" "1729529996"
 		}
 		"engine_update"
 		{
@@ -446,9 +492,9 @@
 		}
 		"development"
 		{
-			"buildid" "16000537"
+			"buildid" "16089905"
 			"pwdrequired" "1"
-			"timeupdated" "1728596413"
+			"timeupdated" "1729219933"
 		}
 		"external_marketing"
 		{
@@ -476,15 +522,15 @@
 		}
 		"featurebranch4"
 		{
-			"buildid" "15973684"
+			"buildid" "16058677"
 			"pwdrequired" "1"
-			"timeupdated" "1728431716"
+			"timeupdated" "1729037770"
 		}
 		"featurebranch5"
 		{
-			"buildid" "15959505"
+			"buildid" "16143161"
 			"pwdrequired" "1"
-			"timeupdated" "1728340467"
+			"timeupdated" "1729638693"
 		}
 		"integration"
 		{
@@ -494,9 +540,9 @@
 		}
 		"integration_development"
 		{
-			"buildid" "16004788"
+			"buildid" "16141375"
 			"pwdrequired" "1"
-			"timeupdated" "1728626516"
+			"timeupdated" "1729626788"
 		}
 		"kp_dev"
 		{
@@ -518,15 +564,15 @@
 		}
 		"playtest"
 		{
-			"buildid" "15919362"
+			"buildid" "16100989"
 			"pwdrequired" "1"
-			"timeupdated" "1727976807"
+			"timeupdated" "1729289777"
 		}
 		"prerelease"
 		{
-			"buildid" "16000242"
+			"buildid" "16100731"
 			"pwdrequired" "1"
-			"timeupdated" "1728594713"
+			"timeupdated" "1729279565"
 		}
 		"press"
 		{
@@ -536,19 +582,19 @@
 		}
 		"releasecandidate"
 		{
-			"buildid" "16003676"
+			"buildid" "16141792"
 			"pwdrequired" "1"
-			"timeupdated" "1728618094"
+			"timeupdated" "1729629556"
 		}
 		"releasecandidate_dev"
 		{
-			"buildid" "16003795"
+			"buildid" "16141657"
 			"pwdrequired" "1"
-			"timeupdated" "1728619074"
+			"timeupdated" "1729628565"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25662072"
-"_sha" "a444978799d48147e8bbd8875fe24e671031dfdb"
-"_size" "11254"
+"_change_number" "25847400"
+"_sha" "ccc8ceb7e9a5e41c9f192ebcf2c8641a14108a91"
+"_size" "11917"
