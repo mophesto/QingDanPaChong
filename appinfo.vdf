@@ -367,9 +367,9 @@
 		{
 			"public"
 			{
-				"gid" "1119550617642804686"
-				"size" "22984145358"
-				"download" "9895205888"
+				"gid" "3301843681623228285"
+				"size" "22984706930"
+				"download" "9895330144"
 			}
 		}
 		"encryptedmanifests"
@@ -382,9 +382,9 @@
 			}
 			"beta"
 			{
-				"gid" "F2F18392DEB9F0C31B10C1767FD69FF5"
-				"size" "D1061157DE70D65DBD175348F9437B29"
-				"download" "B6DCA5527499C7F65C128B5455C4052D"
+				"gid" "5E13C9ACE79B43DBFCDE6A216A0B51C4"
+				"size" "05C1AA7B5A27D2BAB373A352AE22C094"
+				"download" "66CE05B47860E7477445DAAA2E1A01B7"
 			}
 			"superhero"
 			{
@@ -401,9 +401,9 @@
 		{
 			"public"
 			{
-				"gid" "1042791271827730487"
-				"size" "1801935003"
-				"download" "1781555168"
+				"gid" "7881874985846650712"
+				"size" "1801937067"
+				"download" "1781557504"
 			}
 		}
 		"encryptedmanifests"
@@ -416,9 +416,9 @@
 			}
 			"beta"
 			{
-				"gid" "939526208BE74D371C8156E58650B5B9"
-				"size" "EC163CBFAB150C1D2090B35979618D89"
-				"download" "A62075C9692595BD38ED58EFC4BDC42D"
+				"gid" "BF8D903BC5BA803335C90C24E641A654"
+				"size" "453A6E686D682210C9760DF09FB78A35"
+				"download" "D9CD5CB34E79527BD32A3384658B815C"
 			}
 			"superhero"
 			{
@@ -435,9 +435,9 @@
 		{
 			"public"
 			{
-				"gid" "5394598618710877642"
-				"size" "3770718511"
-				"download" "3685413872"
+				"gid" "791100658712895688"
+				"size" "3770717661"
+				"download" "3685413616"
 			}
 		}
 		"encryptedmanifests"
@@ -450,9 +450,9 @@
 			}
 			"beta"
 			{
-				"gid" "7CF6CCF01F0628F5DFD7CF0AA6D269C0"
-				"size" "B4CB460D4FBC6E184CEC3E4B367BE47A"
-				"download" "65EC51315AA0D0D712AFC6C9C6DCE77A"
+				"gid" "D258DDEBA58183C936F56D8A56F9A57A"
+				"size" "6F35910AAD8F5703DAC6AB2F430C0C39"
+				"download" "7C424AD1361321A72B7E9C9F0CB7FC5A"
 			}
 			"superhero"
 			{
@@ -466,8 +466,8 @@
 	{
 		"public"
 		{
-			"buildid" "15792400"
-			"timeupdated" "1727096786"
+			"buildid" "16050480"
+			"timeupdated" "1728995599"
 		}
 		"beta_test"
 		{
@@ -477,9 +477,9 @@
 		}
 		"beta"
 		{
-			"buildid" "15792400"
+			"buildid" "16133757"
 			"pwdrequired" "1"
-			"timeupdated" "1727081462"
+			"timeupdated" "1729587215"
 		}
 		"superhero"
 		{
@@ -504,6 +504,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25350338"
-"_sha" "154efc60d93a483bd9cbc38b2b96d32a3f0bcdb9"
-"_size" "9431"
+"_change_number" "25835342"
+"_sha" "029782fbbec3289b4f71c8d6f091c2f6967d5e8c"
+"_size" "9430"
