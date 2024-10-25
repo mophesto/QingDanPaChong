@@ -573,11 +573,17 @@
 				"size" "29667354009"
 				"download" "27595778048"
 			}
+			"public_beta"
+			{
+				"gid" "2288366413617203674"
+				"size" "31325655987"
+				"download" "29110232576"
+			}
 			"oculus"
 			{
-				"gid" "2492527708295788575"
-				"size" "29648358794"
-				"download" "27576867216"
+				"gid" "5698634935424011981"
+				"size" "29667392588"
+				"download" "27595813648"
 			}
 			"oculus_previous"
 			{
@@ -710,9 +716,9 @@
 		{
 			"baseline"
 			{
-				"gid" "F655E0C7697E814CA5C68E9CCE4A9D06"
-				"size" "FEC28B7F980BADF5A1A17DAE52347FE7"
-				"download" "5D300CDF35D1C415EC644AEEC5764423"
+				"gid" "08DE7FD85DC7F8A44D53FEE1DB93A884"
+				"size" "4235D132C3EFAFDC5F55A0C4D38CF54F"
+				"download" "3447DCC1B6A6484B7E23A924EDAF6733"
 			}
 			"tmp_branch"
 			{
@@ -728,9 +734,9 @@
 			}
 			"experimental2"
 			{
-				"gid" "49AA528340C2BD1ED5365CA8EECE09BB"
-				"size" "A1E7F27881471E58C4E55B7705EA7515"
-				"download" "0408782FD65E1A9E900F3529FCCA6C80"
+				"gid" "973D25459B43223924B1FE36CA6AD570"
+				"size" "2938957D7517FCE9C8E7106919E3BC1D"
+				"download" "879901446D0E23444E34FE1D9C69AF1C"
 			}
 			"experimental3"
 			{
@@ -740,9 +746,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "641CD3E19496C3785F6C5602DCF5369E"
-				"size" "CD7BB859169A0F5CCE82C0B5A1F3D731"
-				"download" "F8A388893E6156688B230E98DD155657"
+				"gid" "27E1C9D39BEBFA892CDACEA74721EC71"
+				"size" "B9E7BF0F21426870A2542583A1E2B554"
+				"download" "8E876D227B6BF1AE0A13795A9108C7C5"
 			}
 			"internal_use"
 			{
@@ -752,15 +758,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "1356543562D56F81CBB529FCF97B0D15"
-				"size" "3DF08EA6968E0B674BE66B256DB296C1"
-				"download" "8CFD0BA6F32FA811799B2809694305A2"
+				"gid" "56A83A29E70A1EAB71548A17BCC9307C"
+				"size" "203E0849BEA402381F4B1B366CBB8673"
+				"download" "D737F2B5C014A62C993B150E5A212D19"
 			}
 			"testing_junior"
 			{
-				"gid" "BC138277D20A531F1B185805BD8345F0"
-				"size" "FE2D925B70FA976D4DBA809E872755FD"
-				"download" "EE5FA59D487B76BC166291FDE5E3E0FC"
+				"gid" "F9958ACB2BDFFF0B027E923F3CEB31E4"
+				"size" "EDE19305A804BD793AA3D8C426B5C186"
+				"download" "97DEB83DCDD05C4833421330C5662F77"
 			}
 		}
 	}
@@ -779,11 +785,17 @@
 				"size" "100990240"
 				"download" "28156000"
 			}
+			"public_beta"
+			{
+				"gid" "2968196488200385758"
+				"size" "54197224"
+				"download" "15671376"
+			}
 			"oculus"
 			{
-				"gid" "6623112452042442648"
-				"size" "55134392"
-				"download" "16041072"
+				"gid" "689246618322138477"
+				"size" "55133112"
+				"download" "16046160"
 			}
 			"oculus_previous"
 			{
@@ -916,9 +928,9 @@
 		{
 			"baseline"
 			{
-				"gid" "86D99C86F15706596CEA5A2CD685BB61"
-				"size" "B68C19CFA1B9F710D184463BE59D9680"
-				"download" "F0AB0C921B31E9EF730A1E3112004E1C"
+				"gid" "7D3E9E5B6FBDCAF6B156C74D84E6F29E"
+				"size" "8C2E07220CF44CEE7C3C818FE97D6C2F"
+				"download" "65C9AD7DDD8801976BC6B669D5852B9F"
 			}
 			"tmp_branch"
 			{
@@ -934,9 +946,9 @@
 			}
 			"experimental2"
 			{
-				"gid" "21D8999855E9C798DC6B8660FE41CED6"
+				"gid" "7D65F6A561C1D64BEC9A3A0B46B0204D"
 				"size" "3EB975237FB542DF48785CA5D2B81EAC"
-				"download" "9023C6D66A3700877CA44E2E4B5BC52A"
+				"download" "F2E63973E70732E41ECC46393E6835C3"
 			}
 			"experimental3"
 			{
@@ -946,9 +958,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "9577CC42B7B25179CA95BB39F8A0509E"
-				"size" "E722A3B95D906CDF3F73F91B684650F9"
-				"download" "234EC7F5CAC31E7FFF22AF9937BBEFBE"
+				"gid" "BA7AD12D0812454D92223B845DFC5251"
+				"size" "37BC064D322DD1DE522C1A815C01F26F"
+				"download" "1457EAC63D7509984179B42FEFB717B9"
 			}
 			"internal_use"
 			{
@@ -958,15 +970,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "C22A6BD6C6DBDEA3A0AC48F0C01C7C12"
-				"size" "EBEE521E6267AB1A0124B796E34B2D02"
-				"download" "22A755F1F38BE04B7B005925751B2093"
+				"gid" "FC7E76ED948B03C4AC789320C067A012"
+				"size" "04F6C0A8CC2B5E5375C86B7BEC993025"
+				"download" "16EEE600D2FA236A56E372FFA2399A0D"
 			}
 			"testing_junior"
 			{
-				"gid" "928FDF54B4F50583A3E83D3DBE15DFBE"
-				"size" "5B87306658171AD3EC47E8DB1FCB228D"
-				"download" "DDD28C0A945DB0C180EFBB9EF700E0A7"
+				"gid" "231EDFCBC8CCF2F030D1F6237B030380"
+				"size" "08DA5CED4EFAABD7076C6088A32E7CEA"
+				"download" "6FC7F4485203D866FB8AEE0FA358F8D5"
 			}
 		}
 	}
@@ -984,6 +996,12 @@
 				"gid" "2458798932467296242"
 				"size" "99099624"
 				"download" "28734784"
+			}
+			"public_beta"
+			{
+				"gid" "3176304580350103715"
+				"size" "99710344"
+				"download" "28881120"
 			}
 			"oculus"
 			{
@@ -1122,9 +1140,9 @@
 		{
 			"baseline"
 			{
-				"gid" "481DA776A686688FB80E6B9AC3435B97"
+				"gid" "43BE284B1FB59918BBE7AFE881ABBCD8"
 				"size" "F2761D114B3EB82D32577E1DB581F246"
-				"download" "B7B6A70C0EA6E9C4D7D6ADE8AD985850"
+				"download" "9D3DD07FE778A72D3CFCC17C39EBD894"
 			}
 			"tmp_branch"
 			{
@@ -1152,9 +1170,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "25C1B799519E7403AA821020E6E1D3CF"
-				"size" "DE7E2779A4D3422A20DE257440BAB704"
-				"download" "E37B7CEFF4D88DA00C85CBB71B07075C"
+				"gid" "37BF3A0E2FB337A5820A14547F2929E3"
+				"size" "21809900DDF5961FB6BF11700ABAF1BA"
+				"download" "2C24C53AFB2796ED92EFF93C8CF02246"
 			}
 			"internal_use"
 			{
@@ -1164,15 +1182,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "36266FCCC0286CF2A07EF433F2761A7E"
-				"size" "D604E2C6A0BB7869B4982016280CB8A0"
-				"download" "8583E968B8BF70800FD4FD681A00F4AA"
+				"gid" "FCAF35608D6E96951F39C30EBC9BC822"
+				"size" "826D4E8931C2737D9B69300A3916CDD0"
+				"download" "33487285E688A74642363396A5739D15"
 			}
 			"testing_junior"
 			{
-				"gid" "1B90B86603B1350AAE2F69A28CB99EBF"
-				"size" "CF3514C5A7B934A3F5FEE378083F411D"
-				"download" "5287462D16B101F4B54EEC693ADAED4C"
+				"gid" "85E48CBB857E2B41BD42328DAE31832A"
+				"size" "8E96CA9A9C98D5CDA451EE746D485854"
+				"download" "853FB6D28980BB060B02624B9A9E91BA"
 			}
 		}
 	}
@@ -1186,9 +1204,15 @@
 		{
 			"public"
 			{
-				"gid" "4952127509270896976"
+				"gid" "5260998949112224459"
 				"size" "64646009"
-				"download" "19914624"
+				"download" "19914416"
+			}
+			"public_beta"
+			{
+				"gid" "7011174820111774180"
+				"size" "64978281"
+				"download" "19992976"
 			}
 			"oculus"
 			{
@@ -1327,9 +1351,9 @@
 		{
 			"baseline"
 			{
-				"gid" "B1A7D8C350A6BFEDDF420E98627D22E7"
-				"size" "DA80D3194A4C7B9416A17EB621DB1059"
-				"download" "63AC4773D04162E5DB5B9C60D9D6BDA9"
+				"gid" "477778E0017C2FF04EBB54E64FF96C64"
+				"size" "717C858530A1D257B92D593CD7904091"
+				"download" "F56649A80BD80D21907198A32E36E85F"
 			}
 			"tmp_branch"
 			{
@@ -1351,15 +1375,15 @@
 			}
 			"experimental3"
 			{
-				"gid" "E8F9B1CA1C8D1A8DBC3BCB2F44AA1B81"
+				"gid" "91BFB7C329F99076D4209BDC97F4BB3F"
 				"size" "C37FCB96780302FDBF41BCA8DFD0B343"
-				"download" "FED01B139A2DFC854142B7D73F8F292D"
+				"download" "705D74E9E1CF423AEF77FEECCFBE27FA"
 			}
 			"experimental4"
 			{
-				"gid" "E512F2A76ECDB2341A3454CF1403D236"
-				"size" "12CFB43F3C68C5B835357C7B7D74F48E"
-				"download" "0866C92C31E50CBA78B760FA2065B1CA"
+				"gid" "ED0FBD83BDEA06ADFA940EE8E28CE051"
+				"size" "84CE58412E2F04D0DF768D5CD94650F2"
+				"download" "E0BFF7C6A31220587FAC9A2E4C850461"
 			}
 			"internal_use"
 			{
@@ -1369,15 +1393,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "840C4F04F80CDCB6F3C4D3BA0FE98618"
-				"size" "39224762530FE82B39DD720782B51E85"
-				"download" "0C5C2A69CFADDD8F2FBB25AAA74A7D02"
+				"gid" "753D3EB683CAD3F5BEF05CAFBCD8B322"
+				"size" "08C8C416113A31484F17E0A2058FC05F"
+				"download" "DE56EC1BED328B624E5F50B726915977"
 			}
 			"testing_junior"
 			{
-				"gid" "0D09C8C3D4D8598AC192E55F028B0049"
-				"size" "0EC689139F7A78F8104471B560AAE0BE"
-				"download" "20ECAA4F1576A3AF1C66B8EAA87B90DF"
+				"gid" "69D1B0E0821AFCB17EB67CE68A702249"
+				"size" "403EC00C81F7166DDC8EE5C5030D9704"
+				"download" "626AC631C4AADB7B959183364BEF9148"
 			}
 		}
 	}
@@ -1391,6 +1415,12 @@
 				"gid" "1125929462814622535"
 				"size" "37754999"
 				"download" "37822720"
+			}
+			"public_beta"
+			{
+				"gid" "2618685250861347196"
+				"size" "37756885"
+				"download" "37826064"
 			}
 			"oculus"
 			{
@@ -1589,6 +1619,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7921356351300426751"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "7921356351300426751"
 				"size" "0"
@@ -1796,6 +1832,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "3283532009505007756"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "3283532009505007756"
@@ -1993,6 +2035,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "6527425934994182475"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "6527425934994182475"
 				"size" "0"
@@ -2200,6 +2248,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8979825731496411430"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8979825731496411430"
@@ -2397,6 +2451,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7907072597469392319"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "7907072597469392319"
 				"size" "0"
@@ -2604,6 +2664,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "2957245413978440635"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "2957245413978440635"
@@ -2801,6 +2867,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "2905133123341935477"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "2905133123341935477"
 				"size" "0"
@@ -3008,6 +3080,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "380357946844704080"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "380357946844704080"
@@ -3205,6 +3283,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7623190349550009080"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "7623190349550009080"
 				"size" "0"
@@ -3412,6 +3496,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8467607110335293908"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8467607110335293908"
@@ -3609,6 +3699,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "4860658739016211282"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "4860658739016211282"
 				"size" "0"
@@ -3816,6 +3912,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4371874931215817064"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4371874931215817064"
@@ -4013,6 +4115,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "5999359468502785165"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "5999359468502785165"
 				"size" "0"
@@ -4220,6 +4328,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5664607073299318301"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5664607073299318301"
@@ -4417,6 +4531,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7202789966674546018"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "7202789966674546018"
 				"size" "0"
@@ -4624,6 +4744,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7992617693705249682"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7992617693705249682"
@@ -4821,6 +4947,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "4628475804235513753"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "4628475804235513753"
 				"size" "0"
@@ -5028,6 +5160,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5568977514805005034"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5568977514805005034"
@@ -5225,6 +5363,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "483676476628106674"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "483676476628106674"
 				"size" "0"
@@ -5432,11 +5576,17 @@
 				"size" "62184984"
 				"download" "59904112"
 			}
+			"public_beta"
+			{
+				"gid" "2715385707749269940"
+				"size" "62190750"
+				"download" "59910576"
+			}
 			"oculus"
 			{
-				"gid" "1958211813799401822"
-				"size" "62183881"
-				"download" "59903648"
+				"gid" "5080889246924788256"
+				"size" "62184984"
+				"download" "59904112"
 			}
 			"oculus_previous"
 			{
@@ -5569,9 +5719,9 @@
 		{
 			"baseline"
 			{
-				"gid" "A3018F6E2F6C02D9702C52C75B3E474A"
-				"size" "F993EC5AAECED689A01FE0AB7F1EC50E"
-				"download" "60E5C59991C022679BE538BF7FD3D027"
+				"gid" "B9E9BA05922A506B3921082D9CD754BB"
+				"size" "1998AC0668ED666FA35BE794E51F20FE"
+				"download" "DFAAF4E05E6B2E1353C4E41D3575CA08"
 			}
 			"tmp_branch"
 			{
@@ -5587,9 +5737,9 @@
 			}
 			"experimental2"
 			{
-				"gid" "4930A49C0B2EC015B26EAD26A9DF22FB"
-				"size" "FDEC5FA9C4459EAE115A10980EA48B0D"
-				"download" "2177CCE89B6D8812DE161E195B36A4EC"
+				"gid" "1A0AD2544E7F9BC6D16D0A34E5531BFD"
+				"size" "45C32031095A36A70C3215C6D6BD0F34"
+				"download" "2A140C7D99FC1499A5AE3FD5F9B70D8C"
 			}
 			"experimental3"
 			{
@@ -5629,6 +5779,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "8538423298506949843"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "8538423298506949843"
 				"size" "0"
@@ -5836,6 +5992,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "2376290245923035824"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "2376290245923035824"
@@ -6033,6 +6195,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "8493126685151868489"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "8493126685151868489"
 				"size" "0"
@@ -6240,6 +6408,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "280180584531605044"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "280180584531605044"
@@ -6437,6 +6611,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "1648858371444446407"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "1648858371444446407"
 				"size" "0"
@@ -6644,6 +6824,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4309460561061129218"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4309460561061129218"
@@ -6841,6 +7027,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "4716220128845186726"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "4716220128845186726"
 				"size" "0"
@@ -7048,6 +7240,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "763490717740367964"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "763490717740367964"
@@ -7245,6 +7443,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "5261877216088621057"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "5261877216088621057"
 				"size" "0"
@@ -7452,6 +7656,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7958922419590227872"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7958922419590227872"
@@ -7649,6 +7859,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7023847166734251609"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "7023847166734251609"
 				"size" "0"
@@ -7856,6 +8072,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5508406148406286721"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5508406148406286721"
@@ -8053,6 +8275,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "6769909265061195710"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "6769909265061195710"
 				"size" "0"
@@ -8260,6 +8488,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "318719124303882667"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "318719124303882667"
@@ -8457,6 +8691,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "614205605403850615"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "614205605403850615"
 				"size" "0"
@@ -8664,6 +8904,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8043778932844749102"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8043778932844749102"
@@ -8861,6 +9107,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7432566952650997396"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "7432566952650997396"
 				"size" "0"
@@ -9068,6 +9320,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4905364748903397876"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4905364748903397876"
@@ -9265,6 +9523,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7217290017793550202"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "7217290017793550202"
 				"size" "0"
@@ -9472,6 +9736,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5400260333145696346"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5400260333145696346"
@@ -9669,6 +9939,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "8722492570923931470"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "8722492570923931470"
 				"size" "0"
@@ -9876,6 +10152,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "627390679225060384"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "627390679225060384"
@@ -10073,6 +10355,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "6215803422112305490"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "6215803422112305490"
 				"size" "0"
@@ -10280,6 +10568,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "2564821458389052219"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "2564821458389052219"
@@ -10477,6 +10771,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "9211433779081099616"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "9211433779081099616"
 				"size" "0"
@@ -10684,6 +10984,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "1714236825747095403"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "1714236825747095403"
@@ -10881,6 +11187,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "2333631855110248746"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "2333631855110248746"
 				"size" "0"
@@ -11088,6 +11400,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "620015009428909093"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "620015009428909093"
@@ -11290,11 +11608,17 @@
 				"size" "89391144"
 				"download" "86466848"
 			}
+			"public_beta"
+			{
+				"gid" "4933004207778247030"
+				"size" "90867463"
+				"download" "87342720"
+			}
 			"oculus"
 			{
-				"gid" "6056027310921440995"
-				"size" "89390405"
-				"download" "86466576"
+				"gid" "6424484591762261341"
+				"size" "89391144"
+				"download" "86466848"
 			}
 			"oculus_previous"
 			{
@@ -11427,9 +11751,9 @@
 		{
 			"baseline"
 			{
-				"gid" "90A52DB4135B9D21921D11C5EECE469C"
-				"size" "7CBCAC4AAE18335642B4EA706D347A23"
-				"download" "A327765052D23EB8155E9B7E250F9EBF"
+				"gid" "0CE503D71B00BA7FF7B59F054793B1E9"
+				"size" "D7FCD0A55E0DC79C5A2844200C6D76FB"
+				"download" "FA44FD55F90D4F6E240ACB07AAA911B0"
 			}
 			"tmp_branch"
 			{
@@ -11445,9 +11769,9 @@
 			}
 			"experimental2"
 			{
-				"gid" "D18FA90890150427A5C7195EC6A3C86A"
-				"size" "0859369A6FDE6F0FDD31A860DC4F9D22"
-				"download" "939DF84F990713DAB63223486B90C1BE"
+				"gid" "060CE48A5346A6BE95137E445FF5DBAB"
+				"size" "2EA6A8E9B1EE54B858FE5E5F67F01662"
+				"download" "86F37FDB3A3ADBE7165BC0282E40C267"
 			}
 			"experimental3"
 			{
@@ -11457,9 +11781,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "2CA1B9130C9CCF9D6E8BD1C9CA6AD4B8"
-				"size" "F300DFC82DB01CA69627B717FABDE616"
-				"download" "0784F7261544C718B75D52D038CC67F1"
+				"gid" "5A6FEC58DF2833F8AC3FC65E8952694A"
+				"size" "450B33C78A4E8CEEE269DCCCA910333C"
+				"download" "71EE2E9AC82D212CD4F35A3C2732091C"
 			}
 			"internal_use"
 			{
@@ -11469,15 +11793,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "89EEBF07DB5E493B9134D25267E5F7DA"
-				"size" "491910CA18232490B076F1989DAC06F9"
-				"download" "283C4784F5322C45D40BC6781B58636E"
+				"gid" "CE94F1814C008BC84A3149B968AB72A4"
+				"size" "9D378D79DCD61394F16AD9810E1478F8"
+				"download" "B33F2CAAA4346C34B3511599537F2506"
 			}
 			"testing_junior"
 			{
-				"gid" "17C3EBFCF22656B16DD0ED41828CECB5"
-				"size" "99B651D9C2DA3F0D3CEB5FA72EF4ADBB"
-				"download" "D86AE7A6997B4E46A37948018431EE24"
+				"gid" "2D3CC22B2883B63007564690328A2BF3"
+				"size" "413EF520E83CB92B8FCDD2B0099403D2"
+				"download" "0B9F48FCDA9E7E78BF4A3B0D1DDA2485"
 			}
 		}
 	}
@@ -11487,6 +11811,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "5995400305895737089"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "5995400305895737089"
 				"size" "0"
@@ -11694,6 +12024,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "1646764676298902558"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "1646764676298902558"
@@ -11891,6 +12227,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "702960128756830977"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "702960128756830977"
 				"size" "0"
@@ -12098,6 +12440,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7516040781686027632"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7516040781686027632"
@@ -12295,6 +12643,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "5361107034067998893"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "5361107034067998893"
 				"size" "0"
@@ -12502,6 +12856,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7485045655295992031"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7485045655295992031"
@@ -12704,11 +13064,17 @@
 				"size" "84270670"
 				"download" "83316160"
 			}
+			"public_beta"
+			{
+				"gid" "4686502021506683922"
+				"size" "84279198"
+				"download" "83326320"
+			}
 			"oculus"
 			{
-				"gid" "3040930433328181360"
-				"size" "84270064"
-				"download" "83315840"
+				"gid" "7078497643259452084"
+				"size" "84270670"
+				"download" "83316160"
 			}
 			"oculus_previous"
 			{
@@ -12841,9 +13207,9 @@
 		{
 			"baseline"
 			{
-				"gid" "BFC78F5459138D3BC0B026A9EEE8D4DA"
-				"size" "EC461D05EA32DCCBC9FB1EE62DC07D75"
-				"download" "FB3910BF79E3A9FAC3C40DE7D9747524"
+				"gid" "69432D8720B8C7BC3AFD1576E370DFCB"
+				"size" "38D8955BA60857989D9685BBB4CD9FDF"
+				"download" "F0400028DDE7E9418310F466D4ED4776"
 			}
 			"tmp_branch"
 			{
@@ -12859,9 +13225,9 @@
 			}
 			"experimental2"
 			{
-				"gid" "F1C9DA2020B643DBF8C05946D496A87B"
-				"size" "2A997394E832A994DFAC93B690DDFBE3"
-				"download" "A2F22A668EECF98E6B7CCFABE6341351"
+				"gid" "9CF7772A5899A7D8218EC227EB813CC6"
+				"size" "35395B4CA4B29AF795C9263264EBCA92"
+				"download" "D9A4F4CAD71C3AAA02ACA6B5FD6F907C"
 			}
 			"experimental3"
 			{
@@ -12871,9 +13237,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "0852BC80FA1182AF60A86E3E011B490F"
+				"gid" "AF6FB30954DA7BF4D57D24B000C6C0DC"
 				"size" "EF854E296E204B821351E35CDA121692"
-				"download" "48B2ABD0E63C5D35B305D44DAEE01448"
+				"download" "4E36139AC4DC6A7FE860206342E82775"
 			}
 			"internal_use"
 			{
@@ -12883,15 +13249,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "DADB151147B2246A35F52A92FB98F785"
+				"gid" "8ED5CBB31DCF8545352F9F5BAF719D8F"
 				"size" "F250E195179E39121685437334EA070C"
-				"download" "44B645AB5CE8FB7BB557FC43C92D294A"
+				"download" "E5E5F8F84250CC2E5C0EC5DB0B243E33"
 			}
 			"testing_junior"
 			{
-				"gid" "90200831A79449A99F9B3763B5443196"
+				"gid" "67C2667EA8E90239F021F7249FBFD65F"
 				"size" "5C75FA8AF7B7B02C337B3479F2649BA0"
-				"download" "B3F20B4C5F0F38C24DA7995D962FEE5E"
+				"download" "C7E1DA4F67250DE6A29FA0BEB4113382"
 			}
 		}
 	}
@@ -12901,6 +13267,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "553771190614744972"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "553771190614744972"
 				"size" "0"
@@ -13108,6 +13480,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6406937035159279794"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6406937035159279794"
@@ -13305,6 +13683,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "1919550032765055462"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "1919550032765055462"
 				"size" "0"
@@ -13512,6 +13896,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4945826575397812199"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4945826575397812199"
@@ -13714,6 +14104,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5991883449228130297"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5991883449228130297"
@@ -13910,11 +14306,17 @@
 				"size" "97824029"
 				"download" "95239296"
 			}
+			"public_beta"
+			{
+				"gid" "8279370503952775919"
+				"size" "97825038"
+				"download" "95242832"
+			}
 			"oculus"
 			{
-				"gid" "6900461006638542443"
-				"size" "97820973"
-				"download" "95238528"
+				"gid" "5934999668868025211"
+				"size" "97824029"
+				"download" "95239296"
 			}
 			"oculus_previous"
 			{
@@ -14041,9 +14443,9 @@
 		{
 			"baseline"
 			{
-				"gid" "F7E5283C1D2EFD1BC52CF072BB783C0C"
-				"size" "A8CBE73C341D4EF3786FE97E8BE5BF18"
-				"download" "34068066E99240749EB36B1D0F07E110"
+				"gid" "A8EC7AD2657C2129A081248709233E2E"
+				"size" "968B8214CE90CCF96239A64C27BBCCD5"
+				"download" "3CF060667DB8F5706E8F8F663372EB35"
 			}
 			"tmp_branch"
 			{
@@ -14059,9 +14461,9 @@
 			}
 			"experimental2"
 			{
-				"gid" "91EEFCA3709B1E148B70E67DBF74A89B"
-				"size" "04322423192C8FA5C4177D0553915945"
-				"download" "67D33484AD1E4F8763E369E2B1E63DD6"
+				"gid" "6095FA169C019D6FDE47AD97BD35A825"
+				"size" "0643EA351747E76687A4CE4883EB181A"
+				"download" "8AD43FB0F3F8A4B693A281141AF9DAB4"
 			}
 			"experimental3"
 			{
@@ -14071,9 +14473,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "5318DD80C46A3E34096F5A769F3192BC"
-				"size" "822AE59896F62E14EBC3C5ADDC8641C8"
-				"download" "684BA594E595381691C4924D596EEFA4"
+				"gid" "608175B22D3E8FBFC2AF62496E1B0548"
+				"size" "BEFEF3089EC2FFA6AFE2DD2504F8EE93"
+				"download" "75DDB6DCD975CDACC72955BEC82321E5"
 			}
 			"internal_use"
 			{
@@ -14083,15 +14485,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "5A2F6B88895A3430DCA52CEBD18B245F"
-				"size" "CE7BCC87281394BC68604749E3A7F435"
-				"download" "4C9FB021CEE3C73AEFDE2B36D624E791"
+				"gid" "61A4F8455CDA2CCD90D0481D76DC2E65"
+				"size" "73DCE266AB651C72A8BBB8DA0935CDD5"
+				"download" "B4A005A8D43846E67544C355AC67027D"
 			}
 			"testing_junior"
 			{
-				"gid" "A14591A3D050FE9DEC6AB2148FAAACEE"
-				"size" "AF5DCFA39E076544B3E9A53DAE87EFC0"
-				"download" "7DA10D015C11FF054B517E4B4B55B12C"
+				"gid" "BB2482259540FB7DA4FD11E975143664"
+				"size" "0A4711E54A17BB0398E98231414EBDAB"
+				"download" "D43835676A18CB21CCBCEEBBDFD824A9"
 			}
 		}
 	}
@@ -14101,6 +14503,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "3931725649050572730"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "3931725649050572730"
 				"size" "0"
@@ -14302,6 +14710,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "3465626021269207986"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "3465626021269207986"
@@ -14493,6 +14907,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7545485906113247155"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "7545485906113247155"
 				"size" "0"
@@ -14694,6 +15114,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7178260226727326542"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7178260226727326542"
@@ -14885,6 +15311,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "4671341810091804714"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "4671341810091804714"
 				"size" "0"
@@ -15086,11 +15518,17 @@
 				"size" "215005046"
 				"download" "210611216"
 			}
+			"public_beta"
+			{
+				"gid" "2013490871192834134"
+				"size" "216889831"
+				"download" "212506560"
+			}
 			"oculus"
 			{
-				"gid" "539425569379261366"
-				"size" "215003667"
-				"download" "210610752"
+				"gid" "8528195796819274393"
+				"size" "215005046"
+				"download" "210611216"
 			}
 			"oculus_previous"
 			{
@@ -15211,9 +15649,9 @@
 		{
 			"baseline"
 			{
-				"gid" "A27D3392D9C625DA57A2AE670D3916DE"
-				"size" "BEBABF05C0A677E6D33B19579DB2319F"
-				"download" "4853E5BECBB8616BC3BF105484531F39"
+				"gid" "0B2DF4A39325040F125CC00A4A00C144"
+				"size" "F7BAB99BD3E7B9A2CA29433910857A22"
+				"download" "9F865AC1AFD6729C228803F74E84E0FD"
 			}
 			"tmp_branch"
 			{
@@ -15229,9 +15667,9 @@
 			}
 			"experimental2"
 			{
-				"gid" "750C0ECBA32894E50AAE61AC64CC7588"
-				"size" "6C37B986031E7D6A069E6E0B1228F35F"
-				"download" "3F2C7A6298FC2BE2C9FA862074557B4D"
+				"gid" "F3BC41431B1A847203F00CAFF1BFA505"
+				"size" "3CDF44012DEDC17A78B34E9F3ED97DDF"
+				"download" "2701027998A9640B5216052DE3190824"
 			}
 			"experimental3"
 			{
@@ -15241,9 +15679,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "10BF4E656CE2646E8760B5CBBB08067D"
-				"size" "915B92DDD220FC65FFD268568E45C2C0"
-				"download" "860D9CC61DAB143459009D3B61C0BB9A"
+				"gid" "3991CC78175483BDB2882F10076A2E8B"
+				"size" "47124A48F68DFB5E8F6699930860C772"
+				"download" "A27C3AD2ED10FED2B8EB36946FEDEE46"
 			}
 			"internal_use"
 			{
@@ -15253,15 +15691,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "0CDA7EEE4F1DE387B34BD74BC34CC436"
-				"size" "39DB95E70E8E5432B775A2E18E411700"
-				"download" "EB582E727EB72C9E67BB74913D6C4775"
+				"gid" "12EB8E55E1C6A97014C3164C6A5E85CE"
+				"size" "136596CE5AF0615ADDCA77776505E605"
+				"download" "082504517B2EEB1D191A514E84EDA943"
 			}
 			"testing_junior"
 			{
-				"gid" "92ED60C36C9D23E11D034CB587252DB2"
-				"size" "1699950BB41609EB6DD9536B1020B604"
-				"download" "93F7C1E6A35B5C6650299AB76D24183D"
+				"gid" "AC000480963F3B4CDF4D97CA464AEA5E"
+				"size" "5CDBAC9160CF90C44B401EB365DCCBEA"
+				"download" "456F46D4033EF3CFD11A64EA2D9355BE"
 			}
 		}
 	}
@@ -15271,6 +15709,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "1067637122708666818"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "1067637122708666818"
 				"size" "0"
@@ -15472,6 +15916,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "1121503996381158582"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "1121503996381158582"
@@ -15657,6 +16107,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "3324815250320656782"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "3324815250320656782"
 				"size" "0"
@@ -15852,6 +16308,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "2379835362999603702"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "2379835362999603702"
@@ -16031,6 +16493,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "4489366073136472613"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "4489366073136472613"
 				"size" "0"
@@ -16218,11 +16686,17 @@
 				"size" "352679653"
 				"download" "349964896"
 			}
+			"public_beta"
+			{
+				"gid" "128684967024388327"
+				"size" "352896839"
+				"download" "350184768"
+			}
 			"oculus"
 			{
-				"gid" "5435571572479362457"
-				"size" "352676861"
-				"download" "349963488"
+				"gid" "4180271924217711786"
+				"size" "352679653"
+				"download" "349964896"
 			}
 			"oculus_previous"
 			{
@@ -16319,9 +16793,9 @@
 		{
 			"baseline"
 			{
-				"gid" "02297A97CCB9E56C336007D7F342931D"
-				"size" "B098123873D445BB14ADF7A1800509E8"
-				"download" "5DFB4255A7C2AF1CEC75E941C8457F8A"
+				"gid" "B4058109FDFB8D85D2B857DBF7A429C9"
+				"size" "DDECBFD649B15B00E0244A2E897669F9"
+				"download" "08129508FA1EAAF4832B91E3BD494FA2"
 			}
 			"tmp_branch"
 			{
@@ -16337,9 +16811,9 @@
 			}
 			"experimental2"
 			{
-				"gid" "23B69E22C974A9CEA571FC8B9526089C"
-				"size" "4D730629F3A165F558DC785AC4ABFD80"
-				"download" "15127C46F507F462D6B18AD190E2E6CC"
+				"gid" "066B38315EF4C1DB9449428B87B33F91"
+				"size" "FE0D6AABE40496AFC5599AEE80B18C87"
+				"download" "D66D038805346D3EE037CF76506C246F"
 			}
 			"experimental3"
 			{
@@ -16349,9 +16823,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "0579EE3D89C2675804FFC0ADFAE1DBC5"
-				"size" "EF73641F326E7B7691BFECD5352E53B0"
-				"download" "2F2F4CB7CBBC8BBDECD354731AD4E312"
+				"gid" "1CF76924294BEEEA6595DA09EDCA26CE"
+				"size" "A36F2600FF872C057C150F3604F95BD3"
+				"download" "892740065435E4A8CB424A430CF0E6BF"
 			}
 			"internal_use"
 			{
@@ -16361,15 +16835,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "AAC37E2070E1E419E50D3D957AE47F49"
-				"size" "AE2BE8FCF67B8156CDCFEA1CC7FBC833"
-				"download" "A6DC23FF47EFCC74B5FDD3F000290203"
+				"gid" "F33AB6A2B10845ACABDCFCDE8BA89C5B"
+				"size" "5C366DB8DCA9D61E62E0CDA73FF41DA3"
+				"download" "1A7679CDC5CDE3EEF855588FB7DFB0F5"
 			}
 			"testing_junior"
 			{
-				"gid" "6953D43413C14459EA1A0F2BA536BBB4"
-				"size" "F1F3796EF1C55C9A36113FED4CC06F84"
-				"download" "F92B8105D3DE24D5F3D9029B71C60893"
+				"gid" "E87A4F5AE96CC2FE3AD0F98E2625FC18"
+				"size" "22418587A2B53E8300A8591E6BAAF488"
+				"download" "2BA6A718016CC0E2F04A4118D71F615E"
 			}
 		}
 	}
@@ -16379,6 +16853,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "1383614172783786394"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "1383614172783786394"
 				"size" "0"
@@ -16550,6 +17030,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8323549460675734992"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8323549460675734992"
@@ -16710,6 +17196,12 @@
 				"size" "425760240"
 				"download" "420998416"
 			}
+			"public_beta"
+			{
+				"gid" "4055004017445460098"
+				"size" "421674304"
+				"download" "417039920"
+			}
 			"oculus"
 			{
 				"gid" "8921517554927394570"
@@ -16793,7 +17285,7 @@
 			}
 			"experimental4"
 			{
-				"gid" "8F8FFC9E9D9726DC4093426BCDAB767B"
+				"gid" "3AF6E3A3C1EDC9A7728D26F4B056AE38"
 				"size" "82B479680E00D68124D0599FE6B1E58F"
 				"download" "F7D3186E4CBC066D72C542F4DF3EB20F"
 			}
@@ -16805,13 +17297,13 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "E2BD3EC96BE8DAEBE4D732856871E040"
+				"gid" "16A260935AB970B413D7863929AD759E"
 				"size" "16F78CE8EB7DE7B2A7321BBD191B320E"
 				"download" "94CBF0CF783EBB4C91CAF27E135A62AA"
 			}
 			"testing_junior"
 			{
-				"gid" "D3371F7DC6976B203833EC7601D93611"
+				"gid" "95D0CC39ACE8E7B7290F28076804EAC3"
 				"size" "0956F79AB03D07B9AB2A6B34378A8A99"
 				"download" "22D5297884C1B66B463F5CE5266D5C3B"
 			}
@@ -16823,6 +17315,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "6888770779331421318"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "6888770779331421318"
 				"size" "0"
@@ -16976,6 +17474,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8368596210107716972"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8368596210107716972"
@@ -17118,11 +17622,17 @@
 				"size" "502748750"
 				"download" "495200864"
 			}
+			"public_beta"
+			{
+				"gid" "6848337571739146050"
+				"size" "475140423"
+				"download" "468012416"
+			}
 			"oculus"
 			{
-				"gid" "3871066249418703043"
-				"size" "502746778"
-				"download" "495200064"
+				"gid" "9089547057690657587"
+				"size" "502748750"
+				"download" "495200864"
 			}
 			"oculus_previous"
 			{
@@ -17171,9 +17681,9 @@
 		{
 			"baseline"
 			{
-				"gid" "F5C09B780C8B2462006663E42F83938E"
-				"size" "A358DD3079ACBF0295A8014ED2714910"
-				"download" "4C9E9D03815EFC8B13C6DFCA19B0F92E"
+				"gid" "CDC73A23BA5C67E298462BE5F45683C2"
+				"size" "FA300883AA7C431933D471A685290B0D"
+				"download" "F84C88D1D3A043F98589D4F6F900DB82"
 			}
 			"tmp_branch"
 			{
@@ -17189,9 +17699,9 @@
 			}
 			"experimental2"
 			{
-				"gid" "170AF0BDCC3F9B3A02A0C16BBE3BEB73"
-				"size" "4D45F8E57090D1B72490FA2CA558E2DF"
-				"download" "5A1FC0E4DB25D6FBA14BB2450C33793E"
+				"gid" "E1F1986BEF5BB741A2A4D90EB8F1AB24"
+				"size" "539E59A99EA6980AC64C1C325AD26291"
+				"download" "8D688541FD1FA40C7F3A0F7777C731BF"
 			}
 			"experimental3"
 			{
@@ -17201,9 +17711,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "30ADFD1828B510834731D89E8FB0F2DB"
-				"size" "8CB66FC4780B8C0BFB59AA52E2A43046"
-				"download" "3468B4175A54430EABDD0CE2D7383CB6"
+				"gid" "00B662B2DEACB3DF955B11796015C9FE"
+				"size" "60E80CD7C165066FF5E552BE1BAC97B4"
+				"download" "AFE85A39C2CF600006CB0A7EC5D2137C"
 			}
 			"internal_use"
 			{
@@ -17213,15 +17723,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "7868552CDBF7B6BF404E8286DFEEB76A"
-				"size" "4A108918BA6716BFAB40691A130F772C"
-				"download" "DB120FA3873A602F15D5F30C0F89AC30"
+				"gid" "336F2080D3B8F2A061EF71CB24BC5CA2"
+				"size" "F0BDDDE13EF70034230BDA9E3AE3C696"
+				"download" "83D8581422F4B07365CD59453F0365A8"
 			}
 			"testing_junior"
 			{
-				"gid" "8862DB2EB3BFF1FE67B14EF12086255E"
-				"size" "A526736C0FA5897F36A4508AD1FFA321"
-				"download" "1F667A93F3022E93EFB24A781D71649F"
+				"gid" "B1CCAAB0FEB37827C55C3221D1DFAE8F"
+				"size" "94AB67C2CE42BC982E8672279473FC19"
+				"download" "B2EC4F97FF964F3543DCD1467901CEFF"
 			}
 		}
 	}
@@ -17231,6 +17741,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "8615273824501394788"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "8615273824501394788"
 				"size" "0"
@@ -17372,6 +17888,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "3225902090318410395"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "3225902090318410395"
@@ -17502,6 +18024,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7809383020142126541"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7809383020142126541"
@@ -17621,6 +18149,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "7895863578875893287"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "7895863578875893287"
 				"size" "0"
@@ -17750,6 +18284,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7245421719166789535"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7245421719166789535"
@@ -17857,6 +18397,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "8804192099694682025"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "8804192099694682025"
 				"size" "0"
@@ -17980,6 +18526,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5009768597697504470"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5009768597697504470"
@@ -18092,6 +18644,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6125692916729941617"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6125692916729941617"
@@ -18198,6 +18756,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8987986584070519860"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8987986584070519860"
@@ -18298,6 +18862,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8290080232077515320"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8290080232077515320"
@@ -18392,6 +18962,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6665593843249505581"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6665593843249505581"
@@ -18474,26 +19050,32 @@
 		"dlcappid" "2604420"
 		"manifests"
 		{
+			"public_beta"
+			{
+				"gid" "5045871470844935503"
+				"size" "543691316"
+				"download" "532058592"
+			}
 		}
 		"encryptedmanifests"
 		{
 			"experimental4"
 			{
-				"gid" "FD9E8718E2EB3D94E944FF1A3EDB3B7D"
-				"size" "9C9C398360361525194EA49F580D2BF5"
-				"download" "58AB0EE396C875C2507918264E514F53"
+				"gid" "896128EDA4FB180B522C5A8E55D7FF49"
+				"size" "B16885CF45E5957B4EAFF889664E08EA"
+				"download" "ABE132E8E977F562B86E6B95293BAD4F"
 			}
 			"testing_senior_e"
 			{
-				"gid" "6689479AEFAE6B9A4C49A6AC348529F1"
-				"size" "A2A67D4EBE3D14026C28073FFC8450E3"
-				"download" "8CA486AC8842A27F700E8F572291B137"
+				"gid" "CF4A63BB3063DF832E1F715CFE4321AA"
+				"size" "56CE841B8E219A8A53F37397AA1BD42F"
+				"download" "F80EC0C2E92E19449C7F235F5D3F8993"
 			}
 			"testing_junior"
 			{
-				"gid" "83E4FEA808156B081A055C0E8F6EB140"
-				"size" "C436839687EAB1DD300A011231E4BA46"
-				"download" "404E34D6DD3D24A6BEF7424B8138A486"
+				"gid" "8F4342575E25332CE6EA1B3ADF572CB7"
+				"size" "2745415A6991ED4E918F12C7C5134953"
+				"download" "68712598D0036894D197B56F6CED1E61"
 			}
 		}
 	}
@@ -18503,6 +19085,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "6024978619739322674"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
 			{
 				"gid" "6024978619739322674"
 				"size" "0"
@@ -18600,6 +19188,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "3942582452463801047"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_51"
 			{
 				"gid" "3942582452463801047"
@@ -18658,14 +19252,20 @@
 	{
 		"public"
 		{
-			"buildid" "16155310"
-			"timeupdated" "1729755681"
+			"buildid" "16168141"
+			"timeupdated" "1729845982"
 		}
 		"baseline"
 		{
-			"buildid" "16064830"
+			"buildid" "16168141"
 			"pwdrequired" "1"
-			"timeupdated" "1729098313"
+			"timeupdated" "1729855963"
+		}
+		"public_beta"
+		{
+			"buildid" "16181444"
+			"description" "Open Beta for game version 1.53"
+			"timeupdated" "1729871209"
 		}
 		"tmp_branch"
 		{
@@ -18681,21 +19281,21 @@
 		}
 		"experimental2"
 		{
-			"buildid" "16157363"
+			"buildid" "16162638"
 			"pwdrequired" "1"
-			"timeupdated" "1729752475"
+			"timeupdated" "1729759322"
 		}
 		"experimental3"
 		{
-			"buildid" "16155310"
+			"buildid" "16168141"
 			"pwdrequired" "1"
-			"timeupdated" "1729710786"
+			"timeupdated" "1729845907"
 		}
 		"experimental4"
 		{
-			"buildid" "16130693"
+			"buildid" "16181444"
 			"pwdrequired" "1"
-			"timeupdated" "1729583258"
+			"timeupdated" "1729864849"
 		}
 		"internal_use"
 		{
@@ -18705,21 +19305,21 @@
 		}
 		"testing_senior_e"
 		{
-			"buildid" "16130693"
+			"buildid" "16181444"
 			"pwdrequired" "1"
-			"timeupdated" "1729602943"
+			"timeupdated" "1729871117"
 		}
 		"testing_junior"
 		{
-			"buildid" "16130693"
+			"buildid" "16181444"
 			"pwdrequired" "1"
-			"timeupdated" "1729603036"
+			"timeupdated" "1729871154"
 		}
 		"oculus"
 		{
-			"buildid" "16100926"
+			"buildid" "16162638"
 			"description" "Oculus+OpenVR+OpenXR - 1.52"
-			"timeupdated" "1729410595"
+			"timeupdated" "1729767225"
 		}
 		"oculus_previous"
 		{
@@ -18855,6 +19455,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "25871916"
-"_sha" "792c2829de292825de714e5335d883660266f326"
-"_size" "396787"
+"_change_number" "25899193"
+"_sha" "a4b6049d86ea90c69e9a988b26b8aafda3f4f247"
+"_size" "407224"
