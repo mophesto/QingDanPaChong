@@ -81,7 +81,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -95,12 +95,65 @@
 		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomCenter"
-			"width_pct" "32"
-			"height_pct" "50"
+			"pinned_position" "CenterCenter"
+			"width_pct" "61.7482837528604"
+			"height_pct" "96.35258143682594"
 		}
 	}
-	"store_asset_mtime" "1710346654"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "61.7482837528604"
+				"height_pct" "96.35258143682594"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724076037"
 	"associations"
 	{
 		"0"
@@ -269,8 +322,8 @@
 		"7" "3839"
 		"8" "4182"
 		"9" "1663"
-		"10" "3843"
-		"11" "599"
+		"10" "599"
+		"11" "3843"
 		"12" "1685"
 		"13" "1774"
 		"14" "1719"
@@ -409,27 +462,27 @@
 		{
 			"public"
 			{
-				"gid" "7867856411140634436"
-				"size" "3928382058"
-				"download" "2285158928"
+				"gid" "4566228987620639072"
+				"size" "3953949026"
+				"download" "2292261984"
 			}
 			"dev"
 			{
-				"gid" "8268118197248679991"
-				"size" "3939891030"
-				"download" "2290634576"
+				"gid" "5894262271823241276"
+				"size" "3953949019"
+				"download" "2292261168"
 			}
 			"prerelease"
 			{
-				"gid" "7867856411140634436"
-				"size" "3928382058"
-				"download" "2285158928"
+				"gid" "4566228987620639072"
+				"size" "3953949026"
+				"download" "2292261984"
 			}
 			"x86-64"
 			{
-				"gid" "6293046848988342869"
-				"size" "3883899082"
-				"download" "2278223552"
+				"gid" "689983963120175225"
+				"size" "3897957667"
+				"download" "2279850512"
 			}
 		}
 	}
@@ -444,27 +497,27 @@
 		{
 			"public"
 			{
-				"gid" "8035161888290940832"
-				"size" "211963312"
-				"download" "79520320"
+				"gid" "6245593690102914874"
+				"size" "213522864"
+				"download" "80125584"
 			}
 			"dev"
 			{
-				"gid" "5881148135439939766"
-				"size" "211962800"
-				"download" "79515456"
+				"gid" "9070971264481217252"
+				"size" "213520816"
+				"download" "80140384"
 			}
 			"prerelease"
 			{
-				"gid" "8035161888290940832"
-				"size" "211963312"
-				"download" "79520320"
+				"gid" "6245593690102914874"
+				"size" "213522864"
+				"download" "80125584"
 			}
 			"x86-64"
 			{
-				"gid" "2635319023367594830"
-				"size" "496065997"
-				"download" "168581136"
+				"gid" "4452190181941734107"
+				"size" "496388988"
+				"download" "168660336"
 			}
 		}
 	}
@@ -479,27 +532,27 @@
 		{
 			"public"
 			{
-				"gid" "2052583873428767854"
-				"size" "281680979"
-				"download" "61359936"
+				"gid" "7126799043510697464"
+				"size" "281785811"
+				"download" "61382464"
 			}
 			"dev"
 			{
-				"gid" "5037500555073233825"
-				"size" "281680075"
-				"download" "61356272"
+				"gid" "3062150256748329512"
+				"size" "281785787"
+				"download" "61380864"
 			}
 			"prerelease"
 			{
-				"gid" "2052583873428767854"
-				"size" "281680979"
-				"download" "61359936"
+				"gid" "7126799043510697464"
+				"size" "281785811"
+				"download" "61382464"
 			}
 			"x86-64"
 			{
-				"gid" "7331635329841149861"
-				"size" "361188858"
-				"download" "99254256"
+				"gid" "7951912065186409744"
+				"size" "361251495"
+				"download" "99276672"
 			}
 		}
 	}
@@ -514,27 +567,27 @@
 		{
 			"public"
 			{
-				"gid" "6842164766346563740"
-				"size" "158417942"
-				"download" "33832016"
+				"gid" "4825694041086422968"
+				"size" "158522022"
+				"download" "33840352"
 			}
 			"dev"
 			{
-				"gid" "1329457759479938120"
-				"size" "158417554"
-				"download" "33826320"
+				"gid" "6056163574239818953"
+				"size" "158521558"
+				"download" "33840112"
 			}
 			"prerelease"
 			{
-				"gid" "6842164766346563740"
-				"size" "158417942"
-				"download" "33832016"
+				"gid" "4825694041086422968"
+				"size" "158522022"
+				"download" "33840352"
 			}
 			"x86-64"
 			{
-				"gid" "8723528855996271157"
-				"size" "260561993"
-				"download" "79559376"
+				"gid" "346765821520682009"
+				"size" "260637369"
+				"download" "79573504"
 			}
 		}
 	}
@@ -543,26 +596,26 @@
 	{
 		"public"
 		{
-			"buildid" "15318782"
-			"timeupdated" "1723209039"
+			"buildid" "16213860"
+			"timeupdated" "1730213846"
 		}
 		"dev"
 		{
-			"buildid" "15307802"
+			"buildid" "16209063"
 			"description" "Development Branch"
-			"timeupdated" "1723138682"
+			"timeupdated" "1730135619"
 		}
 		"prerelease"
 		{
-			"buildid" "15318782"
+			"buildid" "16213860"
 			"description" "Pre-Release Branch"
-			"timeupdated" "1723208756"
+			"timeupdated" "1730163412"
 		}
 		"x86-64"
 		{
-			"buildid" "15319112"
+			"buildid" "16222969"
 			"description" "Chromium + 64-bit binaries"
-			"timeupdated" "1723210445"
+			"timeupdated" "1730214285"
 		}
 	}
 }
@@ -592,22 +645,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_playing" "Playing %multi%\n%map% - %gamemode%"
-				"#status_generic" "%generic%"
-				"#status_inmenu" "In Menus"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "24720562"
-"_sha" "32d05927247191bea811eb1adb114a2ec0d05794"
-"_size" "10733"
+"_change_number" "25953210"
+"_sha" "9104d5e81acbf69bd231cf9a0817544c44de9d03"
+"_size" "11357"
