@@ -85,11 +85,11 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
 		"tchinese" "capsule_231x87_tchinese.jpg"
 		"schinese" "capsule_231x87_schinese.jpg"
 		"koreana" "capsule_231x87_koreana.jpg"
 		"japanese" "capsule_231x87_japanese.jpg"
+		"english" "2553a29b164258cb9de5dc87565e94bff88e9108/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -181,7 +181,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726587693"
+	"store_asset_mtime" "1729716538"
 	"associations"
 	{
 		"0"
@@ -302,31 +302,31 @@
 		"2" "8666"
 		"3" "1646"
 		"4" "1734"
-		"5" "4608"
+		"5" "3839"
 		"6" "4026"
-		"7" "3839"
+		"7" "4608"
 		"8" "11104"
 		"9" "4667"
 		"10" "1621"
 		"11" "21"
 		"12" "4106"
 		"13" "3835"
-		"14" "3993"
-		"15" "4182"
+		"14" "4182"
+		"15" "3993"
 		"16" "198913"
 		"17" "1688"
 		"18" "1743"
 		"19" "9"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
 	"developer" "One More Level"
 	"publisher" "505 Games"
 	"homepage" "https://ghostrunnergame.com/"
-	"listofdlc" "2573290,2573300,2573310,2574920,2691130,2769320,2988270,3092910"
+	"listofdlc" "2573290,2573300,2573310,2574920,2691130,2769320,2988270,3092910,3232490"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -484,9 +484,9 @@
 		{
 			"public"
 			{
-				"gid" "1924298032577216326"
-				"size" "74632502803"
-				"download" "28912589312"
+				"gid" "5236436374264945035"
+				"size" "74990469915"
+				"download" "29046790896"
 			}
 		}
 		"encryptedmanifests"
@@ -508,12 +508,6 @@
 				"gid" "AB613ED2B19464A486431D25EADA7632"
 				"size" "3E62E8772DA324A69FD7CA68E3437EF9"
 				"download" "727A36F19E29F2C5F09BC162403A18BA"
-			}
-			"dlc_review"
-			{
-				"gid" "4DBD1AA86F96341D9061AFFE943069F4"
-				"size" "7CE38730F05BF78A1305A2097A43546A"
-				"download" "37CF78F67B634EE75AA1BE91BB611160"
 			}
 			"events"
 			{
@@ -571,9 +565,15 @@
 			}
 			"beta"
 			{
-				"gid" "02179FDAD3B3340F9DFE9DD7D8A340B2"
-				"size" "C54CD011380D48D1AE6FF162DB40DB19"
-				"download" "6B9FE4A828EF822C82EEEB0BDD542BB1"
+				"gid" "A3A7949557EF9B0E72E0B5704B5A3EA6"
+				"size" "916C6DD5A7A41EF2932BC8308D6B9A9A"
+				"download" "8B88A0F818F9E05A1FCCFE9815FD50B5"
+			}
+			"dlc_review"
+			{
+				"gid" "84825FD37FC3458AA5583413B58C669F"
+				"size" "ABA709AC3CB35F050B74B15D78C02054"
+				"download" "F14AEF3EFEB7258DC49087653B7C381C"
 			}
 			"dlc5_development"
 			{
@@ -613,15 +613,15 @@
 			}
 			"zenith_shipping"
 			{
-				"gid" "373644650C8CEBD852CAA3760EB8ED15"
-				"size" "DDD9F0E4F896E15B98D3EAFDF6FB19B8"
-				"download" "4F1A5AD8216CD9BB4BD312C8A9F5F88B"
+				"gid" "42AF2E0F95EA4FACF4898F6691612D85"
+				"size" "C4DAFFC1BC0213F8B99C98D40AA04797"
+				"download" "4E2DC5FBAE31CC58E4E4CB3966296364"
 			}
 			"zenith_shipping2"
 			{
-				"gid" "51DEE02BABA49267AC1757896AC3B307"
-				"size" "7B399CCB32415F88CCB67F36F30F4FE0"
-				"download" "4343FF72D1AF6C63F59D068147AB4047"
+				"gid" "52A70ECA9E760D64FF2ACB24F3388D6C"
+				"size" "2A29209AC839EE5CA84668344ED64D95"
+				"download" "CB35E8BC78BC53A4F259F926A5056294"
 			}
 		}
 	}
@@ -629,8 +629,8 @@
 	{
 		"public"
 		{
-			"buildid" "15661352"
-			"timeupdated" "1726585095"
+			"buildid" "16083277"
+			"timeupdated" "1730297129"
 		}
 		"alpha"
 		{
@@ -649,12 +649,6 @@
 			"buildid" "12586600"
 			"pwdrequired" "1"
 			"timeupdated" "1698787300"
-		}
-		"dlc_review"
-		{
-			"buildid" "12793434"
-			"pwdrequired" "1"
-			"timeupdated" "1700851643"
 		}
 		"events"
 		{
@@ -712,9 +706,15 @@
 		}
 		"beta"
 		{
-			"buildid" "15661352"
+			"buildid" "15980859"
 			"pwdrequired" "1"
-			"timeupdated" "1726042838"
+			"timeupdated" "1728479394"
+		}
+		"dlc_review"
+		{
+			"buildid" "15815290"
+			"pwdrequired" "1"
+			"timeupdated" "1727222164"
 		}
 		"dlc5_development"
 		{
@@ -754,15 +754,15 @@
 		}
 		"zenith_shipping"
 		{
-			"buildid" "15588579"
+			"buildid" "16083277"
 			"pwdrequired" "1"
-			"timeupdated" "1725463911"
+			"timeupdated" "1729178479"
 		}
 		"zenith_shipping2"
 		{
-			"buildid" "14897259"
+			"buildid" "16064299"
 			"pwdrequired" "1"
-			"timeupdated" "1720433395"
+			"timeupdated" "1729074720"
 		}
 	}
 }
@@ -795,6 +795,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25264262"
-"_sha" "2a9d82c4c1570aef78619d8a93df8cb88ff304ef"
-"_size" "16441"
+"_change_number" "25972758"
+"_sha" "09826f86e20b6c4cd3a4b2e6621def572474f319"
+"_size" "16490"
