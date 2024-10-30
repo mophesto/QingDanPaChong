@@ -30,16 +30,6 @@
 		"brazilian" "Relic Hunters Legend"
 		"tchinese" "遺跡獵人：傳說"
 	}
-	"eulas"
-	{
-		"0"
-		{
-			"id" "633080_eula_0"
-			"name" "Relic Hunters Legend EULA"
-			"url" "https://store.steampowered.com//eula/633080_eula_0"
-			"version" "1"
-		}
-	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -316,6 +306,7 @@
 		}
 	}
 	"steam_release_date" "1695661440"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "633080"
 	"store_tags"
@@ -391,9 +382,9 @@
 		{
 			"public"
 			{
-				"gid" "7160441501053821343"
-				"size" "12874556669"
-				"download" "10222979568"
+				"gid" "4772115868237866929"
+				"size" "12824756959"
+				"download" "10188589520"
 			}
 		}
 		"encryptedmanifests"
@@ -412,21 +403,21 @@
 			}
 			"internal"
 			{
-				"gid" "F9AEEBA7C9E4772C0579BB9FF5E38689"
-				"size" "EFB046BF623084E69009790FCF1CBD2D"
-				"download" "8271F037758EE2BE6A0405E47486D70C"
+				"gid" "1DE5DD68688A2E6F9624DDC3DAE36707"
+				"size" "C1E5B52FCE4F0C41981C998D81EFB7C1"
+				"download" "6328DA08897FD24B5F297ABF8931E4C0"
 			}
 			"playtest"
 			{
-				"gid" "E88408255E6E1A4FDEF33632E2920D6C"
-				"size" "DCB5FEACC6F2B477AE54DEE45E658864"
-				"download" "8109888FBCC321E823EB8D33F38BF57A"
+				"gid" "C481A3FC2CC8754133423FE59D05728E"
+				"size" "BE564D64087736679F9BD17C027071FD"
+				"download" "972AD375FFB52D6657F695CC57FC701B"
 			}
 			"playtest_2"
 			{
-				"gid" "4AD2C2743311BB5DDBFF5CE180156F69"
-				"size" "136A046A084F2A7FC1244057651F006A"
-				"download" "F60399217ED302B0293077B4A982F7EE"
+				"gid" "BDB38381A362E2376DDDA913C09997FA"
+				"size" "657395377A5650C046435F7341C3B8FB"
+				"download" "329EC605C146FB3599545A30B5BE68F8"
 			}
 		}
 	}
@@ -484,7 +475,7 @@
 		{
 			"public"
 			{
-				"gid" "730024654516429893"
+				"gid" "9031490347841921004"
 				"size" "378121167"
 				"download" "366257136"
 			}
@@ -493,19 +484,19 @@
 		{
 			"internal"
 			{
-				"gid" "0F122EF4F0094B72C8C4301BDB28E29B"
+				"gid" "543F8DC71B89AF41E73F0C628E02D260"
 				"size" "7CEABB89E238D626F736DFAAAF305DE4"
 				"download" "48FF0379C64361FF10558A2CB78ED736"
 			}
 			"playtest"
 			{
-				"gid" "6EBD1E33762E829CB7EE5B9004CF0A6C"
+				"gid" "11BC22225C58563EE0C6F77AE7AAA171"
 				"size" "BF7F0004746E52DE2C4CEF42AA0507F4"
 				"download" "53E47EE737F8343E67D5DC4B934B3190"
 			}
 			"playtest_2"
 			{
-				"gid" "ECB31F113527B259AED292AB528EB800"
+				"gid" "AE044C7B52A2FFAE083C68B4869C3FB3"
 				"size" "EC8FE03BBFDE3F07E86A6F09F4EC1F49"
 				"download" "BAA9238F03DDEAFBEB5A1A19EC194453"
 			}
@@ -515,8 +506,8 @@
 	{
 		"public"
 		{
-			"buildid" "15880376"
-			"timeupdated" "1727729162"
+			"buildid" "16224936"
+			"timeupdated" "1730223083"
 		}
 		"east"
 		{
@@ -532,27 +523,27 @@
 		}
 		"internal"
 		{
-			"buildid" "15879707"
+			"buildid" "16226462"
 			"pwdrequired" "1"
-			"timeupdated" "1727723862"
+			"timeupdated" "1730230530"
 		}
 		"playtest"
 		{
-			"buildid" "15880376"
+			"buildid" "16224936"
 			"pwdrequired" "1"
-			"timeupdated" "1727728172"
+			"timeupdated" "1730222598"
 		}
 		"playtest_2"
 		{
-			"buildid" "15809654"
+			"buildid" "16207513"
 			"pwdrequired" "1"
-			"timeupdated" "1727187448"
+			"timeupdated" "1730127990"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "4800000"
+	"quota" "25000000"
 	"maxnumfiles" "200"
 	"savefiles"
 	{
@@ -649,6 +640,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25465911"
-"_sha" "104d4d486e2a567a6601f15287821535e2b9b53d"
-"_size" "14443"
+"_change_number" "25957636"
+"_sha" "3c1397dc03d379758c6a1da5b7721611ae0e3985"
+"_size" "14294"
