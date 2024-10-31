@@ -251,9 +251,9 @@
 		"9" "9157"
 		"10" "4182"
 		"11" "87918"
-		"12" "3871"
-		"13" "1702"
-		"14" "1742"
+		"12" "1742"
+		"13" "3871"
+		"14" "1702"
 		"15" "3959"
 		"16" "4136"
 		"17" "22602"
@@ -510,9 +510,9 @@
 		{
 			"public"
 			{
-				"gid" "7867260572501460119"
-				"size" "2942671635"
-				"download" "2287368784"
+				"gid" "714217358114299465"
+				"size" "2942680132"
+				"download" "2287491296"
 			}
 		}
 		"encryptedmanifests"
@@ -525,9 +525,9 @@
 			}
 			"steam_main_qa"
 			{
-				"gid" "D13A4D64675617B06C9DAF6BC315DD0F"
-				"size" "106DE19BBEAEBA1864D7673C4D463015"
-				"download" "729BEDA5CDA08703FDCE3F0B974E927C"
+				"gid" "CB10EC913BA39101D596EC7C25C4EF93"
+				"size" "497DC100FAD62782FAFAF426C826FED8"
+				"download" "1BDCA36EA470DDC4822CDA670489EF48"
 			}
 			"steam_sub_qa"
 			{
@@ -616,9 +616,9 @@
 			}
 			"steam_main_qa"
 			{
-				"gid" "5376B5D742F50D78EDE45D1961FEE0CC"
-				"size" "2EDEDAB3722973ACED7FE65D45AAE638"
-				"download" "06C11B32D01BC0C7E83C710B055DA357"
+				"gid" "98E5EC7C212F83A216DA5C839D947ECF"
+				"size" "A43CF3555E70D3AA07CA7AEE3C713234"
+				"download" "75442886D447B850F0E110A9B0D6DD62"
 			}
 			"steam_sub_qa"
 			{
@@ -693,8 +693,8 @@
 		{
 			"public"
 			{
-				"gid" "5353918478084439550"
-				"size" "489645473"
+				"gid" "7190702059871256453"
+				"size" "489645490"
 				"download" "394016640"
 			}
 		}
@@ -708,8 +708,8 @@
 			}
 			"steam_main_qa"
 			{
-				"gid" "9A18F3C4FD1C3120AC5BE783C83B7459"
-				"size" "422E7237F3661FDF0FD5C474AACE7886"
+				"gid" "C0690A741615B943591F9B9E312AEA09"
+				"size" "B62156FDDDF9602F964E4C9A44F6CAA0"
 				"download" "6A9916562E1E32BAC281B231299D707E"
 			}
 			"steam_sub_qa"
@@ -1044,8 +1044,8 @@
 	{
 		"public"
 		{
-			"buildid" "16205470"
-			"timeupdated" "1730117812"
+			"buildid" "16248539"
+			"timeupdated" "1730362784"
 		}
 		"debug_dev"
 		{
@@ -1055,9 +1055,9 @@
 		}
 		"steam_main_qa"
 		{
-			"buildid" "16205470"
+			"buildid" "16247928"
 			"pwdrequired" "1"
-			"timeupdated" "1730116836"
+			"timeupdated" "1730358667"
 		}
 		"steam_sub_qa"
 		{
@@ -1128,6 +1128,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "25930509"
-"_sha" "c0031104c3c3a39726a1acc7a9a9863402689275"
-"_size" "24115"
+"_change_number" "25985108"
+"_sha" "3d379e4cbefdce62f228638d3919cd25440da98a"
+"_size" "24114"
