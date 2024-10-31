@@ -59,10 +59,52 @@
 		{
 			"pinned_position" "BottomLeft"
 			"width_pct" "95.5761195289748"
-			"height_pct" "84.59128209187577"
+			"height_pct" "88.01089738515527"
 		}
 	}
-	"store_asset_mtime" "1634157627"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "95.5761195289748"
+				"height_pct" "88.01089738515527"
+			}
+		}
+	}
+	"store_asset_mtime" "1710185475"
 	"associations"
 	{
 		"0"
@@ -136,32 +178,32 @@
 	"steam_release_date" "1634053980"
 	"community_hub_visible" "1"
 	"gameid" "1721470"
-	"exfgls" "2"
+	"exfgls" "3"
 	"store_tags"
 	{
 		"0" "1667"
-		"1" "4182"
-		"2" "3859"
-		"3" "113"
-		"4" "1664"
-		"5" "3839"
-		"6" "3978"
-		"7" "4342"
-		"8" "5716"
-		"9" "1662"
-		"10" "1721"
-		"11" "492"
-		"12" "3854"
-		"13" "4064"
-		"14" "7743"
+		"1" "113"
+		"2" "4182"
+		"3" "1664"
+		"4" "3839"
+		"5" "3978"
+		"6" "4342"
+		"7" "5716"
+		"8" "1662"
+		"9" "1721"
+		"10" "492"
+		"11" "3854"
+		"12" "4064"
+		"13" "7743"
+		"14" "21"
 		"15" "4166"
-		"16" "21"
-		"17" "19"
-		"18" "4195"
-		"19" "4106"
+		"16" "19"
+		"17" "4195"
+		"18" "4106"
+		"19" "3968"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -169,7 +211,7 @@
 	"publisher" "Mob Entertainment"
 	"homepage" "https://www.mobentertainment.com/poppy-playtime"
 	"isfreeapp" "1"
-	"listofdlc" "1817490,2555190"
+	"listofdlc" "1817490,2555190,3008670"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -196,6 +238,8 @@
 }
 "depots"
 {
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
 	"228988"
 	{
 		"config"
@@ -232,8 +276,6 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"baselanguages" "english"
-	"hasdepotsindlc" "1"
 	"1721471"
 	{
 		"config"
@@ -245,24 +287,36 @@
 		{
 			"public"
 			{
-				"gid" "6958304966447160997"
-				"size" "5612538888"
-				"download" "5239996016"
+				"gid" "1791252873090904500"
+				"size" "3081908866"
+				"download" "2870493456"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"dev_beta_translation"
+			"dev_profile"
 			{
-				"gid" "E1A00A065249FFDEF22D7A83E8904E9D"
-				"size" "C8B5143C5749A1CA68D72B7C5E3ACD32"
-				"download" "1F0B02BC35E4060E8506D3CCE090FC5B"
+				"gid" "CC3D27F9BF749C1C7D4A2691A9A16944"
+				"size" "2E89F0132C2F393B19395C03402419FD"
+				"download" "9C0B5F62A92DB14B5067E34BD2BBC26E"
 			}
 			"test"
 			{
 				"gid" "DD48A50356C36B598260E087934E8544"
 				"size" "DEDD191ACFC90F03E3730D2E5C9C057B"
 				"download" "9A2D8D7164B436D024A5E52BC94E9629"
+			}
+			"ch4_beta"
+			{
+				"gid" "D0B2B3F8B868ACF9F163039B21A7FCD4"
+				"size" "38545114748D917550D636352B6098E3"
+				"download" "A00DEFF69B7A8974008AB69A52C761AB"
+			}
+			"dev_beta_translation"
+			{
+				"gid" "9B5B1AA2DD2B5B40EEFA981790AC2E4D"
+				"size" "05B3E23FDF4E59B0150435D666110172"
+				"download" "923A4DB23E0A6583392D6A5B091CF93F"
 			}
 		}
 	}
@@ -279,17 +333,29 @@
 		}
 		"encryptedmanifests"
 		{
-			"dev_beta_translation"
+			"dev_profile"
 			{
-				"gid" "9ACE9DF82A8A6B38A07A5B1E61DA6BE7"
-				"size" "438EEAAAE4CE22C02FBA5290EC6A4385"
-				"download" "F2D47865879C696F31E3EF58871A46A6"
+				"gid" "0CA537BD1E6D7711482B2001518C22BC"
+				"size" "F601F2CFE694D58F8546D90CEFBE3CE0"
+				"download" "79D4CED6F554280859E632CDBDB7223F"
 			}
 			"test"
 			{
 				"gid" "67F850E61452B757703C2A9E49AE0945"
 				"size" "7DB09D589B7A5AFBCB5CD99012E5CEF6"
 				"download" "959CE133CBF8F7273D82D828EFEF3F5D"
+			}
+			"ch4_beta"
+			{
+				"gid" "BE81A809BC61D600BB41B666EAF49595"
+				"size" "D463A461D02297BF15EFFF4D428EC608"
+				"download" "859D2AE0513F29CB9DE3084D527B9C6C"
+			}
+			"dev_beta_translation"
+			{
+				"gid" "9ACE9DF82A8A6B38A07A5B1E61DA6BE7"
+				"size" "438EEAAAE4CE22C02FBA5290EC6A4385"
+				"download" "F2D47865879C696F31E3EF58871A46A6"
 			}
 		}
 	}
@@ -305,11 +371,38 @@
 		}
 		"encryptedmanifests"
 		{
+			"dev_profile"
+			{
+				"gid" "39C8FEEAA980F5A2690BF665AF78FC79"
+				"size" "42C1391222E747A6EBA9500F88446281"
+				"download" "5F69069723F1B938565139F2E1659400"
+			}
 			"test"
 			{
-				"gid" "F6FEF5C22106991450B513FE83EE889F"
-				"size" "9127F78992651F20CAE63A222D33A78F"
-				"download" "F53B2FC08369AAA2A038C3F1F6551123"
+				"gid" "E86FE339D59BF18A95AB82D028DD7511"
+				"size" "88031850D8EF3279FF38C5F8B5096248"
+				"download" "F9772CA20B046749A9801DCE25877C1F"
+			}
+		}
+	}
+	"1721474"
+	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"dev_profile"
+			{
+				"gid" "229CE85A1440BF563179ECE2D9BDF60F"
+				"size" "0D78F0E29E3F1533D8D662AD192D5BEC"
+				"download" "0D78F0E29E3F1533D8D662AD192D5BEC"
+			}
+			"test"
+			{
+				"gid" "D44C8DC679AE78C649080FC1F85529BC"
+				"size" "B954E0B9EAD98A26814FA1F0AAB756B6"
+				"download" "27A48036ACC80895B0CC4F7FFE0D18BC"
 			}
 		}
 	}
@@ -317,24 +410,36 @@
 	{
 		"public"
 		{
-			"buildid" "13339726"
-			"timeupdated" "1706820485"
+			"buildid" "16038777"
+			"timeupdated" "1730390489"
 		}
-		"dev_beta_translation"
+		"dev_profile"
 		{
-			"buildid" "13339726"
+			"buildid" "13777705"
 			"pwdrequired" "1"
-			"timeupdated" "1706819621"
+			"timeupdated" "1710789884"
 		}
 		"test"
 		{
-			"buildid" "13397082"
+			"buildid" "13616337"
 			"pwdrequired" "1"
-			"timeupdated" "1707341725"
+			"timeupdated" "1709317063"
+		}
+		"ch4_beta"
+		{
+			"buildid" "13339726"
+			"pwdrequired" "1"
+			"timeupdated" "1716483415"
+		}
+		"dev_beta_translation"
+		{
+			"buildid" "16038777"
+			"pwdrequired" "1"
+			"timeupdated" "1728920562"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "22251141"
-"_sha" "13c4417ad7bd3944444da980df1b235579f4b81c"
-"_size" "6035"
+"_change_number" "25992492"
+"_sha" "7a5155bd66e138b9f2a729ad38342d5af8c2bb32"
+"_size" "8184"
