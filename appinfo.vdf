@@ -88,7 +88,45 @@
 			"height_pct" "50"
 		}
 	}
-	"store_asset_mtime" "1655278691"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1721218035"
 	"associations"
 	{
 		"0"
@@ -109,20 +147,16 @@
 		"3"
 		{
 			"type" "franchise"
-			"name" "PlayWay S.A."
-		}
-		"4"
-		{
-			"type" "franchise"
-			"name" "Sim Farm S.A."
+			"name" "Farm Manager"
 		}
 	}
-	"primary_genre" "2"
+	"primary_genre" "28"
 	"genres"
 	{
-		"0" "23"
-		"1" "28"
-		"2" "2"
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
 	}
 	"category"
 	{
@@ -206,26 +240,26 @@
 	"gameid" "1123830"
 	"store_tags"
 	{
-		"0" "599"
-		"1" "9"
-		"2" "12472"
-		"3" "22602"
-		"4" "492"
-		"5" "1643"
-		"6" "8945"
-		"7" "4695"
-		"8" "4328"
-		"9" "3859"
-		"10" "1654"
-		"11" "4182"
-		"12" "1756"
-		"13" "87918"
-		"14" "5350"
-		"15" "6276"
-		"16" "4175"
-		"17" "597"
-		"18" "3810"
-		"19" "4520"
+		"0" "4520"
+		"1" "12472"
+		"2" "4328"
+		"3" "597"
+		"4" "1654"
+		"5" "87918"
+		"6" "599"
+		"7" "1643"
+		"8" "3810"
+		"9" "16689"
+		"10" "22602"
+		"11" "492"
+		"12" "4175"
+		"13" "4695"
+		"14" "615955"
+		"15" "9"
+		"16" "5851"
+		"17" "8945"
+		"18" "6276"
+		"19" "4182"
 	}
 	"review_score" "6"
 	"review_percentage" "79"
@@ -284,42 +318,24 @@
 		{
 			"public"
 			{
-				"gid" "6991950529222461212"
-				"size" "6020941684"
-				"download" "2982721472"
+				"gid" "476468357205330653"
+				"size" "6459550394"
+				"download" "3339572064"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"agro"
-			{
-				"gid" "78AAF3C43309B5030E4E3EAD367FF17B"
-				"size" "627E480E044E7E4FD76317E31386C5AB"
-				"download" "5181D8E9B23BCE0F475FD80D12CC630F"
-			}
-			"devbuild"
-			{
-				"gid" "4145617687DAC2436201034D8732872D"
-				"size" "E045C1CCAADDDCC160E173B811E92CD3"
-				"download" "92FD7AF3F0AE2E05597233D4D8799EA8"
-			}
-			"fmwdev"
-			{
-				"gid" "CF1B62EFE4552E81184DF360ABA630F6"
-				"size" "539735B66EADE6E7BEA0BBC77EF6E0E8"
-				"download" "766AA6DB93EB1530E5BDBC3EC026321B"
-			}
 			"releasecandidate"
 			{
 				"gid" "2FFEB567402D11D75D64A1AD37A64998"
 				"size" "459515EB1937D7E5E2FA956EDB63319C"
 				"download" "776FB98394EFCFA65AE85003CA71ADBF"
 			}
-			"steamdeck"
+			"autum"
 			{
-				"gid" "551C86BB9F4C7FC966FEC5C1C020FEAD"
-				"size" "5CC5C6AF2A0DF9171EAD4348B2CE1334"
-				"download" "2848EDE4716EEBA0E7BA11097C113EE7"
+				"gid" "42B92732BD2EC05AC27341A79F196FFB"
+				"size" "1B255AE7DA0B6D1224CB09FC9F9138B3"
+				"download" "9FB0B2C81E4B0B02E0A806947900E1C3"
 			}
 		}
 	}
@@ -327,26 +343,8 @@
 	{
 		"public"
 		{
-			"buildid" "14533213"
-			"timeupdated" "1716986601"
-		}
-		"agro"
-		{
-			"buildid" "7388860"
-			"pwdrequired" "1"
-			"timeupdated" "1632133715"
-		}
-		"devbuild"
-		{
-			"buildid" "11835978"
-			"pwdrequired" "1"
-			"timeupdated" "1690877099"
-		}
-		"fmwdev"
-		{
-			"buildid" "9794642"
-			"pwdrequired" "1"
-			"timeupdated" "1666701492"
+			"buildid" "16251459"
+			"timeupdated" "1730389712"
 		}
 		"releasecandidate"
 		{
@@ -354,11 +352,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1622111731"
 		}
-		"steamdeck"
+		"autum"
 		{
-			"buildid" "8620673"
+			"buildid" "16251459"
 			"pwdrequired" "1"
-			"timeupdated" "1650911460"
+			"timeupdated" "1730377867"
 		}
 	}
 }
@@ -391,6 +389,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23740078"
-"_sha" "d2479f0cb7c6e10fcddc09b30f7cd402b2f71b3e"
-"_size" "7149"
+"_change_number" "25992226"
+"_sha" "e5213d867e4598535598d31cd2783a8b20e6c15a"
+"_size" "6795"
