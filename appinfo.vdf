@@ -125,11 +125,6 @@
 		}
 		"2"
 		{
-			"type" "publisher"
-			"name" "NPC Entertainment"
-		}
-		"3"
-		{
 			"type" "franchise"
 			"name" "在Steam上查看“OKJOY”全系列作品"
 		}
@@ -193,8 +188,8 @@
 		"3" "5765"
 		"4" "4182"
 		"5" "4085"
-		"6" "1676"
-		"7" "1645"
+		"6" "1645"
+		"7" "1676"
 		"8" "7208"
 		"9" "1773"
 		"10" "3813"
@@ -248,18 +243,18 @@
 		{
 			"public"
 			{
-				"gid" "8930419535019371056"
-				"size" "4716017528"
-				"download" "858743504"
+				"gid" "4540649232688546166"
+				"size" "4716017632"
+				"download" "858744192"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test_branch"
 			{
-				"gid" "7CF484627EF6CFF9CE3385391FC0220C"
-				"size" "A85C76D59126C5DDC21EC1EF89AECB03"
-				"download" "10D2744AF692091D7015C8D0B5C39362"
+				"gid" "77F01C9C7F705E4A450B2E19E64968FD"
+				"size" "72E1D30CBFF67A309CEE696BA7079209"
+				"download" "F4F26E294B40DE940D99830A70A35096"
 			}
 		}
 	}
@@ -269,14 +264,14 @@
 	{
 		"public"
 		{
-			"buildid" "16195715"
-			"timeupdated" "1730009537"
+			"buildid" "16201995"
+			"timeupdated" "1730615953"
 		}
 		"test_branch"
 		{
-			"buildid" "16195715"
+			"buildid" "16201995"
 			"pwdrequired" "1"
-			"timeupdated" "1730009483"
+			"timeupdated" "1730094748"
 		}
 	}
 }
@@ -295,6 +290,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25916621"
-"_sha" "0a076699ce3eb5bda143fdb39c2b5aa5587c4074"
-"_size" "5526"
+"_change_number" "26024736"
+"_sha" "bbf2f0cce78a4a14a10f8d9239fe113203becc11"
+"_size" "5453"
