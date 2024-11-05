@@ -92,6 +92,48 @@
 			"height_pct" "94.6805984326763"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "77.24037339556588"
+				"height_pct" "94.6805984326763"
+			}
+		}
+	}
 	"store_asset_mtime" "1710874357"
 	"associations"
 	{
@@ -302,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "1777024427851858279"
-				"size" "675607362"
-				"download" "448271536"
+				"gid" "3240670252057385108"
+				"size" "690957651"
+				"download" "453183568"
 			}
 			"legacy_1.5.6"
 			{
@@ -314,9 +356,15 @@
 			}
 			"compatibility"
 			{
-				"gid" "407110778107028852"
-				"size" "579048250"
-				"download" "415746688"
+				"gid" "3678589819243667396"
+				"size" "580680628"
+				"download" "416521328"
+			}
+			"legacy_1.6.8"
+			{
+				"gid" "1777024427851858279"
+				"size" "675607362"
+				"download" "448271536"
 			}
 		}
 		"encryptedmanifests"
@@ -345,11 +393,23 @@
 				"size" "C0823EA4256D14F140491B38E64E8AB4"
 				"download" "EC4F558278AA9A5B4BEF6B6FB2F61E16"
 			}
+			"beta"
+			{
+				"gid" "D201F30F53E8B5FBC525D0E085687899"
+				"size" "82432644AB0EB56736062B967D49254C"
+				"download" "5D4B336C0CEB226BF71E02FA7A71641B"
+			}
+			"monogame_fix"
+			{
+				"gid" "2EBF3C176FBB88CE00C9E2A2CD0D7BCF"
+				"size" "54302C67FEBC505E579AC4375BB99191"
+				"download" "AA22CB60BA424163391242123288F779"
+			}
 			"private_beta"
 			{
-				"gid" "2D85F05D808F22261693C130364CAE80"
-				"size" "E434A6DCFAA7CCE3A5EE22D5699771F9"
-				"download" "E59F2F4169379609C4C552B1901FFFC8"
+				"gid" "6E76AEB0E3591671F4093867D7BF0E92"
+				"size" "226A6506979D4236EB017BA77A521E17"
+				"download" "247DB4DF49A9FEDBCD2FF7FE8B5167DF"
 			}
 		}
 	}
@@ -363,9 +423,9 @@
 		{
 			"public"
 			{
-				"gid" "2235726939199153098"
-				"size" "694277959"
-				"download" "451513744"
+				"gid" "3652550817787866937"
+				"size" "710579193"
+				"download" "456276000"
 			}
 			"legacy_1.5.6"
 			{
@@ -375,9 +435,15 @@
 			}
 			"compatibility"
 			{
-				"gid" "6114205649333653499"
-				"size" "693863248"
-				"download" "441408368"
+				"gid" "2507811365989874949"
+				"size" "696264350"
+				"download" "442390096"
+			}
+			"legacy_1.6.8"
+			{
+				"gid" "2235726939199153098"
+				"size" "694277959"
+				"download" "451513744"
 			}
 		}
 		"encryptedmanifests"
@@ -406,11 +472,23 @@
 				"size" "92C0BBEA3B1BE1421843D79DD532F6A5"
 				"download" "66CC3079E43469AD68CF5D7649D2A927"
 			}
+			"beta"
+			{
+				"gid" "37682D7B05C33607D69F349AA0A6B6B8"
+				"size" "481FE19C3DE3CF5C09DB10FB952065D6"
+				"download" "A0A167444DC4C2548DA797A150661E1C"
+			}
+			"monogame_fix"
+			{
+				"gid" "99967A76D67A25F26D6DF30B9B86A14F"
+				"size" "63F2C4EBD651D96526282E28260F42D8"
+				"download" "4CE928A24065C0C6777B4561A8936DAE"
+			}
 			"private_beta"
 			{
-				"gid" "7D08EAC886A561378A88C72C88357B7B"
-				"size" "8A0236FCB7C62E4C2103F0F46454644C"
-				"download" "4263B0CE940F5DD8B297CCEEB9712765"
+				"gid" "C6A6BE37BF215386DD6659EA8BE139A6"
+				"size" "6F0F468A6B500FAC591723572EE93BF4"
+				"download" "6465D9D6BD5F2B5C9DEE2C3172F9BA83"
 			}
 		}
 	}
@@ -424,9 +502,9 @@
 		{
 			"public"
 			{
-				"gid" "4264972535478467767"
-				"size" "693441242"
-				"download" "452461920"
+				"gid" "4315477493803531391"
+				"size" "708013506"
+				"download" "457164416"
 			}
 			"legacy_1.5.6"
 			{
@@ -436,9 +514,15 @@
 			}
 			"compatibility"
 			{
-				"gid" "7765457731394665657"
-				"size" "673154388"
-				"download" "439602544"
+				"gid" "5883643514237913456"
+				"size" "691518399"
+				"download" "444930672"
+			}
+			"legacy_1.6.8"
+			{
+				"gid" "4264972535478467767"
+				"size" "693441242"
+				"download" "452461920"
 			}
 		}
 		"encryptedmanifests"
@@ -467,11 +551,23 @@
 				"size" "13DED2480F073E21E8C08A9F200030D8"
 				"download" "D726AF630A2AE019D2521A65B32EA12D"
 			}
+			"beta"
+			{
+				"gid" "69AA491F345F32B5D3062FAD77007257"
+				"size" "D19C2EC03DDDEB1ED6F598BEF1661420"
+				"download" "FB9257A9B7F3854CC73EC3F84E47DFA9"
+			}
+			"monogame_fix"
+			{
+				"gid" "6B77F77D547F3822CA9D636448C683CF"
+				"size" "B20BC91555247E71954F809C1C556C71"
+				"download" "440AAF0DA17B5D098698C93EE8D189CB"
+			}
 			"private_beta"
 			{
-				"gid" "88490EECF3A9F776AEC773187CE77064"
-				"size" "685A14F72FF9E0455745581435CF1A9F"
-				"download" "5B54B95B2223E9AC5545AEB2898E1248"
+				"gid" "193616FCF2DC9FA38F7FA49CE6A959C6"
+				"size" "43D0E14311F62FE11075B2362CFDBAA6"
+				"download" "7A6DE63D53D93131D98EC923B7EE824B"
 			}
 		}
 	}
@@ -479,8 +575,8 @@
 	{
 		"public"
 		{
-			"buildid" "14198583"
-			"timeupdated" "1714275789"
+			"buildid" "16294068"
+			"timeupdated" "1730764977"
 		}
 		"internal"
 		{
@@ -512,17 +608,35 @@
 			"pwdrequired" "1"
 			"timeupdated" "1644462432"
 		}
+		"beta"
+		{
+			"buildid" "16294465"
+			"pwdrequired" "1"
+			"timeupdated" "1730767691"
+		}
 		"compatibility"
 		{
-			"buildid" "14198584"
+			"buildid" "16294078"
 			"description" "For 32-bit systems. The legacy XNA version of Stardew Valley."
-			"timeupdated" "1714275814"
+			"timeupdated" "1730764942"
+		}
+		"legacy_1.6.8"
+		{
+			"buildid" "14198583"
+			"description" "The legacy 1.6.8 version of Stardew Valley"
+			"timeupdated" "1730756892"
+		}
+		"monogame_fix"
+		{
+			"buildid" "15169378"
+			"pwdrequired" "1"
+			"timeupdated" "1722046542"
 		}
 		"private_beta"
 		{
-			"buildid" "14198583"
+			"buildid" "16283239"
 			"pwdrequired" "1"
-			"timeupdated" "1714275827"
+			"timeupdated" "1730691321"
 		}
 	}
 }
@@ -575,6 +689,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23330962"
-"_sha" "cecb8fe747536566fdea23659f585907f89556e8"
-"_size" "11211"
+"_change_number" "26046418"
+"_sha" "941eaa3aae645b19d883ea9b71202d04c7a6e5fe"
+"_size" "13598"
