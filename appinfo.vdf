@@ -266,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "1916367824453908352"
-				"size" "161052652"
-				"download" "97385920"
+				"gid" "3523648370711619912"
+				"size" "161054316"
+				"download" "97379040"
 			}
 			"experimental"
 			{
@@ -357,8 +357,8 @@
 	{
 		"public"
 		{
-			"buildid" "16225220"
-			"timeupdated" "1730282153"
+			"buildid" "16299311"
+			"timeupdated" "1730803060"
 		}
 		"balancetesting"
 		{
@@ -506,9 +506,15 @@
 			"path" "metaProgression"
 			"pattern" "*.sav"
 		}
+		"10"
+		{
+			"root" "gameinstall"
+			"path" "steamMetaSave"
+			"pattern" "*.sav"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25968849"
-"_sha" "82e9747eec26d42d56f0e06dab07dcee72b97502"
-"_size" "9854"
+"_change_number" "26052551"
+"_sha" "1b6bf6d684fb47dc841bece4c567827e62c6b26d"
+"_size" "9949"
