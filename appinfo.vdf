@@ -344,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "3240670252057385108"
-				"size" "690957651"
-				"download" "453183568"
+				"gid" "6985985228734128541"
+				"size" "691416881"
+				"download" "453437200"
 			}
 			"legacy_1.5.6"
 			{
@@ -356,9 +356,9 @@
 			}
 			"compatibility"
 			{
-				"gid" "3678589819243667396"
-				"size" "580680628"
-				"download" "416521328"
+				"gid" "1868699748381136236"
+				"size" "580680598"
+				"download" "416521136"
 			}
 			"legacy_1.6.8"
 			{
@@ -401,9 +401,9 @@
 			}
 			"monogame_fix"
 			{
-				"gid" "2EBF3C176FBB88CE00C9E2A2CD0D7BCF"
-				"size" "54302C67FEBC505E579AC4375BB99191"
-				"download" "AA22CB60BA424163391242123288F779"
+				"gid" "03EE7B2B789E404CAFAF85EDA65F0467"
+				"size" "C0BD61BBF46982D07174D5A20EB41CA9"
+				"download" "B42BA720458B122B8D92EB2B322AE356"
 			}
 			"private_beta"
 			{
@@ -423,9 +423,9 @@
 		{
 			"public"
 			{
-				"gid" "3652550817787866937"
-				"size" "710579193"
-				"download" "456276000"
+				"gid" "4559830768832937867"
+				"size" "711039447"
+				"download" "456532048"
 			}
 			"legacy_1.5.6"
 			{
@@ -435,9 +435,9 @@
 			}
 			"compatibility"
 			{
-				"gid" "2507811365989874949"
-				"size" "696264350"
-				"download" "442390096"
+				"gid" "3087608637450198124"
+				"size" "696264320"
+				"download" "442392352"
 			}
 			"legacy_1.6.8"
 			{
@@ -480,9 +480,9 @@
 			}
 			"monogame_fix"
 			{
-				"gid" "99967A76D67A25F26D6DF30B9B86A14F"
-				"size" "63F2C4EBD651D96526282E28260F42D8"
-				"download" "4CE928A24065C0C6777B4561A8936DAE"
+				"gid" "4AF406252E0CC66592A0231184E35AA1"
+				"size" "DCC58842EEF4E428B44665370894B01A"
+				"download" "3D3B4927D20B688D764F5DF7183FF20D"
 			}
 			"private_beta"
 			{
@@ -502,9 +502,9 @@
 		{
 			"public"
 			{
-				"gid" "4315477493803531391"
-				"size" "708013506"
-				"download" "457164416"
+				"gid" "3680664381084250422"
+				"size" "708472736"
+				"download" "457418176"
 			}
 			"legacy_1.5.6"
 			{
@@ -514,9 +514,9 @@
 			}
 			"compatibility"
 			{
-				"gid" "5883643514237913456"
-				"size" "691518399"
-				"download" "444930672"
+				"gid" "8449451536090243189"
+				"size" "691518369"
+				"download" "444932928"
 			}
 			"legacy_1.6.8"
 			{
@@ -559,9 +559,9 @@
 			}
 			"monogame_fix"
 			{
-				"gid" "6B77F77D547F3822CA9D636448C683CF"
-				"size" "B20BC91555247E71954F809C1C556C71"
-				"download" "440AAF0DA17B5D098698C93EE8D189CB"
+				"gid" "08F423250075F13FD1FED30C605863F0"
+				"size" "53A0F7C9C5B1F1E6055595C12CBD44D5"
+				"download" "BDF5BA1CC92112E643981A531DDECC38"
 			}
 			"private_beta"
 			{
@@ -575,8 +575,8 @@
 	{
 		"public"
 		{
-			"buildid" "16294068"
-			"timeupdated" "1730764977"
+			"buildid" "16310510"
+			"timeupdated" "1730874898"
 		}
 		"internal"
 		{
@@ -616,9 +616,9 @@
 		}
 		"compatibility"
 		{
-			"buildid" "16294078"
+			"buildid" "16310515"
 			"description" "For 32-bit systems. The legacy XNA version of Stardew Valley."
-			"timeupdated" "1730764942"
+			"timeupdated" "1730874866"
 		}
 		"legacy_1.6.8"
 		{
@@ -628,9 +628,9 @@
 		}
 		"monogame_fix"
 		{
-			"buildid" "15169378"
+			"buildid" "16304236"
 			"pwdrequired" "1"
-			"timeupdated" "1722046542"
+			"timeupdated" "1730828559"
 		}
 		"private_beta"
 		{
@@ -689,6 +689,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26046418"
-"_sha" "941eaa3aae645b19d883ea9b71202d04c7a6e5fe"
+"_change_number" "26067127"
+"_sha" "6fc68b3d12e427ea457f501f4136b3ac5e6ff096"
 "_size" "13598"
