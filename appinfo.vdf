@@ -88,6 +88,44 @@
 			"height_pct" "68.61538494313257"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.171995156401394"
+				"height_pct" "68.61538494313257"
+			}
+		}
+	}
 	"store_asset_mtime" "1720682300"
 	"associations"
 	{
@@ -141,8 +179,8 @@
 		"2" "24003"
 		"3" "17305"
 		"4" "492"
-		"5" "379975"
-		"6" "8945"
+		"5" "8945"
+		"6" "379975"
 		"7" "597"
 		"8" "122"
 		"9" "12472"
@@ -153,12 +191,12 @@
 		"14" "4328"
 		"15" "1698"
 		"16" "493"
-		"17" "26921"
-		"18" "4474"
-		"19" "6915"
+		"17" "6915"
+		"18" "26921"
+		"19" "4474"
 	}
 	"review_score" "5"
-	"review_percentage" "57"
+	"review_percentage" "54"
 }
 "extended"
 {
@@ -192,15 +230,9 @@
 		{
 			"public"
 			{
-				"gid" "5767298388258827504"
-				"size" "958214522"
-				"download" "702607440"
-			}
-			"20231031"
-			{
-				"gid" "2172726685610007805"
-				"size" "853615146"
-				"download" "624160944"
+				"gid" "6570259829837923844"
+				"size" "1060767900"
+				"download" "784051152"
 			}
 			"20231208"
 			{
@@ -208,17 +240,17 @@
 				"size" "860326729"
 				"download" "629684656"
 			}
-			"neibu"
+			"20240713"
 			{
-				"gid" "9104221522011879958"
-				"size" "876373435"
-				"download" "642455680"
+				"gid" "5767298388258827504"
+				"size" "958214522"
+				"download" "702607440"
 			}
-			"open"
+			"20241103"
 			{
-				"gid" "8167103751289899739"
-				"size" "778742504"
-				"download" "568795328"
+				"gid" "6570259829837923844"
+				"size" "1060767900"
+				"download" "784051152"
 			}
 		}
 	}
@@ -233,15 +265,9 @@
 		{
 			"public"
 			{
-				"gid" "7544989117943135789"
-				"size" "958214522"
-				"download" "702607440"
-			}
-			"20231031"
-			{
-				"gid" "3395296234661193914"
-				"size" "853615146"
-				"download" "624160944"
+				"gid" "4226070709544658806"
+				"size" "1060767900"
+				"download" "784051152"
 			}
 			"20231208"
 			{
@@ -249,17 +275,17 @@
 				"size" "860326729"
 				"download" "629684656"
 			}
-			"neibu"
+			"20240713"
 			{
-				"gid" "8384111221583262101"
-				"size" "876373435"
-				"download" "642455680"
+				"gid" "7544989117943135789"
+				"size" "958214522"
+				"download" "702607440"
 			}
-			"open"
+			"20241103"
 			{
-				"gid" "8296947634666164785"
-				"size" "778742504"
-				"download" "568795328"
+				"gid" "4226070709544658806"
+				"size" "1060767900"
+				"download" "784051152"
 			}
 		}
 	}
@@ -270,28 +296,13 @@
 			"language" "schinese"
 			"oslist" "windows"
 		}
-		"manifests"
-		{
-			"open"
-			{
-				"gid" "6317964479698127163"
-				"size" "818617714"
-				"download" "571585376"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15033676"
-			"timeupdated" "1721030119"
-		}
-		"20231031"
-		{
-			"buildid" "12581946"
-			"description" "10月31日地图版本"
-			"timeupdated" "1698753820"
+			"buildid" "16277864"
+			"timeupdated" "1730872992"
 		}
 		"20231208"
 		{
@@ -299,17 +310,17 @@
 			"description" "仅限MOD制作人员使用"
 			"timeupdated" "1704857140"
 		}
-		"neibu"
+		"20240713"
 		{
-			"buildid" "13865352"
-			"description" "9月28版本测试版"
-			"timeupdated" "1711510424"
+			"buildid" "15033676"
+			"description" "11月6号前老版本"
+			"timeupdated" "1730872922"
 		}
-		"open"
+		"20241103"
 		{
-			"buildid" "12491982"
-			"description" "10月18日测试版"
-			"timeupdated" "1697799005"
+			"buildid" "16277864"
+			"description" "通天飞舟版本（更新此版本会删档）"
+			"timeupdated" "1730607945"
 		}
 	}
 }
@@ -339,6 +350,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24363559"
-"_sha" "2eaf4c351b24a4b6badb6ff511a8d8a682e36c92"
-"_size" "6050"
+"_change_number" "26066870"
+"_sha" "b56532fb4db8a5997d80fbba9a47885ac07fd47e"
+"_size" "6173"
