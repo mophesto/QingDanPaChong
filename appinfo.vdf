@@ -20,6 +20,11 @@
 	"osarch" "64"
 	"osextended" ""
 	"releasestatesteamchina" "prerelease"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -157,7 +162,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1720167254"
+	"store_asset_mtime" "1730789191"
 	"associations"
 	{
 		"0"
@@ -182,7 +187,6 @@
 		"0" "23"
 		"1" "3"
 		"2" "2"
-		"3" "70"
 	}
 	"category"
 	{
@@ -195,6 +199,7 @@
 		"category_28" "1"
 		"category_55" "1"
 		"category_57" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -215,15 +220,16 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1693363616"
+	"steam_release_date" "1730854800"
+	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1696440"
 	"store_tags"
 	{
 		"0" "1695"
-		"1" "6915"
-		"2" "3810"
+		"1" "3810"
+		"2" "6915"
 		"3" "122"
 		"4" "1662"
 		"5" "4182"
@@ -243,7 +249,7 @@
 		"19" "4747"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -307,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "6212913350668165903"
-				"size" "2617130737"
-				"download" "2384797920"
+				"gid" "690805033534401724"
+				"size" "2662360998"
+				"download" "2426123184"
 			}
 		}
 		"encryptedmanifests"
@@ -334,21 +340,21 @@
 			}
 			"develop_test"
 			{
-				"gid" "4224D00B1CA2CC8369E1564EAFF6606C"
-				"size" "E92CB58011480F072CEC48072D37090E"
-				"download" "8825E4C95C400DE72EFE53E84107961E"
+				"gid" "E2A4F0BA90BB6D5EF5506728DB231AE9"
+				"size" "6D5D7806467458AAE0556390A756F132"
+				"download" "AE4B818AF28D6FB86A43BBC81DBCC28F"
 			}
 			"innertest"
 			{
-				"gid" "D684990388A99E86C06A234D569C6955"
-				"size" "D138368925ABA72F65BFF9337B8F0D54"
-				"download" "B2BA072EE21C9A9FE13529B78736F268"
+				"gid" "3F3C120F77780DF935B2C7072E913CE3"
+				"size" "B030395BE95007C4CC15A30B48FECC35"
+				"download" "00A79EFAC3B381DA7470FC40FBBF8948"
 			}
 			"outertest"
 			{
-				"gid" "50CD69A2D88FE67D30E9CB72C367609D"
-				"size" "FBEC0057D4F42F215721A91AAB6ED94E"
-				"download" "3D5BAD26F6B6A5C326DDB75BC1F7E0AE"
+				"gid" "423B558235B3F4408187EF4BDAAB7462"
+				"size" "88CF7F2D55E836864A0E97BAA1232C22"
+				"download" "B5E980EFBDFB414391969156D751AA2E"
 			}
 		}
 	}
@@ -357,8 +363,8 @@
 	{
 		"public"
 		{
-			"buildid" "15624957"
-			"timeupdated" "1725704808"
+			"buildid" "16300974"
+			"timeupdated" "1730854587"
 		}
 		"cetest"
 		{
@@ -383,22 +389,22 @@
 		"develop_test"
 		{
 			"sc_schinese" "研发测试用"
-			"buildid" "15624957"
+			"buildid" "16300974"
 			"pwdrequired" "1"
-			"timeupdated" "1725704581"
+			"timeupdated" "1730811734"
 		}
 		"innertest"
 		{
-			"buildid" "15624957"
+			"buildid" "16300974"
 			"pwdrequired" "1"
-			"timeupdated" "1725704591"
+			"timeupdated" "1730811758"
 		}
 		"outertest"
 		{
 			"sc_schinese" "HuanmosGanbei"
-			"buildid" "15624957"
+			"buildid" "16300974"
 			"pwdrequired" "1"
-			"timeupdated" "1725704598"
+			"timeupdated" "1730811769"
 		}
 	}
 }
@@ -422,6 +428,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25120393"
-"_sha" "ef72ae0c503cae4c02b2aa53524b3a25c530379d"
-"_size" "8539"
+"_change_number" "26064237"
+"_sha" "d366e420fc7230e38418dd8bdb2244a42c211f18"
+"_size" "8639"
