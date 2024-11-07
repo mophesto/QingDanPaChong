@@ -281,15 +281,15 @@
 		{
 			"public"
 			{
-				"gid" "300150376315700972"
-				"size" "577565024"
-				"download" "440252832"
+				"gid" "1405270676337805598"
+				"size" "577565538"
+				"download" "440251392"
 			}
 			"crossblitz_beta"
 			{
-				"gid" "2150556745066816183"
-				"size" "577564929"
-				"download" "440251360"
+				"gid" "7785236912300366849"
+				"size" "577565426"
+				"download" "440249552"
 			}
 		}
 		"encryptedmanifests"
@@ -308,9 +308,9 @@
 			}
 			"backup"
 			{
-				"gid" "E81E66C8AC11E76B55BDAE7224EAF84F"
-				"size" "8F96D50811CDBC1E07F26A8D163ECCA2"
-				"download" "BEB6865B9CFF5CB90C3A6806284EF4C8"
+				"gid" "654623C0C9D78E1E1722F13A8DE50F18"
+				"size" "2AC94C548EE70F0AD9DFD3810A1403D9"
+				"download" "EF22CFF7878BA49D0BE04818EB3CB8F8"
 			}
 			"compat"
 			{
@@ -342,8 +342,8 @@
 	{
 		"public"
 		{
-			"buildid" "16269048"
-			"timeupdated" "1730904945"
+			"buildid" "16322255"
+			"timeupdated" "1730992899"
 		}
 		"external"
 		{
@@ -359,9 +359,9 @@
 		}
 		"backup"
 		{
-			"buildid" "16269022"
+			"buildid" "16322255"
 			"pwdrequired" "1"
-			"timeupdated" "1730738302"
+			"timeupdated" "1730970254"
 		}
 		"compat"
 		{
@@ -371,9 +371,9 @@
 		}
 		"crossblitz_beta"
 		{
-			"buildid" "16269030"
+			"buildid" "16322249"
 			"description" "Beta branch of Cross Blitz, open to the public"
-			"timeupdated" "1730904925"
+			"timeupdated" "1730992867"
 		}
 		"developer"
 		{
@@ -391,7 +391,7 @@
 		{
 			"buildid" "16289080"
 			"pwdrequired" "1"
-			"timeupdated" "1730800683"
+			"timeupdated" "1730985565"
 		}
 	}
 }
@@ -429,6 +429,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26073436"
-"_sha" "86d59ff0deadf1d2b860ec3b0b310dee396cc422"
-"_size" "8476"
+"_change_number" "26091597"
+"_sha" "255bfee035050c5533b060e250e41f4bccfe947f"
+"_size" "8477"
