@@ -392,15 +392,15 @@
 		{
 			"public"
 			{
-				"gid" "3779762810245145928"
-				"size" "3462012661"
-				"download" "1471613024"
+				"gid" "7338567109570609035"
+				"size" "3461907082"
+				"download" "1467807632"
 			}
 			"public-beta"
 			{
-				"gid" "4300758142222909191"
-				"size" "3463830817"
-				"download" "1469205296"
+				"gid" "7723675307017767754"
+				"size" "3489118728"
+				"download" "1478415888"
 			}
 		}
 		"encryptedmanifests"
@@ -419,9 +419,9 @@
 			}
 			"shiro-test"
 			{
-				"gid" "9DC828F27E073192EFCE3B0BFF0FBEF1"
-				"size" "A8D6F57E6D79A3BF075369962AA5482B"
-				"download" "B343A5B37762210C7A11636AB3A14E3C"
+				"gid" "E3FC991890865D8B4ABA6F7B6AC453D5"
+				"size" "FF476329AA248B34BCD9616415497D85"
+				"download" "8161F3ED08867B915EF305C2975A0F1F"
 			}
 		}
 	}
@@ -641,8 +641,8 @@
 	{
 		"public"
 		{
-			"buildid" "16220038"
-			"timeupdated" "1730214203"
+			"buildid" "16326200"
+			"timeupdated" "1730990073"
 		}
 		"closed-beta"
 		{
@@ -652,9 +652,9 @@
 		}
 		"public-beta"
 		{
-			"buildid" "16165975"
+			"buildid" "16249143"
 			"description" "Test the latest addition to the game!"
-			"timeupdated" "1729850463"
+			"timeupdated" "1730372130"
 		}
 		"shiro-qa"
 		{
@@ -664,9 +664,9 @@
 		}
 		"shiro-test"
 		{
-			"buildid" "16220038"
+			"buildid" "16326200"
 			"pwdrequired" "1"
-			"timeupdated" "1730199768"
+			"timeupdated" "1730976384"
 		}
 	}
 }
@@ -697,6 +697,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25953178"
-"_sha" "71f81aeb3fa4341cac3c35a4132f7cbf188c1a3e"
+"_change_number" "26090894"
+"_sha" "853d5f9c213edc89f64b1fc52f2abf821ae801b9"
 "_size" "13429"
