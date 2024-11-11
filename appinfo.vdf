@@ -249,7 +249,7 @@
 		"19" "4747"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "4166761418710786631"
-				"size" "2662431338"
-				"download" "2426225312"
+				"gid" "5075726181202848090"
+				"size" "2662433500"
+				"download" "2426182880"
 			}
 		}
 		"encryptedmanifests"
@@ -340,21 +340,21 @@
 			}
 			"develop_test"
 			{
-				"gid" "5091F44DA186CDD72F41DB3F9D438320"
-				"size" "D53D08A08A14C7EA52498B76CCFA43C8"
-				"download" "F71F0C2A0F91D730CC864EA18B111A5A"
+				"gid" "677A7CBBE5BF1B5643DAD5CA39E6DB79"
+				"size" "30EA77FE3D23C65B63F8A9D15B5C54C6"
+				"download" "ABCD81C06E1D43FA8C9E3CE281F2C792"
 			}
 			"innertest"
 			{
-				"gid" "92F54D03E66E912CF24CF0B8DAB38488"
-				"size" "1F09353DB86047543B5DF9B6C73F4EB8"
-				"download" "4EEBB760EDA82C5C44A4984F105D1EFE"
+				"gid" "87F43A69EFF6A7F5116105FD7DE42802"
+				"size" "CAFCC7629958B234DE4F2422DA030D97"
+				"download" "7FF95C94253D9D51251F15E273A484C6"
 			}
 			"outertest"
 			{
-				"gid" "1F1CE7222B7693FFBDA0B72E05E06E0B"
-				"size" "015B935FA150B21C8492BE181D5D1591"
-				"download" "790811CE78B42C0195EE09168D41F5DB"
+				"gid" "F18719898F8EACE2BEED02376207D90E"
+				"size" "6914B5AA226252B40214B1F1ED7023B4"
+				"download" "755FE59CB88ACFCF18C79FAE0322D33F"
 			}
 		}
 	}
@@ -363,8 +363,8 @@
 	{
 		"public"
 		{
-			"buildid" "16340008"
-			"timeupdated" "1731061576"
+			"buildid" "16362417"
+			"timeupdated" "1731308614"
 		}
 		"cetest"
 		{
@@ -389,22 +389,22 @@
 		"develop_test"
 		{
 			"sc_schinese" "研发测试用"
-			"buildid" "16340008"
+			"buildid" "16362417"
 			"pwdrequired" "1"
-			"timeupdated" "1731061544"
+			"timeupdated" "1731308557"
 		}
 		"innertest"
 		{
-			"buildid" "16340008"
+			"buildid" "16362417"
 			"pwdrequired" "1"
-			"timeupdated" "1731061552"
+			"timeupdated" "1731308592"
 		}
 		"outertest"
 		{
 			"sc_schinese" "HuanmosGanbei"
-			"buildid" "16340008"
+			"buildid" "16362417"
 			"pwdrequired" "1"
-			"timeupdated" "1731061559"
+			"timeupdated" "1731308599"
 		}
 	}
 }
@@ -428,6 +428,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26105492"
-"_sha" "e0df265edd67a2529408612e4e30049cdf7f72ce"
+"_change_number" "26135894"
+"_sha" "9336b7355d1ac02770761900c561d7a43a5d088c"
 "_size" "8640"
