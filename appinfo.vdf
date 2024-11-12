@@ -76,16 +76,17 @@
 		}
 	}
 	"metacritic_name" "Sea of Stars"
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "07c31553c860220fcdae733c9a42b2c20eb23fda/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
 		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
 	}
 	"library_assets"
 	{
@@ -99,7 +100,54 @@
 			"height_pct" "65.42388981239611"
 		}
 	}
-	"store_asset_mtime" "1713369304"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "87.8718535469107"
+				"height_pct" "65.42388981239611"
+			}
+		}
+	}
+	"store_asset_mtime" "1731100791"
 	"associations"
 	{
 		"0"
@@ -128,6 +176,16 @@
 		"category_46" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -191,26 +249,26 @@
 	"gameid" "1244090"
 	"store_tags"
 	{
-		"0" "122"
+		"0" "4434"
 		"1" "3964"
-		"2" "4325"
-		"3" "21"
-		"4" "4434"
-		"5" "1742"
-		"6" "3871"
-		"7" "1677"
-		"8" "4004"
+		"2" "10695"
+		"3" "4325"
+		"4" "3841"
+		"5" "21"
+		"6" "1742"
+		"7" "3871"
+		"8" "122"
 		"9" "4182"
-		"10" "1684"
-		"11" "492"
-		"12" "3854"
-		"13" "4136"
-		"14" "1719"
+		"10" "4004"
+		"11" "1684"
+		"12" "492"
+		"13" "3854"
+		"14" "4136"
 		"15" "3834"
-		"16" "4305"
-		"17" "5608"
-		"18" "7208"
-		"19" "5153"
+		"16" "1685"
+		"17" "14720"
+		"18" "3859"
+		"19" "5608"
 	}
 	"review_score" "8"
 	"review_percentage" "89"
@@ -218,7 +276,7 @@
 "extended"
 {
 	"absolutemousecoordinates" "0"
-	"remoteplaytogethertestingbranches" "debug_2"
+	"remoteplaytogethertestingbranches" "debug_2,localization,staging"
 	"developer" "Sabotage Studio"
 	"publisher" "Sabotage Studio"
 	"homepage" "https://seaofstarsgame.co"
@@ -264,30 +322,18 @@
 		{
 			"public"
 			{
-				"gid" "4990902563101994291"
-				"size" "3925425433"
-				"download" "3201144336"
+				"gid" "56262960028507841"
+				"size" "3973910526"
+				"download" "3229664896"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"debug"
-			{
-				"gid" "A4AA32F35A9997C48BA223D3F077F3E0"
-				"size" "1A9991CC485611B0079AA73D7A9E1E29"
-				"download" "3F1A8A3924CE8CAE37EE3700E64CE1A4"
-			}
 			"indieland"
 			{
 				"gid" "E20578DB07B7D3BC8BCED4BF2A564E12"
 				"size" "39A300185A7B9CE699E996AC787DDD31"
 				"download" "EF56B39F7DFF0FC15F47AB14EA376F1F"
-			}
-			"localization"
-			{
-				"gid" "585BC2B1622F31017B7CFE943FA8BDC1"
-				"size" "88DA853EBA92C6BB5D25A5F8DE7C82E7"
-				"download" "E34ED9A09BD178417831ADB41D5C4955"
 			}
 			"public_playtest"
 			{
@@ -307,29 +353,47 @@
 				"size" "1DF3DEAD8E991B085A5D99138A90158D"
 				"download" "247F1B0FB5DB12FB7E83E5A4D8E2810F"
 			}
-			"staging"
+			"debug"
 			{
-				"gid" "94D85EF361547A2C9D225A8F30EDB206"
-				"size" "71262D246F2F8AA1D0646C122583D0F4"
-				"download" "9082FB997E90C834517F2252E63B5D78"
+				"gid" "A67498FF4D698AE5F8F90785567F3838"
+				"size" "A0A010F838D6621E1A7E79D1DBB09E08"
+				"download" "AE0501FADFCDE8C4D5DAFA0468A3E288"
 			}
 			"debug_2"
 			{
-				"gid" "64FD233D25376466AB4128BCB5B28A42"
-				"size" "BA1298A93D8F614507CE8CD6887E7F31"
-				"download" "AD38D7D34A7C97DA87D68003DAD6D019"
+				"gid" "24062A33427A3BE52442D084E196BD3D"
+				"size" "F6E93E65E9090E9EA5DE7C312182572A"
+				"download" "CB639AA6DD8C36DF5882EB5C11FEEB2B"
+			}
+			"localization"
+			{
+				"gid" "846D31FEC4674A5436C884BA6A1DE0C1"
+				"size" "10BD677C132B123220AAC992EE7FF89A"
+				"download" "F50AEC22D3A9EA9B9554588DE9D8A9EC"
 			}
 			"nightly_debug"
 			{
-				"gid" "BBFA52AF328B66EB6A2E007A50A541A8"
-				"size" "E597A6FAA6F49736F458BFBA8A675FB7"
-				"download" "032E1D42A297F8E3B2F24F4DA60B69E9"
+				"gid" "023737FE331FF21916973022AA212137"
+				"size" "5627C6E72E80DEE6F5E1582EF850008D"
+				"download" "59FC67D3F7CA84C6F0E7046206D750E5"
 			}
 			"nightly_release"
 			{
-				"gid" "EEB576DD0E0E4080681BF12408A6C93F"
-				"size" "0FEC4690FD5F131C7D87A4AEF792823F"
-				"download" "B308F439B2C02DADF6471D09F17969B5"
+				"gid" "BE6BA14A856754CF69A5D4C2D8AED6C5"
+				"size" "1A6AC6A2166D0D86F6979A5F6E67397B"
+				"download" "0CDD69CEF342AB50E836F6EADC56239A"
+			}
+			"press"
+			{
+				"gid" "4D00EF8D09BE12214CC635F01D6AAD4A"
+				"size" "1D759B9D9C40DE516B2CF8B2E38F427F"
+				"download" "8A2F035AABB12DD3AA09096B77FBF348"
+			}
+			"staging"
+			{
+				"gid" "97C66616159028A1A4DB99B2AD58DA78"
+				"size" "49ADEF7BB4DB85A7DACC84B78C161BEA"
+				"download" "6F5125C8CEC7FEAA6756444A8B073A3D"
 			}
 			"test"
 			{
@@ -371,11 +435,23 @@
 				"size" "1783B56E9598AF684373F8FA24570855"
 				"download" "D018D1C408DCB4286472B2B75F5AB8EB"
 			}
+			"debug"
+			{
+				"gid" "29D98714790357C6DCA5037CC904C6EE"
+				"size" "0376763641D834F7145918CFF420D387"
+				"download" "5E0BB3F001B5D866526864A446419CC9"
+			}
 			"debug_2"
 			{
 				"gid" "9AFEEF6D5CEABAE514BDDF1D9147845D"
 				"size" "61AEDE25F4566403024119DBB781EB71"
 				"download" "C687794BD468882AEACB81287E231B51"
+			}
+			"press"
+			{
+				"gid" "611D97AE5E7E242DE6AC98DBDFC98D85"
+				"size" "EEFE9756486B937A3A4AAB14B8C108ED"
+				"download" "0985AF651929672B79905BFAB9C55AF4"
 			}
 		}
 	}
@@ -383,26 +459,14 @@
 	{
 		"public"
 		{
-			"buildid" "14785572"
-			"timeupdated" "1718910847"
-		}
-		"debug"
-		{
-			"buildid" "14085491"
-			"pwdrequired" "1"
-			"timeupdated" "1713371802"
+			"buildid" "16380101"
+			"timeupdated" "1731423505"
 		}
 		"indieland"
 		{
 			"buildid" "12550772"
 			"pwdrequired" "1"
 			"timeupdated" "1698392452"
-		}
-		"localization"
-		{
-			"buildid" "13718849"
-			"pwdrequired" "1"
-			"timeupdated" "1710275541"
 		}
 		"public_playtest"
 		{
@@ -422,29 +486,47 @@
 			"pwdrequired" "1"
 			"timeupdated" "1713377158"
 		}
-		"staging"
+		"debug"
 		{
-			"buildid" "13718945"
+			"buildid" "15695721"
 			"pwdrequired" "1"
-			"timeupdated" "1710276320"
+			"timeupdated" "1726258820"
 		}
 		"debug_2"
 		{
-			"buildid" "14785503"
+			"buildid" "16166943"
 			"pwdrequired" "1"
-			"timeupdated" "1718910430"
+			"timeupdated" "1729780733"
+		}
+		"localization"
+		{
+			"buildid" "16054245"
+			"pwdrequired" "1"
+			"timeupdated" "1729009473"
 		}
 		"nightly_debug"
 		{
-			"buildid" "14777812"
+			"buildid" "16373508"
 			"pwdrequired" "1"
-			"timeupdated" "1718867746"
+			"timeupdated" "1731383187"
 		}
 		"nightly_release"
 		{
-			"buildid" "14776977"
+			"buildid" "16373030"
 			"pwdrequired" "1"
-			"timeupdated" "1718861668"
+			"timeupdated" "1731379050"
+		}
+		"press"
+		{
+			"buildid" "16254827"
+			"pwdrequired" "1"
+			"timeupdated" "1730394749"
+		}
+		"staging"
+		{
+			"buildid" "16142151"
+			"pwdrequired" "1"
+			"timeupdated" "1729631817"
 		}
 		"test"
 		{
@@ -478,20 +560,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#mainstatus" "%gamestatus%"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "24055328"
-"_sha" "2cc5cd9c58c4a0ba3f6de9e0e5ea06c64e94175c"
-"_size" "9799"
+"_change_number" "26159283"
+"_sha" "02fd634f9b0f4d686ec540e7c975bc74fb0cc36e"
+"_size" "11453"
