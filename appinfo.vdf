@@ -243,6 +243,7 @@
 		"category_38" "1"
 		"category_18" "1"
 		"category_56" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -382,9 +383,9 @@
 		{
 			"public"
 			{
-				"gid" "6418955688908407407"
-				"size" "12824749289"
-				"download" "10188594976"
+				"gid" "1439784108029141256"
+				"size" "12823719189"
+				"download" "10188594832"
 			}
 		}
 		"encryptedmanifests"
@@ -403,21 +404,21 @@
 			}
 			"internal"
 			{
-				"gid" "1DE5DD68688A2E6F9624DDC3DAE36707"
-				"size" "C1E5B52FCE4F0C41981C998D81EFB7C1"
-				"download" "6328DA08897FD24B5F297ABF8931E4C0"
+				"gid" "9F39A2ED21BCC5A4E654DB46411ED2D7"
+				"size" "C2E9292138B036833F5B834FEED505F5"
+				"download" "10ED1F9EEE0FFC5407F21A57F445CAB1"
 			}
 			"playtest"
 			{
-				"gid" "776CFB8DC3408AE41F54C508B694DA50"
-				"size" "3D9D8FBB0568AEEC7215AB5A641660AA"
-				"download" "B0E40248D1A53DF63330751AF36EDF1D"
+				"gid" "EC63616AC04F90A9F2DE855C29874B4A"
+				"size" "0F479376DCD29B6A00A35EE25DCDC2C2"
+				"download" "7B9E8B73CD9D5CDE9569E09D322BD79B"
 			}
 			"playtest_2"
 			{
-				"gid" "BDB38381A362E2376DDDA913C09997FA"
-				"size" "657395377A5650C046435F7341C3B8FB"
-				"download" "329EC605C146FB3599545A30B5BE68F8"
+				"gid" "C8600FB2216D9F4A59B625561E87D214"
+				"size" "E19A9D7C8D5E1A72D8EEBEA28AF8E6D0"
+				"download" "9C08A58D3856B923746AB2B625F40926"
 			}
 		}
 	}
@@ -506,8 +507,8 @@
 	{
 		"public"
 		{
-			"buildid" "16254956"
-			"timeupdated" "1730396076"
+			"buildid" "16369638"
+			"timeupdated" "1731354869"
 		}
 		"east"
 		{
@@ -523,21 +524,21 @@
 		}
 		"internal"
 		{
-			"buildid" "16226462"
+			"buildid" "16319300"
 			"pwdrequired" "1"
-			"timeupdated" "1730230530"
+			"timeupdated" "1730927454"
 		}
 		"playtest"
 		{
-			"buildid" "16254956"
+			"buildid" "16369638"
 			"pwdrequired" "1"
-			"timeupdated" "1730395432"
+			"timeupdated" "1731354444"
 		}
 		"playtest_2"
 		{
-			"buildid" "16207513"
+			"buildid" "16368680"
 			"pwdrequired" "1"
-			"timeupdated" "1730127990"
+			"timeupdated" "1731348244"
 		}
 	}
 }
@@ -640,6 +641,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25994163"
-"_sha" "57a1a4cf6ef3934b80afe9d38765059147d5615b"
-"_size" "14294"
+"_change_number" "26145938"
+"_sha" "5f34f20ada09804d3a7007117456beff52a47346"
+"_size" "14316"
