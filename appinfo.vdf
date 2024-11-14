@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "5255047908397979533"
-				"size" "2662450089"
-				"download" "2426223632"
+				"gid" "5668027563206795430"
+				"size" "2662454185"
+				"download" "2426224528"
 			}
 		}
 		"encryptedmanifests"
@@ -340,21 +340,21 @@
 			}
 			"develop_test"
 			{
-				"gid" "1F8549C42E6633E1FCDD776143A94AA4"
-				"size" "51BB0717A54CF6DB1E183C9808790B57"
-				"download" "F42449386598C34D542148865F703087"
+				"gid" "F4DCA65A9ED7DFD9F0B6427EAD9E0F29"
+				"size" "77B13FC17391E1C0C90A09901F37C85A"
+				"download" "49A148DD7EC142AF7CB205697EFD7FB4"
 			}
 			"innertest"
 			{
-				"gid" "71164140AC73F710D28EB735AB7B7793"
-				"size" "C49D9CDE560D8637882EA01EEB01E0AF"
-				"download" "6168575CA64BF0D023AE8D1ADC6EA9BA"
+				"gid" "27D7133F8921D0399F48ED940BF17619"
+				"size" "792D8AFC46B6569D4DBE5949C9116301"
+				"download" "155A7304668FC2DD014795618CFB9BBC"
 			}
 			"outertest"
 			{
-				"gid" "C8D0B8A737FBCF80C216324D06404BCF"
-				"size" "299BCCEB976C784A4A054C8B4AE399D8"
-				"download" "2E0B9274555D2105AA117834122D3A1B"
+				"gid" "F510A1F561C8E709B88B2330BDBF0419"
+				"size" "B5DBB75C391AC3CD4D73A10E2E4D60E4"
+				"download" "C926CDE2B14F335B06D75871CEFD92D8"
 			}
 		}
 	}
@@ -363,8 +363,8 @@
 	{
 		"public"
 		{
-			"buildid" "16390769"
-			"timeupdated" "1731494618"
+			"buildid" "16401083"
+			"timeupdated" "1731556873"
 		}
 		"cetest"
 		{
@@ -389,22 +389,22 @@
 		"develop_test"
 		{
 			"sc_schinese" "研发测试用"
-			"buildid" "16390769"
+			"buildid" "16403047"
 			"pwdrequired" "1"
-			"timeupdated" "1731494516"
+			"timeupdated" "1731572548"
 		}
 		"innertest"
 		{
-			"buildid" "16390769"
+			"buildid" "16401083"
 			"pwdrequired" "1"
-			"timeupdated" "1731494524"
+			"timeupdated" "1731556805"
 		}
 		"outertest"
 		{
 			"sc_schinese" "HuanmosGanbei"
-			"buildid" "16390769"
+			"buildid" "16401083"
 			"pwdrequired" "1"
-			"timeupdated" "1731494537"
+			"timeupdated" "1731556815"
 		}
 	}
 }
@@ -428,6 +428,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26173063"
-"_sha" "a4661648ed15a4f1748a0b344a63903037ace65f"
+"_change_number" "26188969"
+"_sha" "dce2a98e798ba0186ab0a5825d3441140e263c73"
 "_size" "8640"
