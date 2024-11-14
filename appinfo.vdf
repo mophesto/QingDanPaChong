@@ -270,7 +270,7 @@
 		"19" "8945"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -392,9 +392,9 @@
 		{
 			"public"
 			{
-				"gid" "1451571719936075403"
-				"size" "3462027378"
-				"download" "1471612480"
+				"gid" "6049840527298591136"
+				"size" "3506279742"
+				"download" "1481347872"
 			}
 			"public-beta"
 			{
@@ -419,9 +419,9 @@
 			}
 			"shiro-test"
 			{
-				"gid" "907CEE8AF50EBB42EF68C4B823BF9FD1"
-				"size" "B8FFC448CF7464F5A9C8247B595A1202"
-				"download" "2CACDAF85F5ABBB09B30B62A3F26C4B1"
+				"gid" "4B95E0AC40DBAC0A6C1DF9DEA2267E4F"
+				"size" "F96CABAFEB4267BC0840F7D789E33F4B"
+				"download" "0ACD12235356609C3A4F954B172C3154"
 			}
 		}
 	}
@@ -641,8 +641,8 @@
 	{
 		"public"
 		{
-			"buildid" "16343928"
-			"timeupdated" "1731081304"
+			"buildid" "16405610"
+			"timeupdated" "1731600529"
 		}
 		"closed-beta"
 		{
@@ -664,9 +664,9 @@
 		}
 		"shiro-test"
 		{
-			"buildid" "16343928"
+			"buildid" "16405610"
 			"pwdrequired" "1"
-			"timeupdated" "1731081115"
+			"timeupdated" "1731585212"
 		}
 	}
 }
@@ -697,6 +697,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26110568"
-"_sha" "f114aae87808aa44ffca6548d25cf28c20e5704e"
+"_change_number" "26196157"
+"_sha" "32c75fc9018ea4704a118b539c6468048a806e4b"
 "_size" "13429"
