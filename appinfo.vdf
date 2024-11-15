@@ -112,6 +112,7 @@
 	{
 		"library_capsule" "en,zh-cn,zh-tw"
 		"library_hero" "zh-cn,zh-tw,en"
+		"library_hero_blur" "en,zh-cn,zh-tw"
 		"library_logo" "zh-tw,en,zh-cn"
 		"library_header" "zh-tw,en,zh-cn"
 		"logo_position"
@@ -151,6 +152,15 @@
 				"schinese" "bab49f4b83037b54b2f7732e59c27d6ddea502d1/library_hero_schinese.jpg"
 				"tchinese" "bab49f4b83037b54b2f7732e59c27d6ddea502d1/library_hero_tchinese.jpg"
 				"english" "bab49f4b83037b54b2f7732e59c27d6ddea502d1/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "bab49f4b83037b54b2f7732e59c27d6ddea502d1/library_hero_blur.jpg"
+				"schinese" "bab49f4b83037b54b2f7732e59c27d6ddea502d1/library_hero_blur_schinese.jpg"
+				"tchinese" "bab49f4b83037b54b2f7732e59c27d6ddea502d1/library_hero_blur_tchinese.jpg"
 			}
 		}
 		"library_logo"
@@ -388,9 +398,9 @@
 		{
 			"public"
 			{
-				"gid" "7595170995154194894"
-				"size" "52678842051"
-				"download" "43465104976"
+				"gid" "270983729562019734"
+				"size" "52678907646"
+				"download" "43465170416"
 			}
 		}
 	}
@@ -400,9 +410,9 @@
 		{
 			"public"
 			{
-				"gid" "6579833666359141563"
-				"size" "52678842051"
-				"download" "43469921136"
+				"gid" "8823454460588339999"
+				"size" "52678907646"
+				"download" "43469986576"
 			}
 		}
 	}
@@ -414,12 +424,12 @@
 	{
 		"public"
 		{
-			"buildid" "16403954"
-			"timeupdated" "1731576581"
+			"buildid" "16420495"
+			"timeupdated" "1731675597"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26190028"
-"_sha" "43b9b38827780c1048925e3d9ee3e85f273469e2"
-"_size" "9094"
+"_change_number" "26212107"
+"_sha" "d5475c5c83aa27666c9c0664c1ae161993e9e97f"
+"_size" "9454"
