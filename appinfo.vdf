@@ -122,7 +122,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727372642"
+	"store_asset_mtime" "1731680314"
 	"associations"
 	{
 		"0"
@@ -262,7 +262,7 @@
 	"developer" "Noxfall Studios"
 	"publisher" "Noxfall Studios"
 	"homepage" "https://noxfallstudios.com/nordic-ashes"
-	"listofdlc" "2952100"
+	"listofdlc" "2952100,3312220"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -314,30 +314,30 @@
 		{
 			"public"
 			{
-				"gid" "2647760126570350769"
-				"size" "549938407"
-				"download" "437584496"
+				"gid" "4497051231281968675"
+				"size" "555377781"
+				"download" "446151472"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"collabs"
 			{
-				"gid" "F43B025FF38B4A1B610E7D2C4B2AAD42"
-				"size" "1A45DC6D30D14210671EAABE914743E0"
-				"download" "4417115C7C51F54679024EAD160B9A9C"
+				"gid" "4DFB52FECE5C21DEB570D82DCD66B9C4"
+				"size" "02818887DFDBE93BEEFF3BF866135EFE"
+				"download" "0FCD1564ECDF55003D999A56BE37094C"
 			}
 			"devs"
 			{
-				"gid" "82DE1D83E5AEFDE62F9FA01029B41EF2"
-				"size" "BB2AFDF1556AD8D02CE3DAC1B92DA112"
-				"download" "392F2AA74B7F7EF2CF1A6B0AE671AEC6"
+				"gid" "56D970A33F599EF6915F57FCE1E8D190"
+				"size" "B7A30D16841DDD939EBF220F91F17619"
+				"download" "B486549999FE24325D32A8CAD4B7F6EB"
 			}
 			"mods"
 			{
-				"gid" "6E4DD0252ADBAED49FD7685C9490D926"
-				"size" "3312AC7D32CAC9AAD3D94EE10D10E5C4"
-				"download" "26AC23E3385AA1BA727EB67087E0369F"
+				"gid" "4E693AAEA2E042E0AA9F6E1DA6B30EA4"
+				"size" "C53900DBED63ED8C54E3C27A99B05B18"
+				"download" "BC6F087A2BFE9B2B7DA5BF2F31EA552F"
 			}
 		}
 	}
@@ -351,30 +351,30 @@
 		{
 			"public"
 			{
-				"gid" "8768026724289168503"
-				"size" "634470368"
-				"download" "454557216"
+				"gid" "1583665683893389614"
+				"size" "647522313"
+				"download" "465632304"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"collabs"
 			{
-				"gid" "481A1B4384258C28D7295491AFC34A71"
-				"size" "E8C02977DF339C36A9DC98D2DF257572"
-				"download" "06AFF4CD862A2EF16A4560D7D8CD1BA8"
+				"gid" "9E401FC21CCB3AED0299B296DB0E2323"
+				"size" "F06650E291F81D26854910B4D1CB20C1"
+				"download" "995957DB15039D0C9AAD76FC1254FC35"
 			}
 			"devs"
 			{
-				"gid" "8344E2B8CEEB3427BEF5A148994992EB"
-				"size" "69C72C86ED3A5562D932DA02B8DD6084"
-				"download" "4F4DC414355FC5D99439E6ECF0AB087A"
+				"gid" "D0A4BE8A5069ED361F0AFD69374C4CB4"
+				"size" "3FFC338EDE1A22430BFA34AF8309313A"
+				"download" "9D11AFE7D203241E5EE6828097E93F64"
 			}
 			"mods"
 			{
-				"gid" "EC619B2C82ECB2ECC679BCCD4FD3697E"
-				"size" "C45EE05C260567C69EEE1519309F93B2"
-				"download" "6C4232705968EBB467C5CA90B29A8517"
+				"gid" "44E756FE6205A221FE23ECCBDEBE5BE1"
+				"size" "666264B1E0B5C5EE9C9B14CD21535CBF"
+				"download" "E388878058753C722520E1297E648B41"
 			}
 		}
 	}
@@ -388,30 +388,30 @@
 		{
 			"public"
 			{
-				"gid" "3988931058526076603"
-				"size" "589531158"
-				"download" "440302944"
+				"gid" "7541644837304742576"
+				"size" "590609608"
+				"download" "448520720"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"collabs"
 			{
-				"gid" "7DEF1C9330C3106FEEBADA05108B63AE"
-				"size" "88E17779830C03CCC07DD02D6727F748"
-				"download" "BC0BE9D5A3FD9CAABA6B7F514B547C0C"
+				"gid" "B7FA2015811AE1FAF8BE2B01E551F931"
+				"size" "583235EA29492B7AAB49255E3FF19A74"
+				"download" "2F44C22B06E3C92FCB5302775AC396E0"
 			}
 			"devs"
 			{
-				"gid" "3CF267BE28182EADF24413CE9467FCB0"
-				"size" "3ED6D6AF4F734B9E138EC91949DB4EE8"
-				"download" "D0B266977827B17FC77605E643B81E8A"
+				"gid" "64D9AE0D731B7783F6AB3150E9D13824"
+				"size" "8192157C3D7864A668E81454A97BD97D"
+				"download" "7A1BBD5B1417F298556E26346B037980"
 			}
 			"mods"
 			{
-				"gid" "7DB62C4A1EB945CEA129B38E70B0D640"
-				"size" "D4D5A51C768D00FFA5875C0ABEA4F66A"
-				"download" "19E31684EC90705C19CEAC3C207EBF18"
+				"gid" "D5FFE863717EADCFC4895FA821159296"
+				"size" "6875673F2B123B147541AB4D262A7BD6"
+				"download" "97DCE552B170C1A5DEC53D47B92848A1"
 			}
 		}
 	}
@@ -449,30 +449,144 @@
 			}
 		}
 	}
+	"3312220"
+	{
+		"dlcappid" "3312220"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4701122255687877157"
+				"size" "100074"
+				"download" "101472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"collabs"
+			{
+				"gid" "B2B9E4C5CCD5FDA74198ED8BEDA21E9A"
+				"size" "FD3B732CC233B6EE24B347C9D3B2103E"
+				"download" "461DC3A617513AB52E78A0829FC5A4B0"
+			}
+			"devs"
+			{
+				"gid" "40CA7216C0A7A75C931EFCF9A933B72E"
+				"size" "0AE8ABD69C283785925A1F84F73AE30F"
+				"download" "1ABA2FFDEE1EDD8ED75EBD0F2FBB466A"
+			}
+			"mods"
+			{
+				"gid" "85F7A3A671B7835CA34DABF0E8D85870"
+				"size" "433808B1621EAAF5E4D603922F627AA7"
+				"download" "3E12251F396167F4777823ACF3382946"
+			}
+		}
+	}
+	"3312221"
+	{
+		"dlcappid" "3312220"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3381009365017777134"
+				"size" "100180"
+				"download" "101552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"collabs"
+			{
+				"gid" "77DE133BBD28BD0612A03D4A95B6119A"
+				"size" "3BADA034A3F35AF1F79EAECD2612C1CD"
+				"download" "0DF40BCB51B2B900AD49F42977F4F945"
+			}
+			"devs"
+			{
+				"gid" "DA4CBE5C42DB2DB2BE6BD06E21BBAF3C"
+				"size" "F34DE499B6859AAE7437AE98B5907CC1"
+				"download" "F27087DBFF4B5E120ECDBD990232AD36"
+			}
+			"mods"
+			{
+				"gid" "2F81AB357CD22FB7E800B4DC840AC53A"
+				"size" "5949051A29A1A115973456097EDE365A"
+				"download" "11314B968F7D6DA0E5C101037F972093"
+			}
+		}
+	}
+	"3312222"
+	{
+		"dlcappid" "3312220"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5141057283641433393"
+				"size" "100019"
+				"download" "101408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"collabs"
+			{
+				"gid" "FA6136A794477BC1E508CA07BACB56A5"
+				"size" "D28374EC9775E25F0A937A635BB1343C"
+				"download" "B85BF42075A9F554419D561B5ED4D29B"
+			}
+			"devs"
+			{
+				"gid" "1A40FC9443E4D7C175BD108A20A09AF2"
+				"size" "DBEAD17BAC655FC8483BF89F768BA52B"
+				"download" "7835AEF87BD959B2B9C95E20418A08B8"
+			}
+			"mods"
+			{
+				"gid" "D0486FEA60102E9FDCF4077FECDBAE0D"
+				"size" "3AC3671FBC5BDD1A4A1CAF22DDB49AE2"
+				"download" "24F07165677ACF7148CC0C15D15EE44B"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16035258"
-			"timeupdated" "1728904254"
+			"buildid" "16423887"
+			"timeupdated" "1731694422"
 		}
 		"collabs"
 		{
-			"buildid" "16035258"
+			"buildid" "16423887"
 			"pwdrequired" "1"
-			"timeupdated" "1728904362"
+			"timeupdated" "1731694430"
 		}
 		"devs"
 		{
-			"buildid" "16035258"
+			"buildid" "16423887"
 			"pwdrequired" "1"
-			"timeupdated" "1728903922"
+			"timeupdated" "1731693640"
 		}
 		"mods"
 		{
-			"buildid" "16035258"
+			"buildid" "16423887"
 			"pwdrequired" "1"
-			"timeupdated" "1728904355"
+			"timeupdated" "1731694440"
 		}
 	}
 }
@@ -524,6 +638,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25706258"
-"_sha" "23ec03b656d2ef626c8e757ac5a7e972d2a557e8"
-"_size" "9435"
+"_change_number" "26217343"
+"_sha" "70ece41697f489303596eb32cd79de0d99258c6c"
+"_size" "11749"
