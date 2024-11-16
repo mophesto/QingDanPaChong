@@ -27,8 +27,8 @@
 		"0" "1"
 		"1" "2"
 		"2" "3"
-		"3" "5"
-		"4" "4"
+		"3" "4"
+		"4" "5"
 	}
 	"restricted_countries" "CN,DE"
 	"steam_deck_compatibility"
@@ -93,6 +93,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -100,7 +101,48 @@
 			"height_pct" "62.53858940869153"
 		}
 	}
-	"store_asset_mtime" "1616195288"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "47.674418604651166"
+				"height_pct" "62.53858940869153"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "a7d267c380400a935df41da7c512e62407dd098f/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1731685855"
 	"associations"
 	{
 		"0"
@@ -122,11 +164,11 @@
 		"2" "4"
 		"3" "3"
 		"4" "2"
-		"5" "70"
 	}
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -137,7 +179,8 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1616774802"
+	"steam_release_date" "1731704422"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1034140"
 	"store_tags"
@@ -149,17 +192,17 @@
 		"4" "9130"
 		"5" "122"
 		"6" "1755"
-		"7" "9"
-		"8" "4182"
+		"7" "4182"
+		"8" "9"
 		"9" "3942"
 		"10" "21"
 		"11" "1719"
 		"12" "1742"
 		"13" "19"
 		"14" "4255"
-		"15" "493"
-		"16" "597"
-		"17" "10397"
+		"15" "597"
+		"16" "10397"
+		"17" "493"
 		"18" "1663"
 		"19" "492"
 	}
@@ -221,9 +264,9 @@
 		{
 			"public"
 			{
-				"gid" "2060507041047414643"
-				"size" "62712777000"
-				"download" "57949950368"
+				"gid" "6690624990584873758"
+				"size" "37760395596"
+				"download" "36287444432"
 			}
 		}
 		"encryptedmanifests"
@@ -282,14 +325,110 @@
 				"size" "7EB430C5DFD34A4C5376BC07047FD475"
 				"download" "6C26B1BA21273D6431E97F0B4416E65E"
 			}
+			"development-branch"
+			{
+				"gid" "5123C56F970C30A5D3A9485B57F5C054"
+				"size" "E9BCCA17E32D962C06162D62F77ACE43"
+				"download" "104773BFFCDC9773BD5C27A8D4E13F97"
+			}
+			"steamworks-dev-test"
+			{
+				"gid" "FD7145CFF1A081C44F897176C5E8702B"
+				"size" "0AAD5AB4C7C85B220F63C89BA6F556B9"
+				"download" "75F552E1E40E7D348EBA8D2505100B05"
+			}
+		}
+	}
+	"1034142"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"1034143"
+	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"development-branch"
+			{
+				"gid" "6713CB9EC1E7E20B60FB0E9B782E0C1C"
+				"size" "79E6DAA63CF4E90B132584213518BA33"
+				"download" "BC0B9DF38C5BAFAA49EAD35263721837"
+			}
+			"steamworks-dev-test"
+			{
+				"gid" "2FC8AF68A736C5D334FA6A9487972462"
+				"size" "AA6A96488BFF85F73657022A7660EC20"
+				"download" "0F99DD59361C1AB7950CD7109BED8E0B"
+			}
+		}
+	}
+	"3341270"
+	{
+		"dlcappid" "3341270"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"development-branch"
+			{
+				"gid" "B977E21C223C31ED4BE3B02FFE9C4A4E"
+				"size" "9211296D244CC896B4DC534023AF8450"
+				"download" "F699994F26AA0367C219530B8A68BB98"
+			}
+		}
+	}
+	"3341290"
+	{
+		"dlcappid" "3341290"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"development-branch"
+			{
+				"gid" "B913CF630D66CF8B9494C79F691175A5"
+				"size" "9A0DD512F1B0E21EDC6926A521579498"
+				"download" "995265CE5F4C64884510E2FD6F08489F"
+			}
+		}
+	}
+	"3342820"
+	{
+		"dlcappid" "3342820"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7228627330103879912"
+				"size" "30572164587"
+				"download" "30963786448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development-branch"
+			{
+				"gid" "1D8F954E9B8226C9635A568C5510BDF8"
+				"size" "DD74D2841A0E384BE3CCE16628B47F2E"
+				"download" "6276E6A65F6DD9300751B9D58932C1CA"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13890666"
-			"timeupdated" "1711728420"
+			"buildid" "16423237"
+			"timeupdated" "1731704388"
 		}
 		"rmpatchtest"
 		{
@@ -345,9 +484,28 @@
 			"pwdrequired" "1"
 			"timeupdated" "1658757437"
 		}
+		"development-branch"
+		{
+			"buildid" "16399131"
+			"pwdrequired" "1"
+			"timeupdated" "1731543455"
+		}
+		"steamworks-dev-test"
+		{
+			"buildid" "16395852"
+			"pwdrequired" "1"
+			"timeupdated" "1731520882"
+		}
 	}
 }
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "15"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
 "_missing_token" "False"
-"_change_number" "22963582"
-"_sha" "8a815193a4860595d3793f19c953546a116c5a95"
-"_size" "6950"
+"_change_number" "26221073"
+"_sha" "c1057398586eb4144a8d7d4d3cd6c0e47c0fdc4e"
+"_size" "9903"
