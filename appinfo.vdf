@@ -133,23 +133,9 @@
 			}
 			"description_loc"
 			{
-				"english" "Tom Clancy\'s Rainbow Six Siege DX12 - Test Server"
+				"english" "Tom Clancy\'s Rainbow Six Siege - Test Server"
 			}
-			"description" "Tom Clancy\'s Rainbow Six Siege DX12 - Test Server"
-		}
-		"1"
-		{
-			"executable" "RainbowSix_DX11.exe"
-			"arguments" "-upc_steam_required_product_id 10424 -uplay_steam_mode -orbit_uat"
-			"config"
-			{
-				"oslist" "windows"
-			}
-			"description_loc"
-			{
-				"english" "Tom Clancy\'s Rainbow Six Siege DX11 - Test Server"
-			}
-			"description" "Tom Clancy\'s Rainbow Six Siege DX11 - Test Server"
+			"description" "Tom Clancy\'s Rainbow Six Siege - Test Server"
 		}
 	}
 }
@@ -215,9 +201,9 @@
 		{
 			"public"
 			{
-				"gid" "7066532467546116115"
-				"size" "61990494310"
-				"download" "57720802544"
+				"gid" "901356966435402580"
+				"size" "62928719376"
+				"download" "58733020016"
 			}
 		}
 		"encryptedmanifests"
@@ -260,9 +246,9 @@
 			}
 			"crossplay"
 			{
-				"gid" "6160E1D257A03E3E8AF0B17F60BB82DF"
-				"size" "326C3B6C885A8B6959D226505DB5DB47"
-				"download" "6D32960FC806617579BC388D7688164D"
+				"gid" "8E5A88329D9E6803C8A6FF1A6BFECC71"
+				"size" "E78FE49DC2C521A72D737F60E21D255B"
+				"download" "48C1C16C1F94530D9ECBA2E1A5BB656D"
 			}
 		}
 	}
@@ -272,9 +258,9 @@
 		{
 			"public"
 			{
-				"gid" "2813210786162669848"
-				"size" "232810480"
-				"download" "234531248"
+				"gid" "6407822217219551890"
+				"size" "227545200"
+				"download" "229241360"
 			}
 		}
 		"depotfromapp" "1716750"
@@ -283,8 +269,8 @@
 	{
 		"public"
 		{
-			"buildid" "15546843"
-			"timeupdated" "1725385113"
+			"buildid" "16399382"
+			"timeupdated" "1731938601"
 		}
 		"none"
 		{
@@ -324,13 +310,13 @@
 		}
 		"crossplay"
 		{
-			"buildid" "15546843"
+			"buildid" "16399382"
 			"pwdrequired" "1"
-			"timeupdated" "1725364352"
+			"timeupdated" "1731545049"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25061650"
-"_sha" "258af10d1499ad9d63ce15f6ea761cb12be7c2e9"
-"_size" "6082"
+"_change_number" "26245306"
+"_sha" "f8511bbc122d4b486c20b77f435f799dd4554e72"
+"_size" "5706"
