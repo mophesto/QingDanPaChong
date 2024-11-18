@@ -226,8 +226,8 @@
 		"0" "12472"
 		"1" "4182"
 		"2" "3942"
-		"3" "9"
-		"4" "1676"
+		"3" "1676"
+		"4" "9"
 		"5" "1670"
 		"6" "599"
 		"7" "4364"
@@ -293,30 +293,18 @@
 		{
 			"public"
 			{
-				"gid" "6095024488615139867"
-				"size" "5958564583"
-				"download" "1765582800"
+				"gid" "4559674299840297640"
+				"size" "6119396121"
+				"download" "1842643504"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"closed-beta"
-			{
-				"gid" "A5138841DBCCFAEADBC83AEBA04A4BAA"
-				"size" "7AB0CF079F8F0770B0B1DB32C3DEF3EB"
-				"download" "8C54643F0AC1054C50973DE11CB94CF0"
-			}
 			"nostalgia"
 			{
 				"gid" "908BC18CC134F5FF43F15FF549AEA9B3"
 				"size" "108549315AA7267E717F54BFAF2FD2FE"
 				"download" "2D546DAEC2E6318F7F864A428AECDA5B"
-			}
-			"press"
-			{
-				"gid" "BD0C177233F26BC42BE40274A08B2E31"
-				"size" "DA2B98367817BB9028E2E16DAF93AE6D"
-				"download" "5135402CF2FE21D697EE44E47F546F76"
 			}
 			"cert-other"
 			{
@@ -324,17 +312,29 @@
 				"size" "4AE296739BEB9580C1051C6338C74278"
 				"download" "6463748EC3076574B56E1CB39524DDB7"
 			}
+			"closed-beta"
+			{
+				"gid" "A5FBD0A33F2F375036F100D80611BDC0"
+				"size" "F01A794AE43DC988D42B7CCA865238FA"
+				"download" "2185C502E3FF42B65DA05B5AC0C5894D"
+			}
+			"press"
+			{
+				"gid" "8BF2DCCBB247B2783DD8464D0D207770"
+				"size" "18271CDFE5F901A76796A6B6F3F8A628"
+				"download" "84768CAC348DB8052C550BC469A23A95"
+			}
 			"shiro"
 			{
-				"gid" "E5ADE3BD575065DD4E7CEB1B666C294A"
-				"size" "72AD5A600625436D89AA0EE88DC16BDC"
-				"download" "1CB251E9A8FDA74DDFBD40F02DE26057"
+				"gid" "9111DF445BB31FE901082E5CEBF7097D"
+				"size" "F8462922FD3C4A0B812A487F2D4886BC"
+				"download" "0BEACE1443EBC424828FDFECAB71E08F"
 			}
 			"tournament"
 			{
-				"gid" "077665C9F9302E8890B83761F1DA7A83"
-				"size" "C585C996BD1E0ABBF3E555FB230E510C"
-				"download" "387254E8A384CB56BA36AFC8D353834A"
+				"gid" "361D000F128EF42AA7F8DC3BB8D9B57F"
+				"size" "94EAADFE56ED5DECD242BF081BC4005E"
+				"download" "7E1516F4F36D05EB15B8606B8A9CD50C"
 			}
 		}
 	}
@@ -342,14 +342,8 @@
 	{
 		"public"
 		{
-			"buildid" "15603740"
-			"timeupdated" "1725543285"
-		}
-		"closed-beta"
-		{
-			"buildid" "13668253"
-			"pwdrequired" "1"
-			"timeupdated" "1709812432"
+			"buildid" "16442074"
+			"timeupdated" "1731937457"
 		}
 		"nostalgia"
 		{
@@ -357,29 +351,35 @@
 			"pwdrequired" "1"
 			"timeupdated" "1636734525"
 		}
-		"press"
-		{
-			"buildid" "13668253"
-			"pwdrequired" "1"
-			"timeupdated" "1709812421"
-		}
 		"cert-other"
 		{
 			"buildid" "15037030"
 			"pwdrequired" "1"
 			"timeupdated" "1721053044"
 		}
+		"closed-beta"
+		{
+			"buildid" "16442074"
+			"pwdrequired" "1"
+			"timeupdated" "1731936825"
+		}
+		"press"
+		{
+			"buildid" "16442074"
+			"pwdrequired" "1"
+			"timeupdated" "1731936856"
+		}
 		"shiro"
 		{
-			"buildid" "15603740"
+			"buildid" "16442074"
 			"pwdrequired" "1"
-			"timeupdated" "1725543044"
+			"timeupdated" "1731922143"
 		}
 		"tournament"
 		{
-			"buildid" "15603740"
+			"buildid" "16442074"
 			"pwdrequired" "1"
-			"timeupdated" "1725543294"
+			"timeupdated" "1731937479"
 		}
 	}
 }
@@ -399,6 +399,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25092375"
-"_sha" "201be4a51d166f197cea39802bf60727cdee5361"
+"_change_number" "26245062"
+"_sha" "c6c7b9bc1860327c39c7303972f2a5a678b6542f"
 "_size" "7292"
