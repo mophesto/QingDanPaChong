@@ -11,6 +11,7 @@
 	"clienticon" "7fa2839e2795c96f64a7db38200febc8d59c78b6"
 	"clienttga" "96566f96a175b6802ddbc3b988a8b9675f0c0fd0"
 	"releasestate" "released"
+	"restricted_countries" "DE"
 	"metacritic_name" "Tom Clancy\'s Rainbow Six® Siege - Technical Test Server"
 	"small_capsule"
 	{
@@ -201,9 +202,9 @@
 		{
 			"public"
 			{
-				"gid" "901356966435402580"
-				"size" "62928719376"
-				"download" "58733020016"
+				"gid" "2977141124366814154"
+				"size" "62973149320"
+				"download" "58776151264"
 			}
 		}
 		"encryptedmanifests"
@@ -246,9 +247,9 @@
 			}
 			"crossplay"
 			{
-				"gid" "8E5A88329D9E6803C8A6FF1A6BFECC71"
-				"size" "E78FE49DC2C521A72D737F60E21D255B"
-				"download" "48C1C16C1F94530D9ECBA2E1A5BB656D"
+				"gid" "239BDA88B9B3873CAAF0721DCBD68661"
+				"size" "6DA5D5795FBADCB240F257CEE8EBD272"
+				"download" "F49BF7324337B504B7D1A5850CF6F811"
 			}
 		}
 	}
@@ -258,9 +259,9 @@
 		{
 			"public"
 			{
-				"gid" "6407822217219551890"
-				"size" "227545200"
-				"download" "229241360"
+				"gid" "6750736260530963906"
+				"size" "256391736"
+				"download" "258388880"
 			}
 		}
 		"depotfromapp" "1716750"
@@ -269,8 +270,8 @@
 	{
 		"public"
 		{
-			"buildid" "16399382"
-			"timeupdated" "1731938601"
+			"buildid" "16463691"
+			"timeupdated" "1732051045"
 		}
 		"none"
 		{
@@ -310,13 +311,13 @@
 		}
 		"crossplay"
 		{
-			"buildid" "16399382"
+			"buildid" "16458883"
 			"pwdrequired" "1"
-			"timeupdated" "1731545049"
+			"timeupdated" "1732024900"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26245306"
-"_sha" "f8511bbc122d4b486c20b77f435f799dd4554e72"
-"_size" "5706"
+"_change_number" "26268916"
+"_sha" "354f2f954c99d1471b337bc67cf354624ff152ef"
+"_size" "5738"
