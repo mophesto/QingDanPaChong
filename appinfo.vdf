@@ -106,6 +106,13 @@
 				"english" "be85f2c8afd5a08bb98ca0d398d8fb0c723f6320/library_hero_2x.jpg"
 			}
 		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "be85f2c8afd5a08bb98ca0d398d8fb0c723f6320/library_hero_blur.jpg"
+			}
+		}
 		"library_logo"
 		{
 			"image2x"
@@ -392,9 +399,9 @@
 		{
 			"public"
 			{
-				"gid" "6049840527298591136"
-				"size" "3506279742"
-				"download" "1481347872"
+				"gid" "619679606686781306"
+				"size" "3506219336"
+				"download" "1481348624"
 			}
 			"public-beta"
 			{
@@ -407,21 +414,21 @@
 		{
 			"closed-beta"
 			{
-				"gid" "E5FC77D125F9A7CF37C6CF533AD2848E"
-				"size" "49336C0E8EADA1CA2A9174E1C0EEEAAA"
-				"download" "51581C0CB21F25DE9845B14D463890BB"
+				"gid" "B8021E5D58B5F7DF9E0694ADA1C810C3"
+				"size" "24A6EADF4E3F4124F0D1AB5876BF1678"
+				"download" "886DD11023F70E0ABC91765AA3B02DD4"
 			}
 			"shiro-qa"
 			{
-				"gid" "ACD15EE2F4375D1B2CD608230AD864FA"
-				"size" "C8858DDBC48077C827D8328F8D51E47C"
-				"download" "E4FB3CC3EB0474D98084D9562A333778"
+				"gid" "F6BE09579F5A2468BFDB14E749BF5CB1"
+				"size" "4AF2FDAAAE9AC44E48B8F8B2CB0D6732"
+				"download" "4C10A5190F2053C0F04616FD1904FE67"
 			}
 			"shiro-test"
 			{
-				"gid" "4B95E0AC40DBAC0A6C1DF9DEA2267E4F"
-				"size" "F96CABAFEB4267BC0840F7D789E33F4B"
-				"download" "0ACD12235356609C3A4F954B172C3154"
+				"gid" "E8047A2EB5F31EF77284DB9CCEC0FDA0"
+				"size" "074B2F838172E9FD363770087583855C"
+				"download" "77B76799B5937320B3F7F9D6C99B63EC"
 			}
 		}
 	}
@@ -446,9 +453,9 @@
 		{
 			"closed-beta"
 			{
-				"gid" "953A79BF9C738FD4DE736080A8C10879"
-				"size" "02929EF977D4E6033AAA35231E365F57"
-				"download" "20305203EC6BF341C534BBA424EFDAD8"
+				"gid" "B7A2791A8B4CB23347BCC5AD11197D2A"
+				"size" "4E9D85F61FC784839C5D57003E2821A3"
+				"download" "EC81262D2DAD8D1ED62D21D415AB447B"
 			}
 			"shiro-qa"
 			{
@@ -490,9 +497,9 @@
 		{
 			"closed-beta"
 			{
-				"gid" "A69C43D09ACCCC07C6309EBBFD632591"
-				"size" "4CC8FD88F47140236FCDD9E3D16BB319"
-				"download" "B863856EDFC580DA47996F0B5A7AF82F"
+				"gid" "23A586CA9D683A9191DEB20A5A1402DF"
+				"size" "E26F77E3994A5C2FC6619802E706A80F"
+				"download" "D678FB44D56F98F9F05C999509A92E2C"
 			}
 			"shiro-qa"
 			{
@@ -533,9 +540,9 @@
 		{
 			"closed-beta"
 			{
-				"gid" "83152684EC9E3A2A3425A35365FAB1DB"
-				"size" "98797BC175AF624B854E81A8D1CFA0ED"
-				"download" "CBBAB00656D2ECF99BB9416F4995EC7C"
+				"gid" "6F280452B73A44578957766F24A93BB5"
+				"size" "B84D8A5203541EBE228CD218162CAA2C"
+				"download" "C4ACDC9099E4D2D2EB4356F62E7F1316"
 			}
 			"shiro-qa"
 			{
@@ -576,9 +583,9 @@
 		{
 			"closed-beta"
 			{
-				"gid" "58B7116C7E93A1711D916014B6713B54"
-				"size" "F34542775F5F4F9836E48501AB95942F"
-				"download" "0979A08833466B99FE4939913A89BC56"
+				"gid" "1729755F4B09D2B3E72F943954A7FC03"
+				"size" "A4D60806E0B1B14914E89A2F8CB779E7"
+				"download" "7BA31DCD2168763E4A6DFB4637BCF696"
 			}
 			"shiro-qa"
 			{
@@ -619,9 +626,9 @@
 		{
 			"closed-beta"
 			{
-				"gid" "4C20132B0EA91413FB158DE0D5F0EA57"
-				"size" "DE133CFACA409D32C7D1FF59211F772D"
-				"download" "532D534EA24774285AAA6D0996B96EE0"
+				"gid" "2053FEAFCBBB903F540F0F4FAFA0A68A"
+				"size" "65186BDAC2455427263694D181D6B330"
+				"download" "FA4212A6847F143494A765C5DF48CD5A"
 			}
 			"shiro-qa"
 			{
@@ -641,14 +648,14 @@
 	{
 		"public"
 		{
-			"buildid" "16405610"
-			"timeupdated" "1731600529"
+			"buildid" "16486975"
+			"timeupdated" "1732202392"
 		}
 		"closed-beta"
 		{
-			"buildid" "15772142"
+			"buildid" "16422100"
 			"pwdrequired" "1"
-			"timeupdated" "1726844617"
+			"timeupdated" "1731686847"
 		}
 		"public-beta"
 		{
@@ -658,15 +665,15 @@
 		}
 		"shiro-qa"
 		{
-			"buildid" "16151258"
+			"buildid" "16484723"
 			"pwdrequired" "1"
-			"timeupdated" "1729688111"
+			"timeupdated" "1732185340"
 		}
 		"shiro-test"
 		{
-			"buildid" "16405610"
+			"buildid" "16486975"
 			"pwdrequired" "1"
-			"timeupdated" "1731585212"
+			"timeupdated" "1732196245"
 		}
 	}
 }
@@ -697,6 +704,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26196157"
-"_sha" "32c75fc9018ea4704a118b539c6468048a806e4b"
-"_size" "13429"
+"_change_number" "26300505"
+"_sha" "4330d22a9cf28c2ae429dda6bf58df91626021d1"
+"_size" "13567"
