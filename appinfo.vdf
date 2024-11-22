@@ -10,7 +10,7 @@
 	"logo_small" "ec929c1be99189c83ceea602fe07c31bf35f4d31_thumb"
 	"clienticon" "ae7fd99214009897fbff487c6903376fadfcbca4"
 	"clienttga" "00ff1dfb3cc6b88f0dc65aaf00c4314b979c3595"
-	"icon" "9929cad8a0b7a37bba0d22afbd2322719451b0b0"
+	"icon" "f4c907b361c4d7914571af0cf7701d19fbe50fcf"
 	"releasestate" "released"
 	"languages"
 	{
@@ -83,9 +83,10 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "1a22fd93efcfd8fe20823b2dacabb2e654ba0c3d/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -96,6 +97,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -103,7 +105,60 @@
 			"height_pct" "99.66564091400829"
 		}
 	}
-	"store_asset_mtime" "1715271981"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50.476210651262576"
+				"height_pct" "99.66564091400829"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1723142760"
 	"associations"
 	{
 		"0"
@@ -115,6 +170,11 @@
 		{
 			"type" "publisher"
 			"name" "AskaLot Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Gone Rogue Chronicles"
 		}
 	}
 	"primary_genre" "3"
@@ -254,18 +314,18 @@
 		{
 			"public"
 			{
-				"gid" "5550119420573631274"
-				"size" "4974459506"
-				"download" "3817329984"
+				"gid" "738991934363926503"
+				"size" "5076306933"
+				"download" "3875284032"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "F531ADCAAE5F6E72BE0F97136706E41B"
-				"size" "0F8CED14225A8CD89E0E8D49D091409E"
-				"download" "1BAAC1BE077ADA55977D21D0FC4178B5"
+				"gid" "D9F0C97D5CC1025449B728FACBD54F0D"
+				"size" "B5CF63F21F26DDFE887DB3883F9E8B2E"
+				"download" "CDF71799309624EDD7CE04507C4D7771"
 			}
 		}
 	}
@@ -273,14 +333,14 @@
 	{
 		"public"
 		{
-			"buildid" "14734928"
-			"timeupdated" "1718551777"
+			"buildid" "16489463"
+			"timeupdated" "1732293371"
 		}
 		"test"
 		{
-			"buildid" "13373411"
+			"buildid" "16489463"
 			"pwdrequired" "1"
-			"timeupdated" "1707231498"
+			"timeupdated" "1732225799"
 		}
 	}
 }
@@ -303,6 +363,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23991946"
-"_sha" "f0e36b4aee65748526dc7458344f8e72147b4587"
-"_size" "5260"
+"_change_number" "26320375"
+"_sha" "438864cff4bce013693e6e31a489b26c4079942e"
+"_size" "6214"
