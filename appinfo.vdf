@@ -15,6 +15,7 @@
 	{
 	}
 	"osextended" ""
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -229,9 +230,9 @@
 		{
 			"public"
 			{
-				"gid" "393900236062862215"
-				"size" "275826910"
-				"download" "147478288"
+				"gid" "6185530081316654117"
+				"size" "277766262"
+				"download" "149117552"
 			}
 		}
 		"encryptedmanifests"
@@ -249,8 +250,8 @@
 	{
 		"public"
 		{
-			"buildid" "16204084"
-			"timeupdated" "1730109037"
+			"buildid" "16494529"
+			"timeupdated" "1732241398"
 		}
 		"test"
 		{
@@ -280,6 +281,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25928360"
-"_sha" "c020f6f5ccbc5dcee569e1a218346c2adb4a816b"
-"_size" "4833"
+"_change_number" "26309348"
+"_sha" "63f523b604e622f07c0e9dce47bfcb48c294d9be"
+"_size" "4865"
