@@ -134,9 +134,23 @@
 			}
 			"description_loc"
 			{
-				"english" "Tom Clancy\'s Rainbow Six Siege - Test Server"
+				"english" "Tom Clancy\'s Rainbow Six Siege - Test Server (DX12)"
 			}
-			"description" "Tom Clancy\'s Rainbow Six Siege - Test Server"
+			"description" "Tom Clancy\'s Rainbow Six Siege - Test Server (DX12)"
+		}
+		"1"
+		{
+			"executable" "RainbowSix_DX11.exe"
+			"arguments" "-upc_steam_required_product_id 10424 -uplay_steam_mode -orbit_uat"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Tom Clancy\'s Rainbow Six Siege - Test Server (DX11)"
+			}
+			"description" "Tom Clancy\'s Rainbow Six Siege - Test Server (DX11)"
 		}
 	}
 }
@@ -202,9 +216,9 @@
 		{
 			"public"
 			{
-				"gid" "8766401127656366633"
-				"size" "63070338946"
-				"download" "58867098592"
+				"gid" "8658335408273622057"
+				"size" "63077702800"
+				"download" "58869491600"
 			}
 		}
 		"encryptedmanifests"
@@ -270,8 +284,8 @@
 	{
 		"public"
 		{
-			"buildid" "16486605"
-			"timeupdated" "1732214042"
+			"buildid" "16501189"
+			"timeupdated" "1732300402"
 		}
 		"none"
 		{
@@ -318,6 +332,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26303878"
-"_sha" "bab30fb36219ac6069dc5e9a2bcc16864922ff5f"
-"_size" "5738"
+"_change_number" "26322036"
+"_sha" "054b1a8e63fc458694028bb3dedc117c0625bf8b"
+"_size" "6121"
