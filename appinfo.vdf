@@ -88,6 +88,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -103,29 +104,36 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "092d54a6c3b40e6ef7ee83d88a3dfacf7cd8597e/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "092d54a6c3b40e6ef7ee83d88a3dfacf7cd8597e/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "b80e129da73fd6cc904ee5b759afc9207fc3bb99/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "b80e129da73fd6cc904ee5b759afc9207fc3bb99/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "b80e129da73fd6cc904ee5b759afc9207fc3bb99/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "4f41a01bc6e7b3cfe0d80abaaa630d00dd427a8f/logo.png"
 			}
 			"logo_position"
 			{
@@ -133,16 +141,20 @@
 				"width_pct" "36.94144899617157"
 				"height_pct" "61.69305679859334"
 			}
+			"image2x"
+			{
+				"english" "4f41a01bc6e7b3cfe0d80abaaa630d00dd427a8f/logo_2x.png"
+			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "3d869d64e08f5bba756ca4504abdb876580ef3eb/library_header.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1719844206"
+	"store_asset_mtime" "1732524923"
 	"associations"
 	{
 		"0"
@@ -269,8 +281,8 @@
 		"6" "4191"
 		"7" "4106"
 		"8" "597"
-		"9" "4195"
-		"10" "1719"
+		"9" "1719"
+		"10" "4195"
 		"11" "4305"
 		"12" "21"
 		"13" "5350"
@@ -290,7 +302,7 @@
 	"publisher" "Coffee Stain Publishing"
 	"homepage" "https://www.goatsimulator3.com/"
 	"aliases" "Goat Sim 3"
-	"listofdlc" "2666450,2809180"
+	"listofdlc" "2666450,2809180,3204290"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -336,9 +348,9 @@
 		{
 			"public"
 			{
-				"gid" "5572260249011101240"
-				"size" "11938959728"
-				"download" "4325424624"
+				"gid" "5226315621960557562"
+				"size" "11912824168"
+				"download" "4448602064"
 			}
 		}
 		"encryptedmanifests"
@@ -349,17 +361,23 @@
 				"size" "D02917D961050D4A7D5EE2AAE0DCEA5C"
 				"download" "D02917D961050D4A7D5EE2AAE0DCEA5C"
 			}
+			"experimentalbuild"
+			{
+				"gid" "ACD741935E7F99FFF89E9B82F9CB01A9"
+				"size" "8B1207E8D521248EEDBD713CCD61503A"
+				"download" "9DAD3140E6C2E5AE8B70B5F232591566"
+			}
 			"nextcontentupdate"
 			{
-				"gid" "99D94DF46A2E0F23C31C550D42E59847"
-				"size" "59FCD4F67BF0EFE2BA944D9A40819372"
-				"download" "6E9E97885D577ED5DC63A9D67C750AFC"
+				"gid" "5059676331C4E2D1EED026070F63B417"
+				"size" "B1DCD2A48E15C835F4A227ECA67F37AC"
+				"download" "352EF0DCDCB889563A8F56C761536675"
 			}
 			"nightlybuild"
 			{
-				"gid" "B6A502FA74799712BB3F104A85800859"
-				"size" "00CE0E9932BBEBEE8A82D06FA4203D85"
-				"download" "9615D9FDB355027C94DF931CF5DE7BEC"
+				"gid" "74A7995CBEE9E69C4CD51BB71646361B"
+				"size" "3FE9DF538786D46C213A52C36D5DBADF"
+				"download" "AE3517BB6B89A37B6AB33E207E591569"
 			}
 			"pressbuild"
 			{
@@ -369,15 +387,15 @@
 			}
 			"stagingbuild"
 			{
-				"gid" "DDE738A89A927A5B3DB55A68D205F98F"
-				"size" "D4194DEF4E7409D5EC72548941651DFE"
-				"download" "5579646570E5A5E871C0EFD30EECD3D2"
+				"gid" "264544B25FB5102DD6DAC56B92F04A5B"
+				"size" "5DFF4D6D50F45BB120C879228CA0DC1A"
+				"download" "4E80339AA4B51560C8B4274861275AB9"
 			}
 			"testingbuild"
 			{
-				"gid" "B22E7EA7D1C98DED168FC6E659D0ABCD"
-				"size" "D09FBF8EC2EA005D88168822A95D9760"
-				"download" "26E67A54A5C0348AEF2D093D9A0898B4"
+				"gid" "1A2FA76939560A87905C0CD75C81A282"
+				"size" "A087797DE5AA2C3DF8F2349153EC9E74"
+				"download" "88EE56E65FD873CE6A9B6F28C5B6A816"
 			}
 		}
 	}
@@ -385,8 +403,8 @@
 	{
 		"public"
 		{
-			"buildid" "15532602"
-			"timeupdated" "1725523174"
+			"buildid" "16367871"
+			"timeupdated" "1732542866"
 		}
 		"sprintbuild"
 		{
@@ -394,17 +412,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1599653996"
 		}
+		"experimentalbuild"
+		{
+			"buildid" "15712468"
+			"pwdrequired" "1"
+			"timeupdated" "1726474309"
+		}
 		"nextcontentupdate"
 		{
-			"buildid" "15073382"
+			"buildid" "16285695"
 			"pwdrequired" "1"
-			"timeupdated" "1721293740"
+			"timeupdated" "1730714485"
 		}
 		"nightlybuild"
 		{
-			"buildid" "15595701"
+			"buildid" "16506038"
 			"pwdrequired" "1"
-			"timeupdated" "1725486578"
+			"timeupdated" "1732314837"
 		}
 		"pressbuild"
 		{
@@ -414,15 +438,15 @@
 		}
 		"stagingbuild"
 		{
-			"buildid" "15532602"
+			"buildid" "16367871"
 			"pwdrequired" "1"
-			"timeupdated" "1724940568"
+			"timeupdated" "1732533549"
 		}
 		"testingbuild"
 		{
-			"buildid" "15568621"
+			"buildid" "16445105"
 			"pwdrequired" "1"
-			"timeupdated" "1725290880"
+			"timeupdated" "1731939586"
 		}
 	}
 }
@@ -441,121 +465,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "In Main Menu"
-				"#status_ingame" "In Game"
-				"#status_splitscreen" "Playing Split Screen"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "Im Hauptmenü"
-				"#status_ingame" "Im Spiel"
-				"#status_splitscreen" "Split-Screen spielen"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "En el menú principal"
-				"#status_ingame" "Jugando"
-				"#status_splitscreen" "Jugando en pantalla dividida"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "Dans le menu principal"
-				"#status_ingame" "En partie"
-				"#status_splitscreen" "Joue en écran divisé"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "Nel menu principale"
-				"#status_ingame" "Sta giocando"
-				"#status_splitscreen" "Gioca su schermo diviso"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "メインメニュー"
-				"#status_ingame" "ログイン中"
-				"#status_splitscreen" "スプリットスクリーンでプレイ中"
-			}
-		}
-		"koreana"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "메인 메뉴에 있음"
-				"#status_ingame" "게임 중"
-				"#status_splitscreen" "분할 화면으로 플레이 중"
-			}
-		}
-		"polish"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "W menu głównym"
-				"#status_ingame" "W grze"
-				"#status_splitscreen" "Granie z podzielonym ekranem"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "No menu principal"
-				"#status_ingame" "Em jogo"
-				"#status_splitscreen" "Jogando em tela dividida"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "В главном меню"
-				"#status_ingame" "В игре"
-				"#status_splitscreen" "Играет на разделённом экране"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "主菜单"
-				"#status_ingame" "游戏中"
-				"#status_splitscreen" "进行分屏游戏"
-			}
-		}
-		"tchinese"
-		{
-			"tokens"
-			{
-				"#status_inmainmenu" "主選單"
-				"#status_ingame" "遊戲中"
-				"#status_splitscreen" "進行螢幕分割遊戲"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "25087588"
-"_sha" "079708fb50c2ebf11bb0d7327aecc8c8d73202a4"
-"_size" "10346"
+"_change_number" "26349806"
+"_sha" "3cb39fd027edcfb101bf4f6068245f7f6e8d7029"
+"_size" "8836"
