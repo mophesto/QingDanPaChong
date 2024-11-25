@@ -36,30 +36,30 @@
 		{
 			"public"
 			{
-				"gid" "1315121601139878520"
-				"size" "1100049148"
-				"download" "178756592"
+				"gid" "6273720549376958332"
+				"size" "1135276837"
+				"download" "204994048"
 			}
 			"closed_beta"
 			{
-				"gid" "1315121601139878520"
-				"size" "1100049148"
-				"download" "178756592"
+				"gid" "6273720549376958332"
+				"size" "1135276837"
+				"download" "204994048"
 			}
 			"experimental"
 			{
-				"gid" "1315121601139878520"
-				"size" "1100049148"
-				"download" "178756592"
+				"gid" "6273720549376958332"
+				"size" "1135276837"
+				"download" "204994048"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta_dev"
 			{
-				"gid" "0FCCA1291F19841258371B17305C3E00"
-				"size" "C08729C972465F75E04BD7428D7298E9"
-				"download" "54BDFDF3A0D9A7EB3F9B0F46A840E74D"
+				"gid" "9C59A7EFDF0579A2EE8B7A4F7C12660D"
+				"size" "1AD37F53704F499C172855885C6FB1CE"
+				"download" "31966E63F64C8F383576D482BF57A4C1"
 			}
 		}
 	}
@@ -67,26 +67,26 @@
 	{
 		"public"
 		{
-			"buildid" "14956935"
-			"timeupdated" "1720370350"
+			"buildid" "16517630"
+			"timeupdated" "1732479196"
 		}
 		"beta_dev"
 		{
-			"buildid" "14956935"
+			"buildid" "16517630"
 			"pwdrequired" "1"
-			"timeupdated" "1720370366"
+			"timeupdated" "1732479000"
 		}
 		"closed_beta"
 		{
-			"buildid" "14956935"
+			"buildid" "16517630"
 			"description" "Tools branch for the closed_beta Riftbreaker branch."
-			"timeupdated" "1720370384"
+			"timeupdated" "1732479221"
 		}
 		"experimental"
 		{
-			"buildid" "14956935"
+			"buildid" "16517630"
 			"description" "Unstable Experimental Branch"
-			"timeupdated" "1720370375"
+			"timeupdated" "1732479214"
 		}
 	}
 }
@@ -95,25 +95,7 @@
 	"quota" "100000000000"
 	"maxnumfiles" "10000"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#exor tools/level editor" "EXOR Level Editor"
-				"#exor tools/model editor" "EXOR Model Editor"
-				"#exor tools/mission editor" "EXOR Mission Editor"
-				"#exor tools/gui editor" "EXOR GUI Editor"
-				"#exor tools/workspace editor" "EXOR Workspace Editor"
-				"#exor tools/riftbreaker editor" "EXOR Riftbreaker Editor"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "24267937"
-"_sha" "7b5e67341b0eb3cf4ca9eb1ccf84bc464cebdf14"
-"_size" "2308"
+"_change_number" "26339827"
+"_sha" "531ee40200e4007f8414e987051a0fa5d39c259b"
+"_size" "1875"
