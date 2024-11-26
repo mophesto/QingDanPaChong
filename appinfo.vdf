@@ -106,6 +106,58 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "57.45642013680869"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1673853213"
 	"associations"
 	{
@@ -207,28 +259,28 @@
 	"store_tags"
 	{
 		"0" "122"
-		"1" "3964"
-		"2" "7208"
-		"3" "4115"
+		"1" "4115"
+		"2" "3964"
+		"3" "7208"
 		"4" "4106"
-		"5" "1742"
-		"6" "492"
-		"7" "4975"
-		"8" "19"
-		"9" "4085"
+		"5" "4975"
+		"6" "1742"
+		"7" "4085"
+		"8" "492"
+		"9" "19"
 		"10" "21"
 		"11" "4182"
 		"12" "4252"
 		"13" "5379"
-		"14" "3834"
-		"15" "4231"
+		"14" "4231"
+		"15" "3834"
 		"16" "4295"
 		"17" "3854"
 		"18" "3942"
 		"19" "4777"
 	}
-	"review_score" "6"
-	"review_percentage" "79"
+	"review_score" "8"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -276,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "4902587556060000910"
-				"size" "9806711259"
-				"download" "8741212880"
+				"gid" "8541343026385355832"
+				"size" "11654831013"
+				"download" "8952449808"
 			}
 		}
 		"encryptedmanifests"
@@ -288,12 +340,6 @@
 				"gid" "B77F292620DD9C8E281D9AE271E4AB8B"
 				"size" "E339F9EFBFF468C959F2EA7F209B0C1A"
 				"download" "BA93EF8040171548C414872BD281143C"
-			}
-			"gametesting"
-			{
-				"gid" "FBC24BA99F8034DC6B924518F69B1D33"
-				"size" "623973F538C8FF73F865AB8DBCD1234D"
-				"download" "AE3D1C9FA6EACD14F8399A5342BB62AC"
 			}
 			"german"
 			{
@@ -312,6 +358,12 @@
 				"gid" "3E87AC979F04C1C07E0690DE5D3DA227"
 				"size" "A6C269A4CE50D9CCD6A38770C0CA6EF9"
 				"download" "33F73F4D2BB4FDC45327A863648E5780"
+			}
+			"gametesting"
+			{
+				"gid" "1FD7F02814EE489286F7076DE1CC7905"
+				"size" "0B9B3F23C679C47FC13725611DB07441"
+				"download" "AF188601AEACC659B6C635F9CFDDA101"
 			}
 		}
 	}
@@ -350,26 +402,16 @@
 	}
 	"branches"
 	{
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-		}
 		"public"
 		{
-			"buildid" "11051067"
-			"timeupdated" "1682003757"
+			"buildid" "16535006"
+			"timeupdated" "1732611291"
 		}
 		"dev-test"
 		{
 			"buildid" "9453131"
 			"pwdrequired" "1"
 			"timeupdated" "1662377227"
-		}
-		"gametesting"
-		{
-			"buildid" "11050835"
-			"pwdrequired" "1"
-			"timeupdated" "1682002322"
 		}
 		"german"
 		{
@@ -388,6 +430,12 @@
 			"buildid" "8359035"
 			"pwdrequired" "1"
 			"timeupdated" "1647091815"
+		}
+		"gametesting"
+		{
+			"buildid" "16531858"
+			"pwdrequired" "1"
+			"timeupdated" "1732588008"
 		}
 	}
 }
@@ -425,6 +473,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22597798"
-"_sha" "a8d1ad9665c01bad4822c1b7e988cad3d3fb963a"
-"_size" "8262"
+"_change_number" "26366110"
+"_sha" "22f7e35eb9ae7a29c393672a9e46ca072f910a80"
+"_size" "9279"
