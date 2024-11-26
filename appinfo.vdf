@@ -293,9 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "2235932172841521076"
-				"size" "6119386462"
-				"download" "1842627552"
+				"gid" "4963030918516052625"
+				"size" "6119416094"
+				"download" "1842638176"
 			}
 		}
 		"encryptedmanifests"
@@ -308,9 +308,9 @@
 			}
 			"cert-other"
 			{
-				"gid" "0BF7E14BF9EB8D49E357081D48659971"
-				"size" "4AE296739BEB9580C1051C6338C74278"
-				"download" "6463748EC3076574B56E1CB39524DDB7"
+				"gid" "B931F518DB039CAAD478AA66D002FECC"
+				"size" "D217C80D85AF18DA675647410618CC05"
+				"download" "0A7214E27886131CF7A5D9F8DD581479"
 			}
 			"closed-beta"
 			{
@@ -326,9 +326,9 @@
 			}
 			"shiro"
 			{
-				"gid" "591FF1D24D5494DFDBC6EBD25AAACB2C"
-				"size" "2A5A95111A78608471A68170BD9EA3EC"
-				"download" "43013660C8835307B9884A3FF407D59D"
+				"gid" "A41705D0EF866A51F4DD2A69092C8429"
+				"size" "F780D5C7FB313F1AE9891CB9CD7A5D65"
+				"download" "B1761D9CAD89A1777B94C86CAEAD32A1"
 			}
 			"tournament"
 			{
@@ -342,8 +342,8 @@
 	{
 		"public"
 		{
-			"buildid" "16459429"
-			"timeupdated" "1732101725"
+			"buildid" "16502395"
+			"timeupdated" "1732616539"
 		}
 		"nostalgia"
 		{
@@ -353,9 +353,9 @@
 		}
 		"cert-other"
 		{
-			"buildid" "15037030"
+			"buildid" "16502395"
 			"pwdrequired" "1"
-			"timeupdated" "1721053044"
+			"timeupdated" "1732526948"
 		}
 		"closed-beta"
 		{
@@ -371,9 +371,9 @@
 		}
 		"shiro"
 		{
-			"buildid" "16459429"
+			"buildid" "16502395"
 			"pwdrequired" "1"
-			"timeupdated" "1732025410"
+			"timeupdated" "1732290954"
 		}
 		"tournament"
 		{
@@ -399,6 +399,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26278398"
-"_sha" "427e18d858299bbcb6c8f51e8e9d00e45d821f6d"
+"_change_number" "26364624"
+"_sha" "31e407c8d86eb32fa25aea5a72578c286c8d58a2"
 "_size" "7292"
