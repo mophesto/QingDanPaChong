@@ -214,8 +214,8 @@
 	"gameid" "949230"
 	"store_tags"
 	{
-		"0" "599"
-		"1" "4328"
+		"0" "4328"
+		"1" "599"
 		"2" "1643"
 		"3" "4182"
 		"4" "3810"
@@ -343,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "625809250561442363"
-				"size" "64814813514"
-				"download" "60102587472"
+				"gid" "7441730738226292121"
+				"size" "64792591415"
+				"download" "60102610704"
 			}
 		}
 		"encryptedmanifests"
@@ -355,18 +355,6 @@
 				"gid" "0943F3A4BB68BFEF14C1E5DA5D32EAA8"
 				"size" "19243EE07A30073BA6660A3D0E88ABD5"
 				"download" "F9A59F1DCBB46F2250A3CC4019FE685E"
-			}
-			"marketing"
-			{
-				"gid" "2743EAE64AF66518463C77136E153611"
-				"size" "92733F202B6902D17C2CBC6C3F74A976"
-				"download" "432DE08D4A32D6822425CA76BB4A9F42"
-			}
-			"nightly"
-			{
-				"gid" "4E507F1DDD99CD9241AEB26F92CE33B1"
-				"size" "FE9BCCC60F602C4979D60EB22625366A"
-				"download" "ADB651E076EBB014CFE3D83D145E5FEB"
 			}
 			"partner"
 			{
@@ -380,47 +368,41 @@
 				"size" "23E0318DC90C64C3AAF77162405E472D"
 				"download" "E12C49BB78D5BE62F60BE027215A1EC9"
 			}
-			"release"
-			{
-				"gid" "CE6838A6F5F2937B3F46893789A746C8"
-				"size" "DFAF29E4BD5203002003CB2CDFAAC733"
-				"download" "5885B46BC064F5B01751E779D957CEE6"
-			}
 			"staging_development"
 			{
 				"gid" "CED4D8BDDBB0EE416F52CF05792ABCA3"
 				"size" "F4CF60F02778BA148EE09229BAD9A59B"
 				"download" "066ECBE2A58151D373D660217976EC70"
 			}
-			"ccp_test"
-			{
-				"gid" "B28129AF3F40D0B9507191E82762CE87"
-				"size" "41637AF56B1D3DB59AA2D4103F9FDEFA"
-				"download" "D47A5586915AA842CB9AC82941D5D155"
-			}
 			"co_test"
 			{
-				"gid" "1647FC23D11778DD0698C922907566DA"
-				"size" "08F6D1167C353CBB8C230C7B2FC5A9F8"
-				"download" "AA5AF09BED1B31FA43CD6B8DE4054B11"
+				"gid" "DF4E179429170D6F9CBEE3B996D34789"
+				"size" "F9C28048B2AB46BA80FCA458D0743CFB"
+				"download" "B69CEB44F01E9F50C4B19F00F0D98712"
 			}
 			"co_test2"
 			{
-				"gid" "23F7DA86CF789C302B39BE269377E147"
-				"size" "160121E4468CD454883DF7278B82B52B"
-				"download" "AB4225A0E1484DF11ABBD75263B146EE"
+				"gid" "CCCDA2C28D2FFA196A3F111E7859A0F2"
+				"size" "A984FCF4014314C46E4355BCEFA1593A"
+				"download" "F1A495A30E6C29658599EE43C5EFC52E"
 			}
-			"compat_test"
+			"coherent"
 			{
-				"gid" "70FE4D0968BB033CC00004251874A3BE"
-				"size" "10F44C21B2A705CFE6C13984658B020E"
-				"download" "0129BDC5255D5F8D20A28EEE91078FB0"
+				"gid" "71D4AF264AEA63EC4BB2C3E021AE0C94"
+				"size" "CF6D64DA0AA7E5D627C8036322DAE06D"
+				"download" "E34F68C02B449714CB37AB57CE7B1E1C"
 			}
 			"development"
 			{
-				"gid" "2D2BECAE6E53E8785D76A2717C21E653"
-				"size" "572B523AEA864CDEB8F0BCF33B4CB431"
-				"download" "A8C5318BDEAA1CA5F44394FC4C81FF42"
+				"gid" "626FEFBEF720404C25A5302E96647720"
+				"size" "B1C9AD1F107D6089D19F5F1D11AF5725"
+				"download" "55321EDB01D656548AB8893EB2AC1F92"
+			}
+			"dlc_test"
+			{
+				"gid" "9BDA23CC98726EF7923B67AB63228194"
+				"size" "7D2901F226F61D9B50848FE651DFE73A"
+				"download" "6D6FC6CF6C6DFC903942BD2381D53DEA"
 			}
 			"download_test"
 			{
@@ -430,33 +412,33 @@
 			}
 			"early_access"
 			{
-				"gid" "101FC0AF18D19660DDFDC5E6ACBFE58A"
-				"size" "1F1A75C9D078081BFD43D5CC573540EE"
-				"download" "474B0FA87E0EACF41389A793CBBE41FD"
+				"gid" "F87BC063A002C5879D93FFBE320011AB"
+				"size" "3709F224DF583FE3BBAE3A78E9320700"
+				"download" "447B9884D53D912F57C19C8F0EC715F5"
 			}
 			"early_access_previous"
 			{
-				"gid" "B7961B0CD8E690490A4AA501F4239A1D"
-				"size" "5C38EC903DB478823A1FFFDBF48ED127"
-				"download" "4BD6B1DF9EB9054A159525B65F79D7EB"
+				"gid" "6E5F713A8CA3BDDFE7BDE28BAC8F9125"
+				"size" "7A2E7207659D701C0E7B09C5E595F2E4"
+				"download" "206232B830F1441EEF6F400AC12FDE7C"
 			}
-			"modding_assets"
+			"modding_test"
 			{
-				"gid" "074D891B139CE7D7B77ECCA8987B42D9"
-				"size" "306F3762A5CEB5FEB4E0ACEDC2726D64"
-				"download" "6F0EEC8B15183A0F99734B9F4F2A12E1"
+				"gid" "9D02DB5F0EDB1A5467B9E374D212A4D2"
+				"size" "89C27A78C4C525C1D38090B783432316"
+				"download" "23880F33554B44FA9086706F558BA697"
 			}
 			"modding_upcoming"
 			{
-				"gid" "573F2A9992DA59468B8FE93367138E16"
-				"size" "4C457659F343B02616EFA555E5107A29"
-				"download" "3B8DAFFF72D82C1C83379D8DCE2328AD"
+				"gid" "ED2E81027A4AD1C321C578BD12CDFCC3"
+				"size" "D731E37BC7B0968BEFC9E60D21633939"
+				"download" "A5CA58FCB5AF46403CFDE3E10279024B"
 			}
-			"nightly_release"
+			"pdx_recordings"
 			{
-				"gid" "10BF25730FBBE733E19837D364612501"
-				"size" "B0068033E74D6596FD480E573F4E2ABC"
-				"download" "D250787F7E764CDDCEB78FA08C37E01A"
+				"gid" "8A8255CFE9956C2D2DB0867A53D6BD95"
+				"size" "053854C2D5A3524B8FCBAD237DF1CFBF"
+				"download" "299DA6AE95B4EDBF1C6AD9330D275287"
 			}
 			"pdx_s"
 			{
@@ -466,27 +448,27 @@
 			}
 			"pdx_test"
 			{
-				"gid" "FB653BD57D09B7A64B41FD53DA98ABD1"
-				"size" "D2CDC116791CAADF57369998F4FF40E7"
-				"download" "451DDF74F3560E588096C09EFD32C9EA"
+				"gid" "3DB6BEB5D152F7E3A573968327A0CDB4"
+				"size" "62E098ABCCEAABC8DEDC06CC4D71FA08"
+				"download" "77FD2923AAD0B75B0359FC9A89F23979"
 			}
 			"qloc_balance"
 			{
-				"gid" "EA9DFA6BA05D5213BB42CED22CC0FDDB"
-				"size" "6F4FD99DBDD15524359C611F9403102C"
-				"download" "2846391D2BEBDBF6FF8303794B34480B"
+				"gid" "DA9CD4D8CE98D65CDBE495E3C30EA79C"
+				"size" "5AF2178CD0FCADF77A58E0671180E055"
+				"download" "DC5A0E85EB5F846BDCDEF0A9822564AD"
 			}
 			"qloc_main"
 			{
-				"gid" "B3B6D043F5B48646B6A0A357BD9CAB5F"
-				"size" "0069656CE3AD4CB8D74801D9A5BC5962"
-				"download" "E50C9800C5E5DA007DAFD9E498B34D9A"
+				"gid" "C51D1184D0545BE23D078D6D721C5A99"
+				"size" "329075158158FA1E35570F328F326220"
+				"download" "CAD693D2208B361AFDA0BC6740FF5521"
 			}
 			"qloc_previous"
 			{
-				"gid" "9E40E0F425ABF8121DA66619E31CFD14"
-				"size" "E57F80D3631F2C76862D7A360B0F5223"
-				"download" "A6D447CED28D95402AEF6321A88B15D8"
+				"gid" "67814862A77FEF8D1A2FCEB9DEC66552"
+				"size" "EBE502D2E81B28BEECA50C6862A161BC"
+				"download" "E3D1670435A615545E279DEE50171EA0"
 			}
 			"region_pack_marketing"
 			{
@@ -494,11 +476,17 @@
 				"size" "6104AA8A1A544EF3A8B295681C18944D"
 				"download" "D24C552DC326478C56E6F059F1F85B36"
 			}
+			"release"
+			{
+				"gid" "883E6B61A413873E078F3F7865FC352D"
+				"size" "0BD84E338A7C1BC12F2CAD316D41F3F3"
+				"download" "98686E9909264051676F9992B8888D56"
+			}
 			"staging"
 			{
-				"gid" "9E99B91B4FD8C9AFC1539BCC09E296FD"
-				"size" "9C376545BF563263907495859DE32FE1"
-				"download" "0B8B08FBD2E43E16E354B8B789EB6BBB"
+				"gid" "AB038AFD483488258D6738A4C7E27470"
+				"size" "501873766FBC000D8DCB049AFE0DF15D"
+				"download" "D812FDBC5B4D4293231FC063A97324CD"
 			}
 		}
 	}
@@ -507,26 +495,14 @@
 	{
 		"public"
 		{
-			"buildid" "16154163"
-			"timeupdated" "1729763976"
+			"buildid" "16475049"
+			"timeupdated" "1732611561"
 		}
 		"goldmaster"
 		{
 			"buildid" "12464864"
 			"pwdrequired" "1"
 			"timeupdated" "1697792698"
-		}
-		"marketing"
-		{
-			"buildid" "13467970"
-			"pwdrequired" "1"
-			"timeupdated" "1708081149"
-		}
-		"nightly"
-		{
-			"buildid" "13267204"
-			"pwdrequired" "1"
-			"timeupdated" "1706156713"
 		}
 		"partner"
 		{
@@ -540,47 +516,41 @@
 			"pwdrequired" "1"
 			"timeupdated" "1713790059"
 		}
-		"release"
-		{
-			"buildid" "14064394"
-			"pwdrequired" "1"
-			"timeupdated" "1713231789"
-		}
 		"staging_development"
 		{
 			"buildid" "13417590"
 			"pwdrequired" "1"
 			"timeupdated" "1707502896"
 		}
-		"ccp_test"
-		{
-			"buildid" "14918394"
-			"pwdrequired" "1"
-			"timeupdated" "1720007044"
-		}
 		"co_test"
 		{
-			"buildid" "16135763"
+			"buildid" "16527814"
 			"pwdrequired" "1"
-			"timeupdated" "1729597457"
+			"timeupdated" "1732559249"
 		}
 		"co_test2"
 		{
-			"buildid" "16082882"
+			"buildid" "16454919"
 			"pwdrequired" "1"
-			"timeupdated" "1729176677"
+			"timeupdated" "1732112234"
 		}
-		"compat_test"
+		"coherent"
 		{
-			"buildid" "14431648"
+			"buildid" "16484450"
 			"pwdrequired" "1"
-			"timeupdated" "1716274398"
+			"timeupdated" "1732183975"
 		}
 		"development"
 		{
-			"buildid" "16159239"
+			"buildid" "16532173"
 			"pwdrequired" "1"
-			"timeupdated" "1729735794"
+			"timeupdated" "1732590213"
+		}
+		"dlc_test"
+		{
+			"buildid" "16530685"
+			"pwdrequired" "1"
+			"timeupdated" "1732578238"
 		}
 		"download_test"
 		{
@@ -590,33 +560,33 @@
 		}
 		"early_access"
 		{
-			"buildid" "16126194"
+			"buildid" "16475049"
 			"pwdrequired" "1"
-			"timeupdated" "1729596054"
+			"timeupdated" "1732189163"
 		}
 		"early_access_previous"
 		{
-			"buildid" "14567769"
+			"buildid" "16335437"
 			"pwdrequired" "1"
-			"timeupdated" "1717593596"
+			"timeupdated" "1732188746"
 		}
-		"modding_assets"
+		"modding_test"
 		{
-			"buildid" "14482608"
+			"buildid" "16297860"
 			"pwdrequired" "1"
-			"timeupdated" "1720099970"
+			"timeupdated" "1730809764"
 		}
 		"modding_upcoming"
 		{
-			"buildid" "16126194"
+			"buildid" "16475049"
 			"pwdrequired" "1"
-			"timeupdated" "1729539060"
+			"timeupdated" "1732122659"
 		}
-		"nightly_release"
+		"pdx_recordings"
 		{
-			"buildid" "15893265"
+			"buildid" "16335437"
 			"pwdrequired" "1"
-			"timeupdated" "1727811197"
+			"timeupdated" "1731507278"
 		}
 		"pdx_s"
 		{
@@ -626,27 +596,27 @@
 		}
 		"pdx_test"
 		{
-			"buildid" "16154163"
+			"buildid" "16335437"
 			"pwdrequired" "1"
-			"timeupdated" "1729703303"
+			"timeupdated" "1731501027"
 		}
 		"qloc_balance"
 		{
-			"buildid" "16135763"
+			"buildid" "16297860"
 			"pwdrequired" "1"
-			"timeupdated" "1729616911"
+			"timeupdated" "1732122062"
 		}
 		"qloc_main"
 		{
-			"buildid" "16144336"
+			"buildid" "16527814"
 			"pwdrequired" "1"
-			"timeupdated" "1729771402"
+			"timeupdated" "1732601086"
 		}
 		"qloc_previous"
 		{
-			"buildid" "15534108"
+			"buildid" "16507904"
 			"pwdrequired" "1"
-			"timeupdated" "1729691645"
+			"timeupdated" "1732601068"
 		}
 		"region_pack_marketing"
 		{
@@ -654,11 +624,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1729610933"
 		}
+		"release"
+		{
+			"buildid" "16532468"
+			"pwdrequired" "1"
+			"timeupdated" "1732592241"
+		}
 		"staging"
 		{
-			"buildid" "16158981"
+			"buildid" "16475049"
 			"pwdrequired" "1"
-			"timeupdated" "1729733719"
+			"timeupdated" "1732120310"
 		}
 	}
 }
@@ -668,6 +644,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "25875955"
-"_sha" "be201a53ae68836756d28f16027c7c921f0cc73c"
-"_size" "13466"
+"_change_number" "26363305"
+"_sha" "bfe4e2aa93c1a9a126e2e465b9f58d1d71536ad4"
+"_size" "12897"
