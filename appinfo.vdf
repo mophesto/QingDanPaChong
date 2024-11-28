@@ -57,12 +57,6 @@
 				"size" "95930"
 				"download" "17808"
 			}
-			"132_compatibility_branch"
-			{
-				"gid" "4785129129991228361"
-				"size" "92731"
-				"download" "17664"
-			}
 			"133_compatibility_branch"
 			{
 				"gid" "4785129129991228361"
@@ -183,6 +177,12 @@
 				"size" "95930"
 				"download" "17808"
 			}
+			"153_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
 			"public_beta"
 			{
 				"gid" "8821057416756267898"
@@ -216,15 +216,9 @@
 		{
 			"public"
 			{
-				"gid" "6850032958679257316"
-				"size" "37503296"
-				"download" "9050736"
-			}
-			"132_compatibility_branch"
-			{
-				"gid" "6925468422888735451"
-				"size" "15489160"
-				"download" "5488000"
+				"gid" "1080115108819579962"
+				"size" "40645184"
+				"download" "9128416"
 			}
 			"133_compatibility_branch"
 			{
@@ -346,20 +340,26 @@
 				"size" "37503296"
 				"download" "9050736"
 			}
+			"153_compatibility_branch"
+			{
+				"gid" "1080115108819579962"
+				"size" "40645184"
+				"download" "9128416"
+			}
 			"public_beta"
 			{
-				"gid" "6850032958679257316"
-				"size" "37503296"
-				"download" "9050736"
+				"gid" "1080115108819579962"
+				"size" "40645184"
+				"download" "9128416"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devbuilds"
 			{
-				"gid" "B463753103C91D9E6CA0E74416D1CF88"
-				"size" "734DE4B89C0223E6A593FF88B6A90635"
-				"download" "48D7C2918D5E8F912D6EF644A2BD36A1"
+				"gid" "698E3A96B2A7C219B7E59AC40D92A614"
+				"size" "F683C55330C5EA6AB29793702AF62BF1"
+				"download" "419FF843069AD5B43276DE675A687461"
 			}
 			"experimental"
 			{
@@ -373,14 +373,8 @@
 	{
 		"public"
 		{
-			"buildid" "16053924"
-			"timeupdated" "1729098504"
-		}
-		"132_compatibility_branch"
-		{
-			"buildid" "3288772"
-			"description" "1.32 compatibility branch"
-			"timeupdated" "1543323565"
+			"buildid" "16524062"
+			"timeupdated" "1732781570"
 		}
 		"133_compatibility_branch"
 		{
@@ -502,11 +496,17 @@
 			"description" "1.52 compatibility branch"
 			"timeupdated" "1729098541"
 		}
+		"153_compatibility_branch"
+		{
+			"buildid" "16524062"
+			"description" "1.53 compatibility branch"
+			"timeupdated" "1732552109"
+		}
 		"devbuilds"
 		{
-			"buildid" "16053924"
+			"buildid" "16524062"
 			"pwdrequired" "1"
-			"timeupdated" "1729007735"
+			"timeupdated" "1732538860"
 		}
 		"experimental"
 		{
@@ -516,9 +516,9 @@
 		}
 		"public_beta"
 		{
-			"buildid" "16053924"
+			"buildid" "16524062"
 			"description" "1.50 support branch (beta)"
-			"timeupdated" "1729098441"
+			"timeupdated" "1732552120"
 		}
 	}
 }
@@ -528,6 +528,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "25751368"
-"_sha" "52dfbb15c334c9c68c6864d864378a17c7e34828"
-"_size" "11160"
+"_change_number" "26401504"
+"_sha" "2b8c0436cef6da2f9259b0ada2381c2619694b82"
+"_size" "11161"
