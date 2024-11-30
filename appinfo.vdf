@@ -36,30 +36,30 @@
 		{
 			"public"
 			{
-				"gid" "635847239654607995"
-				"size" "1133480229"
-				"download" "204845616"
+				"gid" "308400421907347601"
+				"size" "1135153957"
+				"download" "205114048"
 			}
 			"closed_beta"
 			{
-				"gid" "635847239654607995"
-				"size" "1133480229"
-				"download" "204845616"
+				"gid" "308400421907347601"
+				"size" "1135153957"
+				"download" "205114048"
 			}
 			"experimental"
 			{
-				"gid" "635847239654607995"
-				"size" "1133480229"
-				"download" "204845616"
+				"gid" "308400421907347601"
+				"size" "1135153957"
+				"download" "205114048"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta_dev"
 			{
-				"gid" "FF4C17CF402B6A82B079132C8B556426"
-				"size" "9EF5EAFBAA2FEFAC937BE5873CA04D20"
-				"download" "B7276058634E58715355CF2B0FA0661C"
+				"gid" "5512A2D0DF5243CB24274E6E4163C72E"
+				"size" "620D4963A327174610D3C0E0A9E1713B"
+				"download" "3D6AED4D1CE81AB054AECFC5B1F76557"
 			}
 		}
 	}
@@ -67,26 +67,26 @@
 	{
 		"public"
 		{
-			"buildid" "16562892"
-			"timeupdated" "1732783078"
+			"buildid" "16587682"
+			"timeupdated" "1732969279"
 		}
 		"beta_dev"
 		{
-			"buildid" "16562892"
+			"buildid" "16587682"
 			"pwdrequired" "1"
-			"timeupdated" "1732783096"
+			"timeupdated" "1732969235"
 		}
 		"closed_beta"
 		{
-			"buildid" "16562892"
+			"buildid" "16587682"
 			"description" "Tools branch for the closed_beta Riftbreaker branch."
-			"timeupdated" "1732783107"
+			"timeupdated" "1732969241"
 		}
 		"experimental"
 		{
-			"buildid" "16562892"
+			"buildid" "16587682"
 			"description" "Unstable Experimental Branch"
-			"timeupdated" "1732783116"
+			"timeupdated" "1732969248"
 		}
 	}
 }
@@ -96,6 +96,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26401896"
-"_sha" "fcecf1130fa7a7532be597c16629e00e46cb5bb6"
+"_change_number" "26434448"
+"_sha" "7de957dc23321674677f5dd070eb7b88e29624d4"
 "_size" "1872"
