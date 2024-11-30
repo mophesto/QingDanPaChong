@@ -324,9 +324,15 @@
 		{
 			"public"
 			{
-				"gid" "6642944193776686348"
-				"size" "9395874654"
-				"download" "8859533648"
+				"gid" "4425404616906561449"
+				"size" "9394946360"
+				"download" "8858164688"
+			}
+			"fsr_disabled"
+			{
+				"gid" "6142778839284071348"
+				"size" "9387101740"
+				"download" "8856190288"
 			}
 		}
 		"encryptedmanifests"
@@ -357,9 +363,9 @@
 			}
 			"development"
 			{
-				"gid" "3AB32FD62961F6A79067499BAFF386AE"
-				"size" "70653D7B5D70A0457EA3DF320BB69571"
-				"download" "583168690282D6C98B3F5F5420F32DFE"
+				"gid" "67514D5207CEC751D7365D6A45850D74"
+				"size" "41DE4F640FADB664E557C3D659AF2119"
+				"download" "BCFC4C905EDF55D190C64AE6986638A2"
 			}
 			"external_marketing"
 			{
@@ -369,27 +375,27 @@
 			}
 			"featurebranch1"
 			{
-				"gid" "19A3FF83596D495C8188867501CD3836"
-				"size" "FE9A5A3FCB53327AB7F4E13251C7D575"
-				"download" "EFB443C294A9C6B006C71CE0FC8C91C8"
+				"gid" "1337D794E0D586D9257EE55795C1BC56"
+				"size" "9999BA374D2CB699E71F0059F48399A0"
+				"download" "E5043D8B332DD4E1A1B1201A9615FC28"
 			}
 			"featurebranch2"
 			{
-				"gid" "A6B52833FD4A6146E0E8073BC88D5DDD"
-				"size" "501EFDD112FA4325036423B1B5A44BD5"
-				"download" "3D65C155668949AB7F0C653F4E69B6C1"
+				"gid" "EA860DC60ADD0DAADEFF4AFA000401B1"
+				"size" "96B07F309BC5A812A10F9BF60101781C"
+				"download" "A4AFF50FC29769C27DB788D39FB7F7AA"
 			}
 			"featurebranch3"
 			{
-				"gid" "E7605C4E805B7DA8FEC4DEB89EBF6B60"
-				"size" "DD133E878CD26286A3C3EE85DB7FC05C"
-				"download" "ABE1E2B4221F31E9E2743D51FDD24854"
+				"gid" "CED99BE1412FAC795504D3F5D1450621"
+				"size" "91C65CD8D2D3849D3F87507B2BAEEC03"
+				"download" "2F3CA4240AAE185D201B484FA711FD72"
 			}
 			"featurebranch4"
 			{
-				"gid" "E1C3BFE43D340E220A43B77FC945DE2F"
-				"size" "6E1F2FC79EAE89193188ECA025EA951C"
-				"download" "30312495B534BBB62F4B3BE68C62EEB8"
+				"gid" "30F40047767A626752B755BE8781B4C6"
+				"size" "8115DD4C3F3E34310E12EF9AF8A6DC76"
+				"download" "197D79C3B3FF7EB7063C2D8D7B91B2F7"
 			}
 			"featurebranch5"
 			{
@@ -405,9 +411,9 @@
 			}
 			"integration_development"
 			{
-				"gid" "51AA4D4CC3C49395B8FA7F47DAA4A2AF"
-				"size" "8A296C6C64037AEDFF0E1159E15532EC"
-				"download" "DE1ED84C5B99CDC2DB3BD61EDD91C3FB"
+				"gid" "DDE2D75292C5245AEC0799DD3A3D5FD1"
+				"size" "7BFF2E9538CA1DEABB9F0204C3B39E34"
+				"download" "00712EA96C1929F813C3ACD88155FCC0"
 			}
 			"kp_dev"
 			{
@@ -429,15 +435,15 @@
 			}
 			"playtest"
 			{
-				"gid" "F8E7FDCA9E6CB66DD23909F5DEB76226"
-				"size" "698998C7E8381238CFFAB55E67FA4B39"
-				"download" "0243D1F097E405BA6B3FEA218F7D6746"
+				"gid" "8D8D13AE7B5DAFDE9065D2A0DCFE0BA0"
+				"size" "A06B6A4299835D3310A3064A7B0A151A"
+				"download" "1E7F9E73D0ECECDDB31E7090E9E91349"
 			}
 			"prerelease"
 			{
-				"gid" "8263D8351509D44CCC6F0B0447E4F5AC"
-				"size" "6A9706E7960341E7BD2221910E77FD9E"
-				"download" "A7046165FF252025067A7B25CD09CC4B"
+				"gid" "F47ED888975D8B65E75195BF0806D300"
+				"size" "0BCE8F121243788F3FE0E6B50AC3BBEC"
+				"download" "0C6A2A9391B9DBE53E1426A37B31C543"
 			}
 			"press"
 			{
@@ -447,15 +453,15 @@
 			}
 			"releasecandidate"
 			{
-				"gid" "F03160898C065F5FBEBC17CAF06881AA"
-				"size" "1BA151C345EFAA9F71A3A02B21A438CA"
-				"download" "A52925F4A38835732F97A7370CDAD982"
+				"gid" "F180C5BBC731BC14A90A9C912879BDC6"
+				"size" "0949E17372A284E8010A82DCDCBA9133"
+				"download" "E757304DEFDEB35B34ECE7F162A6F77D"
 			}
 			"releasecandidate_dev"
 			{
-				"gid" "74BDCB6C51422F07F320147D83F39735"
-				"size" "4821C9473457C4CA968F8CF5C3F21EC6"
-				"download" "9F2CB3897B6A8DDA63AA1729D0A32718"
+				"gid" "3C3CCF73BDF91AB4A0992608B9E4E522"
+				"size" "0A46553F265CC7F2F4EBCF5D16D9EC6C"
+				"download" "D1C338567DA726BA3BAA78F5EDD96243"
 			}
 		}
 	}
@@ -463,8 +469,8 @@
 	{
 		"public"
 		{
-			"buildid" "16505171"
-			"timeupdated" "1732643740"
+			"buildid" "16573527"
+			"timeupdated" "1732924287"
 		}
 		"engine_update"
 		{
@@ -492,9 +498,9 @@
 		}
 		"development"
 		{
-			"buildid" "16545032"
+			"buildid" "16546387"
 			"pwdrequired" "1"
-			"timeupdated" "1732663884"
+			"timeupdated" "1732673239"
 		}
 		"external_marketing"
 		{
@@ -504,33 +510,39 @@
 		}
 		"featurebranch1"
 		{
-			"buildid" "16505037"
+			"buildid" "16571169"
 			"pwdrequired" "1"
-			"timeupdated" "1732315699"
+			"timeupdated" "1732825807"
 		}
 		"featurebranch2"
 		{
-			"buildid" "16544456"
+			"buildid" "16570054"
 			"pwdrequired" "1"
-			"timeupdated" "1732660022"
+			"timeupdated" "1732817698"
 		}
 		"featurebranch3"
 		{
-			"buildid" "16545963"
+			"buildid" "16560215"
 			"pwdrequired" "1"
-			"timeupdated" "1732670260"
+			"timeupdated" "1732758143"
 		}
 		"featurebranch4"
 		{
-			"buildid" "16545517"
+			"buildid" "16584437"
 			"pwdrequired" "1"
-			"timeupdated" "1732667190"
+			"timeupdated" "1732922940"
 		}
 		"featurebranch5"
 		{
 			"buildid" "16476078"
 			"pwdrequired" "1"
 			"timeupdated" "1732125926"
+		}
+		"fsr_disabled"
+		{
+			"buildid" "16583548"
+			"description" "Branch with no FSR plugin"
+			"timeupdated" "1732924856"
 		}
 		"integration"
 		{
@@ -540,9 +552,9 @@
 		}
 		"integration_development"
 		{
-			"buildid" "16543381"
+			"buildid" "16583900"
 			"pwdrequired" "1"
-			"timeupdated" "1732653229"
+			"timeupdated" "1732917495"
 		}
 		"kp_dev"
 		{
@@ -564,15 +576,15 @@
 		}
 		"playtest"
 		{
-			"buildid" "16496646"
+			"buildid" "16583346"
 			"pwdrequired" "1"
-			"timeupdated" "1732308606"
+			"timeupdated" "1732914448"
 		}
 		"prerelease"
 		{
-			"buildid" "16505171"
+			"buildid" "16573527"
 			"pwdrequired" "1"
-			"timeupdated" "1732315666"
+			"timeupdated" "1732915787"
 		}
 		"press"
 		{
@@ -582,19 +594,19 @@
 		}
 		"releasecandidate"
 		{
-			"buildid" "16529306"
+			"buildid" "16573281"
 			"pwdrequired" "1"
-			"timeupdated" "1732568467"
+			"timeupdated" "1732915753"
 		}
 		"releasecandidate_dev"
 		{
-			"buildid" "16529265"
+			"buildid" "16573191"
 			"pwdrequired" "1"
-			"timeupdated" "1732568106"
+			"timeupdated" "1732915773"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26377149"
-"_sha" "880f3a60d5c6531ea77bdd3bf687abfb6d1bc39b"
-"_size" "11917"
+"_change_number" "26430032"
+"_sha" "a0e2ca71ed7c4d15e6c41671dfbc9ae61fac8868"
+"_size" "12171"
