@@ -133,7 +133,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1719006103"
+	"store_asset_mtime" "1729255916"
 	"associations"
 	{
 		"0"
@@ -179,11 +179,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"italian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"german"
 		{
 			"supported" "true"
@@ -200,11 +195,6 @@
 			"subtitles" "true"
 		}
 		"schinese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"russian"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -248,7 +238,7 @@
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "93"
+	"review_percentage" "92"
 }
 "extended"
 {
@@ -300,21 +290,21 @@
 		{
 			"public"
 			{
-				"gid" "1776251974708126904"
-				"size" "560700281"
-				"download" "352881840"
+				"gid" "2442498943128703949"
+				"size" "560256397"
+				"download" "353038288"
 			}
 			"beta"
 			{
-				"gid" "1776251974708126904"
-				"size" "560700281"
-				"download" "352881840"
+				"gid" "2442498943128703949"
+				"size" "560256397"
+				"download" "353038288"
 			}
 			"localisation"
 			{
-				"gid" "1776251974708126904"
-				"size" "560700281"
-				"download" "352881840"
+				"gid" "2442498943128703949"
+				"size" "560256397"
+				"download" "353038288"
 			}
 		}
 		"encryptedmanifests"
@@ -327,9 +317,9 @@
 			}
 			"internal"
 			{
-				"gid" "381B0CF03E24F44AE0C61D950E43A14F"
-				"size" "1F5BFF5C4EAD143CE5B42898607796DF"
-				"download" "5E47DB7BF9F7E03C31B4B493A4548EED"
+				"gid" "6115C7A02A845FB18B64EFA3A0B6CD05"
+				"size" "BB7A75B173EF632CB3F77E890E31D873"
+				"download" "7AB0A62FADCB0FEB0863F952EB3F1ADD"
 			}
 			"josh"
 			{
@@ -355,30 +345,30 @@
 		{
 			"public"
 			{
-				"gid" "533308898243437027"
-				"size" "609661377"
-				"download" "365733280"
+				"gid" "974741669123626277"
+				"size" "609428826"
+				"download" "365678080"
 			}
 			"beta"
 			{
-				"gid" "533308898243437027"
-				"size" "609661377"
-				"download" "365733280"
+				"gid" "974741669123626277"
+				"size" "609428826"
+				"download" "365678080"
 			}
 			"localisation"
 			{
-				"gid" "533308898243437027"
-				"size" "609661377"
-				"download" "365733280"
+				"gid" "974741669123626277"
+				"size" "609428826"
+				"download" "365678080"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "30AF64EB2D62DD69CD27285181D6BBF9"
-				"size" "E1B51B03AA074B576BC92765325C5F9F"
-				"download" "AC0A7F8649B754357BE6AC894EE24E17"
+				"gid" "D7C9429C0E2E8521FB00548AB38B00C8"
+				"size" "0E208C9AD81B1F4EE12EDD3892504EF0"
+				"download" "5239BF29E7F5067AE10596A97B1544C1"
 			}
 			"josh"
 			{
@@ -435,8 +425,8 @@
 	{
 		"public"
 		{
-			"buildid" "15943268"
-			"timeupdated" "1728335156"
+			"buildid" "16515001"
+			"timeupdated" "1733139370"
 		}
 		"recording"
 		{
@@ -446,14 +436,14 @@
 		}
 		"beta"
 		{
-			"buildid" "15943268"
-			"timeupdated" "1728188616"
+			"buildid" "16515001"
+			"timeupdated" "1732438232"
 		}
 		"internal"
 		{
-			"buildid" "15943268"
+			"buildid" "16515001"
 			"pwdrequired" "1"
-			"timeupdated" "1728188531"
+			"timeupdated" "1732438200"
 		}
 		"josh"
 		{
@@ -463,9 +453,9 @@
 		}
 		"localisation"
 		{
-			"buildid" "15943268"
+			"buildid" "16515001"
 			"description" "Branch for testing Vault of the Voids Localisation"
-			"timeupdated" "1728188607"
+			"timeupdated" "1732438239"
 		}
 		"private"
 		{
@@ -532,6 +522,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25575161"
-"_sha" "3f7f777e0cf7ef828570cd2bdb4152ba67c41af5"
-"_size" "9691"
+"_change_number" "26451531"
+"_sha" "84abf7d1ca9825b135bfb19fc92fd077f940930e"
+"_size" "9549"
