@@ -73,9 +73,9 @@
 		{
 			"public"
 			{
-				"gid" "7447628867994166804"
-				"size" "27243019292"
-				"download" "21648404832"
+				"gid" "5846210017306853308"
+				"size" "27242991132"
+				"download" "21648394352"
 			}
 			"e1.7.2"
 			{
@@ -203,6 +203,12 @@
 				"size" "27243019292"
 				"download" "21648404832"
 			}
+			"v1.2.12"
+			{
+				"gid" "5846210017306853308"
+				"size" "27242991132"
+				"download" "21648394352"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -214,15 +220,9 @@
 			}
 			"internal.test.a"
 			{
-				"gid" "AD907F81222C40A8C06387F7A44A7295"
-				"size" "2B1F14E1D09E9962E71BA3F53A3DAAA7"
-				"download" "761C44608543F03356E66A134E3B1992"
-			}
-			"internal.test.b"
-			{
-				"gid" "B98942C124292D18AAA372EA77155FBC"
-				"size" "A3F9F8E5E15E1229125B1DC6A59582C7"
-				"download" "7B6AA39FBE6B4CD1BB97456B6B3C89E2"
+				"gid" "442E95F4706AE1CD0FA03AF489015497"
+				"size" "4F3822935BA144574FE7DEB0A3D1BFAF"
+				"download" "1E9DB32E90F91312385FA7FF56533E56"
 			}
 		}
 	}
@@ -230,8 +230,8 @@
 	{
 		"public"
 		{
-			"buildid" "15318603"
-			"timeupdated" "1723207846"
+			"buildid" "16579233"
+			"timeupdated" "1733139099"
 		}
 		"e1.7.2"
 		{
@@ -256,12 +256,6 @@
 			"buildid" "10629490"
 			"pwdrequired" "1"
 			"timeupdated" "1677243316"
-		}
-		"internal.test.a"
-		{
-			"buildid" "13614758"
-			"pwdrequired" "1"
-			"timeupdated" "1709306074"
 		}
 		"modding.tool.beta"
 		{
@@ -359,11 +353,11 @@
 			"description" "v1.2.9"
 			"timeupdated" "1709306084"
 		}
-		"internal.test.b"
+		"internal.test.a"
 		{
-			"buildid" "15138125"
+			"buildid" "16579233"
 			"pwdrequired" "1"
-			"timeupdated" "1721830368"
+			"timeupdated" "1733138876"
 		}
 		"v1.2.10"
 		{
@@ -377,9 +371,15 @@
 			"description" "v1.2.11"
 			"timeupdated" "1723207875"
 		}
+		"v1.2.12"
+		{
+			"buildid" "16579233"
+			"description" "v1.2.12"
+			"timeupdated" "1733139140"
+		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "24719917"
-"_sha" "4d07c2e6743ac907c11fe37e7198f691c621e5d1"
-"_size" "7262"
+"_change_number" "26451482"
+"_sha" "14d3ef9dbfd4dc6a0eac78df83276ed84b4a4d67"
+"_size" "7197"
