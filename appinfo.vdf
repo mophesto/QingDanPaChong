@@ -11,6 +11,7 @@
 	"clienttga" "619dcbaf475b4417c4e02467d18c4a0992a001d8"
 	"clienticon" "67c469bce70b110fc0d2247dc1402695cc55175a"
 	"icon" "4d0ba27332070f96ac95cd29f1e40f12fd530a52"
+	"freetodownload" "1"
 	"associations"
 	{
 	}
@@ -82,21 +83,15 @@
 		{
 			"public"
 			{
-				"gid" "8207171899938311470"
-				"size" "2799307533"
-				"download" "1588422304"
+				"gid" "7213132082777869062"
+				"size" "2792094952"
+				"download" "1588423440"
 			}
-			"beta"
+			"v1.2.12"
 			{
-				"gid" "8289181221596438742"
-				"size" "2488136964"
-				"download" "1581734752"
-			}
-			"v1.2.11"
-			{
-				"gid" "8207171899938311470"
-				"size" "2799307533"
-				"download" "1588422304"
+				"gid" "7213132082777869062"
+				"size" "2792094952"
+				"download" "1588423440"
 			}
 		}
 		"encryptedmanifests"
@@ -121,9 +116,9 @@
 			}
 			"internal.test.b"
 			{
-				"gid" "B21A606D268CDFA36A8E9EF3D5C08BD4"
-				"size" "C3B5FFA3619880250629245B98087553"
-				"download" "3D806681E694A6039992E85A8169111E"
+				"gid" "F8E9EA2D6BF044F0885AAF7A5D89FE0B"
+				"size" "AA758898FC12D7FC0DE2D4CD46BACC02"
+				"download" "0E3CE345455E7BA080CC597E578D3448"
 			}
 		}
 	}
@@ -131,8 +126,8 @@
 	{
 		"public"
 		{
-			"buildid" "15491413"
-			"timeupdated" "1731573340"
+			"buildid" "16599204"
+			"timeupdated" "1733138979"
 		}
 		"community.server.test"
 		{
@@ -146,12 +141,6 @@
 			"pwdrequired" "1"
 			"timeupdated" "1670938954"
 		}
-		"beta"
-		{
-			"buildid" "15164372"
-			"description" "beta"
-			"timeupdated" "1722007251"
-		}
 		"internal.test.a"
 		{
 			"buildid" "15491413"
@@ -160,19 +149,19 @@
 		}
 		"internal.test.b"
 		{
-			"buildid" "15574328"
+			"buildid" "16599204"
 			"pwdrequired" "1"
-			"timeupdated" "1725347128"
+			"timeupdated" "1733134693"
 		}
-		"v1.2.11"
+		"v1.2.12"
 		{
-			"buildid" "15491413"
-			"description" "Beta v1.2.11"
-			"timeupdated" "1731573359"
+			"buildid" "16599204"
+			"description" "v1.2.12"
+			"timeupdated" "1733139068"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26189156"
-"_sha" "2bf5fcba6c90f2605f6d12165206ae0bb18712dc"
-"_size" "3398"
+"_change_number" "26451465"
+"_sha" "c2d95f9eecd16c498d53eddf0cbfcde876c0d189"
+"_size" "3200"
