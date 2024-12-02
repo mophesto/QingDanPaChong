@@ -114,6 +114,40 @@
 			"height_pct" "69.94388573530958"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "70.81737682984001"
+				"height_pct" "69.94388573530958"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1666721943"
 	"associations"
 	{
@@ -253,8 +287,8 @@
 		"13" "6041"
 		"14" "4175"
 		"15" "1697"
-		"16" "3839"
-		"17" "3987"
+		"16" "3987"
+		"17" "3839"
 		"18" "1756"
 		"19" "493"
 	}
@@ -360,9 +394,15 @@
 		{
 			"public"
 			{
-				"gid" "3866228193305563713"
+				"gid" "778291566662837149"
 				"size" "4739136022"
-				"download" "3659929840"
+				"download" "3659929552"
+			}
+			"v1.2.12"
+			{
+				"gid" "778291566662837149"
+				"size" "4739136022"
+				"download" "3659929552"
 			}
 			"beta"
 			{
@@ -408,9 +448,9 @@
 			}
 			"perf_test"
 			{
-				"gid" "5454144158128030128"
+				"gid" "5949477879938844453"
 				"size" "4861755779"
-				"download" "3675424672"
+				"download" "3675424480"
 			}
 			"v1.0.0"
 			{
@@ -519,15 +559,15 @@
 		{
 			"internal_weekly_test_branch"
 			{
-				"gid" "A6FDD64E4FE843E7B30F8ADC0DBFB180"
-				"size" "885E0F938F37E39FFD4F2C4F94A29D01"
-				"download" "5A1815CF87CCF1992B17990C35600252"
+				"gid" "E846BED1FB446805C41F9694F0ECB2A1"
+				"size" "B4D3F7E7D6879237A7674DC499A65BD0"
+				"download" "1067D679C915BA551B083CC0FC1E41DD"
 			}
 			"internal_weekly_test_branch_2"
 			{
-				"gid" "0C5C5AF3AE91A2E87BAD41EBD95EE8BA"
-				"size" "0B330FB36C2733232149FBAE9690ADBA"
-				"download" "75775F63ADFCF2E2BD73CB360FEA6799"
+				"gid" "4E4C33A16180B9D255A71F2925B2B819"
+				"size" "8F5D61CEBD2BA4F990E9D03E1B3C068F"
+				"download" "868EB093EF0DCE4628DB079A6FA57AE4"
 			}
 			"baseline"
 			{
@@ -549,15 +589,15 @@
 			}
 			"dev_debug_fast"
 			{
-				"gid" "09217558BA696ED98F0316751FE11093"
-				"size" "14E30E9293CC9AF6D80AE594ACB77814"
-				"download" "648D0CE74C279DF331C30B4F7EF73880"
+				"gid" "D1A8CD6EE790671ACAF8D48B7567C619"
+				"size" "104157AA331E9780677A42076DD93403"
+				"download" "0BC5FF3B618592893C97097D54D28DF8"
 			}
 			"dev_shipping"
 			{
-				"gid" "6633B8380F44C8E298F538312C1AC01D"
-				"size" "A6F834AE0C1182DADCFA5B8750CAF6C2"
-				"download" "0110BE56878231010A74A431EECDB580"
+				"gid" "A88E9A131F3876532CD018A649438D81"
+				"size" "8D1E992E5D72F0FE99935EB9D8F4451D"
+				"download" "87610C6F5D6E5A94081F5ED05B254A8C"
 			}
 			"event_demo"
 			{
@@ -597,9 +637,9 @@
 			}
 			"internal.test.f"
 			{
-				"gid" "21014214FD3310A66DEE651FE8EC45F2"
-				"size" "7A90EE5B46126E5B64E2B134424727CA"
-				"download" "9120CF7A6E1F7418FC9F17B711CBFC87"
+				"gid" "0689A570BB5B9BB45017883AFEF11418"
+				"size" "72DEC6F8D2298E984A928275E4E1AC81"
+				"download" "3D2C871DFDA4622BE8A0F138829F751F"
 			}
 			"internal_2"
 			{
@@ -627,9 +667,9 @@
 			}
 			"steam.live.test"
 			{
-				"gid" "8016DD5CB009E7C42E7548DB3298249A"
+				"gid" "ECC7C2A00C0B4414DFF431F2A3907906"
 				"size" "4464008BF2758BB6E1CFB82805B4ADD2"
-				"download" "CF71719A287E1AC6F463D9115A145E73"
+				"download" "A02E8A5BE0A5CEE5740675505D89FF08"
 			}
 			"worldmap"
 			{
@@ -651,9 +691,15 @@
 		{
 			"public"
 			{
-				"gid" "4167353200358167700"
-				"size" "47534000328"
-				"download" "34648406784"
+				"gid" "4067181865176684988"
+				"size" "47533967672"
+				"download" "34648397168"
+			}
+			"v1.2.12"
+			{
+				"gid" "4067181865176684988"
+				"size" "47533967672"
+				"download" "34648397168"
 			}
 			"beta"
 			{
@@ -699,9 +745,9 @@
 			}
 			"perf_test"
 			{
-				"gid" "8085889479436727909"
-				"size" "47589322860"
-				"download" "34671740064"
+				"gid" "4181376599077937487"
+				"size" "47685197559"
+				"download" "34701399072"
 			}
 			"perf_test_beta"
 			{
@@ -822,15 +868,15 @@
 			}
 			"internal_weekly_test_branch"
 			{
-				"gid" "CCD7437C78715AAA99B077873A1F828D"
-				"size" "5DE119DADFE88DBD488009604395B8BB"
-				"download" "022A992ACF2122EC710328B3E4672F35"
+				"gid" "D82AD021C0BE0F202F3F1DC2E2E90FA7"
+				"size" "BCF41A84E07950C62A097B5CD72BCC9D"
+				"download" "229877ECCFEEBADC4CD9D07DD2E2946A"
 			}
 			"internal_weekly_test_branch_2"
 			{
-				"gid" "068529773BFE68C67DE855BB94CA0DB1"
-				"size" "DA79408162C5AB63B4842EB2D9916727"
-				"download" "8A05F2D0032F688400CD4435F6DFACF2"
+				"gid" "1EB237E33E949E0BEEAB422B1B02E4DF"
+				"size" "5DA0159EE4109C08F8AB4F28844F1B25"
+				"download" "BB0F23A7FA3CA20C91FF3EEB3037B105"
 			}
 			"backup.branch"
 			{
@@ -870,15 +916,15 @@
 			}
 			"dev_debug_fast"
 			{
-				"gid" "F6BD6066F05C1EF817BB7D6B0DCD53C6"
-				"size" "F49CCAD8228CFFF20911F5C7AC5D3309"
-				"download" "7F9031F8A050A7239F4C2229735CF2EE"
+				"gid" "9532092F05D2EDD43DEC0002A73BA8E5"
+				"size" "C61E316A58414369AB3B4AADB77A9115"
+				"download" "4F8EABFE5088BD408421B5D1CF27BF20"
 			}
 			"dev_shipping"
 			{
-				"gid" "743503D3065F980D972A81079228AD5C"
-				"size" "CE0926B6E70EF8B3A9DC229F3C54798C"
-				"download" "01AA77555180FFEBC04938D9C116AFDC"
+				"gid" "6E6123F3158AACBE2E9DD1F351C3653F"
+				"size" "21C1ACE0D89717BD6C05184811DB7FB6"
+				"download" "4464C0FD818B5AA77D3D3542549AB82D"
 			}
 			"event_demo"
 			{
@@ -924,9 +970,9 @@
 			}
 			"internal.test.f"
 			{
-				"gid" "8A872BB8F01A8E4C6141DDDE7EE12C3C"
-				"size" "1A2CF7EAA21DE1D29C914AF44E3CD031"
-				"download" "B4E2DDD50CEA21A4CCC62082B66A57AD"
+				"gid" "7623C8E68EEF4803E044F47335B1ED2F"
+				"size" "85D6F6C522754544F275C8AD355E19BF"
+				"download" "56BE921B380D5750CAED0CAC670A6303"
 			}
 			"internal_2"
 			{
@@ -966,9 +1012,9 @@
 			}
 			"steam.live.test"
 			{
-				"gid" "552C56FBB88805D1C9589C4076195472"
-				"size" "7E4E71224A9A5ED409C176871B40D44C"
-				"download" "1BE61570078F8B87906BB76A0DF26FF3"
+				"gid" "BBF8C82919BB27F1696C78B5E7C18D34"
+				"size" "3ED88FE78390A174E2DBA97B194FD6EB"
+				"download" "C6711FF9B0B95550D4255E80C68E5C20"
 			}
 			"worldmap"
 			{
@@ -982,8 +1028,8 @@
 	{
 		"public"
 		{
-			"buildid" "15275630"
-			"timeupdated" "1723206160"
+			"buildid" "16570121"
+			"timeupdated" "1733138937"
 		}
 		"age_rating_build"
 		{
@@ -991,23 +1037,29 @@
 			"pwdrequired" "1"
 			"timeupdated" "1644305754"
 		}
+		"v1.2.12"
+		{
+			"buildid" "16570121"
+			"description" "v1.2.12"
+			"timeupdated" "1733139000"
+		}
 		"beta"
 		{
 			"buildid" "15164289"
-			"description" "beta"
+			"description" "Multiplayer Beta"
 			"timeupdated" "1722007158"
 		}
 		"internal_weekly_test_branch"
 		{
-			"buildid" "15276499"
+			"buildid" "16497363"
 			"pwdrequired" "1"
-			"timeupdated" "1722946295"
+			"timeupdated" "1732263748"
 		}
 		"internal_weekly_test_branch_2"
 		{
-			"buildid" "15212963"
+			"buildid" "16264606"
 			"pwdrequired" "1"
-			"timeupdated" "1722430446"
+			"timeupdated" "1730467204"
 		}
 		"backup.branch"
 		{
@@ -1047,15 +1099,15 @@
 		}
 		"dev_debug_fast"
 		{
-			"buildid" "15312782"
+			"buildid" "16545969"
 			"pwdrequired" "1"
-			"timeupdated" "1723170363"
+			"timeupdated" "1732670305"
 		}
 		"dev_shipping"
 		{
-			"buildid" "15312308"
+			"buildid" "16545430"
 			"pwdrequired" "1"
-			"timeupdated" "1723167294"
+			"timeupdated" "1732666747"
 		}
 		"e1.7.0"
 		{
@@ -1131,9 +1183,9 @@
 		}
 		"internal.test.f"
 		{
-			"buildid" "12057058"
+			"buildid" "16262834"
 			"pwdrequired" "1"
-			"timeupdated" "1693304587"
+			"timeupdated" "1730454996"
 		}
 		"internal_2"
 		{
@@ -1174,9 +1226,9 @@
 		}
 		"perf_test"
 		{
-			"buildid" "14998803"
+			"buildid" "15964278"
 			"description" "Bannerlord Performance Test"
-			"timeupdated" "1720687252"
+			"timeupdated" "1728376265"
 		}
 		"perf_test_beta"
 		{
@@ -1192,9 +1244,9 @@
 		}
 		"steam.live.test"
 		{
-			"buildid" "15275630"
+			"buildid" "16570121"
 			"pwdrequired" "1"
-			"timeupdated" "1722943680"
+			"timeupdated" "1732865304"
 		}
 		"v1.0.0"
 		{
@@ -1295,7 +1347,7 @@
 		"v1.2.11"
 		{
 			"buildid" "15275630"
-			"description" "Beta v1.2.11"
+			"description" "v1.2.11"
 			"timeupdated" "1723206183"
 		}
 		"worldmap"
@@ -1326,6 +1378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24719549"
-"_sha" "b138dff60384c0545bd928a242d9b1a54fbb8f2d"
-"_size" "28012"
+"_change_number" "26451593"
+"_sha" "df8e3802db9dc0c663b5301e5ae7472093fb270b"
+"_size" "28865"
