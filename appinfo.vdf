@@ -4,6 +4,7 @@
 	"name" "Left 4 Dead 2 Dedicated Server"
 	"type" "Tool"
 	"parent" "550"
+	"freetodownload" "1"
 	"metacritic_name" "Left 4 Dead 2 Dedicated Server"
 	"library_assets"
 	{
@@ -101,9 +102,9 @@
 		{
 			"public"
 			{
-				"gid" "8448471974102760692"
-				"size" "9549154681"
-				"download" "4643088400"
+				"gid" "4827977561765481436"
+				"size" "9549160153"
+				"download" "4643088992"
 			}
 		}
 		"encryptedmanifests"
@@ -138,9 +139,9 @@
 		{
 			"public"
 			{
-				"gid" "1621363249514188212"
+				"gid" "8462434956736934488"
 				"size" "161485629"
-				"download" "57308096"
+				"download" "57306128"
 			}
 		}
 		"encryptedmanifests"
@@ -175,9 +176,9 @@
 		{
 			"public"
 			{
-				"gid" "4515210835322133233"
+				"gid" "3515563682502255567"
 				"size" "241003140"
-				"download" "70351168"
+				"download" "70350912"
 			}
 		}
 		"encryptedmanifests"
@@ -208,8 +209,8 @@
 	{
 		"public"
 		{
-			"buildid" "16291975"
-			"timeupdated" "1730764191"
+			"buildid" "16546402"
+			"timeupdated" "1733169251"
 		}
 		"beta"
 		{
@@ -232,6 +233,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26045884"
-"_sha" "55b773f5d8257e6640cd314a7b1dc4845b33b9d1"
-"_size" "4318"
+"_change_number" "26458420"
+"_sha" "7cb5937101180d4ff86550b17d806ba2d418105e"
+"_size" "4342"
