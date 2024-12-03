@@ -1,0 +1,249 @@
+"appid" "2427745"
+"common"
+{
+	"name" "Cities: Skylines II - Soft Rock Radio"
+	"type" "DLC"
+	"parent" "949230"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "e449911ac369b1f7e611fbcc9677667ffd658bb3/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_screenshot" "ss_926525f55757553ccc845916caafc890f20dc25d.jpg"
+	"store_asset_mtime" "1732112022"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Colossal Order Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1733158762"
+	"gameid" "2427745"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4328"
+		"2" "1643"
+		"3" "4182"
+		"4" "3810"
+		"5" "12472"
+		"6" "4695"
+		"7" "9"
+		"8" "4175"
+		"9" "1669"
+		"10" "1654"
+		"11" "597"
+		"12" "8945"
+		"13" "10383"
+		"14" "4166"
+		"15" "3859"
+		"16" "493"
+		"17" "1695"
+		"18" "1756"
+		"19" "12095"
+	}
+}
+"extended"
+{
+	"dlcforappid" "949230"
+	"mustownapptopurchase" "949230"
+	"developer" "Colossal Order Ltd."
+	"publisher" "Paradox Interactive"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2427745"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3353726370889508335"
+				"size" "198314873"
+				"download" "197767600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc_test"
+			{
+				"gid" "08521CE56E058C5D0E8E7DBC28B83C31"
+				"size" "D351F45B0E3A7CF5C0D77BFB859C91F4"
+				"download" "FC282A8D49C0637F68163F329D229F01"
+			}
+			"early_access"
+			{
+				"gid" "6F7FB988B9A9022CFCF79A796DD9D046"
+				"size" "072B19C0163EF484269ACD0A893CD6E2"
+				"download" "0833D5BCD39CD4AABBF6BBD75A754E1B"
+			}
+			"pdx_recordings"
+			{
+				"gid" "638F97B8A38266CC5C3F11EFC1A39B76"
+				"size" "40A3C151389E0802B81F4EB35173E1AE"
+				"download" "9BA7D3186B9B82BD68B9DA3C94AD3496"
+			}
+			"pdx_test"
+			{
+				"gid" "8B34143ABD0828350BD233AED72F57AC"
+				"size" "B7430C00C8BDBBA7D8AC98BFDC126661"
+				"download" "4C79D728DF1258420A2994196AF72956"
+			}
+			"qloc_main"
+			{
+				"gid" "340C3190E2411395D12BC6504ABEEB32"
+				"size" "C98921ED536FB11BE6A7AE1ADFDCE135"
+				"download" "D50B5745B034806816F80ACFEB76EDF9"
+			}
+			"qloc_previous"
+			{
+				"gid" "8A8111127E21F673D49B95A29FA17736"
+				"size" "2CA5F689122EACFBBE9DECDCD44BD99D"
+				"download" "46567D156BB838E8CD3FAE22E72AABF7"
+			}
+			"release"
+			{
+				"gid" "A0F86619D29B1FF65F77B319B5B832B4"
+				"size" "525B169299737C100F9B622FE226A7D3"
+				"download" "CAC1FCD88E8A97C0EFD7CDB3693B3DBB"
+			}
+		}
+		"dlcappid" "2427745"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16387623"
+			"timeupdated" "1733158718"
+		}
+		"dlc_test"
+		{
+			"buildid" "16536493"
+			"pwdrequired" "1"
+			"timeupdated" "1732618195"
+		}
+		"early_access"
+		{
+			"buildid" "16459992"
+			"pwdrequired" "1"
+			"timeupdated" "1732097048"
+		}
+		"pdx_recordings"
+		{
+			"buildid" "16387623"
+			"pwdrequired" "1"
+			"timeupdated" "1731517305"
+		}
+		"pdx_test"
+		{
+			"buildid" "16387623"
+			"pwdrequired" "1"
+			"timeupdated" "1731499115"
+		}
+		"qloc_main"
+		{
+			"buildid" "16571232"
+			"pwdrequired" "1"
+			"timeupdated" "1732895546"
+		}
+		"qloc_previous"
+		{
+			"buildid" "16459992"
+			"pwdrequired" "1"
+			"timeupdated" "1732895537"
+		}
+		"release"
+		{
+			"buildid" "16571232"
+			"pwdrequired" "1"
+			"timeupdated" "1732826391"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26456033"
+"_sha" "6f2c502c0723eec6a2a69b160de3a020803e358e"
+"_size" "4355"
