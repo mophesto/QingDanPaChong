@@ -194,16 +194,16 @@
 		"6" "1755"
 		"7" "4182"
 		"8" "9"
-		"9" "3942"
-		"10" "21"
+		"9" "21"
+		"10" "3942"
 		"11" "1719"
 		"12" "1742"
 		"13" "19"
 		"14" "4255"
 		"15" "597"
 		"16" "10397"
-		"17" "493"
-		"18" "1663"
+		"17" "1663"
+		"18" "493"
 		"19" "492"
 	}
 	"review_score" "5"
@@ -216,6 +216,8 @@
 	"developer" "Studio FOW Interactive"
 	"publisher" "Streembit Ltd"
 	"homepage" "http://www.studiofow.com/subverse"
+	"listofdlc" "3342820"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -264,66 +266,18 @@
 		{
 			"public"
 			{
-				"gid" "6690624990584873758"
-				"size" "37760395596"
-				"download" "36287444432"
+				"gid" "3428707846858994192"
+				"size" "37503140368"
+				"download" "36077675792"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"rmpatchtest"
+			"dev-patch01-branch"
 			{
-				"gid" "F1AA22BD872553C0E8B87A6906D5D753"
-				"size" "13AA7B1AC383A1E040AD40BC8BE2AECA"
-				"download" "30222255C2EE547725D63B70F84A9993"
-			}
-			"testbuild-bl"
-			{
-				"gid" "224355AA6409C696F0F8FA0DFF4754EB"
-				"size" "F7805263B1A7538E7AACDAFD82D7AA98"
-				"download" "2949E5550E22C206FE4C8B28FF855679"
-			}
-			"testbuild-dq-kifo"
-			{
-				"gid" "D2808496B0EB0078CEA13425EED813DF"
-				"size" "D687250703BBF531EA90E27D7BC7D67C"
-				"download" "630CB5AE18614E9DB784F59BB1DC7870"
-			}
-			"testbuild-dq-li-de"
-			{
-				"gid" "4177D76C171C5BCC35DF9135A715F8B8"
-				"size" "F0C97628D1C4DDCE916A1FA4EB1E8456"
-				"download" "80CFA4E012B72B70DF1C9ECBC8D26389"
-			}
-			"testbuild-dq-tasohuelbl"
-			{
-				"gid" "DE99571F7F9B499B9B00B9EFF2F7C7CF"
-				"size" "530AC726F00C576108E435D9197F1BD6"
-				"download" "C070EB73379F00E50BC1E6BFC7A7F9B9"
-			}
-			"testbuild-fo"
-			{
-				"gid" "32E0C9B8A440CAFD5B8154F820456C31"
-				"size" "38D8CA89E36CE692498E76BEDA835D94"
-				"download" "5345388BAF43F927569AE61245EB10B9"
-			}
-			"testbuild-hu"
-			{
-				"gid" "5BA96D038EADC8A9171579A58094656F"
-				"size" "497A9418DF07EFF25EA070A6445F3491"
-				"download" "0981755C92112A124120022ECEDFC843"
-			}
-			"testbuild-so-p1"
-			{
-				"gid" "4F81831C15EA069A85ED21D2CD427A9C"
-				"size" "3E57E86BD46D56545123856715172DA7"
-				"download" "ADBB9775C706915F2A9C176EC64D8D06"
-			}
-			"testbuild-so-p2"
-			{
-				"gid" "8AF000BAD8BDAFFA265EE86532038969"
-				"size" "7EB430C5DFD34A4C5376BC07047FD475"
-				"download" "6C26B1BA21273D6431E97F0B4416E65E"
+				"gid" "EB5298085FBA02E2133F0AB2B0736BD1"
+				"size" "6FC9D491DDF3FA245BDFCBA8418EAC15"
+				"download" "80C55465FDB0953E235341BDD481ED29"
 			}
 			"development-branch"
 			{
@@ -331,11 +285,17 @@
 				"size" "E9BCCA17E32D962C06162D62F77ACE43"
 				"download" "104773BFFCDC9773BD5C27A8D4E13F97"
 			}
-			"steamworks-dev-test"
+			"patch01-development-branch"
 			{
-				"gid" "FD7145CFF1A081C44F897176C5E8702B"
-				"size" "0AAD5AB4C7C85B220F63C89BA6F556B9"
-				"download" "75F552E1E40E7D348EBA8D2505100B05"
+				"gid" "81E072F0FE5EAE18CAEDCDAFCEC43B57"
+				"size" "30DE1651DCFEEAC79047CEE4A6184855"
+				"download" "77AB01467774A9D7495E384CCA4145F1"
+			}
+			"patch01-staging-branch"
+			{
+				"gid" "D5BF80BF79201E81EDC9EA73D5EA1E4A"
+				"size" "92D7EC0E44C4BFF9C1D77F966D087B00"
+				"download" "316547B2D304688D4BC9DB3643C79CC4"
 			}
 		}
 	}
@@ -355,17 +315,23 @@
 		}
 		"encryptedmanifests"
 		{
+			"dev-patch01-branch"
+			{
+				"gid" "07AE1A01AFCDB83B681E00F30D9EB397"
+				"size" "52AB6D581AA814351D67771080E5EB1C"
+				"download" "0101FB0E8BE71B860CF49B27E8D3AB8A"
+			}
 			"development-branch"
 			{
-				"gid" "6713CB9EC1E7E20B60FB0E9B782E0C1C"
-				"size" "79E6DAA63CF4E90B132584213518BA33"
-				"download" "BC0B9DF38C5BAFAA49EAD35263721837"
+				"gid" "623E8E641B542BCAF7785363A8C96148"
+				"size" "A913A4A78BFE51AA2C6841337FF58CFD"
+				"download" "597220D0F301485B118C7EAA8901C1F2"
 			}
-			"steamworks-dev-test"
+			"patch01-development-branch"
 			{
-				"gid" "2FC8AF68A736C5D334FA6A9487972462"
-				"size" "AA6A96488BFF85F73657022A7660EC20"
-				"download" "0F99DD59361C1AB7950CD7109BED8E0B"
+				"gid" "7C087FC54B8257589DE7BD378FF1E77A"
+				"size" "9605FE579539A8F7DF18D42AB5043B2A"
+				"download" "5A8DEB6687AB1A7FA16B24D3A9BEF271"
 			}
 		}
 	}
@@ -374,14 +340,38 @@
 		"dlcappid" "3341270"
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "4933360383946743379"
+				"size" "43928967"
+				"download" "43466976"
+			}
 		}
 		"encryptedmanifests"
 		{
+			"dev-patch01-branch"
+			{
+				"gid" "ECAE00378C2C62D401EE1B0CCACE146B"
+				"size" "4CB3D676878DC09C5F78A4663F174F55"
+				"download" "75FB7C55D77C80AE973255600AD0C772"
+			}
 			"development-branch"
 			{
 				"gid" "B977E21C223C31ED4BE3B02FFE9C4A4E"
 				"size" "9211296D244CC896B4DC534023AF8450"
 				"download" "F699994F26AA0367C219530B8A68BB98"
+			}
+			"patch01-development-branch"
+			{
+				"gid" "9FA0FAA224E1EE97B9960B3EA7288C83"
+				"size" "C2D9B9F39B672B27DAE453742643C721"
+				"download" "7B231F65A182133720E92A838C2C0653"
+			}
+			"patch01-staging-branch"
+			{
+				"gid" "E91C71012A829A47EAD0D7517DB3948F"
+				"size" "A24FA8A829B0C705932865C9734C09A3"
+				"download" "5BAEC07FE68681AE184AB23730CD492A"
 			}
 		}
 	}
@@ -415,11 +405,29 @@
 		}
 		"encryptedmanifests"
 		{
+			"dev-patch01-branch"
+			{
+				"gid" "74A5B85ECA76D1C7D090FF6D066928F4"
+				"size" "4D642DAAA9A0FDBE3CCF41D9ACB8F778"
+				"download" "3C1D4DEF2F5AEB60688792664796775E"
+			}
 			"development-branch"
 			{
 				"gid" "1D8F954E9B8226C9635A568C5510BDF8"
 				"size" "DD74D2841A0E384BE3CCE16628B47F2E"
 				"download" "6276E6A65F6DD9300751B9D58932C1CA"
+			}
+			"patch01-development-branch"
+			{
+				"gid" "6E0902C986DAEE1757B4B6669D50E3BF"
+				"size" "B35FA8A56BAB6E4BC6DF6B425577E6EB"
+				"download" "BE7FAE4CA12FD9A3FEED1598F65FFBD9"
+			}
+			"patch01-staging-branch"
+			{
+				"gid" "5133D8391DD0819B2F7558E2AB0C26C9"
+				"size" "1BA59F8F947B49BB3B8F2D4ABDE1D6EB"
+				"download" "31C2C327F68E474C81F6E57FFF351E8D"
 			}
 		}
 	}
@@ -427,74 +435,32 @@
 	{
 		"public"
 		{
-			"buildid" "16423237"
-			"timeupdated" "1731704388"
+			"buildid" "16605989"
+			"timeupdated" "1733173561"
 		}
-		"rmpatchtest"
+		"dev-patch01-branch"
 		{
-			"buildid" "7819656"
+			"buildid" "16541209"
 			"pwdrequired" "1"
-			"timeupdated" "1638493413"
-		}
-		"testbuild-bl"
-		{
-			"buildid" "11609170"
-			"pwdrequired" "1"
-			"timeupdated" "1688316405"
-		}
-		"testbuild-dq-kifo"
-		{
-			"buildid" "12936040"
-			"pwdrequired" "1"
-			"timeupdated" "1702393068"
-		}
-		"testbuild-dq-li-de"
-		{
-			"buildid" "12294229"
-			"pwdrequired" "1"
-			"timeupdated" "1695821685"
-		}
-		"testbuild-dq-tasohuelbl"
-		{
-			"buildid" "13890666"
-			"pwdrequired" "1"
-			"timeupdated" "1711687422"
-		}
-		"testbuild-fo"
-		{
-			"buildid" "10169458"
-			"pwdrequired" "1"
-			"timeupdated" "1671297988"
-		}
-		"testbuild-hu"
-		{
-			"buildid" "10858905"
-			"pwdrequired" "1"
-			"timeupdated" "1679844933"
-		}
-		"testbuild-so-p1"
-		{
-			"buildid" "8838887"
-			"pwdrequired" "1"
-			"timeupdated" "1653953643"
-		}
-		"testbuild-so-p2"
-		{
-			"buildid" "9181676"
-			"pwdrequired" "1"
-			"timeupdated" "1658757437"
+			"timeupdated" "1732641187"
 		}
 		"development-branch"
 		{
-			"buildid" "16399131"
+			"buildid" "16540313"
 			"pwdrequired" "1"
-			"timeupdated" "1731543455"
+			"timeupdated" "1732636576"
 		}
-		"steamworks-dev-test"
+		"patch01-development-branch"
 		{
-			"buildid" "16395852"
+			"buildid" "16600025"
 			"pwdrequired" "1"
-			"timeupdated" "1731520882"
+			"timeupdated" "1733139271"
+		}
+		"patch01-staging-branch"
+		{
+			"buildid" "16604761"
+			"pwdrequired" "1"
+			"timeupdated" "1733165487"
 		}
 	}
 }
@@ -502,10 +468,8 @@
 {
 	"quota" "100000000"
 	"maxnumfiles" "15"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26221073"
-"_sha" "c1057398586eb4144a8d7d4d3cd6c0e47c0fdc4e"
-"_size" "9903"
+"_change_number" "26459223"
+"_sha" "a067573681bef1441c7561f45d49520eb61b1e92"
+"_size" "9323"
