@@ -1,0 +1,252 @@
+"appid" "2427742"
+"common"
+{
+	"name" "Cities: Skylines II - Creator Pack: Urban Promenades"
+	"type" "DLC"
+	"parent" "949230"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "bc900f57ca1aa936c581a448d410302edc4c6c0f/capsule_231x87.jpg"
+		"sc_schinese" "45088f7ea905affaa2c9ac193afc94a820f56c07/capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"store_screenshot" "ss_34d10277cc7d402d49433ef7aaca2d1cbb2389bc.jpg"
+	"store_asset_mtime" "1733157577"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Feindbold"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1733159205"
+	"gameid" "2427742"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4328"
+		"2" "1643"
+		"3" "4182"
+		"4" "3810"
+		"5" "12472"
+		"6" "4695"
+		"7" "9"
+		"8" "4175"
+		"9" "1669"
+		"10" "1654"
+		"11" "597"
+		"12" "8945"
+		"13" "10383"
+		"14" "4166"
+		"15" "3859"
+		"16" "493"
+		"17" "1695"
+		"18" "1756"
+		"19" "12095"
+	}
+	"review_score" "5"
+	"review_percentage" "52"
+}
+"extended"
+{
+	"dlcforappid" "949230"
+	"mustownapptopurchase" "949230"
+	"developer" "Feindbold"
+	"publisher" "Paradox Interactive"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2427742"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7755401111458107163"
+				"size" "1531657268"
+				"download" "1467189632"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc_test"
+			{
+				"gid" "947348A7B7F2ACD7A6BA598CED4553AB"
+				"size" "5A165E94609ABA498F371E4B163822D6"
+				"download" "6DF7C00BBFBF24BF59BF4DB24DF8D267"
+			}
+			"early_access"
+			{
+				"gid" "841932B0622B95CE85D91C16D4777455"
+				"size" "1178B7E8B7078A7BDADAF068C986A10C"
+				"download" "0923B40B9B97DFE82CC1FE5914FBDB9D"
+			}
+			"pdx_recordings"
+			{
+				"gid" "34BE07DBCBA248783FC00F0122E881FE"
+				"size" "0C4274D379E6B647A726C456A454D62D"
+				"download" "B771AEFC54E1D7A323E2A5A62D836421"
+			}
+			"pdx_test"
+			{
+				"gid" "BA6E79D3FD32D7F6AB26BF4A21221693"
+				"size" "A6E9BFE45A2C322029E9BA8450044191"
+				"download" "1082390889C5C5D1C8ECA357EB3CEC1C"
+			}
+			"qloc_main"
+			{
+				"gid" "8002BE46273E16AB8F2B09E85A338F64"
+				"size" "373769F287A0373B7461CED5A216FDCA"
+				"download" "2B42733E085E7A7295E5934D5FBC586D"
+			}
+			"qloc_previous"
+			{
+				"gid" "87694824C4368552BF144D78561F739D"
+				"size" "8DAED50600E7711EBB40FF7CF155C131"
+				"download" "65CAFA8ADBDD162992FC6B4ABDC70E81"
+			}
+			"release"
+			{
+				"gid" "9050BC7FB306BBA9692534ACEB421BAB"
+				"size" "5D801D2C64C0B4684B124A0B08801DFD"
+				"download" "165AAF6259DD7512EB6D5B04CD121A93"
+			}
+		}
+		"dlcappid" "2427742"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16391539"
+			"timeupdated" "1733158787"
+		}
+		"dlc_test"
+		{
+			"buildid" "16536926"
+			"pwdrequired" "1"
+			"timeupdated" "1732620370"
+		}
+		"early_access"
+		{
+			"buildid" "16460604"
+			"pwdrequired" "1"
+			"timeupdated" "1732097006"
+		}
+		"pdx_recordings"
+		{
+			"buildid" "16391539"
+			"pwdrequired" "1"
+			"timeupdated" "1731512086"
+		}
+		"pdx_test"
+		{
+			"buildid" "16391539"
+			"pwdrequired" "1"
+			"timeupdated" "1731499109"
+		}
+		"qloc_main"
+		{
+			"buildid" "16571165"
+			"pwdrequired" "1"
+			"timeupdated" "1732895582"
+		}
+		"qloc_previous"
+		{
+			"buildid" "16460604"
+			"pwdrequired" "1"
+			"timeupdated" "1732895574"
+		}
+		"release"
+		{
+			"buildid" "16571165"
+			"pwdrequired" "1"
+			"timeupdated" "1732825748"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26461428"
+"_sha" "b41fa9f9cc39168bf352f3a987faa42ccf290964"
+"_size" "4513"
