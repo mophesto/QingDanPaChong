@@ -86,7 +86,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "b2973e3ed20f52e16484544c13d6b4b29d55a764/capsule_231x87.jpg"
+		"english" "1d7afff27cda65403b257b78fd7337efd53278b9/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -96,6 +96,7 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -111,22 +112,29 @@
 		{
 			"image"
 			{
-				"english" "ccd3ef7bd23f8f1e502eb7b98c52b51a8255638b/library_600x900.jpg"
+				"english" "501d25bed32083d62295911bd737808f4fabf05c/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "ccd3ef7bd23f8f1e502eb7b98c52b51a8255638b/library_600x900_2x.jpg"
+				"english" "501d25bed32083d62295911bd737808f4fabf05c/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"english" "3bdc412d6ad10f3b9052694f1d7ec08f7da4e8f9/library_hero_2x.jpg"
+				"english" "dcaa2dc190097be313265421e6e6fe347738fe05/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "3bdc412d6ad10f3b9052694f1d7ec08f7da4e8f9/library_hero.jpg"
+				"english" "dcaa2dc190097be313265421e6e6fe347738fe05/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "dcaa2dc190097be313265421e6e6fe347738fe05/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -150,7 +158,7 @@
 		{
 			"image"
 			{
-				"english" "9f4c0ac52349948b5a0b4cb46bec2fb66f804535/library_header.jpg"
+				"english" "9c95baa4e1d375c36c30854d687b6982260b7a9b/library_header.jpg"
 			}
 			"image2x"
 			{
@@ -158,7 +166,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730481836"
+	"store_asset_mtime" "1733165031"
 	"associations"
 	{
 		"0"
@@ -424,9 +432,9 @@
 		{
 			"public"
 			{
-				"gid" "1943459871724686397"
-				"size" "51988869276"
-				"download" "42508229840"
+				"gid" "1732239678940569511"
+				"size" "51895446217"
+				"download" "42392286608"
 			}
 		}
 		"encryptedmanifests"
@@ -479,6 +487,12 @@
 				"size" "C1BABAFE05B913DA21AEBE0EA33A4D5C"
 				"download" "551B84E974DA97D06FBCDC1274593D0D"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "85F37F29EC99CAA8C4D0D1DCDB19FA30"
+				"size" "15039B602C4629FF0DEA53D4EDE1E5A1"
+				"download" "BF8F44A9722CA0D074E548A5EABCB72A"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "2B8AAA3ED10B36E6D3DDDE8F3AEF8E0A"
@@ -493,27 +507,27 @@
 			}
 			"hi_1_9_0-nightly"
 			{
-				"gid" "E172F9E7910F8FD31D44EBC87D75C10D"
-				"size" "20B1A52AC25332142CCB6F66DB427918"
-				"download" "F6BDFF885F8A9CFC75028AEE636A142E"
+				"gid" "78E6472974A1D9884403B50A96B9F13A"
+				"size" "6AA0CF9D939A2754044F54764642C15A"
+				"download" "B62554EF8122A890AB2960B40EDBB48C"
 			}
 			"p4main-nightly"
 			{
-				"gid" "3F6DB646DC0BCF467F523EC3C49CFC16"
-				"size" "DD3AC7FF39443727C501F998EF3790FB"
-				"download" "79272C54516A8B0D3ED9518782EDC696"
+				"gid" "57C53B1935273DD716DD94AA3CB34670"
+				"size" "AADF15694B5DCA3F179E6F8FF7E7560F"
+				"download" "E2E8387AFB2E7079559E62CF5C967D17"
 			}
 			"sq-ia"
 			{
-				"gid" "038F369456DE439A4747405066115205"
-				"size" "D6094F090AB439EC89865587878134DE"
-				"download" "3CF3F8A8DA45DD76CB8CDAB10C055265"
+				"gid" "7DF9529A83DBECB71D6D6DB9E07FF55C"
+				"size" "F31A0601C17B6E0DFCA771C22DA698BB"
+				"download" "3F9874ADA58F14D978B37CA8EC8C9AA4"
 			}
 			"sq-ra"
 			{
-				"gid" "12795ABF12AB9544A5F3D5423BA34DD4"
-				"size" "490C3FEFFFB89954FB1DF100DF1843DB"
-				"download" "63CEFF4C5D16C1D55FA2C6F698C8E97A"
+				"gid" "E145AEE00576948218E118A02ACB96A5"
+				"size" "9B4A7731FE9806AD92E29F9DF04EC711"
+				"download" "EF474C920AE3DD95C7E3F0C6B7413D43"
 			}
 		}
 	}
@@ -582,6 +596,12 @@
 				"gid" "F650BE1FCB003F93F56FC8B3D705159C"
 				"size" "4453F94FF84D482A0B7DC33CD4AE12AE"
 				"download" "0949237BADFAC8871A964067D0C48A43"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "886C37A635491D60B739800DDE64D413"
+				"size" "F638BB2B7F908AC3B2667597EC4C59E7"
+				"download" "A1298C7907E743000DF5A9A828E0D359"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -687,6 +707,12 @@
 				"size" "7A03A0A2EEC403ED034A5C3FB26974A6"
 				"download" "62A4E659C4E43792DAC65F90260D7986"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "C46A2071C862CC8558B3B118461C5F35"
+				"size" "770FBC914A944DEFB270308E11F7259D"
+				"download" "AD4E2C8675BD5E723B37AF795782F204"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "F8FE8CFBF6C5352F52BC0BB65ECF75A2"
@@ -790,6 +816,12 @@
 				"gid" "2D7908F94428B53B0A9A3490D075BEF0"
 				"size" "E220E29E5464D6C79FBAC6906585A58E"
 				"download" "2FECE12FD94CD1252AF0256F7D28FCFA"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "6E01CCCA167A9AD1F3E2BAEB862B2764"
+				"size" "FBC3BE69D249F9C90AC8323AB10D5A55"
+				"download" "9EA6C136302B2E398D7FD4A29CF39973"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -895,6 +927,12 @@
 				"size" "5CAFF2745B97527778DE68F4E44E1594"
 				"download" "133504E4B9DBAAFF690D997DB4F7976D"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "E0F2C2306BCC37BD6E545BCD6FC7D8CA"
+				"size" "D4BFC7B97BF941C784EEEEB1A291B31D"
+				"download" "E2ED9AEC007A590DA7116740C2CBE78E"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "25DFFC82EC0A00165DA176A2552DC0BC"
@@ -998,6 +1036,12 @@
 				"gid" "7D7ED4C700D019E767AD7F4EFB209BE0"
 				"size" "14EB43CD0A0E044B497AE48A953AA32E"
 				"download" "229755F60538B99872A0B1F480F2B592"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "6E2FD17E03C5F6B2CE2B5ABB3FF937F8"
+				"size" "2D47F79C7FCE21F1739CF15780269B4D"
+				"download" "772545DDC08FBAB649E989C425AA5307"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -1103,6 +1147,12 @@
 				"size" "8DCFEE7D3F380FCAE5692A70D4D9A66E"
 				"download" "3D983D5892DD668F00F865E6C8659059"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "008F834EE41F29ABB295BFD85C360DA0"
+				"size" "324D88A4342352207B265EF622D103C1"
+				"download" "C71834D6D4BE6720ECB7BE03A7382AD1"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "6524E499CCE21B895845DB0627915F6E"
@@ -1206,6 +1256,12 @@
 				"gid" "335B516C697593CCA655F54703875316"
 				"size" "83F904121D96A81387A7B6E174E4573E"
 				"download" "D142F469353A0B12F00C7992C8A9317A"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "BC361FCA06B841B7792DE5209E7A046C"
+				"size" "83571EF8ACF7AA21CB4E0C0A7479DC9D"
+				"download" "08BFF546BFF221182D8838C704C99001"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -1311,6 +1367,12 @@
 				"size" "6B88ECEFB5EBA1109DCCCC6DC416C511"
 				"download" "E97AF569BA5D9B0507491E7AE8AAD701"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "CB56B588F8AB0FED801CA8727D50995F"
+				"size" "0BA5D98B114C6E9E872ACE71A9F149EB"
+				"download" "0E2657F5B76F8277FF76D01BE957A9ED"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "00E3FD632676E44DE79351135585455B"
@@ -1414,6 +1476,12 @@
 				"gid" "BD505B65978C9EAA5FA1E4B54CECF51C"
 				"size" "F9051187E4951EFA1917D951DC1F6817"
 				"download" "87588690C3433A2B507C165974740C52"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "FA8A92152698BBE9CC6645B9CA0EF129"
+				"size" "5ED83BC919A78FADAA64FBC968317BE0"
+				"download" "227E1D38FAE8DF6E869BF50BFB911F23"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -1519,6 +1587,12 @@
 				"size" "E7A394CF7E57FDA6D5AF549BA7F9894F"
 				"download" "F765236E65C5B9773B98E8D962029F51"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "1947F7F8EBE885A64584C9AEE9E585FA"
+				"size" "1E02034DF64659B86E4863D3AFCE3C64"
+				"download" "38AF4660BF03E519DC3D3364BEF262A0"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "1126EB8E8DEA86BCBCD70DD816ABAFB1"
@@ -1616,6 +1690,12 @@
 				"gid" "079A0BA31CF0A306F6537DA0024E2C02"
 				"size" "DD1D4D7E17C8E820627C6CE268F93430"
 				"download" "6BE76264E773EC4DC8F7EDD195B13E57"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "C9B2A9CE6B318800DD503420E3CB09CE"
+				"size" "BF19106B228E7A9EF87B19067282664C"
+				"download" "95D08CA50419EA45DCB686AB64831BDC"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -1721,6 +1801,12 @@
 				"size" "9405785A46F38401C441B73631A91206"
 				"download" "8A621BA9E7053E010DB55694A7B31AEB"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "20681124D9FDD3DFC3B1FE67CF4B0159"
+				"size" "9293BDAF87C45CCFE32075DB97687F84"
+				"download" "8D7D90DCD017B7F2F2E0D6DAE40C17CB"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "E25054414BA45BFE1F866B62E6310B6C"
@@ -1741,9 +1827,9 @@
 			}
 			"p4main-nightly"
 			{
-				"gid" "E3B3FE21BEE99C0813BE72DD686CEA40"
+				"gid" "B2BC11937B167F6FB4D340819FF4F269"
 				"size" "DDC02A75E69487206767AA3B52EC2418"
-				"download" "47A75950369C807FF607D1F84D917800"
+				"download" "F32DD65EDA60A4E9BA3DF83FBEDA22D9"
 			}
 			"sq-ia"
 			{
@@ -1824,6 +1910,12 @@
 				"gid" "79B29EE4B0D028F810BF1D4DD10F7BCF"
 				"size" "EAA1B337D219D8DF6B16F900FB865F27"
 				"download" "A7BCA719BA1C746D6F35CB77DFB9937F"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "1E6650BE57DB8B2E185D4CDE5DA3E74E"
+				"size" "FCDFD97367A3F586B762D1D67FBEE4C9"
+				"download" "2432052A50AC3C829C003FE331AFC207"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -1930,6 +2022,12 @@
 				"size" "C7F7ECF9F5DB884ACB5E73D47A93415B"
 				"download" "19BCD8B0E9FD65660EC424C70429EC32"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "B40C5C62D79DC7F1F5E04519C16EC9DE"
+				"size" "A8EDAC6A9970FE69A18407DCAD6D6147"
+				"download" "E1613F7ACD9C550FD1106CBFCF31808B"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "9687FF88256E82387B40DAAD500CE55F"
@@ -2034,6 +2132,12 @@
 				"gid" "24B3D4284EDC2C273D0752566C7C8C4C"
 				"size" "E2F09BE6528AEFE54F2FA5A821660253"
 				"download" "7C74B261C5F8D77A28B98F3C0BB73A43"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "D71409D95C3F609CE1DCAECD5C2884DB"
+				"size" "5ADDE6C0EBFE15E3F14526E212FE8BF5"
+				"download" "2AF3D506806091A6D47E9B2AC0951DF2"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -2140,6 +2244,12 @@
 				"size" "E27F7BD5B6DA5AE7FD27C71A329897A0"
 				"download" "71F4122DA6B0ABF2E858A00B1C25B61D"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "E61F1278F836E6A473159C05E6F8D05C"
+				"size" "8668B4B0CCB6E690F44960CF6269728A"
+				"download" "13FF0A22FE825CCEEB9EC868264B50D6"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "8A83E061CA43B2079D85559876BFD49F"
@@ -2244,6 +2354,12 @@
 				"gid" "695D0DDAD6AEF21C7815EA7212572625"
 				"size" "9F6EFB3D31ADDF6D91005044EBF7460D"
 				"download" "B99FC5A2ACE33F7913D51D98B38179DA"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "05C412C727BDB663AE4085010A378634"
+				"size" "D1F8ED051459118AA2166CD45C4A9B3B"
+				"download" "4868B9F78B77ABB80B96D3BE714A0627"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -2350,6 +2466,12 @@
 				"size" "96964126B7EAD7016544D306747C9757"
 				"download" "E53CF96F6E8372702FD482F3CACF8009"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "BDE8620419C90AEE131639EABA3C4DDC"
+				"size" "5C38AEB4F309D2D8306D0890AA49DC06"
+				"download" "8B98E7038B227FB67EDF7796093DA2D3"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "1BF1A6E0FEFAE23DE47DC353076F2EFB"
@@ -2454,6 +2576,12 @@
 				"gid" "10CADF235D73551536BA493C00238061"
 				"size" "D44F8536A781A43D28B94E55CDC488B3"
 				"download" "21AC95DB03A756C1006C227FD344AAED"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "1AD10B2495AE2767AD0BF78D4E7FAB75"
+				"size" "75C9263502681FCB19D867ADDA82852F"
+				"download" "7FF81CB63726299FE6174799624C0B4F"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -2560,6 +2688,12 @@
 				"size" "63D8911F80849CDF6DF41F9D8710947E"
 				"download" "CFCC50F91AF6688E1FA148EC38CE7CAF"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "2FC96E0209A14E9CCA5774AC67C7AE03"
+				"size" "CDAD93F1AE3C464D837E02BD83CC7EDD"
+				"download" "5D6FFC5CA6806C42903738EC2242E844"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "3B95856D937E3308F09398455A7C6577"
@@ -2664,6 +2798,12 @@
 				"gid" "60F8C58857FA63C2A039CE2E6E2AECEF"
 				"size" "E7B95085F189363F3AAF8567A658C765"
 				"download" "CB336B8B2A1E2A4BFA2ADA4B4966FF3C"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "40C29BCE8EC28BB4CDF2037CC232BFB3"
+				"size" "855BF47F49C5D6AC3E9387C3504CC40A"
+				"download" "E9C5CD4F5CE6D1B249884A5B015600E1"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -2770,6 +2910,12 @@
 				"size" "9AA1DA9562235BF6E1661988C765B6E1"
 				"download" "5DF6D6F99439B7EADD72D070C798A9F8"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "9B187FEB88865C0A379AFAABD4984E19"
+				"size" "F91771B33A146A59F4001FB752AEBD6A"
+				"download" "6B679EA7F6DADB7AED2D03B336FBAEF9"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "0613A091876034529C8A919432A1FF3A"
@@ -2875,6 +3021,12 @@
 				"size" "70F16C99618AC357583FE6D7CB7F1FEF"
 				"download" "2CE3DCC4EB74DB037CAD16527BBCDB32"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "6BC5098490F8859EFE2B6F73C897AB34"
+				"size" "6F18871554EC417CB9D6396D7BD8EA13"
+				"download" "732CC6154327B038FEB8B824F7372049"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "B9BCDD1DB1005F5D65A2D5157CD47229"
@@ -2973,6 +3125,12 @@
 				"gid" "9B3E171E343BE53D73E30354F6B111C3"
 				"size" "8BBC68AA8CD02C9B30D5555F64E165E1"
 				"download" "8CB5F32F972F5E796A58881183492F00"
+			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "52A30CF043FFA91AA23C6A4E4948B00A"
+				"size" "7A7CEDB398A5645D0C95B028B1DD6D19"
+				"download" "5069B040DBF07B0A66602107E00BAD71"
 			}
 			"hi_1_7_0-nightly"
 			{
@@ -3078,6 +3236,12 @@
 				"size" "4B532C047BBF60472DE88595C0C1F291"
 				"download" "384388E3FAD259B35A3ED85DC519F970"
 			}
+			"hi_1_10_0-nightly"
+			{
+				"gid" "4787B264FC2B10BC4903C30DDA85DD75"
+				"size" "920BBBD16B79A0E2DBC66974B18A16A8"
+				"download" "BAFC0FBB1ABA3CD1F18B4ECD918E18F7"
+			}
 			"hi_1_7_0-nightly"
 			{
 				"gid" "1D1CAA8D4549250990C13106DD676085"
@@ -3129,8 +3293,8 @@
 	{
 		"public"
 		{
-			"buildid" "16164246"
-			"timeupdated" "1730830041"
+			"buildid" "16456495"
+			"timeupdated" "1733249029"
 		}
 		"hipartner"
 		{
@@ -3180,6 +3344,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1727723685"
 		}
+		"hi_1_10_0-nightly"
+		{
+			"buildid" "16613621"
+			"pwdrequired" "1"
+			"timeupdated" "1733224423"
+		}
 		"hi_1_7_0-nightly"
 		{
 			"buildid" "14705640"
@@ -3194,27 +3364,27 @@
 		}
 		"hi_1_9_0-nightly"
 		{
-			"buildid" "16164246"
+			"buildid" "16456495"
 			"pwdrequired" "1"
-			"timeupdated" "1729767238"
+			"timeupdated" "1732009738"
 		}
 		"p4main-nightly"
 		{
-			"buildid" "16300667"
+			"buildid" "16621049"
 			"pwdrequired" "1"
-			"timeupdated" "1730809883"
+			"timeupdated" "1733264769"
 		}
 		"sq-ia"
 		{
-			"buildid" "16164246"
+			"buildid" "16456495"
 			"pwdrequired" "1"
-			"timeupdated" "1729788191"
+			"timeupdated" "1732038802"
 		}
 		"sq-ra"
 		{
-			"buildid" "16164246"
+			"buildid" "16456495"
 			"pwdrequired" "1"
-			"timeupdated" "1730153588"
+			"timeupdated" "1732561888"
 		}
 	}
 	"appmanagesdlc" "1"
@@ -3225,6 +3395,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26059662"
-"_sha" "86919464729db14ea4efc8d72c8c8794817bad45"
-"_size" "80613"
+"_change_number" "26478455"
+"_sha" "9c10944c5516c62a2ba5142a39f56905dd813479"
+"_size" "85652"
