@@ -172,6 +172,62 @@
 		{
 			"supported" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1522748940"
 	"workshop_visible" "1"
@@ -251,9 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "752067852022044251"
-				"size" "7622246695"
-				"download" "2396771168"
+				"gid" "3968712348390883674"
+				"size" "7622789135"
+				"download" "2396967840"
 			}
 			"3.0.4"
 			{
@@ -287,9 +343,9 @@
 			}
 			"beta"
 			{
-				"gid" "752067852022044251"
-				"size" "7622246695"
-				"download" "2396771168"
+				"gid" "3968712348390883674"
+				"size" "7622789135"
+				"download" "2396967840"
 			}
 		}
 		"encryptedmanifests"
@@ -362,15 +418,15 @@
 			}
 			"privbeta"
 			{
-				"gid" "5D33454A8ACBE818D9DE456B3BA9C2D2"
-				"size" "F4974270C8AAAF7191233D244AA646A4"
-				"download" "A69B46EC4DC5EDD5AEDCE76F421D6C29"
+				"gid" "E7ED8AC4F82CF15D114AA17F6D0FED28"
+				"size" "E562480B9FC2F1965B7909FADAB23C98"
+				"download" "7CB0CADBE7279E2643E4B1D4D669EAC7"
 			}
 			"themeta"
 			{
-				"gid" "AC63B0AB2121873544FD573816033B9B"
-				"size" "FB393008B65E4AE12455A519E3580636"
-				"download" "DAA00A7949C438565FE997704CC2E1DD"
+				"gid" "204962BCB3202A8F316EDB330667D5C9"
+				"size" "30FFA2DAB7CBEAD5B9347C7AB6721859"
+				"download" "DBC99A2150DA8833870A355A3E66DDBA"
 			}
 		}
 	}
@@ -397,8 +453,8 @@
 	{
 		"public"
 		{
-			"buildid" "16269108"
-			"timeupdated" "1730519702"
+			"buildid" "16618895"
+			"timeupdated" "1733416133"
 		}
 		"2.0.0.2"
 		{
@@ -498,21 +554,21 @@
 		}
 		"beta"
 		{
-			"buildid" "16269108"
+			"buildid" "16618895"
 			"description" "Public Beta Branch"
-			"timeupdated" "1730494043"
+			"timeupdated" "1733251629"
 		}
 		"privbeta"
 		{
-			"buildid" "16269108"
+			"buildid" "16618895"
 			"pwdrequired" "1"
-			"timeupdated" "1730494052"
+			"timeupdated" "1733251638"
 		}
 		"themeta"
 		{
-			"buildid" "16269108"
+			"buildid" "16618895"
 			"pwdrequired" "1"
-			"timeupdated" "1730492992"
+			"timeupdated" "1733251590"
 		}
 	}
 }
@@ -522,6 +578,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26016632"
-"_sha" "e73058644d18cb81cb34bb97c2004ed3ac55af19"
-"_size" "10029"
+"_change_number" "26511324"
+"_sha" "035bf806a86a5e78f6f43bdf9a8880105b0fb5da"
+"_size" "10695"
