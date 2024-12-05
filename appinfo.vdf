@@ -96,7 +96,45 @@
 			"height_pct" "59.34457373545476"
 		}
 	}
-	"store_asset_mtime" "1588870100"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "56.30945254460971"
+				"height_pct" "59.34457373545476"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1667321608"
 	"associations"
 	{
 		"0"
@@ -107,6 +145,11 @@
 		"1"
 		{
 			"type" "publisher"
+			"name" "Axolot Games"
+		}
+		"2"
+		{
+			"type" "franchise"
 			"name" "Axolot Games"
 		}
 	}
@@ -130,6 +173,7 @@
 		"category_17" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -186,20 +230,20 @@
 	{
 		"0" "1643"
 		"1" "3810"
-		"2" "1695"
-		"3" "1662"
+		"2" "1662"
+		"3" "1695"
 		"4" "3859"
 		"5" "3968"
 		"6" "1702"
 		"7" "7332"
 		"8" "1685"
-		"9" "4182"
-		"10" "3839"
+		"9" "3839"
+		"10" "4182"
 		"11" "21"
 		"12" "1697"
 		"13" "4136"
-		"14" "493"
-		"15" "599"
+		"14" "599"
+		"15" "493"
 		"16" "19"
 		"17" "492"
 		"18" "1669"
@@ -244,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "2707010794009604502"
-				"size" "7537508332"
-				"download" "2159196000"
+				"gid" "8922144896127732340"
+				"size" "7572530693"
+				"download" "2164316752"
 			}
 			"0.3.5"
 			{
@@ -254,17 +298,17 @@
 				"size" "3325182234"
 				"download" "467460432"
 			}
-			"0.5.1"
+			"0.6.6"
 			{
-				"gid" "96694781155181443"
-				"size" "7746697360"
-				"download" "2175608688"
+				"gid" "2707010794009604502"
+				"size" "7537508332"
+				"download" "2159196000"
 			}
 			"local"
 			{
-				"gid" "8075290526684218312"
-				"size" "15483779153"
-				"download" "4016904816"
+				"gid" "2979287470527980652"
+				"size" "16219811234"
+				"download" "4346316496"
 			}
 		}
 		"encryptedmanifests"
@@ -283,9 +327,9 @@
 			}
 			"test_dev"
 			{
-				"gid" "793A71CDC4644F2C702814B3BED7F2A3"
-				"size" "C57DCC1E11F78CC351450614419F7411"
-				"download" "B4E00477A0F0D4A7028CBB46E9AD5241"
+				"gid" "36B30CF8BE2E60212B1A132858709092"
+				"size" "736CF4980DFCFB483C2F9243CF58D54A"
+				"download" "1AD474E422509EDE71962416E5A688CF"
 			}
 		}
 	}
@@ -300,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "2038673273312077334"
-				"size" "2135769270"
-				"download" "1739452144"
+				"gid" "1386999342900895715"
+				"size" "2142098887"
+				"download" "1745498672"
 			}
 			"0.3.5"
 			{
@@ -310,17 +354,17 @@
 				"size" "2060625360"
 				"download" "493772240"
 			}
-			"0.5.1"
+			"0.6.6"
 			{
-				"gid" "1938529881060652033"
-				"size" "2252050795"
-				"download" "1882804576"
+				"gid" "2038673273312077334"
+				"size" "2135769270"
+				"download" "1739452144"
 			}
 			"local"
 			{
-				"gid" "1575022666599460142"
-				"size" "4029951683"
-				"download" "3196025952"
+				"gid" "6529831253873380969"
+				"size" "4530236391"
+				"download" "3579112720"
 			}
 		}
 		"encryptedmanifests"
@@ -339,9 +383,9 @@
 			}
 			"test_dev"
 			{
-				"gid" "486492199D8332210120AAF4CF87901C"
-				"size" "0E9D6AC7767BC9845EDB5AB5B85E66B9"
-				"download" "FE1421C24DFBEA4A373812C6F013F158"
+				"gid" "43EE1F246AAE176463175C63663BFFD1"
+				"size" "E2410EBD2FBD981C804CA01A8115BC09"
+				"download" "7A86614E4F540ED3F00195EAE5378C88"
 			}
 		}
 	}
@@ -349,20 +393,14 @@
 	{
 		"public"
 		{
-			"buildid" "12613955"
-			"timeupdated" "1699031202"
+			"buildid" "16642542"
+			"timeupdated" "1733402051"
 		}
 		"0.3.5"
 		{
 			"buildid" "3583132"
 			"description" "Last version before survival release"
 			"timeupdated" "1588804816"
-		}
-		"0.5.1"
-		{
-			"buildid" "6956308"
-			"description" "Previous version"
-			"timeupdated" "1654003617"
 		}
 		"alpha_terrain_test"
 		{
@@ -376,24 +414,30 @@
 			"pwdrequired" "1"
 			"timeupdated" "1611937528"
 		}
+		"0.6.6"
+		{
+			"buildid" "12613955"
+			"description" "Previous version"
+			"timeupdated" "1733402573"
+		}
 		"local"
 		{
-			"buildid" "13382641"
+			"buildid" "16407245"
 			"description" "Local Content Server"
 			"lcsrequired" "1"
-			"timeupdated" "1707234379"
+			"timeupdated" "1731594404"
 		}
 		"test_dev"
 		{
-			"buildid" "12613955"
+			"buildid" "16642542"
 			"pwdrequired" "1"
-			"timeupdated" "1699029100"
+			"timeupdated" "1733399388"
 		}
 	}
 }
 "ufs"
 {
-	"quota" "1000000000"
+	"quota" "10000000000"
 	"maxnumfiles" "10000"
 	"savefiles"
 	{
@@ -545,6 +589,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22229011"
-"_sha" "b607b5c366347991b93330d5eae93b4d85e80a33"
-"_size" "10492"
+"_change_number" "26507232"
+"_sha" "d0364435bdf4714b6545ad864c72635b0d44731e"
+"_size" "11146"
