@@ -58,24 +58,24 @@
 		{
 			"public"
 			{
+				"gid" "5989291413551092907"
+				"size" "40166024"
+				"download" "11900432"
+			}
+			"0.6.6"
+			{
 				"gid" "5094832243616215655"
 				"size" "39578832"
 				"download" "11712256"
-			}
-			"0.5.1"
-			{
-				"gid" "7552120927877772471"
-				"size" "654504152"
-				"download" "199402400"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test_dev"
 			{
-				"gid" "EBDA46150CF6466177414912E8300AE5"
-				"size" "204BF459F5F9E8E089E27D18C0410DFA"
-				"download" "9C3C09CEEFD6CCD8C9296ACCD77CB0F7"
+				"gid" "22DC234BF07599CF3E3288620773A0F8"
+				"size" "2CF7EBAAC925D3F2F10A5EC49D2A5A0E"
+				"download" "CCA03AA46E6572BB8C6B15C83E43E82A"
 			}
 		}
 	}
@@ -83,20 +83,20 @@
 	{
 		"public"
 		{
-			"buildid" "12613959"
-			"timeupdated" "1699031293"
+			"buildid" "16642545"
+			"timeupdated" "1733406175"
 		}
-		"0.5.1"
+		"0.6.6"
 		{
-			"buildid" "6464886"
+			"buildid" "12613959"
 			"description" "Previous version"
-			"timeupdated" "1654003652"
+			"timeupdated" "1733406127"
 		}
 		"test_dev"
 		{
-			"buildid" "12613959"
+			"buildid" "16642545"
 			"pwdrequired" "1"
-			"timeupdated" "1699029111"
+			"timeupdated" "1733399397"
 		}
 	}
 }
@@ -106,6 +106,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "20967393"
-"_sha" "9dfdf858ebad6f67a971b0a50943b88570d01af6"
-"_size" "1917"
+"_change_number" "26508287"
+"_sha" "3c3fffc284ce31d389239da42a0caf37e962e502"
+"_size" "1916"
