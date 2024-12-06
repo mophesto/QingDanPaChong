@@ -71,6 +71,7 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -136,7 +137,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1710489300"
+	"store_asset_mtime" "1733499412"
 	"associations"
 	{
 		"0"
@@ -178,6 +179,10 @@
 		"category_1" "1"
 		"category_9" "1"
 		"category_38" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -256,14 +261,14 @@
 		"19" "4195"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "73"
 }
 "extended"
 {
 	"developer" "Mooneaters"
 	"publisher" "Untold Tales"
 	"homepage" "https://www.everdreamvalley.com/"
-	"listofdlc" "2392630,2431000,2488400"
+	"listofdlc" "2392630,2431000,2488400,3281060"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -308,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "6429996193827113778"
-				"size" "7709128106"
-				"download" "4625893984"
+				"gid" "8233168425422114106"
+				"size" "4822786451"
+				"download" "3483875776"
 			}
 		}
 		"encryptedmanifests"
@@ -335,9 +340,9 @@
 			}
 			"dlc_testing"
 			{
-				"gid" "AAA8F780BAE8CBDF2523148528591A76"
-				"size" "F9743F2F8F1B9DD40B59800F3E767AAD"
-				"download" "EEF8C6C5FF8EDC408F27ABECCEB2C048"
+				"gid" "C52F9969474C33C735437293EFDBBD4B"
+				"size" "07C7D378C5FB425602A741334A3493F2"
+				"download" "ECC43A74D9CAF602F87CB4C26955E919"
 			}
 			"multiopentest"
 			{
@@ -359,8 +364,8 @@
 	{
 		"public"
 		{
-			"buildid" "16218463"
-			"timeupdated" "1731399443"
+			"buildid" "16653357"
+			"timeupdated" "1733497087"
 		}
 		"economy"
 		{
@@ -382,9 +387,9 @@
 		}
 		"dlc_testing"
 		{
-			"buildid" "16010809"
+			"buildid" "16653357"
 			"pwdrequired" "1"
-			"timeupdated" "1728657232"
+			"timeupdated" "1733472082"
 		}
 		"multiopentest"
 		{
@@ -419,6 +424,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26153237"
-"_sha" "8e7f1b7b335f9e389680cc5d626d02167b4feb0a"
-"_size" "7650"
+"_change_number" "26528506"
+"_sha" "9255f6165dfc4763fd5ba4e6949e276522d83f53"
+"_size" "7775"
