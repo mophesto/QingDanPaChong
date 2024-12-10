@@ -290,21 +290,21 @@
 		{
 			"public"
 			{
-				"gid" "1932506717421165351"
-				"size" "560277389"
-				"download" "353014704"
+				"gid" "6444811972326622477"
+				"size" "560293429"
+				"download" "352998096"
 			}
 			"beta"
 			{
-				"gid" "1932506717421165351"
-				"size" "560277389"
-				"download" "353014704"
+				"gid" "6444811972326622477"
+				"size" "560293429"
+				"download" "352998096"
 			}
 			"localisation"
 			{
-				"gid" "1932506717421165351"
-				"size" "560277389"
-				"download" "353014704"
+				"gid" "6444811972326622477"
+				"size" "560293429"
+				"download" "352998096"
 			}
 		}
 		"encryptedmanifests"
@@ -317,9 +317,9 @@
 			}
 			"internal"
 			{
-				"gid" "339B7245A75422741C68FACB3B391C1D"
-				"size" "E28017A8096F9797FB7BA3A76D3D4558"
-				"download" "844835759368DC30B454C96F5CA7E712"
+				"gid" "1A9F143E844B7C6454405D33693682CE"
+				"size" "CACF2B173A6E05717F918E6229318E33"
+				"download" "9A293F6EE60FEDE08C1BFB914066F3FA"
 			}
 			"josh"
 			{
@@ -345,30 +345,30 @@
 		{
 			"public"
 			{
-				"gid" "5995587589753301489"
-				"size" "609450250"
-				"download" "365694928"
+				"gid" "4119023160230937074"
+				"size" "609468354"
+				"download" "365699232"
 			}
 			"beta"
 			{
-				"gid" "5995587589753301489"
-				"size" "609450250"
-				"download" "365694928"
+				"gid" "4119023160230937074"
+				"size" "609468354"
+				"download" "365699232"
 			}
 			"localisation"
 			{
-				"gid" "5995587589753301489"
-				"size" "609450250"
-				"download" "365694928"
+				"gid" "4119023160230937074"
+				"size" "609468354"
+				"download" "365699232"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internal"
 			{
-				"gid" "9096F75A27D19E9FD47949466E65C08E"
-				"size" "14B22E2A598D48644C4EDE99CA5842CF"
-				"download" "95735C6FC8E3E23990BD236137024273"
+				"gid" "23396B12B824A5BD8704F32995A29467"
+				"size" "ABAE1006B0F06CC5B001D431F5ED16BB"
+				"download" "3A8510FF4F4E0DEE4B97FEA4D3C20DFF"
 			}
 			"josh"
 			{
@@ -425,8 +425,8 @@
 	{
 		"public"
 		{
-			"buildid" "16617639"
-			"timeupdated" "1733309756"
+			"buildid" "16669848"
+			"timeupdated" "1733777769"
 		}
 		"recording"
 		{
@@ -436,14 +436,14 @@
 		}
 		"beta"
 		{
-			"buildid" "16617639"
-			"timeupdated" "1733309728"
+			"buildid" "16669848"
+			"timeupdated" "1733619056"
 		}
 		"internal"
 		{
-			"buildid" "16617639"
+			"buildid" "16669848"
 			"pwdrequired" "1"
-			"timeupdated" "1733245237"
+			"timeupdated" "1733619020"
 		}
 		"josh"
 		{
@@ -453,9 +453,9 @@
 		}
 		"localisation"
 		{
-			"buildid" "16617639"
+			"buildid" "16669848"
 			"description" "Branch for testing Vault of the Voids Localisation"
-			"timeupdated" "1733309736"
+			"timeupdated" "1733619064"
 		}
 		"private"
 		{
@@ -522,6 +522,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26486663"
-"_sha" "6e76af4d6e273d638c09810d0bbc4f47fb22a023"
+"_change_number" "26564531"
+"_sha" "11ee0fb9051c1b790d1803ca5a4f2d84a9d7834e"
 "_size" "9552"
