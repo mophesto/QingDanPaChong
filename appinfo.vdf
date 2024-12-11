@@ -120,7 +120,7 @@
 		"19" "12095"
 	}
 	"review_score" "5"
-	"review_percentage" "59"
+	"review_percentage" "43"
 }
 "extended"
 {
@@ -143,54 +143,9 @@
 		{
 			"public"
 			{
-				"gid" "150293561525665873"
-				"size" "746133467"
-				"download" "661404592"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dlc_test"
-			{
-				"gid" "24195739FE434538B3B3D79A010B9E14"
-				"size" "00A9311FCBD44F4232C5A5855BB1CD34"
-				"download" "0B42E34597301D4BC1ED7C3A4C4D76F8"
-			}
-			"early_access"
-			{
-				"gid" "C870D267B95D441CD6DEFD5992FCF515"
-				"size" "C6FE38EB0F4B0D5378E2F224BF10CA33"
-				"download" "C5E82AD27DE382A5051B4E52F363E938"
-			}
-			"pdx_recordings"
-			{
-				"gid" "827D0A6DF3411760D937B1846C459E78"
-				"size" "D3792B9D660D2D17C9053468729DF08E"
-				"download" "9C159123497D1F411948FC1E4CC76E56"
-			}
-			"pdx_test"
-			{
-				"gid" "F1ED95046771EC3C166138AA07C4F1F6"
-				"size" "732478732C37C0BC9D7328CEA23AD888"
-				"download" "D0092FBD4259CCDF08F8D71B5B1C81BD"
-			}
-			"qloc_main"
-			{
-				"gid" "3AB9E417C0A6BB4BF40AAC582292C292"
-				"size" "EDD475A84A8AB6FA097F5B676F6A9533"
-				"download" "356EE673A44BDF6FC42B339AFCB23177"
-			}
-			"qloc_previous"
-			{
-				"gid" "CC266EA80DB423609EA19DD244E2587E"
-				"size" "82DC4CC7917D7AB26C83F3B7710E4EF2"
-				"download" "EF0C2F64D0973C2522EA4B25830D563C"
-			}
-			"release"
-			{
-				"gid" "FE2D39744FAEED8F73812926F12693E9"
-				"size" "734EBE1C3B6725A513DFB639C4498EF1"
-				"download" "E6118F8F818D741D479794DE74783B3C"
+				"gid" "8815979307396324091"
+				"size" "746133483"
+				"download" "661387760"
 			}
 		}
 		"dlcappid" "2427741"
@@ -199,54 +154,13 @@
 	{
 		"public"
 		{
-			"buildid" "16390469"
-			"timeupdated" "1733158707"
-		}
-		"dlc_test"
-		{
-			"buildid" "16536369"
-			"pwdrequired" "1"
-			"timeupdated" "1732617488"
-		}
-		"early_access"
-		{
-			"buildid" "16460382"
-			"pwdrequired" "1"
-			"timeupdated" "1732096965"
-		}
-		"pdx_recordings"
-		{
-			"buildid" "16390469"
-			"pwdrequired" "1"
-			"timeupdated" "1731515321"
-		}
-		"pdx_test"
-		{
-			"buildid" "16390469"
-			"pwdrequired" "1"
-			"timeupdated" "1731499101"
-		}
-		"qloc_main"
-		{
 			"buildid" "16571054"
-			"pwdrequired" "1"
-			"timeupdated" "1732895599"
-		}
-		"qloc_previous"
-		{
-			"buildid" "16460382"
-			"pwdrequired" "1"
-			"timeupdated" "1732895591"
-		}
-		"release"
-		{
-			"buildid" "16571054"
-			"pwdrequired" "1"
-			"timeupdated" "1732825055"
+			"timeupdated" "1733907333"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26460101"
-"_sha" "7d65d2a7ee0ca38073d2c735f4b5601faa19ef34"
-"_size" "4517"
+"_change_number" "26589580"
+"_sha" "88ba56975c6e88a73b07c7459c11d27b9bd361fe"
+"_size" "2526"
