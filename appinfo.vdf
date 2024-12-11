@@ -11,6 +11,7 @@
 	"logo" "b83cffe1839f3ecaec18754844b21bda9b397659"
 	"logo_small" "b83cffe1839f3ecaec18754844b21bda9b397659_thumb"
 	"exfgls" "1"
+	"restricted_countries" "DE"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -58,6 +59,40 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "32"
 			"height_pct" "55"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "32"
+				"height_pct" "55"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1578605797"
@@ -212,24 +247,24 @@
 		{
 			"public"
 			{
-				"gid" "3759115923294591746"
-				"size" "17793576301"
-				"download" "16358685488"
+				"gid" "1929288548044868931"
+				"size" "17809463752"
+				"download" "16373360064"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"internaltesting"
 			{
-				"gid" "1A8C6222664E9F50002F92F99981F68B"
-				"size" "6DA56C0DADBBE51B3914782A35FE0966"
-				"download" "A3D065D7DF997FF76FEA0E5EE54D7311"
+				"gid" "B98086CFEF55B678889206EACA001BDA"
+				"size" "FFD979DAD5518AB1D2621863B463D0B1"
+				"download" "5C2DC07BBB14F8C7C0E4F67C25BC40CD"
 			}
 			"livenext"
 			{
-				"gid" "2E9DF255F3EB7272946B218272071057"
-				"size" "44FE6357096082F4686E6BFA7C6A188B"
-				"download" "F5C2BACD83A84B78EE44CDDD5DE55059"
+				"gid" "78C29032D16FA23B38E45B35BEA74B87"
+				"size" "0F0427A2CDCD0260ED4C3F04B284B24D"
+				"download" "45F808195BD865053969DE45DF05B0EA"
 			}
 		}
 	}
@@ -238,24 +273,24 @@
 	{
 		"public"
 		{
-			"buildid" "9088198"
-			"timeupdated" "1657310581"
+			"buildid" "16699462"
+			"timeupdated" "1733869424"
 		}
 		"internaltesting"
 		{
-			"buildid" "8343469"
+			"buildid" "9088198"
 			"pwdrequired" "1"
-			"timeupdated" "1657310462"
+			"timeupdated" "1733869073"
 		}
 		"livenext"
 		{
-			"buildid" "9088198"
+			"buildid" "16699462"
 			"pwdrequired" "1"
-			"timeupdated" "1657307714"
+			"timeupdated" "1733865726"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "19590073"
-"_sha" "5688bec1349ada9daaa7f6b5f118ea75d26d48e0"
-"_size" "5353"
+"_change_number" "26583220"
+"_sha" "c4da5a41c79cbd41bdb99a41b90cf3407db73272"
+"_size" "5860"
