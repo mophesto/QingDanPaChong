@@ -16,6 +16,16 @@
 	{
 		"schinese" "永恒天空"
 	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1641960_eula_0"
+			"name" "Forever Skies EULA"
+			"url" "https://store.steampowered.com//eula/1641960_eula_0"
+			"version" "1"
+		}
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -349,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "2031654089104360038"
-				"size" "32229791796"
-				"download" "10379387056"
+				"gid" "4893656630323858215"
+				"size" "32203621583"
+				"download" "10365192864"
 			}
 			"legacy"
 			{
@@ -436,9 +446,9 @@
 			}
 			"development"
 			{
-				"gid" "835D2DE20BA84CB9487F0818ADE1E8D2"
-				"size" "68061517D18B39744AF3FEECE63532AD"
-				"download" "F42D05485CA23F9F7A3433B6177A3C13"
+				"gid" "55E624EC533DB218701727B279AA6BC3"
+				"size" "CF5786D9314114C827AB13CDAA436A48"
+				"download" "C28298B87E02EC8F4034C860B8099666"
 			}
 			"focus_tests"
 			{
@@ -466,15 +476,15 @@
 			}
 			"rel-next-development"
 			{
-				"gid" "4B3804369D3A257EAF758B888EDCBF39"
-				"size" "4A62E899C7727350D68E9DC2378C81A5"
-				"download" "0BCEDF097CF9B8D4092563E880459DB4"
+				"gid" "6E4979311ED22D769CE20ABAA828FAAA"
+				"size" "11383EBD3B72FB4E65B9FD01DDB5AA46"
+				"download" "9FAECD5DF05AB3328D798C209E160B3F"
 			}
 			"rel-next-shipping"
 			{
-				"gid" "B3024E4B1E27195E7DDE4366ADA406C8"
-				"size" "0BDFD4907DCC3E0B894FBED2B9F9294D"
-				"download" "4538B64848C81C0A44DCC96B153C07E5"
+				"gid" "DA94FA2A31F4D6717CDDA9F53CA57234"
+				"size" "16E72478A2E6543A8595EA57707C2A69"
+				"download" "09A9910E5B3C8A81BAB2FF9D5B39CC73"
 			}
 			"rel-next-test"
 			{
@@ -484,9 +494,9 @@
 			}
 			"shipping"
 			{
-				"gid" "F12350A493E1F16E2667C2CA97B7C637"
-				"size" "D819D59B0D1BFD481954D6CAE16E50C8"
-				"download" "7CB4BB5C8F230BB704BDD8EFE5708CAE"
+				"gid" "73858C02126C53DF543819829E5764CA"
+				"size" "09B4F1F73F1150AE6788C1CFB18CB403"
+				"download" "5A66F560C91260F62629A61E033BAC75"
 			}
 			"trailer"
 			{
@@ -509,8 +519,8 @@
 	{
 		"public"
 		{
-			"buildid" "16688334"
-			"timeupdated" "1733843959"
+			"buildid" "16708050"
+			"timeupdated" "1733934257"
 		}
 		"automation_branch"
 		{
@@ -586,9 +596,9 @@
 		}
 		"development"
 		{
-			"buildid" "16687701"
+			"buildid" "16709526"
 			"pwdrequired" "1"
-			"timeupdated" "1733793548"
+			"timeupdated" "1733931686"
 		}
 		"focus_tests"
 		{
@@ -622,15 +632,15 @@
 		}
 		"rel-next-development"
 		{
-			"buildid" "16688174"
+			"buildid" "16702017"
 			"pwdrequired" "1"
-			"timeupdated" "1733797119"
+			"timeupdated" "1733883621"
 		}
 		"rel-next-shipping"
 		{
-			"buildid" "16691575"
+			"buildid" "16708776"
 			"pwdrequired" "1"
-			"timeupdated" "1733822521"
+			"timeupdated" "1733927842"
 		}
 		"rel-next-test"
 		{
@@ -640,9 +650,9 @@
 		}
 		"shipping"
 		{
-			"buildid" "16687826"
+			"buildid" "16701861"
 			"pwdrequired" "1"
-			"timeupdated" "1733794640"
+			"timeupdated" "1733882241"
 		}
 		"trailer"
 		{
@@ -673,6 +683,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26578532"
-"_sha" "b3d9c3107c03350e0ab4638934c9f811c19f3625"
-"_size" "14460"
+"_change_number" "26596293"
+"_sha" "5d6de589263cde63f830ee3652557feeb482918c"
+"_size" "14639"
