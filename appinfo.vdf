@@ -23,7 +23,7 @@
 			"id" "1641960_eula_0"
 			"name" "Forever Skies EULA"
 			"url" "https://store.steampowered.com//eula/1641960_eula_0"
-			"version" "1"
+			"version" "2"
 		}
 	}
 	"steam_deck_compatibility"
@@ -148,7 +148,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733837917"
+	"store_asset_mtime" "1733942744"
 	"associations"
 	{
 		"0"
@@ -359,9 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "4893656630323858215"
-				"size" "32203621583"
-				"download" "10365192864"
+				"gid" "74153262409273851"
+				"size" "31999970245"
+				"download" "10168393264"
 			}
 			"legacy"
 			{
@@ -446,9 +446,9 @@
 			}
 			"development"
 			{
-				"gid" "55E624EC533DB218701727B279AA6BC3"
-				"size" "CF5786D9314114C827AB13CDAA436A48"
-				"download" "C28298B87E02EC8F4034C860B8099666"
+				"gid" "1CB86A9ED5E8ACB2A9A87EECF0B79B54"
+				"size" "F3749690AE44EDC313771820F6CC8D4E"
+				"download" "B3511BA09AD0FBF47D8539CBD61335E4"
 			}
 			"focus_tests"
 			{
@@ -458,9 +458,9 @@
 			}
 			"fs_access"
 			{
-				"gid" "D0126E3C5E413306CCD3D6166388811F"
-				"size" "661DD7810A9187299AF20DB1AD75525D"
-				"download" "31B27DCC07A5C5404E0F7D53B58CE768"
+				"gid" "F28EEA825C28CC4066988F7008F28D7B"
+				"size" "0FE335721E992F98E18FB6DC29F63800"
+				"download" "B3413E191E3D015A2F9E16847941614A"
 			}
 			"rel-live-development"
 			{
@@ -476,15 +476,15 @@
 			}
 			"rel-next-development"
 			{
-				"gid" "6E4979311ED22D769CE20ABAA828FAAA"
-				"size" "11383EBD3B72FB4E65B9FD01DDB5AA46"
-				"download" "9FAECD5DF05AB3328D798C209E160B3F"
+				"gid" "370B123CD2A2B4878092C3F3EE60E749"
+				"size" "5D76A9DA2E716EE2FA26D29CB8D5AD74"
+				"download" "4CB1F98E692E301921526B37813F9B50"
 			}
 			"rel-next-shipping"
 			{
-				"gid" "DA94FA2A31F4D6717CDDA9F53CA57234"
-				"size" "16E72478A2E6543A8595EA57707C2A69"
-				"download" "09A9910E5B3C8A81BAB2FF9D5B39CC73"
+				"gid" "32D7E8E247B62F0ECB6305C6A192CC95"
+				"size" "48E7006255AD94D7DD4C8DA0F0DD9FDD"
+				"download" "1198494A60D1DF50B0115A2C75C12E59"
 			}
 			"rel-next-test"
 			{
@@ -494,9 +494,9 @@
 			}
 			"shipping"
 			{
-				"gid" "73858C02126C53DF543819829E5764CA"
-				"size" "09B4F1F73F1150AE6788C1CFB18CB403"
-				"download" "5A66F560C91260F62629A61E033BAC75"
+				"gid" "458C97E541598B85E62F0BE102CB8B12"
+				"size" "44E2FCF463B90E8D9957F41C4623408D"
+				"download" "A87DCC7290B708F81B33E4ED1D393D03"
 			}
 			"trailer"
 			{
@@ -519,8 +519,8 @@
 	{
 		"public"
 		{
-			"buildid" "16708050"
-			"timeupdated" "1733934257"
+			"buildid" "16722261"
+			"timeupdated" "1734017617"
 		}
 		"automation_branch"
 		{
@@ -596,9 +596,9 @@
 		}
 		"development"
 		{
-			"buildid" "16709526"
+			"buildid" "16723432"
 			"pwdrequired" "1"
-			"timeupdated" "1733931686"
+			"timeupdated" "1734018116"
 		}
 		"focus_tests"
 		{
@@ -608,9 +608,9 @@
 		}
 		"fs_access"
 		{
-			"buildid" "16688334"
+			"buildid" "16722261"
 			"pwdrequired" "1"
-			"timeupdated" "1733843987"
+			"timeupdated" "1734017646"
 		}
 		"legacy"
 		{
@@ -632,15 +632,15 @@
 		}
 		"rel-next-development"
 		{
-			"buildid" "16702017"
+			"buildid" "16715466"
 			"pwdrequired" "1"
-			"timeupdated" "1733883621"
+			"timeupdated" "1733969866"
 		}
 		"rel-next-shipping"
 		{
-			"buildid" "16708776"
+			"buildid" "16722490"
 			"pwdrequired" "1"
-			"timeupdated" "1733927842"
+			"timeupdated" "1734013653"
 		}
 		"rel-next-test"
 		{
@@ -650,9 +650,9 @@
 		}
 		"shipping"
 		{
-			"buildid" "16701861"
+			"buildid" "16715115"
 			"pwdrequired" "1"
-			"timeupdated" "1733882241"
+			"timeupdated" "1733967101"
 		}
 		"trailer"
 		{
@@ -683,6 +683,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26596293"
-"_sha" "5d6de589263cde63f830ee3652557feeb482918c"
-"_size" "14639"
+"_change_number" "26613901"
+"_sha" "eb9894b0a486d3afc21a127a5fe1e4439fe684c4"
+"_size" "14637"
