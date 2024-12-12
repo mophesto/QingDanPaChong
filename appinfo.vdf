@@ -47,7 +47,7 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "359705dbb2f1a7426ef5098bc0439bd006092dee/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -72,11 +72,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "a98d6cf5bd02d62b3ef317d3bb01f64446855cf0/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "a98d6cf5bd02d62b3ef317d3bb01f64446855cf0/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -94,11 +94,11 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "bfeb10db06668d9d5bfeb10138683ba5d6830b59/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "bfeb10db06668d9d5bfeb10138683ba5d6830b59/logo_2x.png"
 			}
 			"logo_position"
 			{
@@ -115,7 +115,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1724192800"
+	"store_asset_mtime" "1733952249"
 	"associations"
 	{
 		"0"
@@ -293,9 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "939925977034439910"
-				"size" "77709373517"
-				"download" "30500807264"
+				"gid" "6713505535343349255"
+				"size" "85094161729"
+				"download" "33283119120"
 			}
 		}
 		"encryptedmanifests"
@@ -344,9 +344,9 @@
 			}
 			"newbuild-release"
 			{
-				"gid" "82B6E2D91B45D2335426F6A723159D6D"
-				"size" "E4F777261861A7A6747268A8DD74EE01"
-				"download" "BCE216D7577D8C22F3D9B5FFAB2457B5"
+				"gid" "D4264F3D16AB018DA04427595A0AE4A4"
+				"size" "88F51C752C3410241EF6B52CC68ACA48"
+				"download" "E11E86512140BE2F9C37F4037646AADC"
 			}
 		}
 	}
@@ -354,8 +354,8 @@
 	{
 		"public"
 		{
-			"buildid" "16228368"
-			"timeupdated" "1730311282"
+			"buildid" "16688617"
+			"timeupdated" "1733943732"
 		}
 		"416last"
 		{
@@ -401,9 +401,9 @@
 		}
 		"newbuild-release"
 		{
-			"buildid" "16228368"
+			"buildid" "16688617"
 			"pwdrequired" "1"
-			"timeupdated" "1730242010"
+			"timeupdated" "1733800444"
 		}
 	}
 }
@@ -415,6 +415,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "25975961"
-"_sha" "c11a0ff9e1a8b92ba0b7a78d422e77c3dac08985"
-"_size" "7502"
+"_change_number" "26601021"
+"_sha" "692eee72271c37c0cc7774f038c4f9dff47695a1"
+"_size" "7708"
