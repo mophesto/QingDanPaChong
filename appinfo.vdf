@@ -288,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "3967524094853920891"
-				"size" "2515862859"
-				"download" "726253888"
+				"gid" "4914648153274676883"
+				"size" "2522157903"
+				"download" "726255184"
 			}
 			"openbeta"
 			{
@@ -327,9 +327,9 @@
 			}
 			"privatebeta"
 			{
-				"gid" "6C2520A3B5D342DEA2038EBC0CFEE006"
-				"size" "EC12AAF2B5304082207F765A21F6DD76"
-				"download" "74C98ED4CE0181EF5D751ED7A16A8D3C"
+				"gid" "51AF3E8779CF67C3BF012E8260E15D1D"
+				"size" "71F44182F7CE7C087542AA70EF5EEF77"
+				"download" "FAF8468FF0A65B65C38689C9E35EA4BC"
 			}
 			"russian"
 			{
@@ -349,9 +349,9 @@
 		{
 			"public"
 			{
-				"gid" "8905763574546628601"
-				"size" "2543942014"
-				"download" "735131424"
+				"gid" "6139097848942710053"
+				"size" "2550651746"
+				"download" "735124608"
 			}
 			"openbeta"
 			{
@@ -388,9 +388,9 @@
 			}
 			"privatebeta"
 			{
-				"gid" "0AAAB108FB52DFFD61459CEBFD04D438"
-				"size" "DAD8F62AECECEA007A48CE3B6EFB01D0"
-				"download" "36FDE83167CD01577613CA5134D517F1"
+				"gid" "D4D8C3950B6849A1B70454F68A9FBFC7"
+				"size" "FFE86E3F849DAE417B4CB3E678148ABA"
+				"download" "53448CF0675DE1A4B0762D7A28FB0F11"
 			}
 			"russian"
 			{
@@ -411,9 +411,9 @@
 		{
 			"public"
 			{
-				"gid" "7969426257350645847"
-				"size" "2504602355"
-				"download" "723989456"
+				"gid" "9217591792905573290"
+				"size" "2510897447"
+				"download" "723991808"
 			}
 			"openbeta"
 			{
@@ -444,9 +444,9 @@
 			}
 			"privatebeta"
 			{
-				"gid" "CB8AACFE4D0B2CF5C3DE66D2684C839C"
-				"size" "778B9FEB8D0A9EBCDC7120D57CE431DD"
-				"download" "BF763F3E547C75651553742F7A3D4B16"
+				"gid" "737D8F888F56E05652587E0A3146828E"
+				"size" "120093549FA21B0AC3DDE8E3D80E91A1"
+				"download" "551A44205E762DEDACAE1D0C8B81DEB5"
 			}
 			"russian"
 			{
@@ -463,7 +463,7 @@
 		{
 			"public"
 			{
-				"gid" "669987086701529943"
+				"gid" "9110642349592185451"
 				"size" "75232877"
 				"download" "76152224"
 			}
@@ -472,7 +472,7 @@
 		{
 			"privatebeta"
 			{
-				"gid" "CAB97914F27F70A2774BC527BDD263DA"
+				"gid" "DB5B1C8B393DE574FCC39A38C7E1DFD7"
 				"size" "EBE8D6E1A858D11A2EA7C36A4C190C0A"
 				"download" "C0F34293E54A0C0139693CA2C8804166"
 			}
@@ -488,8 +488,8 @@
 	{
 		"public"
 		{
-			"buildid" "16640448"
-			"timeupdated" "1733925327"
+			"buildid" "16710400"
+			"timeupdated" "1733941791"
 		}
 		"arcade"
 		{
@@ -523,9 +523,9 @@
 		}
 		"privatebeta"
 		{
-			"buildid" "16640462"
+			"buildid" "16710412"
 			"pwdrequired" "1"
-			"timeupdated" "1733387785"
+			"timeupdated" "1733936405"
 		}
 		"russian"
 		{
@@ -595,6 +595,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26593990"
-"_sha" "72c2ad9579d503c01622926e71640987def55edd"
-"_size" "11457"
+"_change_number" "26598117"
+"_sha" "e5b813ff9546678dc8009578c7baf7c7d51d7a70"
+"_size" "11458"
