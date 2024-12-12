@@ -24,6 +24,7 @@
 		"schinese" "header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
 	}
+	"store_screenshot" "ss_9beef14102f164fa1163536d0fb3a51d0a2e4a3f.jpg"
 	"store_asset_mtime" "1607358177"
 	"associations"
 	{
@@ -158,7 +159,7 @@
 	}
 	"steam_release_date" "1607558400"
 	"gameid" "1495710"
-	"exfgls" "2"
+	"exfgls" "6"
 	"store_tags"
 	{
 		"0" "122"
@@ -166,13 +167,13 @@
 		"2" "4115"
 		"3" "1695"
 		"4" "3839"
-		"5" "4106"
-		"6" "4231"
-		"7" "4182"
-		"8" "5611"
+		"5" "5611"
+		"6" "4106"
+		"7" "4231"
+		"8" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -196,18 +197,18 @@
 		{
 			"public"
 			{
-				"gid" "8726753376800133547"
-				"size" "1049226949"
-				"download" "1036835440"
+				"gid" "8009204367296826414"
+				"size" "1055809010"
+				"download" "1041409360"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"cdpr_internal_qa"
 			{
-				"gid" "00EE3E85809EE9D5732EB6E3A6635FB8"
-				"size" "46B95A61CFF59F5932135F3B8DC97B5F"
-				"download" "1520FE7656C0EAA32CBF7EAD5BAB9A70"
+				"gid" "33304134D104832A682E209A331E2483"
+				"size" "1FF0605EFD0D691A24B7C4D41E27A5AE"
+				"download" "6CDAC3119B4836E8DE5C23BEF255D955"
 			}
 		}
 	}
@@ -219,6 +220,12 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "6063513813836153627"
+				"size" "2142447028"
+				"download" "1988652224"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -234,14 +241,14 @@
 	{
 		"public"
 		{
-			"buildid" "12355677"
-			"timeupdated" "1696434820"
+			"buildid" "16710311"
+			"timeupdated" "1733936249"
 		}
 		"cdpr_internal_qa"
 		{
-			"buildid" "12374924"
+			"buildid" "16710311"
 			"pwdrequired" "1"
-			"timeupdated" "1696598401"
+			"timeupdated" "1733935989"
 		}
 	}
 }
@@ -687,6 +694,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22154971"
-"_sha" "666e4e5add339faf176039e9166f6ba2996c78ff"
-"_size" "11403"
+"_change_number" "26596774"
+"_sha" "c1a489db8105aa8e2b6908a3324c75d789c92ead"
+"_size" "11590"
