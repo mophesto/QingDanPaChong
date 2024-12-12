@@ -143,7 +143,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727968651"
+	"store_asset_mtime" "1734018759"
 	"associations"
 	{
 		"0"
@@ -263,17 +263,17 @@
 		"4" "7332"
 		"5" "220585"
 		"6" "1643"
-		"7" "4695"
-		"8" "1670"
-		"9" "3859"
+		"7" "3859"
+		"8" "4695"
+		"9" "1670"
 		"10" "1708"
 		"11" "1678"
 		"12" "12472"
 		"13" "1775"
 		"14" "1685"
 		"15" "4182"
-		"16" "1669"
-		"17" "11634"
+		"16" "11634"
+		"17" "1669"
 		"18" "6730"
 		"19" "8945"
 	}
@@ -287,7 +287,7 @@
 	"developer" "Shiro Games"
 	"publisher" "Shiro Games"
 	"homepage" "https://northgard.net/"
-	"listofdlc" "820560,888650,971630,1036760,1088640,1223060,1401490,1644210,1876990,2138500,2228200,2515460,2658730,2946220"
+	"listofdlc" "820560,888650,971630,1036760,1088640,1223060,1401490,1644210,1876990,2138500,2228200,2515460,2658730,2946220,3352480"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -400,9 +400,9 @@
 		{
 			"public"
 			{
-				"gid" "7994558898133164928"
-				"size" "3506307395"
-				"download" "1481354560"
+				"gid" "517568061101568947"
+				"size" "3544030420"
+				"download" "1500535728"
 			}
 			"public-beta"
 			{
@@ -427,9 +427,9 @@
 			}
 			"shiro-test"
 			{
-				"gid" "0719E208DD25E4066AC17BE59D90039D"
-				"size" "5252BB114729ACA1E9A2FC4533EC520A"
-				"download" "56DE984920E1DF6F54438DE370914FCB"
+				"gid" "8117DE33A0A087C1FC771F8D66716EEA"
+				"size" "18526F1AA59CA4D1DFD6E37E17CB9B9A"
+				"download" "DB1D768B56B8968CE86C9F447F56F771"
 			}
 		}
 	}
@@ -483,9 +483,9 @@
 		{
 			"public"
 			{
-				"gid" "8870204162240342567"
-				"size" "19514052"
-				"download" "5182096"
+				"gid" "1980239260165872327"
+				"size" "20022564"
+				"download" "5385968"
 			}
 			"public-beta"
 			{
@@ -510,9 +510,9 @@
 			}
 			"shiro-test"
 			{
-				"gid" "DC90E71BBE4A454EECBE4EB54B6A3642"
-				"size" "41A4051CA1D7D59F0FF65F750DE798A1"
-				"download" "6C3D7AAB128DDB5C0FA9896753BCBC05"
+				"gid" "4EF095E4C0C6451DEE767E1CB1D179FC"
+				"size" "D65306124F8EEFCFED123C890D918B46"
+				"download" "9A8239FC7060A3621FD86A6452D2023A"
 			}
 		}
 	}
@@ -526,9 +526,9 @@
 		{
 			"public"
 			{
-				"gid" "7800106687463277435"
-				"size" "17421685"
-				"download" "4330592"
+				"gid" "7015160002264364548"
+				"size" "17636541"
+				"download" "4424112"
 			}
 			"public-beta"
 			{
@@ -553,9 +553,9 @@
 			}
 			"shiro-test"
 			{
-				"gid" "3E0728C6609638C7B8D6EACDEB0924A0"
-				"size" "CECEF44F4D8849FF9DFF796AEF0672E7"
-				"download" "5E1FDA3F7F7076086954EA026B75CB5E"
+				"gid" "017D11C642F84E1538A90F31F0A0387F"
+				"size" "54FCBE493993B3633E51924260959C6B"
+				"download" "1E52F816849F97E066B0DD4020B47B29"
 			}
 		}
 	}
@@ -649,8 +649,8 @@
 	{
 		"public"
 		{
-			"buildid" "16601744"
-			"timeupdated" "1733224161"
+			"buildid" "16720488"
+			"timeupdated" "1734014726"
 		}
 		"closed-beta"
 		{
@@ -672,9 +672,9 @@
 		}
 		"shiro-test"
 		{
-			"buildid" "16601744"
+			"buildid" "16720488"
 			"pwdrequired" "1"
-			"timeupdated" "1733149148"
+			"timeupdated" "1734003133"
 		}
 	}
 }
@@ -705,6 +705,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26468785"
-"_sha" "f724a7e9562c7673e98af07b3f241837dbc132c7"
-"_size" "13596"
+"_change_number" "26614101"
+"_sha" "4908aeaa4aba100ab7b577100de38b27f8cfc9f6"
+"_size" "13603"
