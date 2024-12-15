@@ -288,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "1283659115963495533"
-				"size" "2556680130"
-				"download" "728095568"
+				"gid" "544172193488406074"
+				"size" "2556680098"
+				"download" "728093792"
 			}
 			"openbeta"
 			{
@@ -327,9 +327,9 @@
 			}
 			"privatebeta"
 			{
-				"gid" "83A08582F66254C151FD58B284B05C20"
-				"size" "E07C018AC12E0915110DAE227C063BF1"
-				"download" "4B376E0F1D27A6B0DA79DD37BB7EC4CB"
+				"gid" "36A72A297E3D29DDDB3FF02D97246F6B"
+				"size" "315E3E31E68838C7E1687EEDB7391DD7"
+				"download" "E26E19B03248E97E5714075A6093FDE9"
 			}
 			"russian"
 			{
@@ -349,9 +349,9 @@
 		{
 			"public"
 			{
-				"gid" "4458973644905890246"
-				"size" "2583414357"
-				"download" "736932496"
+				"gid" "1714743076324512692"
+				"size" "2583414341"
+				"download" "736931104"
 			}
 			"openbeta"
 			{
@@ -388,9 +388,9 @@
 			}
 			"privatebeta"
 			{
-				"gid" "B8EC6E43A528464CAB8BA5C7D583DF54"
-				"size" "5EFD338762788A09F0C1C23A1306234C"
-				"download" "F1B2E283C35F0B2D179C2AF0D886794C"
+				"gid" "F09C01E46C64BEC26FD5426ADEE0D5B7"
+				"size" "857CCD8DB794A7FE24B0DDD50AB4AD2A"
+				"download" "87996F75CF93A8FF6979FC738B5E28E3"
 			}
 			"russian"
 			{
@@ -411,9 +411,9 @@
 		{
 			"public"
 			{
-				"gid" "3444129644029215193"
-				"size" "2545419642"
-				"download" "725831712"
+				"gid" "57272738926185759"
+				"size" "2545419626"
+				"download" "725830080"
 			}
 			"openbeta"
 			{
@@ -444,9 +444,9 @@
 			}
 			"privatebeta"
 			{
-				"gid" "E905D32AACD9CDC113582274B912E49B"
-				"size" "3044EEDF63F0B8EC8E5793E837230BF1"
-				"download" "AF1A862F32716A90EDED46B7386E8569"
+				"gid" "78A103944026B65C166233973CE9AFD5"
+				"size" "69AD8FB8CB36BA3DEBE3006DB80186D2"
+				"download" "1352D5AB42F7E888B17AE531A6AAC475"
 			}
 			"russian"
 			{
@@ -488,8 +488,8 @@
 	{
 		"public"
 		{
-			"buildid" "16733154"
-			"timeupdated" "1734083523"
+			"buildid" "16746834"
+			"timeupdated" "1734199234"
 		}
 		"arcade"
 		{
@@ -523,9 +523,9 @@
 		}
 		"privatebeta"
 		{
-			"buildid" "16733161"
+			"buildid" "16746839"
 			"pwdrequired" "1"
-			"timeupdated" "1734082803"
+			"timeupdated" "1734198861"
 		}
 		"russian"
 		{
@@ -595,6 +595,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26626952"
-"_sha" "ef3f3ea4ca0b34aaa020c6953619fb1c288917df"
-"_size" "11458"
+"_change_number" "26644522"
+"_sha" "b6245ba66553eb82ce0a91dd85550531c2136739"
+"_size" "11455"
