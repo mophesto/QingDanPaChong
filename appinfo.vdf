@@ -306,11 +306,11 @@
 		"0" "3834"
 		"1" "3993"
 		"2" "19"
-		"3" "4046"
-		"4" "122"
-		"5" "1742"
-		"6" "4604"
-		"7" "29482"
+		"3" "29482"
+		"4" "4046"
+		"5" "122"
+		"6" "1742"
+		"7" "4604"
 		"8" "4231"
 		"9" "4182"
 		"10" "3843"
@@ -382,9 +382,9 @@
 		{
 			"public"
 			{
-				"gid" "3000199027412807423"
-				"size" "34815642946"
-				"download" "33894011008"
+				"gid" "6978990548313379004"
+				"size" "34816641080"
+				"download" "33894496544"
 			}
 		}
 		"encryptedmanifests"
@@ -517,9 +517,9 @@
 			}
 			"prelaunch"
 			{
-				"gid" "44652D77BAD5B499567A188859CB9969"
-				"size" "FD769AE035842C847EB4F6B033E92166"
-				"download" "AA32BBE30A3C7F4E7A3A3350BEE95771"
+				"gid" "E2EEB1B904E10D82B8E813C44CA7AABB"
+				"size" "5673ECEBDADD263815D092DF43A808E1"
+				"download" "C30BEB0870188D80598D6870BD77373E"
 			}
 			"preload"
 			{
@@ -535,9 +535,9 @@
 			}
 			"zerogoldtest"
 			{
-				"gid" "B4FC8374110A778D2B09A002B6063BFD"
-				"size" "D099679959F0F317980C1F587B17C458"
-				"download" "CE1906E3648178B2160D93CE1CBEF204"
+				"gid" "1F8C057D98FA5902B2E5C7A5FD6DF1D3"
+				"size" "8C541E3432314BBE073A22ADF6218DE0"
+				"download" "608C89F8568D4DC6FF1A0024D7CA7AAC"
 			}
 		}
 	}
@@ -546,8 +546,8 @@
 	{
 		"public"
 		{
-			"buildid" "16710293"
-			"timeupdated" "1734021880"
+			"buildid" "16760535"
+			"timeupdated" "1734534169"
 		}
 		"amdtesting"
 		{
@@ -677,9 +677,9 @@
 		}
 		"prelaunch"
 		{
-			"buildid" "16710293"
+			"buildid" "16760535"
 			"pwdrequired" "1"
-			"timeupdated" "1733935896"
+			"timeupdated" "1734362286"
 		}
 		"preload"
 		{
@@ -695,9 +695,9 @@
 		}
 		"zerogoldtest"
 		{
-			"buildid" "16708115"
+			"buildid" "16739422"
 			"pwdrequired" "1"
-			"timeupdated" "1733924479"
+			"timeupdated" "1734116263"
 		}
 	}
 }
@@ -727,6 +727,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26615069"
-"_sha" "3a5f85631c31691fefe3cd354a101885e658f689"
+"_change_number" "26697200"
+"_sha" "d7fafcb436fb7f2f47360a654ce7af34c39255cd"
 "_size" "14947"
