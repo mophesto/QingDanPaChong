@@ -148,6 +148,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_17" "1"
+		"category_22" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -230,6 +231,7 @@
 		}
 	}
 	"steam_release_date" "1522748940"
+	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "824270"
@@ -307,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "3968712348390883674"
-				"size" "7622789135"
-				"download" "2396967840"
+				"gid" "2944692577812802953"
+				"size" "7622903581"
+				"download" "2396883040"
 			}
 			"3.0.4"
 			{
@@ -335,17 +337,17 @@
 				"size" "7489926376"
 				"download" "2358004400"
 			}
-			"3.6.3"
+			"3.6.5"
 			{
-				"gid" "6789766117079814500"
-				"size" "7622052400"
-				"download" "2396889440"
+				"gid" "752067852022044251"
+				"size" "7622246695"
+				"download" "2396771168"
 			}
 			"beta"
 			{
-				"gid" "3968712348390883674"
-				"size" "7622789135"
-				"download" "2396967840"
+				"gid" "2944692577812802953"
+				"size" "7622903581"
+				"download" "2396883040"
 			}
 		}
 		"encryptedmanifests"
@@ -418,15 +420,15 @@
 			}
 			"privbeta"
 			{
-				"gid" "E7ED8AC4F82CF15D114AA17F6D0FED28"
-				"size" "E562480B9FC2F1965B7909FADAB23C98"
-				"download" "7CB0CADBE7279E2643E4B1D4D669EAC7"
+				"gid" "884036A97D41EB4E9BDDC12B07CDE3D8"
+				"size" "F686E1269679FA3CAA89CEA4C462D88D"
+				"download" "CF829BA3B48E924834E3F8DC23F75648"
 			}
 			"themeta"
 			{
-				"gid" "204962BCB3202A8F316EDB330667D5C9"
-				"size" "30FFA2DAB7CBEAD5B9347C7AB6721859"
-				"download" "DBC99A2150DA8833870A355A3E66DDBA"
+				"gid" "2F2F1A7CD7ACF98DC9594D1F2B797C4F"
+				"size" "3480BFB8E74032A44ED72E790B0F0B2C"
+				"download" "98E4D6C071DA16CF583DC189B3720B10"
 			}
 		}
 	}
@@ -453,8 +455,8 @@
 	{
 		"public"
 		{
-			"buildid" "16618895"
-			"timeupdated" "1733416133"
+			"buildid" "16727474"
+			"timeupdated" "1734455851"
 		}
 		"2.0.0.2"
 		{
@@ -546,29 +548,29 @@
 			"description" "Patch from May 24, 2024"
 			"timeupdated" "1725652447"
 		}
-		"3.6.3"
+		"3.6.5"
 		{
-			"buildid" "15736405"
-			"description" "Patch from Sept 17th, 2024"
-			"timeupdated" "1730427824"
+			"buildid" "16269108"
+			"description" "Patch from Nov 1st, 2024"
+			"timeupdated" "1734115219"
 		}
 		"beta"
 		{
-			"buildid" "16618895"
+			"buildid" "16727474"
 			"description" "Public Beta Branch"
-			"timeupdated" "1733251629"
+			"timeupdated" "1734115125"
 		}
 		"privbeta"
 		{
-			"buildid" "16618895"
+			"buildid" "16727474"
 			"pwdrequired" "1"
-			"timeupdated" "1733251638"
+			"timeupdated" "1734040872"
 		}
 		"themeta"
 		{
-			"buildid" "16618895"
+			"buildid" "16727474"
 			"pwdrequired" "1"
-			"timeupdated" "1733251590"
+			"timeupdated" "1734040879"
 		}
 	}
 }
@@ -578,6 +580,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26511324"
-"_sha" "035bf806a86a5e78f6f43bdf9a8880105b0fb5da"
-"_size" "10695"
+"_change_number" "26681785"
+"_sha" "99812424f5b2fee5fa2f3836075f87edb39d6f95"
+"_size" "10747"
