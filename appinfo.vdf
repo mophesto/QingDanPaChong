@@ -229,8 +229,8 @@
 		"3" "9"
 		"4" "1676"
 		"5" "1670"
-		"6" "599"
-		"7" "4364"
+		"6" "4364"
+		"7" "599"
 		"8" "3813"
 		"9" "1643"
 		"10" "1708"
@@ -293,9 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "1546943415109082948"
-				"size" "6119482523"
-				"download" "1842671216"
+				"gid" "7836882786678519276"
+				"size" "6119482603"
+				"download" "1842674000"
 			}
 		}
 		"encryptedmanifests"
@@ -314,27 +314,27 @@
 			}
 			"closed-beta"
 			{
-				"gid" "411517DB51B302BDA9C862EE7B1FF7C8"
-				"size" "62791502C27255432FC921ED683086B4"
-				"download" "4A8EFF118CA0C7FE44086BD2807577D7"
+				"gid" "1F7F9FFDC70B4CD69A9381DBE9EC6DC8"
+				"size" "35D7EC1B4105F91D830856C195D8A1A8"
+				"download" "240D3550A841514F670080DCC1B7FBEE"
 			}
 			"press"
 			{
-				"gid" "BB6A3CDD8C41FB407A2CCA22DE20A082"
-				"size" "EDE35E4A4AAAEDAD74B697300D6FDA99"
-				"download" "000C8B97E3CF19ACCC07BCE57963A5A2"
+				"gid" "B6F94B483D3D401D2F21FDFE972C9311"
+				"size" "C208B115FE1CAEC79EB18BC873367205"
+				"download" "7B476E5CDD10AE901BCB5F18A437B092"
 			}
 			"shiro"
 			{
-				"gid" "500EDF3E20FDC273DE32CE1ED205F8F9"
-				"size" "A99409D071BF8F6A5F3B52A734FBB7D5"
-				"download" "D09FB004ECC534DB92D1F23A7DDCC2F6"
+				"gid" "F9D0B7963C04DF38ED5C3E7C7F1D227D"
+				"size" "01A05680D742BF4D42F71D52DB27D221"
+				"download" "ADC3C410AE19B14904D58E423CAE9EF7"
 			}
 			"tournament"
 			{
-				"gid" "277A3C03626E7CF6F4DB91046CD9C8DD"
-				"size" "E4D79A382228CF307048B64ECFCF8E4B"
-				"download" "79BCCBB8E8D0AEED3A7F03849083D250"
+				"gid" "8419C4C087FFC5B5324300E17860B04F"
+				"size" "C2152E11102F038BF5989A1DA1D7E0FA"
+				"download" "AF83AC8514D664CD00D7FA73D4229650"
 			}
 		}
 	}
@@ -342,8 +342,8 @@
 	{
 		"public"
 		{
-			"buildid" "16706130"
-			"timeupdated" "1734000820"
+			"buildid" "16785013"
+			"timeupdated" "1734520484"
 		}
 		"nostalgia"
 		{
@@ -359,27 +359,27 @@
 		}
 		"closed-beta"
 		{
-			"buildid" "16706130"
+			"buildid" "16785013"
 			"pwdrequired" "1"
-			"timeupdated" "1734000896"
+			"timeupdated" "1734520497"
 		}
 		"press"
 		{
-			"buildid" "16706130"
+			"buildid" "16785013"
 			"pwdrequired" "1"
-			"timeupdated" "1734000870"
+			"timeupdated" "1734520504"
 		}
 		"shiro"
 		{
-			"buildid" "16706130"
+			"buildid" "16785013"
 			"pwdrequired" "1"
-			"timeupdated" "1733913904"
+			"timeupdated" "1734516408"
 		}
 		"tournament"
 		{
-			"buildid" "16706130"
+			"buildid" "16785013"
 			"pwdrequired" "1"
-			"timeupdated" "1734000885"
+			"timeupdated" "1734520513"
 		}
 	}
 }
@@ -399,6 +399,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26609256"
-"_sha" "cbddd177dab6397cfe7741ee03979481803092fa"
+"_change_number" "26693735"
+"_sha" "455b839c7fce1d1076edec36630c40d88868f146"
 "_size" "7292"
