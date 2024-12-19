@@ -249,7 +249,7 @@
 		"19" "597"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "76"
 }
 "extended"
 {
@@ -288,24 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "4319257802232331728"
-				"size" "1345613817"
-				"download" "1011576448"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"for-test"
-			{
-				"gid" "04EEDCC6213C457D13495B18A11A1A77"
-				"size" "57B8679670B813834E976BC9871D7B64"
-				"download" "CD3906C7AFA6A2F106E79347737F58B2"
-			}
-			"puppeteer-ea"
-			{
-				"gid" "9A0E2B485D7342954A65217A3927783B"
-				"size" "917374613FBB0C2F3E0A4DA5D73D5FB2"
-				"download" "983B804B1B76B659753F13582C9B98BD"
+				"gid" "4022962200317233266"
+				"size" "1345610468"
+				"download" "1011574656"
 			}
 		}
 	}
@@ -313,24 +298,11 @@
 	{
 		"public"
 		{
-			"buildid" "15575554"
-			"timeupdated" "1725354578"
-		}
-		"for-test"
-		{
-			"sc_schinese" "内部测试用"
-			"buildid" "15366289"
-			"pwdrequired" "1"
-			"timeupdated" "1725011419"
-		}
-		"puppeteer-ea"
-		{
-			"sc_schinese" "test"
-			"buildid" "15380200"
-			"pwdrequired" "1"
-			"timeupdated" "1724219400"
+			"buildid" "16798107"
+			"timeupdated" "1734602966"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -348,6 +320,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25054324"
-"_sha" "97c2feaaeb79e6371bedbf3abbab1cb103b21cc3"
-"_size" "6808"
+"_change_number" "26711195"
+"_sha" "72703f13859e93e36673c06184ec1d386aca2ed2"
+"_size" "6170"
