@@ -506,21 +506,21 @@
 		{
 			"public"
 			{
-				"gid" "6704170978664392807"
-				"size" "34060145235"
-				"download" "31283985136"
+				"gid" "6269218232072324523"
+				"size" "34059582746"
+				"download" "31281305296"
 			}
 			"public_beta"
 			{
-				"gid" "6704170978664392807"
-				"size" "34060145235"
-				"download" "31283985136"
+				"gid" "6269218232072324523"
+				"size" "34059582746"
+				"download" "31281305296"
 			}
 			"oculus"
 			{
-				"gid" "7132643252303790538"
-				"size" "34060246807"
-				"download" "31281960368"
+				"gid" "1730219487100952625"
+				"size" "34059687208"
+				"download" "31281380608"
 			}
 			"oculus_previous"
 			{
@@ -677,9 +677,9 @@
 			}
 			"experimental"
 			{
-				"gid" "A103BA19EC04DD7EE58F22E124AB11BC"
-				"size" "792B29663C05E90D8FEBFCE636A13C0A"
-				"download" "E09DE14A5957852CBA47C2F7BEF54340"
+				"gid" "DA1EC5EDBA520AF6C28D16B6B45F7D28"
+				"size" "669C32185E89C9C70A77F9254DA8AC79"
+				"download" "DAEF13163CAE79F95799B3F5D7DA8D1B"
 			}
 			"experimental2"
 			{
@@ -695,9 +695,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "8501CEF7711DB2F759D17E9EBF6DC7D0"
-				"size" "729D3C62833FED59E205917BB6896FF7"
-				"download" "9E28D111554D4BB7A6A74A5F61A712D3"
+				"gid" "8D5F557A010B0E5832A1BAB7980A7F17"
+				"size" "30E25CB17CB56E591424E75550340457"
+				"download" "48D4ED7D9CB8AFF7759192086445C28D"
 			}
 			"internal_use"
 			{
@@ -707,15 +707,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "2D8A38FB7CF78034A7DA73E53FD4920A"
-				"size" "E09FB12CAC3FEC52B62717E0BB5098A1"
-				"download" "B166FA0D0FC6EBBF8F3C9E6C381FAECC"
+				"gid" "2EA18570E7FF1B2E63F7FE5F634EBF5C"
+				"size" "1E828874003EF7E300084D43AC8AE105"
+				"download" "4D14ECA5A27085D769F698ECE9C4F7F6"
 			}
 			"testing_junior"
 			{
-				"gid" "FC4129B3A33BE57FB521025D0570B9BD"
-				"size" "791B2D0837DFDE71BD7ADC5D1C21B724"
-				"download" "6D24EC35BDF3527DC44870BEE03DAC71"
+				"gid" "8912B850C497F927BE615D75C37D9A1F"
+				"size" "D88153CF2368DBD70CE26ADB0A615A09"
+				"download" "D6B19ACD58154352D91D712B61E23B33"
 			}
 		}
 	}
@@ -730,21 +730,21 @@
 		{
 			"public"
 			{
-				"gid" "2371455660938598561"
+				"gid" "578211316878011517"
 				"size" "54315496"
-				"download" "15717920"
+				"download" "15717888"
 			}
 			"public_beta"
 			{
-				"gid" "2371455660938598561"
+				"gid" "578211316878011517"
 				"size" "54315496"
-				"download" "15717920"
+				"download" "15717888"
 			}
 			"oculus"
 			{
-				"gid" "6102316265454190063"
+				"gid" "2968435683840922256"
 				"size" "55546808"
-				"download" "16169760"
+				"download" "16169600"
 			}
 			"oculus_previous"
 			{
@@ -901,9 +901,9 @@
 			}
 			"experimental"
 			{
-				"gid" "C635F38F9060D1A9A0D6ECF5B18CF02D"
+				"gid" "53298AF2EC659A410035AB6DB5FAD547"
 				"size" "F09B0B7E57EE57E8B530EA479AD7DD4D"
-				"download" "4DDA88A6256FBE87FC53B6055942EA89"
+				"download" "F59814858E1466492D20D0F6CBDDFD4D"
 			}
 			"experimental2"
 			{
@@ -919,9 +919,9 @@
 			}
 			"experimental4"
 			{
-				"gid" "86C9836EAAA2E8BA18F2C7D8A551E447"
+				"gid" "A4074B0F5DD35074C848B851B96B6C86"
 				"size" "B336794EB36A8FEBC397686A140E5571"
-				"download" "57DF0EED46EB38490AB90EC1D75AECB5"
+				"download" "FCE6559B4F2AFC8C0B078296C464AAD5"
 			}
 			"internal_use"
 			{
@@ -931,15 +931,15 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "FB70CAD1CD646655EEAF44176E6E0012"
+				"gid" "B31F1ABC33BCE33ABE79A00DC8A64423"
 				"size" "7ED4F8EBBEFE648F1434F0AAC6EF4CD5"
-				"download" "F9A737F7FEAD2A9459EEA07673532F5C"
+				"download" "45F8A1E20323273E6D151D13087154E5"
 			}
 			"testing_junior"
 			{
-				"gid" "D8647A2A762F1309A1E7173678D0A84C"
+				"gid" "08AE363F83C5ECA05DB76E3D69A68025"
 				"size" "C557574C42E9FE84F568F54A08D15978"
-				"download" "A6C5C7A88C2BABC5C0AF85013752172D"
+				"download" "22A9D73BD8722C23A482CCB639D6363A"
 			}
 		}
 	}
@@ -20141,21 +20141,21 @@
 		{
 			"public"
 			{
-				"gid" "7693395330283440241"
+				"gid" "6934944771950982406"
 				"size" "531763166"
-				"download" "520973552"
+				"download" "520973616"
 			}
 			"public_beta"
 			{
-				"gid" "7693395330283440241"
+				"gid" "6934944771950982406"
 				"size" "531763166"
-				"download" "520973552"
+				"download" "520973616"
 			}
 			"oculus"
 			{
-				"gid" "7693395330283440241"
+				"gid" "6934944771950982406"
 				"size" "531763166"
-				"download" "520973552"
+				"download" "520973616"
 			}
 			"temporary_1_53"
 			{
@@ -20174,9 +20174,9 @@
 		{
 			"experimental"
 			{
-				"gid" "98D69D66FBCB046A6A8A2981A7E483C6"
+				"gid" "29B7AF980ECE0E6F02208FA4C3F54EC3"
 				"size" "F9D2270D3846322EF027B04EEEEDC9CF"
-				"download" "83DCBE6DCDF48100C97FC566578FAF32"
+				"download" "5F2D735C5DE35F648F7830F4BBF49205"
 			}
 			"experimental2"
 			{
@@ -20192,21 +20192,21 @@
 			}
 			"experimental4"
 			{
-				"gid" "86E5E9FCFDA5A3CEFAE46C94FA7DAE92"
+				"gid" "4CB6D580851EE05F6BF87CE59B142941"
 				"size" "D566506DA26BE3A4CD71E2658BF57745"
-				"download" "21B13A7494752CBE781677CC693A4011"
+				"download" "60A47029FAFCFB6A0D9872F4E53110BA"
 			}
 			"testing_senior_e"
 			{
-				"gid" "968A8FD2E53AA428141642FA66FCA645"
+				"gid" "5012786B49D7B755C0C03E855A33A875"
 				"size" "5DD5A833A8C2E734E681A2CD9546475A"
-				"download" "441C409324B00A13118151389461B66E"
+				"download" "867D7675B7CE5C074F629F802CE12ABA"
 			}
 			"testing_junior"
 			{
-				"gid" "EA21DA528487446AD708062A73C810C8"
+				"gid" "D142E1549540E2DF2D9B1112C5035C76"
 				"size" "DB8CBD5C5834A7689AF023984EDC6449"
-				"download" "86A3E30078634ABE1740B46BAB285ECC"
+				"download" "09DECE0CC2C68508EBDA0BFCE7C10800"
 			}
 		}
 	}
@@ -20491,13 +20491,13 @@
 		{
 			"public"
 			{
-				"gid" "3929291663284007719"
+				"gid" "6312086033646729789"
 				"size" "0"
 				"download" "0"
 			}
 			"public_beta"
 			{
-				"gid" "3929291663284007719"
+				"gid" "6312086033646729789"
 				"size" "0"
 				"download" "0"
 			}
@@ -20512,7 +20512,7 @@
 		{
 			"experimental"
 			{
-				"gid" "90F073EC396A0C648C9BC5E1AD103733"
+				"gid" "A438481C70247E2795894A6AF3631D39"
 				"size" "AA77C018C6BB9A3ACA4665270C990005"
 				"download" "AA77C018C6BB9A3ACA4665270C990005"
 			}
@@ -20530,13 +20530,13 @@
 			}
 			"testing_senior_e"
 			{
-				"gid" "A06318F037D37C11891027F4E6E7D023"
+				"gid" "9937B55DAF775477E9FF1A83B3A7F8F2"
 				"size" "BF19608AC0ED467693DFA88A0EA19E87"
 				"download" "BF19608AC0ED467693DFA88A0EA19E87"
 			}
 			"testing_junior"
 			{
-				"gid" "1E570F2C24334C639D3B3261D5190873"
+				"gid" "7C369B8053ED18C219581D27EADC5B79"
 				"size" "6A396FA9E4CACA7F4CC0BDF249B9B557"
 				"download" "6A396FA9E4CACA7F4CC0BDF249B9B557"
 			}
@@ -20681,8 +20681,8 @@
 	{
 		"public"
 		{
-			"buildid" "16773350"
-			"timeupdated" "1734457901"
+			"buildid" "16798663"
+			"timeupdated" "1734686561"
 		}
 		"baseline"
 		{
@@ -20692,9 +20692,9 @@
 		}
 		"public_beta"
 		{
-			"buildid" "16773350"
+			"buildid" "16798663"
 			"description" "Open Beta for game version 1.53"
-			"timeupdated" "1734457837"
+			"timeupdated" "1734686531"
 		}
 		"tmp_branch"
 		{
@@ -20704,9 +20704,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "16773350"
+			"buildid" "16798663"
 			"pwdrequired" "1"
-			"timeupdated" "1734440543"
+			"timeupdated" "1734604084"
 		}
 		"experimental2"
 		{
@@ -20722,9 +20722,9 @@
 		}
 		"experimental4"
 		{
-			"buildid" "16780239"
+			"buildid" "16800264"
 			"pwdrequired" "1"
-			"timeupdated" "1734482894"
+			"timeupdated" "1734610345"
 		}
 		"internal_use"
 		{
@@ -20734,21 +20734,21 @@
 		}
 		"testing_senior_e"
 		{
-			"buildid" "16773350"
+			"buildid" "16798663"
 			"pwdrequired" "1"
-			"timeupdated" "1734457796"
+			"timeupdated" "1734621410"
 		}
 		"testing_junior"
 		{
-			"buildid" "16773350"
+			"buildid" "16798663"
 			"pwdrequired" "1"
-			"timeupdated" "1734457815"
+			"timeupdated" "1734621435"
 		}
 		"oculus"
 		{
-			"buildid" "16780239"
+			"buildid" "16800264"
 			"description" "Oculus+OpenVR+OpenXR - 1.53"
-			"timeupdated" "1734484320"
+			"timeupdated" "1734686586"
 		}
 		"oculus_previous"
 		{
@@ -20896,6 +20896,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26686929"
-"_sha" "03d8c90e21d4a1291e9da11ff264515eda9a6bf3"
-"_size" "434360"
+"_change_number" "26730090"
+"_sha" "932a3335776511e3e403cd80cc3884a67a07c7f1"
+"_size" "434358"
