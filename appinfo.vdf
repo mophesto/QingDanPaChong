@@ -104,6 +104,13 @@
 				"english" "d6f4ff1316d333eb7bea3e3458ffb2b8a8ed6ee4/library_hero_2x.jpg"
 			}
 		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "d6f4ff1316d333eb7bea3e3458ffb2b8a8ed6ee4/library_hero_blur.jpg"
+			}
+		}
 		"library_logo"
 		{
 			"image"
@@ -275,20 +282,20 @@
 	"gameid" "1218210"
 	"store_tags"
 	{
-		"0" "3834"
-		"1" "916648"
+		"0" "916648"
+		"1" "3834"
 		"2" "4434"
 		"3" "5652"
 		"4" "1677"
-		"5" "1775"
-		"6" "4325"
+		"5" "4325"
+		"6" "1775"
 		"7" "4747"
 		"8" "9"
 		"9" "3871"
 		"10" "1742"
 		"11" "122"
-		"12" "21"
-		"13" "3964"
+		"12" "3964"
+		"13" "21"
 		"14" "4726"
 		"15" "4305"
 		"16" "3859"
@@ -297,7 +304,7 @@
 		"19" "4026"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -342,9 +349,9 @@
 		{
 			"public"
 			{
-				"gid" "7051195946945120878"
-				"size" "1181054629"
-				"download" "837947200"
+				"gid" "1388881403330308287"
+				"size" "1182638830"
+				"download" "838154592"
 			}
 		}
 		"encryptedmanifests"
@@ -422,8 +429,8 @@
 	{
 		"public"
 		{
-			"buildid" "15902104"
-			"timeupdated" "1727871053"
+			"buildid" "16816204"
+			"timeupdated" "1734710418"
 		}
 		"beta"
 		{
@@ -452,6 +459,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25495175"
-"_sha" "a86cd44568b73a49654d2dd3f67d270149f7c3d5"
-"_size" "8512"
+"_change_number" "26735937"
+"_sha" "0b06d12663920b16073b9154c510faf38ac5f4c3"
+"_size" "8651"
