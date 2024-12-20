@@ -322,7 +322,7 @@
 	"developer" "Klei Entertainment"
 	"publisher" "Klei Entertainment"
 	"homepage" "http://www.dontstarvegame.com"
-	"listofdlc" "798740,798750,840750,840760,840770,962960,974740,981700,981701,981702,987340,1051700,1084430,1167330,1167510,1172860,1205500,1205501,1230830,1272440,1289760,1338540,1447360,1485060,1522880,1558300,1612410,1694780,1698560,1710240,1710241,1836630,1874370,1899050,2007370,2058280,2058281,2132800,2170670,2170671,2236180,2241030,2377640,2711510,2769680,3155070"
+	"listofdlc" "798740,798750,840750,840760,840770,962960,974740,981700,981701,981702,987340,1051700,1084430,1167330,1167510,1172860,1205500,1205501,1230830,1272440,1289760,1338540,1447360,1485060,1522880,1558300,1612410,1694780,1698560,1710240,1710241,1836630,1874370,1899050,2007370,2058280,2058281,2132800,2170670,2170671,2236180,2241030,2377640,2711510,2769680,3155070,3373360,3373370"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -483,9 +483,9 @@
 		{
 			"public"
 			{
-				"gid" "6304889834781323282"
-				"size" "3846408538"
-				"download" "2689215072"
+				"gid" "5784882010067064889"
+				"size" "3878965919"
+				"download" "2705680688"
 			}
 			"beforemacoschanges"
 			{
@@ -495,9 +495,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "7648281840588143822"
-				"size" "3751926525"
-				"download" "2632677952"
+				"gid" "3795364999563389816"
+				"size" "3947408003"
+				"download" "2749471120"
 			}
 		}
 		"encryptedmanifests"
@@ -570,21 +570,21 @@
 			}
 			"dev"
 			{
-				"gid" "3BA53D22A86FD0BE2C2C424CE0ABB53C"
-				"size" "11A32470EEF951DD4F39921F6A83CD2F"
-				"download" "BC03BF03CE5A2E739D43862A100E4BF0"
+				"gid" "CC07F9779C3CFAE55211B78C3A69C6C5"
+				"size" "3A4EE0BAEED52042253875F408CF5367"
+				"download" "28FA847F25CD78A503E63D2FABA8F55B"
 			}
 			"release"
 			{
-				"gid" "A79FFAADAEB6FA04C4D84D1CCC4C0F19"
-				"size" "700D93D7EE2308E48F32D8BEDF7824AB"
-				"download" "1E648F32AFFFB7BBEB383A7AD55EA2BF"
+				"gid" "56832D596CB5A5C49D4BC2E5FAEB0609"
+				"size" "78CC3FBE9877BBC610BCB45CB4B48623"
+				"download" "0089F700D836B977B2D701E714650211"
 			}
 			"staging"
 			{
-				"gid" "A3F956792FA08C497667A1752873901F"
-				"size" "412B32CB78A1F4C329471D07F4288873"
-				"download" "68CAD893707E199B38AE4AC07EF22F31"
+				"gid" "AF66EF2E518E3EEF43110801BBB49F05"
+				"size" "BE5BB28F8F0361733B4671B544424540"
+				"download" "7AD5276908CF7D2FD7D5DE18CE8610A2"
 			}
 			"test_vito"
 			{
@@ -610,9 +610,9 @@
 		{
 			"public"
 			{
-				"gid" "4397181795626194882"
-				"size" "3726770126"
-				"download" "2575944336"
+				"gid" "9068447179103499305"
+				"size" "3759327970"
+				"download" "2592424256"
 			}
 			"beforemacoschanges"
 			{
@@ -622,9 +622,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "4841332508790141695"
-				"size" "3632287486"
-				"download" "2519419472"
+				"gid" "8965253914729175744"
+				"size" "3827771473"
+				"download" "2636217520"
 			}
 		}
 		"encryptedmanifests"
@@ -697,21 +697,21 @@
 			}
 			"dev"
 			{
-				"gid" "B9CFB949EAF1D069F67AADEF38C8E041"
-				"size" "F25D9724A169BEE822F658212E6118ED"
-				"download" "8A7E488725AFA74536C3831CB5A70DC5"
+				"gid" "BC4884DC42079EBF42EA61926BCA6551"
+				"size" "127F74A582A90C69E24BACD310A6DE28"
+				"download" "CABC044C93513FF0632BF7A4A5C79EF5"
 			}
 			"release"
 			{
-				"gid" "2C62ED358D32EDABDC548E6AE30226E7"
-				"size" "86366C9B668DD691C1C7EE4C0745E8DA"
-				"download" "F4E3C8CB07F6B9A34B6FC0A20962FAD3"
+				"gid" "3E040D3C35B1ABB478B5F1CC8762CE6F"
+				"size" "17D088A118E7FF489AB66B0406DA4486"
+				"download" "7A2BB222044E81004DFE243E08622846"
 			}
 			"staging"
 			{
-				"gid" "EDA5723E8A32AECB8CACCB26D1D7B618"
-				"size" "AACF0D5BFFAD17800FDC3F2E1F224998"
-				"download" "A3A9F2B12CB64219ABDB09B4761BDDC5"
+				"gid" "2036E04B44E6CA5E8211EF149013FBE7"
+				"size" "8D97989EFE37436EC8B7DB3651B460E2"
+				"download" "73DF350BED3C31C47E708A6AABBDC04C"
 			}
 			"test_vito"
 			{
@@ -737,9 +737,9 @@
 		{
 			"public"
 			{
-				"gid" "8019385726195896342"
-				"size" "3705299255"
-				"download" "2570719024"
+				"gid" "3451169990226536868"
+				"size" "3737864683"
+				"download" "2587186848"
 			}
 			"beforemacoschanges"
 			{
@@ -749,9 +749,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "3362926406336964580"
-				"size" "3610792635"
-				"download" "2514179648"
+				"gid" "1947635790921535729"
+				"size" "3806305835"
+				"download" "2630982032"
 			}
 		}
 		"encryptedmanifests"
@@ -824,21 +824,21 @@
 			}
 			"dev"
 			{
-				"gid" "D44F258C6A55AE60A35B284DD1596788"
-				"size" "5C9FDF99643844393BADF8D5C9F1B0F7"
-				"download" "3CC60E74BEDB77A864561C93B7C0D154"
+				"gid" "3DACEA3B6071A89A7E8EBCA71F7AC602"
+				"size" "3B43F80AC79CF33EBB641FE96F2A9719"
+				"download" "3B00183B4CA36D830E4999B70A15A52D"
 			}
 			"release"
 			{
-				"gid" "AA41AB19E50F7528B0C4B71628FB17BA"
-				"size" "19CBC2B9B21C34F452F53AEAFD92A581"
-				"download" "76573A19CD7ECAC2643CC6C70836410C"
+				"gid" "96E5FC0848E0B493F5CB936AEE64C78F"
+				"size" "824E5C5F0F4A77F3B96577396B493A8D"
+				"download" "CD1F05C4B82170733B44D817C3072751"
 			}
 			"staging"
 			{
-				"gid" "14C7D45D751E8E721BBF323B31A23ED1"
-				"size" "B7B8E26DFBFE3D9E62951874E42B3F88"
-				"download" "7A06FEA126C675D90C3C5BB0EBDE60D7"
+				"gid" "94ECBAB63FEEB405A7DD58FB5675F161"
+				"size" "D22FB62D9B9B4B8BDD07216FB0D16D48"
+				"download" "DF7C294B454F561E5C52DA6765B1D2DB"
 			}
 			"test_vito"
 			{
@@ -859,8 +859,8 @@
 	{
 		"public"
 		{
-			"buildid" "16244386"
-			"timeupdated" "1730398002"
+			"buildid" "16807873"
+			"timeupdated" "1734655136"
 		}
 		"archive"
 		{
@@ -936,21 +936,21 @@
 		}
 		"dev"
 		{
-			"buildid" "16250347"
+			"buildid" "16800259"
 			"pwdrequired" "1"
-			"timeupdated" "1730372027"
+			"timeupdated" "1734609832"
 		}
 		"release"
 		{
-			"buildid" "16244386"
+			"buildid" "16807873"
 			"pwdrequired" "1"
-			"timeupdated" "1730329475"
+			"timeupdated" "1734654105"
 		}
 		"staging"
 		{
-			"buildid" "15609229"
+			"buildid" "16805061"
 			"pwdrequired" "1"
-			"timeupdated" "1725577582"
+			"timeupdated" "1734635907"
 		}
 		"test_vito"
 		{
@@ -966,9 +966,9 @@
 		}
 		"updatebeta"
 		{
-			"buildid" "15609229"
+			"buildid" "16805061"
 			"description" "Public Beta"
-			"timeupdated" "1725579646"
+			"timeupdated" "1734636648"
 		}
 	}
 }
@@ -1022,6 +1022,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25994609"
-"_sha" "eaead550bd465420b4cdb8142c655813042c61ec"
-"_size" "22655"
+"_change_number" "26724467"
+"_sha" "cda6370caf3c058cb2860e4cd87d30c31696b0f1"
+"_size" "22671"
