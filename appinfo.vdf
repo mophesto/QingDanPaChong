@@ -88,6 +88,55 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "59.29697035048409"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1700128119"
 	"associations"
 	{
@@ -220,7 +269,9 @@
 		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "89"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "90"
 }
 "extended"
 {
@@ -257,15 +308,15 @@
 		{
 			"public"
 			{
-				"gid" "5808780876992243371"
-				"size" "15261982997"
-				"download" "4784808480"
+				"gid" "2611284416388774930"
+				"size" "15013457460"
+				"download" "4786095296"
 			}
 			"alpha"
 			{
-				"gid" "5808780876992243371"
-				"size" "15261982997"
-				"download" "4784808480"
+				"gid" "226715783675169197"
+				"size" "15023189752"
+				"download" "4790992672"
 			}
 		}
 		"encryptedmanifests"
@@ -290,9 +341,9 @@
 			}
 			"internal"
 			{
-				"gid" "BCD4055006A8310DA22FCE085789199C"
-				"size" "ACB9309DC451087BCFEF5EDE36BF26B2"
-				"download" "401869C7362C97EC6FC99BC5A89D89A1"
+				"gid" "A3C456B7B9ED348F14D1D435672AD7C8"
+				"size" "05502E20102CC26691520A8AE778A1BC"
+				"download" "F293625C3986959C6B242E6B0B2CFD99"
 			}
 			"mazing"
 			{
@@ -310,8 +361,8 @@
 	{
 		"public"
 		{
-			"buildid" "15365153"
-			"timeupdated" "1723620853"
+			"buildid" "16827219"
+			"timeupdated" "1734844527"
 		}
 		"ancient"
 		{
@@ -333,15 +384,15 @@
 		}
 		"alpha"
 		{
-			"buildid" "15365153"
+			"buildid" "16825638"
 			"description" "For testing the latest version"
-			"timeupdated" "1723620861"
+			"timeupdated" "1734824740"
 		}
 		"internal"
 		{
-			"buildid" "15334051"
+			"buildid" "16825638"
 			"pwdrequired" "1"
-			"timeupdated" "1723381400"
+			"timeupdated" "1734844538"
 		}
 		"mazing"
 		{
@@ -380,6 +431,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24779362"
-"_sha" "87aa59f281dff70df77db2ccb078f9bab89a5669"
-"_size" "7133"
+"_change_number" "26751134"
+"_sha" "6880dd46ac413e666d8c696c2d2f5e8025562b12"
+"_size" "8128"
