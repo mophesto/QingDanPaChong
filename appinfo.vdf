@@ -159,7 +159,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730826261"
+	"store_asset_mtime" "1732193164"
 	"associations"
 	{
 		"0"
@@ -238,15 +238,15 @@
 		"11" "1684"
 		"12" "6730"
 		"13" "4325"
-		"14" "4182"
-		"15" "14139"
+		"14" "14139"
+		"15" "4182"
 		"16" "1708"
-		"17" "4136"
-		"18" "1716"
+		"17" "1716"
+		"18" "4136"
 		"19" "1742"
 	}
 	"review_score" "6"
-	"review_percentage" "71"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -281,15 +281,15 @@
 		{
 			"public"
 			{
-				"gid" "1405270676337805598"
-				"size" "577565538"
-				"download" "440251392"
+				"gid" "448527345798789685"
+				"size" "578364876"
+				"download" "440701616"
 			}
 			"crossblitz_beta"
 			{
-				"gid" "7785236912300366849"
-				"size" "577565426"
-				"download" "440249552"
+				"gid" "8260746116214924868"
+				"size" "578365045"
+				"download" "440693232"
 			}
 		}
 		"encryptedmanifests"
@@ -308,15 +308,15 @@
 			}
 			"backup"
 			{
-				"gid" "654623C0C9D78E1E1722F13A8DE50F18"
-				"size" "2AC94C548EE70F0AD9DFD3810A1403D9"
-				"download" "EF22CFF7878BA49D0BE04818EB3CB8F8"
+				"gid" "DAEC33A54353487E84C41458F58CD83C"
+				"size" "0DAB23C0102CA3092F39A99EB875642D"
+				"download" "F8FA79130E2D05BF881382B3CEAA24A8"
 			}
 			"compat"
 			{
-				"gid" "D7356D0F17C7D943045A9E64AA09BCF1"
-				"size" "2F4B5E1FA8BE1620A8C7DFE9D5E007FC"
-				"download" "D36AB553E4C5D6DC58CA0BFE4778B3ED"
+				"gid" "BFC261DF3DCE61A5196A71E085373E58"
+				"size" "676490496313F093505C08D03A480355"
+				"download" "94CFC753E5A1375D81BB7E42CDCE63A7"
 			}
 			"developer"
 			{
@@ -326,15 +326,15 @@
 			}
 			"gamera"
 			{
-				"gid" "6AA22B48ACE0CBA84EC2ED0546371828"
-				"size" "79FFC20263D926AAE107D22B838358DB"
-				"download" "EF88731396ED6F54C029C8816AB45449"
+				"gid" "BD6653567778293C8F1F5DACF538C45A"
+				"size" "37CB93ED8D5BE9346EF75E8064D0E01F"
+				"download" "2FD493C6C569DFF5D58F6FBCE673FDB5"
 			}
 			"qaintern"
 			{
-				"gid" "CBDF1279C71167CF2D455A3C4EABEE2D"
-				"size" "4B93EC41C2F8F2F731F3D6F1BF53E975"
-				"download" "FB4D780168D0A2301FE142AD020F9368"
+				"gid" "43A36A2F5AE23D8E734FBF373C7862E0"
+				"size" "2C875E0E6A332E2620F58400E01717BE"
+				"download" "619D83ACB3F3A3ECE98D33B37C20AC58"
 			}
 		}
 	}
@@ -342,8 +342,8 @@
 	{
 		"public"
 		{
-			"buildid" "16322255"
-			"timeupdated" "1730992899"
+			"buildid" "16782910"
+			"timeupdated" "1734967216"
 		}
 		"external"
 		{
@@ -359,21 +359,21 @@
 		}
 		"backup"
 		{
-			"buildid" "16322255"
+			"buildid" "16782910"
 			"pwdrequired" "1"
-			"timeupdated" "1730970254"
+			"timeupdated" "1734512371"
 		}
 		"compat"
 		{
-			"buildid" "15873068"
+			"buildid" "16401356"
 			"pwdrequired" "1"
-			"timeupdated" "1727771050"
+			"timeupdated" "1733909655"
 		}
 		"crossblitz_beta"
 		{
-			"buildid" "16322249"
+			"buildid" "16782906"
 			"description" "Beta branch of Cross Blitz, open to the public"
-			"timeupdated" "1730992867"
+			"timeupdated" "1734967203"
 		}
 		"developer"
 		{
@@ -383,15 +383,15 @@
 		}
 		"gamera"
 		{
-			"buildid" "16269048"
+			"buildid" "16782901"
 			"pwdrequired" "1"
-			"timeupdated" "1730710883"
+			"timeupdated" "1734519927"
 		}
 		"qaintern"
 		{
-			"buildid" "16289080"
+			"buildid" "16782901"
 			"pwdrequired" "1"
-			"timeupdated" "1730985565"
+			"timeupdated" "1734960592"
 		}
 	}
 }
@@ -429,6 +429,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26091597"
-"_sha" "255bfee035050c5533b060e250e41f4bccfe947f"
-"_size" "8477"
+"_change_number" "26763938"
+"_sha" "0929ce4c402adc83f8139515bd2e4fd6942c8d81"
+"_size" "8476"
