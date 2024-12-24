@@ -391,9 +391,9 @@
 		{
 			"public"
 			{
-				"gid" "1647405533231298659"
+				"gid" "6820642489774015215"
 				"size" "42154307233"
-				"download" "40963151408"
+				"download" "40962117648"
 			}
 		}
 		"encryptedmanifests"
@@ -418,9 +418,9 @@
 		{
 			"public"
 			{
-				"gid" "4678415268500187360"
-				"size" "641899170"
-				"download" "336178048"
+				"gid" "4921491003627432092"
+				"size" "642271394"
+				"download" "336887424"
 			}
 		}
 		"encryptedmanifests"
@@ -443,8 +443,8 @@
 	{
 		"public"
 		{
-			"buildid" "16770128"
-			"timeupdated" "1734480096"
+			"buildid" "16832561"
+			"timeupdated" "1735005686"
 		}
 		"valvetest"
 		{
@@ -461,6 +461,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26686272"
-"_sha" "d8c96ea3fcae423a7931cb362157078e2045a503"
+"_change_number" "26768652"
+"_sha" "3ee73283f4342d6a418f5e7e12d89b3295451111"
 "_size" "8483"
