@@ -248,6 +248,10 @@
 		{
 			"supported" "true"
 		}
+		"latam"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1652356859"
 	"community_visible_stats" "1"
@@ -351,15 +355,21 @@
 		{
 			"public"
 			{
-				"gid" "5532300989733187641"
-				"size" "111586389"
-				"download" "103500288"
+				"gid" "613716044159384543"
+				"size" "111782575"
+				"download" "103538464"
 			}
 			"v1.39"
 			{
 				"gid" "5181111827735820082"
 				"size" "75894205"
 				"download" "66188192"
+			}
+			"v1.245c"
+			{
+				"gid" "2533666272265567767"
+				"size" "53138645"
+				"download" "30573840"
 			}
 		}
 	}
@@ -372,6 +382,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "4025277516236744241"
+				"size" "109977092"
+				"download" "102440928"
+			}
+			"v1.245c"
 			{
 				"gid" "679777779221245838"
 				"size" "109784502"
@@ -389,6 +405,12 @@
 		{
 			"public"
 			{
+				"gid" "6084456161401797877"
+				"size" "113445333"
+				"download" "102825248"
+			}
+			"v1.245c"
+			{
 				"gid" "6811465580899842243"
 				"size" "113330075"
 				"download" "102798688"
@@ -399,14 +421,20 @@
 	{
 		"public"
 		{
-			"buildid" "16082783"
-			"timeupdated" "1729176142"
+			"buildid" "16838322"
+			"timeupdated" "1734992989"
 		}
 		"v1.39"
 		{
 			"buildid" "12284753"
 			"description" "old art, pre modding update, pre-controller support"
 			"timeupdated" "1705939696"
+		}
+		"v1.245c"
+		{
+			"buildid" "16191535"
+			"description" "really old version with the oldest mod support the game ever had (windows only)"
+			"timeupdated" "1729948875"
 		}
 	}
 }
@@ -452,6 +480,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25768920"
-"_sha" "419ff89f7bddc29f84ac6a18fb551fd105b12bcc"
-"_size" "7599"
+"_change_number" "26767129"
+"_sha" "11fd617983f3fa7557a679f1892639d11c79ea9e"
+"_size" "8165"
