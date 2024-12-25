@@ -73,6 +73,7 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"metacritic_name" "Dungeon Drafters"
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -98,6 +99,63 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "36.498773388459014"
 			"height_pct" "88.54249588386867"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.498773388459014"
+				"height_pct" "88.54249588386867"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
 		}
 	}
 	"store_asset_mtime" "1717483896"
@@ -193,6 +251,8 @@
 		}
 	}
 	"steam_release_date" "1682604046"
+	"metacritic_score" "75"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dungeon-drafters\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1824580"
@@ -220,7 +280,7 @@
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "76"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -277,18 +337,18 @@
 		{
 			"public"
 			{
-				"gid" "7299570982564146951"
-				"size" "1291940267"
-				"download" "320054464"
+				"gid" "5473360497449689884"
+				"size" "1292200902"
+				"download" "320168352"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devtest"
 			{
-				"gid" "B5F21A21C1E9AA862519C7045142CDF2"
-				"size" "AFFDED3F4E63A08A65267CBADF014093"
-				"download" "7EC13C143CB4E6C35100AFE5E2251017"
+				"gid" "20310AA3B7D3E640BDD94CA24E6C425D"
+				"size" "F9B4F0A7BB582784659A2EEA499A4AA7"
+				"download" "B69F9B866630CDBC6ADDFE882EBD695D"
 			}
 		}
 	}
@@ -303,18 +363,18 @@
 		{
 			"public"
 			{
-				"gid" "6517153184824152629"
-				"size" "1311367207"
-				"download" "319053776"
+				"gid" "3340908909622336103"
+				"size" "1311737964"
+				"download" "319090224"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devtest"
 			{
-				"gid" "341C0B2193FE4E1BD7AEAB0AE393CD45"
-				"size" "B51B706F9292E4E53A941D32A3390CBB"
-				"download" "6F1DB5F59E8536BCF8A06479E22CEE00"
+				"gid" "EE41C3C31138423E6533BF18CAA27C82"
+				"size" "D602276C94859542FA4674BE930F25F4"
+				"download" "0DB03718E1F93AA84F7CEFD845FB017D"
 			}
 		}
 	}
@@ -344,14 +404,14 @@
 	{
 		"public"
 		{
-			"buildid" "14774722"
-			"timeupdated" "1718845629"
+			"buildid" "16844054"
+			"timeupdated" "1735059174"
 		}
 		"devtest"
 		{
-			"buildid" "14774722"
+			"buildid" "16844054"
 			"pwdrequired" "1"
-			"timeupdated" "1718842329"
+			"timeupdated" "1735056415"
 		}
 	}
 }
@@ -396,6 +456,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24042095"
-"_sha" "21e5e5fe7d17c7cd1baa6d0aeae210b776bdaa12"
-"_size" "7257"
+"_change_number" "26774806"
+"_sha" "7281ba85bebc3279c83bf488b910533a9bf2dc47"
+"_size" "8490"
