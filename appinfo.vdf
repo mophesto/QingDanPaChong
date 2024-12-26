@@ -233,6 +233,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1642755028"
 	"community_visible_stats" "1"
@@ -261,8 +266,8 @@
 		"18" "9130"
 		"19" "15172"
 	}
-	"review_score" "9"
-	"review_percentage" "95"
+	"review_score" "8"
+	"review_percentage" "94"
 }
 "extended"
 {
@@ -308,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "8677877362867046400"
-				"size" "1330472892"
-				"download" "933426768"
+				"gid" "2370845210842902276"
+				"size" "1343949689"
+				"download" "934137088"
 			}
 		}
 		"encryptedmanifests"
@@ -323,15 +328,15 @@
 			}
 			"develop"
 			{
-				"gid" "12810E49624B5218B6E8FCF120B4BA23"
-				"size" "019EBCB401196945BD5ADB175B1EC01F"
-				"download" "7C3A70CB0E54E7D36752165F1AEBC50E"
+				"gid" "95C6232129ADC8085936BEEACBB3F987"
+				"size" "3945EB3192ED8F27D3D46AA6F43FAA1D"
+				"download" "BE077E053F4222B4549611D7B3CB2993"
 			}
 			"develop_test"
 			{
-				"gid" "331CCA981D0B3F65856608CC2F8CC847"
-				"size" "AAD6B01E677345714CFFFB4280E25B62"
-				"download" "F0A5B868CAFBB3DA9399E770B2631B91"
+				"gid" "39FADCF13C8B39661A315A5B508C8F66"
+				"size" "C4B7E909EDC70B84C9A2DBA1A4478989"
+				"download" "8DC9338367F684BFABA5E395755998DA"
 			}
 			"release_check"
 			{
@@ -412,8 +417,8 @@
 	{
 		"public"
 		{
-			"buildid" "16146878"
-			"timeupdated" "1730164621"
+			"buildid" "16851353"
+			"timeupdated" "1735201174"
 		}
 		"test"
 		{
@@ -423,15 +428,15 @@
 		}
 		"develop"
 		{
-			"buildid" "15766789"
+			"buildid" "16847592"
 			"pwdrequired" "1"
-			"timeupdated" "1726814253"
+			"timeupdated" "1735111002"
 		}
 		"develop_test"
 		{
-			"buildid" "16146878"
+			"buildid" "16851353"
 			"pwdrequired" "1"
-			"timeupdated" "1729665678"
+			"timeupdated" "1735173789"
 		}
 		"release_check"
 		{
@@ -454,6 +459,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25941995"
-"_sha" "6c8d4157e6b0f0a5efc341e8be908f5fd17875c2"
-"_size" "9035"
+"_change_number" "26786832"
+"_sha" "7921e089606f42bcfc96b73631222fae1b7da9b5"
+"_size" "9106"
