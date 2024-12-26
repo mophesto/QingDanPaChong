@@ -195,6 +195,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_29" "1"
+		"category_43" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -337,18 +338,18 @@
 		{
 			"public"
 			{
-				"gid" "5473360497449689884"
-				"size" "1292200902"
-				"download" "320168352"
+				"gid" "332970329628117927"
+				"size" "1292200718"
+				"download" "320148160"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devtest"
 			{
-				"gid" "20310AA3B7D3E640BDD94CA24E6C425D"
-				"size" "F9B4F0A7BB582784659A2EEA499A4AA7"
-				"download" "B69F9B866630CDBC6ADDFE882EBD695D"
+				"gid" "A996D811B6867760ED480862BCE7B76D"
+				"size" "6F4DC83013B737A9E085B20763FA1F12"
+				"download" "D17DE1A4CB8EDA0F551987F86744BD1D"
 			}
 		}
 	}
@@ -363,18 +364,18 @@
 		{
 			"public"
 			{
-				"gid" "3340908909622336103"
-				"size" "1311737964"
-				"download" "319090224"
+				"gid" "6750480851727866717"
+				"size" "1311738260"
+				"download" "319087680"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devtest"
 			{
-				"gid" "EE41C3C31138423E6533BF18CAA27C82"
-				"size" "D602276C94859542FA4674BE930F25F4"
-				"download" "0DB03718E1F93AA84F7CEFD845FB017D"
+				"gid" "46D26C27BB201923D418087C6ED245E2"
+				"size" "C72F37E090A9F6FAFF8075DA4EDD0677"
+				"download" "149D898D98810D27900423010F2A5CD7"
 			}
 		}
 	}
@@ -404,14 +405,14 @@
 	{
 		"public"
 		{
-			"buildid" "16844054"
-			"timeupdated" "1735059174"
+			"buildid" "16851298"
+			"timeupdated" "1735173278"
 		}
 		"devtest"
 		{
-			"buildid" "16844054"
+			"buildid" "16851298"
 			"pwdrequired" "1"
-			"timeupdated" "1735056415"
+			"timeupdated" "1735172475"
 		}
 	}
 }
@@ -456,6 +457,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26774806"
-"_sha" "7281ba85bebc3279c83bf488b910533a9bf2dc47"
-"_size" "8490"
+"_change_number" "26784376"
+"_sha" "f72fce1ff666ac30d5d8beb4303feaaa53161cb4"
+"_size" "8511"
