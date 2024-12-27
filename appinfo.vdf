@@ -27,8 +27,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1730246400"
-		"tested_build_id" "16104441"
+		"test_timestamp" "1732147200"
+		"tested_build_id" "16324218"
 		"tests"
 		{
 			"0"
@@ -68,6 +68,8 @@
 			"hdr_support" "0"
 		}
 	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -132,7 +134,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1712914770"
+	"store_asset_mtime" "1734606647"
 	"associations"
 	{
 		"0"
@@ -174,6 +176,9 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_30" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_59" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -199,7 +204,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1685099497"
+	"steam_release_date" "1685099460"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
@@ -234,7 +239,7 @@
 {
 	"developer" "鬼谷工作室"
 	"publisher" "鬼谷工作室"
-	"listofdlc" "2408730"
+	"listofdlc" "2408730,3294480,3326620"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -290,9 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "4443354555709099627"
-				"size" "25790701515"
-				"download" "5595259776"
+				"gid" "534180666742200044"
+				"size" "28739776278"
+				"download" "6362919152"
 			}
 		}
 		"encryptedmanifests"
@@ -347,21 +352,27 @@
 			}
 			"dev_test"
 			{
-				"gid" "A05E4C5C8304959B134E00C080C04EE6"
-				"size" "10812E73D738B6488ED2EB63D6006045"
-				"download" "B65E64923D93C8B635F9714D0F43CDA1"
+				"gid" "D2B84C171E25FF8FC44B167D2DD2FC2B"
+				"size" "712E5EEE5DF14C89BC1F9672123D6BD2"
+				"download" "CAB498B04AD39F311FB3A6E292431EA2"
 			}
 			"inside"
 			{
-				"gid" "21653EE460829BBE2A28F974ADE118AD"
-				"size" "9511EB7DE1A2B38979B19352AB34EB25"
-				"download" "4F946DE33DE4D75D3B3295EC49662726"
+				"gid" "3E329216F81A7D4A8E84C59C2EDF82A0"
+				"size" "4AA8FD86FFEFDC9329BE0324586F0D91"
+				"download" "5EA0BF98E99931F6CE074F8CCDADD4D5"
 			}
 			"jinhua_dlctest"
 			{
 				"gid" "4CA8C19CA233685EF439B32A01BE69E3"
 				"size" "4D733B91F4611E5EE0242F7E323B84B5"
 				"download" "F0FD13B220677E6AF58247C328C02694"
+			}
+			"steam_test_12_20"
+			{
+				"gid" "965F5A6BCAECA0AAD5645FB89435664A"
+				"size" "1E1922C148D3A1E84408F44463351795"
+				"download" "23894D24BCA6F45532AB5952BC20BD60"
 			}
 		}
 	}
@@ -374,8 +385,8 @@
 	{
 		"public"
 		{
-			"buildid" "16547431"
-			"timeupdated" "1732682436"
+			"buildid" "16855572"
+			"timeupdated" "1735264937"
 		}
 		"inside_debug"
 		{
@@ -427,21 +438,27 @@
 		}
 		"dev_test"
 		{
-			"buildid" "13324096"
+			"buildid" "16859005"
 			"pwdrequired" "1"
-			"timeupdated" "1732503717"
+			"timeupdated" "1735285137"
 		}
 		"inside"
 		{
-			"buildid" "16547431"
+			"buildid" "16855572"
 			"pwdrequired" "1"
-			"timeupdated" "1732680996"
+			"timeupdated" "1735262887"
 		}
 		"jinhua_dlctest"
 		{
 			"buildid" "16467917"
 			"pwdrequired" "1"
 			"timeupdated" "1732082900"
+		}
+		"steam_test_12_20"
+		{
+			"buildid" "16852739"
+			"pwdrequired" "1"
+			"timeupdated" "1735202069"
 		}
 	}
 }
@@ -461,6 +478,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26379204"
-"_sha" "e6bc57269d17a94250a88ac83b02212416363e1a"
-"_size" "9200"
+"_change_number" "26794863"
+"_sha" "5018f5f5fdab5f72b8ae9d57164f193a3fe8ee8c"
+"_size" "9636"
