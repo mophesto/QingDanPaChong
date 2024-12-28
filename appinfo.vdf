@@ -295,9 +295,9 @@
 		{
 			"public"
 			{
-				"gid" "534180666742200044"
-				"size" "28739776278"
-				"download" "6362919152"
+				"gid" "2113943261627604168"
+				"size" "28943478655"
+				"download" "6387233408"
 			}
 		}
 		"encryptedmanifests"
@@ -352,27 +352,21 @@
 			}
 			"dev_test"
 			{
-				"gid" "D2B84C171E25FF8FC44B167D2DD2FC2B"
-				"size" "712E5EEE5DF14C89BC1F9672123D6BD2"
-				"download" "CAB498B04AD39F311FB3A6E292431EA2"
+				"gid" "F8EF2480953452EB063195DEADB955DA"
+				"size" "3F02572EEE488CED7E8D4A1CC111A467"
+				"download" "14611C7E3D29EC652AAFE106701B4F18"
 			}
 			"inside"
 			{
-				"gid" "3E329216F81A7D4A8E84C59C2EDF82A0"
-				"size" "4AA8FD86FFEFDC9329BE0324586F0D91"
-				"download" "5EA0BF98E99931F6CE074F8CCDADD4D5"
+				"gid" "1317F0A3FFF6541FA668BA481578957D"
+				"size" "BD8D59C5C3CA048468DE2568C344EA75"
+				"download" "3D487AC8208B5787882CFF64EBDA444C"
 			}
 			"jinhua_dlctest"
 			{
 				"gid" "4CA8C19CA233685EF439B32A01BE69E3"
 				"size" "4D733B91F4611E5EE0242F7E323B84B5"
 				"download" "F0FD13B220677E6AF58247C328C02694"
-			}
-			"steam_test_12_20"
-			{
-				"gid" "965F5A6BCAECA0AAD5645FB89435664A"
-				"size" "1E1922C148D3A1E84408F44463351795"
-				"download" "23894D24BCA6F45532AB5952BC20BD60"
 			}
 		}
 	}
@@ -385,8 +379,8 @@
 	{
 		"public"
 		{
-			"buildid" "16855572"
-			"timeupdated" "1735264937"
+			"buildid" "16865289"
+			"timeupdated" "1735386049"
 		}
 		"inside_debug"
 		{
@@ -438,27 +432,21 @@
 		}
 		"dev_test"
 		{
-			"buildid" "16859005"
+			"buildid" "16547431"
 			"pwdrequired" "1"
-			"timeupdated" "1735285137"
+			"timeupdated" "1735297332"
 		}
 		"inside"
 		{
-			"buildid" "16855572"
+			"buildid" "16866559"
 			"pwdrequired" "1"
-			"timeupdated" "1735262887"
+			"timeupdated" "1735401620"
 		}
 		"jinhua_dlctest"
 		{
 			"buildid" "16467917"
 			"pwdrequired" "1"
 			"timeupdated" "1732082900"
-		}
-		"steam_test_12_20"
-		{
-			"buildid" "16852739"
-			"pwdrequired" "1"
-			"timeupdated" "1735202069"
 		}
 	}
 }
@@ -478,6 +466,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26794863"
-"_sha" "5018f5f5fdab5f72b8ae9d57164f193a3fe8ee8c"
-"_size" "9636"
+"_change_number" "26805204"
+"_sha" "974005778aeca64d7c7d3ebe45f431b66b9f951e"
+"_size" "9342"
