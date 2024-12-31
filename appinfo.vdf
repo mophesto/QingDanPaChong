@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "5835708740877160707"
-				"size" "2676506978"
-				"download" "2440238304"
+				"gid" "1677943219140514682"
+				"size" "2676497112"
+				"download" "2440203744"
 			}
 		}
 		"encryptedmanifests"
@@ -340,15 +340,15 @@
 			}
 			"develop_test"
 			{
-				"gid" "8FF203048369ACC7CC070F7113A621D2"
-				"size" "B81C1684AD5C767E5AC1346DB3E90123"
-				"download" "DCCAE87185B1AC57000EE1AC1A015F5C"
+				"gid" "FD39C04873214E806269F1B581B60F0D"
+				"size" "422CDADC0BAACE996EC4F9BE43D3B37C"
+				"download" "CCF704C36837A0024A8D5061F6932E17"
 			}
 			"innertest"
 			{
-				"gid" "1735BB1966964EAB508000F6183527A8"
-				"size" "B03BD1A231D480BD89079C2986F106C3"
-				"download" "100437ABCDDA565A744E89C815164BE4"
+				"gid" "BAA50A77FB8F036C20EC28A716F8EC08"
+				"size" "D0A62A7DDA93103CF9E935E9EE8ECA8C"
+				"download" "EF7E81B9107F3D4EA757D4BD0D695085"
 			}
 			"language_test"
 			{
@@ -358,9 +358,9 @@
 			}
 			"outertest"
 			{
-				"gid" "F4F62C84A5D5912BCAAE609BBED7D26A"
-				"size" "99F57F8E78AA3BFE85B5B338DBBDF14A"
-				"download" "5BDE2D697CE6E4E3DECF43C95D271554"
+				"gid" "7C548AD01F6D3FED36E480C911A814E5"
+				"size" "40E6CB71444BD2B862D4E9CBA01713F9"
+				"download" "89491F05538CC701283FDECDD8BDE4CD"
 			}
 		}
 	}
@@ -369,8 +369,8 @@
 	{
 		"public"
 		{
-			"buildid" "16880448"
-			"timeupdated" "1735634267"
+			"buildid" "16880822"
+			"timeupdated" "1735639188"
 		}
 		"cetest"
 		{
@@ -395,15 +395,15 @@
 		"develop_test"
 		{
 			"sc_schinese" "研发测试用"
-			"buildid" "16880448"
+			"buildid" "16880822"
 			"pwdrequired" "1"
-			"timeupdated" "1735634237"
+			"timeupdated" "1735639151"
 		}
 		"innertest"
 		{
-			"buildid" "16880448"
+			"buildid" "16880822"
 			"pwdrequired" "1"
-			"timeupdated" "1735634244"
+			"timeupdated" "1735639160"
 		}
 		"language_test"
 		{
@@ -414,9 +414,9 @@
 		"outertest"
 		{
 			"sc_schinese" "HuanmosGanbei"
-			"buildid" "16880448"
+			"buildid" "16880822"
 			"pwdrequired" "1"
-			"timeupdated" "1735634252"
+			"timeupdated" "1735639172"
 		}
 	}
 }
@@ -440,6 +440,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26824285"
-"_sha" "6ae94ab286a0a75e65d87584014dbf8b77806221"
+"_change_number" "26824762"
+"_sha" "4710c8e2c36cf6135e66c5cecf662be2bb5ef45d"
 "_size" "8929"
