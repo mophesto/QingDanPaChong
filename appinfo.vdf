@@ -228,8 +228,8 @@
 	"store_tags"
 	{
 		"0" "1695"
-		"1" "3810"
-		"2" "6915"
+		"1" "6915"
+		"2" "3810"
 		"3" "122"
 		"4" "1662"
 		"5" "4182"
@@ -244,8 +244,8 @@
 		"14" "17305"
 		"15" "3993"
 		"16" "32322"
-		"17" "1741"
-		"18" "7332"
+		"17" "7332"
+		"18" "1741"
 		"19" "4747"
 	}
 	"review_score" "8"
@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "1677943219140514682"
-				"size" "2676497112"
-				"download" "2440203744"
+				"gid" "2435489369166715887"
+				"size" "2676507723"
+				"download" "2440224592"
 			}
 		}
 		"encryptedmanifests"
@@ -340,15 +340,15 @@
 			}
 			"develop_test"
 			{
-				"gid" "FD39C04873214E806269F1B581B60F0D"
-				"size" "422CDADC0BAACE996EC4F9BE43D3B37C"
-				"download" "CCF704C36837A0024A8D5061F6932E17"
+				"gid" "485FBF10364BC5367300BDBDF1101936"
+				"size" "57E6AA37F8E4149B324C8AF4B44646A1"
+				"download" "E59937E19AB70BCFA49B2B5443AF5D9F"
 			}
 			"innertest"
 			{
-				"gid" "BAA50A77FB8F036C20EC28A716F8EC08"
-				"size" "D0A62A7DDA93103CF9E935E9EE8ECA8C"
-				"download" "EF7E81B9107F3D4EA757D4BD0D695085"
+				"gid" "6379ECD51C9F0F4A9E07502A939049E5"
+				"size" "88EC1D416E8013E3F01E82DE1946BC8E"
+				"download" "A9224763957BB501FE97004E09EDB474"
 			}
 			"language_test"
 			{
@@ -358,9 +358,9 @@
 			}
 			"outertest"
 			{
-				"gid" "7C548AD01F6D3FED36E480C911A814E5"
-				"size" "40E6CB71444BD2B862D4E9CBA01713F9"
-				"download" "89491F05538CC701283FDECDD8BDE4CD"
+				"gid" "D4817C40D8097904E52FE9B8B64DEBB7"
+				"size" "65763629BDD5A87CEDCC3E40795DBC4E"
+				"download" "553D23651C68E19DC2937B9B094A68C1"
 			}
 		}
 	}
@@ -369,8 +369,8 @@
 	{
 		"public"
 		{
-			"buildid" "16880822"
-			"timeupdated" "1735639188"
+			"buildid" "16890950"
+			"timeupdated" "1735815112"
 		}
 		"cetest"
 		{
@@ -395,15 +395,15 @@
 		"develop_test"
 		{
 			"sc_schinese" "研发测试用"
-			"buildid" "16880822"
+			"buildid" "16890950"
 			"pwdrequired" "1"
-			"timeupdated" "1735639151"
+			"timeupdated" "1735815076"
 		}
 		"innertest"
 		{
-			"buildid" "16880822"
+			"buildid" "16890950"
 			"pwdrequired" "1"
-			"timeupdated" "1735639160"
+			"timeupdated" "1735815086"
 		}
 		"language_test"
 		{
@@ -414,9 +414,9 @@
 		"outertest"
 		{
 			"sc_schinese" "HuanmosGanbei"
-			"buildid" "16880822"
+			"buildid" "16890950"
 			"pwdrequired" "1"
-			"timeupdated" "1735639172"
+			"timeupdated" "1735815094"
 		}
 	}
 }
@@ -440,6 +440,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26824762"
-"_sha" "4710c8e2c36cf6135e66c5cecf662be2bb5ef45d"
+"_change_number" "26839021"
+"_sha" "28d849e9ffac4dc3a6a91864f3960c23b882b345"
 "_size" "8929"
