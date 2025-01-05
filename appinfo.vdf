@@ -27,6 +27,7 @@
 		"brazilian" "1"
 		"ukrainian" "1"
 		"vietnamese" "1"
+		"latam" "1"
 	}
 	"clienticns" "e0858c050a4228cdf22604080d1ec365c7c196c4"
 	"steam_deck_compatibility"
@@ -355,15 +356,21 @@
 		{
 			"public"
 			{
-				"gid" "3336364636817243897"
-				"size" "111780772"
-				"download" "103534752"
+				"gid" "5806336538345368283"
+				"size" "111806064"
+				"download" "103562432"
 			}
 			"v1.39"
 			{
 				"gid" "5181111827735820082"
 				"size" "75894205"
 				"download" "66188192"
+			}
+			"public-beta"
+			{
+				"gid" "5806336538345368283"
+				"size" "111806064"
+				"download" "103562432"
 			}
 			"v1.245c"
 			{
@@ -383,9 +390,15 @@
 		{
 			"public"
 			{
-				"gid" "8130631752215330724"
-				"size" "109969762"
-				"download" "102438704"
+				"gid" "7795659339155688448"
+				"size" "109994913"
+				"download" "102464272"
+			}
+			"public-beta"
+			{
+				"gid" "7795659339155688448"
+				"size" "109994913"
+				"download" "102464272"
 			}
 			"v1.245c"
 			{
@@ -405,9 +418,15 @@
 		{
 			"public"
 			{
-				"gid" "1191581315301189637"
-				"size" "113443530"
-				"download" "102821536"
+				"gid" "3748309694111903669"
+				"size" "113468822"
+				"download" "102849216"
+			}
+			"public-beta"
+			{
+				"gid" "3748309694111903669"
+				"size" "113468822"
+				"download" "102849216"
 			}
 			"v1.245c"
 			{
@@ -421,14 +440,20 @@
 	{
 		"public"
 		{
-			"buildid" "16855506"
-			"timeupdated" "1735233912"
+			"buildid" "16907314"
+			"timeupdated" "1736016330"
 		}
 		"v1.39"
 		{
 			"buildid" "12284753"
 			"description" "old art, pre modding update, pre-controller support"
 			"timeupdated" "1705939696"
+		}
+		"public-beta"
+		{
+			"buildid" "16907314"
+			"description" "v1.515f - join our discord to give feedback!"
+			"timeupdated" "1736015922"
 		}
 		"v1.245c"
 		{
@@ -441,7 +466,7 @@
 "ufs"
 {
 	"quota" "200000000"
-	"maxnumfiles" "200"
+	"maxnumfiles" "500"
 	"savefiles"
 	{
 		"2"
@@ -449,6 +474,18 @@
 			"root" "gameinstall"
 			"path" "save"
 			"pattern" "*.bnk"
+		}
+		"3"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.sav"
+		}
+		"4"
+		{
+			"root" "gameinstall"
+			"path" "save/mods"
+			"pattern" "*.sav"
 		}
 	}
 	"rootoverrides"
@@ -480,6 +517,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26790216"
-"_sha" "fc1633804b349462ec78ad3ce0b9b2a358c9c8d3"
-"_size" "8166"
+"_change_number" "26862891"
+"_sha" "572c659bf149f0d81f916b847d8859b0629418d8"
+"_size" "8862"
