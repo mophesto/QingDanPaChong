@@ -327,15 +327,15 @@
 		{
 			"public"
 			{
-				"gid" "3676371695698523011"
-				"size" "48628661259"
-				"download" "39709896960"
+				"gid" "4123382171547309989"
+				"size" "48636379290"
+				"download" "39710210224"
 			}
 			"experimental"
 			{
-				"gid" "5521298882615981094"
-				"size" "48640104128"
-				"download" "39710396864"
+				"gid" "4123382171547309989"
+				"size" "48636379290"
+				"download" "39710210224"
 			}
 			"nullsector"
 			{
@@ -344,40 +344,19 @@
 				"download" "39821206768"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"internaltest"
-			{
-				"gid" "5B9594152306AA1473D747064161F230"
-				"size" "64A93BB5C74715527B40B106E5CA7C15"
-				"download" "3632C1E002C85B6B5383840D4A9B99C0"
-			}
-			"veterans"
-			{
-				"gid" "CA80CAF39D11F447106006E984EB8834"
-				"size" "AA6C39777D3F5A463D83A255D08DACC8"
-				"download" "65D0AABFC07AFDD4C1856136AFD3A067"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16703174"
-			"timeupdated" "1735854608"
+			"buildid" "16957795"
+			"timeupdated" "1736475623"
 		}
 		"experimental"
 		{
-			"buildid" "16755402"
+			"buildid" "16957795"
 			"description" "Predeployment Testing"
-			"timeupdated" "1734641012"
-		}
-		"internaltest"
-		{
-			"buildid" "16755402"
-			"pwdrequired" "1"
-			"timeupdated" "1734327584"
+			"timeupdated" "1736467339"
 		}
 		"nullsector"
 		{
@@ -385,13 +364,8 @@
 			"description" "Early Nullsector Testing"
 			"timeupdated" "1728617094"
 		}
-		"veterans"
-		{
-			"buildid" "16261738"
-			"pwdrequired" "1"
-			"timeupdated" "1730463488"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -443,6 +417,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26844690"
-"_sha" "a9cad4370448595c5e322949ca95810abade7408"
-"_size" "8053"
+"_change_number" "26933863"
+"_sha" "218136cd828cf2813f9fb6abbcc2b795e364d47d"
+"_size" "7478"
