@@ -98,15 +98,16 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"schinese" "f92bc9b47745ea85102a66acbf511b9e18d992ef/capsule_231x87_schinese.jpg"
-		"english" "b0b0ec4317b5afa07373a3a62b00de520fdc9ccb/capsule_231x87.jpg"
-		"tchinese" "0a204fea2256b61d8c209bff332a2726daf82296/capsule_231x87_tchinese.jpg"
+		"schinese" "a49f5b88e49e3e8df38ff751578dcb5bc791f2ac/capsule_231x87_schinese.jpg"
+		"english" "e64081c6f6641cffa11df07fa391340d474f35a1/capsule_231x87.jpg"
+		"tchinese" "9ec335b1374819bd5254eca3e069ce761497054d/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
 		"schinese" "header_schinese.jpg"
 		"english" "header.jpg"
 		"tchinese" "header_tchinese.jpg"
+		"russian" "header_russian.jpg"
 	}
 	"library_assets"
 	{
@@ -128,54 +129,54 @@
 		{
 			"image"
 			{
-				"english" "3c9a41b729fc887d333ea2cd2a4e826823d4793b/library_600x900.jpg"
-				"schinese" "8ecd3c2fc57c94ecb3645550e259f64d07524518/library_600x900_schinese.jpg"
-				"tchinese" "3f8ebdca15b76e1a3b62e3ecb67a0be9e7181cf7/library_600x900_tchinese.jpg"
+				"english" "da11e3b3c4467a732bd729d56da17f5fcea18560/library_600x900.jpg"
+				"schinese" "7e2afb53f265a3d96f9897e427348b6b9d94ca09/library_600x900_schinese.jpg"
+				"tchinese" "fb8450608439471e3a74a0074d0dd68ac51ded1a/library_600x900_tchinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "3c9a41b729fc887d333ea2cd2a4e826823d4793b/library_600x900_2x.jpg"
-				"schinese" "8ecd3c2fc57c94ecb3645550e259f64d07524518/library_600x900_schinese_2x.jpg"
-				"tchinese" "3f8ebdca15b76e1a3b62e3ecb67a0be9e7181cf7/library_600x900_tchinese_2x.jpg"
+				"english" "da11e3b3c4467a732bd729d56da17f5fcea18560/library_600x900_2x.jpg"
+				"schinese" "7e2afb53f265a3d96f9897e427348b6b9d94ca09/library_600x900_schinese_2x.jpg"
+				"tchinese" "fb8450608439471e3a74a0074d0dd68ac51ded1a/library_600x900_tchinese_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"schinese" "8ce49998e6b7b28b343ab8be076a60a44d09d319/library_hero_schinese_2x.jpg"
-				"tchinese" "54bdc7465f612c6dfb7a36859bfb720894ecfb42/library_hero_tchinese_2x.jpg"
-				"english" "54bdc7465f612c6dfb7a36859bfb720894ecfb42/library_hero_2x.jpg"
+				"schinese" "0a94e0cdcebcf9a0553e18a9829781608138d3ce/library_hero_schinese_2x.jpg"
+				"tchinese" "0a94e0cdcebcf9a0553e18a9829781608138d3ce/library_hero_tchinese_2x.jpg"
+				"english" "0a94e0cdcebcf9a0553e18a9829781608138d3ce/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"schinese" "8ce49998e6b7b28b343ab8be076a60a44d09d319/library_hero_schinese.jpg"
-				"tchinese" "54bdc7465f612c6dfb7a36859bfb720894ecfb42/library_hero_tchinese.jpg"
-				"english" "54bdc7465f612c6dfb7a36859bfb720894ecfb42/library_hero.jpg"
+				"schinese" "0a94e0cdcebcf9a0553e18a9829781608138d3ce/library_hero_schinese.jpg"
+				"tchinese" "0a94e0cdcebcf9a0553e18a9829781608138d3ce/library_hero_tchinese.jpg"
+				"english" "0a94e0cdcebcf9a0553e18a9829781608138d3ce/library_hero.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "54bdc7465f612c6dfb7a36859bfb720894ecfb42/library_hero_blur.jpg"
-				"schinese" "8ce49998e6b7b28b343ab8be076a60a44d09d319/library_hero_blur_schinese.jpg"
-				"tchinese" "54bdc7465f612c6dfb7a36859bfb720894ecfb42/library_hero_blur_tchinese.jpg"
+				"english" "0a94e0cdcebcf9a0553e18a9829781608138d3ce/library_hero_blur.jpg"
+				"schinese" "0a94e0cdcebcf9a0553e18a9829781608138d3ce/library_hero_blur_schinese.jpg"
+				"tchinese" "0a94e0cdcebcf9a0553e18a9829781608138d3ce/library_hero_blur_tchinese.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"tchinese" "b82597eb4b34edfd721ec93ab0c7772883d721fa/logo_tchinese.png"
-				"english" "a7d6206a2614167dcd392e231e0f923022948e25/logo.png"
-				"schinese" "36f4147ffd960e0b94b86f322af3be63be391e78/logo_schinese.png"
+				"tchinese" "cae3413b1bf8e53259f330bf575dde0273ed45d7/logo_tchinese.png"
+				"english" "980ee9290a4379505f8ea6838e94eec567bbdb06/logo.png"
+				"schinese" "8520525837c5701849266d96e3789c46ec116422/logo_schinese.png"
 			}
 			"image2x"
 			{
-				"tchinese" "b82597eb4b34edfd721ec93ab0c7772883d721fa/logo_tchinese_2x.png"
-				"english" "a7d6206a2614167dcd392e231e0f923022948e25/logo_2x.png"
-				"schinese" "36f4147ffd960e0b94b86f322af3be63be391e78/logo_schinese_2x.png"
+				"tchinese" "cae3413b1bf8e53259f330bf575dde0273ed45d7/logo_tchinese_2x.png"
+				"english" "980ee9290a4379505f8ea6838e94eec567bbdb06/logo_2x.png"
+				"schinese" "8520525837c5701849266d96e3789c46ec116422/logo_schinese_2x.png"
 			}
 			"logo_position"
 			{
@@ -188,19 +189,19 @@
 		{
 			"image"
 			{
-				"tchinese" "e0c3a35d650bb7a78ae3e58ea7fc31a96ba6e320/library_header_tchinese.jpg"
-				"english" "4fb7c8cabfb26260c3dc11137e9ce369da6d9c74/library_header.jpg"
-				"schinese" "63e23a713d73b314e780de17d871da2daea0d05a/library_header_schinese.jpg"
+				"tchinese" "cff331e225be676398ce80d26fb0314c09c456fd/library_header_tchinese.jpg"
+				"english" "9915c363bf39d2c033261c50ce4c37941f758cbd/library_header.jpg"
+				"schinese" "7223a0ac9235363f0f88b58d43d7c2f3fbf0bec3/library_header_schinese.jpg"
 			}
 			"image2x"
 			{
-				"tchinese" "e0c3a35d650bb7a78ae3e58ea7fc31a96ba6e320/library_header_tchinese_2x.jpg"
-				"english" "4fb7c8cabfb26260c3dc11137e9ce369da6d9c74/library_header_2x.jpg"
-				"schinese" "63e23a713d73b314e780de17d871da2daea0d05a/library_header_schinese_2x.jpg"
+				"tchinese" "cff331e225be676398ce80d26fb0314c09c456fd/library_header_tchinese_2x.jpg"
+				"english" "9915c363bf39d2c033261c50ce4c37941f758cbd/library_header_2x.jpg"
+				"schinese" "7223a0ac9235363f0f88b58d43d7c2f3fbf0bec3/library_header_schinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1734598829"
+	"store_asset_mtime" "1736483854"
 	"associations"
 	{
 		"0"
@@ -319,12 +320,12 @@
 		"3" "1775"
 		"4" "19"
 		"5" "7208"
-		"6" "4747"
-		"7" "128"
-		"8" "1743"
-		"9" "1662"
-		"10" "5611"
-		"11" "1697"
+		"6" "5611"
+		"7" "4747"
+		"8" "128"
+		"9" "1743"
+		"10" "1697"
+		"11" "1662"
 		"12" "4608"
 		"13" "1646"
 		"14" "4085"
@@ -401,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "1779710461163686042"
-				"size" "54925384074"
-				"download" "45276818720"
+				"gid" "2913961062187846248"
+				"size" "56026997763"
+				"download" "46270001792"
 			}
 		}
 	}
@@ -413,9 +414,9 @@
 		{
 			"public"
 			{
-				"gid" "3526989829425940360"
-				"size" "54925384074"
-				"download" "45275980256"
+				"gid" "1465902426564286308"
+				"size" "56026997763"
+				"download" "46270681280"
 			}
 		}
 	}
@@ -427,12 +428,12 @@
 	{
 		"public"
 		{
-			"buildid" "16944888"
-			"timeupdated" "1736377173"
+			"buildid" "17070572"
+			"timeupdated" "1737414082"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26915061"
-"_sha" "dbcf6fb6ea6e15a57bf6572892a5d3105b7ed37a"
-"_size" "9545"
+"_change_number" "27083970"
+"_sha" "aa5c25a41fe4f8aa99c5305371e60879642d112a"
+"_size" "9580"
