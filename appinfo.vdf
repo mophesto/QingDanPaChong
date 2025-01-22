@@ -123,7 +123,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733826547"
+	"store_asset_mtime" "1734339218"
 	"associations"
 	{
 		"0"
@@ -217,8 +217,8 @@
 		"0" "4328"
 		"1" "599"
 		"2" "1643"
-		"3" "3810"
-		"4" "4182"
+		"3" "4182"
+		"4" "3810"
 		"5" "12472"
 		"6" "4695"
 		"7" "9"
@@ -324,6 +324,22 @@
 				"osarch" "64"
 			}
 		}
+		"9"
+		{
+			"executable" "Launcher/dowser.exe"
+			"arguments" "--disableCodeModding"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Cities: Skylines II with code mods disabled"
+			}
+			"description" "Cities: Skylines II with code mods disabled"
+		}
 	}
 }
 "depots"
@@ -343,150 +359,9 @@
 		{
 			"public"
 			{
-				"gid" "8289640818424616426"
-				"size" "65416114031"
-				"download" "60548435168"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"goldmaster"
-			{
-				"gid" "0943F3A4BB68BFEF14C1E5DA5D32EAA8"
-				"size" "19243EE07A30073BA6660A3D0E88ABD5"
-				"download" "F9A59F1DCBB46F2250A3CC4019FE685E"
-			}
-			"partner"
-			{
-				"gid" "5088A34CF20707A16E6B4E9121A23571"
-				"size" "7F31BA6762F9685337BB7C6DEA074F95"
-				"download" "8DF6018CC53BF78F988AFD8AC5D4989C"
-			}
-			"partner_development"
-			{
-				"gid" "40EB44FDC3A8B12E6AB4EE5B8227F39A"
-				"size" "23E0318DC90C64C3AAF77162405E472D"
-				"download" "E12C49BB78D5BE62F60BE027215A1EC9"
-			}
-			"staging_development"
-			{
-				"gid" "CED4D8BDDBB0EE416F52CF05792ABCA3"
-				"size" "F4CF60F02778BA148EE09229BAD9A59B"
-				"download" "066ECBE2A58151D373D660217976EC70"
-			}
-			"co_test"
-			{
-				"gid" "74E48B981101A85D7286EBE8C8BF73CA"
-				"size" "0DFC0D02F03C7FA8577F715063F74D83"
-				"download" "10252C2217DC3D30723B77B3229BFF9A"
-			}
-			"co_test2"
-			{
-				"gid" "CCCDA2C28D2FFA196A3F111E7859A0F2"
-				"size" "A984FCF4014314C46E4355BCEFA1593A"
-				"download" "F1A495A30E6C29658599EE43C5EFC52E"
-			}
-			"coherent"
-			{
-				"gid" "71D4AF264AEA63EC4BB2C3E021AE0C94"
-				"size" "CF6D64DA0AA7E5D627C8036322DAE06D"
-				"download" "E34F68C02B449714CB37AB57CE7B1E1C"
-			}
-			"development"
-			{
-				"gid" "06461968DEFC87C278A75A976068E49C"
-				"size" "7BCCA56A7DA63A997285C5B919734817"
-				"download" "1CDF441B880CDBF2A08FCF72057E3D61"
-			}
-			"dlc_test"
-			{
-				"gid" "DFF09D216EBDCDF71651EDE7CD640929"
-				"size" "035BF2EED886E2A155E0F1FB7AE0CA56"
-				"download" "0FD78EE577464AB70A372E540E551801"
-			}
-			"download_test"
-			{
-				"gid" "46EC50EFC3C9E0E2EEB5114F3F1176E7"
-				"size" "F92A41AB72A48C9D1011040D0901F9D1"
-				"download" "CEB684D5B8875F2DE4F3DA4F4038B560"
-			}
-			"early_access"
-			{
-				"gid" "32ACF570B47DFDCD6EFBAA65C6A3ACB1"
-				"size" "AB85F44EAD2FF82550DB4BE7471829B1"
-				"download" "BA50D53D66ED5B30620259FFEA011F09"
-			}
-			"early_access_previous"
-			{
-				"gid" "F47F50DEFB40711BFE2F4651B720B374"
-				"size" "54751BECF54267AC371A82B4577C1D04"
-				"download" "37F59B941C0786B450F81BE82128E209"
-			}
-			"modding_test"
-			{
-				"gid" "9D02DB5F0EDB1A5467B9E374D212A4D2"
-				"size" "89C27A78C4C525C1D38090B783432316"
-				"download" "23880F33554B44FA9086706F558BA697"
-			}
-			"modding_upcoming"
-			{
-				"gid" "3DBADCFA3A84A4E7A54279FAE5A16283"
-				"size" "EB52D17047C8EF4AA1B9F92A8CBDF864"
-				"download" "6E1C566F8F2284ADD06299F79F064D45"
-			}
-			"pdx_recordings"
-			{
-				"gid" "6000CFF32109F307F3B476D97B2D03A2"
-				"size" "8C7784FD53DBD6946D3CE69173DFEF87"
-				"download" "87D9E2380E1F527B860734648A09AD90"
-			}
-			"pdx_s"
-			{
-				"gid" "0A4F63C72A4074DCA89D4C101811FA12"
-				"size" "3B2CB037B29324E965569496204512CC"
-				"download" "18BFF90BAE415FC8869AC050069402DD"
-			}
-			"pdx_test"
-			{
-				"gid" "61CDE519BE24A94A1846F9377E9F2F2B"
-				"size" "F2B0A4FEFAAE691FB94E3F620C599E20"
-				"download" "B4BB9BCE657D9E4C7F6AE0CAA76D5A20"
-			}
-			"qloc_balance"
-			{
-				"gid" "DA9CD4D8CE98D65CDBE495E3C30EA79C"
-				"size" "5AF2178CD0FCADF77A58E0671180E055"
-				"download" "DC5A0E85EB5F846BDCDEF0A9822564AD"
-			}
-			"qloc_main"
-			{
-				"gid" "6AB7DF1133137FBFD37101F27363CB87"
-				"size" "F38A017060DD73EC93A02D9C8E56D0D3"
-				"download" "F9963CE052F1770FD2D052E5E969F003"
-			}
-			"qloc_previous"
-			{
-				"gid" "F04DC9A03CD58F25760C9A410AE5D33B"
-				"size" "11107C64D2F7DCCD589F6A94066291C1"
-				"download" "2A7023FB610D021C364884E9BA2EF256"
-			}
-			"region_pack_marketing"
-			{
-				"gid" "837605F3E2A7D807F2EF2082641D55D2"
-				"size" "6104AA8A1A544EF3A8B295681C18944D"
-				"download" "D24C552DC326478C56E6F059F1F85B36"
-			}
-			"release"
-			{
-				"gid" "EC66502452ECAE3CFF27B02EEA75EE84"
-				"size" "F5CA28EFB651265F7AE4CDBC4D41DEAD"
-				"download" "44062344EE7818A74B3FA8859207EDC0"
-			}
-			"staging"
-			{
-				"gid" "BDB5248E29B3BF2A78BA4363A40C0690"
-				"size" "AC56642B9FDA0E799DDE6D57029FD5F8"
-				"download" "1F27B70EA7FAA484E0213A527DB04FB4"
+				"gid" "7500176374282370529"
+				"size" "65416195532"
+				"download" "60548027264"
 			}
 		}
 	}
@@ -495,148 +370,11 @@
 	{
 		"public"
 		{
-			"buildid" "16621016"
-			"timeupdated" "1733907430"
-		}
-		"goldmaster"
-		{
-			"buildid" "12464864"
-			"pwdrequired" "1"
-			"timeupdated" "1697792698"
-		}
-		"partner"
-		{
-			"buildid" "14132942"
-			"pwdrequired" "1"
-			"timeupdated" "1713807642"
-		}
-		"partner_development"
-		{
-			"buildid" "14132382"
-			"pwdrequired" "1"
-			"timeupdated" "1713790059"
-		}
-		"staging_development"
-		{
-			"buildid" "13417590"
-			"pwdrequired" "1"
-			"timeupdated" "1707502896"
-		}
-		"co_test"
-		{
-			"buildid" "16646585"
-			"pwdrequired" "1"
-			"timeupdated" "1733419553"
-		}
-		"co_test2"
-		{
-			"buildid" "16454919"
-			"pwdrequired" "1"
-			"timeupdated" "1732112234"
-		}
-		"coherent"
-		{
-			"buildid" "16484450"
-			"pwdrequired" "1"
-			"timeupdated" "1732183975"
-		}
-		"development"
-		{
-			"buildid" "16702727"
-			"pwdrequired" "1"
-			"timeupdated" "1733889297"
-		}
-		"dlc_test"
-		{
-			"buildid" "16621016"
-			"pwdrequired" "1"
-			"timeupdated" "1733285893"
-		}
-		"download_test"
-		{
-			"buildid" "16126194"
-			"pwdrequired" "1"
-			"timeupdated" "1729581471"
-		}
-		"early_access"
-		{
-			"buildid" "16621016"
-			"pwdrequired" "1"
-			"timeupdated" "1733392345"
-		}
-		"early_access_previous"
-		{
-			"buildid" "16475049"
-			"pwdrequired" "1"
-			"timeupdated" "1733392320"
-		}
-		"modding_test"
-		{
-			"buildid" "16297860"
-			"pwdrequired" "1"
-			"timeupdated" "1730809764"
-		}
-		"modding_upcoming"
-		{
-			"buildid" "16621016"
-			"pwdrequired" "1"
-			"timeupdated" "1733309657"
-		}
-		"pdx_recordings"
-		{
-			"buildid" "16621016"
-			"pwdrequired" "1"
-			"timeupdated" "1733831686"
-		}
-		"pdx_s"
-		{
-			"buildid" "16082882"
-			"pwdrequired" "1"
-			"timeupdated" "1729249106"
-		}
-		"pdx_test"
-		{
-			"buildid" "16621016"
-			"pwdrequired" "1"
-			"timeupdated" "1733309668"
-		}
-		"qloc_balance"
-		{
-			"buildid" "16297860"
-			"pwdrequired" "1"
-			"timeupdated" "1732122062"
-		}
-		"qloc_main"
-		{
-			"buildid" "16621016"
-			"pwdrequired" "1"
-			"timeupdated" "1733767161"
-		}
-		"qloc_previous"
-		{
-			"buildid" "16581083"
-			"pwdrequired" "1"
-			"timeupdated" "1733767147"
-		}
-		"region_pack_marketing"
-		{
-			"buildid" "16126194"
-			"pwdrequired" "1"
-			"timeupdated" "1729610933"
-		}
-		"release"
-		{
-			"buildid" "16703027"
-			"pwdrequired" "1"
-			"timeupdated" "1733892097"
-		}
-		"staging"
-		{
-			"buildid" "16629770"
-			"pwdrequired" "1"
-			"timeupdated" "1733319469"
+			"buildid" "17039796"
+			"timeupdated" "1737536343"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -644,6 +382,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26589603"
-"_sha" "6635c6f06917768bf4d036fcf8075ee63a1dd78a"
-"_size" "12905"
+"_change_number" "27108677"
+"_sha" "fe99d8c081bfff0f025ac8d64257b88ed62c2f5d"
+"_size" "6663"
