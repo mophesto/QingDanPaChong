@@ -25,30 +25,9 @@
 		{
 			"public"
 			{
-				"gid" "6802973934394545409"
+				"gid" "175377365605769378"
 				"size" "7"
 				"download" "64"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dpr"
-			{
-				"gid" "852935C0C1EE65536833201B4E38C8C6"
-				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
-				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
-			}
-			"dprp"
-			{
-				"gid" "8609E1D8833473DB8CFBEEF5D0F052D6"
-				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
-				"download" "3D2C948DD298272F42A9294690DCF8C0"
-			}
-			"test"
-			{
-				"gid" "E989822241485B3057F34C12FD7DB516"
-				"size" "FA14425633D41BFC69C3FB1FECCAF7BC"
-				"download" "7ACFB7FEB22C9423942EF677D5EE77A7"
 			}
 		}
 		"depotfromapp" "730"
@@ -59,30 +38,9 @@
 		{
 			"public"
 			{
-				"gid" "36191581379556747"
+				"gid" "2136294700405459976"
 				"size" "7"
 				"download" "64"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dpr"
-			{
-				"gid" "F5DEFABB1629A3194B8BE0F2C558622C"
-				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
-				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
-			}
-			"dprp"
-			{
-				"gid" "FC03342787C33C398949E74D8432925B"
-				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
-				"download" "3D2C948DD298272F42A9294690DCF8C0"
-			}
-			"test"
-			{
-				"gid" "D7DD82E6B5A24231D32EF48780C3B9EF"
-				"size" "FA14425633D41BFC69C3FB1FECCAF7BC"
-				"download" "7ACFB7FEB22C9423942EF677D5EE77A7"
 			}
 		}
 		"depotfromapp" "730"
@@ -93,57 +51,18 @@
 		{
 			"public"
 			{
-				"gid" "8593913790351873426"
+				"gid" "3698417733235211698"
 				"size" "7"
 				"download" "64"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dpr"
-			{
-				"gid" "E69BA3687CC9B9A8EF75AAFF6866EC3A"
-				"size" "458E6D6DACAF3BAF3227BF1244B1C518"
-				"download" "DA693391BABE93CE10DCBDCFF179C1C2"
-			}
-			"dprp"
-			{
-				"gid" "22B0F561AAE41901A1DF5D7E449CA280"
-				"size" "D21FEA7F93E2C68E2BF621174A8A4551"
-				"download" "3D2C948DD298272F42A9294690DCF8C0"
-			}
-			"test"
-			{
-				"gid" "BF554701AE0D0EA685D97E34D078FC9F"
-				"size" "FA14425633D41BFC69C3FB1FECCAF7BC"
-				"download" "7ACFB7FEB22C9423942EF677D5EE77A7"
 			}
 		}
 		"depotfromapp" "730"
 	}
 	"branches"
 	{
-		"dpr"
-		{
-			"buildid" "17006600"
-			"pwdrequired" "1"
-			"timeupdated" "1736904625"
-		}
-		"dprp"
-		{
-			"buildid" "17006600"
-			"pwdrequired" "1"
-			"timeupdated" "1736904634"
-		}
-		"test"
-		{
-			"buildid" "15643476"
-			"pwdrequired" "1"
-			"timeupdated" "1725919077"
-		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "27034388"
-"_sha" "bc7e2c67324455ed95bf55026061198e38722c1b"
-"_size" "2805"
+"_change_number" "27103084"
+"_sha" "11f746ca34d1c98ab65e92133f32725b4c172aea"
+"_size" "875"
