@@ -310,9 +310,9 @@
 		{
 			"public"
 			{
-				"gid" "4998525674962403999"
-				"size" "7622903581"
-				"download" "2396882752"
+				"gid" "3379377973674237626"
+				"size" "7622951197"
+				"download" "2396891568"
 			}
 			"3.0.4"
 			{
@@ -346,90 +346,9 @@
 			}
 			"beta"
 			{
-				"gid" "4998525674962403999"
-				"size" "7622903581"
-				"download" "2396882752"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"2.0.0.2"
-			{
-				"gid" "E8D03839A64B311536015FB38D18AC48"
-				"size" "A01FCDD935CBD598F8E67607B0CC5092"
-				"download" "536E053877852066A2F30A90C624F291"
-			}
-			"2.0.1.2"
-			{
-				"gid" "774F108238F13F7890BB0E53756E2D99"
-				"size" "7D9EC822E368268722803BD4C855AB58"
-				"download" "5BDDD8962C9195653333868E1FAF6D61"
-			}
-			"2.0.2.0"
-			{
-				"gid" "E590BD41351D760AEA7A2935C85A2960"
-				"size" "76B7BC8FF870E688A1504104C5618D12"
-				"download" "04AA376EAD777B32830EFA9AA5ACCA9A"
-			}
-			"2.0.3.2"
-			{
-				"gid" "37F7DA597EF1C5E51943B4EEBB0560E8"
-				"size" "09AC70BAACAAB6D1B02976416F46A31D"
-				"download" "222562D8F875B3D20DA36DC9D8559140"
-			}
-			"2.0.4.0"
-			{
-				"gid" "DC3D625FC36F8DB53049D701BBB4D230"
-				"size" "C40389A314E193DDC196269DC6E56119"
-				"download" "E5C9D61B7BEBD284E6536464A63FC380"
-			}
-			"2.8.8"
-			{
-				"gid" "CB829C1AE2FF4E372941482BDF506FB1"
-				"size" "AD2A0A24853CED2FEAB11AFCA28FBD52"
-				"download" "F91BD5266C0707A244B7D119B8C8F811"
-			}
-			"3.0.0"
-			{
-				"gid" "9CB37075695854246CDCB53D7866E499"
-				"size" "C07349F35D0ECD9E041BA90B5DEACD0B"
-				"download" "4AD99586B09C7A1069A80D25156B944F"
-			}
-			"3.2.7"
-			{
-				"gid" "16708822622B518B94B759A83B1B59C3"
-				"size" "D8C330A44B8DD150F033A6E901209259"
-				"download" "03075264F08FD4ED8460996FA8C21808"
-			}
-			"beta03"
-			{
-				"gid" "C0D463E3A8BB2907D89619D161BC49D5"
-				"size" "3377A7754F7C64261F30F8CB731F2028"
-				"download" "855BFFE56E92F6AD80E144CAB6430D72"
-			}
-			"experiments"
-			{
-				"gid" "C7057041CFABFF6B9A7136CEF9F90682"
-				"size" "4D3056C36367E2F9982270D22029EC19"
-				"download" "F91A2F77FC9666CF888070AD649950B0"
-			}
-			"oldversion"
-			{
-				"gid" "00CAF2C80D22432E46B88A9277013728"
-				"size" "422B5750021AE8B848DCA963BF7F584B"
-				"download" "6A1FC23B0474967094624A9DE76F1C2F"
-			}
-			"privbeta"
-			{
-				"gid" "008D2B0A3DC74D0E36CE5B4803CB36D5"
-				"size" "F686E1269679FA3CAA89CEA4C462D88D"
-				"download" "7AC255558FCF7AD1ECAE0B1BC5160AE6"
-			}
-			"themeta"
-			{
-				"gid" "A4B4A18FFFE0179691D6DA20E6E4244E"
-				"size" "FDF2817961B3F7C9EEB513EC92BC1539"
-				"download" "3D398D5976C1328BE5753381B4E1E52F"
+				"gid" "3379377973674237626"
+				"size" "7622951197"
+				"download" "2396891568"
 			}
 		}
 	}
@@ -456,62 +375,14 @@
 	{
 		"public"
 		{
-			"buildid" "16935258"
-			"timeupdated" "1736443712"
-		}
-		"2.0.0.2"
-		{
-			"buildid" "4662600"
-			"pwdrequired" "1"
-			"timeupdated" "1589040323"
-		}
-		"2.0.1.2"
-		{
-			"buildid" "5173891"
-			"pwdrequired" "1"
-			"timeupdated" "1596553817"
-		}
-		"2.0.2.0"
-		{
-			"buildid" "5371143"
-			"pwdrequired" "1"
-			"timeupdated" "1607617541"
-		}
-		"2.0.3.2"
-		{
-			"buildid" "6114899"
-			"pwdrequired" "1"
-			"timeupdated" "1613668290"
-		}
-		"2.0.4.0"
-		{
-			"buildid" "6421398"
-			"pwdrequired" "1"
-			"timeupdated" "1621635771"
-		}
-		"2.8.8"
-		{
-			"buildid" "8377678"
-			"pwdrequired" "1"
-			"timeupdated" "1651595438"
-		}
-		"3.0.0"
-		{
-			"buildid" "8665819"
-			"pwdrequired" "1"
-			"timeupdated" "1657297666"
+			"buildid" "17018292"
+			"timeupdated" "1737649213"
 		}
 		"3.0.4"
 		{
 			"buildid" "8802228"
 			"description" "Patch from May 24, 2022"
 			"timeupdated" "1660089679"
-		}
-		"3.2.7"
-		{
-			"buildid" "11897514"
-			"pwdrequired" "1"
-			"timeupdated" "1710616817"
 		}
 		"3.3.1"
 		{
@@ -524,24 +395,6 @@
 			"buildid" "13592171"
 			"description" "Patch from Feb 28, 2024"
 			"timeupdated" "1712865562"
-		}
-		"beta03"
-		{
-			"buildid" "13915403"
-			"pwdrequired" "1"
-			"timeupdated" "1713889330"
-		}
-		"experiments"
-		{
-			"buildid" "7891957"
-			"pwdrequired" "1"
-			"timeupdated" "1639691104"
-		}
-		"oldversion"
-		{
-			"buildid" "4290590"
-			"pwdrequired" "1"
-			"timeupdated" "1579202315"
 		}
 		"3.5.4"
 		{
@@ -557,23 +410,12 @@
 		}
 		"beta"
 		{
-			"buildid" "16935258"
+			"buildid" "17018292"
 			"description" "Public Beta Branch"
-			"timeupdated" "1736355082"
-		}
-		"privbeta"
-		{
-			"buildid" "16935258"
-			"pwdrequired" "1"
-			"timeupdated" "1736306528"
-		}
-		"themeta"
-		{
-			"buildid" "16955304"
-			"pwdrequired" "1"
-			"timeupdated" "1736450075"
+			"timeupdated" "1737063051"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -581,6 +423,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26929292"
-"_sha" "86c0d78b132dac8ce9a44e2f52978e7a633adf0a"
-"_size" "10763"
+"_change_number" "27133973"
+"_sha" "7bbe72573a772cd8e938de134633c9ce017abdf9"
+"_size" "7160"
