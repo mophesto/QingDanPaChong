@@ -33,8 +33,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1711411200"
-		"tested_build_id" "13023991"
+		"test_timestamp" "1737158400"
+		"tested_build_id" "16966246"
 		"tests"
 		{
 			"0"
@@ -57,23 +57,18 @@
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
-			"4"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
-			}
 		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "1"
+			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "1"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-1RC"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "1"
 			"hdr_support" "0"
@@ -298,9 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "789235049487879589"
-				"size" "826011459"
-				"download" "361752256"
+				"gid" "2761314355057447122"
+				"size" "826013583"
+				"download" "361748080"
 			}
 			"legacy_syzygy"
 			{
@@ -316,18 +311,9 @@
 			}
 			"beta"
 			{
-				"gid" "789235049487879589"
-				"size" "826011459"
-				"download" "361752256"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "3BF09CD86E5C833EE503C0BCEB3123E4"
-				"size" "00A0504DE26DA9263D61736941AE29DC"
-				"download" "50AB56347F77CC245894C2764C8DF6E4"
+				"gid" "2761314355057447122"
+				"size" "826013583"
+				"download" "361748080"
 			}
 		}
 	}
@@ -341,9 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "2182062242524972960"
-				"size" "867306145"
-				"download" "371813872"
+				"gid" "8428479081292305350"
+				"size" "863893258"
+				"download" "371473520"
 			}
 			"legacy_syzygy"
 			{
@@ -359,18 +345,9 @@
 			}
 			"beta"
 			{
-				"gid" "2182062242524972960"
-				"size" "867306145"
-				"download" "371813872"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"internal"
-			{
-				"gid" "1B8B649F7A4B21CD661F40209FE78514"
-				"size" "7087BD70A5AC95049D052F0EAC825419"
-				"download" "F04D4A89BECDC7BB9A9EA0FCCC579561"
+				"gid" "8428479081292305350"
+				"size" "863893258"
+				"download" "371473520"
 			}
 		}
 	}
@@ -378,8 +355,8 @@
 	{
 		"public"
 		{
-			"buildid" "16966246"
-			"timeupdated" "1736795616"
+			"buildid" "17096096"
+			"timeupdated" "1737997584"
 		}
 		"legacy_syzygy"
 		{
@@ -394,17 +371,12 @@
 		}
 		"beta"
 		{
-			"buildid" "16966246"
+			"buildid" "17096096"
 			"description" "Open beta testing"
-			"timeupdated" "1736522634"
-		}
-		"internal"
-		{
-			"buildid" "16845057"
-			"pwdrequired" "1"
-			"timeupdated" "1735071003"
+			"timeupdated" "1737576833"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -435,6 +407,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26977449"
-"_sha" "98a34db0dde4bf8ab056749d9d918cec0c6c1260"
-"_size" "7563"
+"_change_number" "27187155"
+"_sha" "b0d94594b0bc7b5bcccff24bf5a4a8335375f76e"
+"_size" "6938"
