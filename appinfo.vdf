@@ -314,14 +314,14 @@
 		"9" "3834"
 		"10" "3839"
 		"11" "1685"
-		"12" "1775"
-		"13" "701"
+		"12" "701"
+		"13" "1775"
 		"14" "4166"
 		"15" "3843"
 		"16" "4182"
 		"17" "5411"
-		"18" "19"
-		"19" "21978"
+		"18" "21978"
+		"19" "19"
 	}
 	"review_score" "8"
 	"review_percentage" "88"
@@ -428,72 +428,9 @@
 		{
 			"public"
 			{
-				"gid" "8613791044657456090"
-				"size" "158265662138"
-				"download" "147432292240"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dlc1install"
-			{
-				"gid" "EBE540F7907ACC25FF92BD1CA92634DA"
-				"size" "7FF072CF5076D1FB5849E45CBDEAE1F3"
-				"download" "44192CF223BC3C9438F4660226921AB1"
-			}
-			"releasecert"
-			{
-				"gid" "6B7E9A79F4453201405CF34E9779947E"
-				"size" "6F037D45D3F42C0DD90B946CA86612FD"
-				"download" "8DC2375701910EEA651C44FD1BF816A8"
-			}
-			"sideload"
-			{
-				"gid" "034E18D0E502DB38FC0B289C038D4D55"
-				"size" "8E219D78F614956EB5A8872F631BA11E"
-				"download" "8E219D78F614956EB5A8872F631BA11E"
-			}
-			"hotfixcert"
-			{
-				"gid" "9395818274029D3D4E63B0B8A50C244C"
-				"size" "861CC929FDB8D23D2C05F9BF659D5D47"
-				"download" "320722A0915A23EEFBF8787EFD739AA8"
-			}
-			"hotfixinstall"
-			{
-				"gid" "BD872DE7C799B1A337C3D4C108B5C94C"
-				"size" "CF1C62C9DC959C6DCBBC905A15A293BE"
-				"download" "BF28D12CD9A663E32CA7CC4C1872E955"
-			}
-			"mainlinecert"
-			{
-				"gid" "4449E094DEDF97368B4866D73AD5C22E"
-				"size" "87FCF2FFD79EB8CF2274D333329DBA16"
-				"download" "FE6B865B66007272EB0C60B1B501BFA6"
-			}
-			"mainlineinstall"
-			{
-				"gid" "97C79EAC1B4558065E0D874577A6B2E2"
-				"size" "6413ABD8B46DD42DD09D3701FEDD70EA"
-				"download" "D403B3EAEA7D20823E15CEA7F83D8953"
-			}
-			"rccert"
-			{
-				"gid" "069F819ACCB4B8AA6A8DCE27B942C0EA"
-				"size" "7F461ABE48927B6438E27D890EB257D4"
-				"download" "D5EA61148ED6EEA43419032B7745F554"
-			}
-			"rcinstall"
-			{
-				"gid" "D873C0DDDBA6244CAE99326EDCB2D2DF"
-				"size" "27B996832F321854C9528776D4008C08"
-				"download" "369BAE91FA0B671F55C3B39DE1522190"
-			}
-			"retailvalidation"
-			{
-				"gid" "ACC4A01E44C64FF5E9E197955BFE0CF3"
-				"size" "F7983728FF5E74F7A84AD9C4F01047D8"
-				"download" "7A8173EF702535DE20CFFFAD0B2934FC"
+				"gid" "2084141517842360444"
+				"size" "158382078085"
+				"download" "147547454976"
 			}
 		}
 	}
@@ -509,27 +446,6 @@
 				"download" "10380391104"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"rccert"
-			{
-				"gid" "F4703B0730B9B2DEC377999ACD28359A"
-				"size" "F43F5F36F616194DA432F23374BE06A8"
-				"download" "61099F0C5C39987EC6D75A27302A2A27"
-			}
-			"rcinstall"
-			{
-				"gid" "3BCE15538F1B37FB48E5434705F80923"
-				"size" "20B6F89C27719F1A44145DA46A01CA05"
-				"download" "B769E38E7601FA32DF09FFCAE67F49CF"
-			}
-			"retailvalidation"
-			{
-				"gid" "0837B3228488A329D248162ED38D35DE"
-				"size" "A5D50192C81729AC297CFAF508D975C8"
-				"download" "D144E55E56A12AE54D85FA471DC56F76"
-			}
-		}
 	}
 	"1613281"
 	{
@@ -543,109 +459,17 @@
 				"download" "16021991408"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"mainlinecert"
-			{
-				"gid" "7A0A69D2C7C74DEB231A322FDB24A0B8"
-				"size" "1CCF9757ADB048072A3EF57FEF5CE72A"
-				"download" "FF05A1A0CB0DDE2FD59BC0C5E0FDE12F"
-			}
-			"mainlineinstall"
-			{
-				"gid" "BF48672C3B198867C462C13F94A7663C"
-				"size" "0A9A38F67095775BDF8F835447597820"
-				"download" "3931FA6330D3992436114BC3AE4CE978"
-			}
-			"rccert"
-			{
-				"gid" "B88131C713AFE5DB4DBCB7614B4B96AD"
-				"size" "03CDB73F7EE57DB7CC576A867AB28EF0"
-				"download" "72A07F783B8F4CB56936107CEB4CD364"
-			}
-			"rcinstall"
-			{
-				"gid" "4B01A314599CDBC74790E34FB86001F1"
-				"size" "6374A6B9D1F728FC3FB964193D8C8410"
-				"download" "0DA7344802E4CB5CE93F3A79D7E7DEE9"
-			}
-			"retailvalidation"
-			{
-				"gid" "98B0DCE96538FF196F66413445364D1C"
-				"size" "0113A404A0DB25CD1EAA927E59480071"
-				"download" "172E32D8174DCFA2EFC9DB1C08ADF3A7"
-			}
-		}
 	}
 	"hasdepotsindlc" "0"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16541703"
-			"timeupdated" "1733248586"
-		}
-		"dlc1install"
-		{
-			"buildid" "8227402"
-			"pwdrequired" "1"
-			"timeupdated" "1645160346"
-		}
-		"releasecert"
-		{
-			"buildid" "9962626"
-			"pwdrequired" "1"
-			"timeupdated" "1668721238"
-		}
-		"sideload"
-		{
-			"buildid" "7349058"
-			"pwdrequired" "1"
-			"timeupdated" "1632501326"
-		}
-		"hotfixcert"
-		{
-			"buildid" "14762790"
-			"pwdrequired" "1"
-			"timeupdated" "1718765595"
-		}
-		"hotfixinstall"
-		{
-			"buildid" "14762286"
-			"pwdrequired" "1"
-			"timeupdated" "1718761538"
-		}
-		"mainlinecert"
-		{
-			"buildid" "16610461"
-			"pwdrequired" "1"
-			"timeupdated" "1733206372"
-		}
-		"mainlineinstall"
-		{
-			"buildid" "16609926"
-			"pwdrequired" "1"
-			"timeupdated" "1733201592"
-		}
-		"rccert"
-		{
-			"buildid" "16541703"
-			"pwdrequired" "1"
-			"timeupdated" "1732643683"
-		}
-		"rcinstall"
-		{
-			"buildid" "16541140"
-			"pwdrequired" "1"
-			"timeupdated" "1732640830"
-		}
-		"retailvalidation"
-		{
-			"buildid" "16541703"
-			"pwdrequired" "1"
-			"timeupdated" "1732643792"
+			"buildid" "17085793"
+			"timeupdated" "1738086626"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -653,6 +477,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26474885"
-"_sha" "3e27820f07e90a034897aac5bc08a1d870184833"
-"_size" "13132"
+"_change_number" "27205251"
+"_sha" "5bc7c74b2183cd49c0a5baa308bcdf93680776d9"
+"_size" "8789"
