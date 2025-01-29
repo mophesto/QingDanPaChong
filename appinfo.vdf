@@ -173,6 +173,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_22" "1"
+		"category_13" "1"
 	}
 	"supported_languages"
 	{
@@ -272,18 +273,18 @@
 		"8" "1685"
 		"9" "4182"
 		"10" "1773"
-		"11" "3839"
-		"12" "3843"
+		"11" "3843"
+		"12" "3839"
 		"13" "1697"
 		"14" "599"
 		"15" "13190"
 		"16" "701"
-		"17" "3810"
-		"18" "4166"
-		"19" "21"
+		"17" "4166"
+		"18" "21"
+		"19" "3810"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -375,108 +376,15 @@
 		{
 			"public"
 			{
-				"gid" "293511221125923324"
-				"size" "67216961472"
-				"download" "48565898064"
+				"gid" "1898865579099788218"
+				"size" "67216743234"
+				"download" "48565828608"
 			}
 			"local"
 			{
 				"gid" "9103930098590162762"
 				"size" "33781802746"
 				"download" "25096157040"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"connect_test_branch"
-			{
-				"gid" "89AC5C5D095DCC7306F38DC07FEC0C10"
-				"size" "CEB250A39E11F614E8500E3F52A9615F"
-				"download" "6E1B6368468916A1B8D4E3E83539B87D"
-			}
-			"functionality"
-			{
-				"gid" "0DAB2328287594AECA9C06F59C1186A2"
-				"size" "8346048AB6B101B586F03EBA0A8ACFD0"
-				"download" "EF5864F539AD16FAC90C8EAAA2775E92"
-			}
-			"milestone"
-			{
-				"gid" "FE8CEB7E95255F61694622CF26262322"
-				"size" "1A5A2948BFA2F25358D47897233DF29F"
-				"download" "27A0EBFA62B51169BF91C04D1495E232"
-			}
-			"milestoneq"
-			{
-				"gid" "243B6070E0E80F4D4D9DFA2794020F0C"
-				"size" "CCC2D9EC43ACE8C65B3C0A4177D8801A"
-				"download" "89E96CE114B2645EBE0F1152529B2C0C"
-			}
-			"nvidia_gfn"
-			{
-				"gid" "E2ECA2B39995A9810966C6250804A33B"
-				"size" "151A89BF56E953BEC413DFC3D50433C6"
-				"download" "A697FDFA83DEC7F4BB013012C1A05593"
-			}
-			"patchtu13"
-			{
-				"gid" "642DE9C948A7C90C588D883C7670DE42"
-				"size" "F37A1270DF4A72FDE551A8EF1C5E2D05"
-				"download" "F71BAEF2F4AA058CE570D90E71F537A2"
-			}
-			"patchtu14"
-			{
-				"gid" "CB7045B3E462DCB98A0F8D025B902F13"
-				"size" "E817703AAE5908AF47F9BC88DF32034F"
-				"download" "9F53DA0414A273723CC09BEE188F96E7"
-			}
-			"patchtu15"
-			{
-				"gid" "AB085723B5D42BB9E5EAC4623C502ADF"
-				"size" "925E0D48E67E0B21FE21C8880E778524"
-				"download" "FA038D95AAEEAD762D18E3631B73034D"
-			}
-			"patchtu16"
-			{
-				"gid" "74B2C62A51A74C72D6E53A54E5F14623"
-				"size" "E62FFDC52D8DE084616321ACFD1DF5F2"
-				"download" "BB8957117DDBADC0AD00A111D7A09D02"
-			}
-			"patchtu16m1"
-			{
-				"gid" "E80F7D7C0E4ED2D9E93D886824E45F1A"
-				"size" "5A5059C5B76738FCC6D276072A5AAFF7"
-				"download" "12BAE6F5E4CF9CB6BE08165460F022DB"
-			}
-			"patchtu17"
-			{
-				"gid" "EBB1F2FFE39F070EF3EB62AC96AAB8E2"
-				"size" "3285CDD92184A2F737C30919CA426FA9"
-				"download" "0893780F7DE42DC602CF223550502287"
-			}
-			"patchtu18"
-			{
-				"gid" "7FE515718608362D073FA0CF8975C9E6"
-				"size" "0C9E9A40D001904A5941B4606C4D79B5"
-				"download" "DC5FB795BF8CF42DA6E49ABACB85D2FE"
-			}
-			"patchtu18m1"
-			{
-				"gid" "0F36A4618EFD475935A96E5C3C68BFA3"
-				"size" "8803683215FC41361B1DFB024797ACAF"
-				"download" "29FC75A04090844627F0C4C0DF2282F4"
-			}
-			"validation"
-			{
-				"gid" "2D82A25F1983E52900CB15318B7DAB71"
-				"size" "AF24437624868D212D99CFFAB439E6B1"
-				"download" "996DD179257F1224ECB6B173B9760C98"
-			}
-			"patchtu18m2"
-			{
-				"gid" "A35BE40CA32F567CDF38E3AF2D275C1A"
-				"size" "4394C745EC282930485E4F00C3A1D001"
-				"download" "5EC07AD23AC00404266A27A1B995EC7E"
 			}
 		}
 	}
@@ -489,9 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "2813210786162669848"
-				"size" "232810480"
-				"download" "234531248"
+				"gid" "6750736260530963906"
+				"size" "256391736"
+				"download" "258388880"
 			}
 		}
 		"depotfromapp" "1716750"
@@ -500,20 +408,8 @@
 	{
 		"public"
 		{
-			"buildid" "15529132"
-			"timeupdated" "1725956958"
-		}
-		"connect_test_branch"
-		{
-			"buildid" "11314093"
-			"pwdrequired" "1"
-			"timeupdated" "1685083678"
-		}
-		"functionality"
-		{
-			"buildid" "3863882"
-			"pwdrequired" "1"
-			"timeupdated" "1559108078"
+			"buildid" "16757256"
+			"timeupdated" "1738142080"
 		}
 		"local"
 		{
@@ -522,87 +418,10 @@
 			"lcsrequired" "1"
 			"timeupdated" "1507885360"
 		}
-		"milestone"
-		{
-			"buildid" "8513391"
-			"pwdrequired" "1"
-			"timeupdated" "1649319206"
-		}
-		"milestoneq"
-		{
-			"buildid" "4899546"
-			"pwdrequired" "1"
-			"timeupdated" "1586937799"
-		}
-		"nvidia_gfn"
-		{
-			"buildid" "3486012"
-			"pwdrequired" "1"
-			"timeupdated" "1555075873"
-		}
-		"patchtu13"
-		{
-			"buildid" "8976653"
-			"pwdrequired" "1"
-			"timeupdated" "1655796636"
-		}
-		"patchtu14"
-		{
-			"buildid" "9860137"
-			"pwdrequired" "1"
-			"timeupdated" "1667465655"
-		}
-		"patchtu15"
-		{
-			"buildid" "10699264"
-			"pwdrequired" "1"
-			"timeupdated" "1678093516"
-		}
-		"patchtu16"
-		{
-			"buildid" "11566553"
-			"pwdrequired" "1"
-			"timeupdated" "1687851219"
-		}
-		"patchtu16m1"
-		{
-			"buildid" "11691977"
-			"pwdrequired" "1"
-			"timeupdated" "1689239243"
-		}
-		"patchtu17"
-		{
-			"buildid" "12580179"
-			"pwdrequired" "1"
-			"timeupdated" "1698742571"
-		}
-		"patchtu18"
-		{
-			"buildid" "13529119"
-			"pwdrequired" "1"
-			"timeupdated" "1708687908"
-		}
-		"patchtu18m1"
-		{
-			"buildid" "13749759"
-			"pwdrequired" "1"
-			"timeupdated" "1710493042"
-		}
-		"validation"
-		{
-			"buildid" "5197482"
-			"pwdrequired" "1"
-			"timeupdated" "1592815301"
-		}
-		"patchtu18m2"
-		{
-			"buildid" "15529132"
-			"pwdrequired" "1"
-			"timeupdated" "1724921699"
-		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "25153361"
-"_sha" "240abb2841d7246bf6a05e44169203215401ecbd"
-"_size" "12233"
+"_change_number" "27214729"
+"_sha" "d8ec9a4d664f83a9413674877f4b2574c83982b7"
+"_size" "7993"
