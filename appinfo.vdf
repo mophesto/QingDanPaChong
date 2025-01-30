@@ -63,6 +63,15 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"228990"
 	{
 		"config"
@@ -82,48 +91,9 @@
 		{
 			"public"
 			{
-				"gid" "9167659790401111624"
-				"size" "77709373517"
-				"download" "30497176432"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"mercuryarts-newbuild"
-			{
-				"gid" "049A504C030FA13743CB7F5646C71307"
-				"size" "376640444AFA30590AF42F5E179D5158"
-				"download" "32B9E18568762BB8F62AA1BADB89C22D"
-			}
-			"validation-branch"
-			{
-				"gid" "C759F0807842B60B5589B11156BC2A01"
-				"size" "3549C3FD9BBB7CA850EBFB41642776B3"
-				"download" "2A1A336784E81586A1D36840F422176F"
-			}
-			"communitytesting"
-			{
-				"gid" "0D114B2BB6D99E78062FF3DFA3D2D964"
-				"size" "B8118762CDE27A75AEFD7780E4D58E31"
-				"download" "6398B516A35E6FF901B5F099F3661AE8"
-			}
-			"mercuryarts"
-			{
-				"gid" "3C6D7992B248BC99824AE472BB9FB87F"
-				"size" "DBDBDDDEEFFAED1B1F08D22A685125DD"
-				"download" "616888AB4AFE9CCFD0A36738CB0CC9CF"
-			}
-			"newbuild-release"
-			{
-				"gid" "8D9FC0B1424C9CAF65F9770F7B14D378"
-				"size" "D12CBF310C5B644613FE820FA458AFD1"
-				"download" "DA6BBBAEA9B8FD4F80D387882F0EF1E5"
-			}
-			"test"
-			{
-				"gid" "22439A380BA450E6E823843CDCC3AB17"
-				"size" "F85697F0540BE0AD192A51C2CE4692E4"
-				"download" "14172E4D9E4B61AD138038DCBB2F785D"
+				"gid" "4505443049630931087"
+				"size" "100160436399"
+				"download" "36416487104"
 			}
 		}
 	}
@@ -132,48 +102,13 @@
 	{
 		"public"
 		{
-			"buildid" "16175974"
-			"timeupdated" "1734376036"
-		}
-		"mercuryarts-newbuild"
-		{
-			"buildid" "9727929"
-			"pwdrequired" "1"
-			"timeupdated" "1665831686"
-		}
-		"validation-branch"
-		{
-			"buildid" "10197813"
-			"pwdrequired" "1"
-			"timeupdated" "1671721280"
-		}
-		"communitytesting"
-		{
-			"buildid" "16752281"
-			"pwdrequired" "1"
-			"timeupdated" "1734289067"
-		}
-		"mercuryarts"
-		{
-			"buildid" "16264406"
-			"pwdrequired" "1"
-			"timeupdated" "1730463486"
-		}
-		"newbuild-release"
-		{
-			"buildid" "16724930"
-			"pwdrequired" "1"
-			"timeupdated" "1734025626"
-		}
-		"test"
-		{
-			"buildid" "16412226"
-			"pwdrequired" "1"
-			"timeupdated" "1731623438"
+			"buildid" "17162476"
+			"timeupdated" "1738173644"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26666247"
-"_sha" "16c79ff311c163ef165a74cbf34c817ec7e75de6"
-"_size" "3400"
+"_change_number" "27226692"
+"_sha" "daa3813009790441c70650e79100c65cb6344034"
+"_size" "1764"
