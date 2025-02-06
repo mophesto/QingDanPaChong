@@ -483,9 +483,9 @@
 		{
 			"public"
 			{
-				"gid" "4852349069175369184"
-				"size" "3892598665"
-				"download" "2715001952"
+				"gid" "8389095347470883576"
+				"size" "3892671413"
+				"download" "2715084000"
 			}
 			"beforemacoschanges"
 			{
@@ -495,9 +495,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "5881590602876773600"
-				"size" "3962497655"
-				"download" "2759446352"
+				"gid" "3591681478233412558"
+				"size" "3991674113"
+				"download" "2775485968"
 			}
 		}
 	}
@@ -511,9 +511,9 @@
 		{
 			"public"
 			{
-				"gid" "2827279092017950494"
-				"size" "3772957746"
-				"download" "2601741264"
+				"gid" "4388399720888697619"
+				"size" "3773029471"
+				"download" "2601815376"
 			}
 			"beforemacoschanges"
 			{
@@ -523,9 +523,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "3201341038850159186"
-				"size" "3842856023"
-				"download" "2646198336"
+				"gid" "58739892199024953"
+				"size" "3872039626"
+				"download" "2662228160"
 			}
 		}
 	}
@@ -539,9 +539,9 @@
 		{
 			"public"
 			{
-				"gid" "2208307587250229208"
-				"size" "3751497330"
-				"download" "2596513040"
+				"gid" "6764833599765122035"
+				"size" "3751581853"
+				"download" "2596578176"
 			}
 			"beforemacoschanges"
 			{
@@ -551,9 +551,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "63610030044119525"
-				"size" "3821398228"
-				"download" "2640962896"
+				"gid" "509638155270607893"
+				"size" "3850586765"
+				"download" "2656985248"
 			}
 		}
 	}
@@ -562,8 +562,8 @@
 	{
 		"public"
 		{
-			"buildid" "17116447"
-			"timeupdated" "1737747020"
+			"buildid" "17244471"
+			"timeupdated" "1738778521"
 		}
 		"beforemacoschanges"
 		{
@@ -573,9 +573,9 @@
 		}
 		"updatebeta"
 		{
-			"buildid" "17115733"
+			"buildid" "17247724"
 			"description" "Public Beta"
-			"timeupdated" "1737747034"
+			"timeupdated" "1738778449"
 		}
 	}
 	"privatebranches" "1"
@@ -630,6 +630,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27155380"
-"_sha" "fb09b04cb4ff92584ee7c64c01963cbef18e89a1"
-"_size" "12473"
+"_change_number" "27330972"
+"_sha" "c4659cdfbb1910b9b38b2ff2dfed6aa881516a4e"
+"_size" "12472"
