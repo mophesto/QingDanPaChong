@@ -86,6 +86,49 @@
 			"height_pct" "41.23708122104628"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "40.39789964994167"
+				"height_pct" "41.23708122104628"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1637421215"
 	"associations"
 	{
@@ -223,8 +266,8 @@
 	{
 		"0" "5611"
 		"1" "87"
-		"2" "8013"
-		"3" "4085"
+		"2" "4085"
+		"3" "8013"
 		"4" "84"
 		"5" "872"
 		"6" "24904"
@@ -404,36 +447,27 @@
 		{
 			"public"
 			{
-				"gid" "5465725012314299548"
-				"size" "618167723"
-				"download" "268283680"
+				"gid" "1661975129383723566"
+				"size" "628559223"
+				"download" "271174880"
 			}
 			"beta"
 			{
-				"gid" "5465725012314299548"
-				"size" "618167723"
-				"download" "268283680"
+				"gid" "1661975129383723566"
+				"size" "628559223"
+				"download" "271174880"
 			}
 			"previous"
 			{
-				"gid" "3682614711587149074"
-				"size" "555725817"
-				"download" "247327024"
+				"gid" "5465725012314299548"
+				"size" "618167723"
+				"download" "268283680"
 			}
 			"windows_7_support"
 			{
 				"gid" "3682614711587149074"
 				"size" "555725817"
 				"download" "247327024"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"outdated_v1.2.70"
-			{
-				"gid" "D4C58CDD2EF6E1A4C1556FF1D560C60C"
-				"size" "234F9B6D0BF56262B8E2DFDC7A6615DE"
-				"download" "FAC21FBF5C1444B59B2B43152EBF0041"
 			}
 		}
 	}
@@ -447,21 +481,21 @@
 		{
 			"public"
 			{
-				"gid" "1677112453947627885"
-				"size" "6893178"
-				"download" "1372512"
+				"gid" "1004714038687551688"
+				"size" "7163688"
+				"download" "1417712"
 			}
 			"beta"
 			{
-				"gid" "1677112453947627885"
-				"size" "6893178"
-				"download" "1372512"
+				"gid" "1004714038687551688"
+				"size" "7163688"
+				"download" "1417712"
 			}
 			"previous"
 			{
-				"gid" "1300600108985760688"
-				"size" "6764024"
-				"download" "1353952"
+				"gid" "1677112453947627885"
+				"size" "6893178"
+				"download" "1372512"
 			}
 			"windows_7_support"
 			{
@@ -470,18 +504,26 @@
 				"download" "1353952"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"outdated_v1.2.70"
-			{
-				"gid" "B707D360EA52935E5900BDB08AD23A1B"
-				"size" "FC744284F6DE6B0DE1C37E7E13735D6C"
-				"download" "452C795475B8758F26A52386317AC8BC"
-			}
-		}
 	}
 	"branches"
 	{
+		"public"
+		{
+			"buildid" "17310415"
+			"timeupdated" "1739210483"
+		}
+		"beta"
+		{
+			"buildid" "17310415"
+			"description" "public beta testing, preview for next update"
+			"timeupdated" "1739209814"
+		}
+		"previous"
+		{
+			"buildid" "14603215"
+			"description" "old release, always the preceding version"
+			"timeupdated" "1739210258"
+		}
 		"windows_7_support"
 		{
 			"sc_schinese" " Windows 7 支持"
@@ -489,30 +531,8 @@
 			"description" "Windows 7 support"
 			"timeupdated" "1714943971"
 		}
-		"public"
-		{
-			"buildid" "14603215"
-			"timeupdated" "1717583976"
-		}
-		"beta"
-		{
-			"buildid" "14603215"
-			"description" "public beta testing, preview for next update"
-			"timeupdated" "1717531510"
-		}
-		"previous"
-		{
-			"buildid" "13565722"
-			"description" "old release, always the preceding version"
-			"timeupdated" "1717074105"
-		}
-		"outdated_v1.2.70"
-		{
-			"buildid" "6890490"
-			"pwdrequired" "1"
-			"timeupdated" "1624019689"
-		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -520,6 +540,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "23836730"
-"_sha" "7d712522ffc40def1a8aee80f3d4db3e62bda45b"
-"_size" "12591"
+"_change_number" "27405879"
+"_sha" "382d57e1b509764373f92b41ad1f76abe0d4be36"
+"_size" "12853"
