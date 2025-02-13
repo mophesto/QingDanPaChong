@@ -483,9 +483,9 @@
 		{
 			"public"
 			{
-				"gid" "8389095347470883576"
-				"size" "3892671413"
-				"download" "2715084000"
+				"gid" "3465973199915774812"
+				"size" "3893083730"
+				"download" "2715490064"
 			}
 			"beforemacoschanges"
 			{
@@ -495,9 +495,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "3591681478233412558"
-				"size" "3991674113"
-				"download" "2775485968"
+				"gid" "19127737403587391"
+				"size" "3992507610"
+				"download" "2780569872"
 			}
 		}
 	}
@@ -511,9 +511,9 @@
 		{
 			"public"
 			{
-				"gid" "4388399720888697619"
-				"size" "3773029471"
-				"download" "2601815376"
+				"gid" "5490513785222000137"
+				"size" "3773441789"
+				"download" "2602220144"
 			}
 			"beforemacoschanges"
 			{
@@ -523,9 +523,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "58739892199024953"
-				"size" "3872039626"
-				"download" "2662228160"
+				"gid" "5661509511514908107"
+				"size" "3872870490"
+				"download" "2667322416"
 			}
 		}
 	}
@@ -539,9 +539,9 @@
 		{
 			"public"
 			{
-				"gid" "6764833599765122035"
-				"size" "3751581853"
-				"download" "2596578176"
+				"gid" "735696050421894526"
+				"size" "3751994489"
+				"download" "2596988704"
 			}
 			"beforemacoschanges"
 			{
@@ -551,9 +551,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "509638155270607893"
-				"size" "3850586765"
-				"download" "2656985248"
+				"gid" "6384722719441920340"
+				"size" "3851420335"
+				"download" "2662080816"
 			}
 		}
 	}
@@ -562,8 +562,8 @@
 	{
 		"public"
 		{
-			"buildid" "17244471"
-			"timeupdated" "1738778521"
+			"buildid" "17330227"
+			"timeupdated" "1739383411"
 		}
 		"beforemacoschanges"
 		{
@@ -573,9 +573,9 @@
 		}
 		"updatebeta"
 		{
-			"buildid" "17247724"
+			"buildid" "17330800"
 			"description" "Public Beta"
-			"timeupdated" "1738778449"
+			"timeupdated" "1739383363"
 		}
 	}
 	"privatebranches" "1"
@@ -630,6 +630,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27330972"
-"_sha" "c4659cdfbb1910b9b38b2ff2dfed6aa881516a4e"
+"_change_number" "27444382"
+"_sha" "8074fe9a7296d5c9727e64fd3347acd0c8f098f0"
 "_size" "12472"
