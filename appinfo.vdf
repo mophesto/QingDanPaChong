@@ -76,6 +76,7 @@
 			"gamescope_frame_limiter_not_supported" "0"
 		}
 	}
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -97,6 +98,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1689951727"
 	"associations"
 	{
@@ -108,7 +151,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "🚀 Raiser Games"
+			"name" "UPLAY Online"
 		}
 		"2"
 		{
@@ -131,6 +174,13 @@
 		"category_22" "1"
 		"category_28" "1"
 		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_60" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -194,6 +244,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"catalan"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1634651555"
 	"community_visible_stats" "1"
@@ -218,9 +273,9 @@
 		"14" "1719"
 		"15" "4195"
 		"16" "1695"
-		"17" "44868"
-		"18" "4182"
-		"19" "10397"
+		"17" "4182"
+		"18" "10397"
+		"19" "44868"
 	}
 	"review_score" "6"
 	"review_percentage" "73"
@@ -228,7 +283,7 @@
 "extended"
 {
 	"developer" "UPLAY Online"
-	"publisher" "🚀 Raiser Games"
+	"publisher" "UPLAY Online"
 	"homepage" "https://www.youtuberslife.com/"
 }
 "config"
@@ -254,11 +309,22 @@
 				"oslist" "macos"
 			}
 		}
+		"2"
+		{
+			"executable" "Youtubers Life 2.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
 	}
 	"steamcontrollertemplateindex" "2"
 }
 "depots"
 {
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,turkish,brazilian,latam"
 	"1493761"
 	{
 		"config"
@@ -269,66 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "8042162323841500289"
-				"size" "2607219013"
-				"download" "1861592176"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"citystories"
-			{
-				"gid" "7E814A5B4B1D3C6203175B6AD7B2F8E7"
-				"size" "D3AF372CE621E73EB876EDEB4302FE60"
-				"download" "A89CF675619F8E630EDD4B7BDCD336E4"
-			}
-			"dev_inprogress"
-			{
-				"gid" "94BBDABC1B394B4058E3942253A3D994"
-				"size" "8ED3A10B6D36445FC9CF21602B301734"
-				"download" "71C042814D0BA92F01C9B7858A0F7AE7"
-			}
-			"dev_test"
-			{
-				"gid" "A1F300634E51DFD9089341C9A169E954"
-				"size" "42E900874654775414A28028C90C2819"
-				"download" "22D0135EFE47D0ABAA3A686EBE5DDACF"
-			}
-			"precertification"
-			{
-				"gid" "920B951D182EE26CEB13D2878896B987"
-				"size" "51A0A2FE5D78CE18A2C1A244825C4D08"
-				"download" "21DCAF69263E8BCD35F5E9FDEC22A40B"
-			}
-			"r_test"
-			{
-				"gid" "4B6B948C3CD00C07D8FD7EA7D9006E05"
-				"size" "33A34F6F1F609162C5C61C523726B540"
-				"download" "05E90D7AF9C8000A82B31644F6685CCD"
-			}
-			"rollback_depot"
-			{
-				"gid" "75492518D02A7E7A2C1DB8BCCA7B767D"
-				"size" "7CCA63B9779496F9466AC19E4E0085DA"
-				"download" "69519A0DDABDE02098D251663C41C6B7"
-			}
-			"v1.2.3"
-			{
-				"gid" "F1155C911EA5F6FA2C7770623F013B7E"
-				"size" "513987DE13BA6EF748EBC682CAB27546"
-				"download" "A6A3E1B4A319562AE8A09A62E1F4F057"
-			}
-			"v1.3"
-			{
-				"gid" "78EF1BBA6C3C5A47E7D8BC055D262C2B"
-				"size" "F37FB791ABEADC1C72FC0E5FC015BECA"
-				"download" "8F6BA1632F5CD12E20FE78A022BC039D"
-			}
-			"v1.3.1"
-			{
-				"gid" "F149A15D090BA0371CDB4E9DCD0C600F"
-				"size" "D93BB0647C478BCE94D768F15769CEE8"
-				"download" "DB2BD099CEFD6B75B7D3D2B98FC555E2"
+				"gid" "7174233712680828842"
+				"size" "2621027584"
+				"download" "1872178448"
 			}
 		}
 	}
@@ -342,132 +351,38 @@
 		{
 			"public"
 			{
-				"gid" "4554398618863752441"
-				"size" "2625086993"
-				"download" "1868403600"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"citystories"
-			{
-				"gid" "25A20C07BBD3896CDCEB4D68F99FA363"
-				"size" "5D49F3F5896F52ED3DF6AB3FC965470D"
-				"download" "157D6460F082671A807D6F29B9721C4F"
-			}
-			"dev_inprogress"
-			{
-				"gid" "BAF6C97E50D4DFB255C09D7DB1FFE032"
-				"size" "48AC12DD0976BE6C7B736D65D7C709EB"
-				"download" "3D681B461C55B8040F52A46D2A61134F"
-			}
-			"dev_test"
-			{
-				"gid" "6C4DC29E030FEDA18DFAE34580BEC1B9"
-				"size" "5C1512BFB193ED5C5E8E010748A4EB39"
-				"download" "ACB9B6534FE163595F0EDAC6E3C2F4A9"
-			}
-			"precertification"
-			{
-				"gid" "DC09088152857DF1DB5CDFAE88530057"
-				"size" "E9FDC5DC3BEAC113933ACA41518C5649"
-				"download" "8A2317DB580AD5544A5A3046ADA54B5B"
-			}
-			"r_test"
-			{
-				"gid" "15E834C4E42EAF4E1470FD68EA70E6F6"
-				"size" "F68B1CA81963BD640A2608E2018659AF"
-				"download" "0E3DBEF24371DAFE4DE9DBF96BE7E8FC"
-			}
-			"rollback_depot"
-			{
-				"gid" "BA0D5B25014DAC2FCDED88027CFFB4C8"
-				"size" "78A99904C1FABD8FAFCA2B51C7BE4717"
-				"download" "47B84D7EC19F0395BB3629F28E6FC6E0"
-			}
-			"v1.2.3"
-			{
-				"gid" "62237A47567F0445D482506F9B587C79"
-				"size" "74AEA92DBDE2E14CBEF48F6F5739DE9C"
-				"download" "17B041C7561EB153796172FAC9722505"
-			}
-			"v1.3"
-			{
-				"gid" "1D4539584031679EA051734E588C409C"
-				"size" "9F0A4BC76E16D1629CE8C1BA01721FD8"
-				"download" "0F605A0828E7BDC48B103C872EF6D8F4"
-			}
-			"v1.3.1"
-			{
-				"gid" "99D907163A037761E895D0EA1D9E492C"
-				"size" "50AD05DF026A7D52B67240FE3BA70CEA"
-				"download" "077B9CE6D209F10BAB9C3F33137CDB9E"
+				"gid" "655624059994004006"
+				"size" "2639307047"
+				"download" "1879175776"
 			}
 		}
 	}
-	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,turkish,brazilian"
+	"1493763"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7405249141725721058"
+				"size" "2676119546"
+				"download" "1886539024"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "10739263"
-			"timeupdated" "1683126999"
-		}
-		"citystories"
-		{
-			"buildid" "9601749"
-			"pwdrequired" "1"
-			"timeupdated" "1665063784"
-		}
-		"dev_inprogress"
-		{
-			"buildid" "10739263"
-			"pwdrequired" "1"
-			"timeupdated" "1678452993"
-		}
-		"dev_test"
-		{
-			"buildid" "10739263"
-			"pwdrequired" "1"
-			"timeupdated" "1678452963"
-		}
-		"precertification"
-		{
-			"buildid" "10522166"
-			"pwdrequired" "1"
-			"timeupdated" "1676277216"
-		}
-		"r_test"
-		{
-			"buildid" "10522166"
-			"pwdrequired" "1"
-			"timeupdated" "1676971245"
-		}
-		"rollback_depot"
-		{
-			"buildid" "10007652"
-			"pwdrequired" "1"
-			"timeupdated" "1676971220"
-		}
-		"v1.2.3"
-		{
-			"buildid" "8312728"
-			"pwdrequired" "1"
-			"timeupdated" "1668757274"
-		}
-		"v1.3"
-		{
-			"buildid" "9601749"
-			"pwdrequired" "1"
-			"timeupdated" "1668757185"
-		}
-		"v1.3.1"
-		{
-			"buildid" "10007652"
-			"pwdrequired" "1"
-			"timeupdated" "1670843542"
+			"buildid" "17335657"
+			"timeupdated" "1739462837"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -496,6 +411,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22083167"
-"_sha" "23fdcafd2333a716d8f200d9bdd8edf1af218740"
-"_size" "9988"
+"_change_number" "27462755"
+"_sha" "b655ab4b9f4df0dd43228376402e150c791664e8"
+"_size" "7051"
