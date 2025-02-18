@@ -342,6 +342,9 @@
 	"steamcontrollertouchtemplateindex" "8"
 	"steamdecktouchscreen" "1"
 	"steamconfigurator3rdpartynative" "65524"
+	"app_mappings"
+	{
+	}
 }
 "depots"
 {
@@ -418,15 +421,15 @@
 		{
 			"public"
 			{
-				"gid" "3740286178990322813"
-				"size" "113511753"
-				"download" "102867056"
+				"gid" "861760757303778114"
+				"size" "113596871"
+				"download" "102901328"
 			}
 			"public-beta"
 			{
-				"gid" "3740286178990322813"
-				"size" "113511753"
-				"download" "102867056"
+				"gid" "861760757303778114"
+				"size" "113596871"
+				"download" "102901328"
 			}
 			"v1.245c"
 			{
@@ -440,8 +443,8 @@
 	{
 		"public"
 		{
-			"buildid" "17040895"
-			"timeupdated" "1737123183"
+			"buildid" "17396431"
+			"timeupdated" "1739813283"
 		}
 		"v1.39"
 		{
@@ -451,9 +454,9 @@
 		}
 		"public-beta"
 		{
-			"buildid" "17040895"
+			"buildid" "17396431"
 			"description" "v1.515f - join our discord to give feedback!"
-			"timeupdated" "1737122746"
+			"timeupdated" "1739813267"
 		}
 		"v1.245c"
 		{
@@ -517,6 +520,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27043711"
-"_sha" "de34f8437ebeb476c2eda987e77c4fb06431866a"
-"_size" "8862"
+"_change_number" "27520100"
+"_sha" "8a362211f46f49113494a8afe68ea34e64599728"
+"_size" "8885"
