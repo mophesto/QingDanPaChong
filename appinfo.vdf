@@ -148,6 +148,16 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1644990224"
 	"community_visible_stats" "1"
@@ -331,9 +341,9 @@
 		{
 			"public"
 			{
-				"gid" "6554339554614728217"
-				"size" "9342629897"
-				"download" "7929044752"
+				"gid" "2648186093588391313"
+				"size" "9342632218"
+				"download" "7929042784"
 			}
 		}
 	}
@@ -348,9 +358,9 @@
 		{
 			"public"
 			{
-				"gid" "896196403399635791"
+				"gid" "3260576275353336680"
 				"size" "9962845771"
-				"download" "8337566672"
+				"download" "8337566624"
 			}
 		}
 	}
@@ -358,13 +368,13 @@
 	{
 		"public"
 		{
-			"buildid" "17370095"
-			"timeupdated" "1739560079"
+			"buildid" "17401847"
+			"timeupdated" "1739850778"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27485658"
-"_sha" "127c904b367beda0951d0b21a19b2edf99e49b15"
-"_size" "5888"
+"_change_number" "27527444"
+"_sha" "647acab89e84b83b78514cc73a973a4fc0d993e7"
+"_size" "6030"
