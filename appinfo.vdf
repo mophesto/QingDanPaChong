@@ -282,8 +282,8 @@
 		"15" "809"
 		"16" "3810"
 		"17" "1667"
-		"18" "13906"
-		"19" "150626"
+		"18" "150626"
+		"19" "13906"
 	}
 	"review_score" "9"
 	"review_percentage" "98"
@@ -447,15 +447,15 @@
 		{
 			"public"
 			{
-				"gid" "1661975129383723566"
-				"size" "628559223"
-				"download" "271174880"
+				"gid" "3123617359715496904"
+				"size" "628724854"
+				"download" "271191248"
 			}
 			"beta"
 			{
-				"gid" "1661975129383723566"
-				"size" "628559223"
-				"download" "271174880"
+				"gid" "3123617359715496904"
+				"size" "628724854"
+				"download" "271191248"
 			}
 			"previous"
 			{
@@ -509,14 +509,14 @@
 	{
 		"public"
 		{
-			"buildid" "17310415"
-			"timeupdated" "1739210483"
+			"buildid" "17411184"
+			"timeupdated" "1739980819"
 		}
 		"beta"
 		{
-			"buildid" "17310415"
+			"buildid" "17411184"
 			"description" "public beta testing, preview for next update"
-			"timeupdated" "1739209814"
+			"timeupdated" "1739901703"
 		}
 		"previous"
 		{
@@ -540,6 +540,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "27405879"
-"_sha" "382d57e1b509764373f92b41ad1f76abe0d4be36"
+"_change_number" "27557316"
+"_sha" "ead63e1ef516cc88c9a0a31817f73949701f2aa4"
 "_size" "12853"
