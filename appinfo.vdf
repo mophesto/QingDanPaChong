@@ -293,48 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "7836882786678519276"
-				"size" "6119482603"
-				"download" "1842674000"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"nostalgia"
-			{
-				"gid" "908BC18CC134F5FF43F15FF549AEA9B3"
-				"size" "108549315AA7267E717F54BFAF2FD2FE"
-				"download" "2D546DAEC2E6318F7F864A428AECDA5B"
-			}
-			"cert-other"
-			{
-				"gid" "B931F518DB039CAAD478AA66D002FECC"
-				"size" "D217C80D85AF18DA675647410618CC05"
-				"download" "0A7214E27886131CF7A5D9F8DD581479"
-			}
-			"closed-beta"
-			{
-				"gid" "1F7F9FFDC70B4CD69A9381DBE9EC6DC8"
-				"size" "35D7EC1B4105F91D830856C195D8A1A8"
-				"download" "240D3550A841514F670080DCC1B7FBEE"
-			}
-			"press"
-			{
-				"gid" "B6F94B483D3D401D2F21FDFE972C9311"
-				"size" "C208B115FE1CAEC79EB18BC873367205"
-				"download" "7B476E5CDD10AE901BCB5F18A437B092"
-			}
-			"shiro"
-			{
-				"gid" "F9D0B7963C04DF38ED5C3E7C7F1D227D"
-				"size" "01A05680D742BF4D42F71D52DB27D221"
-				"download" "ADC3C410AE19B14904D58E423CAE9EF7"
-			}
-			"tournament"
-			{
-				"gid" "8419C4C087FFC5B5324300E17860B04F"
-				"size" "C2152E11102F038BF5989A1DA1D7E0FA"
-				"download" "AF83AC8514D664CD00D7FA73D4229650"
+				"gid" "8378978086133080433"
+				"size" "6119482609"
+				"download" "1842671264"
 			}
 		}
 	}
@@ -342,46 +303,11 @@
 	{
 		"public"
 		{
-			"buildid" "16785013"
-			"timeupdated" "1734520484"
-		}
-		"nostalgia"
-		{
-			"buildid" "6571218"
-			"pwdrequired" "1"
-			"timeupdated" "1636734525"
-		}
-		"cert-other"
-		{
-			"buildid" "16502395"
-			"pwdrequired" "1"
-			"timeupdated" "1732526948"
-		}
-		"closed-beta"
-		{
-			"buildid" "16785013"
-			"pwdrequired" "1"
-			"timeupdated" "1734520497"
-		}
-		"press"
-		{
-			"buildid" "16785013"
-			"pwdrequired" "1"
-			"timeupdated" "1734520504"
-		}
-		"shiro"
-		{
-			"buildid" "16785013"
-			"pwdrequired" "1"
-			"timeupdated" "1734516408"
-		}
-		"tournament"
-		{
-			"buildid" "16785013"
-			"pwdrequired" "1"
-			"timeupdated" "1734520513"
+			"buildid" "17405079"
+			"timeupdated" "1740065402"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -399,6 +325,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26693735"
-"_sha" "455b839c7fce1d1076edec36630c40d88868f146"
-"_size" "7292"
+"_change_number" "27577066"
+"_sha" "c77a3c61f30b42f859b76fd0ab62dff55157cc87"
+"_size" "5606"
