@@ -270,7 +270,7 @@
 	"publisher" "RocketWerkz"
 	"homepage" "https://SurviveIcarus.com"
 	"gamemanualurl" "https://store.steampowered.com/manual/1149460/"
-	"listofdlc" "1648532,1648540,1648541,1995690,2445280,2536360,2536370,2536380,2536390,2679990,2686540,2790990,2923820,2923830,3052290"
+	"listofdlc" "1648532,1648540,1648541,1995690,2445280,2536360,2536370,2536380,2536390,2679990,2686540,2790990,2923820,2923830,3052290,3315290"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -327,15 +327,15 @@
 		{
 			"public"
 			{
-				"gid" "561773667552190967"
-				"size" "42623384530"
-				"download" "34179191392"
+				"gid" "981451930068415629"
+				"size" "43352470404"
+				"download" "34508994192"
 			}
 			"experimental"
 			{
-				"gid" "561773667552190967"
-				"size" "42623384530"
-				"download" "34179191392"
+				"gid" "981451930068415629"
+				"size" "43352470404"
+				"download" "34508994192"
 			}
 		}
 	}
@@ -343,14 +343,14 @@
 	{
 		"public"
 		{
-			"buildid" "17344813"
-			"timeupdated" "1739492014"
+			"buildid" "17434240"
+			"timeupdated" "1740111187"
 		}
 		"experimental"
 		{
-			"buildid" "17344813"
+			"buildid" "17434240"
 			"description" "Predeployment Testing"
-			"timeupdated" "1739421164"
+			"timeupdated" "1740030261"
 		}
 	}
 	"privatebranches" "1"
@@ -405,6 +405,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27469752"
-"_sha" "69f0a27ff6c8ea53be944b30f9df7ea452be22f2"
-"_size" "7226"
+"_change_number" "27589891"
+"_sha" "95b5d61454681410ac44080f09a443811ecb6da8"
+"_size" "7234"
