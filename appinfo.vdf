@@ -1,7 +1,7 @@
 "appid" "271590"
 "common"
 {
-	"name" "Grand Theft Auto V"
+	"name" "Grand Theft Auto V Legacy"
 	"type" "Game"
 	"releasestate" "released"
 	"icon" "1e72f87eb927fa1485e68aefaff23c7fd7178251"
@@ -37,6 +37,14 @@
 			"url" "https://store.steampowered.com//eula/271590_eula_0"
 			"version" "2"
 		}
+	}
+	"name_localized"
+	{
+		"schinese" "Grand Theft Auto V 传承版"
+		"tchinese" "Grand Theft Auto V 傳承版"
+		"koreana" "Grand Theft Auto V 레거시"
+		"french" "Grand Theft Auto V Version originale"
+		"japanese" "グランド・セフト・オートV レガシー"
 	}
 	"content_descriptors"
 	{
@@ -438,9 +446,9 @@
 		{
 			"public"
 			{
-				"gid" "1979509427660175214"
-				"size" "230174988"
-				"download" "187359872"
+				"gid" "6920980794360204616"
+				"size" "228262668"
+				"download" "184801072"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -461,6 +469,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "27636411"
-"_sha" "bf7e280ae252bb67562faa717846c6eb7372f287"
-"_size" "8158"
+"_change_number" "27720973"
+"_sha" "8fac31ac8ef8f503bfd4aa4ef8becfdfddb83c7d"
+"_size" "8449"
