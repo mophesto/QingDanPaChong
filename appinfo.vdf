@@ -344,6 +344,11 @@
 	"steamconfigurator3rdpartynative" "65524"
 	"app_mappings"
 	{
+		"0"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_scout"
+		}
 	}
 }
 "depots"
@@ -359,9 +364,9 @@
 		{
 			"public"
 			{
-				"gid" "7460867402718899402"
-				"size" "111952931"
-				"download" "103647360"
+				"gid" "3007503374753021080"
+				"size" "111937415"
+				"download" "103614080"
 			}
 			"v1.39"
 			{
@@ -371,9 +376,9 @@
 			}
 			"public-beta"
 			{
-				"gid" "7460867402718899402"
-				"size" "111952931"
-				"download" "103647360"
+				"gid" "3007503374753021080"
+				"size" "111937415"
+				"download" "103614080"
 			}
 			"v1.245c"
 			{
@@ -393,15 +398,15 @@
 		{
 			"public"
 			{
-				"gid" "3411400724974039774"
-				"size" "110046288"
-				"download" "102482720"
+				"gid" "9164166198265211659"
+				"size" "110126264"
+				"download" "102515920"
 			}
 			"public-beta"
 			{
-				"gid" "3411400724974039774"
-				"size" "110046288"
-				"download" "102482720"
+				"gid" "9164166198265211659"
+				"size" "110126264"
+				"download" "102515920"
 			}
 			"v1.245c"
 			{
@@ -421,15 +426,15 @@
 		{
 			"public"
 			{
-				"gid" "861760757303778114"
-				"size" "113596871"
-				"download" "102901328"
+				"gid" "4277845374073078512"
+				"size" "113600173"
+				"download" "102900864"
 			}
 			"public-beta"
 			{
-				"gid" "861760757303778114"
-				"size" "113596871"
-				"download" "102901328"
+				"gid" "4277845374073078512"
+				"size" "113600173"
+				"download" "102900864"
 			}
 			"v1.245c"
 			{
@@ -443,8 +448,8 @@
 	{
 		"public"
 		{
-			"buildid" "17396431"
-			"timeupdated" "1739813283"
+			"buildid" "17548715"
+			"timeupdated" "1740755101"
 		}
 		"v1.39"
 		{
@@ -454,9 +459,9 @@
 		}
 		"public-beta"
 		{
-			"buildid" "17396431"
+			"buildid" "17548715"
 			"description" "v1.515f - join our discord to give feedback!"
-			"timeupdated" "1739813267"
+			"timeupdated" "1740755031"
 		}
 		"v1.245c"
 		{
@@ -520,6 +525,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27520100"
-"_sha" "8a362211f46f49113494a8afe68ea34e64599728"
-"_size" "8885"
+"_change_number" "27719651"
+"_sha" "afcd065ec144448c128bdd7f742494bc495e869c"
+"_size" "8966"
