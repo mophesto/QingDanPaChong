@@ -162,7 +162,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730965758"
+	"store_asset_mtime" "1740555822"
 	"associations"
 	{
 		"0"
@@ -215,6 +215,16 @@
 			"subtitles" "true"
 		}
 		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -313,9 +323,9 @@
 		{
 			"public"
 			{
-				"gid" "6220186010629603828"
-				"size" "2676610869"
-				"download" "2440472544"
+				"gid" "6960007070080367297"
+				"size" "2676606773"
+				"download" "2440299744"
 			}
 		}
 	}
@@ -324,8 +334,8 @@
 	{
 		"public"
 		{
-			"buildid" "17454385"
-			"timeupdated" "1740138615"
+			"buildid" "17544963"
+			"timeupdated" "1740738141"
 		}
 	}
 	"privatebranches" "1"
@@ -350,6 +360,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27593874"
-"_sha" "feb7eddbfc5693b89d93b4a9a748453ee34d97a9"
-"_size" "6784"
+"_change_number" "27715057"
+"_sha" "a432c71ed975b8987bb2ffec2c6812dac8b9079e"
+"_size" "6925"
