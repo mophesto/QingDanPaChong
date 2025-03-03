@@ -94,6 +94,7 @@
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -129,11 +130,11 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "fa0d042ab22aa9ea0628f77454f3df72b5f2d199/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "fa0d042ab22aa9ea0628f77454f3df72b5f2d199/logo_2x.png"
 			}
 			"logo_position"
 			{
@@ -142,8 +143,19 @@
 				"height_pct" "100"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "54919bff26f1a59fe3d3bea8d066b8d6d22b39d2/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "54919bff26f1a59fe3d3bea8d066b8d6d22b39d2/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1734720322"
+	"store_asset_mtime" "1741017144"
 	"associations"
 	{
 		"0"
@@ -446,9 +458,9 @@
 		{
 			"public"
 			{
-				"gid" "6920980794360204616"
-				"size" "228262668"
-				"download" "184801072"
+				"gid" "3069743124386259608"
+				"size" "229581068"
+				"download" "186115536"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -469,6 +481,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "27720973"
-"_sha" "8fac31ac8ef8f503bfd4aa4ef8becfdfddb83c7d"
-"_size" "8449"
+"_change_number" "27756932"
+"_sha" "2e54dd720abfff4fce70c0450961b076af5cf7b4"
+"_size" "8796"
