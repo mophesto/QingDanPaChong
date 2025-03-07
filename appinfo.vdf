@@ -224,21 +224,25 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"italian"
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"german"
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"spanish"
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"czech"
 		{
@@ -254,11 +258,13 @@
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"koreana"
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"polish"
 		{
@@ -269,6 +275,7 @@
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"russian"
 		{
@@ -279,16 +286,19 @@
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"latam"
 		{
 			"supported" "true"
 			"full_audio" "true"
+			"subtitles" "true"
 		}
 		"tchinese"
 		{
 			"supported" "true"
 			"subtitles" "true"
+			"full_audio" "true"
 		}
 		"turkish"
 		{
@@ -428,9 +438,9 @@
 		{
 			"public"
 			{
-				"gid" "505991857863566386"
-				"size" "158381292019"
-				"download" "147547281392"
+				"gid" "5071674320527338879"
+				"size" "158381308776"
+				"download" "147547267904"
 			}
 		}
 	}
@@ -465,8 +475,8 @@
 	{
 		"public"
 		{
-			"buildid" "17304530"
-			"timeupdated" "1739382927"
+			"buildid" "17625080"
+			"timeupdated" "1741290965"
 		}
 	}
 	"privatebranches" "1"
@@ -477,6 +487,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27444207"
-"_sha" "cfcc04c23d3cea282afd5ca6a1af2b839418acfd"
-"_size" "8788"
+"_change_number" "27822085"
+"_sha" "c64c4afd9bf815fb64da9974a83491c5f3679f73"
+"_size" "9035"
