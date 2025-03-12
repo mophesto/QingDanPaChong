@@ -68,18 +68,6 @@
 	{
 		"english" "header.jpg"
 	}
-	"library_assets"
-	{
-		"library_capsule" "en"
-		"library_hero" "en"
-		"library_logo" "en"
-		"logo_position"
-		{
-			"pinned_position" "CenterCenter"
-			"width_pct" "100"
-			"height_pct" "100"
-		}
-	}
 	"library_assets_full"
 	{
 		"library_capsule"
@@ -310,9 +298,9 @@
 		{
 			"public"
 			{
-				"gid" "7613136797505638194"
-				"size" "7626896717"
-				"download" "2397516976"
+				"gid" "6417161429150353828"
+				"size" "7170501599"
+				"download" "2314453232"
 			}
 			"3.0.4"
 			{
@@ -346,9 +334,9 @@
 			}
 			"beta"
 			{
-				"gid" "7613136797505638194"
-				"size" "7626896717"
-				"download" "2397516976"
+				"gid" "6417161429150353828"
+				"size" "7170501599"
+				"download" "2314453232"
 			}
 		}
 	}
@@ -375,8 +363,8 @@
 	{
 		"public"
 		{
-			"buildid" "17242846"
-			"timeupdated" "1738707581"
+			"buildid" "17625411"
+			"timeupdated" "1741795075"
 		}
 		"3.0.4"
 		{
@@ -410,9 +398,9 @@
 		}
 		"beta"
 		{
-			"buildid" "17242846"
+			"buildid" "17625411"
 			"description" "Public Beta Branch"
-			"timeupdated" "1738707540"
+			"timeupdated" "1741375918"
 		}
 	}
 	"privatebranches" "1"
@@ -423,6 +411,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27315438"
-"_sha" "8cec3a932b545cd9e5c2ae0f41a85b3b74ba5bf0"
-"_size" "7160"
+"_change_number" "27914669"
+"_sha" "05d8034ef59bc1989ce26b9498bfa9c9f87c11cb"
+"_size" "6944"
