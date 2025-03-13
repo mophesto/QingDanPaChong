@@ -18,9 +18,9 @@
 		"tchinese" "迷失幻途"
 		"japanese" "ロスト イン ファンタランド"
 	}
-	"oslist" "windows"
+	"oslist" "windows,macos"
 	"osarch" "64"
-	"osextended" ""
+	"osextended" "macos64,macosapplesilicon"
 	"logo" "462a6dbe8d542f389ac2f3c45c2f706c588dc533"
 	"logo_small" "462a6dbe8d542f389ac2f3c45c2f706c588dc533_thumb"
 	"linuxclienticon" "3a89bc515194d22103a526d49efe6e95c4039c35"
@@ -158,7 +158,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728454205"
+	"store_asset_mtime" "1741834333"
 	"associations"
 	{
 		"0"
@@ -254,6 +254,14 @@
 				"oslist" "windows"
 			}
 		}
+		"1"
+		{
+			"executable" "LiF.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
 	}
 }
 "depots"
@@ -264,7 +272,6 @@
 		"config"
 		{
 			"oslist" "windows"
-			"language" ""
 		}
 		"manifests"
 		{
@@ -276,12 +283,28 @@
 			}
 		}
 	}
+	"1266432"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "766606292064793208"
+				"size" "632317688"
+				"download" "191225264"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17480732"
-			"timeupdated" "1740387821"
+			"buildid" "17704464"
+			"timeupdated" "1741847129"
 		}
 	}
 }
@@ -324,6 +347,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27629811"
-"_sha" "7296e454dae06a9ca087e6ee4748d74227061d44"
-"_size" "6577"
+"_change_number" "27927006"
+"_sha" "966049d3e8642ec736b66f04dc6c1265261a299d"
+"_size" "6883"
