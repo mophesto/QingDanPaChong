@@ -78,21 +78,8 @@
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
-	}
-	"library_assets"
-	{
-		"library_capsule" "en,zh-cn"
-		"library_hero" "en"
-		"library_logo" "en,zh-cn"
-		"library_header" "en,zh-cn"
-		"logo_position"
-		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "54.46224256292906"
-			"height_pct" "52.659574344735915"
-		}
+		"english" "1ccf919e71dd1ddf6c0c1074fd8dbec54f467df3/header.jpg"
+		"schinese" "22e864d92f0671e810854c106213cccc79c694ce/header_schinese.jpg"
 	}
 	"library_assets_full"
 	{
@@ -148,7 +135,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733007356"
+	"store_asset_mtime" "1741801727"
 	"associations"
 	{
 		"0"
@@ -288,7 +275,7 @@
 		"19" "4747"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -342,21 +329,15 @@
 		{
 			"public"
 			{
-				"gid" "4082426771866309870"
-				"size" "1671044512"
-				"download" "485229424"
-			}
-			"newbeginning"
-			{
-				"gid" "8173945686451700869"
-				"size" "2717074491"
-				"download" "778132960"
+				"gid" "5311638512753479137"
+				"size" "2687616026"
+				"download" "610658464"
 			}
 			"alpha"
 			{
-				"gid" "4082426771866309870"
-				"size" "1671044512"
-				"download" "485229424"
+				"gid" "5311638512753479137"
+				"size" "2687616026"
+				"download" "610658464"
 			}
 		}
 	}
@@ -370,21 +351,15 @@
 		{
 			"public"
 			{
-				"gid" "8118134331916634816"
-				"size" "1778670041"
-				"download" "525692912"
-			}
-			"newbeginning"
-			{
-				"gid" "6390906462624315205"
-				"size" "2795046916"
-				"download" "817404048"
+				"gid" "4022836882058025403"
+				"size" "2792024774"
+				"download" "641525856"
 			}
 			"alpha"
 			{
-				"gid" "8118134331916634816"
-				"size" "1778670041"
-				"download" "525692912"
+				"gid" "4022836882058025403"
+				"size" "2792024774"
+				"download" "641525856"
 			}
 		}
 	}
@@ -398,21 +373,15 @@
 		{
 			"public"
 			{
-				"gid" "3620009059495293973"
-				"size" "1665044965"
-				"download" "486681680"
-			}
-			"newbeginning"
-			{
-				"gid" "5679780054462404050"
-				"size" "2727839878"
-				"download" "782374848"
+				"gid" "7815563007120677738"
+				"size" "2685486252"
+				"download" "613045712"
 			}
 			"alpha"
 			{
-				"gid" "3620009059495293973"
-				"size" "1665044965"
-				"download" "486681680"
+				"gid" "7815563007120677738"
+				"size" "2685486252"
+				"download" "613045712"
 			}
 		}
 	}
@@ -422,20 +391,14 @@
 	{
 		"public"
 		{
-			"buildid" "16800993"
-			"timeupdated" "1734615929"
-		}
-		"newbeginning"
-		{
-			"buildid" "13889765"
-			"description" "New Beginning update"
-			"timeupdated" "1711803775"
+			"buildid" "17692888"
+			"timeupdated" "1741798433"
 		}
 		"alpha"
 		{
-			"buildid" "16800993"
+			"buildid" "17692888"
 			"description" "Alpha testing"
-			"timeupdated" "1734613995"
+			"timeupdated" "1741784528"
 		}
 	}
 	"privatebranches" "1"
@@ -451,6 +414,18 @@
 			"root" "WinAppDataLocalLow"
 			"path" "Game Smithing/Soulstone Survivors"
 			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Game Smithing/Soulstone Survivors"
+			"pattern" "*.savgs"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Game Smithing/Soulstone Survivors"
+			"pattern" "*.savbkp"
 		}
 	}
 	"rootoverrides"
@@ -488,6 +463,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26714382"
-"_sha" "160326a7ba84d25c3bcc2dac851347303c8d773e"
-"_size" "8686"
+"_change_number" "27916708"
+"_sha" "b237c5e53c69921e16e57af1ddca8cb6175e2187"
+"_size" "8240"
