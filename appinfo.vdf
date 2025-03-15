@@ -118,6 +118,18 @@
 		"sc_schinese" "header_sc_schinese.jpg"
 		"schinese" "header_schinese.jpg"
 	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.512393149848585"
+			"height_pct" "99.65280290557178"
+		}
+	}
 	"library_assets_full"
 	{
 		"library_capsule"
@@ -634,7 +646,7 @@
 		{
 			"public"
 			{
-				"gid" "4774610654760524873"
+				"gid" "3633831754551060143"
 				"size" "7"
 				"download" "64"
 			}
@@ -693,7 +705,7 @@
 		{
 			"public"
 			{
-				"gid" "5087292601000915329"
+				"gid" "7652530819364936204"
 				"size" "7"
 				"download" "64"
 			}
@@ -748,7 +760,7 @@
 		{
 			"public"
 			{
-				"gid" "420175267674276380"
+				"gid" "1940517275393603617"
 				"size" "7"
 				"download" "64"
 			}
@@ -806,7 +818,7 @@
 		{
 			"public"
 			{
-				"gid" "2204749258449765843"
+				"gid" "4439313052196512024"
 				"size" "7"
 				"download" "64"
 			}
@@ -854,7 +866,7 @@
 		{
 			"public"
 			{
-				"gid" "302363133415710552"
+				"gid" "7347860216146644263"
 				"size" "7"
 				"download" "64"
 			}
@@ -902,7 +914,7 @@
 		{
 			"public"
 			{
-				"gid" "9056948873259573934"
+				"gid" "626439787455472074"
 				"size" "7"
 				"download" "64"
 			}
@@ -950,7 +962,7 @@
 		{
 			"public"
 			{
-				"gid" "1621350780405543996"
+				"gid" "1437454634327287527"
 				"size" "7"
 				"download" "64"
 			}
@@ -998,7 +1010,7 @@
 		{
 			"public"
 			{
-				"gid" "7857948208993949947"
+				"gid" "2094373547181598065"
 				"size" "7"
 				"download" "64"
 			}
@@ -1050,9 +1062,9 @@
 		{
 			"public"
 			{
-				"gid" "8770986093008246352"
-				"size" "47547610059"
-				"download" "38141484656"
+				"gid" "8515985829461527149"
+				"size" "47538157429"
+				"download" "38135541728"
 			}
 			"1.40.5.9"
 			{
@@ -1096,9 +1108,9 @@
 		{
 			"public"
 			{
-				"gid" "4601247416234983942"
+				"gid" "395683043051521679"
 				"size" "821730072"
-				"download" "475627728"
+				"download" "475635648"
 			}
 			"1.40.5.9"
 			{
@@ -1189,9 +1201,9 @@
 		{
 			"public"
 			{
-				"gid" "4304841334454678320"
+				"gid" "3027137142276679926"
 				"size" "272528269"
-				"download" "75753104"
+				"download" "75753200"
 			}
 			"1.40.5.9"
 			{
@@ -1295,9 +1307,9 @@
 		{
 			"public"
 			{
-				"gid" "705617322192799687"
+				"gid" "3267440679884678782"
 				"size" "771755854"
-				"download" "205566912"
+				"download" "205566944"
 			}
 			"1.40.5.9"
 			{
@@ -1336,8 +1348,8 @@
 	{
 		"public"
 		{
-			"buildid" "17699163"
-			"timeupdated" "1741822578"
+			"buildid" "17732524"
+			"timeupdated" "1741994524"
 		}
 		"csgo_legacy"
 		{
@@ -1391,6 +1403,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27922124"
-"_sha" "cf38c3b9135c1627a49d8326e79b3df410b5979c"
-"_size" "25632"
+"_change_number" "27966774"
+"_sha" "29e7d89fec71122c0d1b02b491f502bc8ee96d34"
+"_size" "25894"
