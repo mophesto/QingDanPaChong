@@ -155,7 +155,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1741017144"
+	"store_asset_mtime" "1741102948"
 	"associations"
 	{
 		"0"
@@ -458,9 +458,9 @@
 		{
 			"public"
 			{
-				"gid" "3069743124386259608"
-				"size" "229581068"
-				"download" "186115536"
+				"gid" "4660968844263832801"
+				"size" "229985548"
+				"download" "186520704"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -481,6 +481,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "27756932"
-"_sha" "2e54dd720abfff4fce70c0450961b076af5cf7b4"
+"_change_number" "28015277"
+"_sha" "7de72cd6e1c9b1b892b4b114cc81b43518bedb25"
 "_size" "8796"
