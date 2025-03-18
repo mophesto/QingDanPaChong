@@ -19,7 +19,7 @@
 		"sc_schinese" "header_sc_schinese.jpg"
 	}
 	"store_screenshot" "ss_62b92a289b895ad44ccada5c823f424cb785bb05.jpg"
-	"store_asset_mtime" "1732640533"
+	"store_asset_mtime" "1742288484"
 	"associations"
 	{
 		"0"
@@ -42,6 +42,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -143,9 +144,9 @@
 		{
 			"public"
 			{
-				"gid" "9051044764819450395"
-				"size" "746186991"
-				"download" "661391216"
+				"gid" "106906219492595946"
+				"size" "746192989"
+				"download" "661391744"
 			}
 		}
 		"dlcappid" "2427741"
@@ -154,13 +155,13 @@
 	{
 		"public"
 		{
-			"buildid" "16816450"
-			"timeupdated" "1737536374"
+			"buildid" "17386964"
+			"timeupdated" "1742288307"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27114253"
-"_sha" "57666a6733714223790614d0bfdbb14565277620"
-"_size" "2526"
+"_change_number" "28009674"
+"_sha" "deb0367f25f474770947f15d7cf0b748cf3756eb"
+"_size" "2547"
