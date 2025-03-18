@@ -1,0 +1,170 @@
+"appid" "3055080"
+"common"
+{
+	"name" "Cities: Skylines II - Atmospheric Piano Channel"
+	"type" "DLC"
+	"parent" "949230"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "4d9c055912377db912b030613c9b73482a69f47f/capsule_231x87.jpg"
+		"schinese" "3e43473168036e7227d49804a551ddc1757487da/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"store_screenshot" "58a0be16ef78549ab7e3ee948d8560920c662e53/ss_58a0be16ef78549ab7e3ee948d8560920c662e53.jpg"
+	"store_asset_mtime" "1740403732"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Paradox Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1742288397"
+	"gameid" "3055080"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4328"
+		"2" "1643"
+		"3" "4182"
+		"4" "3810"
+		"5" "12472"
+		"6" "4695"
+		"7" "9"
+		"8" "4175"
+		"9" "1669"
+		"10" "1654"
+		"11" "8945"
+		"12" "10383"
+		"13" "597"
+		"14" "3859"
+		"15" "4166"
+		"16" "493"
+		"17" "1695"
+		"18" "1756"
+		"19" "5348"
+	}
+}
+"extended"
+{
+	"dlcforappid" "949230"
+	"mustownapptopurchase" "949230"
+	"developer" "Paradox Interactive"
+	"publisher" "Paradox Interactive"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"3055080"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "3055080"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1127889354119127597"
+				"size" "227637564"
+				"download" "227438176"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17387675"
+			"timeupdated" "1742285919"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "28016092"
+"_sha" "43c9865b32ddf8909c26e621d45332c1620755eb"
+"_size" "2655"
