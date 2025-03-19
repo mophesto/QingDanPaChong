@@ -51,6 +51,35 @@
 		"1" "2"
 		"2" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1742342400"
+		"tested_build_id" "17628368"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "partial"
 	"small_capsule"
@@ -284,8 +313,8 @@
 		"2" "6378"
 		"3" "3859"
 		"4" "1697"
-		"5" "1100687"
-		"6" "5611"
+		"5" "5611"
+		"6" "1100687"
 		"7" "3839"
 		"8" "21"
 		"9" "1774"
@@ -301,7 +330,7 @@
 		"19" "3843"
 	}
 	"review_score" "5"
-	"review_percentage" "54"
+	"review_percentage" "57"
 }
 "extended"
 {
@@ -359,9 +388,9 @@
 		{
 			"public"
 			{
-				"gid" "2105801069540910121"
+				"gid" "8401172663088731280"
 				"size" "34313900309"
-				"download" "33815839376"
+				"download" "33815839232"
 			}
 		}
 	}
@@ -395,9 +424,9 @@
 		{
 			"public"
 			{
-				"gid" "6331106029953691512"
-				"size" "3246893218"
-				"download" "3085272560"
+				"gid" "7931530584668210639"
+				"size" "3246903458"
+				"download" "3085280464"
 			}
 		}
 	}
@@ -407,9 +436,9 @@
 		{
 			"public"
 			{
-				"gid" "3069743124386259608"
-				"size" "229581068"
-				"download" "186115536"
+				"gid" "4660968844263832801"
+				"size" "229985548"
+				"download" "186520704"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -418,13 +447,13 @@
 	{
 		"public"
 		{
-			"buildid" "17708837"
-			"timeupdated" "1741878067"
+			"buildid" "17754914"
+			"timeupdated" "1742378431"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27936056"
-"_sha" "230ad5995dc8c54df6a7607b2916943f2e49fec1"
-"_size" "9151"
+"_change_number" "28035070"
+"_sha" "3be4ddfe28cf605287b52aee9117e5970dc7361d"
+"_size" "9898"
