@@ -159,7 +159,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1732193164"
+	"store_asset_mtime" "1736779073"
 	"associations"
 	{
 		"0"
@@ -241,12 +241,12 @@
 		"14" "14139"
 		"15" "4182"
 		"16" "1708"
-		"17" "1716"
-		"18" "4136"
+		"17" "4136"
+		"18" "1716"
 		"19" "1742"
 	}
 	"review_score" "6"
-	"review_percentage" "72"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -281,60 +281,15 @@
 		{
 			"public"
 			{
-				"gid" "448527345798789685"
-				"size" "578364876"
-				"download" "440701616"
+				"gid" "1005793408387890242"
+				"size" "1108426632"
+				"download" "648035200"
 			}
 			"crossblitz_beta"
 			{
-				"gid" "8260746116214924868"
-				"size" "578365045"
-				"download" "440693232"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"external"
-			{
-				"gid" "5C4EEC58F03B1396E15AF39E2BCAFD1D"
-				"size" "6F7166A8D3D0A9FEA3173AE3AE352091"
-				"download" "B4A0AE147A90954D47CEC22A78B49B9F"
-			}
-			"press_influencers"
-			{
-				"gid" "D983E02689D1A2CC91B9938F438717BA"
-				"size" "FDABE45FBEDA5518443D643D03A28AED"
-				"download" "E4E849E491B08F55F30CEB51EFCCC756"
-			}
-			"backup"
-			{
-				"gid" "DAEC33A54353487E84C41458F58CD83C"
-				"size" "0DAB23C0102CA3092F39A99EB875642D"
-				"download" "F8FA79130E2D05BF881382B3CEAA24A8"
-			}
-			"compat"
-			{
-				"gid" "BFC261DF3DCE61A5196A71E085373E58"
-				"size" "676490496313F093505C08D03A480355"
-				"download" "94CFC753E5A1375D81BB7E42CDCE63A7"
-			}
-			"developer"
-			{
-				"gid" "91F60EC5F908630049AC6E72A2F74D5F"
-				"size" "A684B15F6CC2E5135DDB878827094E35"
-				"download" "AC64710B543B3C603381D5E69CD29B59"
-			}
-			"gamera"
-			{
-				"gid" "BD6653567778293C8F1F5DACF538C45A"
-				"size" "37CB93ED8D5BE9346EF75E8064D0E01F"
-				"download" "2FD493C6C569DFF5D58F6FBCE673FDB5"
-			}
-			"qaintern"
-			{
-				"gid" "43A36A2F5AE23D8E734FBF373C7862E0"
-				"size" "2C875E0E6A332E2620F58400E01717BE"
-				"download" "619D83ACB3F3A3ECE98D33B37C20AC58"
+				"gid" "2902897162287936976"
+				"size" "600898308"
+				"download" "462350480"
 			}
 		}
 	}
@@ -342,58 +297,17 @@
 	{
 		"public"
 		{
-			"buildid" "16782910"
-			"timeupdated" "1734967216"
-		}
-		"external"
-		{
-			"buildid" "12809879"
-			"pwdrequired" "1"
-			"timeupdated" "1701263792"
-		}
-		"press_influencers"
-		{
-			"buildid" "13743240"
-			"pwdrequired" "1"
-			"timeupdated" "1710769944"
-		}
-		"backup"
-		{
-			"buildid" "16782910"
-			"pwdrequired" "1"
-			"timeupdated" "1734512371"
-		}
-		"compat"
-		{
-			"buildid" "16401356"
-			"pwdrequired" "1"
-			"timeupdated" "1733909655"
+			"buildid" "17613434"
+			"timeupdated" "1742486415"
 		}
 		"crossblitz_beta"
 		{
-			"buildid" "16782906"
+			"buildid" "17634925"
 			"description" "Beta branch of Cross Blitz, open to the public"
-			"timeupdated" "1734967203"
-		}
-		"developer"
-		{
-			"buildid" "14307437"
-			"pwdrequired" "1"
-			"timeupdated" "1715199173"
-		}
-		"gamera"
-		{
-			"buildid" "16782901"
-			"pwdrequired" "1"
-			"timeupdated" "1734519927"
-		}
-		"qaintern"
-		{
-			"buildid" "16782901"
-			"pwdrequired" "1"
-			"timeupdated" "1734960592"
+			"timeupdated" "1742486389"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -429,6 +343,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26763938"
-"_sha" "0929ce4c402adc83f8139515bd2e4fd6942c8d81"
-"_size" "8476"
+"_change_number" "28054482"
+"_sha" "e9eb36a247b9c32fedb5122725b37422637d1c5b"
+"_size" "6508"
