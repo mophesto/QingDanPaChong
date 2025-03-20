@@ -350,6 +350,7 @@
 		}
 	}
 	"steamcontrollertemplateindex" "4"
+	"uselaunchcommandline" "1"
 }
 "depots"
 {
@@ -378,9 +379,9 @@
 		{
 			"public"
 			{
-				"gid" "4724141416777116110"
-				"size" "10511541675"
-				"download" "9980118128"
+				"gid" "4851228726124059536"
+				"size" "10521290344"
+				"download" "9989904960"
 			}
 		}
 	}
@@ -427,8 +428,8 @@
 	{
 		"public"
 		{
-			"buildid" "17574852"
-			"timeupdated" "1741013379"
+			"buildid" "17794406"
+			"timeupdated" "1742482510"
 		}
 	}
 	"privatebranches" "1"
@@ -461,6 +462,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27755701"
-"_sha" "91b754e856f6fd4de24ea1c0d3c779f26b74dc83"
-"_size" "8250"
+"_change_number" "28053196"
+"_sha" "c50a96809be56a515849cb59c2492380638d2098"
+"_size" "8280"
