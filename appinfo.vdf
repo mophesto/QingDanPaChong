@@ -246,16 +246,16 @@
 		"7" "19"
 		"8" "1680"
 		"9" "492"
-		"10" "3810"
-		"11" "4136"
-		"12" "4175"
-		"13" "3834"
-		"14" "1663"
-		"15" "122"
-		"16" "4166"
-		"17" "15954"
-		"18" "9204"
-		"19" "1685"
+		"10" "1685"
+		"11" "3810"
+		"12" "4136"
+		"13" "4175"
+		"14" "3834"
+		"15" "1663"
+		"16" "122"
+		"17" "4166"
+		"18" "15954"
+		"19" "9204"
 	}
 	"review_score" "8"
 	"review_percentage" "88"
@@ -307,36 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "7388758060708331345"
-				"size" "12228623169"
-				"download" "4653324464"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"publictest"
-			{
-				"gid" "48BA0E366B430BC554A8753433ED9F4F"
-				"size" "922AAC7C8C3EA3A80E113EE7EF6FDF22"
-				"download" "A7AC2B2DA72DBF5C38482A8B1FAE2D70"
-			}
-			"media"
-			{
-				"gid" "93BC95292BAB04C8D8F1BFB74EED5909"
-				"size" "1E74D94BAEAA97A54250AFE66704A468"
-				"download" "51FD4C6789BAF22EF63E00A1995F67FB"
-			}
-			"newtest"
-			{
-				"gid" "E5B94F5B6A50000829845132F66ABDE6"
-				"size" "0FBE29EF6FC2918740639AD48ACD2BD9"
-				"download" "D816FE263B2C8E894881B83ECC7622DD"
-			}
-			"test"
-			{
-				"gid" "0A7F19D849E664FAAB19B1E8413B989A"
-				"size" "AC334EE6427F5817C57CE11720596B01"
-				"download" "500F9374E5864BDA91456FBE870386AD"
+				"gid" "5905302388927689467"
+				"size" "12227740209"
+				"download" "4652714496"
 			}
 		}
 	}
@@ -353,33 +326,6 @@
 				"gid" "6408742455698385061"
 				"size" "9475040620"
 				"download" "3683657536"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"publictest"
-			{
-				"gid" "010B00869AAF6B0D06ECDCC7C8822AB4"
-				"size" "F9B7512863D0499BFB814D3FBDAC1A59"
-				"download" "C6146CB5A4473A3CA9B97693B78E23DD"
-			}
-			"media"
-			{
-				"gid" "AC66AB45D33B9533C7698FE5192ADF43"
-				"size" "ABAB67A11C86D1928FD163C34D341236"
-				"download" "A290FEC7B9A62FF02597ADF3D810831E"
-			}
-			"newtest"
-			{
-				"gid" "C540BBE04772A479461F48E0F57877B6"
-				"size" "EF02BD104281D1497CAC2E6E7DED1F9D"
-				"download" "F26A30779547C0D24826A2FC806CB9FC"
-			}
-			"test"
-			{
-				"gid" "E35F88FD112DCAB6C98C77F608F58ABC"
-				"size" "3317FA5CC249C47104180103725C43FA"
-				"download" "66131964C776CB77BFA03C2A5B7CD7D1"
 			}
 		}
 	}
@@ -399,33 +345,6 @@
 				"download" "32939968"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"publictest"
-			{
-				"gid" "65C3913B481EDFEECBDD814C8DF5457F"
-				"size" "A9B7D26607283CEB9349623686B8A2D5"
-				"download" "DA0C60D22B6AD14A3122B5FDEB7F46EB"
-			}
-			"media"
-			{
-				"gid" "D49C3B3A04EAA2EFDF20045C5649851A"
-				"size" "B034B86E57BBBE48B6E54A960DB09B6B"
-				"download" "A76B8FD24A2DBDC31A9CBB1ED2098891"
-			}
-			"newtest"
-			{
-				"gid" "5A0FD01D37C7D390C83529DF5B276975"
-				"size" "2E78ACC2C7BDCBE79F44CC3EFA0B4629"
-				"download" "EF134E62FF2AA3C0D73F7A17345F0A90"
-			}
-			"test"
-			{
-				"gid" "9C54671615E51FC18DDD26B2586BF2F0"
-				"size" "41477DB5663E624EB2D4494CBB293506"
-				"download" "A5ADD2E81FC45C240AC344FAAA6B71DB"
-			}
-		}
 	}
 	"2518241"
 	{
@@ -443,54 +362,16 @@
 				"download" "15877312"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"media"
-			{
-				"gid" "BBB83B11D4CE65CB8C108EC72C2B3B5D"
-				"size" "8B371366A6584B25193E7B332480B10E"
-				"download" "049BD22B4B994D004CF81A6840A5FB1C"
-			}
-			"newtest"
-			{
-				"gid" "73A647805DDD70748767E226FBB7D219"
-				"size" "C4A9D1DB4B9FF24C8E59E3DD22F849C7"
-				"download" "434E99E12780D06B36CD39DF1784C694"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16964125"
-			"timeupdated" "1736613983"
-		}
-		"publictest"
-		{
-			"buildid" "12042991"
-			"pwdrequired" "1"
-			"timeupdated" "1693137472"
-		}
-		"media"
-		{
-			"buildid" "16964125"
-			"pwdrequired" "1"
-			"timeupdated" "1736613896"
-		}
-		"newtest"
-		{
-			"buildid" "16964125"
-			"pwdrequired" "1"
-			"timeupdated" "1736511251"
-		}
-		"test"
-		{
-			"buildid" "15014027"
-			"pwdrequired" "1"
-			"timeupdated" "1720789503"
+			"buildid" "17795862"
+			"timeupdated" "1742898800"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -512,6 +393,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26955899"
-"_sha" "ef0c34885125b7cab4a2cd81c3945a4e081e7176"
-"_size" "9496"
+"_change_number" "28127299"
+"_sha" "3dcf0f20ba875f46a01a1e709e0c9bcf3c42e0e2"
+"_size" "6557"
