@@ -53,6 +53,19 @@
 	{
 		"english" "header.jpg"
 	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "37"
+			"height_pct" "41"
+		}
+	}
 	"library_assets_full"
 	{
 		"library_capsule"
@@ -190,8 +203,8 @@
 	"store_tags"
 	{
 		"0" "4150"
-		"1" "599"
-		"2" "1663"
+		"1" "1663"
+		"2" "599"
 		"3" "4168"
 		"4" "4182"
 		"5" "3859"
@@ -231,7 +244,7 @@
 	{
 		"0"
 		{
-			"executable" "Launch_PostScriptum.exe"
+			"executable" "squad44_launcher.exe"
 			"type" "default"
 			"config"
 			{
@@ -293,9 +306,9 @@
 		{
 			"public"
 			{
-				"gid" "8523250718064496029"
-				"size" "94787078729"
-				"download" "36292507984"
+				"gid" "4072944232048711520"
+				"size" "94757070907"
+				"download" "36215402032"
 			}
 		}
 	}
@@ -303,8 +316,8 @@
 	{
 		"public"
 		{
-			"buildid" "17604300"
-			"timeupdated" "1741717632"
+			"buildid" "17856163"
+			"timeupdated" "1743009998"
 		}
 	}
 	"privatebranches" "1"
@@ -317,6 +330,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "27899686"
-"_sha" "e7f05242f523b19b8df96dbe90c7a0bc466857f5"
-"_size" "5427"
+"_change_number" "28154522"
+"_sha" "be01295e3491659433380deb57ce29e5a84a0ec7"
+"_size" "5662"
