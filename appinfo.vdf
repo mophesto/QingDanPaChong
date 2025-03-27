@@ -329,15 +329,15 @@
 		{
 			"public"
 			{
-				"gid" "2158919302083750810"
-				"size" "949567713"
-				"download" "316708384"
+				"gid" "4623296521049497773"
+				"size" "949585833"
+				"download" "316866992"
 			}
 			"beta"
 			{
-				"gid" "2158919302083750810"
-				"size" "949567713"
-				"download" "316708384"
+				"gid" "4623296521049497773"
+				"size" "949585833"
+				"download" "316866992"
 			}
 			"old_saves_version"
 			{
@@ -353,14 +353,14 @@
 	{
 		"public"
 		{
-			"buildid" "17854356"
-			"timeupdated" "1742918505"
+			"buildid" "17872556"
+			"timeupdated" "1743019625"
 		}
 		"beta"
 		{
-			"buildid" "17854356"
+			"buildid" "17872556"
 			"description" "beta testing of latest update"
-			"timeupdated" "1742918476"
+			"timeupdated" "1743019608"
 		}
 		"old_saves_version"
 		{
@@ -402,6 +402,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28133098"
-"_sha" "12b5ecd438ba981297de2e3c96f198c974494069"
+"_change_number" "28156849"
+"_sha" "ee8e5de0183b8f43f78bbf6a450a77f03d6da294"
 "_size" "6877"
