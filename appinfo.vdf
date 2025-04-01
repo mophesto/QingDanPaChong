@@ -43,6 +43,34 @@
 				"oslist" "windows"
 			}
 		}
+		"1"
+		{
+			"executable" "1_33\\bin\\win_x86\\mod_tools.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "legacy_compatibility_branch"
+			}
+			"description_loc"
+			{
+				"english" "1.33"
+			}
+			"description" "1.33"
+		}
+		"2"
+		{
+			"executable" "1_34\\bin\\win_x86\\mod_tools.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "legacy_compatibility_branch"
+			}
+			"description_loc"
+			{
+				"english" "1.34"
+			}
+			"description" "1.34"
+		}
 	}
 }
 "depots"
@@ -57,16 +85,10 @@
 				"size" "95930"
 				"download" "17808"
 			}
-			"133_compatibility_branch"
+			"legacy_compatibility_branch"
 			{
-				"gid" "4785129129991228361"
-				"size" "92731"
-				"download" "17664"
-			}
-			"134_compatibility_branch"
-			{
-				"gid" "4785129129991228361"
-				"size" "92731"
+				"gid" "2462896452508972077"
+				"size" "185462"
 				"download" "17664"
 			}
 			"135_compatibility_branch"
@@ -183,26 +205,17 @@
 				"size" "95930"
 				"download" "17808"
 			}
-			"public_beta"
+			"154_compatibility_branch"
 			{
 				"gid" "8821057416756267898"
 				"size" "95930"
 				"download" "17808"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"devbuilds"
+			"public_beta"
 			{
-				"gid" "155B03B091CE8F308AA8DD28D8E2422B"
-				"size" "0C129726428F82761F4D78B880048A90"
-				"download" "E8451C3090E6F98E172FA0AAAA690653"
-			}
-			"experimental"
-			{
-				"gid" "E642D4D81C3856A868341E043CF63110"
-				"size" "E42EE5F9493EBB78C0022F1113384646"
-				"download" "F2350AD61A89BE9DA9DAC28F1215320D"
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
 			}
 		}
 	}
@@ -216,21 +229,15 @@
 		{
 			"public"
 			{
-				"gid" "1080115108819579962"
-				"size" "40645184"
-				"download" "9128416"
+				"gid" "3386611512040924142"
+				"size" "41267776"
+				"download" "9306320"
 			}
-			"133_compatibility_branch"
+			"legacy_compatibility_branch"
 			{
-				"gid" "4007963271431024819"
-				"size" "15652488"
-				"download" "5553648"
-			}
-			"134_compatibility_branch"
-			{
-				"gid" "5000569221011284096"
-				"size" "15662448"
-				"download" "5560864"
+				"gid" "4364620367063851331"
+				"size" "31314936"
+				"download" "11033632"
 			}
 			"135_compatibility_branch"
 			{
@@ -346,26 +353,17 @@
 				"size" "40645184"
 				"download" "9128416"
 			}
+			"154_compatibility_branch"
+			{
+				"gid" "3386611512040924142"
+				"size" "41267776"
+				"download" "9306320"
+			}
 			"public_beta"
 			{
-				"gid" "1080115108819579962"
-				"size" "40645184"
-				"download" "9128416"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devbuilds"
-			{
-				"gid" "698E3A96B2A7C219B7E59AC40D92A614"
-				"size" "F683C55330C5EA6AB29793702AF62BF1"
-				"download" "419FF843069AD5B43276DE675A687461"
-			}
-			"experimental"
-			{
-				"gid" "95F19F8D6271730A7A38A2BC51C63B66"
-				"size" "677A9D229F76E5B6AD79E9533A0F005F"
-				"download" "54A8A7D8B1FFB07BFA938B6BC3AE1D32"
+				"gid" "3386611512040924142"
+				"size" "41267776"
+				"download" "9306320"
 			}
 		}
 	}
@@ -373,20 +371,14 @@
 	{
 		"public"
 		{
-			"buildid" "16524062"
-			"timeupdated" "1732781570"
+			"buildid" "17880540"
+			"timeupdated" "1743489982"
 		}
-		"133_compatibility_branch"
+		"legacy_compatibility_branch"
 		{
-			"buildid" "3344676"
-			"description" "1.33 compatibility branch"
-			"timeupdated" "1549634825"
-		}
-		"134_compatibility_branch"
-		{
-			"buildid" "3550422"
-			"description" "1.34 compatibility branch"
-			"timeupdated" "1557145217"
+			"buildid" "17575531"
+			"description" "Very old versions (1.33-1.34). Select desired version using the launch option."
+			"timeupdated" "1741013249"
 		}
 		"135_compatibility_branch"
 		{
@@ -502,25 +494,20 @@
 			"description" "1.53 compatibility branch"
 			"timeupdated" "1732552109"
 		}
-		"devbuilds"
+		"154_compatibility_branch"
 		{
-			"buildid" "16524062"
-			"pwdrequired" "1"
-			"timeupdated" "1732538860"
-		}
-		"experimental"
-		{
-			"buildid" "15769906"
-			"pwdrequired" "1"
-			"timeupdated" "1726835117"
+			"buildid" "17880540"
+			"description" "1.54 compatibility branch"
+			"timeupdated" "1743069583"
 		}
 		"public_beta"
 		{
-			"buildid" "16524062"
-			"description" "1.50 support branch (beta)"
-			"timeupdated" "1732552120"
+			"buildid" "17880540"
+			"description" "1.54 support branch (beta)"
+			"timeupdated" "1743069562"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -528,6 +515,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "26401504"
-"_sha" "2b8c0436cef6da2f9259b0ada2381c2619694b82"
-"_size" "11161"
+"_change_number" "28242624"
+"_sha" "18ac87af6917a114b4ed1a78e5a8901c48ca0529"
+"_size" "10763"
