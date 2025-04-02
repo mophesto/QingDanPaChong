@@ -76,11 +76,11 @@
 	"market_presence" "1"
 	"small_capsule"
 	{
-		"english" "c17b1f21c4b7ab2b34334e1b0d7c651f3e579a30/capsule_231x87.jpg"
+		"english" "e68fa0c69c91968fe0fa1d6bb5dc0e963da591bd/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "734bcd78c74003c602049ef070ef7344988cef2b/header.jpg"
+		"english" "676eaac7f05ea6cb79266c42cfe2a10791cc9a02/header.jpg"
 	}
 	"library_assets"
 	{
@@ -113,18 +113,18 @@
 		{
 			"image"
 			{
-				"english" "bf263b5d8d85dadcad2fe510b0427b6a3d559afb/library_hero.jpg"
+				"english" "8387fb398dff1f360ce731d260adb65cd86a3048/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "bf263b5d8d85dadcad2fe510b0427b6a3d559afb/library_hero_2x.jpg"
+				"english" "8387fb398dff1f360ce731d260adb65cd86a3048/library_hero_2x.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "bf263b5d8d85dadcad2fe510b0427b6a3d559afb/library_hero_blur.jpg"
+				"english" "8387fb398dff1f360ce731d260adb65cd86a3048/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -148,15 +148,15 @@
 		{
 			"image"
 			{
-				"english" "734bcd78c74003c602049ef070ef7344988cef2b/library_header.jpg"
+				"english" "201633cd5a0a408bc9aa7d1fd1067725d2b8694b/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "734bcd78c74003c602049ef070ef7344988cef2b/library_header_2x.jpg"
+				"english" "201633cd5a0a408bc9aa7d1fd1067725d2b8694b/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1741766415"
+	"store_asset_mtime" "1743471325"
 	"associations"
 	{
 		"0"
@@ -411,9 +411,9 @@
 		{
 			"public"
 			{
-				"gid" "2824042563480140326"
-				"size" "640440272"
-				"download" "335927760"
+				"gid" "8626458194514036279"
+				"size" "638864336"
+				"download" "333824416"
 			}
 		}
 	}
@@ -421,13 +421,13 @@
 	{
 		"public"
 		{
-			"buildid" "17845616"
-			"timeupdated" "1742947312"
+			"buildid" "17923478"
+			"timeupdated" "1743559277"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "28139916"
-"_sha" "116092af395439318bbbe854edbc466a0b377c0f"
+"_change_number" "28259638"
+"_sha" "198779146ec0ed5a61f58cce3bce11f007a1a838"
 "_size" "7769"
