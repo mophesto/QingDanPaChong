@@ -137,7 +137,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1734352298"
+	"store_asset_mtime" "1744268537"
 	"associations"
 	{
 		"0"
@@ -171,6 +171,8 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -245,16 +247,16 @@
 		"3" "21"
 		"4" "1654"
 		"5" "122"
-		"6" "3834"
-		"7" "15564"
+		"6" "15564"
+		"7" "3834"
 		"8" "9157"
 		"9" "599"
 		"10" "4182"
 		"11" "87918"
 		"12" "1742"
-		"13" "1702"
-		"14" "3871"
-		"15" "3959"
+		"13" "3959"
+		"14" "1702"
+		"15" "3871"
 		"16" "4136"
 		"17" "22602"
 		"18" "19"
@@ -268,7 +270,7 @@
 	"developer" "MINTROCKET"
 	"publisher" "MINTROCKET"
 	"homepage" "https://mintrocketgames.com/"
-	"listofdlc" "2492320,2677020,2841140"
+	"listofdlc" "2492320,2677020,2841140,3543180"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -510,9 +512,9 @@
 		{
 			"public"
 			{
-				"gid" "7380859001826027695"
-				"size" "2928263724"
-				"download" "2279334832"
+				"gid" "3078887778630089065"
+				"size" "3317302375"
+				"download" "2432430032"
 			}
 		}
 	}
@@ -526,9 +528,9 @@
 		{
 			"public"
 			{
-				"gid" "543986071272294672"
-				"size" "3433874712"
-				"download" "2346175600"
+				"gid" "2001201906533206970"
+				"size" "3452650144"
+				"download" "2355688096"
 			}
 		}
 	}
@@ -560,9 +562,9 @@
 		{
 			"public"
 			{
-				"gid" "4601295752502381046"
-				"size" "28718155"
-				"download" "21045520"
+				"gid" "7642279457042793130"
+				"size" "28719909"
+				"download" "21044976"
 			}
 		}
 	}
@@ -577,9 +579,9 @@
 		{
 			"public"
 			{
-				"gid" "6006332928101851349"
-				"size" "28717195"
-				"download" "21054480"
+				"gid" "7093100958390271678"
+				"size" "28718640"
+				"download" "21052928"
 			}
 		}
 	}
@@ -594,9 +596,9 @@
 		{
 			"public"
 			{
-				"gid" "5336291521302219749"
-				"size" "77141541"
-				"download" "68650160"
+				"gid" "6914487845343094735"
+				"size" "76942459"
+				"download" "68416288"
 			}
 		}
 	}
@@ -611,9 +613,43 @@
 		{
 			"public"
 			{
-				"gid" "7119888563448799754"
-				"size" "77142800"
-				"download" "68660912"
+				"gid" "4594674084458115449"
+				"size" "76944344"
+				"download" "68428672"
+			}
+		}
+	}
+	"3543180"
+	{
+		"dlcappid" "3543180"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7004622050103936226"
+				"size" "189427519"
+				"download" "174084512"
+			}
+		}
+	}
+	"3543181"
+	{
+		"dlcappid" "3543180"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4274165034801788850"
+				"size" "188877538"
+				"download" "173610848"
 			}
 		}
 	}
@@ -621,8 +657,8 @@
 	{
 		"public"
 		{
-			"buildid" "16984561"
-			"timeupdated" "1736756976"
+			"buildid" "18049324"
+			"timeupdated" "1744268410"
 		}
 	}
 	"privatebranches" "1"
@@ -634,6 +670,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "26969161"
-"_sha" "09d7adc2615041ac31dff1f84bd4acc3dbd5e984"
-"_size" "10778"
+"_change_number" "28402256"
+"_sha" "2b9702677f6c74f765804ef9316c1326abedc334"
+"_size" "11287"
