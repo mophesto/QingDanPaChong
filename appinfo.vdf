@@ -32,8 +32,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1717632000"
-		"tested_build_id" "14401010"
+		"test_timestamp" "1741651200"
+		"tested_build_id" "16456495"
 		"tests"
 		{
 			"0"
@@ -61,11 +61,6 @@
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
-			"5"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
-			}
 		}
 		"configuration"
 		{
@@ -76,21 +71,35 @@
 			"non_deck_display_glyphs" "1"
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
-			"requires_internet_for_singleplayer" "1"
-			"recommended_runtime" "proton-experimental"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "1"
 			"gamescope_frame_limiter_not_supported" "0"
-			"hdr_support" "0"
+			"hdr_support" "2"
 		}
 	}
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "2084dccc7ae08c6357a9f311cbdae0876b5c53a7/capsule_231x87.jpg"
+		"english" "bcfa7b8186e34905aec0b910be19d81f11547d16/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "faa828d6f3ea5776b5a3c56f6fb2d08e7b576d1e/header.jpg"
+		"english" "3c103afc1db13776d5d411ccfd3037e2f43f3a5b/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
 	}
 	"library_assets_full"
 	{
@@ -98,29 +107,29 @@
 		{
 			"image"
 			{
-				"english" "c8ced94bf9c300c877f5877e8adb615a58c11640/library_600x900.jpg"
+				"english" "827cd4a33a02297a946c45633d9d2b25f939f435/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "c8ced94bf9c300c877f5877e8adb615a58c11640/library_600x900_2x.jpg"
+				"english" "827cd4a33a02297a946c45633d9d2b25f939f435/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"english" "e2667c8d9082f18b1ff47db534d546244e21e7f9/library_hero_2x.jpg"
+				"english" "9300df149a65a3d15d2d4245475ddabb5285a84e/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "e2667c8d9082f18b1ff47db534d546244e21e7f9/library_hero.jpg"
+				"english" "9300df149a65a3d15d2d4245475ddabb5285a84e/library_hero.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "e2667c8d9082f18b1ff47db534d546244e21e7f9/library_hero_blur.jpg"
+				"english" "9300df149a65a3d15d2d4245475ddabb5285a84e/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -144,15 +153,15 @@
 		{
 			"image"
 			{
-				"english" "53e05177505f808a2e68a86d15cd64500463bc20/library_header.jpg"
+				"english" "3c103afc1db13776d5d411ccfd3037e2f43f3a5b/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "53e05177505f808a2e68a86d15cd64500463bc20/library_header_2x.jpg"
+				"english" "3c103afc1db13776d5d411ccfd3037e2f43f3a5b/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1741716258"
+	"store_asset_mtime" "1744130528"
 	"associations"
 	{
 		"0"
@@ -418,9 +427,9 @@
 		{
 			"public"
 			{
-				"gid" "3776860437409252697"
-				"size" "52115134218"
-				"download" "42637723792"
+				"gid" "6577410647111745671"
+				"size" "52112403222"
+				"download" "42606394016"
 			}
 		}
 	}
@@ -639,9 +648,9 @@
 		{
 			"public"
 			{
-				"gid" "5702600933048366206"
-				"size" "26871738537"
-				"download" "24379831488"
+				"gid" "3778592415416232268"
+				"size" "26875674129"
+				"download" "24381577120"
 			}
 		}
 	}
@@ -873,8 +882,8 @@
 	{
 		"public"
 		{
-			"buildid" "17374764"
-			"timeupdated" "1741799248"
+			"buildid" "17795052"
+			"timeupdated" "1744218505"
 		}
 	}
 	"privatebranches" "1"
@@ -886,6 +895,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "27915968"
-"_sha" "82cc487da70a5c84c950b04b5c30e5d119a686c9"
-"_size" "14398"
+"_change_number" "28391154"
+"_sha" "2056f76b0642672d0400bc231b2cc5391dd5de6f"
+"_size" "14523"
