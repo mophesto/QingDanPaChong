@@ -78,16 +78,6 @@
 	"market_presence" "1"
 	"metacritic_name" "Don\'t Starve Together"
 	"controller_support" "full"
-	"small_capsule"
-	{
-		"english" "capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
-	}
-	"header_image"
-	{
-		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
-	}
 	"library_assets"
 	{
 		"library_capsule" "en,zh-cn"
@@ -157,7 +147,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1741894952"
+	"store_asset_mtime" "1744308334"
 	"associations"
 	{
 		"0"
@@ -483,9 +473,9 @@
 		{
 			"public"
 			{
-				"gid" "424412988967010102"
-				"size" "4034128655"
-				"download" "2805142448"
+				"gid" "2197901144649424639"
+				"size" "4039366710"
+				"download" "2809657760"
 			}
 			"beforemacoschanges"
 			{
@@ -511,9 +501,9 @@
 		{
 			"public"
 			{
-				"gid" "1369566053432056279"
-				"size" "3914495054"
-				"download" "2691899664"
+				"gid" "1441266452256679939"
+				"size" "3919736146"
+				"download" "2696402656"
 			}
 			"beforemacoschanges"
 			{
@@ -539,9 +529,9 @@
 		{
 			"public"
 			{
-				"gid" "4376806533872430107"
-				"size" "3893067775"
-				"download" "2686665152"
+				"gid" "6111864135793605261"
+				"size" "3898306422"
+				"download" "2691168256"
 			}
 			"beforemacoschanges"
 			{
@@ -562,8 +552,8 @@
 	{
 		"public"
 		{
-			"buildid" "17931480"
-			"timeupdated" "1743543858"
+			"buildid" "18064125"
+			"timeupdated" "1744330502"
 		}
 		"beforemacoschanges"
 		{
@@ -630,6 +620,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28256932"
-"_sha" "96566badfca3a210a71aec8cf5a563730a5bfa08"
-"_size" "12474"
+"_change_number" "28418604"
+"_sha" "231972a7ad0c9ff0c32333764aef995c95b3690b"
+"_size" "12280"
