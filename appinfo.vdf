@@ -40,8 +40,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1651622400"
-		"tested_build_id" "2792722"
+		"test_timestamp" "1743120000"
+		"tested_build_id" "13146413"
 		"tests"
 		{
 			"0"
@@ -52,47 +52,53 @@
 			"1"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
 			}
 			"2"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
 			}
 			"3"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"4"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"5"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"6"
 			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"7"
+			{
 				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
 			}
 		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
-			"requires_manual_keyboard_invoke" "1"
+			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "1"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
+			"non_deck_display_glyphs" "0"
 			"small_text" "0"
-			"requires_internet_for_setup" "0"
-			"requires_internet_for_singleplayer" "1"
-			"recommended_runtime" "proton-stable"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Far Cry 3"
@@ -104,6 +110,18 @@
 	"header_image"
 	{
 		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "32"
+			"height_pct" "48"
+		}
 	}
 	"library_assets_full"
 	{
@@ -279,8 +297,8 @@
 		"9" "9564"
 		"10" "4182"
 		"11" "3810"
-		"12" "1662"
-		"13" "1742"
+		"12" "1742"
+		"13" "1662"
 		"14" "3843"
 		"15" "4166"
 		"16" "6650"
@@ -696,9 +714,9 @@
 		{
 			"public"
 			{
-				"gid" "3341282173115166582"
-				"size" "239900768"
-				"download" "241746080"
+				"gid" "4959487946240756341"
+				"size" "572296"
+				"download" "453392"
 			}
 		}
 		"depotfromapp" "1716750"
@@ -714,6 +732,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27908290"
-"_sha" "d22d8132263cf46ad0477024af1b6cc17182a00d"
-"_size" "11256"
+"_change_number" "28462776"
+"_sha" "602d422aa6888aee0ac734e37f4911665918185f"
+"_size" "11570"
