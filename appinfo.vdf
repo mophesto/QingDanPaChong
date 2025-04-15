@@ -74,14 +74,14 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"schinese" "e29574039bdbd15a22f18d081dbe0675008b0a37/capsule_231x87_schinese.jpg"
-		"english" "73d66fc82701fd9cde80b17aa8ae3e7de4e90567/capsule_231x87.jpg"
+		"schinese" "3e67fd51423690c41f6ae2a6aaff6f2e89a7bd16/capsule_231x87_schinese.jpg"
+		"english" "444485546639a6113ac899292fd11e0bfbf9ca49/capsule_231x87.jpg"
 		"tchinese" "6878658a56259a6dd2d0fb7a772f3efae38fa2be/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
+		"english" "5afd7a74cd852f48c07294a9a2a1a2801af87aeb/header.jpg"
+		"schinese" "b7af7a8272c1919d4a257590a092d94fdba80f82/header_schinese.jpg"
 		"tchinese" "header_tchinese.jpg"
 	}
 	"library_assets"
@@ -104,13 +104,13 @@
 			"image"
 			{
 				"english" "library_600x900.jpg"
-				"schinese" "b823473664b8d3836d170c96a6af365081326e38/library_600x900_schinese.jpg"
+				"schinese" "524e4f556ce0ddec34c1e5b050adf29a013deb7d/library_600x900_schinese.jpg"
 				"tchinese" "d5954186f930da5b4230bda58d58f26e78e2f8f6/library_600x900_tchinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
-				"schinese" "b823473664b8d3836d170c96a6af365081326e38/library_600x900_schinese_2x.jpg"
+				"schinese" "524e4f556ce0ddec34c1e5b050adf29a013deb7d/library_600x900_schinese_2x.jpg"
 				"tchinese" "d5954186f930da5b4230bda58d58f26e78e2f8f6/library_600x900_tchinese_2x.jpg"
 			}
 		}
@@ -163,7 +163,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1738598928"
+	"store_asset_mtime" "1744661778"
 	"associations"
 	{
 		"0"
@@ -189,7 +189,6 @@
 		"1" "25"
 		"2" "23"
 		"3" "28"
-		"4" "70"
 	}
 	"category"
 	{
@@ -269,42 +268,42 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1687453200"
+	"steam_release_date" "1744650155"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1641960"
 	"store_tags"
 	{
-		"0" "1662"
-		"1" "1695"
-		"2" "7332"
-		"3" "21"
-		"4" "1702"
-		"5" "19"
-		"6" "4166"
-		"7" "4182"
-		"8" "1100689"
-		"9" "1643"
-		"10" "3834"
-		"11" "3835"
-		"12" "3839"
-		"13" "493"
-		"14" "3942"
-		"15" "8945"
-		"16" "5794"
-		"17" "4106"
-		"18" "4175"
-		"19" "599"
+		"0" "4182"
+		"1" "3834"
+		"2" "1685"
+		"3" "1662"
+		"4" "7332"
+		"5" "1695"
+		"6" "21"
+		"7" "1702"
+		"8" "19"
+		"9" "4166"
+		"10" "1100689"
+		"11" "3859"
+		"12" "1643"
+		"13" "3835"
+		"14" "4191"
+		"15" "3839"
+		"16" "4295"
+		"17" "3942"
+		"18" "8945"
+		"19" "5794"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
 	"developer" "Far From Home"
 	"publisher" "Far From Home"
 	"homepage" "https://www.farfromhomegames.com/en/foreverskies"
-	"listofdlc" "2635800"
+	"listofdlc" "2635800,3625790"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -346,6 +345,8 @@
 }
 "depots"
 {
+	"baselanguages" "english"
+	"hasdepotsindlc" "0"
 	"228989"
 	{
 		"config"
@@ -364,8 +365,6 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"baselanguages" "english"
-	"hasdepotsindlc" "0"
 	"1641962"
 	{
 		"config"
@@ -376,9 +375,9 @@
 		{
 			"public"
 			{
-				"gid" "5606790225951512776"
-				"size" "32089794934"
-				"download" "10218655456"
+				"gid" "3674374458360680472"
+				"size" "22344587721"
+				"download" "8601153792"
 			}
 			"legacy"
 			{
@@ -395,8 +394,8 @@
 	{
 		"public"
 		{
-			"buildid" "17493422"
-			"timeupdated" "1740481268"
+			"buildid" "18103937"
+			"timeupdated" "1744659563"
 		}
 		"legacy"
 		{
@@ -422,6 +421,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27659118"
-"_sha" "eaf0160759be962554627a4bd59f5d55bb55602a"
-"_size" "8247"
+"_change_number" "28477613"
+"_sha" "80e50f706d87438d8d7700b6827021f5c5d1b1c2"
+"_size" "8325"
