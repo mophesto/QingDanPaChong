@@ -185,13 +185,13 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733933073"
+	"store_asset_mtime" "1744040541"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "HEXWORKS"
+			"name" "CI Games"
 		}
 		"1"
 		{
@@ -304,12 +304,12 @@
 	"store_tags"
 	{
 		"0" "3834"
-		"1" "3993"
-		"2" "29482"
+		"1" "29482"
+		"2" "3993"
 		"3" "19"
-		"4" "4046"
-		"5" "122"
-		"6" "4604"
+		"4" "122"
+		"5" "4604"
+		"6" "4046"
 		"7" "1742"
 		"8" "4231"
 		"9" "4182"
@@ -329,7 +329,7 @@
 }
 "extended"
 {
-	"developer" "HEXWORKS"
+	"developer" "CI Games"
 	"publisher" "CI Games"
 	"homepage" "https://lordsofthefallen.com/"
 	"listofdlc" "2370550,2387870,2387880,2387890,2387920"
@@ -382,9 +382,9 @@
 		{
 			"public"
 			{
-				"gid" "5428162668104520622"
-				"size" "34884657722"
-				"download" "33933258736"
+				"gid" "5135197847024483719"
+				"size" "34884672897"
+				"download" "33933669936"
 			}
 		}
 	}
@@ -393,8 +393,8 @@
 	{
 		"public"
 		{
-			"buildid" "17200521"
-			"timeupdated" "1738773682"
+			"buildid" "18081813"
+			"timeupdated" "1744816369"
 		}
 	}
 	"privatebranches" "1"
@@ -425,6 +425,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27329635"
-"_sha" "da8f51f64f986b85db5eee6de744b6e80c2a9a5a"
+"_change_number" "28510890"
+"_sha" "1dc7882770cbc6f2bcdd5208b090fd6c90cd9bd7"
 "_size" "7881"
