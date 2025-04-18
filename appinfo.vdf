@@ -1023,15 +1023,15 @@
 		{
 			"public"
 			{
-				"gid" "5693336842313173839"
-				"size" "66405402"
-				"download" "20387744"
+				"gid" "827825136862931586"
+				"size" "66409530"
+				"download" "20386240"
 			}
 			"public_beta"
 			{
-				"gid" "5693336842313173839"
-				"size" "66405402"
-				"download" "20387744"
+				"gid" "827825136862931586"
+				"size" "66409530"
+				"download" "20386240"
 			}
 			"oculus"
 			{
@@ -15601,14 +15601,14 @@
 	{
 		"public"
 		{
-			"buildid" "18016139"
-			"timeupdated" "1744055023"
+			"buildid" "18149250"
+			"timeupdated" "1744920900"
 		}
 		"public_beta"
 		{
-			"buildid" "18016139"
+			"buildid" "18149250"
 			"description" "Open Beta for game version 1.54"
-			"timeupdated" "1744054927"
+			"timeupdated" "1744920853"
 		}
 		"oculus"
 		{
@@ -15769,6 +15769,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "28352721"
-"_sha" "8ee40381cce1dfc398e5454809aa5639337ff7b6"
-"_size" "280309"
+"_change_number" "28537415"
+"_sha" "f12fbe7fcb220a158aefa8862672d1f2f48cdb48"
+"_size" "280307"
