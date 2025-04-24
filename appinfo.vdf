@@ -162,7 +162,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1740555822"
+	"store_asset_mtime" "1745489613"
 	"associations"
 	{
 		"0"
@@ -225,6 +225,11 @@
 			"subtitles" "true"
 		}
 		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -323,9 +328,9 @@
 		{
 			"public"
 			{
-				"gid" "9026904541591553497"
-				"size" "2676576229"
-				"download" "2440369280"
+				"gid" "879815097678408506"
+				"size" "2694512019"
+				"download" "2456986064"
 			}
 		}
 	}
@@ -334,8 +339,8 @@
 	{
 		"public"
 		{
-			"buildid" "17806577"
-			"timeupdated" "1742549577"
+			"buildid" "18222090"
+			"timeupdated" "1745490137"
 		}
 	}
 	"privatebranches" "1"
@@ -360,6 +365,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28068531"
-"_sha" "ca4a79c0954093278fd5f912d8b51287dca2728b"
-"_size" "6925"
+"_change_number" "28641807"
+"_sha" "bb0efcebcbd20aad985c5629ae5948065402cd84"
+"_size" "6995"
