@@ -122,7 +122,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1731680314"
+	"store_asset_mtime" "1745683324"
 	"associations"
 	{
 		"0"
@@ -262,7 +262,7 @@
 	"developer" "Noxfall Studios"
 	"publisher" "Noxfall Studios"
 	"homepage" "https://noxfallstudios.com/nordic-ashes"
-	"listofdlc" "2952100,3312220"
+	"listofdlc" "2952100,3312220,3636780"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -314,9 +314,9 @@
 		{
 			"public"
 			{
-				"gid" "5713592516115521137"
-				"size" "577351914"
-				"download" "456543456"
+				"gid" "7697468820514647370"
+				"size" "578430423"
+				"download" "456884400"
 			}
 		}
 	}
@@ -330,9 +330,9 @@
 		{
 			"public"
 			{
-				"gid" "7610617403164954724"
-				"size" "667513156"
-				"download" "474542672"
+				"gid" "4481464011031983938"
+				"size" "667729081"
+				"download" "474712208"
 			}
 		}
 	}
@@ -346,9 +346,9 @@
 		{
 			"public"
 			{
-				"gid" "2990722391877689437"
-				"size" "606719830"
-				"download" "457135104"
+				"gid" "1068590893078504804"
+				"size" "608153953"
+				"download" "457550960"
 			}
 		}
 	}
@@ -420,8 +420,8 @@
 	{
 		"public"
 		{
-			"buildid" "17503250"
-			"timeupdated" "1740505433"
+			"buildid" "18251107"
+			"timeupdated" "1745689971"
 		}
 	}
 	"privatebranches" "1"
@@ -474,6 +474,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27661348"
-"_sha" "a68342e495f79245681aae0d8938edd702467ccc"
-"_size" "7639"
+"_change_number" "28685128"
+"_sha" "60934e8c01434704e5132da4604d54bce72ca916"
+"_size" "7647"
