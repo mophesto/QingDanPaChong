@@ -106,6 +106,55 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "35.03619242841586"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
 	"store_asset_mtime" "1712811798"
 	"associations"
 	{
@@ -202,8 +251,8 @@
 		"3" "5055"
 		"4" "4175"
 		"5" "4191"
-		"6" "1775"
-		"7" "12472"
+		"6" "12472"
+		"7" "1775"
 		"8" "4747"
 		"9" "7481"
 		"10" "9204"
@@ -218,7 +267,7 @@
 		"19" "4182"
 	}
 	"review_score" "4"
-	"review_percentage" "27"
+	"review_percentage" "31"
 }
 "extended"
 {
@@ -227,7 +276,7 @@
 	"developer" "Visual Concepts"
 	"publisher" "2K"
 	"homepage" "https://www.nba2k.com/"
-	"listofdlc" "2413250,2413251,2413260,2413261,2413262,2413263,2413264,2413265,2413266,2413267,2413268,2413269,2413270,2413271,2413272,2413273,2514210,2514220,2514230,2514240"
+	"listofdlc" "2413250,2413251,2413260,2413261,2413262,2413263,2413264,2413265,2413266,2413267,2413268,2413269,2413270,2413271,2413272,2413273,2413274,2413275,2514210,2514220,2514230,2514240"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -267,36 +316,9 @@
 		{
 			"public"
 			{
-				"gid" "7424846251945631105"
-				"size" "162871867660"
-				"download" "139668952880"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"milestones"
-			{
-				"gid" "901188E1F0E7BD6DDD4695EB559C7289"
-				"size" "6624FE50F6682CC50693D52461D6815B"
-				"download" "5F4C64CACFB03B8F911106E0CE1B7330"
-			}
-			"silvercompatrun"
-			{
-				"gid" "110D0803C1433B24362743E75EB9CC33"
-				"size" "1E728D662F10C56198A6D42D9B8463CD"
-				"download" "445D5041B023CCB81ED33E2234A09EE3"
-			}
-			"steamtest"
-			{
-				"gid" "F9322F560DDD25BF6955DE5E9D9C18DC"
-				"size" "49E2170AE82EA97E7AC93E061AE48D3E"
-				"download" "D37ED19E6F93E07B749F532854AB9C31"
-			}
-			"silver"
-			{
-				"gid" "55183E27CF167CC486D542EB3F91C80B"
-				"size" "E05C6B14A758F504672FB7410A76C270"
-				"download" "250F91416B44276906F39FEC237FE68F"
+				"gid" "4532142158391756958"
+				"size" "163472296375"
+				"download" "139932356384"
 			}
 		}
 	}
@@ -305,34 +327,11 @@
 	{
 		"public"
 		{
-			"buildid" "14748408"
-			"timeupdated" "1719600642"
-		}
-		"milestones"
-		{
-			"buildid" "13955149"
-			"pwdrequired" "1"
-			"timeupdated" "1712334170"
-		}
-		"silvercompatrun"
-		{
-			"buildid" "12027944"
-			"pwdrequired" "1"
-			"timeupdated" "1693002918"
-		}
-		"steamtest"
-		{
-			"buildid" "11860140"
-			"pwdrequired" "1"
-			"timeupdated" "1694036728"
-		}
-		"silver"
-		{
-			"buildid" "14900304"
-			"pwdrequired" "1"
-			"timeupdated" "1719958573"
+			"buildid" "17177048"
+			"timeupdated" "1740590126"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -340,6 +339,6 @@
 	"maxnumfiles" "250"
 }
 "_missing_token" "False"
-"_change_number" "24213500"
-"_sha" "3e30928e0d1f9496c99a23f5c9eda2f2cb757f49"
-"_size" "6570"
+"_change_number" "28534114"
+"_sha" "ff0e2705302861e6eeaf70e379ccb27b19493561"
+"_size" "6146"
