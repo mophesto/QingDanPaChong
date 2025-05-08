@@ -271,6 +271,10 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "271590"
+	"content_descriptors_including_dlc"
+	{
+		"0" "5"
+	}
 	"store_tags"
 	{
 		"0" "1695"
@@ -458,9 +462,9 @@
 		{
 			"public"
 			{
-				"gid" "3363863691789438963"
-				"size" "230161164"
-				"download" "186743792"
+				"gid" "4177720964978853031"
+				"size" "230627596"
+				"download" "187200304"
 			}
 		}
 		"depotfromapp" "1899670"
@@ -481,6 +485,6 @@
 	"maxnumfiles" "0"
 }
 "_missing_token" "False"
-"_change_number" "28837912"
-"_sha" "b4f523d3285663c809c227b06eb86e560c213976"
-"_size" "8796"
+"_change_number" "28878884"
+"_sha" "f56e2903f22d938181ba026271be7bb3b2a04f09"
+"_size" "8854"
