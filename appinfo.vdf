@@ -200,6 +200,11 @@
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "736220"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"store_tags"
 	{
 		"0" "4150"
@@ -306,9 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "4072944232048711520"
-				"size" "94757070907"
-				"download" "36215402032"
+				"gid" "4129497774663143022"
+				"size" "94757122783"
+				"download" "36215421568"
 			}
 		}
 	}
@@ -316,8 +321,8 @@
 	{
 		"public"
 		{
-			"buildid" "17856163"
-			"timeupdated" "1743009998"
+			"buildid" "18378760"
+			"timeupdated" "1746725252"
 		}
 	}
 	"privatebranches" "1"
@@ -330,6 +335,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "28154522"
-"_sha" "be01295e3491659433380deb57ce29e5a84a0ec7"
-"_size" "5662"
+"_change_number" "28887264"
+"_sha" "101d6377d036c3a06292df3eedf6a2d344efe470"
+"_size" "5732"
