@@ -185,7 +185,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1746025008"
+	"store_asset_mtime" "1746779987"
 	"associations"
 	{
 		"0"
@@ -301,6 +301,11 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1501750"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"store_tags"
 	{
 		"0" "29482"
@@ -319,13 +324,13 @@
 		"13" "4172"
 		"14" "3854"
 		"15" "4057"
-		"16" "4747"
-		"17" "3859"
+		"16" "3859"
+		"17" "4747"
 		"18" "1684"
 		"19" "1695"
 	}
 	"review_score" "5"
-	"review_percentage" "65"
+	"review_percentage" "66"
 }
 "extended"
 {
@@ -382,9 +387,9 @@
 		{
 			"public"
 			{
-				"gid" "2608553422601538139"
-				"size" "34942710344"
-				"download" "33970842944"
+				"gid" "8594351001881538459"
+				"size" "34943294294"
+				"download" "33971076496"
 			}
 		}
 	}
@@ -393,8 +398,8 @@
 	{
 		"public"
 		{
-			"buildid" "18296693"
-			"timeupdated" "1746111604"
+			"buildid" "18389450"
+			"timeupdated" "1746806471"
 		}
 	}
 	"privatebranches" "1"
@@ -425,6 +430,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28770265"
-"_sha" "6a59bf3c486a8eb594cceb5bc5914a96652e9875"
-"_size" "7889"
+"_change_number" "28905191"
+"_sha" "2daa211e3864bfa4833c328b05a236769573857c"
+"_size" "7959"
