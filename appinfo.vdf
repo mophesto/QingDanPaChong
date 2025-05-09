@@ -236,6 +236,11 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1149460"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"store_tags"
 	{
 		"0" "1662"
@@ -327,15 +332,15 @@
 		{
 			"public"
 			{
-				"gid" "1256783850177665239"
-				"size" "43807911119"
-				"download" "34920866688"
+				"gid" "3092140693489230354"
+				"size" "44034427464"
+				"download" "35098816944"
 			}
 			"experimental"
 			{
-				"gid" "1256783850177665239"
-				"size" "43807911119"
-				"download" "34920866688"
+				"gid" "3092140693489230354"
+				"size" "44034427464"
+				"download" "35098816944"
 			}
 		}
 	}
@@ -343,14 +348,14 @@
 	{
 		"public"
 		{
-			"buildid" "18275424"
-			"timeupdated" "1746160035"
+			"buildid" "18355252"
+			"timeupdated" "1746761170"
 		}
 		"experimental"
 		{
-			"buildid" "18275424"
+			"buildid" "18355252"
 			"description" "Predeployment Testing"
-			"timeupdated" "1746064463"
+			"timeupdated" "1746548334"
 		}
 	}
 	"privatebranches" "1"
@@ -405,6 +410,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28779810"
-"_sha" "11e24eb2053edc685a26f1df1ddf4e277625c0c1"
-"_size" "7236"
+"_change_number" "28894378"
+"_sha" "f3c7817f0c14f6850607aeb86b9863ff45e8669c"
+"_size" "7306"
