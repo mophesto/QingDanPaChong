@@ -3,15 +3,15 @@
 {
 	"name" "Nordic Ashes"
 	"type" "Game"
-	"clienttga" "7ebeb6b215ba7bad1c31c11d81d8152b1a79f0a9"
-	"icon" "311e9b9b5c490ac1984aa3aef10bf39c92070317"
-	"clienticon" "e2807e5a0b83ec4c94d3c2fc08c66f834f1fd617"
+	"clienttga" "f07b1f4903592d844515d62959282fe3aca9a480"
+	"icon" "61e405964158317690aeb83af43886cee4ca93e5"
+	"clienticon" "44c56363bc91adab72e1ebf8e8775ca3ee3eabb6"
 	"oslist" "windows,macos,linux"
 	"osarch" ""
 	"osextended" "macos64,macosapplesilicon"
 	"releasestate" "released"
-	"clienticns" "f39e3c1d5296d62598d001283a1e8f3de6fa9ca4"
-	"linuxclienticon" "e87af849d3b4b34f31e6802dde71ff5c7319b725"
+	"clienticns" "bfed77d176b9b695af85c3e10e0a64d5f9102322"
+	"linuxclienticon" "0d4f864cbdd9e5dddf0bcda2b0b5f06afba8be50"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -62,7 +62,7 @@
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "91d5a5e0c1f2155065a5667ec32b173a36ce9852/header.jpg"
 	}
 	"library_assets"
 	{
@@ -122,7 +122,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1745683324"
+	"store_asset_mtime" "1746897307"
 	"associations"
 	{
 		"0"
@@ -241,8 +241,8 @@
 		"5" "4637"
 		"6" "4791"
 		"7" "597"
-		"8" "4231"
-		"9" "19"
+		"8" "19"
+		"9" "4231"
 		"10" "3871"
 		"11" "3834"
 		"12" "1716"
@@ -314,9 +314,9 @@
 		{
 			"public"
 			{
-				"gid" "7697468820514647370"
-				"size" "578430423"
-				"download" "456884400"
+				"gid" "4640887585217712933"
+				"size" "638078754"
+				"download" "517712432"
 			}
 		}
 	}
@@ -330,9 +330,9 @@
 		{
 			"public"
 			{
-				"gid" "4481464011031983938"
-				"size" "667729081"
-				"download" "474712208"
+				"gid" "5133038922504259"
+				"size" "739828735"
+				"download" "538424048"
 			}
 		}
 	}
@@ -346,9 +346,9 @@
 		{
 			"public"
 			{
-				"gid" "1068590893078504804"
-				"size" "608153953"
-				"download" "457550960"
+				"gid" "539949946624027729"
+				"size" "676580795"
+				"download" "520358944"
 			}
 		}
 	}
@@ -416,12 +416,63 @@
 			}
 		}
 	}
+	"3636780"
+	{
+		"dlcappid" "3636780"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5889876048268518936"
+				"size" "10360448"
+				"download" "10502064"
+			}
+		}
+	}
+	"3636781"
+	{
+		"dlcappid" "3636780"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8581065065986664282"
+				"size" "11409544"
+				"download" "11565520"
+			}
+		}
+	}
+	"3636782"
+	{
+		"dlcappid" "3636780"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4914104943878966614"
+				"size" "11411779"
+				"download" "11567872"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "18251107"
-			"timeupdated" "1745689971"
+			"buildid" "18416139"
+			"timeupdated" "1746908134"
 		}
 	}
 	"privatebranches" "1"
@@ -474,6 +525,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28685128"
-"_sha" "60934e8c01434704e5132da4604d54bce72ca916"
-"_size" "7647"
+"_change_number" "28920141"
+"_sha" "146d25cf388c05fadc3fd7cbdc3144582fc8f84f"
+"_size" "8361"
