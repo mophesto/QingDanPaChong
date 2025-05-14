@@ -179,9 +179,9 @@
 		{
 			"public"
 			{
-				"gid" "5382643887167003884"
-				"size" "1094196236"
-				"download" "224469824"
+				"gid" "7105188839321117597"
+				"size" "1087354788"
+				"download" "222580272"
 			}
 			"32bit-windows"
 			{
@@ -221,9 +221,15 @@
 			}
 			"preview"
 			{
-				"gid" "5382643887167003884"
-				"size" "1094196236"
-				"download" "224469824"
+				"gid" "7105188839321117597"
+				"size" "1087354788"
+				"download" "222580272"
+			}
+			"unity-2022-preview"
+			{
+				"gid" "3316101053300052474"
+				"size" "229943227"
+				"download" "154561056"
 			}
 		}
 	}
@@ -238,9 +244,9 @@
 		{
 			"public"
 			{
-				"gid" "265837601982515135"
-				"size" "1082865330"
-				"download" "217269936"
+				"gid" "37578530737132592"
+				"size" "1076633191"
+				"download" "215858096"
 			}
 			"32bit-windows"
 			{
@@ -280,9 +286,15 @@
 			}
 			"preview"
 			{
-				"gid" "265837601982515135"
-				"size" "1082865330"
-				"download" "217269936"
+				"gid" "37578530737132592"
+				"size" "1076633191"
+				"download" "215858096"
+			}
+			"unity-2022-preview"
+			{
+				"gid" "3853984192965048568"
+				"size" "159130236"
+				"download" "83156432"
 			}
 		}
 	}
@@ -292,9 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "5429641194346886672"
-				"size" "1584242931"
-				"download" "1062090336"
+				"gid" "2255135713380164763"
+				"size" "1555398080"
+				"download" "1028961616"
 			}
 			"32bit-windows"
 			{
@@ -334,9 +346,15 @@
 			}
 			"preview"
 			{
-				"gid" "5429641194346886672"
-				"size" "1584242931"
-				"download" "1062090336"
+				"gid" "2255135713380164763"
+				"size" "1555398080"
+				"download" "1028961616"
+			}
+			"unity-2022-preview"
+			{
+				"gid" "5850467888648686921"
+				"size" "1584501445"
+				"download" "1062306128"
 			}
 		}
 	}
@@ -346,9 +364,9 @@
 		{
 			"public"
 			{
-				"gid" "2985878951434261778"
-				"size" "4429834"
-				"download" "244592"
+				"gid" "1176021212045787526"
+				"size" "4433483"
+				"download" "244880"
 			}
 			"32bit-windows"
 			{
@@ -388,9 +406,15 @@
 			}
 			"preview"
 			{
-				"gid" "2985878951434261778"
-				"size" "4429834"
-				"download" "244592"
+				"gid" "1176021212045787526"
+				"size" "4433483"
+				"download" "244880"
+			}
+			"unity-2022-preview"
+			{
+				"gid" "4338553137742515742"
+				"size" "4431599"
+				"download" "244800"
 			}
 		}
 	}
@@ -398,8 +422,8 @@
 	{
 		"public"
 		{
-			"buildid" "17972927"
-			"timeupdated" "1743698250"
+			"buildid" "18462856"
+			"timeupdated" "1747238584"
 		}
 		"32bit-windows"
 		{
@@ -439,14 +463,20 @@
 		}
 		"preview"
 		{
-			"buildid" "17972927"
+			"buildid" "18462856"
 			"description" "Public test branch"
-			"timeupdated" "1743696894"
+			"timeupdated" "1747237595"
+		}
+		"unity-2022-preview"
+		{
+			"buildid" "18363799"
+			"description" " Testing upgrade to Unity 2022 LTS"
+			"timeupdated" "1746557598"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "28293063"
-"_sha" "5a2bd8789ddc36657df393c5aa302dc4d6e79828"
-"_size" "7867"
+"_change_number" "28984751"
+"_sha" "408da4405597cc39fc2461914edb570bc39c9666"
+"_size" "8509"
