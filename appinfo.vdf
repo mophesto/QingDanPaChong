@@ -41,6 +41,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1665619200"
 		"tested_build_id" "8226293"
 		"tests"
@@ -76,6 +77,24 @@
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -88,7 +107,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "native"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"market_presence" "1"
@@ -526,7 +547,7 @@
 		{
 			"public"
 			{
-				"gid" "5295260917783025977"
+				"gid" "9038844923886742859"
 				"size" "4044961869"
 				"download" "2278202416"
 			}
@@ -619,9 +640,9 @@
 		{
 			"public"
 			{
-				"gid" "8200968050193284675"
-				"size" "531712224"
-				"download" "135037376"
+				"gid" "6849312777802435773"
+				"size" "531713248"
+				"download" "135056640"
 			}
 		}
 	}
@@ -635,9 +656,9 @@
 		{
 			"public"
 			{
-				"gid" "5296712809726731031"
+				"gid" "3387753262786641037"
 				"size" "1161749309"
-				"download" "528506592"
+				"download" "528507296"
 			}
 		}
 	}
@@ -663,9 +684,9 @@
 		{
 			"public"
 			{
-				"gid" "7558422054231595167"
-				"size" "1224231771"
-				"download" "527699504"
+				"gid" "8262352812261003852"
+				"size" "1224240027"
+				"download" "527671552"
 			}
 		}
 	}
@@ -746,9 +767,9 @@
 		{
 			"public"
 			{
-				"gid" "4089290385752810757"
+				"gid" "5750661140319026596"
 				"size" "5673668712"
-				"download" "1573890768"
+				"download" "1573889968"
 			}
 		}
 	}
@@ -810,8 +831,8 @@
 	{
 		"public"
 		{
-			"buildid" "18409363"
-			"timeupdated" "1746831722"
+			"buildid" "18451072"
+			"timeupdated" "1747174871"
 		}
 	}
 	"privatebranches" "1"
@@ -823,6 +844,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "28911238"
-"_sha" "9cf6d7c3b0efcc826668345039bc7a13c0db3167"
-"_size" "14164"
+"_change_number" "28969266"
+"_sha" "79bba394090ec7b94397fdea2c64d4c31cc041e1"
+"_size" "14620"
