@@ -53,7 +53,7 @@
 		"sc_schinese" "反恐精英：全球攻势"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1747090692"
+	"timeline_marker_updated" "1747174512"
 	"timeline_marker_svg" "0eeacc724c77e1f5abeeba4fb542f45bad894470/markers.svg"
 	"content_descriptors"
 	{
@@ -63,6 +63,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1708732800"
 		"tested_build_id" "13439412"
 		"tests"
@@ -88,6 +89,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -100,6 +109,7 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "native"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
 		}
@@ -658,7 +668,7 @@
 		{
 			"public"
 			{
-				"gid" "2121199581484826878"
+				"gid" "5696524730119725149"
 				"size" "7"
 				"download" "64"
 			}
@@ -728,6 +738,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.7.8"
+			{
+				"gid" "5696524730119725149"
+				"size" "7"
+				"download" "64"
+			}
 		}
 	}
 	"733"
@@ -741,7 +757,7 @@
 		{
 			"public"
 			{
-				"gid" "4651736207100616282"
+				"gid" "9020343593953352234"
 				"size" "7"
 				"download" "64"
 			}
@@ -811,6 +827,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.7.8"
+			{
+				"gid" "9020343593953352234"
+				"size" "7"
+				"download" "64"
+			}
 		}
 	}
 	"731"
@@ -820,7 +842,7 @@
 		{
 			"public"
 			{
-				"gid" "1296446130114663845"
+				"gid" "2240761738496471640"
 				"size" "7"
 				"download" "64"
 			}
@@ -890,6 +912,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.7.8"
+			{
+				"gid" "2240761738496471640"
+				"size" "7"
+				"download" "64"
+			}
 		}
 	}
 	"734"
@@ -902,7 +930,7 @@
 		{
 			"public"
 			{
-				"gid" "655798475630713819"
+				"gid" "2217159866225098511"
 				"size" "7"
 				"download" "64"
 			}
@@ -966,6 +994,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.7.8"
+			{
+				"gid" "2217159866225098511"
+				"size" "7"
+				"download" "64"
+			}
 		}
 	}
 	"735"
@@ -974,7 +1008,7 @@
 		{
 			"public"
 			{
-				"gid" "7587661137927684608"
+				"gid" "1395762384868353973"
 				"size" "7"
 				"download" "64"
 			}
@@ -1038,6 +1072,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.7.8"
+			{
+				"gid" "1395762384868353973"
+				"size" "7"
+				"download" "64"
+			}
 		}
 	}
 	"736"
@@ -1046,7 +1086,7 @@
 		{
 			"public"
 			{
-				"gid" "4752959981094537974"
+				"gid" "7677734581172805422"
 				"size" "7"
 				"download" "64"
 			}
@@ -1110,6 +1150,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.7.8"
+			{
+				"gid" "7677734581172805422"
+				"size" "7"
+				"download" "64"
+			}
 		}
 	}
 	"737"
@@ -1118,7 +1164,7 @@
 		{
 			"public"
 			{
-				"gid" "1478784822867470703"
+				"gid" "4634083958289306714"
 				"size" "7"
 				"download" "64"
 			}
@@ -1182,6 +1228,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.7.8"
+			{
+				"gid" "4634083958289306714"
+				"size" "7"
+				"download" "64"
+			}
 		}
 	}
 	"738"
@@ -1190,7 +1242,7 @@
 		{
 			"public"
 			{
-				"gid" "3225917931537033133"
+				"gid" "1101255887212588544"
 				"size" "7"
 				"download" "64"
 			}
@@ -1254,6 +1306,12 @@
 				"size" "7"
 				"download" "64"
 			}
+			"1.40.7.8"
+			{
+				"gid" "1101255887212588544"
+				"size" "7"
+				"download" "64"
+			}
 		}
 	}
 	"2347770"
@@ -1266,9 +1324,9 @@
 		{
 			"public"
 			{
-				"gid" "1972145128172861428"
-				"size" "50831705313"
-				"download" "40981560160"
+				"gid" "2825166939404509139"
+				"size" "50841240430"
+				"download" "40996100224"
 			}
 			"1.40.6.2"
 			{
@@ -1324,6 +1382,12 @@
 				"size" "50831705313"
 				"download" "40981560160"
 			}
+			"1.40.7.8"
+			{
+				"gid" "2825166939404509139"
+				"size" "50841240430"
+				"download" "40996100224"
+			}
 		}
 	}
 	"2347771"
@@ -1336,9 +1400,9 @@
 		{
 			"public"
 			{
-				"gid" "4795828061977998444"
-				"size" "7656101397"
-				"download" "4079773584"
+				"gid" "796808802090200149"
+				"size" "7679800329"
+				"download" "4103080032"
 			}
 			"1.40.6.2"
 			{
@@ -1393,6 +1457,12 @@
 				"gid" "4795828061977998444"
 				"size" "7656101397"
 				"download" "4079773584"
+			}
+			"1.40.7.8"
+			{
+				"gid" "796808802090200149"
+				"size" "7679800329"
+				"download" "4103080032"
 			}
 		}
 	}
@@ -1464,6 +1534,12 @@
 				"size" "9276"
 				"download" "1696"
 			}
+			"1.40.7.8"
+			{
+				"gid" "4427303554736365309"
+				"size" "9276"
+				"download" "1696"
+			}
 		}
 	}
 	"2347773"
@@ -1477,9 +1553,9 @@
 		{
 			"public"
 			{
-				"gid" "2626729145337867552"
-				"size" "7106676558"
-				"download" "3679950576"
+				"gid" "4065469272709258468"
+				"size" "7106680654"
+				"download" "3679950880"
 			}
 			"1.40.6.2"
 			{
@@ -1534,6 +1610,12 @@
 				"gid" "2626729145337867552"
 				"size" "7106676558"
 				"download" "3679950576"
+			}
+			"1.40.7.8"
+			{
+				"gid" "4065469272709258468"
+				"size" "7106680654"
+				"download" "3679950880"
 			}
 		}
 	}
@@ -1605,6 +1687,12 @@
 				"size" "1018065131"
 				"download" "833784944"
 			}
+			"1.40.7.8"
+			{
+				"gid" "2506907270420255040"
+				"size" "1018065131"
+				"download" "833784944"
+			}
 		}
 	}
 	"2347775"
@@ -1631,9 +1719,9 @@
 		{
 			"public"
 			{
-				"gid" "3594079763458531602"
-				"size" "875097333"
-				"download" "227158192"
+				"gid" "3836326777767900594"
+				"size" "875129572"
+				"download" "227160672"
 			}
 			"1.40.6.2"
 			{
@@ -1689,6 +1777,12 @@
 				"size" "875097333"
 				"download" "227158192"
 			}
+			"1.40.7.8"
+			{
+				"gid" "3836326777767900594"
+				"size" "875129572"
+				"download" "227160672"
+			}
 		}
 	}
 	"hasdepotsindlc" "1"
@@ -1696,8 +1790,8 @@
 	{
 		"public"
 		{
-			"buildid" "18435475"
-			"timeupdated" "1747090635"
+			"buildid" "18451221"
+			"timeupdated" "1747174188"
 		}
 		"csgo_legacy"
 		{
@@ -1765,6 +1859,12 @@
 			"description" "1.40.7.7"
 			"timeupdated" "1747090787"
 		}
+		"1.40.7.8"
+		{
+			"buildid" "18451221"
+			"description" "1.40.7.8"
+			"timeupdated" "1747174573"
+		}
 	}
 	"privatebranches" "1"
 	"appmanagesdlc" "1"
@@ -1775,6 +1875,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "28949227"
-"_sha" "829fc8ec925417fb85fd3ca8f3af77b43c3943ef"
-"_size" "32552"
+"_change_number" "28969249"
+"_sha" "614086f306f415736a57d2ed798261cd0c2e3c8d"
+"_size" "34343"
