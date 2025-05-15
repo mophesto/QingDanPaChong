@@ -40,6 +40,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1670457600"
 		"tested_build_id" "10006101"
 		"tests"
@@ -65,6 +66,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -77,7 +86,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-7.0-5"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Dave the Diver"
@@ -246,8 +257,8 @@
 		"2" "12472"
 		"3" "21"
 		"4" "1654"
-		"5" "122"
-		"6" "3834"
+		"5" "3834"
+		"6" "122"
 		"7" "15564"
 		"8" "9157"
 		"9" "599"
@@ -263,7 +274,7 @@
 		"19" "492"
 	}
 	"review_score" "9"
-	"review_percentage" "97"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -512,9 +523,9 @@
 		{
 			"public"
 			{
-				"gid" "1298075020360445564"
-				"size" "5463363114"
-				"download" "2626797936"
+				"gid" "2807524592343863970"
+				"size" "3317898095"
+				"download" "2433139536"
 			}
 		}
 	}
@@ -545,8 +556,8 @@
 		{
 			"public"
 			{
-				"gid" "5353918478084439550"
-				"size" "489645473"
+				"gid" "7190702059871256453"
+				"size" "489645490"
 				"download" "394016640"
 			}
 		}
@@ -657,8 +668,8 @@
 	{
 		"public"
 		{
-			"buildid" "18189474"
-			"timeupdated" "1745310211"
+			"buildid" "18473306"
+			"timeupdated" "1747300772"
 		}
 	}
 	"privatebranches" "1"
@@ -670,6 +681,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "28596761"
-"_sha" "012bd8cdaf9913902436305b84e70554ee3776e3"
-"_size" "11287"
+"_change_number" "29006084"
+"_sha" "8dbf9e6ea22cc4fb339176cd9e068411ab0be27b"
+"_size" "11501"
