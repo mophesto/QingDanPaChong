@@ -40,6 +40,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1733443200"
 		"tested_build_id" "16502589"
 		"tests"
@@ -70,6 +71,19 @@
 				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -82,6 +96,7 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "2"
 		}
@@ -158,7 +173,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1743778879"
+	"store_asset_mtime" "1747407753"
 	"associations"
 	{
 		"0"
@@ -281,7 +296,7 @@
 	"developer" "Visual Concepts"
 	"publisher" "2K"
 	"homepage" "https://www.nba2k.com/"
-	"listofdlc" "2974820,2974830,2974840,2974850,2974860,2974870,2974880,2974890,2974900,2974910,2974920,2974930,2975000,2975010,2975020,2982770,2982780,2982790,3107390,3261610,3261620,3310490,3310500,3312950,3312960,3312970,3312980,3312990,3313000"
+	"listofdlc" "2974820,2974830,2974840,2974850,2974860,2974870,2974880,2974890,2974900,2974910,2974920,2974930,2974940,2974970,2975000,2975010,2975020,2982770,2982780,2982790,3107390,3261610,3261620,3310490,3310500,3312950,3312960,3312970,3312980,3312990,3313000,3313010,3313020"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -350,9 +365,9 @@
 		{
 			"public"
 			{
-				"gid" "5691649402754262556"
-				"size" "151471414157"
-				"download" "144309876208"
+				"gid" "8146467328784990769"
+				"size" "151868467794"
+				"download" "144670610208"
 			}
 		}
 	}
@@ -391,8 +406,8 @@
 	{
 		"public"
 		{
-			"buildid" "17947758"
-			"timeupdated" "1743775117"
+			"buildid" "18244204"
+			"timeupdated" "1747405554"
 		}
 	}
 	"privatebranches" "1"
@@ -404,6 +419,6 @@
 	"maxnumfiles" "250"
 }
 "_missing_token" "False"
-"_change_number" "28674862"
-"_sha" "3b8a05bc68f17ac4f6726502d0a824da72376a41"
-"_size" "7514"
+"_change_number" "29026937"
+"_sha" "c2b5b71958255cd69eb1ebcd2ae16be4bbb24b7f"
+"_size" "7860"
