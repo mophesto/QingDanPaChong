@@ -25,7 +25,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"steamos_compatibility" "0"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1681430400"
 		"tested_build_id" "10974873"
 		"tests"
@@ -58,6 +58,21 @@
 		}
 		"steamos_tests"
 		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
 		}
 		"configuration"
 		{
@@ -71,7 +86,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "The Slormancer"
@@ -247,13 +264,13 @@
 		"13" "4155"
 		"14" "21"
 		"15" "4182"
-		"16" "493"
-		"17" "3993"
+		"16" "3993"
+		"17" "493"
 		"18" "7481"
 		"19" "7948"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -296,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "8703001130436595989"
-				"size" "496648926"
-				"download" "292993120"
+				"gid" "47945468789350456"
+				"size" "496649443"
+				"download" "293021392"
 			}
 			"experimental"
 			{
@@ -313,8 +330,8 @@
 	{
 		"public"
 		{
-			"buildid" "18456246"
-			"timeupdated" "1747208977"
+			"buildid" "18489368"
+			"timeupdated" "1747390444"
 		}
 		"experimental"
 		{
@@ -331,6 +348,6 @@
 	"maxnumfiles" "12"
 }
 "_missing_token" "False"
-"_change_number" "28975734"
-"_sha" "6a507340054342a5ce3740e36990669ff8f9444a"
-"_size" "6204"
+"_change_number" "29025994"
+"_sha" "a5fe10d118284605c203c33bf09b32ca9eb9b3a2"
+"_size" "6594"
