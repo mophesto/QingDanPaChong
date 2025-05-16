@@ -2,7 +2,7 @@
 "common"
 {
 	"name" "Rust - Staging Branch"
-	"type" "Game"
+	"type" "Beta"
 	"releasestate" "released"
 	"oslist" "windows,macos"
 	"logo" "d83228eaef6c95c244976b6dc6ab357e6c7f0911"
@@ -15,19 +15,14 @@
 	"requireskbmouse" "1"
 	"osarch" "64"
 	"osextended" "macos64"
-	"content_descriptors"
-	{
-		"0" "5"
-	}
+	"parent" "252490"
 	"associations"
 	{
 	}
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "700580"
-	"store_tags"
-	{
-	}
+	"exfgls" "9"
 }
 "config"
 {
@@ -80,6 +75,7 @@
 			"description" "Launch"
 		}
 	}
+	"uselaunchcommandline" "1"
 }
 "depots"
 {
@@ -89,150 +85,21 @@
 		{
 			"public"
 			{
-				"gid" "1376235152086279044"
-				"size" "30514966800"
-				"download" "18186867616"
-			}
-			"2021.3.29"
-			{
-				"gid" "9021919204274340210"
-				"size" "29007248203"
-				"download" "17274265648"
-			}
-			"crash"
-			{
-				"gid" "6544165040415151734"
-				"size" "17642197804"
-				"download" "9150407856"
-			}
-			"main"
-			{
-				"gid" "481933172040542607"
-				"size" "30515069840"
-				"download" "18186967904"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"aux03"
-			{
-				"gid" "4C79ED1EEF7EF2679E3493582FF5ECFC"
-				"size" "92FCC6EB43C43BDD249674E7D5D4B526"
-				"download" "606FFCE004F9F0C6C3CE8E96EFD6FBBB"
-			}
-			"aux03-debug"
-			{
-				"gid" "8CE877DC09E957D36C40B33425126534"
-				"size" "4EE3B3D7F9B58C27A73DD88BF5209F73"
-				"download" "EF351535B0185A19A9495753DB6291A4"
-			}
-			"backport-update"
-			{
-				"gid" "C6307EEB4A4AF29B0457FC4CB5D714C3"
-				"size" "6F2C5D0B477D6FD9F9BB5B7A073F212C"
-				"download" "91A920D15C845DA1B84CE9A7A2D5F380"
-			}
-			"cctv"
-			{
-				"gid" "F4D728C69B7BC232A4428E1DFCDCA8C6"
-				"size" "956FE3C6DDA1349DEB852B575C720A67"
-				"download" "9434018FC533DF0310C8449D78501EE7"
-			}
-			"contacts-update"
-			{
-				"gid" "A6B7A51FE6246CD8570785B10EFC874A"
-				"size" "2F5747C82E770496D8E9B7DCCA03A29E"
-				"download" "CCC3281F6BDCF7356CF6F43920EED199"
-			}
-			"demo"
-			{
-				"gid" "4E415AF5005FBB30C96AFFED24F3CF5F"
-				"size" "3CB5418387B90D3411CD4DC729D992D2"
-				"download" "B05B6143D1783C11E32F9CBE9ACF13CC"
-			}
-			"experimental"
-			{
-				"gid" "D6EC4894C4E98FDB9A0AA5D651DDD4C0"
-				"size" "C1FAE8CE6004FC03CA6C76C023D97BCC"
-				"download" "2B2D66552C674A50555583826265440B"
-			}
-			"experimental-debug"
-			{
-				"gid" "4FF4FFB2AEB2C1823BB123309232BE93"
-				"size" "52FE62DEFE5AFF7BBE15258CEEF2EF81"
-				"download" "E5E9FCBDD6C8CA9EF9B23DBFC16A94F0"
-			}
-			"gestures"
-			{
-				"gid" "C5B178E16764F5DDACBA4E80AFC0166A"
-				"size" "B9429F6B255280A68F27663375BB440B"
-				"download" "8F5E5A7EAFE48DDBBF371A796AD36E97"
-			}
-			"test-debug"
-			{
-				"gid" "38F31EFF3D5D0E1E15CDB9DD43214A16"
-				"size" "3BCB5CFF171404F5B9FBAF88DAB589F4"
-				"download" "9B738F09948B55F701329CF6DCF7D7A5"
-			}
-			"trailer"
-			{
-				"gid" "B6B235ED84E93A942044C647A79B5D8B"
-				"size" "A1057F1EAAB4B0CE5E827A8CFA3E582C"
-				"download" "664A116AA57BCE0D09646197A5F8DEBA"
-			}
-			"workcart-update"
-			{
-				"gid" "10A7D7CC7EF694F19EF88B170CB38939"
-				"size" "CB1C947FCABB10DB86F289150060DDFF"
-				"download" "A2A4BEF74CD344C4710D4F7175F829F4"
-			}
-			"aux01"
-			{
-				"gid" "382BDBE8E6ED7D1D7ACF3EDDF469D732"
-				"size" "03D72D4E2831B796540BA6259AC7AC10"
-				"download" "8640B8035700AE2DFB033964BA1FBC47"
-			}
-			"aux01-debug"
-			{
-				"gid" "6C952177B1546C9849224C0C9ACC7148"
-				"size" "9AD7975795F3070E4B2012D3E3741FC9"
-				"download" "4ED648749A8E18D6C384CB01425AF825"
+				"gid" "415199870561905743"
+				"size" "41376951177"
+				"download" "22968856080"
 			}
 			"aux02"
 			{
-				"gid" "A17BF72C9A6F319B2F282268F50BB8A6"
-				"size" "8C35C85A98E79CD1854D32AFFABD2136"
-				"download" "FDC056A6B875466D5DA39AE918D9CEC9"
+				"gid" "4437549123826054736"
+				"size" "38920714860"
+				"download" "21833845504"
 			}
-			"aux02-debug"
+			"main"
 			{
-				"gid" "C551558AB8E086498BB6CCAC1FBC968E"
-				"size" "00440EBB012C89A5F5DF60E0CBB56ADA"
-				"download" "C727BE44B7254ACD90616653C787A4A3"
-			}
-			"debug"
-			{
-				"gid" "A3FAF6ABDDB2BF72B8CCEC63079EFCBE"
-				"size" "1B81E1CA8F36122CDFA54F2F33A6B073"
-				"download" "AF4D207DA6E20CDE7CF4BD34AA45349B"
-			}
-			"media"
-			{
-				"gid" "1F38D72B1D38FD5B966DBFAAA82101EA"
-				"size" "1818D2B8FA23E4600A1B510646CE7C1E"
-				"download" "DF7A5C5FB523460C2A3AE2D1ADB08B55"
-			}
-			"media-debug"
-			{
-				"gid" "07EABEB8305B0E88301A6847CEFE7625"
-				"size" "EFFC1D33E0016EFE2A54D0736655468A"
-				"download" "FEE6A32BD5B6352AC96FB166CA1F8500"
-			}
-			"test"
-			{
-				"gid" "32F0E8EBA0C7B4630D2E2A2D25997E9A"
-				"size" "B2BD01C02315410C5C884935E6386820"
-				"download" "01498EF486CA2AD349BCD72BEAF7D465"
+				"gid" "548292631514305617"
+				"size" "41378661625"
+				"download" "22966644192"
 			}
 		}
 	}
@@ -247,150 +114,21 @@
 		{
 			"public"
 			{
-				"gid" "4689464841583041327"
-				"size" "730603413"
-				"download" "431758928"
-			}
-			"2021.3.29"
-			{
-				"gid" "2926565576496631824"
-				"size" "936275836"
-				"download" "562871632"
-			}
-			"crash"
-			{
-				"gid" "6643408220322733983"
-				"size" "603349952"
-				"download" "318946912"
-			}
-			"main"
-			{
-				"gid" "6829073935820139948"
-				"size" "730667306"
-				"download" "431830848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"aux03"
-			{
-				"gid" "5A4B94068C7B7F8C1B49DC95CDA6199C"
-				"size" "C8BF8C45AC9C2E30697212D3AF2BC886"
-				"download" "406ECA450430DB987914818912CDC44C"
-			}
-			"aux03-debug"
-			{
-				"gid" "DF440D3C03A491E456BF6A014F69503D"
-				"size" "B2DA081EF2805DB6BE53B78C39772A41"
-				"download" "E746EF69CD33503B7A072C83905E2194"
-			}
-			"backport-update"
-			{
-				"gid" "9DB0B3B32935010531A08AE0D78484F7"
-				"size" "25CA8AA2527129EEE6B9AC7109E5B89E"
-				"download" "42C4C33108BDA06D5A2D5CD64EF8CC16"
-			}
-			"cctv"
-			{
-				"gid" "C162DFF659005FDC11C08F47A2CA5F50"
-				"size" "C5A297D1BE5BF984DC8036BBA5DF78EA"
-				"download" "6AF0BFE293DD29F419A157A4D4954C6A"
-			}
-			"contacts-update"
-			{
-				"gid" "B424C3B57065292FA33E45DD1312F1C6"
-				"size" "5467604F00E094248DDE5BF98F5A8BA2"
-				"download" "08CBD5B7D267D16CCC08F2C84D8A0BCB"
-			}
-			"demo"
-			{
-				"gid" "138523CAC80057A095A42512457D62DD"
-				"size" "4E18FBD17F1B9C1B0074BB87DC08EC2B"
-				"download" "61BE5F619D242D82D0BADD06F71AB023"
-			}
-			"experimental"
-			{
-				"gid" "71FCB8155F3123F6D75A0E0F402659EB"
-				"size" "1739AE8AD8003796D05D063254D9AA48"
-				"download" "6C9C162940967A48BB496E899FF1975E"
-			}
-			"experimental-debug"
-			{
-				"gid" "AE1EBB400491AE2E57A5142862A09EBF"
-				"size" "D0A7634A0BFE8E8C3489CF23834B1762"
-				"download" "15B94EECDBF2A4FCA35BF93B2FD975AD"
-			}
-			"gestures"
-			{
-				"gid" "D8441BECA6C08D59AB348A6AB2DB3E53"
-				"size" "B7AA0B6E662368856D321F7001C9928C"
-				"download" "74030FC7CA434FEE1ACE75D7DE3BE757"
-			}
-			"test-debug"
-			{
-				"gid" "DA73D2C3AD81BAD738FEA5D239F0D5E8"
-				"size" "261E98F417C2F92A19C6B5A4407D743C"
-				"download" "B81304F62B3C92D1B73734385BA55608"
-			}
-			"trailer"
-			{
-				"gid" "18C363DC0799B42F89E0347AA4543086"
-				"size" "7402CCE2ECEACEEFB28042612AB5130B"
-				"download" "97BE0CE4EB3CA6DCE6E8744B559B19EE"
-			}
-			"workcart-update"
-			{
-				"gid" "DCD2997C52587698AFB65883120C8EE0"
-				"size" "11EFA08F3395283C4E152C3CD18B3C1E"
-				"download" "04706FD289ECA52B3BCF6D95F4B9F974"
-			}
-			"aux01"
-			{
-				"gid" "F100E94EA16B9CBA4D5FF11D1F9F6D72"
-				"size" "3932F63C40E211F6BE624657B0179984"
-				"download" "86B2B2C507EE5E144114FBC0D6B937FA"
-			}
-			"aux01-debug"
-			{
-				"gid" "51C14DB1C3B4BD0A5A54BABE6CC87D71"
-				"size" "0CE29D6A1CB39A2C5C296EB4DF09F0BF"
-				"download" "371BE8081D0ECC7F00C7A9F17BA296FD"
+				"gid" "819333767652389708"
+				"size" "879352880"
+				"download" "477938368"
 			}
 			"aux02"
 			{
-				"gid" "8E05A24D984A946A90B35234AC3DFE7A"
-				"size" "796C4B52DEFDDCCEDDBAC69554D3E5AD"
-				"download" "E7DB22CB7B653613C46D347C7451BA6E"
+				"gid" "2452903023589075909"
+				"size" "849438396"
+				"download" "470506944"
 			}
-			"aux02-debug"
+			"main"
 			{
-				"gid" "E6F682A66676AFB1B056276364CB50B3"
-				"size" "B5C0F3AB7C683EED8E1D5C80335DE437"
-				"download" "1C8B86368BB358806E30BB1F39F353FF"
-			}
-			"debug"
-			{
-				"gid" "E617BA2C46AD897F85874B768750AB5B"
-				"size" "D8DE60826C440144730056B61B3C8B60"
-				"download" "FA42441BD87D52A74F39F0352F8327D0"
-			}
-			"media"
-			{
-				"gid" "5FB17F7D083F4CEAE0B8D21217F79E5C"
-				"size" "7CF8B87EDE75D85A9EE00D1167285646"
-				"download" "B82FC293558AAC8B924B08A171BB04F8"
-			}
-			"media-debug"
-			{
-				"gid" "11F65F50D4AB6BA8C0084F0DCBCAD989"
-				"size" "77D1F41756EFCCD5D26B5E7ECB48FBEC"
-				"download" "8294804BFD6C63B574B76E519A06E5DE"
-			}
-			"test"
-			{
-				"gid" "C0B7529CF73D061C1817B1E1F90B0F6E"
-				"size" "643C5E8B3098364870D8A4EF5BBFCCE0"
-				"download" "3040EFDB129B2EE25C4390495D52F082"
+				"gid" "7428331418394873689"
+				"size" "879988966"
+				"download" "477794912"
 			}
 		}
 	}
@@ -405,150 +143,21 @@
 		{
 			"public"
 			{
-				"gid" "9063427984746520325"
-				"size" "4938344316"
-				"download" "1803627920"
-			}
-			"2021.3.29"
-			{
-				"gid" "4586948001370832567"
-				"size" "5793760199"
-				"download" "1936644144"
-			}
-			"crash"
-			{
-				"gid" "8971463725738639198"
-				"size" "3106614358"
-				"download" "1012075248"
-			}
-			"main"
-			{
-				"gid" "3851495748301774374"
-				"size" "4938364252"
-				"download" "1803640544"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"aux03"
-			{
-				"gid" "5CE0D83BF3AF760699ADED5B54C4338E"
-				"size" "86F08EF11DE75CC42FB2FFC57FC8E324"
-				"download" "9D29ED0939FC663868EBA7A5D1E99967"
-			}
-			"aux03-debug"
-			{
-				"gid" "DBB43795401B1BF48096441356CADAC7"
-				"size" "4E753D64C9537E786247918DE4EC1B32"
-				"download" "1183654A172A041AE61284897E2326C5"
-			}
-			"backport-update"
-			{
-				"gid" "B4F81C0771BADE0E7C3298094C6B695C"
-				"size" "FED7A051BD65E4E3CC91570B839B3840"
-				"download" "CBFF24EA24A012DE12C9FB6EDEC7C7DE"
-			}
-			"cctv"
-			{
-				"gid" "2B8BAE88815FA7F045A10073D44A69DB"
-				"size" "6A5AD4E6C5A6F2C12FC3A6CF632F22C8"
-				"download" "6688DE539CA2AA291634D808DE910722"
-			}
-			"contacts-update"
-			{
-				"gid" "F56CE197C9B378DB361D2183F13B26B2"
-				"size" "08ABCECC391DDB3573E31DB863839691"
-				"download" "9490EAAE6BF5EF30BFABB76CE6A72F14"
-			}
-			"demo"
-			{
-				"gid" "4ABBFD9A4FE6FBDBB5910D3E1A95915B"
-				"size" "3DE5C27411278C302A6621E29E63C435"
-				"download" "5F2136CBFD00E3A4407FE6A0DB765D8D"
-			}
-			"experimental"
-			{
-				"gid" "9185CA493D89B85697F4C104ADD7B1AB"
-				"size" "30940FEE618169C588B42E14BC4C4399"
-				"download" "4C55CD6304FD27C0BF00099A9B111DFF"
-			}
-			"experimental-debug"
-			{
-				"gid" "4B71A39FAC9CD134A200EC94B3D7128B"
-				"size" "AD7232CE281C05C8EBB4C32BB899D63D"
-				"download" "3FF5174DF15965AFA5466592920EDA78"
-			}
-			"gestures"
-			{
-				"gid" "E97F21103B5B09D5EBFAA0132384B1B2"
-				"size" "7D4C90D5605F256C1F903525F2803AEF"
-				"download" "9DCFC0D84D6CA939B2598242C9CE735E"
-			}
-			"test-debug"
-			{
-				"gid" "83E7BC69BE16CCB228758AC643C1C5C9"
-				"size" "EBC2E465A740D731ACB201BF75789F70"
-				"download" "30B92E337CB54F7E5E3EAB3BD54DEAE6"
-			}
-			"trailer"
-			{
-				"gid" "34269B4EDEB21A43A8977EA89797EB00"
-				"size" "CD3A9944EB3B93B0C5D993BE045DA5A7"
-				"download" "CD3A9944EB3B93B0C5D993BE045DA5A7"
-			}
-			"workcart-update"
-			{
-				"gid" "45CA83FA16234C1C9E38F3FF344EF278"
-				"size" "5C26187E430B7AA4AF5D617AAABD4261"
-				"download" "6E7BCD7859DC754308EF2B520499D093"
-			}
-			"aux01"
-			{
-				"gid" "E708FC3A8F469A957F3A0BA2AA1C71FB"
-				"size" "FF7C11E0FEE652CD15E790F45DFFE66B"
-				"download" "FF7C11E0FEE652CD15E790F45DFFE66B"
-			}
-			"aux01-debug"
-			{
-				"gid" "AB6DB84FA40D3D4A3BEF90C5DE2B6E23"
-				"size" "89618FD711C2CFD8D6AEAB8CFFF33F0D"
-				"download" "89618FD711C2CFD8D6AEAB8CFFF33F0D"
+				"gid" "8633837355134673101"
+				"size" "8799460786"
+				"download" "3105362256"
 			}
 			"aux02"
 			{
-				"gid" "FD975B6E38C52ADC7F44C617CE633BB3"
-				"size" "8CAC96D502663691B1E52980B408B9ED"
-				"download" "8CAC96D502663691B1E52980B408B9ED"
+				"gid" "1686720267532408226"
+				"size" "0"
+				"download" "0"
 			}
-			"aux02-debug"
+			"main"
 			{
-				"gid" "7E39B2A97385E50596A0E6975147BBE3"
-				"size" "F1B173188F093D6C2BC2FB8B245E891D"
-				"download" "F1B173188F093D6C2BC2FB8B245E891D"
-			}
-			"debug"
-			{
-				"gid" "9813F84C98B015F2C93EAC55706DEACB"
-				"size" "B4A7B9A8F529E2276F363B0A92BB6713"
-				"download" "A9C5F3F67C412CAB9C2A4359248B0BB7"
-			}
-			"media"
-			{
-				"gid" "F3D3F61D1F562B82CF30F66F93B21142"
-				"size" "7B5AEBBC21E0A62554960121B188053C"
-				"download" "7B5AEBBC21E0A62554960121B188053C"
-			}
-			"media-debug"
-			{
-				"gid" "55191BB075C45CC095B87BF5B225570B"
-				"size" "A107F1B438C4B60267E4369007C12D3E"
-				"download" "A107F1B438C4B60267E4369007C12D3E"
-			}
-			"test"
-			{
-				"gid" "9608F7EF7BF3D6A8304CE317EC30A01B"
-				"size" "BAACDDD88597C204BB34C61AE05229BC"
-				"download" "FEB28C0F9E0416350ACAA7CE8E7C5F08"
+				"gid" "7670612714723772683"
+				"size" "8780214352"
+				"download" "3096378576"
 			}
 		}
 	}
@@ -556,147 +165,22 @@
 	{
 		"public"
 		{
-			"buildid" "15157366"
-			"timeupdated" "1721985495"
-		}
-		"2021.3.29"
-		{
-			"buildid" "13466514"
-			"description" "Unity 2021.3.29"
-			"timeupdated" "1708012363"
-		}
-		"aux03"
-		{
-			"buildid" "8389268"
-			"pwdrequired" "1"
-			"timeupdated" "1647516973"
-		}
-		"aux03-debug"
-		{
-			"buildid" "8389282"
-			"pwdrequired" "1"
-			"timeupdated" "1647517053"
-		}
-		"backport-update"
-		{
-			"buildid" "6684725"
-			"pwdrequired" "1"
-			"timeupdated" "1620805124"
-		}
-		"cctv"
-		{
-			"buildid" "5581128"
-			"pwdrequired" "1"
-			"timeupdated" "1600812169"
-		}
-		"contacts-update"
-		{
-			"buildid" "6831665"
-			"pwdrequired" "1"
-			"timeupdated" "1623158883"
-		}
-		"crash"
-		{
-			"buildid" "6485627"
-			"description" "troubleshoot"
-			"timeupdated" "1617450529"
-		}
-		"demo"
-		{
-			"buildid" "5208238"
-			"pwdrequired" "1"
-			"timeupdated" "1592994460"
-		}
-		"experimental"
-		{
-			"buildid" "10309694"
-			"pwdrequired" "1"
-			"timeupdated" "1673551206"
-		}
-		"experimental-debug"
-		{
-			"buildid" "10309718"
-			"pwdrequired" "1"
-			"timeupdated" "1673551404"
-		}
-		"gestures"
-		{
-			"buildid" "6482939"
-			"pwdrequired" "1"
-			"timeupdated" "1617449977"
-		}
-		"test-debug"
-		{
-			"buildid" "10168620"
-			"pwdrequired" "1"
-			"timeupdated" "1671277752"
-		}
-		"trailer"
-		{
-			"buildid" "11806183"
-			"pwdrequired" "1"
-			"timeupdated" "1690503462"
-		}
-		"workcart-update"
-		{
-			"buildid" "6485637"
-			"pwdrequired" "1"
-			"timeupdated" "1617450991"
-		}
-		"aux01"
-		{
-			"buildid" "15043417"
-			"pwdrequired" "1"
-			"timeupdated" "1721091204"
-		}
-		"aux01-debug"
-		{
-			"buildid" "15043429"
-			"pwdrequired" "1"
-			"timeupdated" "1721091314"
+			"buildid" "18475309"
+			"timeupdated" "1747312959"
 		}
 		"aux02"
 		{
-			"buildid" "15121141"
-			"pwdrequired" "1"
-			"timeupdated" "1721716659"
-		}
-		"aux02-debug"
-		{
-			"buildid" "15121162"
-			"pwdrequired" "1"
-			"timeupdated" "1721716778"
-		}
-		"debug"
-		{
-			"buildid" "15163050"
-			"pwdrequired" "1"
-			"timeupdated" "1721998462"
+			"buildid" "18298016"
+			"description" "upandcoming"
+			"timeupdated" "1746026833"
 		}
 		"main"
 		{
-			"buildid" "15163027"
-			"timeupdated" "1721998363"
-		}
-		"media"
-		{
-			"buildid" "14363551"
-			"pwdrequired" "1"
-			"timeupdated" "1715697530"
-		}
-		"media-debug"
-		{
-			"buildid" "14363592"
-			"pwdrequired" "1"
-			"timeupdated" "1715697662"
-		}
-		"test"
-		{
-			"buildid" "14876990"
-			"pwdrequired" "1"
-			"timeupdated" "1720107226"
+			"buildid" "18494117"
+			"timeupdated" "1747412228"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -721,6 +205,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24525361"
-"_sha" "2ba250c4797fa88bdd3e5e3fb0a84fb668cbd9cc"
-"_size" "16923"
+"_change_number" "29028389"
+"_sha" "c3b3e119bc3e5aa00ca50ce0834cbe3c1245f2cb"
+"_size" "3737"
