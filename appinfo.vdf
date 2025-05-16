@@ -25,8 +25,10 @@
 		"schinese" "1"
 		"tchinese" "1"
 		"russian" "1"
+		"thai" "1"
 		"japanese" "1"
 		"polish" "1"
+		"turkish" "1"
 		"brazilian" "1"
 	}
 	"oslist" "windows"
@@ -39,7 +41,7 @@
 			"id" "2358720_eula_0"
 			"name" "Black Myth: Wukong EULA"
 			"url" "https://store.steampowered.com//eula/2358720_eula_0"
-			"version" "5"
+			"version" "9"
 		}
 	}
 	"content_descriptors"
@@ -50,6 +52,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "1"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1724716800"
 		"tested_build_id" "15404439"
 		"tests"
@@ -58,6 +61,19 @@
 			{
 				"display" "2"
 				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
 			}
 		}
 		"configuration"
@@ -72,6 +88,7 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
 		}
@@ -164,7 +181,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729235734"
+	"store_asset_mtime" "1744875060"
 	"associations"
 	{
 		"0"
@@ -196,6 +213,7 @@
 		"category_60" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -262,11 +280,26 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1724119108"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2358720"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"store_tags"
 	{
 		"0" "16094"
@@ -277,8 +310,8 @@
 		"5" "3993"
 		"6" "1742"
 		"7" "4182"
-		"8" "5984"
-		"9" "4106"
+		"8" "4106"
+		"9" "5984"
 		"10" "4604"
 		"11" "4166"
 		"12" "21"
@@ -334,8 +367,10 @@
 				"schinese" "玩 黑神话：悟空 兼容模式（启动崩溃时使用）"
 				"tchinese" "玩 黑神話：悟空 相容模式（啟動崩潰時使用）"
 				"russian" "Играть в Black Myth: Wukong (режим совместимости)"
+				"thai" "เล่น Black Myth: Wukong โหมดความเข้ากันได้ (ใช้เมื่อเริ่มเกมล้มเหลว)"
 				"japanese" "黒神話：悟空をプレイ（互換モード）"
 				"polish" "Graj w Black Myth: Wukong (tryb zgodności)"
+				"turkish" "Black Myth: Wukong oyna (Uyumluluk modu)"
 				"brazilian" "Jogar Black Myth: Wukong (modo de compatibilidade)"
 			}
 			"description" "Play Black Myth: Wukong (Compatibility Mode)"
@@ -389,18 +424,9 @@
 		{
 			"public"
 			{
-				"gid" "7916875498924164311"
-				"size" "138189369484"
-				"download" "126755751040"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"b1_game_test"
-			{
-				"gid" "9AA0BDEDEDEAD2F1D136D66AF4333DCF"
-				"size" "890DA675197E35F4319FD4CE2D656ECA"
-				"download" "BAEA804754AB66FBBD589EA95443A511"
+				"gid" "2985710911012900154"
+				"size" "144483260479"
+				"download" "130350196064"
 			}
 		}
 	}
@@ -408,16 +434,11 @@
 	{
 		"public"
 		{
-			"buildid" "15767368"
-			"timeupdated" "1727078402"
-		}
-		"b1_game_test"
-		{
-			"buildid" "15767368"
-			"pwdrequired" "1"
-			"timeupdated" "1726823560"
+			"buildid" "18095325"
+			"timeupdated" "1744876695"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -438,6 +459,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25887324"
-"_sha" "70479f30b11da9c533c0ef078d6791a14e2b49b6"
-"_size" "8527"
+"_change_number" "29011216"
+"_sha" "2b1e84c3eff0cece0477925d1a435cf407ce5201"
+"_size" "9042"
