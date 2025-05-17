@@ -36,6 +36,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "0"
 		"test_timestamp" "1655769600"
 		"tested_build_id" "8946632"
 		"tests"
@@ -60,6 +61,9 @@
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
+		}
+		"steamos_tests"
+		{
 		}
 		"configuration"
 		{
@@ -105,6 +109,56 @@
 			"height_pct" "50"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"japanese" "logo_japanese.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1679907319"
 	"associations"
 	{
@@ -127,6 +181,11 @@
 		{
 			"type" "franchise"
 			"name" "indienova"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Devil Slayer - Raksasi"
 		}
 	}
 	"primary_genre" "1"
@@ -189,6 +248,12 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1016600"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
 	"store_tags"
 	{
 		"0" "4026"
@@ -204,8 +269,8 @@
 		"10" "5125"
 		"11" "1716"
 		"12" "4604"
-		"13" "29482"
-		"14" "3871"
+		"13" "3871"
+		"14" "29482"
 		"15" "4667"
 		"16" "4085"
 		"17" "4345"
@@ -213,7 +278,7 @@
 		"19" "12095"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -271,54 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "2959716122515254513"
-				"size" "628691296"
+				"gid" "3454589257780318910"
+				"size" "628691357"
 				"download" "482052304"
-			}
-			"test"
-			{
-				"gid" "2959716122515254513"
-				"size" "628691296"
-				"download" "482052304"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"arnan-debug"
-			{
-				"gid" "402D12276AAB3CC4D97529E4BCF2EBFA"
-				"size" "D0D1EB062C7FA0203C1C3AE0DCDF64AF"
-				"download" "A0C9ECADCBB9B5080F3AE15C144FDBF8"
-			}
-			"debug-20210507-1"
-			{
-				"gid" "BBA9756F1EDCDCB050ECB0A57DF3ED48"
-				"size" "E69F7FB49B419677AFE0AAD2C1161D0D"
-				"download" "DD915ECD663488FC97EB3EECF858888E"
-			}
-			"devtest"
-			{
-				"gid" "4E15025C77B1F1943D72AEDF3AE0A94D"
-				"size" "1C36491D07FB2C90F754BEC740C306D8"
-				"download" "579EDC77E822CEC803A0B64E80381017"
-			}
-			"test-debug"
-			{
-				"gid" "5514971DFEB554D22C374C6604812517"
-				"size" "94B6A1B4CE2F13556E9131F6CEDCFC37"
-				"download" "C19E4864162EA491314A6A9388935C22"
-			}
-			"test-unit-2021.3.9"
-			{
-				"gid" "15B2FA91D52FEA86D3B3E7288FB86F9F"
-				"size" "21D8EC964EFEC7CBC5FED07D7AE3F5A9"
-				"download" "2A6E91B478CBC65D4FB61D61B98C2F28"
-			}
-			"v1.4.0"
-			{
-				"gid" "E060230851C562A2B217D4678B7B5674"
-				"size" "68AE45F17049734CD43584882404F550"
-				"download" "7EA77C31C764611930CF6B4CD47A62C8"
 			}
 		}
 	}
@@ -329,54 +349,9 @@
 		{
 			"public"
 			{
-				"gid" "6553598900546378386"
-				"size" "295156552"
-				"download" "286614512"
-			}
-			"test"
-			{
-				"gid" "6553598900546378386"
-				"size" "295156552"
-				"download" "286614512"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"arnan-debug"
-			{
-				"gid" "564D575C956CD030AA98C181BD2367FC"
-				"size" "2C66EA39098DB1CFEF7CE07FA30F3FB4"
-				"download" "C5086FFFAC322A0287258F7AB5261589"
-			}
-			"debug-20210507-1"
-			{
-				"gid" "16E4351CB85E1CD51158DA9BACD5E75A"
-				"size" "C6FC32C300F8F1A05E6A844995D74BE7"
-				"download" "DB8CB8EC5F8066F3B706151BDE05FE22"
-			}
-			"devtest"
-			{
-				"gid" "D03303C16BD8F7CEA3F82A05439C710E"
-				"size" "C89E2E0C479EAA1D286F662D1A3A9C7E"
-				"download" "CA5D1B580C51B846383D1DC400B38A68"
-			}
-			"test-debug"
-			{
-				"gid" "BDCBD6EFC222EA547D0E88EC1341C921"
-				"size" "02FFE97E93D75132998D2EE6BD6D65E4"
-				"download" "E5DFDE70D96BCEFFE295159539EA466A"
-			}
-			"test-unit-2021.3.9"
-			{
-				"gid" "58321FD34C3DBA18815935F274861DEA"
-				"size" "7967A7D3CE50785F2FD8C0C1E7485805"
-				"download" "47A127238C3306B53C180C09DB33D41D"
-			}
-			"v1.4.0"
-			{
-				"gid" "7644B1EA3AAA01B220136D11EA85F9C0"
-				"size" "400917BDD1506865BE907C07C03D51A9"
-				"download" "14F0729D4B3435938A648E309AC7237E"
+				"gid" "8309774583354654983"
+				"size" "296866178"
+				"download" "288324320"
 			}
 		}
 	}
@@ -393,39 +368,6 @@
 				"gid" "5648904487708250034"
 				"size" "653078174"
 				"download" "482502944"
-			}
-			"test"
-			{
-				"gid" "5648904487708250034"
-				"size" "653078174"
-				"download" "482502944"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"devtest"
-			{
-				"gid" "F5B0CF5EDA31A8CD8023F7B97C323732"
-				"size" "21ABF43F33D34635360EF35F19685622"
-				"download" "CB43F1284DF799C4DEFA2E011E8D3815"
-			}
-			"test-debug"
-			{
-				"gid" "EBDE7213DB63E544706882C61822501D"
-				"size" "35752980B535B939CAE2F1FC9957DE19"
-				"download" "0D9E845332ACA382B2B52B870E370925"
-			}
-			"test-unit-2021.3.9"
-			{
-				"gid" "28BD076F38BE9B3642A67DA4CC7A2BA7"
-				"size" "830328205BD50AC9D600576B9E8C6398"
-				"download" "A54298B318B0D3B87622FFDF12C0B86B"
-			}
-			"v1.4.0"
-			{
-				"gid" "373B0F0D63B2796E90A1CDC14090257E"
-				"size" "B558BEC6CC0080C7A29A16F1ACE4E105"
-				"download" "2AA137512A43EEFA596E964DCCB52A35"
 			}
 		}
 	}
@@ -465,51 +407,11 @@
 	{
 		"public"
 		{
-			"buildid" "13082240"
-			"timeupdated" "1704269329"
-		}
-		"arnan-debug"
-		{
-			"buildid" "6581450"
-			"pwdrequired" "1"
-			"timeupdated" "1624517474"
-		}
-		"debug-20210507-1"
-		{
-			"buildid" "6662720"
-			"pwdrequired" "1"
-			"timeupdated" "1620373197"
-		}
-		"devtest"
-		{
-			"buildid" "13082240"
-			"pwdrequired" "1"
-			"timeupdated" "1704268608"
-		}
-		"test"
-		{
-			"buildid" "13082240"
-			"timeupdated" "1704269167"
-		}
-		"test-debug"
-		{
-			"buildid" "13082240"
-			"pwdrequired" "1"
-			"timeupdated" "1704268641"
-		}
-		"test-unit-2021.3.9"
-		{
-			"buildid" "9493705"
-			"pwdrequired" "1"
-			"timeupdated" "1662903929"
-		}
-		"v1.4.0"
-		{
-			"buildid" "9493079"
-			"pwdrequired" "1"
-			"timeupdated" "1662889063"
+			"buildid" "18494712"
+			"timeupdated" "1747480624"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -549,6 +451,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22583572"
-"_sha" "90ea22474079dd8c7c4a0f9c537f9a03b045ae01"
-"_size" "10660"
+"_change_number" "29039364"
+"_sha" "1e8e7ab246ef962d43bb7bf106381c0b2aa81ecc"
+"_size" "7972"
