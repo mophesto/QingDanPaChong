@@ -33,6 +33,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1701129600"
 		"tested_build_id" "12338037"
 		"tests"
@@ -68,6 +69,24 @@
 				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -80,7 +99,9 @@
 			"requires_internet_for_singleplayer" "1"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Relic Hunters Legend"
@@ -397,9 +418,9 @@
 		{
 			"public"
 			{
-				"gid" "3663075481177804855"
-				"size" "13048809671"
-				"download" "10345744672"
+				"gid" "8005084664962887003"
+				"size" "13055419618"
+				"download" "10350506048"
 			}
 		}
 	}
@@ -440,8 +461,8 @@
 	{
 		"public"
 		{
-			"buildid" "18284069"
-			"timeupdated" "1745949463"
+			"buildid" "18494993"
+			"timeupdated" "1747417364"
 		}
 	}
 	"privatebranches" "1"
@@ -551,6 +572,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28733216"
-"_sha" "afa33ccd183bd1dd70995823bc6318f2c48b001a"
-"_size" "12385"
+"_change_number" "29029862"
+"_sha" "b7ed7e123f8b1aec3a58c281c57f17376a10a260"
+"_size" "12849"
