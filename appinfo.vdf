@@ -24,6 +24,7 @@
 		"english" "1"
 		"german" "1"
 		"french" "1"
+		"italian" "1"
 		"koreana" "1"
 		"spanish" "1"
 		"schinese" "1"
@@ -35,6 +36,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1692057600"
 		"tested_build_id" "11806502"
 		"tests"
@@ -60,6 +62,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -72,7 +82,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Sea of Stars"
@@ -93,6 +105,7 @@
 		"library_capsule" "en,zh-cn,zh-tw"
 		"library_hero" "en"
 		"library_logo" "en,zh-cn"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomCenter"
@@ -146,8 +159,19 @@
 				"height_pct" "65.42388981239611"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "ce1fa95250115182ea6bb7aa0b027cc5e928a6a7/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "ce1fa95250115182ea6bb7aa0b027cc5e928a6a7/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1732128101"
+	"store_asset_mtime" "1747755478"
 	"associations"
 	{
 		"0"
@@ -249,25 +273,25 @@
 	"gameid" "1244090"
 	"store_tags"
 	{
-		"0" "4434"
-		"1" "3964"
+		"0" "3964"
+		"1" "4434"
 		"2" "4325"
-		"3" "10695"
-		"4" "3841"
-		"5" "21"
-		"6" "1742"
-		"7" "3871"
-		"8" "122"
+		"3" "3841"
+		"4" "10695"
+		"5" "1742"
+		"6" "21"
+		"7" "122"
+		"8" "3871"
 		"9" "4182"
-		"10" "4004"
-		"11" "1684"
-		"12" "492"
+		"10" "1684"
+		"11" "492"
+		"12" "4004"
 		"13" "3854"
-		"14" "4136"
+		"14" "1685"
 		"15" "3834"
-		"16" "1685"
-		"17" "14720"
-		"18" "3859"
+		"16" "4136"
+		"17" "3859"
+		"18" "14720"
 		"19" "5608"
 	}
 	"review_score" "8"
@@ -280,7 +304,7 @@
 	"developer" "Sabotage Studio"
 	"publisher" "Sabotage Studio"
 	"homepage" "https://seaofstarsgame.co"
-	"listofdlc" "2550500"
+	"listofdlc" "2550500,3457510"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -322,90 +346,9 @@
 		{
 			"public"
 			{
-				"gid" "7261303137858943433"
-				"size" "3973918898"
-				"download" "3229659024"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"indieland"
-			{
-				"gid" "E20578DB07B7D3BC8BCED4BF2A564E12"
-				"size" "39A300185A7B9CE699E996AC787DDD31"
-				"download" "EF56B39F7DFF0FC15F47AB14EA376F1F"
-			}
-			"public_playtest"
-			{
-				"gid" "D053EE68A6797788539D842F8B65D7FD"
-				"size" "5B380849332181078CE156AA7911B24A"
-				"download" "702758EF9BFBFA21C904BDDE87AC8AC2"
-			}
-			"qa_cutscene"
-			{
-				"gid" "9B63B39F41EFAFB5EB8848335B5F9DC3"
-				"size" "9A25C20480D8AAE3748DDA1E1F13195C"
-				"download" "6896B1CD61C1F08ADDE0E4F5CF5C2166"
-			}
-			"stable"
-			{
-				"gid" "255C914A4CF94DE39D6CA4DD156B34BC"
-				"size" "1DF3DEAD8E991B085A5D99138A90158D"
-				"download" "247F1B0FB5DB12FB7E83E5A4D8E2810F"
-			}
-			"debug"
-			{
-				"gid" "A67498FF4D698AE5F8F90785567F3838"
-				"size" "A0A010F838D6621E1A7E79D1DBB09E08"
-				"download" "AE0501FADFCDE8C4D5DAFA0468A3E288"
-			}
-			"debug_2"
-			{
-				"gid" "A8AA11CCAA4860E43E30FF448C59C355"
-				"size" "A315C190FD13638C734603BDB36F973D"
-				"download" "066968A57973F27F1407212BBE33AD6D"
-			}
-			"localization"
-			{
-				"gid" "846D31FEC4674A5436C884BA6A1DE0C1"
-				"size" "10BD677C132B123220AAC992EE7FF89A"
-				"download" "F50AEC22D3A9EA9B9554588DE9D8A9EC"
-			}
-			"nightly_debug"
-			{
-				"gid" "E25C2C7F886338FCDEC8259154068883"
-				"size" "917477115F8EB5E78813909AF5508A0E"
-				"download" "416B1F119B74153462A416E55A37146D"
-			}
-			"nightly_release"
-			{
-				"gid" "3854F66DA6031573DC887F3D7FA389BE"
-				"size" "72487D18B62D7E53988AF2DE991A755B"
-				"download" "FF58F8C3FA6F76CA678C0E7CB9BF2442"
-			}
-			"press"
-			{
-				"gid" "4D00EF8D09BE12214CC635F01D6AAD4A"
-				"size" "1D759B9D9C40DE516B2CF8B2E38F427F"
-				"download" "8A2F035AABB12DD3AA09096B77FBF348"
-			}
-			"staging"
-			{
-				"gid" "4FE31FDF19D363C95EF19371B26CAEA0"
-				"size" "EEC628725DE540495201794BA8D7F793"
-				"download" "DD2F2EDF586006691BF51978B17BF186"
-			}
-			"test"
-			{
-				"gid" "7FAA55B87751F6DCEBC1762ED7FCEAB3"
-				"size" "4B352A8E4B94651E363DBDC2EA38C234"
-				"download" "BDA2B5D79A6AD304606081759BDE2CC3"
-			}
-			"weekly_master"
-			{
-				"gid" "FCD873974CF995A5C1E958ACEDE8B731"
-				"size" "9D9716EE6A2B13BEC7A9B5FFDF484A9A"
-				"download" "4A1C4A009996DB0C9F82CB01494CE066"
+				"gid" "7722353990348396629"
+				"size" "4780949699"
+				"download" "3878424832"
 			}
 		}
 	}
@@ -421,126 +364,16 @@
 				"download" "719731120"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"indieland"
-			{
-				"gid" "400602F49E93C839A4FA7C63A8C62E37"
-				"size" "7FCAFB88139EFF3FFB54DC516AB317C9"
-				"download" "F23159CB05155C1D9EB03A620A746052"
-			}
-			"public_playtest"
-			{
-				"gid" "5E7075FD117FBCB9885A126673AF3C5C"
-				"size" "1783B56E9598AF684373F8FA24570855"
-				"download" "D018D1C408DCB4286472B2B75F5AB8EB"
-			}
-			"debug"
-			{
-				"gid" "29D98714790357C6DCA5037CC904C6EE"
-				"size" "0376763641D834F7145918CFF420D387"
-				"download" "5E0BB3F001B5D866526864A446419CC9"
-			}
-			"debug_2"
-			{
-				"gid" "9AFEEF6D5CEABAE514BDDF1D9147845D"
-				"size" "61AEDE25F4566403024119DBB781EB71"
-				"download" "C687794BD468882AEACB81287E231B51"
-			}
-			"press"
-			{
-				"gid" "611D97AE5E7E242DE6AC98DBDFC98D85"
-				"size" "EEFE9756486B937A3A4AAB14B8C108ED"
-				"download" "0985AF651929672B79905BFAB9C55AF4"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16633445"
-			"timeupdated" "1733338863"
-		}
-		"indieland"
-		{
-			"buildid" "12550772"
-			"pwdrequired" "1"
-			"timeupdated" "1698392452"
-		}
-		"public_playtest"
-		{
-			"buildid" "14112527"
-			"pwdrequired" "1"
-			"timeupdated" "1713546234"
-		}
-		"qa_cutscene"
-		{
-			"buildid" "11488344"
-			"pwdrequired" "1"
-			"timeupdated" "1686925783"
-		}
-		"stable"
-		{
-			"buildid" "14086397"
-			"pwdrequired" "1"
-			"timeupdated" "1713377158"
-		}
-		"debug"
-		{
-			"buildid" "15695721"
-			"pwdrequired" "1"
-			"timeupdated" "1726258820"
-		}
-		"debug_2"
-		{
-			"buildid" "16504662"
-			"pwdrequired" "1"
-			"timeupdated" "1732305604"
-		}
-		"localization"
-		{
-			"buildid" "16054245"
-			"pwdrequired" "1"
-			"timeupdated" "1729009473"
-		}
-		"nightly_debug"
-		{
-			"buildid" "16633385"
-			"pwdrequired" "1"
-			"timeupdated" "1733338455"
-		}
-		"nightly_release"
-		{
-			"buildid" "16631967"
-			"pwdrequired" "1"
-			"timeupdated" "1733330595"
-		}
-		"press"
-		{
-			"buildid" "16254827"
-			"pwdrequired" "1"
-			"timeupdated" "1730394749"
-		}
-		"staging"
-		{
-			"buildid" "16556964"
-			"pwdrequired" "1"
-			"timeupdated" "1732735080"
-		}
-		"test"
-		{
-			"buildid" "14215045"
-			"pwdrequired" "1"
-			"timeupdated" "1714435722"
-		}
-		"weekly_master"
-		{
-			"buildid" "14476349"
-			"pwdrequired" "1"
-			"timeupdated" "1716514568"
+			"buildid" "18534674"
+			"timeupdated" "1747749443"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -561,6 +394,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26494552"
-"_sha" "06c9b5a457574e4bbb0c8c9f5630c73d9bceb36b"
-"_size" "11455"
+"_change_number" "29085343"
+"_sha" "69ba4e0579192dbc95358db5b81747ed329b77ca"
+"_size" "7383"
