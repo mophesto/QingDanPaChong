@@ -43,15 +43,49 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "1"
-		"test_timestamp" "1712793600"
-		"tested_build_id" "13935060"
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1746576000"
+		"tested_build_id" "18166811"
 		"tests"
 		{
 			"0"
 			{
-				"display" "2"
-				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -59,13 +93,14 @@
 			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
-			"primary_player_is_controller_slot_0" "0"
+			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "0"
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-1RC"
-			"requires_h264" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "1"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
 		}
@@ -163,7 +198,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1744728550"
+	"store_asset_mtime" "1747754216"
 	"associations"
 	{
 		"0"
@@ -296,7 +331,7 @@
 		"19" "5794"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -375,9 +410,9 @@
 		{
 			"public"
 			{
-				"gid" "5605352265083051167"
-				"size" "21801156594"
-				"download" "8443018480"
+				"gid" "3080826635269005828"
+				"size" "21821941598"
+				"download" "8443414960"
 			}
 			"legacy"
 			{
@@ -394,8 +429,8 @@
 	{
 		"public"
 		{
-			"buildid" "18166811"
-			"timeupdated" "1745325294"
+			"buildid" "18484538"
+			"timeupdated" "1747752369"
 		}
 		"legacy"
 		{
@@ -421,6 +456,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28605296"
-"_sha" "2a26e504bcb3046a1664ba1d97d8a9454d26212e"
-"_size" "8325"
+"_change_number" "29084913"
+"_sha" "c2f403d07e1e341231f0bd2fdf2dbb1f855ea3e2"
+"_size" "9134"
