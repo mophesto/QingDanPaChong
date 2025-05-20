@@ -47,6 +47,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1716508800"
 		"tested_build_id" "14256138"
 		"tests"
@@ -72,6 +73,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -84,6 +93,7 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-experimental"
 			"requires_h264" "1"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
 		}
@@ -304,8 +314,8 @@
 		"18" "8093"
 		"19" "7208"
 	}
-	"review_score" "8"
-	"review_percentage" "94"
+	"review_score" "9"
+	"review_percentage" "95"
 	"mastersubs_granting_app" "1289670"
 }
 "extended"
@@ -359,66 +369,9 @@
 		{
 			"public"
 			{
-				"gid" "3216230827772959550"
-				"size" "48103037878"
-				"download" "47190674848"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"debug"
-			{
-				"gid" "09CABDF5C5AB15018C754F68DFFCC481"
-				"size" "1EC4F906EA3DF8B2414C90094E77885A"
-				"download" "A178C67E3B22F548BC74810B3736E3CC"
-			}
-			"eacc_ead_stage"
-			{
-				"gid" "BCAC0946F9B1ED40276F3E187AF4414B"
-				"size" "99B7F7BA4A190E5A12E1E2351652DE97"
-				"download" "D5CD9A095F85CB8E01C227065239C7BC"
-			}
-			"eacc_patch1"
-			{
-				"gid" "4EB2191937297D7C0015ACC78B99A68A"
-				"size" "245EEEC4E2586651B6401B46F8E59FB9"
-				"download" "35C4929D6A00546B50447BF71BFC16E2"
-			}
-			"eap_td_test"
-			{
-				"gid" "48DBC5594978422AD4F13FBA1B283D08"
-				"size" "1FE1E267171E3E9D4AC70ABCBA7B16F9"
-				"download" "49B9A42B069BDDE4903418D0CFFE867B"
-			}
-			"rp_test"
-			{
-				"gid" "1BA2B257ECC31244B52B7684B4CD8FC6"
-				"size" "6720A076DA7AEDB85E6FD44DA1F46D8F"
-				"download" "BC4B1D5D36A44116FF04A42892BDB050"
-			}
-			"eacc"
-			{
-				"gid" "B5DFE80BDD8E2DEDC3492FC4952CB328"
-				"size" "158095B6F1EB20ADC2E57D8CB7F14478"
-				"download" "3CAE85BEF34116D13FA54D561D8EA981"
-			}
-			"native_test"
-			{
-				"gid" "AE916FFBB00CA93CA3EFCCD70A80E615"
-				"size" "C7D66808FC4053754F43C088F74E5AFA"
-				"download" "A518F740BCEC45F82F7494CB4270B78C"
-			}
-			"new_wrapped"
-			{
-				"gid" "250C75E22FAE11ECBC62583FC825EB20"
-				"size" "174CEBC5A6296B781137976064083CE1"
-				"download" "0D1C38B40BC3C11D0A1425B49BCCCEB4"
-			}
-			"valve_review"
-			{
-				"gid" "F3A65AC151BF73F804052446B0D3F7F6"
-				"size" "7ECE230D004791314480510E6B8DE0A2"
-				"download" "72BC193FEF9A09A8D037A7DF5B92B652"
+				"gid" "5290425664756095500"
+				"size" "48103037798"
+				"download" "47190674656"
 			}
 		}
 	}
@@ -426,64 +379,11 @@
 	{
 		"public"
 		{
-			"buildid" "16511131"
-			"timeupdated" "1734080403"
-		}
-		"debug"
-		{
-			"buildid" "6208788"
-			"pwdrequired" "1"
-			"timeupdated" "1612819654"
-		}
-		"eacc_ead_stage"
-		{
-			"buildid" "10350944"
-			"pwdrequired" "1"
-			"timeupdated" "1674064963"
-		}
-		"eacc_patch1"
-		{
-			"buildid" "10083036"
-			"pwdrequired" "1"
-			"timeupdated" "1670272823"
-		}
-		"eap_td_test"
-		{
-			"buildid" "6057066"
-			"pwdrequired" "1"
-			"timeupdated" "1610136436"
-		}
-		"rp_test"
-		{
-			"buildid" "6178482"
-			"pwdrequired" "1"
-			"timeupdated" "1613572317"
-		}
-		"eacc"
-		{
-			"buildid" "16511131"
-			"pwdrequired" "1"
-			"timeupdated" "1732635540"
-		}
-		"native_test"
-		{
-			"buildid" "16511131"
-			"pwdrequired" "1"
-			"timeupdated" "1732373536"
-		}
-		"new_wrapped"
-		{
-			"buildid" "14256243"
-			"pwdrequired" "1"
-			"timeupdated" "1714744528"
-		}
-		"valve_review"
-		{
-			"buildid" "14256138"
-			"pwdrequired" "1"
-			"timeupdated" "1715089502"
+			"buildid" "18385016"
+			"timeupdated" "1747735086"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -506,6 +406,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26626133"
-"_sha" "45aca8c90aa038afdfcd91edf153ddb65b7d6d6b"
-"_size" "10053"
+"_change_number" "29079103"
+"_sha" "46b7545a105357675a2ad5cc726f9fa7853adcf0"
+"_size" "7699"
