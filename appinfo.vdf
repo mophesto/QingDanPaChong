@@ -25,6 +25,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1702339200"
 		"tested_build_id" "12809879"
 		"tests"
@@ -55,6 +56,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -67,6 +76,7 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "1"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
 		}
@@ -159,7 +169,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1736779073"
+	"store_asset_mtime" "1744958263"
 	"associations"
 	{
 		"0"
@@ -175,12 +185,17 @@
 		"2"
 		{
 			"type" "publisher"
-			"name" "Gamera Games"
+			"name" "Gamirror Games"
 		}
 		"3"
 		{
 			"type" "franchise"
 			"name" "The Arcade Crew"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Gamirror Games"
 		}
 	}
 	"primary_genre" "3"
@@ -241,8 +256,8 @@
 		"14" "14139"
 		"15" "4182"
 		"16" "1708"
-		"17" "4136"
-		"18" "1716"
+		"17" "1716"
+		"18" "4136"
 		"19" "1742"
 	}
 	"review_score" "6"
@@ -281,15 +296,15 @@
 		{
 			"public"
 			{
-				"gid" "1005793408387890242"
-				"size" "1108426632"
-				"download" "648035200"
+				"gid" "901010484258919807"
+				"size" "610033900"
+				"download" "466759504"
 			}
 			"crossblitz_beta"
 			{
-				"gid" "2902897162287936976"
-				"size" "600898308"
-				"download" "462350480"
+				"gid" "8269089090388986639"
+				"size" "609778460"
+				"download" "466725328"
 			}
 		}
 	}
@@ -297,14 +312,14 @@
 	{
 		"public"
 		{
-			"buildid" "17613434"
-			"timeupdated" "1742486415"
+			"buildid" "18544602"
+			"timeupdated" "1747832476"
 		}
 		"crossblitz_beta"
 		{
-			"buildid" "17634925"
+			"buildid" "18276618"
 			"description" "Beta branch of Cross Blitz, open to the public"
-			"timeupdated" "1742486389"
+			"timeupdated" "1745937261"
 		}
 	}
 	"privatebranches" "1"
@@ -343,6 +358,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28054482"
-"_sha" "e9eb36a247b9c32fedb5122725b37422637d1c5b"
-"_size" "6508"
+"_change_number" "29104337"
+"_sha" "253fa84ae109b83a2fa01a7dea0ffcf78773a9a4"
+"_size" "6769"
