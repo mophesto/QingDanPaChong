@@ -19,6 +19,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1663372800"
 		"tested_build_id" "9322761"
 		"tests"
@@ -49,6 +50,19 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -61,7 +75,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"small_capsule"
@@ -230,9 +246,9 @@
 		{
 			"public"
 			{
-				"gid" "3183269673572782197"
-				"size" "280460896"
-				"download" "151224256"
+				"gid" "6656156812121641413"
+				"size" "280463088"
+				"download" "151226112"
 			}
 		}
 	}
@@ -241,8 +257,8 @@
 	{
 		"public"
 		{
-			"buildid" "18344626"
-			"timeupdated" "1746439218"
+			"buildid" "18584175"
+			"timeupdated" "1748012749"
 		}
 	}
 	"privatebranches" "1"
@@ -267,6 +283,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28819982"
-"_sha" "9e17a69dc9495684b5dc11a655563f8cac55a1c2"
-"_size" "4586"
+"_change_number" "29152780"
+"_sha" "45e1be4977f9c2a811116c5492c710a195225823"
+"_size" "4921"
