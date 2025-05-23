@@ -53,7 +53,7 @@
 		"sc_schinese" "反恐精英：全球攻势"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1747866689"
+	"timeline_marker_updated" "1747959616"
 	"timeline_marker_svg" "0eeacc724c77e1f5abeeba4fb542f45bad894470/markers.svg"
 	"content_descriptors"
 	{
@@ -602,6 +602,7 @@
 	"sdr-groups-global" "mplay-csgo"
 	"matchmaking_uptodate" "1"
 	"matchmaking_mms_appidinvitenf" "624820"
+	"matchmaking_rate_limit" "1"
 	"enabletextfiltering" "1"
 	"gameoverlay_testmode" "1"
 	"enable_duration_control" "1"
@@ -668,7 +669,7 @@
 		{
 			"public"
 			{
-				"gid" "4838168794881920171"
+				"gid" "3878793115822118808"
 				"size" "7"
 				"download" "64"
 			}
@@ -775,7 +776,7 @@
 		{
 			"public"
 			{
-				"gid" "4141482015161037526"
+				"gid" "6701124232515932896"
 				"size" "7"
 				"download" "64"
 			}
@@ -878,7 +879,7 @@
 		{
 			"public"
 			{
-				"gid" "4964818294248514108"
+				"gid" "8692475082462583231"
 				"size" "7"
 				"download" "64"
 			}
@@ -984,7 +985,7 @@
 		{
 			"public"
 			{
-				"gid" "8075390981955492098"
+				"gid" "7406133456092125722"
 				"size" "7"
 				"download" "64"
 			}
@@ -1080,7 +1081,7 @@
 		{
 			"public"
 			{
-				"gid" "1856123217524197412"
+				"gid" "272702840311338506"
 				"size" "7"
 				"download" "64"
 			}
@@ -1176,7 +1177,7 @@
 		{
 			"public"
 			{
-				"gid" "2401107715294750312"
+				"gid" "2771565302076197306"
 				"size" "7"
 				"download" "64"
 			}
@@ -1272,7 +1273,7 @@
 		{
 			"public"
 			{
-				"gid" "3209671850453731090"
+				"gid" "6126294430548784160"
 				"size" "7"
 				"download" "64"
 			}
@@ -1368,7 +1369,7 @@
 		{
 			"public"
 			{
-				"gid" "4640764896616733432"
+				"gid" "3497901702458194080"
 				"size" "7"
 				"download" "64"
 			}
@@ -1468,9 +1469,9 @@
 		{
 			"public"
 			{
-				"gid" "6747815151267327564"
-				"size" "50846837124"
-				"download" "40997251440"
+				"gid" "8550963101868708924"
+				"size" "52225186695"
+				"download" "42213522752"
 			}
 			"1.40.6.2"
 			{
@@ -1562,9 +1563,9 @@
 		{
 			"public"
 			{
-				"gid" "3829010299893197143"
-				"size" "7578241551"
-				"download" "4016446704"
+				"gid" "5538893949138593199"
+				"size" "7004038578"
+				"download" "3766527440"
 			}
 			"1.40.6.2"
 			{
@@ -1751,9 +1752,9 @@
 		{
 			"public"
 			{
-				"gid" "34821882743432384"
-				"size" "7005112660"
-				"download" "3593327376"
+				"gid" "243752813694145102"
+				"size" "6431097191"
+				"download" "3343593408"
 			}
 			"1.40.6.2"
 			{
@@ -1845,9 +1846,9 @@
 		{
 			"public"
 			{
-				"gid" "2506907270420255040"
-				"size" "1018065131"
-				"download" "833784944"
+				"gid" "2710000399235967142"
+				"size" "1028660160"
+				"download" "843090096"
 			}
 			"1.40.6.2"
 			{
@@ -1953,9 +1954,9 @@
 		{
 			"public"
 			{
-				"gid" "9181084439056330005"
-				"size" "875132425"
-				"download" "227165328"
+				"gid" "3328372885568969991"
+				"size" "876622981"
+				"download" "227265664"
 			}
 			"1.40.6.2"
 			{
@@ -2042,8 +2043,8 @@
 	{
 		"public"
 		{
-			"buildid" "18557042"
-			"timeupdated" "1747866658"
+			"buildid" "18572496"
+			"timeupdated" "1747959170"
 		}
 		"csgo_legacy"
 		{
@@ -2145,6 +2146,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "29114548"
-"_sha" "5e41e0f44f99590d0194f1c9507c2aa7015ca5d8"
-"_size" "39142"
+"_change_number" "29138970"
+"_sha" "407085b407cfa58e26dcc9cab8109f7acd0ad6de"
+"_size" "39174"
