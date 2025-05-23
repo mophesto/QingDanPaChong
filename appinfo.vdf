@@ -60,6 +60,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1691798400"
 		"tested_build_id" "11764279"
 		"tests"
@@ -85,6 +86,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -97,7 +106,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-8.0-3"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Armored Core VI: Fires of Rubicon"
@@ -300,6 +311,11 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1888160"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"store_tags"
 	{
 		"0" "4821"
@@ -409,9 +425,9 @@
 		{
 			"public"
 			{
-				"gid" "7943054933176037434"
-				"size" "64859465070"
-				"download" "51750332672"
+				"gid" "4415896252121501347"
+				"size" "64859467399"
+				"download" "51750332048"
 			}
 		}
 	}
@@ -421,9 +437,9 @@
 		{
 			"public"
 			{
-				"gid" "6990028244031835311"
-				"size" "891685222"
-				"download" "345925712"
+				"gid" "4743522199257002981"
+				"size" "891873638"
+				"download" "346002352"
 			}
 		}
 	}
@@ -433,9 +449,9 @@
 		{
 			"public"
 			{
-				"gid" "4086806342453674707"
-				"size" "111414296"
-				"download" "46799584"
+				"gid" "5961840280188243652"
+				"size" "111413272"
+				"download" "46762992"
 			}
 		}
 	}
@@ -445,9 +461,9 @@
 		{
 			"public"
 			{
-				"gid" "4332146420922602944"
-				"size" "111414296"
-				"download" "46799584"
+				"gid" "7986486217946675284"
+				"size" "111413272"
+				"download" "46762992"
 			}
 		}
 	}
@@ -469,8 +485,8 @@
 	{
 		"public"
 		{
-			"buildid" "17493473"
-			"timeupdated" "1742544100"
+			"buildid" "18516214"
+			"timeupdated" "1747987296"
 		}
 	}
 	"privatebranches" "1"
@@ -494,6 +510,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28066898"
-"_sha" "39544ec64ccd1ead52221f6c442f6e918c890970"
-"_size" "10492"
+"_change_number" "29144900"
+"_sha" "02dc8f5dc8d3ecaa3602fe53ddc02fb288a6663d"
+"_size" "10776"
