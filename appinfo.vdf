@@ -19,7 +19,7 @@
 			"id" "513710_eula_1"
 			"name" "SCUM EULA"
 			"url" "https://store.steampowered.com//eula/513710_eula_1"
-			"version" "5"
+			"version" "7"
 		}
 	}
 	"languages"
@@ -40,6 +40,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "1"
+		"steamos_compatibility" "1"
 		"test_timestamp" "1646697600"
 		"tested_build_id" "8131979"
 		"tests"
@@ -50,9 +51,17 @@
 				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamOS_TestResult_SteamOSDoesNotSupport"
+			}
+		}
 		"configuration"
 		{
-			"supported_input" "simultaneous_gamepad_mouse"
+			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
@@ -62,6 +71,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-7.0-1"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "SCUM"
@@ -128,7 +140,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1712242271"
+	"store_asset_mtime" "1747121088"
 	"associations"
 	{
 		"0"
@@ -244,6 +256,12 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "513710"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
 	"store_tags"
 	{
 		"0" "1662"
@@ -256,8 +274,8 @@
 		"7" "19"
 		"8" "4175"
 		"9" "21"
-		"10" "1702"
-		"11" "4182"
+		"10" "4182"
+		"11" "1702"
 		"12" "493"
 		"13" "1663"
 		"14" "4667"
@@ -359,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "803483309713251790"
-				"size" "79456943773"
-				"download" "27905983488"
+				"gid" "7364305458273891689"
+				"size" "79461647680"
+				"download" "27926716352"
 			}
 		}
 	}
@@ -406,13 +424,13 @@
 	{
 		"public"
 		{
-			"buildid" "17779968"
-			"timeupdated" "1742475636"
+			"buildid" "18627814"
+			"timeupdated" "1748437195"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "28051229"
-"_sha" "8f48b0594a6582ba444138944e6f376a3d6fef8d"
-"_size" "7094"
+"_change_number" "29236290"
+"_sha" "e98e0ad59e26acfedd4560d0f54b4a364fa5fe49"
+"_size" "7421"
