@@ -27,12 +27,12 @@
 }
 "config"
 {
-	"installdir" "Post Scriptum - Public Testing"
+	"installdir" "Squad 44 - Public Testing"
 	"launch"
 	{
 		"0"
 		{
-			"executable" "Launch_PostScriptum.exe"
+			"executable" "squad44_launcher.exe"
 			"arguments" "-NotInstalled"
 			"type" "default"
 			"config"
@@ -91,9 +91,9 @@
 		{
 			"public"
 			{
-				"gid" "4397254197990796483"
-				"size" "88280013606"
-				"download" "34535023568"
+				"gid" "5689969521858385967"
+				"size" "96661875681"
+				"download" "37684666240"
 			}
 		}
 	}
@@ -102,13 +102,13 @@
 	{
 		"public"
 		{
-			"buildid" "16264406"
-			"timeupdated" "1738611868"
+			"buildid" "18667255"
+			"timeupdated" "1748597142"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27295307"
-"_sha" "5bd304aaebd4dc6aa709e26767ac79416518786a"
-"_size" "1763"
+"_change_number" "29280593"
+"_sha" "04be1477a9fd44b8dc38a79678a55a8a5b271769"
+"_size" "1755"
