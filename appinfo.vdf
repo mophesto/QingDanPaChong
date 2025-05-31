@@ -31,6 +31,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1718841600"
 		"tested_build_id" "14764685"
 		"tests"
@@ -56,6 +57,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -68,6 +77,7 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-9.0-2RC"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
 		}
@@ -290,21 +300,27 @@
 		{
 			"public"
 			{
-				"gid" "6717238897043538487"
-				"size" "557446644"
-				"download" "352425472"
+				"gid" "6754984019105922896"
+				"size" "557449543"
+				"download" "352427632"
 			}
 			"beta"
 			{
-				"gid" "6717238897043538487"
-				"size" "557446644"
-				"download" "352425472"
+				"gid" "6754984019105922896"
+				"size" "557449543"
+				"download" "352427632"
 			}
 			"localisation"
 			{
-				"gid" "6717238897043538487"
-				"size" "557446644"
-				"download" "352425472"
+				"gid" "6754984019105922896"
+				"size" "557449543"
+				"download" "352427632"
+			}
+			"win7"
+			{
+				"gid" "7674727133144087300"
+				"size" "556512793"
+				"download" "352017056"
 			}
 		}
 	}
@@ -318,21 +334,27 @@
 		{
 			"public"
 			{
-				"gid" "5759157843967379027"
-				"size" "612245502"
-				"download" "366516496"
+				"gid" "6083665172107783919"
+				"size" "612244880"
+				"download" "366524416"
 			}
 			"beta"
 			{
-				"gid" "5759157843967379027"
-				"size" "612245502"
-				"download" "366516496"
+				"gid" "6083665172107783919"
+				"size" "612244880"
+				"download" "366524416"
 			}
 			"localisation"
 			{
-				"gid" "5759157843967379027"
-				"size" "612245502"
-				"download" "366516496"
+				"gid" "6083665172107783919"
+				"size" "612244880"
+				"download" "366524416"
+			}
+			"win7"
+			{
+				"gid" "5956664200064181291"
+				"size" "609823915"
+				"download" "366025104"
 			}
 		}
 	}
@@ -362,25 +384,37 @@
 				"size" "333321408"
 				"download" "336496336"
 			}
+			"win7"
+			{
+				"gid" "87913800612579623"
+				"size" "333321408"
+				"download" "336496336"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "18250016"
-			"timeupdated" "1745752889"
+			"buildid" "18668376"
+			"timeupdated" "1748627404"
 		}
 		"beta"
 		{
-			"buildid" "18250016"
-			"timeupdated" "1745675667"
+			"buildid" "18668376"
+			"timeupdated" "1748577373"
 		}
 		"localisation"
 		{
-			"buildid" "18250016"
+			"buildid" "18668376"
 			"description" "Branch for testing Vault of the Voids Localisation"
-			"timeupdated" "1745675674"
+			"timeupdated" "1748577379"
+		}
+		"win7"
+		{
+			"buildid" "17858825"
+			"description" "The LAST version to support Windows 7 -- you will not receive any future update when playing on this branch"
+			"timeupdated" "1745959336"
 		}
 	}
 	"privatebranches" "1"
@@ -442,6 +476,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28691417"
-"_sha" "ac61ef9d2ac9dc1f1dd3c898a2b7545e435f2389"
-"_size" "7680"
+"_change_number" "29290098"
+"_sha" "80a8d4aabee5dd51d12d3b1102a065f5addc5141"
+"_size" "8409"
