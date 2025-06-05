@@ -31,7 +31,7 @@
 		"sc_schinese" "Dota 2 刀塔"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1749066971"
+	"timeline_marker_updated" "1749088506"
 	"timeline_marker_svg" "c9e9902151b7e9049145921c09a1aa4e6744530b/markers.svg"
 	"type" "game"
 	"content_descriptors"
@@ -547,7 +547,7 @@
 		{
 			"public"
 			{
-				"gid" "2008615206405055424"
+				"gid" "6884170263685299415"
 				"size" "4134519674"
 				"download" "2371137984"
 			}
@@ -640,9 +640,9 @@
 		{
 			"public"
 			{
-				"gid" "1638178331421776066"
+				"gid" "4394012708588206133"
 				"size" "534716128"
-				"download" "135771632"
+				"download" "135772048"
 			}
 		}
 	}
@@ -656,9 +656,9 @@
 		{
 			"public"
 			{
-				"gid" "8265195516317881140"
+				"gid" "6240769607303076082"
 				"size" "1164711555"
-				"download" "528333200"
+				"download" "528333264"
 			}
 		}
 	}
@@ -684,9 +684,9 @@
 		{
 			"public"
 			{
-				"gid" "6115620527007015818"
+				"gid" "4134682212270118697"
 				"size" "1240927969"
-				"download" "531813200"
+				"download" "531811888"
 			}
 		}
 	}
@@ -767,7 +767,7 @@
 		{
 			"public"
 			{
-				"gid" "5638779620414279751"
+				"gid" "6797101292166802542"
 				"size" "5704453763"
 				"download" "1576355856"
 			}
@@ -831,8 +831,8 @@
 	{
 		"public"
 		{
-			"buildid" "18742261"
-			"timeupdated" "1749080710"
+			"buildid" "18743598"
+			"timeupdated" "1749089401"
 		}
 	}
 	"privatebranches" "1"
@@ -844,6 +844,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "29383225"
-"_sha" "29bd505e7d92f2baabf91ab95682819e9fd0390a"
+"_change_number" "29385013"
+"_sha" "23210b3e8aa07a1c9ba881bcb2d3c69b76c27f92"
 "_size" "14617"
