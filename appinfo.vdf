@@ -31,7 +31,7 @@
 		"sc_schinese" "Dota 2 刀塔"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1749088506"
+	"timeline_marker_updated" "1749231932"
 	"timeline_marker_svg" "c9e9902151b7e9049145921c09a1aa4e6744530b/markers.svg"
 	"type" "game"
 	"content_descriptors"
@@ -547,9 +547,9 @@
 		{
 			"public"
 			{
-				"gid" "6084530968593125973"
-				"size" "4142938216"
-				"download" "2366856416"
+				"gid" "3671502150591518581"
+				"size" "4086814451"
+				"download" "2359644224"
 			}
 		}
 	}
@@ -607,9 +607,9 @@
 		{
 			"public"
 			{
-				"gid" "3448326319082660600"
-				"size" "45063619345"
-				"download" "21017570768"
+				"gid" "6963796752799463750"
+				"size" "45094815463"
+				"download" "21019167232"
 			}
 		}
 	}
@@ -640,9 +640,9 @@
 		{
 			"public"
 			{
-				"gid" "7874885060387895059"
-				"size" "534712544"
-				"download" "135742320"
+				"gid" "5146896284858355493"
+				"size" "534722784"
+				"download" "135745376"
 			}
 		}
 	}
@@ -656,9 +656,9 @@
 		{
 			"public"
 			{
-				"gid" "1588589498195151751"
-				"size" "1164695131"
-				"download" "528343712"
+				"gid" "5240710102401637312"
+				"size" "1164711587"
+				"download" "528339568"
 			}
 		}
 	}
@@ -684,9 +684,9 @@
 		{
 			"public"
 			{
-				"gid" "982346158521728678"
-				"size" "1240924641"
-				"download" "531791888"
+				"gid" "6449172253598425174"
+				"size" "1240934849"
+				"download" "531803632"
 			}
 		}
 	}
@@ -767,9 +767,9 @@
 		{
 			"public"
 			{
-				"gid" "6735855372986935796"
-				"size" "5704468537"
-				"download" "1576354480"
+				"gid" "97490197147328383"
+				"size" "5704468622"
+				"download" "1576354528"
 			}
 		}
 	}
@@ -831,8 +831,8 @@
 	{
 		"public"
 		{
-			"buildid" "18759592"
-			"timeupdated" "1749175515"
+			"buildid" "18770939"
+			"timeupdated" "1749237696"
 		}
 	}
 	"privatebranches" "1"
@@ -844,6 +844,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "29408723"
-"_sha" "6bc728574589b5876f652def4f3e73614bc9ca3e"
-"_size" "14616"
+"_change_number" "29425435"
+"_sha" "8e9944fab6dc1ffbe0da43dfd1eea879e5412629"
+"_size" "14615"
