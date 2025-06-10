@@ -39,6 +39,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1650499200"
 		"tested_build_id" "8359035"
 		"tests"
@@ -64,6 +65,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -76,7 +85,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controller_support" "full"
@@ -158,7 +169,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1673853213"
+	"store_asset_mtime" "1742195078"
 	"associations"
 	{
 		"0"
@@ -169,12 +180,12 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Lightning Games"
+			"name" "ThinkingStars"
 		}
 		"2"
 		{
 			"type" "franchise"
-			"name" "Lightning Games"
+			"name" "ThinkingStars"
 		}
 	}
 	"primary_genre" "25"
@@ -259,8 +270,8 @@
 	"store_tags"
 	{
 		"0" "122"
-		"1" "4115"
-		"2" "3964"
+		"1" "3964"
+		"2" "4115"
 		"3" "7208"
 		"4" "4106"
 		"5" "4975"
@@ -270,10 +281,10 @@
 		"9" "19"
 		"10" "21"
 		"11" "4182"
-		"12" "4252"
-		"13" "5379"
-		"14" "4231"
-		"15" "3834"
+		"12" "5379"
+		"13" "3834"
+		"14" "4252"
+		"15" "4231"
 		"16" "4295"
 		"17" "3854"
 		"18" "3942"
@@ -285,7 +296,7 @@
 "extended"
 {
 	"developer" "ThinkingStars"
-	"publisher" "Lightning Games"
+	"publisher" "ThinkingStars"
 	"homepage" "http://anno-m.com"
 	"listofdlc" "1909960"
 	"dlcavailableonstore" "1"
@@ -321,49 +332,16 @@
 	{
 		"config"
 		{
-			"oslist" "windows"
+			"oslist" "windows,macos"
 			"osarch" "64"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "8786778509364860964"
-				"size" "11659513342"
-				"download" "8956848672"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"dev-test"
-			{
-				"gid" "B77F292620DD9C8E281D9AE271E4AB8B"
-				"size" "E339F9EFBFF468C959F2EA7F209B0C1A"
-				"download" "BA93EF8040171548C414872BD281143C"
-			}
-			"german"
-			{
-				"gid" "05BFD64D48EA07254991AD68D63D8FAB"
-				"size" "20A8FD91C58412C8792876C10D7ABA7E"
-				"download" "70F5BD8CDDF6015862F77274C4EC3BE5"
-			}
-			"jan-test"
-			{
-				"gid" "6918AC2BB0FFB7DADBE29FFAC259D3C3"
-				"size" "C115F070B44385048E8D40F2008BBBCA"
-				"download" "92C9FB01502CDAB91F1EB0311AF2198E"
-			}
-			"steamdeck"
-			{
-				"gid" "3E87AC979F04C1C07E0690DE5D3DA227"
-				"size" "A6C269A4CE50D9CCD6A38770C0CA6EF9"
-				"download" "33F73F4D2BB4FDC45327A863648E5780"
-			}
-			"gametesting"
-			{
-				"gid" "A8A049A0BB61E06F1AC2D4FBE0CB4830"
-				"size" "465DFA00F1B68BFF5E9F137113C9DEF4"
-				"download" "B7BE4C5601329EB67E7700E6D1EED68A"
+				"gid" "9199278987100224176"
+				"size" "9955855467"
+				"download" "8803155552"
 			}
 		}
 	}
@@ -384,60 +362,16 @@
 				"download" "3823472"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"dev-test"
-			{
-				"gid" "FE421576DC268D8777AED450F547F88C"
-				"size" "313C5048E9E6EC708271BC289E38091F"
-				"download" "2898BE99692E8844A5448D308F9C2927"
-			}
-			"german"
-			{
-				"gid" "CFD25523C05B8E415E77656DF6610EE0"
-				"size" "D417B4848DEAC79B31BE42F40E88C143"
-				"download" "4C36811F10C97004BAAB4AEC5D67C94F"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16555993"
-			"timeupdated" "1732729661"
-		}
-		"dev-test"
-		{
-			"buildid" "9453131"
-			"pwdrequired" "1"
-			"timeupdated" "1662377227"
-		}
-		"german"
-		{
-			"buildid" "10434099"
-			"pwdrequired" "1"
-			"timeupdated" "1675082921"
-		}
-		"jan-test"
-		{
-			"buildid" "8396960"
-			"pwdrequired" "1"
-			"timeupdated" "1647603945"
-		}
-		"steamdeck"
-		{
-			"buildid" "8359035"
-			"pwdrequired" "1"
-			"timeupdated" "1647091815"
-		}
-		"gametesting"
-		{
-			"buildid" "16555674"
-			"pwdrequired" "1"
-			"timeupdated" "1732727962"
+			"buildid" "18806785"
+			"timeupdated" "1749543034"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -473,6 +407,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26390728"
-"_sha" "9ac8ce7aba17317086604494c41cd3a2cf0d7645"
-"_size" "9279"
+"_change_number" "29481543"
+"_sha" "73bbc999105774e245bcde6f1c89b12187b6eb1a"
+"_size" "7707"
