@@ -32,6 +32,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1741651200"
 		"tested_build_id" "16456495"
 		"tests"
@@ -62,6 +63,24 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -74,6 +93,7 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "1"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "2"
 		}
@@ -81,11 +101,11 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "70ad9275fca17a9f3ec8afb97f25d96f3c17ef54/capsule_231x87.jpg"
+		"english" "be559e74fe3d008a524274b6a0d5f8567ba16afd/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "081fa5dfa41a2c3334ec335fe0668b54bdf36ad7/header.jpg"
+		"english" "8f419913fb08aa01e84deb4c96273cad36d920a3/header.jpg"
 	}
 	"library_assets"
 	{
@@ -107,29 +127,29 @@
 		{
 			"image"
 			{
-				"english" "7b15a86524dc0e14de7131d15363387019aa6510/library_600x900.jpg"
+				"english" "107fd68f8ddd338c96b2c0a6d0789531e7fdfe44/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "7b15a86524dc0e14de7131d15363387019aa6510/library_600x900_2x.jpg"
+				"english" "107fd68f8ddd338c96b2c0a6d0789531e7fdfe44/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"english" "c6b4cdccb8a1ca861bbdb904ad08e67845fba03b/library_hero_2x.jpg"
+				"english" "1e76e725b662dae0333fceb59686af9ff2c4ab60/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "c6b4cdccb8a1ca861bbdb904ad08e67845fba03b/library_hero.jpg"
+				"english" "1e76e725b662dae0333fceb59686af9ff2c4ab60/library_hero.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "c6b4cdccb8a1ca861bbdb904ad08e67845fba03b/library_hero_blur.jpg"
+				"english" "1e76e725b662dae0333fceb59686af9ff2c4ab60/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -153,15 +173,15 @@
 		{
 			"image"
 			{
-				"english" "9d5437f989125979b27384d5ca547225a73ea399/library_header.jpg"
+				"english" "8f419913fb08aa01e84deb4c96273cad36d920a3/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "9d5437f989125979b27384d5ca547225a73ea399/library_header_2x.jpg"
+				"english" "8f419913fb08aa01e84deb4c96273cad36d920a3/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1746203918"
+	"store_asset_mtime" "1748992894"
 	"associations"
 	{
 		"0"
@@ -331,8 +351,8 @@
 		"14" "21"
 		"15" "1673"
 		"16" "3854"
-		"17" "4145"
-		"18" "4166"
+		"17" "4166"
+		"18" "4145"
 		"19" "7948"
 	}
 	"review_score" "5"
@@ -427,9 +447,9 @@
 		{
 			"public"
 			{
-				"gid" "307281362973469049"
-				"size" "52437758751"
-				"download" "42824058912"
+				"gid" "5849497882734590705"
+				"size" "52527117366"
+				"download" "42842108048"
 			}
 		}
 	}
@@ -882,8 +902,8 @@
 	{
 		"public"
 		{
-			"buildid" "18075911"
-			"timeupdated" "1746551409"
+			"buildid" "18546065"
+			"timeupdated" "1749571602"
 		}
 	}
 	"privatebranches" "1"
@@ -895,6 +915,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "28846330"
-"_sha" "2d697de8834621849c3d04d6b2918a0bb3a56dc3"
-"_size" "14521"
+"_change_number" "29490096"
+"_sha" "2a82c31c31821f2fc715d9f029538271aa4ade34"
+"_size" "14952"
