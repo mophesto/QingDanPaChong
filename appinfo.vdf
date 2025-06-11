@@ -19,9 +19,25 @@
 			"version" "1"
 		}
 	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "1"
+		"steamos_compatibility" "1"
 		"test_timestamp" "1698969600"
 		"tested_build_id" "12464864"
 		"tests"
@@ -30,6 +46,14 @@
 			{
 				"display" "2"
 				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamOS_TestResult_SteamOSDoesNotSupport"
 			}
 		}
 		"configuration"
@@ -44,7 +68,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controllertagwizard" "1"
@@ -123,7 +149,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1741707077"
+	"store_asset_mtime" "1748333952"
 	"associations"
 	{
 		"0"
@@ -228,12 +254,12 @@
 		"11" "8945"
 		"12" "10383"
 		"13" "597"
-		"14" "3859"
-		"15" "4166"
+		"14" "4166"
+		"15" "3859"
 		"16" "493"
 		"17" "1695"
-		"18" "1756"
-		"19" "5348"
+		"18" "5348"
+		"19" "1756"
 	}
 	"review_score" "5"
 	"review_percentage" "52"
@@ -353,15 +379,24 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"949231"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "6180972369478280958"
-				"size" "65858331258"
-				"download" "60907422944"
+				"gid" "1955942157688491127"
+				"size" "66879786887"
+				"download" "61720966256"
 			}
 		}
 	}
@@ -370,8 +405,8 @@
 	{
 		"public"
 		{
-			"buildid" "17727873"
-			"timeupdated" "1742288268"
+			"buildid" "18705944"
+			"timeupdated" "1749628791"
 		}
 	}
 	"privatebranches" "1"
@@ -382,6 +417,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "28013583"
-"_sha" "2efcbe39b38d252e489cd85ba2574b6449ccfd13"
-"_size" "6719"
+"_change_number" "29502240"
+"_sha" "17bb3e26f848aac07dce93a4e11f4e63439f4e70"
+"_size" "7290"
