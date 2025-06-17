@@ -19,7 +19,7 @@
 			"id" "513710_eula_1"
 			"name" "SCUM EULA"
 			"url" "https://store.steampowered.com//eula/513710_eula_1"
-			"version" "9"
+			"version" "10"
 		}
 	}
 	"languages"
@@ -80,23 +80,25 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "93c390ab3669680cc6068d900d9ec61a0a913391/capsule_231x87.jpg"
+		"schinese" "9e67261681e1e556055e7ab09a65c6f602b33f81/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
+		"english" "a33eb72f52841f591b296f78e46824d7aabb2c87/header.jpg"
+		"schinese" "dc41d8c9bad51f61f618419b8e510f0b4617ad42/header_schinese.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "40"
+			"width_pct" "47.66590389016019"
 			"height_pct" "80"
 		}
 	}
@@ -106,12 +108,12 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "a9f25857357380574155a43c58fe3384b8787020/library_600x900.jpg"
 				"schinese" "library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "a9f25857357380574155a43c58fe3384b8787020/library_600x900_2x.jpg"
 				"schinese" "library_600x900_schinese_2x.jpg"
 			}
 		}
@@ -119,11 +121,18 @@
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "90b3e7de17ba3773bf62f4aa1d1188051cc92bd6/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "90b3e7de17ba3773bf62f4aa1d1188051cc92bd6/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "90b3e7de17ba3773bf62f4aa1d1188051cc92bd6/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -131,7 +140,7 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "40"
+				"width_pct" "47.66590389016019"
 				"height_pct" "80"
 			}
 			"image"
@@ -139,8 +148,19 @@
 				"english" "logo.png"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "0f23a77c8b106ee5ccd052da37c5fd7003462064/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "0f23a77c8b106ee5ccd052da37c5fd7003462064/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1748856439"
+	"store_asset_mtime" "1750172218"
 	"associations"
 	{
 		"0"
@@ -151,7 +171,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Jagex Ltd"
+			"name" "Gamepires"
 		}
 		"2"
 		{
@@ -166,7 +186,6 @@
 		"1" "25"
 		"2" "23"
 		"3" "29"
-		"4" "70"
 	}
 	"category"
 	{
@@ -257,7 +276,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1535558220"
+	"steam_release_date" "1750172105"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "513710"
@@ -279,8 +298,8 @@
 		"7" "19"
 		"8" "4175"
 		"9" "21"
-		"10" "4182"
-		"11" "1702"
+		"10" "1702"
+		"11" "4182"
 		"12" "493"
 		"13" "1663"
 		"14" "4667"
@@ -295,12 +314,12 @@
 }
 "extended"
 {
-	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=513710"
+	"anti_cheat_support_url" ""
 	"gamedir" "SCUM"
 	"developer" "Gamepires"
-	"publisher" "Jagex Ltd"
+	"publisher" "Gamepires"
 	"homepage" "http://www.scumgame.com"
-	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840"
+	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840,3596770"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -353,6 +372,7 @@
 {
 	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam"
 	"depotdeltapatches" "1"
+	"hasdepotsindlc" "0"
 	"228987"
 	{
 		"config"
@@ -382,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "4747183528043845109"
-				"size" "79460641619"
-				"download" "27926205616"
+				"gid" "6130223373791026138"
+				"size" "95311086299"
+				"download" "29711115328"
 			}
 		}
 	}
@@ -424,18 +444,35 @@
 			}
 		}
 	}
-	"hasdepotsindlc" "0"
+	"3596770"
+	{
+		"dlcappid" "3596770"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2803978163814131977"
+				"size" "66059451"
+				"download" "59134144"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "18721995"
-			"timeupdated" "1748977731"
+			"buildid" "18897322"
+			"timeupdated" "1750172535"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "29355939"
-"_sha" "87ca3f0df08d29800a70b8c91a19fe88e6583c92"
-"_size" "7531"
+"_change_number" "29610709"
+"_sha" "89876e879aba4f6ebf67a7317b2a9436cb0758e1"
+"_size" "8508"
