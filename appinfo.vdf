@@ -186,7 +186,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1746584164"
+	"store_asset_mtime" "1750177735"
 	"associations"
 	{
 		"0"
@@ -410,6 +410,12 @@
 			"enabled_branches" "default"
 			"use_action_block" "false"
 		}
+		"86904958335"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
 	}
 }
 "depots"
@@ -442,9 +448,9 @@
 		{
 			"public"
 			{
-				"gid" "3769639557871833966"
-				"size" "52719507936"
-				"download" "52607348320"
+				"gid" "7738418907323089985"
+				"size" "54556626855"
+				"download" "53899101712"
 			}
 		}
 	}
@@ -465,8 +471,8 @@
 	{
 		"public"
 		{
-			"buildid" "18632195"
-			"timeupdated" "1748876165"
+			"buildid" "18802704"
+			"timeupdated" "1750172220"
 		}
 	}
 	"privatebranches" "1"
@@ -477,6 +483,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "29328235"
-"_sha" "a3ab206eaed6b890ceec5f50dd3a84546483105b"
-"_size" "8830"
+"_change_number" "29612308"
+"_sha" "ebd2d9d022673cc32906ff411c251375fa65b040"
+"_size" "8982"
