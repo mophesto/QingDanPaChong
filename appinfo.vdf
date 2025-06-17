@@ -14,6 +14,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1692144000"
 		"tested_build_id" "11897514"
 		"tests"
@@ -44,6 +45,24 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -56,7 +75,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "KovaaK\'s FPS Aim Trainer"
@@ -310,9 +331,9 @@
 		{
 			"public"
 			{
-				"gid" "8281453651056550182"
-				"size" "7177897042"
-				"download" "2315559888"
+				"gid" "3409056633103648189"
+				"size" "7181539769"
+				"download" "2316091232"
 			}
 			"3.0.4"
 			{
@@ -346,9 +367,9 @@
 			}
 			"beta"
 			{
-				"gid" "8281453651056550182"
-				"size" "7177897042"
-				"download" "2315559888"
+				"gid" "3409056633103648189"
+				"size" "7181539769"
+				"download" "2316091232"
 			}
 		}
 	}
@@ -375,8 +396,8 @@
 	{
 		"public"
 		{
-			"buildid" "18181384"
-			"timeupdated" "1745337561"
+			"buildid" "18862411"
+			"timeupdated" "1750174019"
 		}
 		"3.0.4"
 		{
@@ -410,9 +431,9 @@
 		}
 		"beta"
 		{
-			"buildid" "18181384"
+			"buildid" "18862411"
 			"description" "Public Beta Branch"
-			"timeupdated" "1745247698"
+			"timeupdated" "1749852498"
 		}
 	}
 	"privatebranches" "1"
@@ -423,6 +444,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "28604885"
-"_sha" "054baba85b9c25c4ca29d910de774b5297c4d2e8"
-"_size" "7160"
+"_change_number" "29611173"
+"_sha" "4459f671641fdcc91e631024c112b17fbc1513ab"
+"_size" "7613"
