@@ -160,7 +160,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1750172218"
+	"store_asset_mtime" "1750181151"
 	"associations"
 	{
 		"0"
@@ -276,7 +276,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1750172105"
+	"steam_release_date" "1750172100"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "513710"
@@ -298,14 +298,14 @@
 		"7" "19"
 		"8" "4175"
 		"9" "21"
-		"10" "1702"
-		"11" "4182"
-		"12" "493"
-		"13" "1663"
+		"10" "4182"
+		"11" "1702"
+		"12" "1663"
+		"13" "493"
 		"14" "4667"
 		"15" "1775"
-		"16" "4345"
-		"17" "1697"
+		"16" "1697"
+		"17" "4345"
 		"18" "492"
 		"19" "122"
 	}
@@ -370,10 +370,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam"
-	"depotdeltapatches" "1"
-	"hasdepotsindlc" "0"
-	"228987"
+	"228989"
 	{
 		"config"
 		{
@@ -391,6 +388,9 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam"
+	"depotdeltapatches" "1"
+	"hasdepotsindlc" "0"
 	"513711"
 	{
 		"config"
@@ -473,6 +473,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "29610709"
-"_sha" "89876e879aba4f6ebf67a7317b2a9436cb0758e1"
+"_change_number" "29628861"
+"_sha" "4089381c6eff5ce170b2811e9b19e5a310dcd892"
 "_size" "8508"
