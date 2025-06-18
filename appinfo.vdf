@@ -315,9 +315,9 @@
 		{
 			"public"
 			{
-				"gid" "2865450349925895926"
-				"size" "826845108"
-				"download" "362065376"
+				"gid" "6653417229398836444"
+				"size" "826847205"
+				"download" "362076560"
 			}
 			"legacy_syzygy"
 			{
@@ -333,9 +333,9 @@
 			}
 			"beta"
 			{
-				"gid" "2865450349925895926"
-				"size" "826845108"
-				"download" "362065376"
+				"gid" "4397330006536257295"
+				"size" "826852508"
+				"download" "362069120"
 			}
 		}
 	}
@@ -377,8 +377,8 @@
 	{
 		"public"
 		{
-			"buildid" "18766562"
-			"timeupdated" "1749216306"
+			"buildid" "18901020"
+			"timeupdated" "1750182178"
 		}
 		"legacy_syzygy"
 		{
@@ -393,9 +393,9 @@
 		}
 		"beta"
 		{
-			"buildid" "18766562"
+			"buildid" "18901325"
 			"description" "Open beta testing"
-			"timeupdated" "1749215914"
+			"timeupdated" "1750183618"
 		}
 	}
 	"privatebranches" "1"
@@ -429,6 +429,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29418844"
-"_sha" "0e8c79d6def0b333a0367c6b7a60e83a9a3ac549"
+"_change_number" "29614050"
+"_sha" "422ca2f66020905055bb16a3bacc0221b0adeb8b"
 "_size" "7427"
