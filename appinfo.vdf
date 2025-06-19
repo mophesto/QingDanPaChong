@@ -21,6 +21,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1650672000"
 		"tested_build_id" "8487837"
 		"tests"
@@ -41,6 +42,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -53,7 +62,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Coromon"
@@ -61,16 +72,17 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "0995a3f8b2cbe4ddf84c9204b6d714c9aa96de2a/capsule_231x87.jpg"
+		"english" "4fdb1c5d600763b0f088d1aa8bfacb694cfccfee/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "6005d622740cc34589b36ab64eb2850c406b5432/header.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
@@ -106,7 +118,7 @@
 		}
 		"library_hero_blur"
 		{
-			"images"
+			"image"
 			{
 				"english" "d6f4ff1316d333eb7bea3e3458ffb2b8a8ed6ee4/library_hero_blur.jpg"
 			}
@@ -140,7 +152,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727698276"
+	"store_asset_mtime" "1747712587"
 	"associations"
 	{
 		"0"
@@ -292,13 +304,13 @@
 		"7" "4747"
 		"8" "9"
 		"9" "3871"
-		"10" "1742"
+		"10" "3964"
 		"11" "122"
-		"12" "3964"
+		"12" "1742"
 		"13" "21"
 		"14" "4726"
-		"15" "4305"
-		"16" "3859"
+		"15" "3859"
+		"16" "4305"
 		"17" "4004"
 		"18" "4085"
 		"19" "4026"
@@ -349,36 +361,9 @@
 		{
 			"public"
 			{
-				"gid" "1388881403330308287"
-				"size" "1182638830"
-				"download" "838154592"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "3D0EAA5898BF994BF9E3CDA5CA7D519C"
-				"size" "247C32871E8CC221FE90AEF0A03A7767"
-				"download" "2CD5B797ED33936FD001E56C69C148DF"
-			}
-			"lotcheck"
-			{
-				"gid" "6F7C26D6581F1D59353E17D8D0D38C10"
-				"size" "8078E1BB5C4A9070BCA3D04BA5B771B4"
-				"download" "61AF46F3A2FB679A4E167F959EC39E65"
-			}
-			"steamdecktestbranch"
-			{
-				"gid" "EDD78AC0FBE0F8E0C7E51BECB5EB2E13"
-				"size" "A000BF6B4C2BA8E20448F1384517E326"
-				"download" "DC84B5BCC57AB0BEF50AC7BDD00E6925"
-			}
-			"testbranch"
-			{
-				"gid" "C3C0C618923C07655A534BAC9474B818"
-				"size" "E2D031260BF26123AB3B03FFB63DCC88"
-				"download" "E2723A83D2AA7BFA1DF4F735D98D15AE"
+				"gid" "4853082007982445432"
+				"size" "1182786826"
+				"download" "838224320"
 			}
 		}
 	}
@@ -397,68 +382,18 @@
 				"download" "842020128"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "D977BF88E66D530177868F468CD2BD02"
-				"size" "1DD93B0F8BDB468A1A4A1D9779971007"
-				"download" "C07AC77E787AA1EA58E30A73EFF989DC"
-			}
-			"lotcheck"
-			{
-				"gid" "1CEDAE81177B7617C466F5E8D2D2F197"
-				"size" "480AE402565D81647D0235B82044D90D"
-				"download" "041C670FFDFB7745ACCA6BBC17E1898D"
-			}
-			"steamdecktestbranch"
-			{
-				"gid" "3642164A585FCEC1E1C9DD205EC4DB10"
-				"size" "F799575F19921BECAC855F5988607CD5"
-				"download" "5A4E33BE9F13608E58858112AAC2750D"
-			}
-			"testbranch"
-			{
-				"gid" "3253A9615CBA521D20D8199604201300"
-				"size" "9D28BF40568E39AEA1359D20EE036DF8"
-				"download" "A25C35FDB7C875A7819F0EA953ED64E4"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16816204"
-			"timeupdated" "1734710418"
-		}
-		"beta"
-		{
-			"buildid" "9840136"
-			"pwdrequired" "1"
-			"timeupdated" "1667249838"
-		}
-		"lotcheck"
-		{
-			"buildid" "12853187"
-			"pwdrequired" "1"
-			"timeupdated" "1701455656"
-		}
-		"steamdecktestbranch"
-		{
-			"buildid" "10021844"
-			"pwdrequired" "1"
-			"timeupdated" "1669464757"
-		}
-		"testbranch"
-		{
-			"buildid" "13494963"
-			"pwdrequired" "1"
-			"timeupdated" "1708332046"
+			"buildid" "18917140"
+			"timeupdated" "1750276121"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "26735937"
-"_sha" "0b06d12663920b16073b9154c510faf38ac5f4c3"
-"_size" "8651"
+"_change_number" "29636147"
+"_sha" "6e46ddd19cfbff933812801abfd9eb4d6a392205"
+"_size" "7053"
