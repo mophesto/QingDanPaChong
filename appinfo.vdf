@@ -171,7 +171,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1747763715"
+	"store_asset_mtime" "1748529556"
 	"associations"
 	{
 		"0"
@@ -264,6 +264,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1693279980"
 	"metacritic_score" "87"
@@ -285,8 +290,8 @@
 		"9" "4182"
 		"10" "1684"
 		"11" "492"
-		"12" "4004"
-		"13" "3854"
+		"12" "3854"
+		"13" "4004"
 		"14" "1685"
 		"15" "3834"
 		"16" "4136"
@@ -346,9 +351,9 @@
 		{
 			"public"
 			{
-				"gid" "8257802931126893674"
-				"size" "4780979772"
-				"download" "3878431680"
+				"gid" "8706695471388047844"
+				"size" "4781836993"
+				"download" "3879120224"
 			}
 		}
 	}
@@ -369,8 +374,8 @@
 	{
 		"public"
 		{
-			"buildid" "18586791"
-			"timeupdated" "1748024962"
+			"buildid" "18966000"
+			"timeupdated" "1750687254"
 		}
 	}
 	"privatebranches" "1"
@@ -394,6 +399,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29156560"
-"_sha" "36777389a1827c8a3ec46d9c0c9e99eeae700b00"
-"_size" "7383"
+"_change_number" "29705067"
+"_sha" "92d99810ae91e73b0252d95bef69533a3b9e0413"
+"_size" "7454"
