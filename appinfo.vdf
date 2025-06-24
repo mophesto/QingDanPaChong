@@ -315,9 +315,9 @@
 		{
 			"public"
 			{
-				"gid" "303797165548728790"
-				"size" "826870853"
-				"download" "362072272"
+				"gid" "7874352642348828362"
+				"size" "826876670"
+				"download" "362073312"
 			}
 			"legacy_syzygy"
 			{
@@ -333,9 +333,9 @@
 			}
 			"beta"
 			{
-				"gid" "4397330006536257295"
-				"size" "826852508"
-				"download" "362069120"
+				"gid" "3093226747276052729"
+				"size" "826878620"
+				"download" "362069888"
 			}
 		}
 	}
@@ -349,9 +349,9 @@
 		{
 			"public"
 			{
-				"gid" "391863634573195763"
-				"size" "865408572"
-				"download" "371927376"
+				"gid" "4364494923211526807"
+				"size" "865409316"
+				"download" "371934912"
 			}
 			"legacy_syzygy"
 			{
@@ -377,8 +377,8 @@
 	{
 		"public"
 		{
-			"buildid" "18931903"
-			"timeupdated" "1750367694"
+			"buildid" "18969826"
+			"timeupdated" "1750708536"
 		}
 		"legacy_syzygy"
 		{
@@ -393,9 +393,9 @@
 		}
 		"beta"
 		{
-			"buildid" "18931952"
+			"buildid" "18970015"
 			"description" "Open beta testing"
-			"timeupdated" "1750367990"
+			"timeupdated" "1750709555"
 		}
 	}
 	"privatebranches" "1"
@@ -429,6 +429,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29657021"
-"_sha" "fae4d2caf806e97e15b53b1e97095d060714dbcd"
-"_size" "7425"
+"_change_number" "29710636"
+"_sha" "283cdb940605672ab34dee3943dec18dd9d1a215"
+"_size" "7427"
