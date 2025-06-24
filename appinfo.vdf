@@ -37,9 +37,11 @@
 		"0" "2"
 		"1" "5"
 	}
+	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1743120000"
 		"tested_build_id" "17785730"
 		"tests"
@@ -48,6 +50,24 @@
 			{
 				"display" "2"
 				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
@@ -62,6 +82,7 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
 		}
@@ -262,7 +283,7 @@
 	"developer" "Offworld"
 	"publisher" "Offworld"
 	"homepage" "https://starshiptroopersextermination.com/"
-	"listofdlc" "3205210,3205220,3205230,3205240,3353210"
+	"listofdlc" "3205210,3205220,3205230,3205240,3353190,3353210"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -329,9 +350,9 @@
 		{
 			"public"
 			{
-				"gid" "8692650480024502914"
-				"size" "9507572189"
-				"download" "8937514496"
+				"gid" "3620997405468249364"
+				"size" "10292147383"
+				"download" "9670392688"
 			}
 		}
 	}
@@ -339,13 +360,13 @@
 	{
 		"public"
 		{
-			"buildid" "18366772"
-			"timeupdated" "1746723425"
+			"buildid" "18844290"
+			"timeupdated" "1750697965"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "28890017"
-"_sha" "af9baf8b34f3453bfe5936a3aa6c31ca451bc6c0"
-"_size" "5950"
+"_change_number" "29711270"
+"_sha" "dc4e8433404e71d2f1eb56ac3d7f79326db0f7bf"
+"_size" "6415"
