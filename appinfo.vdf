@@ -43,6 +43,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1674000000"
 		"tested_build_id" "9888437"
 		"tests"
@@ -78,6 +79,29 @@
 				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_LauncherInteractionIssues"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"3"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -90,7 +114,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-experimental"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "A Way Out"
@@ -249,6 +275,12 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1222700"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
 	"store_tags"
 	{
 		"0" "3843"
@@ -266,8 +298,8 @@
 		"12" "15172"
 		"13" "4166"
 		"14" "6650"
-		"15" "12095"
-		"16" "4145"
+		"15" "4145"
+		"16" "12095"
 		"17" "4667"
 		"18" "4182"
 		"19" "492"
@@ -483,9 +515,9 @@
 		{
 			"public"
 			{
-				"gid" "4695958403711974607"
-				"size" "234273399"
-				"download" "236385232"
+				"gid" "1318423300601359782"
+				"size" "235231375"
+				"download" "234719568"
 			}
 		}
 		"depotfromapp" "3340990"
@@ -501,6 +533,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "28830893"
-"_sha" "2f30aa9519932c1d70185a6b1e975536894785ab"
-"_size" "8373"
+"_change_number" "29731713"
+"_sha" "d8a0c4d5359d0ab756bc1424901f98661591994b"
+"_size" "9012"
