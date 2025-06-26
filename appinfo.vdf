@@ -25,6 +25,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1643846400"
 		"tested_build_id" "7364589"
 		"tests"
@@ -45,6 +46,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -56,6 +65,10 @@
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"small_capsule"
@@ -116,7 +129,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1665773544"
+	"store_asset_mtime" "1750897905"
 	"associations"
 	{
 		"0"
@@ -158,11 +171,23 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1644990224"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1737100"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "4"
+		"3" "5"
+	}
 	"store_tags"
 	{
 		"0" "12095"
@@ -179,8 +204,8 @@
 		"11" "4182"
 		"12" "4947"
 		"13" "122"
-		"14" "5716"
-		"15" "4791"
+		"14" "4791"
+		"15" "5716"
 		"16" "1697"
 		"17" "1719"
 		"18" "5984"
@@ -364,17 +389,102 @@
 			}
 		}
 	}
+	"1737109"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2073558585703625840"
+				"size" "9684855697"
+				"download" "7935501312"
+			}
+		}
+	}
+	"3556190"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7442803891805845411"
+				"size" "9384988886"
+				"download" "7930701632"
+			}
+		}
+	}
+	"3556191"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2836780234644335641"
+				"size" "10305069250"
+				"download" "8342579712"
+			}
+		}
+	}
+	"3556192"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6092753788565185688"
+				"size" "10005202439"
+				"download" "8338171776"
+			}
+		}
+	}
+	"3556193"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "647420789916793018"
+				"size" "9908265313"
+				"download" "8327488000"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17401847"
-			"timeupdated" "1739850778"
+			"buildid" "19002726"
+			"timeupdated" "1750896344"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "27527444"
-"_sha" "647acab89e84b83b78514cc73a973a4fc0d993e7"
-"_size" "6030"
+"_change_number" "29752288"
+"_sha" "400fd42aa45f951adf4d352fa25c0505f56bfb34"
+"_size" "7636"
