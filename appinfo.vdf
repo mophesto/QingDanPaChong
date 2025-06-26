@@ -21,6 +21,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1646179200"
 		"tested_build_id" "7989891"
 		"tests"
@@ -46,6 +47,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -58,6 +67,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "native"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Death Trash"
@@ -121,7 +133,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1718800043"
+	"store_asset_mtime" "1750944439"
 	"associations"
 	{
 		"0"
@@ -161,6 +173,13 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_64" "1"
+		"category_66" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_78" "1"
+		"category_79" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -181,6 +200,12 @@
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "941460"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
 	"store_tags"
 	{
 		"0" "3835"
@@ -192,8 +217,8 @@
 		"6" "4231"
 		"7" "4166"
 		"8" "122"
-		"9" "4115"
-		"10" "1695"
+		"9" "1695"
+		"10" "4115"
 		"11" "6426"
 		"12" "3916"
 		"13" "4747"
@@ -263,15 +288,15 @@
 		{
 			"public"
 			{
-				"gid" "5320625576147239492"
-				"size" "877606115"
-				"download" "206127600"
+				"gid" "4997213380055826706"
+				"size" "901547803"
+				"download" "213697280"
 			}
 			"beta"
 			{
-				"gid" "5320625576147239492"
-				"size" "877606115"
-				"download" "206127600"
+				"gid" "4997213380055826706"
+				"size" "901547803"
+				"download" "213697280"
 			}
 		}
 	}
@@ -285,15 +310,15 @@
 		{
 			"public"
 			{
-				"gid" "6109258407280357641"
-				"size" "872887660"
-				"download" "206461088"
+				"gid" "2575700653750219426"
+				"size" "896928037"
+				"download" "214152624"
 			}
 			"beta"
 			{
-				"gid" "6109258407280357641"
-				"size" "872887660"
-				"download" "206461088"
+				"gid" "2575700653750219426"
+				"size" "896928037"
+				"download" "214152624"
 			}
 		}
 	}
@@ -307,15 +332,15 @@
 		{
 			"public"
 			{
-				"gid" "9211717607961632243"
-				"size" "878134856"
-				"download" "206926592"
+				"gid" "148971964052782045"
+				"size" "902233087"
+				"download" "214639616"
 			}
 			"beta"
 			{
-				"gid" "9211717607961632243"
-				"size" "878134856"
-				"download" "206926592"
+				"gid" "148971964052782045"
+				"size" "902233087"
+				"download" "214639616"
 			}
 		}
 	}
@@ -325,14 +350,14 @@
 	{
 		"public"
 		{
-			"buildid" "17320267"
-			"timeupdated" "1739275339"
+			"buildid" "19011920"
+			"timeupdated" "1750947893"
 		}
 		"beta"
 		{
-			"buildid" "17320267"
+			"buildid" "19011920"
 			"description" "test builds"
-			"timeupdated" "1739272114"
+			"timeupdated" "1750945272"
 		}
 	}
 	"privatebranches" "1"
@@ -386,6 +411,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27423469"
-"_sha" "15d857f96635329bec20db10c451a2a025a808b7"
-"_size" "6865"
+"_change_number" "29765467"
+"_sha" "369a17fbb01d2518fcfd044bfe09438685d05993"
+"_size" "7362"
