@@ -169,7 +169,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1744958263"
+	"store_asset_mtime" "1750777437"
 	"associations"
 	{
 		"0"
@@ -250,11 +250,11 @@
 		"8" "4305"
 		"9" "3871"
 		"10" "21"
-		"11" "1684"
-		"12" "6730"
-		"13" "4325"
-		"14" "14139"
-		"15" "4182"
+		"11" "4182"
+		"12" "1684"
+		"13" "6730"
+		"14" "4325"
+		"15" "14139"
 		"16" "1708"
 		"17" "1716"
 		"18" "4136"
@@ -296,15 +296,15 @@
 		{
 			"public"
 			{
-				"gid" "901010484258919807"
-				"size" "610033900"
-				"download" "466759504"
+				"gid" "810522798044800440"
+				"size" "610087764"
+				"download" "480053552"
 			}
 			"crossblitz_beta"
 			{
-				"gid" "8269089090388986639"
-				"size" "609778460"
-				"download" "466725328"
+				"gid" "3253025708966571341"
+				"size" "610080562"
+				"download" "479993312"
 			}
 		}
 	}
@@ -312,14 +312,14 @@
 	{
 		"public"
 		{
-			"buildid" "18544602"
-			"timeupdated" "1747832476"
+			"buildid" "18921363"
+			"timeupdated" "1750949198"
 		}
 		"crossblitz_beta"
 		{
-			"buildid" "18276618"
+			"buildid" "18921344"
 			"description" "Beta branch of Cross Blitz, open to the public"
-			"timeupdated" "1745937261"
+			"timeupdated" "1750952769"
 		}
 	}
 	"privatebranches" "1"
@@ -358,6 +358,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29104337"
-"_sha" "253fa84ae109b83a2fa01a7dea0ffcf78773a9a4"
+"_change_number" "29767250"
+"_sha" "24d3b0e0927217e93c5b3c7998b124248635de11"
 "_size" "6769"
