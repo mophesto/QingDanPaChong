@@ -25,9 +25,20 @@
 	"clienticon" "0d192107c2e2bfcd7e64659af238a07a61899e36"
 	"clienttga" "cdba845b1cc2cc8dafab6c633656fd5ae55b688b"
 	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "986680_eula_0"
+			"name" "PAGUI EULA"
+			"url" "https://store.steampowered.com//eula/986680_eula_0"
+			"version" "1"
+		}
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1663891200"
 		"tested_build_id" "9330689"
 		"tests"
@@ -63,6 +74,19 @@
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -75,7 +99,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-7.0-4"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controller_support" "full"
@@ -85,13 +111,15 @@
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "8819b355515f18e6f27f4b2208d93f8082dd1349/header.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -99,7 +127,67 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1672022718"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "430d76009f2ea66ff34c471d3dd86d952b2f613d/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "430d76009f2ea66ff34c471d3dd86d952b2f613d/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "4fc8b458eb1a9c5e841c6a79c27287648bc8a830/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "4fc8b458eb1a9c5e841c6a79c27287648bc8a830/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "4fc8b458eb1a9c5e841c6a79c27287648bc8a830/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "37.23433951251697"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "c979e1da15df0b5ad5c8c0d91b1caf38355a6d9c/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "c979e1da15df0b5ad5c8c0d91b1caf38355a6d9c/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1751109254"
 	"associations"
 	{
 		"0"
@@ -124,7 +212,6 @@
 	}
 	"category"
 	{
-		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
 		"category_13" "1"
@@ -132,6 +219,13 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_28" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -146,42 +240,7 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"japanese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"french"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"german"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"spanish"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"russian"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"schinese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"portuguese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"koreana"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -211,6 +270,8 @@
 	"developer" "padendon"
 	"publisher" "padendon"
 	"homepage" "https://www.facebook.com/pagui2"
+	"listofdlc" "3547950,3678680"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -269,27 +330,6 @@
 				"download" "8884484016"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"betatest"
-			{
-				"gid" "EC05D25FA13B8FDC153DB18197C5E21B"
-				"size" "C6143B016D8F1629B699F9F856DBDE0E"
-				"download" "D2C2882F97770558BBB16F098E8DA4E7"
-			}
-			"onlinetest"
-			{
-				"gid" "7506647589FA81173C66F1FB5C524687"
-				"size" "8F7FD475A6462D8C75C83E4CBA0FA8D7"
-				"download" "2F27293253B502E267121837EEBFC9F7"
-			}
-			"translatetest"
-			{
-				"gid" "6E9D479B4C8CB1FFB1C0782C873E7A4F"
-				"size" "BBFA3F7C9985B6514FE7C988FAEB8880"
-				"download" "95D3CF2FE9F3B707D3409DDF9069FB90"
-			}
-		}
 	}
 	"986682"
 	{
@@ -307,43 +347,31 @@
 		}
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"onlinetest"
+			"public"
 			{
-				"gid" "A13D2A8B57188D49BD823C877CD7A887"
-				"size" "950521CDD1BBA6D6D1F0F9A5DB4D6181"
-				"download" "7066488481B1FC00AA3D7F1CE807B610"
+				"gid" "5823848016264794331"
+				"size" "13508308866"
+				"download" "9544510400"
 			}
+		}
+	}
+	"3547951"
+	{
+		"dlcappid" "3547950"
+		"config"
+		{
+			"oslist" "windows"
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "10448881"
-			"timeupdated" "1675239944"
-		}
-		"betatest"
-		{
-			"buildid" "10448881"
-			"pwdrequired" "1"
-			"timeupdated" "1675222133"
-		}
-		"onlinetest"
-		{
-			"buildid" "13298818"
-			"pwdrequired" "1"
-			"timeupdated" "1706510800"
-		}
-		"translatetest"
-		{
-			"buildid" "10104241"
-			"pwdrequired" "1"
-			"timeupdated" "1670924885"
+			"buildid" "19061045"
+			"timeupdated" "1751353217"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -364,6 +392,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22477173"
-"_sha" "1ad3467c07ab3ca893831a8d3751b0b6c5caef2b"
-"_size" "6593"
+"_change_number" "29837303"
+"_sha" "3156a283c49d32e214ea43bdd37117c564a85d35"
+"_size" "7176"
