@@ -116,6 +116,18 @@
 		{
 			"public"
 			{
+				"gid" "4945069666551266412"
+				"size" "627510615"
+				"download" "605563504"
+			}
+			"public_beta"
+			{
+				"gid" "4945069666551266412"
+				"size" "627510615"
+				"download" "605563504"
+			}
+			"temporary_1_54"
+			{
 				"gid" "461356091484496251"
 				"size" "736660208"
 				"download" "714195360"
@@ -180,6 +192,18 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "6922055526082111077"
+				"size" "37657776"
+				"download" "9648848"
+			}
+			"public_beta"
+			{
+				"gid" "6922055526082111077"
+				"size" "37657776"
+				"download" "9648848"
+			}
+			"temporary_1_54"
 			{
 				"gid" "2550200666609626900"
 				"size" "37065840"
@@ -246,6 +270,18 @@
 		{
 			"public"
 			{
+				"gid" "3220493905566567499"
+				"size" "45768544"
+				"download" "13856960"
+			}
+			"public_beta"
+			{
+				"gid" "3220493905566567499"
+				"size" "45768544"
+				"download" "13856960"
+			}
+			"temporary_1_54"
+			{
 				"gid" "4202172342650629151"
 				"size" "46498560"
 				"download" "13656288"
@@ -311,6 +347,18 @@
 		{
 			"public"
 			{
+				"gid" "2313475245916947668"
+				"size" "41322596"
+				"download" "14113936"
+			}
+			"public_beta"
+			{
+				"gid" "2313475245916947668"
+				"size" "41322596"
+				"download" "14113936"
+			}
+			"temporary_1_54"
+			{
 				"gid" "2666206134629901862"
 				"size" "43852420"
 				"download" "14478672"
@@ -369,8 +417,20 @@
 	{
 		"public"
 		{
+			"buildid" "18887221"
+			"timeupdated" "1751528734"
+		}
+		"public_beta"
+		{
+			"buildid" "18887221"
+			"description" "Public Beta 1.55"
+			"timeupdated" "1750344214"
+		}
+		"temporary_1_54"
+		{
 			"buildid" "17759626"
-			"timeupdated" "1743542012"
+			"description" "1.54.x"
+			"timeupdated" "1751526413"
 		}
 		"temporary_1_53"
 		{
@@ -424,6 +484,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "28256541"
-"_sha" "3a1d903a1e546f195a63c87ec37b263b9c43c010"
-"_size" "7486"
+"_change_number" "29874380"
+"_sha" "d1f99ef37d6988515dbfd52f57cdf94156984949"
+"_size" "8667"
