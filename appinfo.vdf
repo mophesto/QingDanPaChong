@@ -19,7 +19,7 @@
 			"id" "513710_eula_1"
 			"name" "SCUM EULA"
 			"url" "https://store.steampowered.com//eula/513710_eula_1"
-			"version" "10"
+			"version" "11"
 		}
 	}
 	"languages"
@@ -160,7 +160,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1750181151"
+	"store_asset_mtime" "1750430067"
 	"associations"
 	{
 		"0"
@@ -250,21 +250,6 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
-		"koreana"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"turkish"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
-		"japanese"
-		{
-			"supported" "true"
-			"subtitles" "true"
-		}
 		"thai"
 		{
 			"supported" "true"
@@ -304,8 +289,8 @@
 		"13" "493"
 		"14" "4667"
 		"15" "1775"
-		"16" "4345"
-		"17" "1697"
+		"16" "1697"
+		"17" "4345"
 		"18" "492"
 		"19" "122"
 	}
@@ -402,9 +387,9 @@
 		{
 			"public"
 			{
-				"gid" "98211243462548874"
-				"size" "95310040859"
-				"download" "29709356224"
+				"gid" "1550293484183137059"
+				"size" "95358913263"
+				"download" "29708241920"
 			}
 		}
 	}
@@ -466,13 +451,13 @@
 	{
 		"public"
 		{
-			"buildid" "18918527"
-			"timeupdated" "1750328207"
+			"buildid" "19095349"
+			"timeupdated" "1751554855"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "29647651"
-"_sha" "c43052d1d40161b59dd2e240aa426d439632033e"
-"_size" "8506"
+"_change_number" "29881119"
+"_sha" "0df838ac6c181519f66ced54107759d0e9296ccf"
+"_size" "8294"
