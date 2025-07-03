@@ -159,7 +159,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1688148579"
+	"store_asset_mtime" "1749749208"
 	"associations"
 	{
 		"0"
@@ -208,6 +208,11 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_42" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_74" "1"
+		"category_78" "1"
 	}
 	"supported_languages"
 	{
@@ -360,6 +365,7 @@
 			"use_action_block" "false"
 		}
 	}
+	"uselaunchcommandline" "1"
 }
 "depots"
 {
@@ -376,9 +382,9 @@
 		{
 			"public"
 			{
-				"gid" "7395903465479588973"
-				"size" "529741102"
-				"download" "209273616"
+				"gid" "3809762588546851870"
+				"size" "531394306"
+				"download" "209718240"
 			}
 			"32bit-windows"
 			{
@@ -436,9 +442,9 @@
 			}
 			"preview"
 			{
-				"gid" "7395903465479588973"
-				"size" "529741102"
-				"download" "209273616"
+				"gid" "3809762588546851870"
+				"size" "531394306"
+				"download" "209718240"
 			}
 			"unity-2022-preview"
 			{
@@ -460,9 +466,9 @@
 		{
 			"public"
 			{
-				"gid" "323141204869650963"
-				"size" "553343683"
-				"download" "225232176"
+				"gid" "4526700596478681798"
+				"size" "555032692"
+				"download" "225682032"
 			}
 			"32bit-windows"
 			{
@@ -520,9 +526,9 @@
 			}
 			"preview"
 			{
-				"gid" "323141204869650963"
-				"size" "553343683"
-				"download" "225232176"
+				"gid" "4526700596478681798"
+				"size" "555032692"
+				"download" "225682032"
 			}
 			"unity-2022-preview"
 			{
@@ -544,9 +550,9 @@
 		{
 			"public"
 			{
-				"gid" "3731545773579659427"
-				"size" "478737482"
-				"download" "177793920"
+				"gid" "2473625584139343145"
+				"size" "480282865"
+				"download" "178081008"
 			}
 			"32bit-windows"
 			{
@@ -604,9 +610,9 @@
 			}
 			"preview"
 			{
-				"gid" "3731545773579659427"
-				"size" "478737482"
-				"download" "177793920"
+				"gid" "2473625584139343145"
+				"size" "480282865"
+				"download" "178081008"
 			}
 			"unity-2022-preview"
 			{
@@ -628,9 +634,9 @@
 		{
 			"public"
 			{
-				"gid" "296449015913962455"
-				"size" "524030941"
-				"download" "200261536"
+				"gid" "8421544542354583239"
+				"size" "525654795"
+				"download" "200676480"
 			}
 			"32bit-windows"
 			{
@@ -682,9 +688,9 @@
 			}
 			"preview"
 			{
-				"gid" "296449015913962455"
-				"size" "524030941"
-				"download" "200261536"
+				"gid" "8421544542354583239"
+				"size" "525654795"
+				"download" "200676480"
 			}
 			"unity-2022-preview"
 			{
@@ -704,9 +710,9 @@
 		{
 			"public"
 			{
-				"gid" "7794234736530141023"
-				"size" "1648985856"
-				"download" "1124211040"
+				"gid" "6166677793813002090"
+				"size" "1649067058"
+				"download" "1124222256"
 			}
 			"32bit-windows"
 			{
@@ -758,9 +764,9 @@
 			}
 			"preview"
 			{
-				"gid" "7794234736530141023"
-				"size" "1648985856"
-				"download" "1124211040"
+				"gid" "6166677793813002090"
+				"size" "1649067058"
+				"download" "1124222256"
 			}
 			"unity-2022-preview"
 			{
@@ -780,9 +786,9 @@
 		{
 			"public"
 			{
-				"gid" "1291876203824052388"
-				"size" "4433816"
-				"download" "244992"
+				"gid" "5792517520194768900"
+				"size" "4433818"
+				"download" "245024"
 			}
 			"32bit-windows"
 			{
@@ -834,9 +840,9 @@
 			}
 			"preview"
 			{
-				"gid" "1291876203824052388"
-				"size" "4433816"
-				"download" "244992"
+				"gid" "5792517520194768900"
+				"size" "4433818"
+				"download" "245024"
 			}
 			"unity-2022-preview"
 			{
@@ -850,8 +856,8 @@
 	{
 		"public"
 		{
-			"buildid" "18694317"
-			"timeupdated" "1748810051"
+			"buildid" "19087102"
+			"timeupdated" "1751556694"
 		}
 		"32bit-windows"
 		{
@@ -908,9 +914,9 @@
 		}
 		"preview"
 		{
-			"buildid" "18694317"
+			"buildid" "19087102"
 			"description" "Public test branch"
-			"timeupdated" "1748806878"
+			"timeupdated" "1751507259"
 		}
 		"unity-2022-preview"
 		{
@@ -944,6 +950,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29314528"
-"_sha" "c05a73d9c1116526cd4e73ae71577fdbdb8d6247"
-"_size" "17484"
+"_change_number" "29881606"
+"_sha" "fe1cd830fa543360110656bbc561f6c9cdab54fe"
+"_size" "17628"
