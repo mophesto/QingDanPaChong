@@ -45,6 +45,7 @@
 		"0" "2"
 		"1" "5"
 	}
+	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -416,9 +417,9 @@
 		{
 			"public"
 			{
-				"gid" "6476895727975164726"
+				"gid" "5718371624897928466"
 				"size" "43722011634"
-				"download" "42473740944"
+				"download" "42472273968"
 			}
 		}
 	}
@@ -428,9 +429,9 @@
 		{
 			"public"
 			{
-				"gid" "8517913418532429587"
-				"size" "649619283"
-				"download" "343289248"
+				"gid" "8384861278675896410"
+				"size" "650068363"
+				"download" "343868528"
 			}
 		}
 	}
@@ -438,13 +439,13 @@
 	{
 		"public"
 		{
-			"buildid" "19144914"
-			"timeupdated" "1752019293"
+			"buildid" "19175656"
+			"timeupdated" "1752199199"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "29958998"
-"_sha" "987c14b2bdcf0ec3856d9909409f429bbd5af74f"
-"_size" "8078"
+"_change_number" "30001658"
+"_sha" "ef7852d4c2f5a4755451d44d43df9e912f04c2e1"
+"_size" "8101"
