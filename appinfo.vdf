@@ -474,6 +474,28 @@
 			}
 		}
 	}
+	"3556194"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+	}
+	"3556195"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+		}
+	}
 	"branches"
 	{
 		"public"
@@ -485,6 +507,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "29752288"
-"_sha" "400fd42aa45f951adf4d352fa25c0505f56bfb34"
-"_size" "7636"
+"_change_number" "30043401"
+"_sha" "86b639ca8a928bda59ef2ba06ac31d0c44db409e"
+"_size" "7868"
