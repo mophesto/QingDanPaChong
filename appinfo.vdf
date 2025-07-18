@@ -18,15 +18,15 @@
 	{
 		"schinese" "《遗物猎人传说》"
 		"koreana" "렐릭 헌터스 레전드"
-		"dutch" "Relic Hunters Legende"
-		"polish" "Relic Hunters Legenda"
+		"dutch" "Relic Hunters Legend"
+		"polish" "Relic Hunters Legend"
 		"russian" " Relic Hunters Legend"
 		"japanese" "「レリックハンターズ・レジェンド」"
-		"french" "Relic Hunters Légende"
-		"italian" "Relic Hunters Leggenda"
-		"german" "Relic Hunters Legende"
-		"spanish" "Relic Hunters Leyenda"
-		"latam" "Relic Hunters Leyenda"
+		"french" "Relic Hunters Legend"
+		"italian" "Relic Hunters Legend"
+		"german" "Relic Hunters Legend"
+		"spanish" "Relic Hunters Legend"
+		"latam" "Relic Hunters Legend"
 		"brazilian" "Relic Hunters Legend"
 		"tchinese" "遺跡獵人：傳說"
 	}
@@ -34,39 +34,34 @@
 	{
 		"category" "2"
 		"steamos_compatibility" "2"
-		"test_timestamp" "1701129600"
-		"tested_build_id" "12338037"
+		"test_timestamp" "1748995200"
+		"tested_build_id" "18615937"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
 			}
 			"1"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 			}
 			"2"
 			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
 			}
 			"3"
 			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 			}
 			"4"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-			}
-			"5"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
 			}
 		}
 		"steamos_tests"
@@ -84,7 +79,7 @@
 			"2"
 			{
 				"display" "1"
-				"token" "#SteamOS_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
 			}
 		}
 		"configuration"
@@ -94,10 +89,10 @@
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "1"
-			"small_text" "0"
+			"small_text" "1"
 			"requires_internet_for_setup" "0"
-			"requires_internet_for_singleplayer" "1"
-			"recommended_runtime" "proton-stable"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
 			"requires_h264" "0"
 			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
@@ -247,7 +242,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1741919457"
+	"store_asset_mtime" "1748373911"
 	"associations"
 	{
 		"0"
@@ -418,9 +413,9 @@
 		{
 			"public"
 			{
-				"gid" "8005084664962887003"
-				"size" "13055419618"
-				"download" "10350506048"
+				"gid" "1144994740571793022"
+				"size" "13142546070"
+				"download" "10534877120"
 			}
 		}
 	}
@@ -461,8 +456,8 @@
 	{
 		"public"
 		{
-			"buildid" "18494993"
-			"timeupdated" "1747417364"
+			"buildid" "19266605"
+			"timeupdated" "1752791684"
 		}
 	}
 	"privatebranches" "1"
@@ -572,6 +567,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29029862"
-"_sha" "b7ed7e123f8b1aec3a58c281c57f17376a10a260"
-"_size" "12849"
+"_change_number" "30120098"
+"_sha" "7aa47dfb402d8dca54e09e1442057034fad16ab5"
+"_size" "12697"
