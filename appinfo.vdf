@@ -34,6 +34,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1663804800"
 		"tested_build_id" "9514517"
 		"tests"
@@ -64,6 +65,19 @@
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -76,7 +90,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "BROK the InvestiGator"
@@ -84,17 +100,17 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
-		"japanese" "capsule_231x87_japanese.jpg"
-		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "84d2f182cef9d43ed9aa5568076334a4924ee5ce/capsule_231x87.jpg"
+		"schinese" "5a90470965178214d7f03a3ede9d380dd11a00cf/capsule_231x87_schinese.jpg"
+		"japanese" "8c8f7a4ee39048b5c80fe8eeac3cc1c67854763f/capsule_231x87_japanese.jpg"
+		"tchinese" "3b3147700f3495eb30c6a06ea1d84e389b456a65/capsule_231x87_tchinese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
-		"japanese" "header_japanese.jpg"
-		"tchinese" "header_tchinese.jpg"
+		"english" "1017bad4f81cd99d99d3ab21e5d2490cdb4db027/header.jpg"
+		"schinese" "1e8130645a4fb146062bd6839decaec0e6ab4e95/header_schinese.jpg"
+		"japanese" "60369d6b6630bd0898c5418995be1546f7b51d3b/header_japanese.jpg"
+		"tchinese" "65c45c234cee5b4080cd8e749b4b7b6fd9f1ce60/header_tchinese.jpg"
 	}
 	"library_assets"
 	{
@@ -166,7 +182,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1742583323"
+	"store_asset_mtime" "1751555848"
 	"associations"
 	{
 		"0"
@@ -213,6 +229,19 @@
 		"category_44" "1"
 		"category_9" "1"
 		"category_13" "1"
+		"category_64" "1"
+		"category_65" "1"
+		"category_66" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_70" "1"
+		"category_71" "1"
+		"category_74" "1"
+		"category_75" "1"
+		"category_78" "1"
+		"category_79" "1"
+		"category_76" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -310,7 +339,7 @@
 		"19" "3835"
 	}
 	"review_score" "9"
-	"review_percentage" "98"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -406,6 +435,12 @@
 		{
 			"public"
 			{
+				"gid" "3985873850370197557"
+				"size" "2366984327"
+				"download" "2119922160"
+			}
+			"1.4.8"
+			{
 				"gid" "1287772633440728547"
 				"size" "2449792000"
 				"download" "2163048176"
@@ -415,18 +450,6 @@
 				"gid" "8888103650104402991"
 				"size" "1974695950"
 				"download" "1853309408"
-			}
-			"kortest"
-			{
-				"gid" "2016998396044216404"
-				"size" "2433768168"
-				"download" "2148234288"
-			}
-			"macpositionalaudio"
-			{
-				"gid" "2016998396044216404"
-				"size" "2433768168"
-				"download" "2148234288"
 			}
 		}
 	}
@@ -444,17 +467,11 @@
 				"size" "2397620219"
 				"download" "2094330752"
 			}
-			"kortest"
+			"1.4.8"
 			{
 				"gid" "3831364087535529778"
 				"size" "2397620219"
 				"download" "2094330752"
-			}
-			"macpositionalaudio"
-			{
-				"gid" "2860113478367254039"
-				"size" "2342828425"
-				"download" "2035503216"
 			}
 		}
 	}
@@ -469,13 +486,7 @@
 				"size" "466887269"
 				"download" "377050160"
 			}
-			"kortest"
-			{
-				"gid" "7528961184936029067"
-				"size" "466887269"
-				"download" "377050160"
-			}
-			"macpositionalaudio"
+			"1.4.8"
 			{
 				"gid" "7528961184936029067"
 				"size" "466887269"
@@ -490,32 +501,41 @@
 		{
 			"oslist" "windows"
 		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6371624416203380010"
+				"size" "496430034"
+				"download" "456434624"
+			}
+			"1.4.8"
+			{
+				"gid" "6371624416203380010"
+				"size" "496430034"
+				"download" "456434624"
+			}
+		}
 	}
 	"workshopdepot" "949480"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "18097900"
-			"timeupdated" "1744628325"
+			"buildid" "19292548"
+			"timeupdated" "1753035873"
+		}
+		"1.4.8"
+		{
+			"buildid" "19292642"
+			"description" "Last version before The Brawl Bar update. Use this in case you encounter a blocking issue."
+			"timeupdated" "1753036037"
 		}
 		"32bit"
 		{
 			"buildid" "9514517"
-			"description" "Last 32 bit compatible version for BROK"
+			"description" "Last 32 bit compatible version for BROK (1.0.13)"
 			"timeupdated" "1663192740"
-		}
-		"kortest"
-		{
-			"buildid" "17211792"
-			"description" "Tests for Korean language"
-			"timeupdated" "1738440393"
-		}
-		"macpositionalaudio"
-		{
-			"buildid" "17190235"
-			"description" "For Mac users who want positional audio"
-			"timeupdated" "1738333560"
 		}
 	}
 	"privatebranches" "1"
@@ -526,6 +546,6 @@
 	"maxnumfiles" "5000"
 }
 "_missing_token" "False"
-"_change_number" "28465045"
-"_sha" "5b3dde7fdee1503f672a726c3bdae5370b2b05e0"
-"_size" "10163"
+"_change_number" "30156796"
+"_sha" "b4298be3347025ce283dc692bae5110e42ffcb51"
+"_size" "10896"
