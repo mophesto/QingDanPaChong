@@ -28,6 +28,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1653004800"
 		"tested_build_id" "8620673"
 		"tests"
@@ -53,6 +54,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -65,7 +74,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"small_capsule"
@@ -126,7 +137,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1721218035"
+	"store_asset_mtime" "1752580135"
 	"associations"
 	{
 		"0"
@@ -164,6 +175,13 @@
 		"category_23" "1"
 		"category_22" "1"
 		"category_29" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_74" "1"
+		"category_76" "1"
+		"category_77" "1"
+		"category_78" "1"
+		"category_79" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -318,30 +336,9 @@
 		{
 			"public"
 			{
-				"gid" "6894222353726511623"
-				"size" "6475089046"
-				"download" "3355247008"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"releasecandidate"
-			{
-				"gid" "2FFEB567402D11D75D64A1AD37A64998"
-				"size" "459515EB1937D7E5E2FA956EDB63319C"
-				"download" "776FB98394EFCFA65AE85003CA71ADBF"
-			}
-			"autum"
-			{
-				"gid" "42B92732BD2EC05AC27341A79F196FFB"
-				"size" "1B255AE7DA0B6D1224CB09FC9F9138B3"
-				"download" "9FB0B2C81E4B0B02E0A806947900E1C3"
-			}
-			"christmas"
-			{
-				"gid" "53F2FF5317EE438CEAE7DB68CA0C36E1"
-				"size" "0FBCF453B716A76AA1EFE317501362F3"
-				"download" "7FD0631365F575BAC63AAFB4FFDB872F"
+				"gid" "4265919184913621164"
+				"size" "6473921630"
+				"download" "3360143824"
 			}
 		}
 	}
@@ -349,28 +346,11 @@
 	{
 		"public"
 		{
-			"buildid" "16803008"
-			"timeupdated" "1734634987"
-		}
-		"releasecandidate"
-		{
-			"buildid" "6767556"
-			"pwdrequired" "1"
-			"timeupdated" "1622111731"
-		}
-		"autum"
-		{
-			"buildid" "16251459"
-			"pwdrequired" "1"
-			"timeupdated" "1730377867"
-		}
-		"christmas"
-		{
-			"buildid" "16803008"
-			"pwdrequired" "1"
-			"timeupdated" "1734624296"
+			"buildid" "19315444"
+			"timeupdated" "1753191578"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -401,6 +381,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26719721"
-"_sha" "dfbd815bfb58581f4779f5ded8e7c0728623cc6d"
-"_size" "7077"
+"_change_number" "30187022"
+"_sha" "76c9d7b821e7f8b1c4a1e0b69a6538c3ac52c36c"
+"_size" "6588"
