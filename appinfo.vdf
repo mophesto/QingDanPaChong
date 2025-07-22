@@ -15,6 +15,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1643932800"
 		"tested_build_id" "7656789"
 		"tests"
@@ -50,6 +51,29 @@
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"3"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -61,6 +85,10 @@
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Thief Simulator"
@@ -119,7 +147,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1733917526"
+	"store_asset_mtime" "1750750345"
 	"associations"
 	{
 		"0"
@@ -243,18 +271,18 @@
 		"4" "3839"
 		"5" "1695"
 		"6" "21"
-		"7" "19"
-		"8" "1680"
-		"9" "492"
-		"10" "1685"
+		"7" "1680"
+		"8" "19"
+		"9" "1685"
+		"10" "492"
 		"11" "3810"
 		"12" "4136"
-		"13" "4175"
-		"14" "3834"
+		"13" "3834"
+		"14" "4175"
 		"15" "1663"
-		"16" "122"
-		"17" "4166"
-		"18" "15954"
+		"16" "15954"
+		"17" "122"
+		"18" "4166"
 		"19" "9204"
 	}
 	"review_score" "8"
@@ -307,9 +335,9 @@
 		{
 			"public"
 			{
-				"gid" "5905302388927689467"
-				"size" "12227740209"
-				"download" "4652714496"
+				"gid" "6883475723616659058"
+				"size" "24448912028"
+				"download" "4707283488"
 			}
 		}
 	}
@@ -367,8 +395,8 @@
 	{
 		"public"
 		{
-			"buildid" "17795862"
-			"timeupdated" "1742898800"
+			"buildid" "19317133"
+			"timeupdated" "1753200277"
 		}
 	}
 	"privatebranches" "1"
@@ -393,6 +421,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28127299"
-"_sha" "3dcf0f20ba875f46a01a1e709e0c9bcf3c42e0e2"
-"_size" "6557"
+"_change_number" "30189702"
+"_sha" "ecf17e1767cb6342dec2c8174a1c6efb779959c6"
+"_size" "7205"
