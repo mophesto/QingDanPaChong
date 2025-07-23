@@ -205,7 +205,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1752586134"
+	"store_asset_mtime" "1753265539"
 	"associations"
 	{
 		"0"
@@ -417,6 +417,12 @@
 		{
 			"public"
 			{
+				"gid" "7563645180545913235"
+				"size" "21553500313"
+				"download" "8508569536"
+			}
+			"beta_flight"
+			{
 				"gid" "6025741273930508998"
 				"size" "21757219459"
 				"download" "8543563088"
@@ -436,8 +442,14 @@
 	{
 		"public"
 		{
+			"buildid" "19314796"
+			"timeupdated" "1753262776"
+		}
+		"beta_flight"
+		{
 			"buildid" "19223649"
-			"timeupdated" "1752582946"
+			"description" "Public test beta for an even earlier access to future game updates"
+			"timeupdated" "1752582981"
 		}
 		"legacy"
 		{
@@ -463,6 +475,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "30071034"
-"_sha" "394b5ee36de643a29272edaaf99fe21f7ffe2bb9"
-"_size" "9353"
+"_change_number" "30207315"
+"_sha" "fd76684012d044deb4c894a7132937bec2db6881"
+"_size" "9647"
