@@ -29,6 +29,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1659484800"
 		"tested_build_id" "8807296"
 		"tests"
@@ -59,6 +60,24 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -71,7 +90,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Keplerth"
@@ -153,7 +174,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1680266625"
+	"store_asset_mtime" "1753436075"
 	"associations"
 	{
 		"0"
@@ -164,12 +185,12 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Gamera Games"
+			"name" "Gamirror Games"
 		}
 		"2"
 		{
 			"type" "franchise"
-			"name" "Gamera Games"
+			"name" "Gamirror Games"
 		}
 	}
 	"primary_genre" "23"
@@ -211,6 +232,46 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1653371940"
 	"community_visible_stats" "1"
@@ -241,12 +302,12 @@
 		"19" "4747"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
 	"developer" "TARO"
-	"publisher" "Gamera Games"
+	"publisher" "Gamirror Games"
 }
 "config"
 {
@@ -283,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "7457292018059828701"
-				"size" "1900773155"
-				"download" "407987120"
+				"gid" "8568690425057879389"
+				"size" "1911465493"
+				"download" "425946912"
 			}
 		}
 	}
@@ -300,9 +361,9 @@
 		{
 			"public"
 			{
-				"gid" "3386832665310206528"
-				"size" "1892890059"
-				"download" "405526768"
+				"gid" "2036579721715616903"
+				"size" "1903582309"
+				"download" "423451664"
 			}
 		}
 	}
@@ -310,8 +371,8 @@
 	{
 		"public"
 		{
-			"buildid" "17936464"
-			"timeupdated" "1743497672"
+			"buildid" "19359211"
+			"timeupdated" "1753451960"
 		}
 	}
 	"privatebranches" "1"
@@ -388,6 +449,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28244617"
-"_sha" "cbd2952c871cb4d37edba88e57cf6214ace2b1df"
-"_size" "7420"
+"_change_number" "30249662"
+"_sha" "f9781ed3c7f552e184a6ac55a187a41b2d2f93ce"
+"_size" "8447"
