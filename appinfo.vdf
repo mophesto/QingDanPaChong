@@ -28,6 +28,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1681948800"
 		"tested_build_id" "11000416"
 		"tests"
@@ -35,17 +36,17 @@
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 			}
 			"1"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
 			}
 			"2"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				"token" "#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
 			}
 			"3"
 			{
@@ -68,6 +69,24 @@
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_GamepadNotEnabledByDefault"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -80,7 +99,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-8.0-1"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Rusted Moss"
@@ -286,9 +307,9 @@
 		{
 			"public"
 			{
-				"gid" "2576511640230554863"
-				"size" "536279839"
-				"download" "436099968"
+				"gid" "1630679159507270586"
+				"size" "536241772"
+				"download" "437263024"
 			}
 		}
 	}
@@ -296,8 +317,8 @@
 	{
 		"public"
 		{
-			"buildid" "17714380"
-			"timeupdated" "1741895584"
+			"buildid" "19350380"
+			"timeupdated" "1753397277"
 		}
 	}
 	"privatebranches" "1"
@@ -328,6 +349,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27941801"
-"_sha" "4ff002e3b3083a6ecc31e17a0f9122d736fc3901"
-"_size" "5955"
+"_change_number" "30237317"
+"_sha" "e8d02eb5b9b28db37102085795e922d23885105e"
+"_size" "6393"
