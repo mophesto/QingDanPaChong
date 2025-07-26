@@ -500,9 +500,9 @@
 		{
 			"public"
 			{
-				"gid" "8398230045139100254"
+				"gid" "3480162210036063215"
 				"size" "4150009791"
-				"download" "2883523056"
+				"download" "2885464272"
 			}
 			"beforemacoschanges"
 			{
@@ -512,9 +512,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "940493576027823859"
-				"size" "4143025371"
-				"download" "2878559968"
+				"gid" "489441775273338189"
+				"size" "4152702107"
+				"download" "2888318448"
 			}
 		}
 	}
@@ -528,9 +528,9 @@
 		{
 			"public"
 			{
-				"gid" "4453567916848749880"
+				"gid" "5848403690503812516"
 				"size" "4030400680"
-				"download" "2770261200"
+				"download" "2771486432"
 			}
 			"beforemacoschanges"
 			{
@@ -540,9 +540,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "3868910166800371433"
-				"size" "4023416810"
-				"download" "2765326080"
+				"gid" "4909237055798529846"
+				"size" "4033109493"
+				"download" "2774869296"
 			}
 		}
 	}
@@ -556,9 +556,9 @@
 		{
 			"public"
 			{
-				"gid" "8573038996142587939"
+				"gid" "351370476386458402"
 				"size" "4009228839"
-				"download" "2765083280"
+				"download" "2765567344"
 			}
 			"beforemacoschanges"
 			{
@@ -568,9 +568,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "1859657268018234471"
-				"size" "4002238565"
-				"download" "2760140880"
+				"gid" "4110482419051831261"
+				"size" "4011906591"
+				"download" "2768772624"
 			}
 		}
 	}
@@ -579,8 +579,8 @@
 	{
 		"public"
 		{
-			"buildid" "19097922"
-			"timeupdated" "1751569550"
+			"buildid" "19366840"
+			"timeupdated" "1753506618"
 		}
 		"beforemacoschanges"
 		{
@@ -590,9 +590,9 @@
 		}
 		"updatebeta"
 		{
-			"buildid" "19015876"
+			"buildid" "19367174"
 			"description" "Public Beta"
-			"timeupdated" "1750974088"
+			"timeupdated" "1753509359"
 		}
 	}
 	"privatebranches" "1"
@@ -647,6 +647,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29884764"
-"_sha" "e555ff449624960f01dae875d5becb1069ca07ec"
-"_size" "13022"
+"_change_number" "30260864"
+"_sha" "584cebba592d0bb0486389cb99e87cecd7b0e9d0"
+"_size" "13021"
