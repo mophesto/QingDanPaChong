@@ -17,11 +17,10 @@
 		"0" "1"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_sex" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
+		"steamos_compatibility" "1"
 		"test_timestamp" "1662508800"
 		"tested_build_id" "8395070"
 		"tests"
@@ -30,6 +29,14 @@
 			{
 				"display" "2"
 				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamOS_TestResult_SteamOSDoesNotSupport"
 			}
 		}
 		"configuration"
@@ -44,7 +51,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-7.0-3"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "TOGETHER BnB"
@@ -66,6 +75,48 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "43.0155674479927"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43.0155674479927"
+				"height_pct" "100"
+			}
 		}
 	}
 	"store_asset_mtime" "1617770013"
@@ -95,6 +146,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -120,6 +172,11 @@
 	"steam_release_date" "1617987840"
 	"community_hub_visible" "1"
 	"gameid" "1239020"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "5"
+	}
 	"store_tags"
 	{
 		"0" "12095"
@@ -132,19 +189,19 @@
 		"7" "10235"
 		"8" "21"
 		"9" "4085"
-		"10" "597"
-		"11" "122"
+		"10" "122"
+		"11" "597"
 		"12" "4726"
 		"13" "492"
-		"14" "3834"
-		"15" "3839"
-		"16" "4175"
+		"14" "3839"
+		"15" "4175"
+		"16" "3834"
 		"17" "5411"
 		"18" "5900"
 		"19" "4305"
 	}
 	"review_score" "5"
-	"review_percentage" "63"
+	"review_percentage" "59"
 }
 "extended"
 {
@@ -193,25 +250,32 @@
 		{
 			"public"
 			{
-				"gid" "485913036370738528"
-				"size" "10843901332"
-				"download" "10456715360"
+				"gid" "7828790969168440674"
+				"size" "41187769159"
+				"download" "40099527760"
 			}
 		}
 	}
 	"1239022"
 	{
 	}
+	"1239023"
+	{
+		"manifests"
+		{
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "8395070"
-			"timeupdated" "1647587458"
+			"buildid" "19399471"
+			"timeupdated" "1753796273"
 		}
 	}
+	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "22204913"
-"_sha" "995ab862195378a16429d66718c7e05fe97aa85e"
-"_size" "3616"
+"_change_number" "30310087"
+"_sha" "388687c751ade18d9676389da72fa9e3474e9edd"
+"_size" "4545"
