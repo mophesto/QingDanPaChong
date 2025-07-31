@@ -32,33 +32,28 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
+		"category" "3"
 		"steamos_compatibility" "2"
-		"test_timestamp" "1748995200"
-		"tested_build_id" "18615937"
+		"test_timestamp" "1753315200"
+		"tested_build_id" "19321532"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
-			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
-			}
-			"4"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -71,25 +66,15 @@
 				"display" "3"
 				"token" "#SteamOS_TestResult_GameStartupFunctional"
 			}
-			"1"
-			{
-				"display" "1"
-				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
-			}
-			"2"
-			{
-				"display" "1"
-				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
-			}
 		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
-			"requires_manual_keyboard_invoke" "1"
+			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-9.0-4RC"
@@ -388,15 +373,6 @@
 				"oslist" "windows"
 			}
 		}
-		"1"
-		{
-			"executable" "RelicHuntersLegend.app"
-			"type" "default"
-			"config"
-			{
-				"oslist" "macos"
-			}
-		}
 	}
 	"usemms" "1"
 }
@@ -413,9 +389,9 @@
 		{
 			"public"
 			{
-				"gid" "1144994740571793022"
-				"size" "13142546070"
-				"download" "10534877120"
+				"gid" "1190146283659525501"
+				"size" "13142768324"
+				"download" "10692936144"
 			}
 		}
 	}
@@ -456,8 +432,8 @@
 	{
 		"public"
 		{
-			"buildid" "19266605"
-			"timeupdated" "1752791684"
+			"buildid" "19417405"
+			"timeupdated" "1753903872"
 		}
 	}
 	"privatebranches" "1"
@@ -567,6 +543,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "30120098"
-"_sha" "7aa47dfb402d8dca54e09e1442057034fad16ab5"
-"_size" "12697"
+"_change_number" "30334477"
+"_sha" "c6554be28d3fc49729717e32a656dfbdbead8aeb"
+"_size" "12186"
