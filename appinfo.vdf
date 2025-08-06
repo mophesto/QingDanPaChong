@@ -132,7 +132,7 @@
 		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
+			"pinned_position" "BottomCenter"
 			"width_pct" "34.83273405523384"
 			"height_pct" "37.08023456490382"
 		}
@@ -143,29 +143,29 @@
 		{
 			"image"
 			{
-				"english" "6dd286d228242fbb1f89fc3f2a5722adf8385083/library_600x900.jpg"
+				"english" "6843027380c3bfd0952449fd9174f492ef2e7b40/library_capsule.jpg"
 			}
 			"image2x"
 			{
-				"english" "6dd286d228242fbb1f89fc3f2a5722adf8385083/library_600x900_2x.jpg"
+				"english" "6843027380c3bfd0952449fd9174f492ef2e7b40/library_capsule_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "e0b0f0d0e3bfda075c29e9d8429f44c14e4df0ca/library_hero.jpg"
+				"english" "06918d1009cc79ffdee853f1ef789cddf8014226/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "e0b0f0d0e3bfda075c29e9d8429f44c14e4df0ca/library_hero_2x.jpg"
+				"english" "06918d1009cc79ffdee853f1ef789cddf8014226/library_hero_2x.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "e0b0f0d0e3bfda075c29e9d8429f44c14e4df0ca/library_hero_blur.jpg"
+				"english" "06918d1009cc79ffdee853f1ef789cddf8014226/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -181,7 +181,7 @@
 			}
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
+				"pinned_position" "BottomCenter"
 				"width_pct" "34.83273405523384"
 				"height_pct" "37.08023456490382"
 			}
@@ -190,15 +190,15 @@
 		{
 			"image"
 			{
-				"english" "46a509e3f48dccc88c765f6f5055967fd5573b84/library_header.jpg"
+				"english" "4f0854d4f0b7f620515e390628427f9f37335ffd/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "46a509e3f48dccc88c765f6f5055967fd5573b84/library_header_2x.jpg"
+				"english" "4f0854d4f0b7f620515e390628427f9f37335ffd/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1753914917"
+	"store_asset_mtime" "1754433999"
 	"associations"
 	{
 		"0"
@@ -547,9 +547,9 @@
 		{
 			"public"
 			{
-				"gid" "4572440723851941430"
-				"size" "4082903018"
-				"download" "2357414848"
+				"gid" "8749575542514641293"
+				"size" "4141846596"
+				"download" "2434714224"
 			}
 		}
 	}
@@ -571,9 +571,9 @@
 		{
 			"public"
 			{
-				"gid" "5559429930528020871"
-				"size" "2141629979"
-				"download" "1290906528"
+				"gid" "3976523190930178667"
+				"size" "2125312046"
+				"download" "1259967328"
 			}
 		}
 	}
@@ -607,9 +607,9 @@
 		{
 			"public"
 			{
-				"gid" "1381106641736855637"
-				"size" "45138534393"
-				"download" "21027970320"
+				"gid" "5099016792048821022"
+				"size" "45350038231"
+				"download" "21121393584"
 			}
 		}
 	}
@@ -623,9 +623,9 @@
 		{
 			"public"
 			{
-				"gid" "2258884513790295561"
-				"size" "804734328"
-				"download" "475877440"
+				"gid" "6371547556908655535"
+				"size" "417398783"
+				"download" "203639808"
 			}
 		}
 	}
@@ -640,9 +640,9 @@
 		{
 			"public"
 			{
-				"gid" "1005873074290823999"
-				"size" "532820696"
-				"download" "135583536"
+				"gid" "8852685790389174354"
+				"size" "567587848"
+				"download" "142940544"
 			}
 		}
 	}
@@ -656,9 +656,9 @@
 		{
 			"public"
 			{
-				"gid" "4814927581930325238"
-				"size" "1163109931"
-				"download" "528240336"
+				"gid" "756208076029746984"
+				"size" "893785281"
+				"download" "335751680"
 			}
 		}
 	}
@@ -684,9 +684,9 @@
 		{
 			"public"
 			{
-				"gid" "5435551051327282680"
-				"size" "1236223937"
-				"download" "531654784"
+				"gid" "8230421982929986617"
+				"size" "995497639"
+				"download" "347346720"
 			}
 		}
 	}
@@ -700,9 +700,9 @@
 		{
 			"public"
 			{
-				"gid" "2636379485241555173"
-				"size" "202664228"
-				"download" "98317456"
+				"gid" "2607913019828901679"
+				"size" "202655126"
+				"download" "98325744"
 			}
 		}
 	}
@@ -732,9 +732,9 @@
 		{
 			"public"
 			{
-				"gid" "8243194691725980100"
-				"size" "4205087632"
-				"download" "2931248464"
+				"gid" "901993501508493700"
+				"size" "4221960723"
+				"download" "2941920480"
 			}
 		}
 	}
@@ -767,9 +767,9 @@
 		{
 			"public"
 			{
-				"gid" "7192353073075021259"
-				"size" "5705315457"
-				"download" "1576369408"
+				"gid" "8462230548290873659"
+				"size" "5722658465"
+				"download" "1578229504"
 			}
 		}
 	}
@@ -798,9 +798,9 @@
 		{
 			"public"
 			{
-				"gid" "818256195465990382"
-				"size" "802174994"
-				"download" "438923904"
+				"gid" "4705883196068671409"
+				"size" "521214771"
+				"download" "244059408"
 			}
 		}
 		"config"
@@ -831,8 +831,8 @@
 	{
 		"public"
 		{
-			"buildid" "19449978"
-			"timeupdated" "1754092564"
+			"buildid" "19491273"
+			"timeupdated" "1754441389"
 		}
 	}
 	"privatebranches" "1"
@@ -844,6 +844,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "30380281"
-"_sha" "64b11329119d80a813ad3321009aff8368a43c30"
-"_size" "14617"
+"_change_number" "30438017"
+"_sha" "25e18df30f87cc7541e6cbda8bd1872afbd7adf1"
+"_size" "14618"
