@@ -187,7 +187,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1753383301"
+	"store_asset_mtime" "1753818154"
 	"associations"
 	{
 		"0"
@@ -334,8 +334,8 @@
 		"6" "4345"
 		"7" "5711"
 		"8" "5228"
-		"9" "1687"
-		"10" "1697"
+		"9" "1697"
+		"10" "1687"
 		"11" "4667"
 		"12" "3839"
 		"13" "1721"
@@ -413,6 +413,8 @@
 			"use_action_block" "false"
 		}
 	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
 }
 "depots"
 {
@@ -444,9 +446,9 @@
 		{
 			"public"
 			{
-				"gid" "1640157620683572525"
-				"size" "55523199032"
-				"download" "54402120112"
+				"gid" "4335089615082913069"
+				"size" "55671934876"
+				"download" "54548814224"
 			}
 		}
 	}
@@ -467,8 +469,8 @@
 	{
 		"public"
 		{
-			"buildid" "19307401"
-			"timeupdated" "1753804767"
+			"buildid" "19435257"
+			"timeupdated" "1754492194"
 		}
 	}
 	"privatebranches" "1"
@@ -479,6 +481,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "30310501"
-"_sha" "b3aa9e598a243a9bdb66326584b8f6290f091c89"
-"_size" "8881"
+"_change_number" "30450169"
+"_sha" "3c56c5e22ae97e1749b233e65d5965340b20c5c4"
+"_size" "8956"
