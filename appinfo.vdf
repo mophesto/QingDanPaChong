@@ -28,6 +28,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1694649600"
 		"tested_build_id" "12124460"
 		"tests"
@@ -58,6 +59,19 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -70,7 +84,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controllertagwizard" "1"
@@ -162,7 +178,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1745489613"
+	"store_asset_mtime" "1748418658"
 	"associations"
 	{
 		"0"
@@ -328,9 +344,15 @@
 		{
 			"public"
 			{
-				"gid" "8905387756851237751"
-				"size" "2694537449"
-				"download" "2456860528"
+				"gid" "5508550099553737907"
+				"size" "2694551439"
+				"download" "2458106128"
+			}
+			"outertest1.3"
+			{
+				"gid" "8322264946959584160"
+				"size" "2793399861"
+				"download" "2494787600"
 			}
 		}
 	}
@@ -339,8 +361,14 @@
 	{
 		"public"
 		{
-			"buildid" "18357200"
-			"timeupdated" "1746523778"
+			"buildid" "19528112"
+			"timeupdated" "1754656596"
+		}
+		"outertest1.3"
+		{
+			"buildid" "19527194"
+			"description" "大地图版本分支"
+			"timeupdated" "1754652373"
 		}
 	}
 	"privatebranches" "1"
@@ -365,6 +393,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28838309"
-"_sha" "1e4366473d6d48d291d245dcbe27f788d4b26f6d"
-"_size" "6996"
+"_change_number" "30490331"
+"_sha" "205408b3a250e77ff5ae2afba2825ae5d88c0c21"
+"_size" "7578"
