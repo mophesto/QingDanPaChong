@@ -313,6 +313,7 @@
 	"metacritic_score" "79"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/brok-the-investigator\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "949480"
 	"store_tags"
@@ -435,9 +436,9 @@
 		{
 			"public"
 			{
-				"gid" "8036409695909652930"
-				"size" "2367016150"
-				"download" "2119924288"
+				"gid" "2070002076036095746"
+				"size" "2383691263"
+				"download" "2135030272"
 			}
 			"1.4.8"
 			{
@@ -505,9 +506,9 @@
 		{
 			"public"
 			{
-				"gid" "3118263729670705893"
-				"size" "498949408"
-				"download" "459163728"
+				"gid" "4654927813916332799"
+				"size" "499966692"
+				"download" "460938384"
 			}
 			"1.4.8"
 			{
@@ -522,8 +523,8 @@
 	{
 		"public"
 		{
-			"buildid" "19362837"
-			"timeupdated" "1753471243"
+			"buildid" "19541327"
+			"timeupdated" "1754817841"
 		}
 		"1.4.8"
 		{
@@ -546,6 +547,6 @@
 	"maxnumfiles" "5000"
 }
 "_missing_token" "False"
-"_change_number" "30254794"
-"_sha" "8b6b0c6cfa0716831ea871b5f84510fce68bc5a3"
-"_size" "10896"
+"_change_number" "30513770"
+"_sha" "4315a3abc3e88e571b172f7e8754555838d960cd"
+"_size" "10922"
