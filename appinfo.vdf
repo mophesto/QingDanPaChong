@@ -86,7 +86,7 @@
 	}
 	"metacritic_name" "Relic Hunters Legend"
 	"controllertagwizard" "1"
-	"controller_support" "partial"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"brazilian" "3d045952c07c7eed61add73ccd7fa0746b817df7/capsule_231x87_brazilian.jpg"
@@ -227,7 +227,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1748373911"
+	"store_asset_mtime" "1755183211"
 	"associations"
 	{
 		"0"
@@ -248,7 +248,6 @@
 		"1" "25"
 		"2" "23"
 		"3" "3"
-		"4" "70"
 	}
 	"category"
 	{
@@ -256,9 +255,9 @@
 		"category_1" "1"
 		"category_9" "1"
 		"category_38" "1"
-		"category_18" "1"
 		"category_56" "1"
 		"category_22" "1"
+		"category_28" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -321,7 +320,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1695661440"
+	"steam_release_date" "1755183008"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "633080"
@@ -349,7 +348,7 @@
 		"19" "21"
 	}
 	"review_score" "5"
-	"review_percentage" "67"
+	"review_percentage" "68"
 }
 "extended"
 {
@@ -389,9 +388,9 @@
 		{
 			"public"
 			{
-				"gid" "4070742332146900195"
-				"size" "13142768323"
-				"download" "10692932272"
+				"gid" "6641071069735414984"
+				"size" "15026555830"
+				"download" "10990870128"
 			}
 		}
 	}
@@ -432,8 +431,8 @@
 	{
 		"public"
 		{
-			"buildid" "19470524"
-			"timeupdated" "1754319342"
+			"buildid" "19577129"
+			"timeupdated" "1755182974"
 		}
 	}
 	"privatebranches" "1"
@@ -543,6 +542,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "30409107"
-"_sha" "38d3a1264155792e4cd822f3964b5da976e8e2dd"
-"_size" "12186"
+"_change_number" "30592019"
+"_sha" "0db5126c92cfa90721c3a4b1bb3bfcedd941aea6"
+"_size" "12170"
