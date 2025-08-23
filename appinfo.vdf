@@ -31,6 +31,65 @@
 		"0" "1"
 		"1" "5"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1753747200"
+		"tested_build_id" "18782077"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"small_capsule"
 	{
 		"schinese" "capsule_231x87_schinese.jpg"
@@ -207,11 +266,11 @@
 		"3" "5765"
 		"4" "1774"
 		"5" "4182"
-		"6" "1676"
-		"7" "7208"
+		"6" "7208"
+		"7" "1676"
 		"8" "1645"
-		"9" "255534"
-		"10" "3813"
+		"9" "3813"
+		"10" "255534"
 		"11" "1773"
 		"12" "4434"
 		"13" "122"
@@ -230,7 +289,7 @@
 	"developer" "中子星游戏研究所"
 	"publisher" "OKJOY"
 	"homepage" "https://space.bilibili.com/679684537"
-	"listofdlc" "2747070"
+	"listofdlc" "2747070,3909630"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -262,9 +321,9 @@
 		{
 			"public"
 			{
-				"gid" "8482786054978785193"
-				"size" "5053195156"
-				"download" "960246816"
+				"gid" "3792961202809058591"
+				"size" "4322851326"
+				"download" "1371343792"
 			}
 		}
 	}
@@ -274,8 +333,8 @@
 	{
 		"public"
 		{
-			"buildid" "18782077"
-			"timeupdated" "1749357432"
+			"buildid" "19707655"
+			"timeupdated" "1755936667"
 		}
 	}
 	"privatebranches" "1"
@@ -295,6 +354,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29442456"
-"_sha" "4c2664bd2fcd6f5a0ae54f6ff46b8711dbfec265"
-"_size" "5680"
+"_change_number" "30744042"
+"_sha" "d4978e841f47051e7ab678a0293e84538e77e8f7"
+"_size" "7107"
