@@ -32,6 +32,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1695168000"
 		"tested_build_id" "12069350"
 		"tests"
@@ -62,6 +63,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -74,7 +83,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "The Riftbreaker"
@@ -92,10 +103,11 @@
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
-		"library_logo" "en"
-		"library_header" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -109,22 +121,31 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "00829108b277920ffa2e8fa7c2069a93763f3202/library_capsule.jpg"
+				"schinese" "bfba7a6cd9a57153f3fd553380f3dbc9b30ee9bf/library_capsule_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "00829108b277920ffa2e8fa7c2069a93763f3202/library_capsule_2x.jpg"
+				"schinese" "bfba7a6cd9a57153f3fd553380f3dbc9b30ee9bf/library_capsule_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "9ea355d2e86d4ac248e1c995571ca402a69893fc/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "9ea355d2e86d4ac248e1c995571ca402a69893fc/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "9ea355d2e86d4ac248e1c995571ca402a69893fc/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -132,10 +153,12 @@
 			"image"
 			{
 				"english" "logo.png"
+				"schinese" "b4837d6baa13a5fa31aa03ac3294122d943f1e62/logo_schinese.png"
 			}
 			"image2x"
 			{
 				"english" "logo_2x.png"
+				"schinese" "b4837d6baa13a5fa31aa03ac3294122d943f1e62/logo_schinese_2x.png"
 			}
 			"logo_position"
 			{
@@ -148,11 +171,17 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "746829baa54c3d8d430cfeebe68bc7133a5204dd/library_header.jpg"
+				"schinese" "47970748acd9ee0b7cbf0761d573219af816df40/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "746829baa54c3d8d430cfeebe68bc7133a5204dd/library_header_2x.jpg"
+				"schinese" "47970748acd9ee0b7cbf0761d573219af816df40/library_header_schinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1726142481"
+	"store_asset_mtime" "1756135931"
 	"associations"
 	{
 		"0"
@@ -209,6 +238,10 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_48" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -289,8 +322,8 @@
 		"12" "122"
 		"13" "5851"
 		"14" "4236"
-		"15" "599"
-		"16" "3810"
+		"15" "3810"
+		"16" "599"
 		"17" "4821"
 		"18" "19"
 		"19" "4166"
@@ -379,6 +412,12 @@
 		{
 			"public"
 			{
+				"gid" "4890536318668866570"
+				"size" "10318995647"
+				"download" "9795354544"
+			}
+			"legacy"
+			{
 				"gid" "4851228726124059536"
 				"size" "10521290344"
 				"download" "9989904960"
@@ -391,6 +430,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "6275972902385218001"
+				"size" "877226898"
+				"download" "863069776"
+			}
+			"legacy"
 			{
 				"gid" "8634531783924538473"
 				"size" "877466046"
@@ -405,6 +450,12 @@
 		{
 			"public"
 			{
+				"gid" "7536803313970518798"
+				"size" "1305519530"
+				"download" "1288990288"
+			}
+			"legacy"
+			{
 				"gid" "1151150139854353452"
 				"size" "1305991434"
 				"download" "1285254048"
@@ -418,6 +469,12 @@
 		{
 			"public"
 			{
+				"gid" "3524379662475683801"
+				"size" "957965689"
+				"download" "942488416"
+			}
+			"legacy"
+			{
 				"gid" "3260105137244968235"
 				"size" "962018333"
 				"download" "941654704"
@@ -428,8 +485,14 @@
 	{
 		"public"
 		{
+			"buildid" "19726422"
+			"timeupdated" "1756136938"
+		}
+		"legacy"
+		{
 			"buildid" "17794406"
-			"timeupdated" "1742482510"
+			"description" "Legacy branch, before the 2.0 update."
+			"timeupdated" "1755857129"
 		}
 	}
 	"privatebranches" "1"
@@ -462,6 +525,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28053196"
-"_sha" "c50a96809be56a515849cb59c2492380638d2098"
-"_size" "8280"
+"_change_number" "30771796"
+"_sha" "92354ff46d9c961b61da615c2866de4bee392762"
+"_size" "10192"
