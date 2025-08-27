@@ -53,7 +53,7 @@
 		"sc_schinese" "反恐精英：全球攻势"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1755556264"
+	"timeline_marker_updated" "1756251213"
 	"timeline_marker_svg" "0eeacc724c77e1f5abeeba4fb542f45bad894470/markers.svg"
 	"content_descriptors"
 	{
@@ -669,8 +669,8 @@
 		{
 			"public"
 			{
-				"gid" "5216942358310898527"
-				"size" "7"
+				"gid" "7342717860772675784"
+				"size" "8"
 				"download" "64"
 			}
 			"csgo_legacy"
@@ -752,8 +752,8 @@
 		{
 			"public"
 			{
-				"gid" "3812588047634078315"
-				"size" "7"
+				"gid" "3594979307251498332"
+				"size" "8"
 				"download" "64"
 			}
 			"csgo_legacy"
@@ -831,8 +831,8 @@
 		{
 			"public"
 			{
-				"gid" "4136917338588090182"
-				"size" "7"
+				"gid" "462188184991222605"
+				"size" "8"
 				"download" "64"
 			}
 			"csgo_legacy"
@@ -913,8 +913,8 @@
 		{
 			"public"
 			{
-				"gid" "7695509651886835295"
-				"size" "7"
+				"gid" "4565304352094089837"
+				"size" "8"
 				"download" "64"
 			}
 			"csgo_legacy"
@@ -985,8 +985,8 @@
 		{
 			"public"
 			{
-				"gid" "8408958964777278894"
-				"size" "7"
+				"gid" "6663693074001544837"
+				"size" "8"
 				"download" "64"
 			}
 			"csgo_legacy"
@@ -1057,8 +1057,8 @@
 		{
 			"public"
 			{
-				"gid" "2125840451367690148"
-				"size" "7"
+				"gid" "1347908388443132747"
+				"size" "8"
 				"download" "64"
 			}
 			"csgo_legacy"
@@ -1129,8 +1129,8 @@
 		{
 			"public"
 			{
-				"gid" "1923280379030738102"
-				"size" "7"
+				"gid" "5341083289584211866"
+				"size" "8"
 				"download" "64"
 			}
 			"csgo_legacy"
@@ -1201,8 +1201,8 @@
 		{
 			"public"
 			{
-				"gid" "6703451389598219564"
-				"size" "7"
+				"gid" "8634232018993604423"
+				"size" "8"
 				"download" "64"
 			}
 			"csgo_legacy"
@@ -1277,9 +1277,9 @@
 		{
 			"public"
 			{
-				"gid" "5753266114310821863"
-				"size" "54500593679"
-				"download" "44185989696"
+				"gid" "2207297865728352658"
+				"size" "54483840238"
+				"download" "44211921760"
 			}
 			"1.40.8.1"
 			{
@@ -1341,9 +1341,9 @@
 		{
 			"public"
 			{
-				"gid" "4663115719866989359"
-				"size" "7228763383"
-				"download" "3979620992"
+				"gid" "3175657360724356250"
+				"size" "7228724983"
+				"download" "3992991264"
 			}
 			"1.40.8.1"
 			{
@@ -1470,9 +1470,9 @@
 		{
 			"public"
 			{
-				"gid" "5102044353278503702"
-				"size" "6705546149"
-				"download" "3591668720"
+				"gid" "962093560435100002"
+				"size" "6705491173"
+				"download" "3599943360"
 			}
 			"1.40.8.1"
 			{
@@ -1612,9 +1612,9 @@
 		{
 			"public"
 			{
-				"gid" "9219865344828961037"
-				"size" "1602694683"
-				"download" "405283392"
+				"gid" "2528395222326774747"
+				"size" "1602690727"
+				"download" "414378928"
 			}
 			"1.40.8.1"
 			{
@@ -1671,8 +1671,8 @@
 	{
 		"public"
 		{
-			"buildid" "19657793"
-			"timeupdated" "1755626879"
+			"buildid" "19747060"
+			"timeupdated" "1756251186"
 		}
 		"csgo_legacy"
 		{
@@ -1749,6 +1749,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "30676901"
-"_sha" "0b1c5d2cff0b0ff24f9e9470b1d27ccbfa63fb7e"
-"_size" "32131"
+"_change_number" "30797864"
+"_sha" "70b7a6a59c194cc606a76c9a36e83c2cd7fc6013"
+"_size" "32129"
