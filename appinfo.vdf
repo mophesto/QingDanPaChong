@@ -44,6 +44,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1669939200"
 		"tested_build_id" "10000948"
 		"tests"
@@ -69,6 +70,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -81,7 +90,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-7.0-5"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controller_support" "full"
@@ -107,7 +118,53 @@
 			"height_pct" "57.179426346416044"
 		}
 	}
-	"store_asset_mtime" "1672944746"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.874429821742197"
+				"height_pct" "57.179426346416044"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1756999956"
 	"associations"
 	{
 		"0"
@@ -139,6 +196,7 @@
 		"category_46" "1"
 		"category_29" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -238,24 +296,24 @@
 	"store_tags"
 	{
 		"0" "1664"
-		"1" "1741"
-		"2" "1654"
-		"3" "4328"
-		"4" "9"
-		"5" "597"
-		"6" "599"
-		"7" "1770"
-		"8" "3810"
+		"1" "1654"
+		"2" "4328"
+		"3" "1741"
+		"4" "597"
+		"5" "1770"
+		"6" "9"
+		"7" "3810"
+		"8" "599"
 		"9" "8945"
-		"10" "14139"
-		"11" "6129"
-		"12" "7481"
-		"13" "4094"
-		"14" "5125"
-		"15" "5350"
-		"16" "4191"
-		"17" "6815"
-		"18" "492"
+		"10" "4094"
+		"11" "5125"
+		"12" "5350"
+		"13" "6129"
+		"14" "492"
+		"15" "7481"
+		"16" "14139"
+		"17" "4191"
+		"18" "6815"
 		"19" "4182"
 	}
 	"review_score" "9"
@@ -292,53 +350,6 @@
 "depots"
 {
 	"baselanguages" "english"
-	"branches"
-	{
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "10358276"
-			"pwdrequired" "1"
-			"timeupdated" "1674138207"
-		}
-		"sc-testing"
-		{
-			"sc_schinese" "testing"
-			"buildid" "10332196"
-			"pwdrequired" "1"
-			"timeupdated" "1673879178"
-		}
-		"testing-2"
-		{
-			"sc_schinese" "testing 2"
-			"buildid" "10332196"
-			"pwdrequired" "1"
-			"timeupdated" "1673878152"
-		}
-		"public"
-		{
-			"buildid" "10893781"
-			"timeupdated" "1680188929"
-		}
-		"insider"
-		{
-			"buildid" "10757957"
-			"pwdrequired" "1"
-			"timeupdated" "1680189558"
-		}
-		"public-beta"
-		{
-			"buildid" "10757957"
-			"description" "early feature testing for players"
-			"timeupdated" "1678785548"
-		}
-		"testing"
-		{
-			"buildid" "10893871"
-			"pwdrequired" "1"
-			"timeupdated" "1680189571"
-		}
-	}
 	"1455841"
 	{
 		"config"
@@ -350,48 +361,15 @@
 		{
 			"public"
 			{
-				"gid" "307964036018935707"
-				"size" "561555771"
-				"download" "252446400"
+				"gid" "6414095832003796979"
+				"size" "559494506"
+				"download" "250035264"
 			}
 			"public-beta"
 			{
-				"gid" "307964036018935707"
-				"size" "561555771"
-				"download" "252446400"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"insider"
-			{
-				"gid" "7D3B8C5A731129ED4930F164D094FE99"
-				"size" "ECC84EEF0DB483E46853D1228A1E57CF"
-				"download" "5064A08B011E89EF9C6F2515678B41C8"
-			}
-			"sc-testing"
-			{
-				"gid" "72F695F87CDFDF64B2416B2B0B97282A"
-				"size" "BCE1DE676729AD92BFCA9D147A872916"
-				"download" "5F5B0FAD92D0292DF7CF084A3778FE57"
-			}
-			"steam_china_only"
-			{
-				"gid" "17595F9FA64BA95E4BB22D8BE07F457F"
-				"size" "214154DEBE46CED5D8000E4D9A09E2E8"
-				"download" "46D18B0AD3B99311E81BD5CF08563C4E"
-			}
-			"testing"
-			{
-				"gid" "EB49AFF511EE6FC137FA504DCB02A2CD"
-				"size" "B756A0755197FDA7D0086C788FBB6A6B"
-				"download" "C3D5F2B292C2242238E66672A974657A"
-			}
-			"testing-2"
-			{
-				"gid" "EAB9477F91552AE96CF9EE75B0792C56"
-				"size" "20F15DBE7DBED763CAB95D873C8566B5"
-				"download" "F6E0ECEB3882458678E67E4FCC4A5234"
+				"gid" "6414095832003796979"
+				"size" "559494506"
+				"download" "250035264"
 			}
 		}
 	}
@@ -411,23 +389,29 @@
 				"size" "441384403"
 				"download" "148533936"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
+			"public-beta"
 			{
-				"gid" "408887637C5DBA991E9FDB0A7A774FF1"
-				"size" "214154DEBE46CED5D8000E4D9A09E2E8"
-				"download" "9C76EEB87BFF47AA9710D6CEB4441889"
-			}
-			"testing"
-			{
-				"gid" "6FBC873CB359A232A9946998A5EF1D49"
-				"size" "7BF8D57E78C43297518BE79C8F95ED6B"
-				"download" "FB2C8109D0F3DAB7A1A7B9C7CC38040D"
+				"gid" "4516389518392858130"
+				"size" "441384403"
+				"download" "148533936"
 			}
 		}
 	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19824481"
+			"timeupdated" "1756995866"
+		}
+		"public-beta"
+		{
+			"buildid" "19824481"
+			"description" "early feature testing for players"
+			"timeupdated" "1756995888"
+		}
+	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -445,6 +429,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22263752"
-"_sha" "57a561c9b533406ed69df6ab08a1a24065cee393"
-"_size" "8106"
+"_change_number" "30944891"
+"_sha" "cbdaa88bcccc02dfe90de69d578ec3db908bac09"
+"_size" "7362"
