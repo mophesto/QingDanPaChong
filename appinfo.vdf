@@ -38,6 +38,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "1"
+		"steamos_compatibility" "1"
 		"test_timestamp" "1658534400"
 		"tested_build_id" "0"
 		"tests"
@@ -46,6 +47,14 @@
 			{
 				"display" "2"
 				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamOS_TestResult_SteamOSDoesNotSupport_Software"
 			}
 		}
 		"configuration"
@@ -60,7 +69,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"market_presence" "1"
@@ -270,8 +281,8 @@
 		"3" "8013"
 		"4" "84"
 		"5" "872"
-		"6" "24904"
-		"7" "3839"
+		"6" "3839"
+		"7" "24904"
 		"8" "492"
 		"9" "10397"
 		"10" "4726"
@@ -281,8 +292,8 @@
 		"14" "493"
 		"15" "809"
 		"16" "3810"
-		"17" "1667"
-		"18" "150626"
+		"17" "150626"
+		"18" "1667"
 		"19" "13906"
 	}
 	"review_score" "9"
@@ -309,25 +320,8 @@
 		"0"
 		{
 			"executable" "launcher.exe"
-			"arguments" "-run wallpaper32.exe -nobrowse"
-			"type" "default"
-			"config"
-			{
-				"oslist" "windows"
-			}
-			"description_loc"
-			{
-				"english" "Wallpaper Engine 32-bit (Recommended)"
-				"schinese" "Wallpaper Engine：壁纸引擎"
-				"sc_schinese" "Wallpaper Engine：壁纸引擎"
-			}
-			"description" "Wallpaper Engine 32-bit (Recommended)"
-		}
-		"1"
-		{
-			"executable" "launcher.exe"
 			"arguments" "-run wallpaper64.exe -nobrowse"
-			"type" "option1"
+			"type" "default"
 			"config"
 			{
 				"oslist" "windows"
@@ -335,38 +329,56 @@
 			}
 			"description_loc"
 			{
-				"english" "Wallpaper Engine 64-bit (May use more RAM)"
-				"german" "Wallpaper Engine 64-bit (Kann mehr RAM nutzen)"
-				"french" "Wallpaper Engine 64-bit (utilise plus de mémoire vive)"
-				"italian" "Wallpaper Engine 64-bit (Potrebbe utilizzare più RAM)"
-				"koreana" "Wallpaper Engine 64-bit (RAM 사용량 증가)"
-				"spanish" "Wallpaper Engine 64-bit (podría usar más memoria RAM)"
-				"schinese" "Wallpaper Engine 64位（可能使用更多 RAM）"
-				"tchinese" "Wallpaper Engine 64 位元 (可能使用更多系統記憶體)"
-				"russian" "Wallpaper Engine 64-bit (Требует больше ОЗУ)"
-				"thai" "Wallpaper Engine 64-bit (อาจใช้ RAM มากขึ้น)"
-				"japanese" "Wallpaper Engine 64-bit (RAMを多く使用する可能性があります)"
-				"portuguese" "Wallpaper Engine 64 bits (Pode utilizar mais RAM)"
-				"polish" "Wallpaper Engine 64-bit (Może używać więcej RAM)"
-				"danish" "Wallpaper Engine 64-bit (kan kræve flere RAM)"
-				"finnish" "Wallpaper Engine 64-bit (voi käyttää enemmän RAMia)"
-				"swedish" "Wallpaper Engine 64-bitar (kanske använder mer RAM)"
-				"turkish" "Wallpaper Engine 64-bit\'i (Daha fazla RAM kullanabilir)"
-				"brazilian" "Wallpaper Engine 64 bits (Talvez use mais RAM)"
-				"ukrainian" "Wallpaper Engine 64-bit (потребує більше RAM)"
-				"latam" "Wallpaper Engine 64-bit (podría usar más memoria RAM)"
-				"sc_schinese" "Wallpaper Engine 64位（可能使用更多 RAM）"
+				"english" "Wallpaper Engine"
+				"schinese" "Wallpaper Engine：壁纸引擎"
+				"sc_schinese" "Wallpaper Engine：壁纸引擎"
 			}
-			"description" "Wallpaper Engine 64-bit (May use more RAM)"
+			"description" "Wallpaper Engine"
+		}
+		"1"
+		{
+			"executable" "launcher.exe"
+			"arguments" "-run wallpaper32.exe -nobrowse"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Wallpaper Engine (32-bit)"
+				"german" "Wallpaper Engine (32-bit)"
+				"french" "Wallpaper Engine (32-bit)"
+				"italian" "Wallpaper Engine (32-bit)"
+				"koreana" "Wallpaper Engine (32-bit)"
+				"spanish" "Wallpaper Engine (32-bit)"
+				"schinese" "Wallpaper Engine (32位)"
+				"tchinese" "Wallpaper Engine (32位元)"
+				"russian" "Wallpaper Engine (32-bit)"
+				"thai" "Wallpaper Engine (32-bit)"
+				"japanese" "Wallpaper Engine (32-bit)"
+				"portuguese" "Wallpaper Engine (32-bit)"
+				"polish" "Wallpaper Engine (32-bit)"
+				"danish" "Wallpaper Engine (32-bit)"
+				"finnish" "Wallpaper Engine (32-bit)"
+				"swedish" "Wallpaper Engine (32-bit)"
+				"turkish" "Wallpaper Engine (32-bit)"
+				"brazilian" "Wallpaper Engine (32-bit)"
+				"ukrainian" "Wallpaper Engine (32-bit)"
+				"latam" "Wallpaper Engine (32-bit)"
+				"sc_schinese" "Wallpaper Engine (32位)"
+			}
+			"description" "Wallpaper Engine (32-bit)"
 		}
 		"2"
 		{
 			"executable" "launcher.exe"
-			"arguments" "-run wallpaper32.exe -nobrowse --disable-gpu"
+			"arguments" "-run wallpaper64.exe -nobrowse --disable-gpu"
 			"type" "option2"
 			"config"
 			{
 				"oslist" "windows"
+				"osarch" "64"
 			}
 			"description_loc"
 			{
@@ -396,12 +408,13 @@
 		}
 		"3"
 		{
-			"executable" "bin/diagnostics32.exe"
+			"executable" "bin/diagnostics64.exe"
 			"workingdir" "bin"
 			"type" "option3"
 			"config"
 			{
 				"oslist" "windows"
+				"osarch" "64"
 			}
 			"description_loc"
 			{
@@ -447,21 +460,21 @@
 		{
 			"public"
 			{
-				"gid" "3123617359715496904"
-				"size" "628724854"
-				"download" "271191248"
+				"gid" "5641376293592905073"
+				"size" "660149815"
+				"download" "300581664"
 			}
 			"beta"
 			{
-				"gid" "3123617359715496904"
-				"size" "628724854"
-				"download" "271191248"
+				"gid" "5641376293592905073"
+				"size" "660149815"
+				"download" "300581664"
 			}
 			"previous"
 			{
-				"gid" "5465725012314299548"
-				"size" "618167723"
-				"download" "268283680"
+				"gid" "3123617359715496904"
+				"size" "628724854"
+				"download" "271191248"
 			}
 			"windows_7_support"
 			{
@@ -481,21 +494,21 @@
 		{
 			"public"
 			{
-				"gid" "1004714038687551688"
-				"size" "7163688"
-				"download" "1417712"
+				"gid" "2667361956895452971"
+				"size" "8030666"
+				"download" "1711808"
 			}
 			"beta"
 			{
-				"gid" "1004714038687551688"
-				"size" "7163688"
-				"download" "1417712"
+				"gid" "2667361956895452971"
+				"size" "8030666"
+				"download" "1711808"
 			}
 			"previous"
 			{
-				"gid" "1677112453947627885"
-				"size" "6893178"
-				"download" "1372512"
+				"gid" "1004714038687551688"
+				"size" "7163688"
+				"download" "1417712"
 			}
 			"windows_7_support"
 			{
@@ -509,20 +522,20 @@
 	{
 		"public"
 		{
-			"buildid" "17411184"
-			"timeupdated" "1739980819"
+			"buildid" "19812784"
+			"timeupdated" "1756996303"
 		}
 		"beta"
 		{
-			"buildid" "17411184"
+			"buildid" "19812784"
 			"description" "public beta testing, preview for next update"
-			"timeupdated" "1739901703"
+			"timeupdated" "1756734257"
 		}
 		"previous"
 		{
-			"buildid" "14603215"
+			"buildid" "17411184"
 			"description" "old release, always the preceding version"
-			"timeupdated" "1739210258"
+			"timeupdated" "1756996247"
 		}
 		"windows_7_support"
 		{
@@ -540,6 +553,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "27557316"
-"_sha" "ead63e1ef516cc88c9a0a31817f73949701f2aa4"
-"_size" "12853"
+"_change_number" "30943806"
+"_sha" "dbb19090a383989940b23714d03222981996a856"
+"_size" "12449"
