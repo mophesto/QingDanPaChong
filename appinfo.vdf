@@ -270,7 +270,7 @@
 	"developer" "padendon"
 	"publisher" "padendon"
 	"homepage" "https://www.facebook.com/pagui2"
-	"listofdlc" "3547950,3678680"
+	"listofdlc" "3547950,3678680,3969840,3970000"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -349,9 +349,9 @@
 		{
 			"public"
 			{
-				"gid" "4518717500566685858"
-				"size" "12900263611"
-				"download" "9242012256"
+				"gid" "4259691810919123022"
+				"size" "13012678393"
+				"download" "9312561968"
 			}
 		}
 	}
@@ -367,8 +367,8 @@
 	{
 		"public"
 		{
-			"buildid" "19707772"
-			"timeupdated" "1755935656"
+			"buildid" "19867374"
+			"timeupdated" "1757064484"
 		}
 	}
 	"privatebranches" "1"
@@ -392,6 +392,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "30743948"
-"_sha" "e6ac04ec4e92d89bef58243c80ee1c1a3d67681d"
-"_size" "7176"
+"_change_number" "30958892"
+"_sha" "f882d8337a4b3db50ac959325d7de03d50fea462"
+"_size" "7192"
