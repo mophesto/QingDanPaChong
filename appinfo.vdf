@@ -276,7 +276,7 @@
 		"19" "4166"
 	}
 	"review_score" "8"
-	"review_percentage" "91"
+	"review_percentage" "90"
 }
 "extended"
 {
@@ -430,27 +430,27 @@
 		{
 			"public"
 			{
-				"gid" "8404607684717552108"
-				"size" "1935171103"
-				"download" "1430197152"
+				"gid" "427265419390932672"
+				"size" "1983314939"
+				"download" "1446611104"
 			}
 			"beta"
 			{
-				"gid" "8087228912078298878"
-				"size" "1977114897"
-				"download" "1438876000"
+				"gid" "427265419390932672"
+				"size" "1983314939"
+				"download" "1446611104"
 			}
 			"pre_beta"
+			{
+				"gid" "427265419390932672"
+				"size" "1983314939"
+				"download" "1446611104"
+			}
+			"previous_default"
 			{
 				"gid" "8404607684717552108"
 				"size" "1935171103"
 				"download" "1430197152"
-			}
-			"previous_default"
-			{
-				"gid" "8087228912078298878"
-				"size" "1977114897"
-				"download" "1438876000"
 			}
 		}
 	}
@@ -493,26 +493,26 @@
 	{
 		"public"
 		{
-			"buildid" "18821236"
-			"timeupdated" "1750937277"
+			"buildid" "19872297"
+			"timeupdated" "1757574976"
 		}
 		"beta"
 		{
-			"buildid" "14715959"
+			"buildid" "19872297"
 			"description" "Test builds, backup saves before trying!"
-			"timeupdated" "1718355761"
+			"timeupdated" "1757321558"
 		}
 		"pre_beta"
 		{
-			"buildid" "18821236"
+			"buildid" "19872297"
 			"description" "Experimental builds, try at your own risk!"
-			"timeupdated" "1749626618"
+			"timeupdated" "1757080916"
 		}
 		"previous_default"
 		{
-			"buildid" "14715959"
+			"buildid" "18821236"
 			"description" "Previous main branch build. Switch to this if you\'ve got problems with a new update."
-			"timeupdated" "1750937097"
+			"timeupdated" "1757574951"
 		}
 	}
 }
@@ -551,6 +551,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29761739"
-"_sha" "fbfd37ba31975ef85d3c0c40873c7afabbc8f1e4"
-"_size" "10075"
+"_change_number" "31051851"
+"_sha" "7297f2b2d64d30657d6563fad945d89bf2d34079"
+"_size" "10072"
