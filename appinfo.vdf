@@ -373,8 +373,6 @@
 }
 "depots"
 {
-	"depotdeltapatches" "1"
-	"baselanguages" "english"
 	"228985"
 	{
 		"config"
@@ -402,6 +400,15 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"228990"
 	{
 		"config"
@@ -411,15 +418,26 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
+	"229001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"depotdeltapatches" "1"
+	"baselanguages" "english"
 	"578081"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "2399292281000424583"
+				"gid" "2105806863570278818"
 				"size" "43197938080"
-				"download" "42015175424"
+				"download" "42015175904"
 			}
 		}
 	}
@@ -429,9 +447,9 @@
 		{
 			"public"
 			{
-				"gid" "1518187213272797771"
-				"size" "672651471"
-				"download" "374625488"
+				"gid" "6478481902790835783"
+				"size" "672345295"
+				"download" "374427952"
 			}
 		}
 	}
@@ -439,13 +457,13 @@
 	{
 		"public"
 		{
-			"buildid" "19914177"
-			"timeupdated" "1757462471"
+			"buildid" "19994298"
+			"timeupdated" "1758074605"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "31026578"
-"_sha" "e8e1222cc9b6e57cff93d1cfad253cc72fd8df58"
-"_size" "8101"
+"_change_number" "31149391"
+"_sha" "1c6b74666747bf7fef63f61ab7c76e39222f55dc"
+"_size" "8335"
