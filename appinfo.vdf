@@ -96,11 +96,11 @@
 	"controller_support" "partial"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg"
 	}
 	"library_assets"
 	{
@@ -168,7 +168,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1750168408"
+	"store_asset_mtime" "1754381837"
 	"associations"
 	{
 		"0"
@@ -362,8 +362,8 @@
 		"14" "7481"
 		"15" "5350"
 		"16" "1697"
-		"17" "597"
-		"18" "21"
+		"17" "21"
+		"18" "597"
 		"19" "492"
 	}
 	"review_score" "9"
@@ -516,21 +516,33 @@
 		{
 			"public"
 			{
-				"gid" "8342770833325742378"
-				"size" "32752736583"
-				"download" "30134498320"
+				"gid" "9191153936220688470"
+				"size" "33819968050"
+				"download" "31192105280"
+			}
+			"public_beta"
+			{
+				"gid" "9191153936220688470"
+				"size" "33819968050"
+				"download" "31192105280"
 			}
 			"oculus"
+			{
+				"gid" "7090998366305107495"
+				"size" "33819968140"
+				"download" "31192108352"
+			}
+			"oculus_previous"
 			{
 				"gid" "3892123554071811249"
 				"size" "32752736670"
 				"download" "30134506000"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "2924326734583434789"
-				"size" "32060634398"
-				"download" "29486169888"
+				"gid" "9191153936220688470"
+				"size" "33819968050"
+				"download" "31192105280"
 			}
 			"temporary_1_55"
 			{
@@ -689,21 +701,33 @@
 		{
 			"public"
 			{
-				"gid" "6618741358505860596"
-				"size" "107209320"
-				"download" "29141088"
+				"gid" "2334979563337040465"
+				"size" "56713288"
+				"download" "19432288"
+			}
+			"public_beta"
+			{
+				"gid" "2334979563337040465"
+				"size" "56713288"
+				"download" "19432288"
 			}
 			"oculus"
+			{
+				"gid" "1452934549288860039"
+				"size" "57536536"
+				"download" "19745424"
+			}
+			"oculus_previous"
 			{
 				"gid" "5841428152906036981"
 				"size" "56922648"
 				"download" "19226272"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "4600038106125444714"
-				"size" "56312760"
-				"download" "16396720"
+				"gid" "2334979563337040465"
+				"size" "56713288"
+				"download" "19432288"
 			}
 			"temporary_1_55"
 			{
@@ -862,9 +886,15 @@
 		{
 			"public"
 			{
-				"gid" "8475414071040548073"
-				"size" "51627312"
-				"download" "15863392"
+				"gid" "7695135188856917441"
+				"size" "52761584"
+				"download" "19891584"
+			}
+			"public_beta"
+			{
+				"gid" "7695135188856917441"
+				"size" "52761584"
+				"download" "19891584"
 			}
 			"oculus"
 			{
@@ -877,6 +907,12 @@
 				"gid" "7852326273509369519"
 				"size" "0"
 				"download" "0"
+			}
+			"temporary_1_56"
+			{
+				"gid" "7695135188856917441"
+				"size" "52761584"
+				"download" "19891584"
 			}
 			"temporary_1_55"
 			{
@@ -1034,9 +1070,15 @@
 		{
 			"public"
 			{
-				"gid" "8204004320256912555"
-				"size" "63681754"
-				"download" "20389152"
+				"gid" "7877530140130658866"
+				"size" "64744554"
+				"download" "22909552"
+			}
+			"public_beta"
+			{
+				"gid" "7877530140130658866"
+				"size" "64744554"
+				"download" "22909552"
 			}
 			"oculus"
 			{
@@ -1049,6 +1091,12 @@
 				"gid" "4694906742983800568"
 				"size" "0"
 				"download" "0"
+			}
+			"temporary_1_56"
+			{
+				"gid" "7877530140130658866"
+				"size" "64744554"
+				"download" "22909552"
 			}
 			"temporary_1_55"
 			{
@@ -1203,21 +1251,33 @@
 		{
 			"public"
 			{
-				"gid" "6028673762143282368"
-				"size" "37810931"
-				"download" "37878400"
+				"gid" "8859589139873172659"
+				"size" "37811196"
+				"download" "37826144"
+			}
+			"public_beta"
+			{
+				"gid" "8859589139873172659"
+				"size" "37811196"
+				"download" "37826144"
 			}
 			"oculus"
 			{
+				"gid" "8859589139873172659"
+				"size" "37811196"
+				"download" "37826144"
+			}
+			"oculus_previous"
+			{
 				"gid" "6028673762143282368"
 				"size" "37810931"
 				"download" "37878400"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "8845491899799419726"
-				"size" "37756647"
-				"download" "37825408"
+				"gid" "8859589139873172659"
+				"size" "37811196"
+				"download" "37826144"
 			}
 			"temporary_1_55"
 			{
@@ -1376,6 +1436,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7921356351300426751"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7921356351300426751"
@@ -1383,6 +1449,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7921356351300426751"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7921356351300426751"
 				"size" "0"
@@ -1545,6 +1617,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "3283532009505007756"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "3283532009505007756"
@@ -1552,6 +1630,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "3283532009505007756"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "3283532009505007756"
 				"size" "0"
@@ -1714,6 +1798,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6527425934994182475"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6527425934994182475"
@@ -1721,6 +1811,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6527425934994182475"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "6527425934994182475"
 				"size" "0"
@@ -1883,6 +1979,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8979825731496411430"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8979825731496411430"
@@ -1890,6 +1992,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8979825731496411430"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8979825731496411430"
 				"size" "0"
@@ -2052,6 +2160,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7907072597469392319"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7907072597469392319"
@@ -2059,6 +2173,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7907072597469392319"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7907072597469392319"
 				"size" "0"
@@ -2221,6 +2341,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "2957245413978440635"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "2957245413978440635"
@@ -2228,6 +2354,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "2957245413978440635"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "2957245413978440635"
 				"size" "0"
@@ -2390,6 +2522,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "2905133123341935477"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "2905133123341935477"
@@ -2397,6 +2535,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "2905133123341935477"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "2905133123341935477"
 				"size" "0"
@@ -2559,6 +2703,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "380357946844704080"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "380357946844704080"
@@ -2566,6 +2716,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "380357946844704080"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "380357946844704080"
 				"size" "0"
@@ -2728,6 +2884,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7623190349550009080"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7623190349550009080"
@@ -2735,6 +2897,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7623190349550009080"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7623190349550009080"
 				"size" "0"
@@ -2897,6 +3065,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8467607110335293908"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8467607110335293908"
@@ -2904,6 +3078,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8467607110335293908"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8467607110335293908"
 				"size" "0"
@@ -3066,6 +3246,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4860658739016211282"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4860658739016211282"
@@ -3073,6 +3259,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4860658739016211282"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "4860658739016211282"
 				"size" "0"
@@ -3235,6 +3427,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4371874931215817064"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4371874931215817064"
@@ -3242,6 +3440,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4371874931215817064"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "4371874931215817064"
 				"size" "0"
@@ -3404,6 +3608,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5999359468502785165"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5999359468502785165"
@@ -3411,6 +3621,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5999359468502785165"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5999359468502785165"
 				"size" "0"
@@ -3573,6 +3789,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5664607073299318301"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5664607073299318301"
@@ -3580,6 +3802,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5664607073299318301"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5664607073299318301"
 				"size" "0"
@@ -3742,6 +3970,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7202789966674546018"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7202789966674546018"
@@ -3749,6 +3983,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7202789966674546018"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7202789966674546018"
 				"size" "0"
@@ -3911,6 +4151,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7992617693705249682"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7992617693705249682"
@@ -3918,6 +4164,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7992617693705249682"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7992617693705249682"
 				"size" "0"
@@ -4080,6 +4332,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4628475804235513753"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4628475804235513753"
@@ -4087,6 +4345,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4628475804235513753"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "4628475804235513753"
 				"size" "0"
@@ -4249,6 +4513,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5568977514805005034"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5568977514805005034"
@@ -4256,6 +4526,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5568977514805005034"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5568977514805005034"
 				"size" "0"
@@ -4418,6 +4694,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "483676476628106674"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "483676476628106674"
@@ -4425,6 +4707,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "483676476628106674"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "483676476628106674"
 				"size" "0"
@@ -4583,21 +4871,33 @@
 		{
 			"public"
 			{
-				"gid" "6333535864394779640"
-				"size" "62171468"
-				"download" "59987664"
+				"gid" "8066769525173661381"
+				"size" "62125488"
+				"download" "60184144"
+			}
+			"public_beta"
+			{
+				"gid" "8066769525173661381"
+				"size" "62125488"
+				"download" "60184144"
 			}
 			"oculus"
 			{
+				"gid" "8066769525173661381"
+				"size" "62125488"
+				"download" "60184144"
+			}
+			"oculus_previous"
+			{
 				"gid" "6333535864394779640"
 				"size" "62171468"
 				"download" "59987664"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "1546637602110180894"
-				"size" "62182543"
-				"download" "59894944"
+				"gid" "8066769525173661381"
+				"size" "62125488"
+				"download" "60184144"
 			}
 			"temporary_1_55"
 			{
@@ -4756,6 +5056,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8538423298506949843"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8538423298506949843"
@@ -4763,6 +5069,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8538423298506949843"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8538423298506949843"
 				"size" "0"
@@ -4925,6 +5237,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "2376290245923035824"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "2376290245923035824"
@@ -4932,6 +5250,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "2376290245923035824"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "2376290245923035824"
 				"size" "0"
@@ -5094,6 +5418,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8493126685151868489"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8493126685151868489"
@@ -5101,6 +5431,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8493126685151868489"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8493126685151868489"
 				"size" "0"
@@ -5263,6 +5599,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "280180584531605044"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "280180584531605044"
@@ -5270,6 +5612,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "280180584531605044"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "280180584531605044"
 				"size" "0"
@@ -5432,6 +5780,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "1648858371444446407"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "1648858371444446407"
@@ -5439,6 +5793,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1648858371444446407"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "1648858371444446407"
 				"size" "0"
@@ -5601,6 +5961,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4309460561061129218"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4309460561061129218"
@@ -5608,6 +5974,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4309460561061129218"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "4309460561061129218"
 				"size" "0"
@@ -5770,6 +6142,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4716220128845186726"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4716220128845186726"
@@ -5777,6 +6155,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4716220128845186726"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "4716220128845186726"
 				"size" "0"
@@ -5939,6 +6323,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "763490717740367964"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "763490717740367964"
@@ -5946,6 +6336,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "763490717740367964"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "763490717740367964"
 				"size" "0"
@@ -6108,6 +6504,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5261877216088621057"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5261877216088621057"
@@ -6115,6 +6517,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5261877216088621057"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5261877216088621057"
 				"size" "0"
@@ -6277,6 +6685,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7958922419590227872"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7958922419590227872"
@@ -6284,6 +6698,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7958922419590227872"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7958922419590227872"
 				"size" "0"
@@ -6446,6 +6866,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7023847166734251609"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7023847166734251609"
@@ -6453,6 +6879,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7023847166734251609"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7023847166734251609"
 				"size" "0"
@@ -6615,6 +7047,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5508406148406286721"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5508406148406286721"
@@ -6622,6 +7060,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5508406148406286721"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5508406148406286721"
 				"size" "0"
@@ -6784,6 +7228,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6769909265061195710"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6769909265061195710"
@@ -6791,6 +7241,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6769909265061195710"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "6769909265061195710"
 				"size" "0"
@@ -6953,6 +7409,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "318719124303882667"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "318719124303882667"
@@ -6960,6 +7422,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "318719124303882667"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "318719124303882667"
 				"size" "0"
@@ -7122,6 +7590,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "614205605403850615"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "614205605403850615"
@@ -7129,6 +7603,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "614205605403850615"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "614205605403850615"
 				"size" "0"
@@ -7291,6 +7771,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8043778932844749102"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8043778932844749102"
@@ -7298,6 +7784,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8043778932844749102"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8043778932844749102"
 				"size" "0"
@@ -7460,6 +7952,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7432566952650997396"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7432566952650997396"
@@ -7467,6 +7965,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7432566952650997396"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7432566952650997396"
 				"size" "0"
@@ -7629,6 +8133,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4905364748903397876"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4905364748903397876"
@@ -7636,6 +8146,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4905364748903397876"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "4905364748903397876"
 				"size" "0"
@@ -7798,6 +8314,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7217290017793550202"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7217290017793550202"
@@ -7805,6 +8327,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7217290017793550202"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7217290017793550202"
 				"size" "0"
@@ -7967,6 +8495,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5400260333145696346"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5400260333145696346"
@@ -7974,6 +8508,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5400260333145696346"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5400260333145696346"
 				"size" "0"
@@ -8136,6 +8676,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8722492570923931470"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8722492570923931470"
@@ -8143,6 +8689,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8722492570923931470"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8722492570923931470"
 				"size" "0"
@@ -8305,6 +8857,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "627390679225060384"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "627390679225060384"
@@ -8312,6 +8870,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "627390679225060384"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "627390679225060384"
 				"size" "0"
@@ -8474,6 +9038,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6215803422112305490"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6215803422112305490"
@@ -8481,6 +9051,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6215803422112305490"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "6215803422112305490"
 				"size" "0"
@@ -8643,6 +9219,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "2564821458389052219"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "2564821458389052219"
@@ -8650,6 +9232,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "2564821458389052219"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "2564821458389052219"
 				"size" "0"
@@ -8812,6 +9400,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "9211433779081099616"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "9211433779081099616"
@@ -8819,6 +9413,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "9211433779081099616"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "9211433779081099616"
 				"size" "0"
@@ -8981,6 +9581,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "1714236825747095403"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "1714236825747095403"
@@ -8988,6 +9594,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1714236825747095403"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "1714236825747095403"
 				"size" "0"
@@ -9150,6 +9762,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "2333631855110248746"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "2333631855110248746"
@@ -9157,6 +9775,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "2333631855110248746"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "2333631855110248746"
 				"size" "0"
@@ -9319,6 +9943,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "620015009428909093"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "620015009428909093"
@@ -9326,6 +9956,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "620015009428909093"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "620015009428909093"
 				"size" "0"
@@ -9484,21 +10120,33 @@
 		{
 			"public"
 			{
-				"gid" "2560972776723025023"
-				"size" "94850003"
-				"download" "90803200"
+				"gid" "5914807526892461965"
+				"size" "94856975"
+				"download" "90772112"
+			}
+			"public_beta"
+			{
+				"gid" "5914807526892461965"
+				"size" "94856975"
+				"download" "90772112"
 			}
 			"oculus"
 			{
+				"gid" "5914807526892461965"
+				"size" "94856975"
+				"download" "90772112"
+			}
+			"oculus_previous"
+			{
 				"gid" "2560972776723025023"
 				"size" "94850003"
 				"download" "90803200"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "1119418168319532562"
-				"size" "94536276"
-				"download" "90454512"
+				"gid" "5914807526892461965"
+				"size" "94856975"
+				"download" "90772112"
 			}
 			"temporary_1_55"
 			{
@@ -9657,6 +10305,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5995400305895737089"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5995400305895737089"
@@ -9664,6 +10318,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5995400305895737089"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5995400305895737089"
 				"size" "0"
@@ -9826,6 +10486,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "1646764676298902558"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "1646764676298902558"
@@ -9833,6 +10499,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1646764676298902558"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "1646764676298902558"
 				"size" "0"
@@ -9995,6 +10667,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "702960128756830977"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "702960128756830977"
@@ -10002,6 +10680,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "702960128756830977"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "702960128756830977"
 				"size" "0"
@@ -10164,6 +10848,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7516040781686027632"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7516040781686027632"
@@ -10171,6 +10861,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7516040781686027632"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7516040781686027632"
 				"size" "0"
@@ -10333,6 +11029,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5361107034067998893"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5361107034067998893"
@@ -10340,6 +11042,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5361107034067998893"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5361107034067998893"
 				"size" "0"
@@ -10502,6 +11210,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7485045655295992031"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7485045655295992031"
@@ -10509,6 +11223,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7485045655295992031"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7485045655295992031"
 				"size" "0"
@@ -10667,21 +11387,33 @@
 		{
 			"public"
 			{
-				"gid" "6561306996308998887"
-				"size" "84356840"
-				"download" "83400448"
+				"gid" "8487037765015190587"
+				"size" "84360604"
+				"download" "83364400"
+			}
+			"public_beta"
+			{
+				"gid" "8487037765015190587"
+				"size" "84360604"
+				"download" "83364400"
 			}
 			"oculus"
 			{
+				"gid" "8487037765015190587"
+				"size" "84360604"
+				"download" "83364400"
+			}
+			"oculus_previous"
+			{
 				"gid" "6561306996308998887"
 				"size" "84356840"
 				"download" "83400448"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "8944888804639032020"
-				"size" "84283704"
-				"download" "83328544"
+				"gid" "8487037765015190587"
+				"size" "84360604"
+				"download" "83364400"
 			}
 			"temporary_1_55"
 			{
@@ -10840,6 +11572,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "553771190614744972"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "553771190614744972"
@@ -10847,6 +11585,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "553771190614744972"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "553771190614744972"
 				"size" "0"
@@ -11009,6 +11753,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6406937035159279794"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6406937035159279794"
@@ -11016,6 +11766,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6406937035159279794"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "6406937035159279794"
 				"size" "0"
@@ -11178,6 +11934,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "1919550032765055462"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "1919550032765055462"
@@ -11185,6 +11947,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1919550032765055462"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "1919550032765055462"
 				"size" "0"
@@ -11347,6 +12115,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4945826575397812199"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4945826575397812199"
@@ -11354,6 +12128,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4945826575397812199"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "4945826575397812199"
 				"size" "0"
@@ -11516,6 +12296,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5991883449228130297"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5991883449228130297"
@@ -11523,6 +12309,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5991883449228130297"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5991883449228130297"
 				"size" "0"
@@ -11675,21 +12467,33 @@
 		{
 			"public"
 			{
-				"gid" "1570742476676199250"
-				"size" "97414745"
-				"download" "94877088"
+				"gid" "5844744271405393201"
+				"size" "97425586"
+				"download" "94829040"
+			}
+			"public_beta"
+			{
+				"gid" "5844744271405393201"
+				"size" "97425586"
+				"download" "94829040"
 			}
 			"oculus"
 			{
+				"gid" "5844744271405393201"
+				"size" "97425586"
+				"download" "94829040"
+			}
+			"oculus_previous"
+			{
 				"gid" "1570742476676199250"
 				"size" "97414745"
 				"download" "94877088"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "1410871632765779656"
-				"size" "97844186"
-				"download" "95244368"
+				"gid" "5844744271405393201"
+				"size" "97425586"
+				"download" "94829040"
 			}
 			"temporary_1_55"
 			{
@@ -11842,6 +12646,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "3931725649050572730"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "3931725649050572730"
@@ -11849,6 +12659,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "3931725649050572730"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "3931725649050572730"
 				"size" "0"
@@ -12005,6 +12821,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "3465626021269207986"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "3465626021269207986"
@@ -12012,6 +12834,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "3465626021269207986"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "3465626021269207986"
 				"size" "0"
@@ -12168,6 +12996,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7545485906113247155"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7545485906113247155"
@@ -12175,6 +13009,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7545485906113247155"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7545485906113247155"
 				"size" "0"
@@ -12331,6 +13171,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7178260226727326542"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7178260226727326542"
@@ -12338,6 +13184,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7178260226727326542"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7178260226727326542"
 				"size" "0"
@@ -12494,6 +13346,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4671341810091804714"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4671341810091804714"
@@ -12501,6 +13359,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4671341810091804714"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "4671341810091804714"
 				"size" "0"
@@ -12653,21 +13517,33 @@
 		{
 			"public"
 			{
-				"gid" "1314944314432623878"
-				"size" "209106513"
-				"download" "204838928"
+				"gid" "3352656193805379501"
+				"size" "209166904"
+				"download" "204891600"
+			}
+			"public_beta"
+			{
+				"gid" "3352656193805379501"
+				"size" "209166904"
+				"download" "204891600"
 			}
 			"oculus"
 			{
+				"gid" "3352656193805379501"
+				"size" "209166904"
+				"download" "204891600"
+			}
+			"oculus_previous"
+			{
 				"gid" "1314944314432623878"
 				"size" "209106513"
 				"download" "204838928"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "7716667505207730310"
-				"size" "214693691"
-				"download" "210312688"
+				"gid" "3352656193805379501"
+				"size" "209166904"
+				"download" "204891600"
 			}
 			"temporary_1_55"
 			{
@@ -12814,6 +13690,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "1067637122708666818"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "1067637122708666818"
@@ -12821,6 +13703,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1067637122708666818"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "1067637122708666818"
 				"size" "0"
@@ -12977,6 +13865,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "1121503996381158582"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "1121503996381158582"
@@ -12984,6 +13878,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1121503996381158582"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "1121503996381158582"
 				"size" "0"
@@ -13134,6 +14034,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "3324815250320656782"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "3324815250320656782"
@@ -13141,6 +14047,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "3324815250320656782"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "3324815250320656782"
 				"size" "0"
@@ -13291,6 +14203,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "2379835362999603702"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "2379835362999603702"
@@ -13298,6 +14216,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "2379835362999603702"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "2379835362999603702"
 				"size" "0"
@@ -13442,6 +14366,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "4489366073136472613"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "4489366073136472613"
@@ -13449,6 +14379,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4489366073136472613"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "4489366073136472613"
 				"size" "0"
@@ -13587,7 +14523,25 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8627600342676627930"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
+			{
+				"gid" "8627600342676627930"
+				"size" "0"
+				"download" "0"
+			}
+			"oculus_previous"
+			{
+				"gid" "8627600342676627930"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8627600342676627930"
 				"size" "0"
@@ -13608,21 +14562,33 @@
 		{
 			"public"
 			{
-				"gid" "1959044623747831333"
-				"size" "345084692"
-				"download" "342444176"
+				"gid" "2510239528016867959"
+				"size" "345093453"
+				"download" "342026656"
+			}
+			"public_beta"
+			{
+				"gid" "2510239528016867959"
+				"size" "345093453"
+				"download" "342026656"
 			}
 			"oculus"
 			{
+				"gid" "2510239528016867959"
+				"size" "345093453"
+				"download" "342026656"
+			}
+			"oculus_previous"
+			{
 				"gid" "1959044623747831333"
 				"size" "345084692"
 				"download" "342444176"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "7130538418793312806"
-				"size" "349519663"
-				"download" "346841984"
+				"gid" "2510239528016867959"
+				"size" "345093453"
+				"download" "342026656"
 			}
 			"temporary_1_55"
 			{
@@ -13745,6 +14711,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "1383614172783786394"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "1383614172783786394"
@@ -13752,6 +14724,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1383614172783786394"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "1383614172783786394"
 				"size" "0"
@@ -13878,6 +14856,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8323549460675734992"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8323549460675734992"
@@ -13885,6 +14869,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8323549460675734992"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8323549460675734992"
 				"size" "0"
@@ -14005,6 +14995,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8921517554927394570"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8921517554927394570"
@@ -14012,6 +15008,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8921517554927394570"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8921517554927394570"
 				"size" "0"
@@ -14090,6 +15092,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6888770779331421318"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6888770779331421318"
@@ -14097,6 +15105,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6888770779331421318"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "6888770779331421318"
 				"size" "0"
@@ -14205,6 +15219,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8368596210107716972"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8368596210107716972"
@@ -14212,6 +15232,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8368596210107716972"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8368596210107716972"
 				"size" "0"
@@ -14310,21 +15336,33 @@
 		{
 			"public"
 			{
-				"gid" "2743647321237124822"
-				"size" "434384217"
-				"download" "428365360"
+				"gid" "4903737420458287731"
+				"size" "433662743"
+				"download" "427383200"
+			}
+			"public_beta"
+			{
+				"gid" "4903737420458287731"
+				"size" "433662743"
+				"download" "427383200"
 			}
 			"oculus"
 			{
+				"gid" "4903737420458287731"
+				"size" "433662743"
+				"download" "427383200"
+			}
+			"oculus_previous"
+			{
 				"gid" "2743647321237124822"
 				"size" "434384217"
 				"download" "428365360"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "956455080935252475"
-				"size" "442860387"
-				"download" "436792528"
+				"gid" "4903737420458287731"
+				"size" "433662743"
+				"download" "427383200"
 			}
 			"temporary_1_55"
 			{
@@ -14399,6 +15437,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8615273824501394788"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8615273824501394788"
@@ -14406,6 +15450,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8615273824501394788"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8615273824501394788"
 				"size" "0"
@@ -14502,6 +15552,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "3225902090318410395"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "3225902090318410395"
@@ -14509,6 +15565,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "3225902090318410395"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "3225902090318410395"
 				"size" "0"
@@ -14599,6 +15661,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7809383020142126541"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7809383020142126541"
@@ -14606,6 +15674,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7809383020142126541"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7809383020142126541"
 				"size" "0"
@@ -14690,6 +15764,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7895863578875893287"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7895863578875893287"
@@ -14697,6 +15777,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7895863578875893287"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7895863578875893287"
 				"size" "0"
@@ -14781,6 +15867,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "7245421719166789535"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "7245421719166789535"
@@ -14788,6 +15880,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7245421719166789535"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "7245421719166789535"
 				"size" "0"
@@ -14860,6 +15958,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8804192099694682025"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8804192099694682025"
@@ -14867,6 +15971,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8804192099694682025"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8804192099694682025"
 				"size" "0"
@@ -14945,6 +16055,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5009768597697504470"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5009768597697504470"
@@ -14952,6 +16068,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5009768597697504470"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5009768597697504470"
 				"size" "0"
@@ -15024,6 +16146,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6125692916729941617"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6125692916729941617"
@@ -15031,6 +16159,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6125692916729941617"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "6125692916729941617"
 				"size" "0"
@@ -15097,6 +16231,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8987986584070519860"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8987986584070519860"
@@ -15104,6 +16244,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8987986584070519860"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8987986584070519860"
 				"size" "0"
@@ -15164,6 +16310,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8290080232077515320"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8290080232077515320"
@@ -15171,6 +16323,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8290080232077515320"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8290080232077515320"
 				"size" "0"
@@ -15231,6 +16389,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6665593843249505581"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6665593843249505581"
@@ -15238,6 +16402,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6665593843249505581"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "6665593843249505581"
 				"size" "0"
@@ -15288,21 +16458,33 @@
 		{
 			"public"
 			{
-				"gid" "7297096349045231529"
-				"size" "526982619"
-				"download" "515652288"
+				"gid" "1678894318527896848"
+				"size" "529303757"
+				"download" "517863872"
+			}
+			"public_beta"
+			{
+				"gid" "1678894318527896848"
+				"size" "529303757"
+				"download" "517863872"
 			}
 			"oculus"
 			{
+				"gid" "1678894318527896848"
+				"size" "529303757"
+				"download" "517863872"
+			}
+			"oculus_previous"
+			{
 				"gid" "7297096349045231529"
 				"size" "526982619"
 				"download" "515652288"
 			}
-			"oculus_previous"
+			"temporary_1_56"
 			{
-				"gid" "1645965401963352190"
-				"size" "533935114"
-				"download" "523115216"
+				"gid" "1678894318527896848"
+				"size" "529303757"
+				"download" "517863872"
 			}
 			"temporary_1_55"
 			{
@@ -15341,6 +16523,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6024978619739322674"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6024978619739322674"
@@ -15348,6 +16536,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6024978619739322674"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "6024978619739322674"
 				"size" "0"
@@ -15396,6 +16590,30 @@
 		"dlcappid" "2780810"
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "4240005187968819287"
+				"size" "0"
+				"download" "0"
+			}
+			"public_beta"
+			{
+				"gid" "4240005187968819287"
+				"size" "0"
+				"download" "0"
+			}
+			"oculus"
+			{
+				"gid" "4240005187968819287"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
+			{
+				"gid" "4240005187968819287"
+				"size" "0"
+				"download" "0"
+			}
 		}
 	}
 	"3034950"
@@ -15409,6 +16627,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "3942582452463801047"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "3942582452463801047"
@@ -15416,6 +16640,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "3942582452463801047"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "3942582452463801047"
 				"size" "0"
@@ -15464,6 +16694,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "8695049842862174770"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "8695049842862174770"
@@ -15471,6 +16707,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8695049842862174770"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "8695049842862174770"
 				"size" "0"
@@ -15513,6 +16755,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6312086033646729789"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6312086033646729789"
@@ -15520,6 +16768,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6312086033646729789"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "6312086033646729789"
 				"size" "0"
@@ -15556,6 +16810,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "5730712882518993272"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "5730712882518993272"
@@ -15563,6 +16823,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5730712882518993272"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "5730712882518993272"
 				"size" "0"
@@ -15599,6 +16865,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"public_beta"
+			{
+				"gid" "6789632481762577527"
+				"size" "0"
+				"download" "0"
+			}
 			"oculus"
 			{
 				"gid" "6789632481762577527"
@@ -15606,6 +16878,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6789632481762577527"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_56"
 			{
 				"gid" "6789632481762577527"
 				"size" "0"
@@ -15639,25 +16917,99 @@
 	{
 		"dlcappid" "3851260"
 	}
+	"3977520"
+	{
+		"dlcappid" "3977520"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3078294093689314485"
+				"size" "36868116"
+				"download" "36297008"
+			}
+			"public_beta"
+			{
+				"gid" "3078294093689314485"
+				"size" "36868116"
+				"download" "36297008"
+			}
+			"oculus"
+			{
+				"gid" "3078294093689314485"
+				"size" "36868116"
+				"download" "36297008"
+			}
+			"temporary_1_56"
+			{
+				"gid" "3078294093689314485"
+				"size" "36868116"
+				"download" "36297008"
+			}
+		}
+	}
+	"3872920"
+	{
+		"dlcappid" "3872920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4966055556658243296"
+				"size" "86581001"
+				"download" "86437856"
+			}
+			"public_beta"
+			{
+				"gid" "4966055556658243296"
+				"size" "86581001"
+				"download" "86437856"
+			}
+			"oculus"
+			{
+				"gid" "4966055556658243296"
+				"size" "86581001"
+				"download" "86437856"
+			}
+			"temporary_1_56"
+			{
+				"gid" "4966055556658243296"
+				"size" "86581001"
+				"download" "86437856"
+			}
+		}
+	}
 	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "19382293"
-			"timeupdated" "1753778124"
+			"buildid" "20005338"
+			"timeupdated" "1758179684"
+		}
+		"public_beta"
+		{
+			"buildid" "20005338"
+			"description" "Open Beta for game version 1.56"
+			"timeupdated" "1758179614"
 		}
 		"oculus"
 		{
-			"buildid" "19215724"
-			"description" "Oculus+OpenVR+OpenXR - 1.55"
-			"timeupdated" "1752511933"
+			"buildid" "20011913"
+			"description" "Oculus+OpenVR+OpenXR - 1.56"
+			"timeupdated" "1758179805"
 		}
 		"oculus_previous"
 		{
-			"buildid" "17928938"
-			"description" "Oculus+OpenVR+OpenXR - 1.54"
-			"timeupdated" "1751529476"
+			"buildid" "19215724"
+			"description" "Oculus+OpenVR+OpenXR - 1.55"
+			"timeupdated" "1758179731"
+		}
+		"temporary_1_56"
+		{
+			"buildid" "20005338"
+			"description" "1.56.x for incompatible mods\t"
+			"timeupdated" "1758179904"
 		}
 		"temporary_1_55"
 		{
@@ -15812,6 +17164,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "30302589"
-"_sha" "b2e77943630b841f0f25d20a73e551c5525bffcf"
-"_size" "281243"
+"_change_number" "31174429"
+"_sha" "f1fb93869c8b014e82679eac68b23e152fcaa487"
+"_size" "305063"
