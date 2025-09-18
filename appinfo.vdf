@@ -113,6 +113,12 @@
 				"size" "95930"
 				"download" "17808"
 			}
+			"156_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
 			"legacy_compatibility_branch"
 			{
 				"gid" "2462896452508972077"
@@ -257,15 +263,21 @@
 		{
 			"public"
 			{
-				"gid" "392801062542660528"
-				"size" "43820224"
-				"download" "11781792"
+				"gid" "1961364145751652414"
+				"size" "44167928"
+				"download" "14306816"
 			}
 			"155_compatibility_branch"
 			{
 				"gid" "392801062542660528"
 				"size" "43820224"
 				"download" "11781792"
+			}
+			"156_compatibility_branch"
+			{
+				"gid" "1961364145751652414"
+				"size" "44167928"
+				"download" "14306816"
 			}
 			"legacy_compatibility_branch"
 			{
@@ -395,9 +407,9 @@
 			}
 			"public_beta"
 			{
-				"gid" "392801062542660528"
-				"size" "43820224"
-				"download" "11781792"
+				"gid" "1961364145751652414"
+				"size" "44167928"
+				"download" "14306816"
 			}
 		}
 	}
@@ -405,14 +417,20 @@
 	{
 		"public"
 		{
-			"buildid" "18889125"
-			"timeupdated" "1751528597"
+			"buildid" "19810082"
+			"timeupdated" "1758180217"
 		}
 		"155_compatibility_branch"
 		{
 			"buildid" "18889125"
 			"description" "1.55 compatibility branch"
 			"timeupdated" "1750174199"
+		}
+		"156_compatibility_branch"
+		{
+			"buildid" "19810082"
+			"description" "1.56 compatibility branch"
+			"timeupdated" "1756720135"
 		}
 		"legacy_compatibility_branch"
 		{
@@ -542,9 +560,9 @@
 		}
 		"public_beta"
 		{
-			"buildid" "18889125"
-			"description" "1.55 support branch (beta)"
-			"timeupdated" "1750174156"
+			"buildid" "19810082"
+			"description" "1.56 support branch (beta)"
+			"timeupdated" "1756720147"
 		}
 	}
 	"privatebranches" "1"
@@ -555,6 +573,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "29874601"
-"_sha" "f0cacf8b358ba16b9cebee14e3a5b6ed8489a519"
-"_size" "12122"
+"_change_number" "31174468"
+"_sha" "9706811924eb7dccbf483e77cf98859098f6121d"
+"_size" "12521"
