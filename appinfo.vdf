@@ -39,6 +39,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1675123200"
 		"tested_build_id" "9870300"
 		"tests"
@@ -69,6 +70,24 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_LauncherInteractionIssues"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -81,7 +100,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-7.0-6"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Cities: Skylines"
@@ -150,7 +171,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1742911086"
+	"store_asset_mtime" "1746722565"
 	"associations"
 	{
 		"0"
@@ -371,9 +392,9 @@
 		{
 			"public"
 			{
-				"gid" "4329712469867681105"
-				"size" "16246130231"
-				"download" "6082576608"
+				"gid" "7904759305530420440"
+				"size" "16436689129"
+				"download" "6152298912"
 			}
 		}
 	}
@@ -387,9 +408,9 @@
 		{
 			"public"
 			{
-				"gid" "2289251709085018652"
-				"size" "16278080499"
-				"download" "6187600912"
+				"gid" "5993955712214790740"
+				"size" "16468616669"
+				"download" "6257321008"
 			}
 		}
 	}
@@ -403,9 +424,9 @@
 		{
 			"public"
 			{
-				"gid" "7610638513553902521"
-				"size" "16237029902"
-				"download" "5911320912"
+				"gid" "240385948814719363"
+				"size" "16427584608"
+				"download" "5980703776"
 			}
 		}
 	}
@@ -2038,12 +2059,49 @@
 			}
 		}
 	}
+	"3731530"
+	{
+		"dlcappid" "3731530"
+	}
+	"3843397"
+	{
+		"dlcappid" "3731530"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+		}
+	}
+	"3843398"
+	{
+		"dlcappid" "3731530"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+	}
+	"3843399"
+	{
+		"dlcappid" "3731530"
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17627823"
-			"timeupdated" "1742892997"
+			"buildid" "20105382"
+			"timeupdated" "1758701090"
 		}
 	}
 	"privatebranches" "1"
@@ -2054,6 +2112,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "28130622"
-"_sha" "4623b5bc5c75be353a84020d09e3efee229fb993"
-"_size" "29252"
+"_change_number" "31279596"
+"_sha" "a84c9ba4153611d86c685954a87e5257dbcf43f1"
+"_size" "30074"
