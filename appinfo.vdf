@@ -516,15 +516,15 @@
 		{
 			"public"
 			{
-				"gid" "6545360233005390339"
-				"size" "33819968050"
-				"download" "31191052992"
+				"gid" "364672784395219183"
+				"size" "33821434907"
+				"download" "31192484144"
 			}
 			"public_beta"
 			{
-				"gid" "6545360233005390339"
-				"size" "33819968050"
-				"download" "31191052992"
+				"gid" "364672784395219183"
+				"size" "33821434907"
+				"download" "31192484144"
 			}
 			"oculus"
 			{
@@ -701,15 +701,15 @@
 		{
 			"public"
 			{
-				"gid" "3197833044041662848"
-				"size" "56713288"
-				"download" "19431712"
+				"gid" "2733204326052294941"
+				"size" "56714312"
+				"download" "19431856"
 			}
 			"public_beta"
 			{
-				"gid" "3197833044041662848"
-				"size" "56713288"
-				"download" "19431712"
+				"gid" "2733204326052294941"
+				"size" "56714312"
+				"download" "19431856"
 			}
 			"oculus"
 			{
@@ -886,15 +886,15 @@
 		{
 			"public"
 			{
-				"gid" "7930683108435816125"
+				"gid" "6680552239666154870"
 				"size" "52761584"
-				"download" "19891680"
+				"download" "19891664"
 			}
 			"public_beta"
 			{
-				"gid" "7930683108435816125"
+				"gid" "6680552239666154870"
 				"size" "52761584"
-				"download" "19891680"
+				"download" "19891664"
 			}
 			"oculus"
 			{
@@ -1070,15 +1070,15 @@
 		{
 			"public"
 			{
-				"gid" "8350854581678440101"
-				"size" "64744554"
-				"download" "22909552"
+				"gid" "1793823131129091765"
+				"size" "64744586"
+				"download" "22910736"
 			}
 			"public_beta"
 			{
-				"gid" "8350854581678440101"
-				"size" "64744554"
-				"download" "22909552"
+				"gid" "1793823131129091765"
+				"size" "64744586"
+				"download" "22910736"
 			}
 			"oculus"
 			{
@@ -16984,14 +16984,14 @@
 	{
 		"public"
 		{
-			"buildid" "20048998"
-			"timeupdated" "1758538973"
+			"buildid" "20108485"
+			"timeupdated" "1758788801"
 		}
 		"public_beta"
 		{
-			"buildid" "20048998"
+			"buildid" "20108485"
 			"description" "Open Beta for game version 1.56"
-			"timeupdated" "1758292607"
+			"timeupdated" "1758788754"
 		}
 		"oculus"
 		{
@@ -17164,6 +17164,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "31239993"
-"_sha" "2f0ac46cde3b057d5dcfb89f70766b4219a7ca16"
-"_size" "305063"
+"_change_number" "31301631"
+"_sha" "674689bc52e592e00063bb9ad68ca4de128dac2b"
+"_size" "305061"
