@@ -259,8 +259,8 @@
 	"store_tags"
 	{
 		"0" "1695"
-		"1" "6915"
-		"2" "3810"
+		"1" "3810"
+		"2" "6915"
 		"3" "122"
 		"4" "1662"
 		"5" "4182"
@@ -280,7 +280,7 @@
 		"19" "4747"
 	}
 	"review_score" "8"
-	"review_percentage" "83"
+	"review_percentage" "82"
 }
 "extended"
 {
@@ -344,15 +344,21 @@
 		{
 			"public"
 			{
+				"gid" "8273491840194846521"
+				"size" "2795333998"
+				"download" "2496811472"
+			}
+			"1.2map"
+			{
 				"gid" "6349351343833255785"
 				"size" "2694895984"
 				"download" "2458534400"
 			}
 			"outertest1.3"
 			{
-				"gid" "556745463389636393"
-				"size" "2793637504"
-				"download" "2494960896"
+				"gid" "8273491840194846521"
+				"size" "2795333998"
+				"download" "2496811472"
 			}
 		}
 	}
@@ -361,14 +367,20 @@
 	{
 		"public"
 		{
+			"buildid" "20160704"
+			"timeupdated" "1759135702"
+		}
+		"1.2map"
+		{
 			"buildid" "19796243"
-			"timeupdated" "1756547775"
+			"description" "拼接地块玩法"
+			"timeupdated" "1759135728"
 		}
 		"outertest1.3"
 		{
-			"buildid" "19796281"
+			"buildid" "20160704"
 			"description" "大地图版本分支"
-			"timeupdated" "1756548446"
+			"timeupdated" "1759052500"
 		}
 	}
 	"privatebranches" "1"
@@ -393,6 +405,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "30861934"
-"_sha" "b93e114c9aa9f704f83f0449390696ab0676e6eb"
-"_size" "7577"
+"_change_number" "31366552"
+"_sha" "a1f906c7db80abaf9ebc2010c3199504f4bbcf39"
+"_size" "7813"
