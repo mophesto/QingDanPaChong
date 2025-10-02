@@ -23,6 +23,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1695427200"
 		"tested_build_id" "12246767"
 		"tests"
@@ -53,6 +54,19 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -65,7 +79,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-8.0-4"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"small_capsule"
@@ -191,12 +207,12 @@
 		"14" "4328"
 		"15" "1698"
 		"16" "493"
-		"17" "6915"
-		"18" "26921"
-		"19" "4474"
+		"17" "26921"
+		"18" "4474"
+		"19" "6915"
 	}
 	"review_score" "5"
-	"review_percentage" "54"
+	"review_percentage" "53"
 }
 "extended"
 {
@@ -230,9 +246,9 @@
 		{
 			"public"
 			{
-				"gid" "7168323244484094641"
-				"size" "1065878888"
-				"download" "791199872"
+				"gid" "8741363605665316215"
+				"size" "767675343"
+				"download" "595892832"
 			}
 			"20231208"
 			{
@@ -252,6 +268,12 @@
 				"size" "1060767900"
 				"download" "784051152"
 			}
+			"20250929"
+			{
+				"gid" "8741363605665316215"
+				"size" "767675343"
+				"download" "595892832"
+			}
 		}
 	}
 	"2013243"
@@ -265,9 +287,9 @@
 		{
 			"public"
 			{
-				"gid" "8059496636628464923"
-				"size" "1065878888"
-				"download" "791199872"
+				"gid" "7938273123781739476"
+				"size" "767675343"
+				"download" "595892832"
 			}
 			"20231208"
 			{
@@ -287,6 +309,12 @@
 				"size" "1060767900"
 				"download" "784051152"
 			}
+			"20250929"
+			{
+				"gid" "7938273123781739476"
+				"size" "767675343"
+				"download" "595892832"
+			}
 		}
 	}
 	"2013244"
@@ -301,8 +329,8 @@
 	{
 		"public"
 		{
-			"buildid" "16314978"
-			"timeupdated" "1730901454"
+			"buildid" "20171693"
+			"timeupdated" "1759367918"
 		}
 		"20231208"
 		{
@@ -321,6 +349,12 @@
 			"buildid" "16277864"
 			"description" "通天飞舟版本（更新此版本会删档）"
 			"timeupdated" "1730607945"
+		}
+		"20250929"
+		{
+			"buildid" "20171693"
+			"description" "1.4.0超大版本更新（会删档）"
+			"timeupdated" "1759145645"
 		}
 	}
 }
@@ -350,6 +384,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26072461"
-"_sha" "f97a73bcfe99d86db76eed6ad6ce6c6a0feac3fc"
-"_size" "6173"
+"_change_number" "31430200"
+"_sha" "5110d5f6f5a2b70472804317d9ef52080c261d75"
+"_size" "6878"
