@@ -295,7 +295,7 @@
 		"19" "122"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -304,7 +304,7 @@
 	"developer" "Gamepires"
 	"publisher" "Gamepires"
 	"homepage" "http://www.scumgame.com"
-	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840,3596770"
+	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840,3596770,4062860"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -387,9 +387,9 @@
 		{
 			"public"
 			{
-				"gid" "6145088172564455149"
-				"size" "95934082072"
-				"download" "30667166720"
+				"gid" "8460575333739105705"
+				"size" "96562787376"
+				"download" "31379156256"
 			}
 		}
 	}
@@ -451,13 +451,13 @@
 	{
 		"public"
 		{
-			"buildid" "19839870"
-			"timeupdated" "1756907985"
+			"buildid" "20222587"
+			"timeupdated" "1759413583"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "30922614"
-"_sha" "06d265efd7984e39d1a7418028e855cd6a5e3072"
-"_size" "8294"
+"_change_number" "31441588"
+"_sha" "2a717d070a3276ed0fa2871fed938e1fe6127042"
+"_size" "8302"
