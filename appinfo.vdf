@@ -500,21 +500,15 @@
 		{
 			"public"
 			{
-				"gid" "703388324512726297"
-				"size" "4227697463"
-				"download" "2939549856"
+				"gid" "3922241924334880936"
+				"size" "4227898233"
+				"download" "2939806608"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "5978996668591746072"
 				"size" "3362828099"
 				"download" "2375034304"
-			}
-			"updatebeta"
-			{
-				"gid" "7834206112273674468"
-				"size" "4184131342"
-				"download" "2917602736"
 			}
 		}
 	}
@@ -528,21 +522,15 @@
 		{
 			"public"
 			{
-				"gid" "8063403489762830098"
-				"size" "4108116894"
-				"download" "2826028272"
+				"gid" "6448055315165981286"
+				"size" "4108317131"
+				"download" "2826292768"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "8093978131067739771"
 				"size" "3243206087"
 				"download" "2261774192"
-			}
-			"updatebeta"
-			{
-				"gid" "123642164537854717"
-				"size" "4064550295"
-				"download" "2804131920"
 			}
 		}
 	}
@@ -556,21 +544,15 @@
 		{
 			"public"
 			{
-				"gid" "1999511978834168015"
-				"size" "4086901438"
-				"download" "2820038992"
+				"gid" "7374110293944617406"
+				"size" "4087086318"
+				"download" "2820302208"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "824314026433670095"
 				"size" "3242738771"
 				"download" "2262919680"
-			}
-			"updatebeta"
-			{
-				"gid" "2620252263011590582"
-				"size" "4043321943"
-				"download" "2798037392"
 			}
 		}
 	}
@@ -579,20 +561,14 @@
 	{
 		"public"
 		{
-			"buildid" "20055346"
-			"timeupdated" "1758328384"
+			"buildid" "20230285"
+			"timeupdated" "1759445473"
 		}
 		"beforemacoschanges"
 		{
 			"buildid" "12576249"
 			"description" "r579121"
 			"timeupdated" "1698883383"
-		}
-		"updatebeta"
-		{
-			"buildid" "20023392"
-			"description" "Public Beta"
-			"timeupdated" "1758153486"
 		}
 	}
 	"privatebranches" "1"
@@ -647,6 +623,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31212868"
-"_sha" "6d9b4cd75ea0e2fae904c36bc6f4b4aa38c05b24"
-"_size" "13021"
+"_change_number" "31450939"
+"_sha" "aa5d47c0d9584cd29d496c8f77685ab34e76f5f2"
+"_size" "12549"
