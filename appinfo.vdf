@@ -45,8 +45,9 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1675209600"
-		"tested_build_id" "9797122"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1740528000"
+		"tested_build_id" "15801630"
 		"tests"
 		{
 			"0"
@@ -56,18 +57,18 @@
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"3"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"4"
 			{
@@ -80,6 +81,24 @@
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -87,12 +106,14 @@
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "0"
-			"small_text" "1"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-7.0-6"
-			"requires_h264" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "1"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controller_support" "full"
@@ -154,7 +175,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1718290467"
+	"store_asset_mtime" "1732787397"
 	"associations"
 	{
 		"0"
@@ -175,12 +196,12 @@
 		"3"
 		{
 			"type" "franchise"
-			"name" "Overcooked!"
+			"name" "Team17 Digital"
 		}
 		"4"
 		{
 			"type" "franchise"
-			"name" "Team17 Digital"
+			"name" "Overcooked!"
 		}
 	}
 	"primary_genre" "4"
@@ -291,13 +312,13 @@
 		"4" "597"
 		"5" "599"
 		"6" "5350"
-		"7" "4136"
-		"8" "7368"
-		"9" "4726"
+		"7" "7368"
+		"8" "4726"
+		"9" "4136"
 		"10" "1685"
 		"11" "7481"
-		"12" "4305"
-		"13" "4840"
+		"12" "4840"
+		"13" "4305"
 		"14" "9"
 		"15" "4182"
 		"16" "4508"
@@ -306,7 +327,7 @@
 		"19" "492"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -314,7 +335,7 @@
 	"remoteplaytogethertestingbranches" "default,fullmain,qa_staging_rc1,xplay1"
 	"developer" "Team17 Digital"
 	"publisher" "Team17 Digital"
-	"homepage" "https://www.team17.com/introducing-overcooked-all-you-can-eat/"
+	"homepage" "https://www.team17.com/games/overcooked-all-you-can-eat"
 	"listofdlc" "1528250"
 	"dlcavailableonstore" "1"
 }
@@ -413,108 +434,9 @@
 		{
 			"public"
 			{
-				"gid" "3729927846043242105"
-				"size" "9297424552"
-				"download" "7074249936"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta_qa"
-			{
-				"gid" "8DD4E13EBDE35FE09ABB2F7B8073A949"
-				"size" "EAC2B19271CCC2AA09B155C25341D42F"
-				"download" "27621063259385654ACED111E2BFDA24"
-			}
-			"compat"
-			{
-				"gid" "622792B2CE4BE6199EFE2EBEA6D19C65"
-				"size" "C4F4021619184F8975901DC31CDA7312"
-				"download" "6EE0C1BA4EFC4EBF623A971106C8B5FE"
-			}
-			"experimental"
-			{
-				"gid" "1E63F7E2A8D81F20ECA4D72FFEB94A65"
-				"size" "6516A7D6070C71C67424A576E25DFB3D"
-				"download" "1DEA37CCF41A9FA1DDBDAD88C750C1EF"
-			}
-			"external_videoeditor"
-			{
-				"gid" "036D73B1F60EC020472BBDF4EAE8CE79"
-				"size" "0B4B01D1F3E22E433AD01483588BD6A7"
-				"download" "1EC026C2AEFB55EE0D52B9823B8A0D0E"
-			}
-			"ghosttowngames"
-			{
-				"gid" "1A3A0202C8AC74C2A1943B4C461D74AB"
-				"size" "2085763FED050D6742EA6F91202C1581"
-				"download" "514ECA02C0A36BFEE4D4F83329370420"
-			}
-			"gold"
-			{
-				"gid" "9CAEA4594C509FDE1FB31972A183A608"
-				"size" "F0E826ABA70A59C1C28B69BC62F8D3D8"
-				"download" "FB4515FE92B16A2A5BB930FE4F9A3A52"
-			}
-			"qa_staging"
-			{
-				"gid" "BCFC3CB3717228F24790CEE189569DDF"
-				"size" "7EC1EB6AE9E53A827BB788EAF8B4C6C9"
-				"download" "A6A6B0E51A85023867D249ECD49305FF"
-			}
-			"twitchcon"
-			{
-				"gid" "29D9C6BDF3891F3403A6A91AB382DBFC"
-				"size" "A7A08BAC598F7F5361624CFCB51800D5"
-				"download" "2ACFE7E40EA42AE52332DD54190BD920"
-			}
-			"twitchrivals"
-			{
-				"gid" "EEF06B00229E58A9E872EE3FD3685C19"
-				"size" "B1D301BCF58CC7629C759499971A77B9"
-				"download" "0EAA32B649228784E2C8FA3BCCAEC104"
-			}
-			"usability"
-			{
-				"gid" "8FF8A8093825D8ABC0ED6216DE4C0CA3"
-				"size" "C51C85B480542B7F498748B648CC83BE"
-				"download" "BF56E981BEFEAA9CA5C5384908EFF965"
-			}
-			"wip_1"
-			{
-				"gid" "DD708434648A725D248087B10311A4F4"
-				"size" "10D145EF1751F2C44887D03744F3825D"
-				"download" "FA7A83C754117A478222710BB18C6DCF"
-			}
-			"xplay1"
-			{
-				"gid" "E58A6DA400E85B85291D3EFCDA29AAA2"
-				"size" "AC9FA47F80D6FA62AED97604905FEC1F"
-				"download" "E6653A363744F4CD2BC901BD23E65B5B"
-			}
-			"development"
-			{
-				"gid" "FCBD2FDBC29F93813ACB4A6BA68B3EC2"
-				"size" "B056119C21CD4015D388219A242438DB"
-				"download" "B7E5BA9497C18FE9531A3959AD99CF51"
-			}
-			"fullmain"
-			{
-				"gid" "FB4E8B07B5E2C2050D7E2553770A7AE1"
-				"size" "583F7D386A9514C5DD10B4C261F7CAA9"
-				"download" "D19731F00DA3BC8995BE3E0E1A12641C"
-			}
-			"qa_staging_rc1"
-			{
-				"gid" "D1CE2AC9463646ED6B370197AA13C50D"
-				"size" "6BD302F716810C23171F05720A2200DE"
-				"download" "B174DEECA7CDB002014632C8D0F08D4E"
-			}
-			"videocapture"
-			{
-				"gid" "6DDE4387B80A1C19A6BA59D29069BF54"
-				"size" "E5638AAB02BB2ED152333CC262FE4FE4"
-				"download" "3644DC8171C61CAD5B9643AFD64DE90B"
+				"gid" "2408912796229398041"
+				"size" "9297429128"
+				"download" "7074677424"
 			}
 		}
 	}
@@ -523,106 +445,11 @@
 	{
 		"public"
 		{
-			"buildid" "15801630"
-			"timeupdated" "1727355627"
-		}
-		"beta_qa"
-		{
-			"buildid" "10552211"
-			"pwdrequired" "1"
-			"timeupdated" "1676410613"
-		}
-		"compat"
-		{
-			"buildid" "8158530"
-			"pwdrequired" "1"
-			"timeupdated" "1660654737"
-		}
-		"experimental"
-		{
-			"buildid" "9081061"
-			"pwdrequired" "1"
-			"timeupdated" "1658505621"
-		}
-		"external_videoeditor"
-		{
-			"buildid" "9532587"
-			"pwdrequired" "1"
-			"timeupdated" "1663346036"
-		}
-		"ghosttowngames"
-		{
-			"buildid" "9500578"
-			"pwdrequired" "1"
-			"timeupdated" "1664789354"
-		}
-		"gold"
-		{
-			"buildid" "6406880"
-			"pwdrequired" "1"
-			"timeupdated" "1643624958"
-		}
-		"qa_staging"
-		{
-			"buildid" "8101260"
-			"pwdrequired" "1"
-			"timeupdated" "1643329846"
-		}
-		"twitchcon"
-		{
-			"buildid" "9500647"
-			"pwdrequired" "1"
-			"timeupdated" "1664365069"
-		}
-		"twitchrivals"
-		{
-			"buildid" "6914664"
-			"pwdrequired" "1"
-			"timeupdated" "1625240431"
-		}
-		"usability"
-		{
-			"buildid" "5614140"
-			"pwdrequired" "1"
-			"timeupdated" "1601458894"
-		}
-		"wip_1"
-		{
-			"buildid" "9887093"
-			"pwdrequired" "1"
-			"timeupdated" "1667850784"
-		}
-		"xplay1"
-		{
-			"buildid" "6590849"
-			"pwdrequired" "1"
-			"timeupdated" "1619192405"
-		}
-		"development"
-		{
-			"buildid" "15747254"
-			"pwdrequired" "1"
-			"timeupdated" "1726690275"
-		}
-		"fullmain"
-		{
-			"buildid" "15759703"
-			"pwdrequired" "1"
-			"timeupdated" "1726764325"
-		}
-		"qa_staging_rc1"
-		{
-			"buildid" "15801630"
-			"pwdrequired" "1"
-			"timeupdated" "1727135944"
-		}
-		"videocapture"
-		{
-			"buildid" "10440373"
-			"pwdrequired" "1"
-			"timeupdated" "1716372744"
+			"buildid" "20190181"
+			"timeupdated" "1759486144"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -640,6 +467,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25405849"
-"_sha" "2a0ed7e03ef533fe0b5185278df9183b70d21235"
-"_size" "12532"
+"_change_number" "31459379"
+"_sha" "fdeb78f0c10be5d0ad7a37e96c0ce8f0dec47b56"
+"_size" "8457"
