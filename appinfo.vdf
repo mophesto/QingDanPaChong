@@ -23,6 +23,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1656633600"
 		"tested_build_id" "6421824"
 		"tests"
@@ -48,6 +49,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -60,7 +69,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Bloodroots"
@@ -83,6 +94,44 @@
 			"pinned_position" "BottomCenter"
 			"width_pct" "92.2987164527421"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "92.2987164527421"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1659538163"
@@ -112,6 +161,7 @@
 		"category_23" "1"
 		"category_25" "1"
 		"category_28" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -162,31 +212,36 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "820540"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"store_tags"
 	{
-		"0" "1646"
-		"1" "4562"
-		"2" "1647"
-		"3" "1734"
-		"4" "4026"
-		"5" "5228"
-		"6" "4345"
-		"7" "4158"
-		"8" "4667"
+		"0" "4667"
+		"1" "4026"
+		"2" "4791"
+		"3" "5228"
+		"4" "4345"
+		"5" "1647"
+		"6" "4637"
+		"7" "1734"
+		"8" "4158"
 		"9" "19"
-		"10" "4791"
-		"11" "4182"
-		"12" "113"
-		"13" "21"
-		"14" "4106"
-		"15" "3993"
-		"16" "7481"
-		"17" "1773"
-		"18" "7948"
-		"19" "4637"
+		"10" "4182"
+		"11" "3993"
+		"12" "7948"
+		"13" "1646"
+		"14" "4562"
+		"15" "4106"
+		"16" "21"
+		"17" "7481"
+		"18" "1773"
+		"19" "1685"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -219,30 +274,9 @@
 		{
 			"public"
 			{
-				"gid" "4034538020904973591"
-				"size" "2179693133"
-				"download" "1635007568"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"alpha"
-			{
-				"gid" "5B28DC54059DF73BA6BD1171C47754C9"
-				"size" "56A46334E31E3C39FAAC41F9CE0ECACD"
-				"download" "DB22969FAD4AF007542F50320C9C025F"
-			}
-			"devbranch"
-			{
-				"gid" "2B1480AAED1DEA61ED5C78831C0BCFE3"
-				"size" "B3C99320836565BE04227DE1F557FA44"
-				"download" "7C4629371FCCBABFA713583F6773A0AA"
-			}
-			"evaluationbranch"
-			{
-				"gid" "F15E66D328589F64869A6E10C6BD9483"
-				"size" "215F6F9362B03D474F2EE6AFC0EEC45E"
-				"download" "1FC15AD24E57F565A3D04CE89788B0FD"
+				"gid" "1329114734867829595"
+				"size" "2179697709"
+				"download" "1635463792"
 			}
 		}
 	}
@@ -250,28 +284,11 @@
 	{
 		"public"
 		{
-			"buildid" "6421824"
-			"timeupdated" "1616455617"
-		}
-		"alpha"
-		{
-			"buildid" "4410305"
-			"pwdrequired" "1"
-			"timeupdated" "1574291289"
-		}
-		"devbranch"
-		{
-			"buildid" "6421824"
-			"pwdrequired" "1"
-			"timeupdated" "1616444180"
-		}
-		"evaluationbranch"
-		{
-			"buildid" "4207480"
-			"pwdrequired" "1"
-			"timeupdated" "1568820229"
+			"buildid" "20240050"
+			"timeupdated" "1759500690"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -292,6 +309,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22332387"
-"_sha" "555427b44a92fb576fdea7f6a36709cfc0e17fdd"
+"_change_number" "31464044"
+"_sha" "d01573ae0b53d45fcbfb0d33662c615dd36b04f2"
 "_size" "5414"
