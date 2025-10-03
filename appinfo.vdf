@@ -109,7 +109,9 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -123,33 +125,40 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "f9e3f725d8155943c91a338a860cdfd011bfe2a0/library_capsule.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "f9e3f725d8155943c91a338a860cdfd011bfe2a0/library_capsule_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "8f97910162ccf536e3be8f394e40b1e287be37cb/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "8f97910162ccf536e3be8f394e40b1e287be37cb/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "8f97910162ccf536e3be8f394e40b1e287be37cb/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "b612251cc0fd1d3e66aa22f5bb0509d7dbe1f0c7/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "b612251cc0fd1d3e66aa22f5bb0509d7dbe1f0c7/logo_2x.png"
 			}
 			"logo_position"
 			{
@@ -158,8 +167,19 @@
 				"height_pct" "60"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "c65874b74d1d002162a3082263df5dfdda44281a/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "c65874b74d1d002162a3082263df5dfdda44281a/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1749749208"
+	"store_asset_mtime" "1758562575"
 	"associations"
 	{
 		"0"
@@ -382,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "2013201794059508784"
-				"size" "565053974"
-				"download" "218243504"
+				"gid" "3731965593787605802"
+				"size" "565057769"
+				"download" "218244768"
 			}
 			"32bit-windows"
 			{
@@ -442,9 +462,9 @@
 			}
 			"preview"
 			{
-				"gid" "2013201794059508784"
-				"size" "565053974"
-				"download" "218243504"
+				"gid" "3731965593787605802"
+				"size" "565057769"
+				"download" "218244768"
 			}
 			"unity-2022-preview"
 			{
@@ -466,9 +486,9 @@
 		{
 			"public"
 			{
-				"gid" "1082425989015375837"
-				"size" "588764676"
-				"download" "234226160"
+				"gid" "4309698824190108681"
+				"size" "588769540"
+				"download" "234227616"
 			}
 			"32bit-windows"
 			{
@@ -526,9 +546,9 @@
 			}
 			"preview"
 			{
-				"gid" "1082425989015375837"
-				"size" "588764676"
-				"download" "234226160"
+				"gid" "4309698824190108681"
+				"size" "588769540"
+				"download" "234227616"
 			}
 			"unity-2022-preview"
 			{
@@ -550,9 +570,9 @@
 		{
 			"public"
 			{
-				"gid" "3658665455138611555"
-				"size" "510313970"
-				"download" "183928096"
+				"gid" "3845749554891944349"
+				"size" "510316858"
+				"download" "183928640"
 			}
 			"32bit-windows"
 			{
@@ -610,9 +630,9 @@
 			}
 			"preview"
 			{
-				"gid" "3658665455138611555"
-				"size" "510313970"
-				"download" "183928096"
+				"gid" "3845749554891944349"
+				"size" "510316858"
+				"download" "183928640"
 			}
 			"unity-2022-preview"
 			{
@@ -634,9 +654,9 @@
 		{
 			"public"
 			{
-				"gid" "976292708016980481"
-				"size" "558728355"
-				"download" "208373024"
+				"gid" "3891321211095394615"
+				"size" "558734337"
+				"download" "208375472"
 			}
 			"32bit-windows"
 			{
@@ -688,9 +708,9 @@
 			}
 			"preview"
 			{
-				"gid" "976292708016980481"
-				"size" "558728355"
-				"download" "208373024"
+				"gid" "3891321211095394615"
+				"size" "558734337"
+				"download" "208375472"
 			}
 			"unity-2022-preview"
 			{
@@ -710,9 +730,9 @@
 		{
 			"public"
 			{
-				"gid" "5821156796951235140"
-				"size" "1649496162"
-				"download" "1123790096"
+				"gid" "6378145235894822475"
+				"size" "1649496220"
+				"download" "1123790176"
 			}
 			"32bit-windows"
 			{
@@ -764,9 +784,9 @@
 			}
 			"preview"
 			{
-				"gid" "5821156796951235140"
-				"size" "1649496162"
-				"download" "1123790096"
+				"gid" "6378145235894822475"
+				"size" "1649496220"
+				"download" "1123790176"
 			}
 			"unity-2022-preview"
 			{
@@ -786,9 +806,9 @@
 		{
 			"public"
 			{
-				"gid" "6759376474645916851"
-				"size" "4833405"
-				"download" "292016"
+				"gid" "2405415749559683097"
+				"size" "4833467"
+				"download" "292000"
 			}
 			"32bit-windows"
 			{
@@ -840,9 +860,9 @@
 			}
 			"preview"
 			{
-				"gid" "6759376474645916851"
-				"size" "4833405"
-				"download" "292016"
+				"gid" "2405415749559683097"
+				"size" "4833467"
+				"download" "292000"
 			}
 			"unity-2022-preview"
 			{
@@ -856,8 +876,8 @@
 	{
 		"public"
 		{
-			"buildid" "20079418"
-			"timeupdated" "1758560440"
+			"buildid" "20227084"
+			"timeupdated" "1759427842"
 		}
 		"32bit-windows"
 		{
@@ -914,9 +934,9 @@
 		}
 		"preview"
 		{
-			"buildid" "20079418"
+			"buildid" "20227084"
 			"description" "Public test branch"
-			"timeupdated" "1758558716"
+			"timeupdated" "1759427036"
 		}
 		"unity-2022-preview"
 		{
@@ -950,6 +970,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31246605"
-"_sha" "f31160568940efddbe90c02c5f5e1e5a01a06505"
-"_size" "17626"
+"_change_number" "31446301"
+"_sha" "975dba7c7f02a6bdbf1936e8864c925af8637ae6"
+"_size" "18306"
