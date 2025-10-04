@@ -31,6 +31,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1668038400"
 		"tested_build_id" "9666919"
 		"tests"
@@ -56,6 +57,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -68,7 +77,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-7.0-5"
 			"requires_h264" "1"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "The Knight Witch"
@@ -93,6 +104,52 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "89.43990665110849"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "89.43990665110849"
+				"height_pct" "100"
+			}
 		}
 	}
 	"store_asset_mtime" "1679584729"
@@ -130,6 +187,7 @@
 		"category_46" "1"
 		"category_28" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -198,16 +256,16 @@
 	"store_tags"
 	{
 		"0" "1628"
-		"1" "4255"
-		"2" "7208"
+		"1" "7208"
+		"2" "4255"
 		"3" "791774"
-		"4" "4166"
-		"5" "1742"
-		"6" "3834"
-		"7" "4885"
+		"4" "4885"
+		"5" "4166"
+		"6" "1742"
+		"7" "3834"
 		"8" "6426"
-		"9" "21"
-		"10" "4758"
+		"9" "4758"
+		"10" "21"
 		"11" "19"
 		"12" "4106"
 		"13" "6971"
@@ -219,7 +277,7 @@
 		"19" "4136"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -267,60 +325,9 @@
 		{
 			"public"
 			{
-				"gid" "3072998543053504952"
-				"size" "11565199721"
-				"download" "1312351984"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"day1patch"
-			{
-				"gid" "CF7330CF3D918DAD35EBBF100A5C9326"
-				"size" "0018D86D257C354CC333C44633514844"
-				"download" "E142C68C6AC9BA5364C440E165DA12EB"
-			}
-			"demo"
-			{
-				"gid" "09AE87D142D07336736B79057A836A71"
-				"size" "E5EA18607FF84E236A616B1D61A1A197"
-				"download" "23A9600048C3F216995A0486F1322707"
-			}
-			"develop"
-			{
-				"gid" "9DCD69F953C915A514D26953A3F70CCF"
-				"size" "FFD4C2775E0E3026C0C786F5834E3C0E"
-				"download" "5977193A1DB7DDB970C142292EA74D71"
-			}
-			"friendsandfamily"
-			{
-				"gid" "F7006A6AC21B649FACCED0A2A6902EAB"
-				"size" "2D30096AE1D850D8D0C86A313883270D"
-				"download" "FE9FA7D801241457B7992243681D59C1"
-			}
-			"milestones"
-			{
-				"gid" "B8C73F58B1E158C3CC05563174108D13"
-				"size" "9A8DBDCEA733AE0DC022D3C4B62368A8"
-				"download" "79E5525A61485C92F335AC0E2E6C6202"
-			}
-			"press"
-			{
-				"gid" "07CFE06CCA2E0C2D39E598B4F115286A"
-				"size" "9FF4BE57BF7075E923CDDF8E4CE54978"
-				"download" "C1C6BEBADD74296B4A8D2EE88D8E8DE5"
-			}
-			"trailer"
-			{
-				"gid" "F90C0CCB27C996FCE34AF74F896B457B"
-				"size" "6EB31A957A60E648FDD4C34C54E8A2F7"
-				"download" "AFCAF091ABCB7815DA8D5895772511DA"
-			}
-			"usability"
-			{
-				"gid" "BDE5C6134D483F3085A283274AC7D020"
-				"size" "88427578DAC758233B6FCBF2D695593F"
-				"download" "91F1F4E141195661A1D94FD29C9BEB26"
+				"gid" "6172446917366651551"
+				"size" "11565201553"
+				"download" "1312869488"
 			}
 		}
 	}
@@ -328,58 +335,11 @@
 	{
 		"public"
 		{
-			"buildid" "10130787"
-			"timeupdated" "1671706857"
-		}
-		"day1patch"
-		{
-			"buildid" "10130787"
-			"pwdrequired" "1"
-			"timeupdated" "1670867852"
-		}
-		"demo"
-		{
-			"buildid" "9062910"
-			"pwdrequired" "1"
-			"timeupdated" "1657016616"
-		}
-		"develop"
-		{
-			"buildid" "9407654"
-			"pwdrequired" "1"
-			"timeupdated" "1661767924"
-		}
-		"friendsandfamily"
-		{
-			"buildid" "9407654"
-			"pwdrequired" "1"
-			"timeupdated" "1661767932"
-		}
-		"milestones"
-		{
-			"buildid" "9407654"
-			"pwdrequired" "1"
-			"timeupdated" "1661767944"
-		}
-		"press"
-		{
-			"buildid" "9902900"
-			"pwdrequired" "1"
-			"timeupdated" "1668592177"
-		}
-		"trailer"
-		{
-			"buildid" "9302190"
-			"pwdrequired" "1"
-			"timeupdated" "1660291878"
-		}
-		"usability"
-		{
-			"buildid" "8664949"
-			"pwdrequired" "1"
-			"timeupdated" "1665419520"
+			"buildid" "20204466"
+			"timeupdated" "1759580442"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -400,6 +360,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21662830"
-"_sha" "6b72bfbc9397393be7dc92ab927e783e1b7c396b"
-"_size" "7525"
+"_change_number" "31479908"
+"_sha" "972acd1827ff3d429eeb0ad10bfe20a9e81041c6"
+"_size" "6309"
