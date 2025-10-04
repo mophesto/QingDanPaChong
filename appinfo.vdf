@@ -53,7 +53,7 @@
 		"sc_schinese" "反恐精英：全球攻势"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1759448089"
+	"timeline_marker_updated" "1759533427"
 	"timeline_marker_svg" "0eeacc724c77e1f5abeeba4fb542f45bad894470/markers.svg"
 	"content_descriptors"
 	{
@@ -617,6 +617,10 @@
 	"steamdecktouchscreen" "1"
 	"installscriptsignature" "8a80c9a3a8ab75b8f133929a0e89978531d7e49a074d6a305ca47097c268f18c6522ccca65138f831f327afcbcaea43cee8e6861f353c597c86feab0c2fd6562bd3ab6c72ad34e861e421315af3054c76933c9d882d9476bde6098152a5bedfcd2103591a91b27bb95c8c1d4519684542790e6cbd93144e8a5b77ec8298f80cd"
 	"installscriptoverride" "1"
+	"externalarguments"
+	{
+		"allowunknown" "1"
+	}
 	"cegpublickey" "30819D300D06092A864886F70D010101050003818B0030818702818100A2E1BC73B8542963E95838CFD770CE44881742E9B49D951A54AEBE7345BDFCB19F08B63B9CF84A60FF0DAE381A9455C4D54902EB68831BA4D34C1A9A97000AB8C1782A4A2B48898430BD62CCEAD799207BBA2D19673133C920896318F58AA5626E5615F5CDE8C170855977837D474AAF4EF116D68CDE1004A9022BE6708EE913020111"
 	"checkguid" "client.dll"
 }
@@ -669,7 +673,7 @@
 		{
 			"public"
 			{
-				"gid" "6061301630315337035"
+				"gid" "872180701417967550"
 				"size" "8"
 				"download" "64"
 			}
@@ -728,7 +732,7 @@
 		{
 			"public"
 			{
-				"gid" "2561636185772213094"
+				"gid" "6329574071267115952"
 				"size" "8"
 				"download" "64"
 			}
@@ -783,7 +787,7 @@
 		{
 			"public"
 			{
-				"gid" "8737565178963227946"
+				"gid" "461892318805011668"
 				"size" "8"
 				"download" "64"
 			}
@@ -841,7 +845,7 @@
 		{
 			"public"
 			{
-				"gid" "6251392568128597993"
+				"gid" "5029129117724470002"
 				"size" "8"
 				"download" "64"
 			}
@@ -889,7 +893,7 @@
 		{
 			"public"
 			{
-				"gid" "7568955082579359925"
+				"gid" "456362640143114541"
 				"size" "8"
 				"download" "64"
 			}
@@ -937,7 +941,7 @@
 		{
 			"public"
 			{
-				"gid" "6665687032369571854"
+				"gid" "487606893372218249"
 				"size" "8"
 				"download" "64"
 			}
@@ -985,7 +989,7 @@
 		{
 			"public"
 			{
-				"gid" "2186600495686577682"
+				"gid" "1325829674242676344"
 				"size" "8"
 				"download" "64"
 			}
@@ -1033,7 +1037,7 @@
 		{
 			"public"
 			{
-				"gid" "2268636851149424636"
+				"gid" "7307035850064246240"
 				"size" "8"
 				"download" "64"
 			}
@@ -1085,9 +1089,9 @@
 		{
 			"public"
 			{
-				"gid" "766747298687745227"
-				"size" "49214255644"
-				"download" "41493262320"
+				"gid" "1016023034118768778"
+				"size" "48751203590"
+				"download" "41071311328"
 			}
 			"1.40.8.8"
 			{
@@ -1125,9 +1129,9 @@
 		{
 			"public"
 			{
-				"gid" "5604144259077984031"
-				"size" "8112064131"
-				"download" "5260828096"
+				"gid" "805170579354276441"
+				"size" "6737379722"
+				"download" "4401377328"
 			}
 			"1.40.8.8"
 			{
@@ -1206,9 +1210,9 @@
 		{
 			"public"
 			{
-				"gid" "6042021640223382054"
-				"size" "7660677271"
-				"download" "4911925232"
+				"gid" "4696256778397078942"
+				"size" "6285992414"
+				"download" "4052495104"
 			}
 			"1.40.8.8"
 			{
@@ -1300,9 +1304,9 @@
 		{
 			"public"
 			{
-				"gid" "5761008494866113293"
-				"size" "1924745196"
-				"download" "500044240"
+				"gid" "1062594966699625723"
+				"size" "1924620324"
+				"download" "499980256"
 			}
 			"1.40.8.8"
 			{
@@ -1335,8 +1339,8 @@
 	{
 		"public"
 		{
-			"buildid" "20230584"
-			"timeupdated" "1759448071"
+			"buildid" "20246812"
+			"timeupdated" "1759533416"
 		}
 		"csgo_legacy"
 		{
@@ -1389,6 +1393,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "31451483"
-"_sha" "a6191ba7635c60cee67743ad2a3eeb5293a45f1e"
-"_size" "25759"
+"_change_number" "31473435"
+"_sha" "a92e798a8aa72a3f71293cf617ca6b28e437e1cc"
+"_size" "25808"
