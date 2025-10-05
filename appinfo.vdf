@@ -38,6 +38,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1653696000"
 		"tested_build_id" "8406004"
 		"tests"
@@ -58,6 +59,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -70,7 +79,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "LoveChoice"
@@ -102,6 +113,49 @@
 			"height_pct" "2"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "1"
+				"height_pct" "2"
+			}
+		}
+	}
 	"store_asset_mtime" "1652845513"
 	"associations"
 	{
@@ -130,6 +184,7 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -205,8 +260,8 @@
 		"2" "6426"
 		"3" "1742"
 		"4" "3799"
-		"5" "1756"
-		"6" "6971"
+		"5" "6971"
+		"6" "1756"
 		"7" "4726"
 		"8" "5411"
 		"9" "599"
@@ -214,23 +269,21 @@
 		"11" "492"
 		"12" "122"
 		"13" "21"
-		"14" "493"
-		"15" "11014"
-		"16" "1664"
-		"17" "3871"
+		"14" "11014"
+		"15" "1664"
+		"16" "3871"
+		"17" "493"
 		"18" "4085"
 		"19" "4252"
 	}
 	"review_score" "8"
-	"review_percentage" "94"
+	"review_percentage" "92"
 }
 "extended"
 {
 	"developer" "Akaba Studio"
 	"publisher" "Akaba Studio"
 	"homepage" "https://akabastudio.com/lovechoice/"
-	"listofdlc" "942430,1111070,1156960"
-	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -271,7 +324,7 @@
 "depots"
 {
 	"baselanguages" "english,schinese,tchinese,japanese"
-	"hasdepotsindlc" "1"
+	"hasdepotsindlc" "0"
 	"939401"
 	{
 		"config"
@@ -282,24 +335,15 @@
 		{
 			"public"
 			{
-				"gid" "8128828153018101743"
-				"size" "1125775086"
-				"download" "172550352"
+				"gid" "1452680823828401271"
+				"size" "1124764267"
+				"download" "180456944"
 			}
 			"old_version"
 			{
 				"gid" "6704872954938517058"
 				"size" "1092691349"
 				"download" "160175088"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "939412660BDD6DE7F1CCD10D0C572C36"
-				"size" "568FDD17EFCC299C54945D859535622F"
-				"download" "ABBE4867FCF70DD2CDDF5773600F8D22"
 			}
 		}
 	}
@@ -313,24 +357,15 @@
 		{
 			"public"
 			{
-				"gid" "3680801226285746936"
-				"size" "1120023714"
-				"download" "171461456"
+				"gid" "6341799980352308586"
+				"size" "1117947481"
+				"download" "178269856"
 			}
 			"old_version"
 			{
 				"gid" "2565893437063881177"
 				"size" "1109669841"
 				"download" "165837744"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "CF8C933135043102F88BB2858C0FE3D8"
-				"size" "95080999DD215E75488CE66003DB51DA"
-				"download" "B549804E7D9ED66C36A777EAC9A8EDB6"
 			}
 		}
 	}
@@ -344,9 +379,9 @@
 		{
 			"public"
 			{
-				"gid" "3278088939776325203"
-				"size" "1172110650"
-				"download" "174294064"
+				"gid" "576594405830980143"
+				"size" "1164121088"
+				"download" "180663088"
 			}
 			"old_version"
 			{
@@ -355,19 +390,9 @@
 				"download" "166801872"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "26331AC96528027AEB035DFA66DE671E"
-				"size" "870BE3D968F8794DAF40D11C24A98D23"
-				"download" "27CD5534F7FA5B08F396E7E2002F2AC9"
-			}
-		}
 	}
 	"942430"
 	{
-		"dlcappid" "942430"
 		"manifests"
 		{
 			"public"
@@ -381,21 +406,11 @@
 				"gid" "388837456609811850"
 				"size" "139121425"
 				"download" "128211920"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "7D51114AECA7F57A2210891F9CFD98EC"
-				"size" "2BCC1A39CC82CD2C02A9E0DE81B449E3"
-				"download" "092FE45648C8EDAD35DC7C75A256EDA7"
 			}
 		}
 	}
 	"1111070"
 	{
-		"dlcappid" "1111070"
 		"manifests"
 		{
 			"public"
@@ -409,21 +424,11 @@
 				"gid" "6995412353502022893"
 				"size" "158284956"
 				"download" "144676736"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "7EF916559D2BEF2D8CDD8EF604CE53A2"
-				"size" "967D23C47D559509DCBFD2DEFDE14587"
-				"download" "138B616E157CFD5FE933F3BE00701057"
 			}
 		}
 	}
 	"1156960"
 	{
-		"dlcappid" "1156960"
 		"manifests"
 		{
 			"public"
@@ -439,29 +444,13 @@
 				"download" "159695136"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"steam_china_only"
-			{
-				"gid" "63EFD4DE3DE04FA91C7277E2CF507BDC"
-				"size" "C74918AF664763C76BB7331E69889C46"
-				"download" "70A95E0FDC1A1D00673361BA8EFE13A1"
-			}
-		}
 	}
 	"branches"
 	{
-		"steam_china_only"
-		{
-			"sc_schinese" "仅中国"
-			"buildid" "10471501"
-			"pwdrequired" "1"
-			"timeupdated" "1675433120"
-		}
 		"public"
 		{
-			"buildid" "10471501"
-			"timeupdated" "1675433109"
+			"buildid" "20255102"
+			"timeupdated" "1759609592"
 		}
 		"old_version"
 		{
@@ -470,6 +459,7 @@
 			"timeupdated" "1674890858"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -500,6 +490,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22397662"
-"_sha" "ed2cd4d2ffc70dc84be0fcbe570aadd3ad8d7f4a"
-"_size" "9081"
+"_change_number" "31484058"
+"_sha" "e22fc55d84e1fb0182458555146250333658b2cb"
+"_size" "8537"
