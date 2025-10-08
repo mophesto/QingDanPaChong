@@ -36,7 +36,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
-		"steamos_compatibility" "0"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1655769600"
 		"tested_build_id" "8946632"
 		"tests"
@@ -64,6 +64,11 @@
 		}
 		"steamos_tests"
 		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
 		}
 		"configuration"
 		{
@@ -77,7 +82,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "斩妖Raksasi"
@@ -204,7 +211,6 @@
 		"category_43" "1"
 		"category_45" "1"
 		"category_46" "1"
-		"category_59" "1"
 		"category_55" "1"
 		"category_56" "1"
 		"category_57" "1"
@@ -264,8 +270,8 @@
 		"5" "21"
 		"6" "3959"
 		"7" "492"
-		"8" "4182"
-		"9" "1646"
+		"8" "1646"
+		"9" "4182"
 		"10" "5125"
 		"11" "1716"
 		"12" "4604"
@@ -275,7 +281,7 @@
 		"16" "4085"
 		"17" "4345"
 		"18" "493"
-		"19" "12095"
+		"19" "122"
 	}
 	"review_score" "8"
 	"review_percentage" "84"
@@ -336,9 +342,9 @@
 		{
 			"public"
 			{
-				"gid" "3454589257780318910"
-				"size" "628691357"
-				"download" "482052304"
+				"gid" "4401154892575355236"
+				"size" "629609549"
+				"download" "509793136"
 			}
 		}
 	}
@@ -365,9 +371,9 @@
 		{
 			"public"
 			{
-				"gid" "5648904487708250034"
-				"size" "653078174"
-				"download" "482502944"
+				"gid" "7874243850000938478"
+				"size" "664183362"
+				"download" "523282176"
 			}
 		}
 	}
@@ -407,8 +413,8 @@
 	{
 		"public"
 		{
-			"buildid" "18494712"
-			"timeupdated" "1747480624"
+			"buildid" "20289870"
+			"timeupdated" "1759914579"
 		}
 	}
 	"privatebranches" "1"
@@ -451,6 +457,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29039364"
-"_sha" "1e8e7ab246ef962d43bb7bf106381c0b2aa81ecc"
-"_size" "7972"
+"_change_number" "31545330"
+"_sha" "ebcceb04ba31504dca2e82c3a5c47a6dd92c353f"
+"_size" "8101"
