@@ -528,9 +528,9 @@
 			}
 			"oculus"
 			{
-				"gid" "3970109721501251882"
-				"size" "33821434861"
-				"download" "31192491024"
+				"gid" "7705725865090857209"
+				"size" "33908004003"
+				"download" "31278924272"
 			}
 			"oculus_previous"
 			{
@@ -713,7 +713,7 @@
 			}
 			"oculus"
 			{
-				"gid" "116358400701966950"
+				"gid" "5011677723279924807"
 				"size" "57537048"
 				"download" "19746512"
 			}
@@ -1070,15 +1070,15 @@
 		{
 			"public"
 			{
-				"gid" "6291821560291712121"
+				"gid" "2370811556091179230"
 				"size" "64744586"
-				"download" "22910720"
+				"download" "22911472"
 			}
 			"public_beta"
 			{
-				"gid" "6291821560291712121"
+				"gid" "2370811556091179230"
 				"size" "64744586"
-				"download" "22910720"
+				"download" "22911472"
 			}
 			"oculus"
 			{
@@ -16967,9 +16967,9 @@
 			}
 			"oculus"
 			{
-				"gid" "4627958883796020328"
-				"size" "86581001"
-				"download" "86437856"
+				"gid" "1123451156927013286"
+				"size" "0"
+				"download" "0"
 			}
 			"temporary_1_56"
 			{
@@ -16984,20 +16984,20 @@
 	{
 		"public"
 		{
-			"buildid" "20235200"
-			"timeupdated" "1759769831"
+			"buildid" "20283420"
+			"timeupdated" "1759841067"
 		}
 		"public_beta"
 		{
-			"buildid" "20235200"
+			"buildid" "20283420"
 			"description" "Open Beta for game version 1.56"
-			"timeupdated" "1759769585"
+			"timeupdated" "1759840893"
 		}
 		"oculus"
 		{
-			"buildid" "20126182"
+			"buildid" "20292000"
 			"description" "Oculus+OpenVR+OpenXR - 1.56"
-			"timeupdated" "1758876877"
+			"timeupdated" "1759866562"
 		}
 		"oculus_previous"
 		{
@@ -17164,6 +17164,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "31509482"
-"_sha" "68cc69ea7b4550548f4fa817d25ed8b9d8471cf3"
-"_size" "305049"
+"_change_number" "31534281"
+"_sha" "7209a028bdba3ab21ebd820849a49b9323ae08ac"
+"_size" "305036"
