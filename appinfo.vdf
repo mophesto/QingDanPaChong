@@ -30,6 +30,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1655251200"
 		"tested_build_id" "8860185"
 		"tests"
@@ -55,6 +56,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -67,7 +76,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controller_support" "partial"
@@ -91,6 +102,46 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "50"
 			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
 		}
 	}
 	"store_asset_mtime" "1656582502"
@@ -124,6 +175,7 @@
 		"category_18" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -172,8 +224,8 @@
 		"0" "1628"
 		"1" "3964"
 		"2" "19"
-		"3" "4182"
-		"4" "4106"
+		"3" "4106"
+		"4" "4182"
 		"5" "3993"
 		"6" "4026"
 		"7" "21"
@@ -181,14 +233,13 @@
 		"9" "29482"
 		"10" "3871"
 		"11" "3834"
-		"12" "1625"
-		"13" "5379"
-		"14" "492"
-		"15" "1684"
-		"16" "1756"
+		"12" "5379"
+		"13" "1625"
+		"14" "1684"
+		"15" "1756"
 	}
 	"review_score" "5"
-	"review_percentage" "66"
+	"review_percentage" "68"
 }
 "extended"
 {
@@ -224,60 +275,9 @@
 		{
 			"public"
 			{
-				"gid" "7227936368607136697"
-				"size" "936878944"
-				"download" "563974656"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"external"
-			{
-				"gid" "F4E46B90CE453951B9D0676D9F3C371E"
-				"size" "DBA9F3E6F6DC7BEF9E0A46C80215088E"
-				"download" "801D0865B6FF6D71D7FC048A15B3174B"
-			}
-			"external_demo"
-			{
-				"gid" "8A3FC9D0194ACF80B0FEFCD8CEA6DA06"
-				"size" "6190D75C07B40B64961CF4A7279B59BF"
-				"download" "7AB1BA4ABD90B53496EAC0C0FB313215"
-			}
-			"internal"
-			{
-				"gid" "155F4739174B354DBB634FFDF547851B"
-				"size" "08676C88E1C54D82A6B359CD5839295A"
-				"download" "FA01AF78FED5E7A9B6B9956C30182CB7"
-			}
-			"internal_test"
-			{
-				"gid" "FE53D1F16CF337C42161D18A8BFCC5F1"
-				"size" "AFD5A610FA5AC62EDE3DF4C228E6F396"
-				"download" "59F05A98C323753DE4BD93EF26CC8CF1"
-			}
-			"partners"
-			{
-				"gid" "BE7EBE808A430972C0742BA0DDD98BA5"
-				"size" "2DD190D081915E18340A7ABF8B524D52"
-				"download" "FC7983E083544095377BD8C90DB72173"
-			}
-			"partners_2"
-			{
-				"gid" "1DEB9F05B70964BECB4706D5AC75C43F"
-				"size" "D3998E28E95885C6CACA06AA42BF6F2D"
-				"download" "383D1427BB2700F6FE7DFC172B2003DD"
-			}
-			"partners_demo"
-			{
-				"gid" "FE598D661991F7EFD0711C9F4FC1ACD8"
-				"size" "0AF8119FB06B3B95FAFAA69B7DCDEEC0"
-				"download" "3F1047ED70092F54F8CC7FE0DB3492BE"
-			}
-			"press"
-			{
-				"gid" "87D53A9888CB1051923E73E6C7BB8BCD"
-				"size" "85FA3DC00BCC0C3A601B618D5915B526"
-				"download" "D5B029BC226862BF4099D5414FEC8C9D"
+				"gid" "1992223667585101847"
+				"size" "936881848"
+				"download" "564490832"
 			}
 		}
 	}
@@ -293,72 +293,16 @@
 				"download" "29031920"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"partners_2"
-			{
-				"gid" "1EAEA37FBAC83B6D8DD06C6074872969"
-				"size" "FF1C6F772238287D9DA232884D379250"
-				"download" "4C91A87DAA74FAFA79B983C889B30D41"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "11114856"
-			"timeupdated" "1682687088"
-		}
-		"external"
-		{
-			"buildid" "11114136"
-			"pwdrequired" "1"
-			"timeupdated" "1682683282"
-		}
-		"external_demo"
-		{
-			"buildid" "8499687"
-			"pwdrequired" "1"
-			"timeupdated" "1649155535"
-		}
-		"internal"
-		{
-			"buildid" "11104769"
-			"pwdrequired" "1"
-			"timeupdated" "1685340524"
-		}
-		"internal_test"
-		{
-			"buildid" "8865928"
-			"pwdrequired" "1"
-			"timeupdated" "1655375354"
-		}
-		"partners"
-		{
-			"buildid" "9478955"
-			"pwdrequired" "1"
-			"timeupdated" "1662683321"
-		}
-		"partners_2"
-		{
-			"buildid" "8932714"
-			"pwdrequired" "1"
-			"timeupdated" "1655199830"
-		}
-		"partners_demo"
-		{
-			"buildid" "8270664"
-			"pwdrequired" "1"
-			"timeupdated" "1647344847"
-		}
-		"press"
-		{
-			"buildid" "8817914"
-			"pwdrequired" "1"
-			"timeupdated" "1653660642"
+			"buildid" "20335100"
+			"timeupdated" "1760100324"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -379,6 +323,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22048949"
-"_sha" "cd19bb1bd544b6a65284675fc97a33bbe04ee075"
-"_size" "7272"
+"_change_number" "31595082"
+"_sha" "9049cfc0c4f3faa1f781fe2d0e4bc5b0b08c5f99"
+"_size" "5627"
