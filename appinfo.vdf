@@ -32,7 +32,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"steamos_compatibility" "0"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1681948800"
 		"tested_build_id" "11022875"
 		"tests"
@@ -65,6 +65,21 @@
 		}
 		"steamos_tests"
 		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
 		}
 		"configuration"
 		{
@@ -78,7 +93,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-8.0-1"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Fabledom"
@@ -161,7 +178,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1745317880"
+	"store_asset_mtime" "1753925461"
 	"associations"
 	{
 		"0"
@@ -258,8 +275,8 @@
 	"store_tags"
 	{
 		"0" "4328"
-		"1" "1654"
-		"2" "220585"
+		"1" "220585"
+		"2" "1654"
 		"3" "3810"
 		"4" "4695"
 		"5" "6310"
@@ -275,11 +292,11 @@
 		"15" "9"
 		"16" "22602"
 		"17" "4136"
-		"18" "4305"
-		"19" "12472"
+		"18" "12472"
+		"19" "4305"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -315,9 +332,9 @@
 		{
 			"public"
 			{
-				"gid" "2922201590293598515"
-				"size" "4030914299"
-				"download" "1450680912"
+				"gid" "6052921889313503744"
+				"size" "4030914699"
+				"download" "1450872080"
 			}
 			"fabledom_1.07_update"
 			{
@@ -325,20 +342,32 @@
 				"size" "4029864651"
 				"download" "1450702752"
 			}
+			"fabledom_1.08_update"
+			{
+				"gid" "758879077057706920"
+				"size" "4002888747"
+				"download" "1472993952"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "18457870"
-			"timeupdated" "1747316016"
+			"buildid" "20305108"
+			"timeupdated" "1760098985"
 		}
 		"fabledom_1.07_update"
 		{
 			"buildid" "18069119"
 			"description" "Beta branch for 1.07 update of Fabledom"
 			"timeupdated" "1744362967"
+		}
+		"fabledom_1.08_update"
+		{
+			"buildid" "20111086"
+			"description" "Beta branch for 1.08 update of Fabledom"
+			"timeupdated" "1759408448"
 		}
 	}
 	"privatebranches" "1"
@@ -391,6 +420,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "29003384"
-"_sha" "17d088d0279d3cf5374391acfbb4fc2c31a12974"
-"_size" "7191"
+"_change_number" "31594642"
+"_sha" "f9fa230b1a9dec50700d10415723bf778c4a2186"
+"_size" "7866"
