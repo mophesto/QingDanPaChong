@@ -33,8 +33,9 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
-		"test_timestamp" "1655424000"
-		"tested_build_id" "8943310"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1741046400"
+		"tested_build_id" "17548715"
 		"tests"
 		{
 			"0"
@@ -45,17 +46,30 @@
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
-			"supported_input" "other"
+			"supported_input" "gamepad"
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
@@ -63,9 +77,11 @@
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-7.0-3"
+			"recommended_runtime" "native"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
 		}
 	}
 	"controllertagwizard" "1"
@@ -267,8 +283,8 @@
 		"3" "1716"
 		"4" "42804"
 		"5" "1773"
-		"6" "17389"
-		"7" "3964"
+		"6" "3964"
+		"7" "17389"
 		"8" "6426"
 		"9" "4004"
 		"10" "4166"
@@ -364,9 +380,9 @@
 		{
 			"public"
 			{
-				"gid" "3007503374753021080"
-				"size" "111937415"
-				"download" "103614080"
+				"gid" "3541513325919491168"
+				"size" "112125161"
+				"download" "103062544"
 			}
 			"v1.39"
 			{
@@ -376,9 +392,9 @@
 			}
 			"public-beta"
 			{
-				"gid" "3007503374753021080"
-				"size" "111937415"
-				"download" "103614080"
+				"gid" "3541513325919491168"
+				"size" "112125161"
+				"download" "103062544"
 			}
 			"v1.245c"
 			{
@@ -398,15 +414,15 @@
 		{
 			"public"
 			{
-				"gid" "9164166198265211659"
-				"size" "110126264"
-				"download" "102515920"
+				"gid" "2642625216354664599"
+				"size" "110494730"
+				"download" "101819632"
 			}
 			"public-beta"
 			{
-				"gid" "9164166198265211659"
-				"size" "110126264"
-				"download" "102515920"
+				"gid" "2642625216354664599"
+				"size" "110494730"
+				"download" "101819632"
 			}
 			"v1.245c"
 			{
@@ -426,15 +442,15 @@
 		{
 			"public"
 			{
-				"gid" "4277845374073078512"
-				"size" "113600173"
-				"download" "102900864"
+				"gid" "6642661981500402715"
+				"size" "113631791"
+				"download" "101986336"
 			}
 			"public-beta"
 			{
-				"gid" "4277845374073078512"
-				"size" "113600173"
-				"download" "102900864"
+				"gid" "6642661981500402715"
+				"size" "113631791"
+				"download" "101986336"
 			}
 			"v1.245c"
 			{
@@ -448,8 +464,8 @@
 	{
 		"public"
 		{
-			"buildid" "17548715"
-			"timeupdated" "1740755101"
+			"buildid" "20359000"
+			"timeupdated" "1760457866"
 		}
 		"v1.39"
 		{
@@ -459,9 +475,9 @@
 		}
 		"public-beta"
 		{
-			"buildid" "17548715"
-			"description" "v1.515f - join our discord to give feedback!"
-			"timeupdated" "1740755031"
+			"buildid" "20359000"
+			"description" "v1.515h - join our discord to give feedback!"
+			"timeupdated" "1760289935"
 		}
 		"v1.245c"
 		{
@@ -525,6 +541,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27719651"
-"_sha" "afcd065ec144448c128bdd7f742494bc495e869c"
-"_size" "8966"
+"_change_number" "31666117"
+"_sha" "d151566a2acb084689149962a16f6aefa669ab7a"
+"_size" "9295"
