@@ -26,6 +26,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1643932800"
 		"tested_build_id" "8014765"
 		"tests"
@@ -56,6 +57,19 @@
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -67,6 +81,10 @@
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"small_capsule"
@@ -328,9 +346,9 @@
 		{
 			"public"
 			{
-				"gid" "7553883241693043726"
-				"size" "28756064716"
-				"download" "9392601088"
+				"gid" "1041529893824151998"
+				"size" "18479225954"
+				"download" "13419787488"
 			}
 			"ghost-exorcism-inc-legacy-2021"
 			{
@@ -345,8 +363,8 @@
 	{
 		"public"
 		{
-			"buildid" "18344757"
-			"timeupdated" "1746445325"
+			"buildid" "20371315"
+			"timeupdated" "1760378383"
 		}
 		"ghost-exorcism-inc-legacy-2021"
 		{
@@ -376,6 +394,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28821231"
-"_sha" "c6dfe156f77623f348ad9081a985ee80c7355d15"
-"_size" "6520"
+"_change_number" "31646471"
+"_sha" "c6ffe3e4609c04454b030e47aca9624f64391d69"
+"_size" "6930"
