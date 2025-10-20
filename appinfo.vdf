@@ -13,6 +13,7 @@
 	"name_localized"
 	{
 		"schinese" "犹格索托斯的庭院"
+		"japanese" "ヨグ=ソトースの庭"
 	}
 	"languages"
 	{
@@ -22,6 +23,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1698883200"
 		"tested_build_id" "12511085"
 		"tests"
@@ -52,6 +54,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -64,7 +74,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"small_capsule"
@@ -137,7 +149,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729675284"
+	"store_asset_mtime" "1752546956"
 	"associations"
 	{
 		"0"
@@ -149,6 +161,11 @@
 		{
 			"type" "publisher"
 			"name" "Bone Nail"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Shochiku (Japan)"
 		}
 	}
 	"primary_genre" "28"
@@ -184,24 +201,24 @@
 	{
 		"0" "599"
 		"1" "9551"
-		"2" "122"
-		"3" "3799"
+		"2" "3799"
+		"3" "122"
 		"4" "7332"
 		"5" "4726"
 		"6" "1667"
 		"7" "4434"
 		"8" "4085"
 		"9" "4328"
-		"10" "1643"
-		"11" "16094"
+		"10" "16094"
+		"11" "1643"
 		"12" "1742"
 		"13" "11014"
 		"14" "6971"
 		"15" "4182"
 		"16" "3959"
 		"17" "9"
-		"18" "3920"
-		"19" "4604"
+		"18" "4604"
+		"19" "3920"
 	}
 	"review_score" "8"
 	"review_percentage" "94"
@@ -231,24 +248,16 @@
 "depots"
 {
 	"baselanguages" "english,schinese"
+	"hasdepotsindlc" "1"
 	"2194531"
 	{
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "4349817306687406736"
-				"size" "2319130115"
-				"download" "552131744"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "C850C039CFEC77B6D43DA270BAE6655F"
-				"size" "11200E8F2BF6131B4722A1D50775ACE3"
-				"download" "BB5A2842FA01FE88885092D340597C95"
+				"gid" "4338425828177207332"
+				"size" "2435802108"
+				"download" "579102128"
 			}
 		}
 	}
@@ -256,15 +265,6 @@
 	{
 		"manifests"
 		{
-		}
-		"encryptedmanifests"
-		{
-			"test"
-			{
-				"gid" "62A09165B1B2F1AF7F111F2F982B2BF1"
-				"size" "A81B35964CFCE6DF62E65356AA608144"
-				"download" "247A6DE178A4F6108A3044516CAC9545"
-			}
 		}
 	}
 	"2699860"
@@ -275,21 +275,21 @@
 			"optionaldlc" "2699860"
 		}
 	}
-	"hasdepotsindlc" "1"
+	"2194533"
+	{
+		"manifests"
+		{
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "16579146"
-			"timeupdated" "1733123839"
-		}
-		"test"
-		{
-			"buildid" "13610596"
-			"pwdrequired" "1"
-			"timeupdated" "1709280939"
+			"buildid" "20463967"
+			"timeupdated" "1760965915"
 		}
 	}
+	"privatebranches" "1"
 	"appmanagesdlc" "1"
 }
 "ufs"
@@ -311,6 +311,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26448692"
-"_sha" "6ce5cca588000a5be4b29637b465aeaa386af760"
-"_size" "5394"
+"_change_number" "31792239"
+"_sha" "5f871e630c4a2f60aa5bbb6822517f11a43c232b"
+"_size" "5284"
