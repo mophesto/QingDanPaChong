@@ -28,6 +28,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1658188800"
 		"tested_build_id" "8654025"
 		"tests"
@@ -53,6 +54,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -65,7 +74,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
 		}
 	}
 	"controller_support" "full"
@@ -89,6 +100,52 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "73.5660787974065"
 			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "73.5660787974065"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
 		}
 	}
 	"store_asset_mtime" "1659056828"
@@ -126,6 +183,7 @@
 		"category_22" "1"
 		"category_25" "1"
 		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -182,8 +240,8 @@
 		"18" "21"
 		"19" "3993"
 	}
-	"review_score" "8"
-	"review_percentage" "82"
+	"review_score" "6"
+	"review_percentage" "78"
 }
 "extended"
 {
@@ -232,30 +290,9 @@
 		{
 			"public"
 			{
-				"gid" "3971293337494764704"
-				"size" "1346361208"
-				"download" "545281872"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "32D1F30B28C27787D458B5CD734E1674"
-				"size" "400CCBE92FE1C724CCC0D6A47A58B023"
-				"download" "65C68FD8B7237E29706CF7EA87539522"
-			}
-			"privatetest"
-			{
-				"gid" "6EC844FEB9D93219B6E02C340F983FB4"
-				"size" "E0A6FF9BBCE20D8104B0ED16C903CB74"
-				"download" "5E0B83989B36CBE961BD3C85E33F7DF4"
-			}
-			"unsouled_closed_beta"
-			{
-				"gid" "6A6D75441D843258C5D62CC439B6229B"
-				"size" "92B6BFD1434B7D9767DB6C0AC3ABA08B"
-				"download" "B9A5666B1EBD730EF49DF2B1243AF53B"
+				"gid" "4192814454182299326"
+				"size" "1346364112"
+				"download" "545797856"
 			}
 		}
 	}
@@ -274,54 +311,16 @@
 				"download" "122099136"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "EF9AF4AD9A43515FD77A05E72A77F1B3"
-				"size" "090434758A082CDEA3EE6701A891BF53"
-				"download" "D9C4D052991A62ED4A9E86A90D509F5B"
-			}
-			"privatetest"
-			{
-				"gid" "33AE260E4C2918AF28D50426C462F466"
-				"size" "BC09F3AC14792554C763D161F9676F44"
-				"download" "E9C5AD030785214DC97D055F5667993A"
-			}
-			"unsouled_closed_beta"
-			{
-				"gid" "4A6EEDE3C27B9377573E97EAD6B6E73B"
-				"size" "4E953FDC44062B3374D28FC0394B2547"
-				"download" "C7761B5C70C595F8DD1B51F3472EDE12"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "8654025"
-			"timeupdated" "1651293350"
-		}
-		"beta"
-		{
-			"buildid" "8575768"
-			"pwdrequired" "1"
-			"timeupdated" "1650290856"
-		}
-		"privatetest"
-		{
-			"buildid" "8654025"
-			"pwdrequired" "1"
-			"timeupdated" "1651290582"
-		}
-		"unsouled_closed_beta"
-		{
-			"buildid" "7751137"
-			"pwdrequired" "1"
-			"timeupdated" "1637500375"
+			"buildid" "20468250"
+			"timeupdated" "1761116864"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -342,6 +341,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21878170"
-"_sha" "fa295e7a37272de31106febb1d6b88e2e2112251"
-"_size" "6386"
+"_change_number" "31831177"
+"_sha" "2691ef7f729a945df1fdf1b7d99f262668696394"
+"_size" "5976"
