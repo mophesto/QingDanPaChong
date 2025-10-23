@@ -104,22 +104,23 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "afc284c9431338d8a56960fe943e17dcd50b812d/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "c5ecb6ccafea6eb86d1ab6413f452eb07dcee27f/header.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
 		"library_logo" "en"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "28.25581395348837"
-			"height_pct" "51.89978627404416"
+			"width_pct" "26.468689477081966"
+			"height_pct" "100"
 		}
 	}
 	"library_assets_full"
@@ -159,12 +160,23 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "28.25581395348837"
-				"height_pct" "51.89978627404416"
+				"width_pct" "26.468689477081966"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "c5ecb6ccafea6eb86d1ab6413f452eb07dcee27f/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "c5ecb6ccafea6eb86d1ab6413f452eb07dcee27f/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1756394865"
+	"store_asset_mtime" "1761041938"
 	"associations"
 	{
 		"0"
@@ -186,8 +198,8 @@
 	"primary_genre" "23"
 	"genres"
 	{
-		"0" "23"
-		"1" "70"
+		"0" "1"
+		"1" "23"
 	}
 	"category"
 	{
@@ -199,6 +211,12 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_23" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_74" "1"
+		"category_78" "1"
+		"category_61" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -241,7 +259,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1660237200"
+	"steam_release_date" "1761217218"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1943950"
@@ -256,17 +274,17 @@
 		"6" "3839"
 		"7" "769306"
 		"8" "3834"
-		"9" "21978"
-		"10" "21"
+		"9" "21"
+		"10" "19"
 		"11" "4191"
 		"12" "4182"
-		"13" "19"
-		"14" "492"
-		"15" "493"
-		"16" "4106"
-		"17" "597"
-		"18" "1687"
-		"19" "1720"
+		"13" "492"
+		"14" "4106"
+		"15" "597"
+		"16" "1687"
+		"17" "493"
+		"18" "1720"
+		"19" "12095"
 	}
 	"review_score" "8"
 	"review_percentage" "90"
@@ -325,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "15992781856547176"
-				"size" "36802744945"
-				"download" "35186357840"
+				"gid" "4870301221252778277"
+				"size" "27452366801"
+				"download" "26053280000"
 			}
 		}
 	}
@@ -335,8 +353,8 @@
 	{
 		"public"
 		{
-			"buildid" "19739634"
-			"timeupdated" "1757408441"
+			"buildid" "20470431"
+			"timeupdated" "1761217151"
 		}
 	}
 	"privatebranches" "1"
@@ -360,6 +378,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31012882"
-"_sha" "2a8f2dfd6aae63675c790bd73f9022aca1e55187"
-"_size" "6329"
+"_change_number" "31858863"
+"_sha" "aff101ab4b99df7462e962e67a5ea429020f24c9"
+"_size" "6783"
