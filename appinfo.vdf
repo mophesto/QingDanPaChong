@@ -21,9 +21,12 @@
 	"languages"
 	{
 		"english" "1"
+		"french" "1"
 		"spanish" "1"
 		"schinese" "1"
 		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
 		"turkish" "1"
 		"brazilian" "1"
 	}
@@ -311,7 +314,7 @@
 }
 "depots"
 {
-	"baselanguages" "english,german,spanish,schinese,tchinese,japanese,turkish,brazilian"
+	"baselanguages" "english,german,french,spanish,schinese,tchinese,japanese,polish,turkish,brazilian"
 	"1260591"
 	{
 		"config"
@@ -322,15 +325,15 @@
 		{
 			"public"
 			{
-				"gid" "557533417131874769"
-				"size" "1532207331"
-				"download" "710761424"
+				"gid" "5138808356233998535"
+				"size" "1532295459"
+				"download" "710822512"
 			}
 			"public_beta"
 			{
-				"gid" "557533417131874769"
-				"size" "1532207331"
-				"download" "710761424"
+				"gid" "5138808356233998535"
+				"size" "1532295459"
+				"download" "710822512"
 			}
 		}
 	}
@@ -344,15 +347,15 @@
 		{
 			"public"
 			{
-				"gid" "6374861338386521423"
-				"size" "1696657089"
-				"download" "782611344"
+				"gid" "463359704802890546"
+				"size" "1696745217"
+				"download" "782672848"
 			}
 			"public_beta"
 			{
-				"gid" "6374861338386521423"
-				"size" "1696657089"
-				"download" "782611344"
+				"gid" "463359704802890546"
+				"size" "1696745217"
+				"download" "782672848"
 			}
 		}
 	}
@@ -366,15 +369,15 @@
 		{
 			"public"
 			{
-				"gid" "5601728287951100993"
-				"size" "1563504898"
-				"download" "725361008"
+				"gid" "4516925151873058641"
+				"size" "1563593026"
+				"download" "725422288"
 			}
 			"public_beta"
 			{
-				"gid" "5601728287951100993"
-				"size" "1563504898"
-				"download" "725361008"
+				"gid" "4516925151873058641"
+				"size" "1563593026"
+				"download" "725422288"
 			}
 		}
 	}
@@ -382,14 +385,14 @@
 	{
 		"public"
 		{
-			"buildid" "20440303"
-			"timeupdated" "1760726607"
+			"buildid" "20544411"
+			"timeupdated" "1761434628"
 		}
 		"public_beta"
 		{
-			"buildid" "20440303"
+			"buildid" "20544411"
 			"description" "community feature testing"
-			"timeupdated" "1760726630"
+			"timeupdated" "1761434664"
 		}
 	}
 	"privatebranches" "1"
@@ -443,6 +446,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31733618"
-"_sha" "feb748df514127131fe891fd635de30576cac6fb"
-"_size" "8077"
+"_change_number" "31903983"
+"_sha" "1d587e7b6647b6e96178a84bfcbed346973147c2"
+"_size" "8143"
