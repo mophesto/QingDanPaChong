@@ -53,7 +53,7 @@
 		"sc_schinese" "反恐精英：全球攻势"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1761343968"
+	"timeline_marker_updated" "1761780961"
 	"timeline_marker_svg" "0eeacc724c77e1f5abeeba4fb542f45bad894470/markers.svg"
 	"content_descriptors"
 	{
@@ -673,7 +673,7 @@
 		{
 			"public"
 			{
-				"gid" "3116891513858869271"
+				"gid" "4992299019982390761"
 				"size" "8"
 				"download" "64"
 			}
@@ -737,6 +737,12 @@
 				"size" "363675822"
 				"download" "254448016"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "8330056139558314506"
+				"size" "8"
+				"download" "64"
+			}
 		}
 	}
 	"733"
@@ -750,7 +756,7 @@
 		{
 			"public"
 			{
-				"gid" "6164300684530397163"
+				"gid" "3768054045405145304"
 				"size" "8"
 				"download" "64"
 			}
@@ -814,6 +820,12 @@
 				"size" "276643099"
 				"download" "73729760"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "7753679705879567333"
+				"size" "8"
+				"download" "64"
+			}
 		}
 	}
 	"731"
@@ -823,7 +835,7 @@
 		{
 			"public"
 			{
-				"gid" "1279765737616109430"
+				"gid" "8351649555890945635"
 				"size" "8"
 				"download" "64"
 			}
@@ -887,6 +899,12 @@
 				"size" "32722411363"
 				"download" "13644292112"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "6658864645045932950"
+				"size" "8"
+				"download" "64"
+			}
 		}
 	}
 	"734"
@@ -899,7 +917,7 @@
 		{
 			"public"
 			{
-				"gid" "6863593842432809243"
+				"gid" "3168949386138514162"
 				"size" "8"
 				"download" "64"
 			}
@@ -957,6 +975,12 @@
 				"size" "434785022"
 				"download" "114314960"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "5026745673455173222"
+				"size" "8"
+				"download" "64"
+			}
 		}
 	}
 	"735"
@@ -965,7 +989,7 @@
 		{
 			"public"
 			{
-				"gid" "3161057913271478575"
+				"gid" "3791395635113535251"
 				"size" "8"
 				"download" "64"
 			}
@@ -1023,6 +1047,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "1137756906467789798"
+				"size" "8"
+				"download" "64"
+			}
 		}
 	}
 	"736"
@@ -1031,7 +1061,7 @@
 		{
 			"public"
 			{
-				"gid" "2367947084416516019"
+				"gid" "1578928225924863280"
 				"size" "8"
 				"download" "64"
 			}
@@ -1089,6 +1119,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "8572776003559840082"
+				"size" "8"
+				"download" "64"
+			}
 		}
 	}
 	"737"
@@ -1097,7 +1133,7 @@
 		{
 			"public"
 			{
-				"gid" "6261494246000361730"
+				"gid" "226375683421460523"
 				"size" "8"
 				"download" "64"
 			}
@@ -1155,6 +1191,12 @@
 				"size" "417072383"
 				"download" "143962432"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "6983044884537197369"
+				"size" "8"
+				"download" "64"
+			}
 		}
 	}
 	"738"
@@ -1163,7 +1205,7 @@
 		{
 			"public"
 			{
-				"gid" "5111713770339758862"
+				"gid" "287004621734804273"
 				"size" "8"
 				"download" "64"
 			}
@@ -1221,6 +1263,12 @@
 				"size" "920601806"
 				"download" "741168448"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "658900636682840095"
+				"size" "8"
+				"download" "64"
+			}
 		}
 	}
 	"2347770"
@@ -1233,9 +1281,9 @@
 		{
 			"public"
 			{
-				"gid" "6534858265201267362"
-				"size" "48711842733"
-				"download" "41056778608"
+				"gid" "5884182582668887102"
+				"size" "48733144101"
+				"download" "41062449472"
 			}
 			"1.40.8.8"
 			{
@@ -1279,6 +1327,12 @@
 				"size" "48711842733"
 				"download" "41056778608"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "6796539866645014201"
+				"size" "48711842733"
+				"download" "41056778608"
+			}
 		}
 	}
 	"2347771"
@@ -1291,9 +1345,9 @@
 		{
 			"public"
 			{
-				"gid" "9212826508403275891"
-				"size" "6748851745"
-				"download" "4404205312"
+				"gid" "8708821619431915872"
+				"size" "6758589473"
+				"download" "4406447984"
 			}
 			"1.40.8.8"
 			{
@@ -1336,6 +1390,12 @@
 				"gid" "9212826508403275891"
 				"size" "6748851745"
 				"download" "4404205312"
+			}
+			"surf_speed_fixes"
+			{
+				"gid" "725706404842041608"
+				"size" "6748854817"
+				"download" "4404240128"
 			}
 		}
 	}
@@ -1395,6 +1455,12 @@
 				"size" "9276"
 				"download" "1696"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "4427303554736365309"
+				"size" "9276"
+				"download" "1696"
+			}
 		}
 	}
 	"2347773"
@@ -1408,9 +1474,9 @@
 		{
 			"public"
 			{
-				"gid" "4476430123924488526"
-				"size" "6297575804"
-				"download" "4055951504"
+				"gid" "1097443952873228514"
+				"size" "6297602780"
+				"download" "4055964960"
 			}
 			"1.40.8.8"
 			{
@@ -1453,6 +1519,12 @@
 				"gid" "4476430123924488526"
 				"size" "6297575804"
 				"download" "4055951504"
+			}
+			"surf_speed_fixes"
+			{
+				"gid" "6855192798162203513"
+				"size" "6297578940"
+				"download" "4055950768"
 			}
 		}
 	}
@@ -1512,6 +1584,12 @@
 				"size" "1058284080"
 				"download" "870500576"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "4816076065582500038"
+				"size" "1058284080"
+				"download" "870500576"
+			}
 		}
 	}
 	"2347775"
@@ -1538,9 +1616,9 @@
 		{
 			"public"
 			{
-				"gid" "3603697301776534562"
-				"size" "1928844711"
-				"download" "500982016"
+				"gid" "4026024694751880053"
+				"size" "1929285031"
+				"download" "501174000"
 			}
 			"1.40.8.8"
 			{
@@ -1584,6 +1662,12 @@
 				"size" "1928844711"
 				"download" "500982016"
 			}
+			"surf_speed_fixes"
+			{
+				"gid" "3560793544621602666"
+				"size" "1928844711"
+				"download" "500982032"
+			}
 		}
 	}
 	"hasdepotsindlc" "1"
@@ -1591,8 +1675,8 @@
 	{
 		"public"
 		{
-			"buildid" "20535897"
-			"timeupdated" "1761344625"
+			"buildid" "20596740"
+			"timeupdated" "1761780950"
 		}
 		"csgo_legacy"
 		{
@@ -1653,6 +1737,12 @@
 			"description" "Counter-Strike: Global Offensive"
 			"timeupdated" "1755201816"
 		}
+		"surf_speed_fixes"
+		{
+			"buildid" "20582635"
+			"description" "experimental surf speed fixes"
+			"timeupdated" "1761699756"
+		}
 	}
 	"privatebranches" "1"
 	"appmanagesdlc" "1"
@@ -1663,6 +1753,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "31892056"
-"_sha" "d3df349d5098b09e37cf1b6a0cec72dd3bc82fbf"
-"_size" "30623"
+"_change_number" "31978490"
+"_sha" "0c87ae6cebae63b8f71404987484b933addfa329"
+"_size" "32362"
