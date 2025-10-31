@@ -91,7 +91,7 @@
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "733352de11dcf4229c6e9725e6b4a77d4716a13d/header.jpg"
 	}
 	"library_assets"
 	{
@@ -143,7 +143,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729255916"
+	"store_asset_mtime" "1761871910"
 	"associations"
 	{
 		"0"
@@ -236,8 +236,8 @@
 		"7" "3959"
 		"8" "1716"
 		"9" "5125"
-		"10" "493"
-		"11" "4026"
+		"10" "4026"
+		"11" "493"
 		"12" "21"
 		"13" "3834"
 		"14" "1770"
@@ -255,7 +255,7 @@
 	"developer" "Spider Nest Games"
 	"publisher" "Spider Nest Games"
 	"homepage" "http://www.vaultofthevoid.com"
-	"listofdlc" "3011240"
+	"listofdlc" "3011240,4047440"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -300,21 +300,21 @@
 		{
 			"public"
 			{
-				"gid" "3418861463743958311"
-				"size" "557454645"
-				"download" "356988160"
+				"gid" "3914877129262730313"
+				"size" "570171053"
+				"download" "377051904"
 			}
 			"beta"
 			{
-				"gid" "3418861463743958311"
-				"size" "557454645"
-				"download" "356988160"
+				"gid" "3914877129262730313"
+				"size" "570171053"
+				"download" "377051904"
 			}
 			"localisation"
 			{
-				"gid" "3418861463743958311"
-				"size" "557454645"
-				"download" "356988160"
+				"gid" "3914877129262730313"
+				"size" "570171053"
+				"download" "377051904"
 			}
 			"win7"
 			{
@@ -334,21 +334,21 @@
 		{
 			"public"
 			{
-				"gid" "8085535233208321192"
-				"size" "605749557"
-				"download" "371392784"
+				"gid" "6052129876086328808"
+				"size" "610386223"
+				"download" "390340976"
 			}
 			"beta"
 			{
-				"gid" "8085535233208321192"
-				"size" "605749557"
-				"download" "371392784"
+				"gid" "6052129876086328808"
+				"size" "610386223"
+				"download" "390340976"
 			}
 			"localisation"
 			{
-				"gid" "8085535233208321192"
-				"size" "605749557"
-				"download" "371392784"
+				"gid" "6052129876086328808"
+				"size" "610386223"
+				"download" "390340976"
 			}
 			"win7"
 			{
@@ -396,19 +396,19 @@
 	{
 		"public"
 		{
-			"buildid" "19575334"
-			"timeupdated" "1755039787"
+			"buildid" "20597891"
+			"timeupdated" "1761869714"
 		}
 		"beta"
 		{
-			"buildid" "19575334"
-			"timeupdated" "1755039755"
+			"buildid" "20597891"
+			"timeupdated" "1761869364"
 		}
 		"localisation"
 		{
-			"buildid" "19575334"
+			"buildid" "20597891"
 			"description" "Branch for testing Vault of the Voids Localisation"
-			"timeupdated" "1755039763"
+			"timeupdated" "1761869354"
 		}
 		"win7"
 		{
@@ -476,6 +476,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "30557324"
-"_sha" "365c9a726ecf3de70ec7169e0a9921779d6857e5"
-"_size" "8409"
+"_change_number" "32001839"
+"_sha" "c4905b79ff4070316e9646dec04083238a258b95"
+"_size" "8458"
