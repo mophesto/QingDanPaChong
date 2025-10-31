@@ -346,9 +346,9 @@
 		{
 			"public"
 			{
-				"gid" "3230063417263943789"
-				"size" "18479225941"
-				"download" "13419788864"
+				"gid" "7817411917778077200"
+				"size" "18479226453"
+				"download" "13419788960"
 			}
 			"ghost-exorcism-inc-legacy-2021"
 			{
@@ -359,12 +359,13 @@
 		}
 	}
 	"baselanguages" ""
+	"workshopdepot" "1618540"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "20383093"
-			"timeupdated" "1760434405"
+			"buildid" "20619832"
+			"timeupdated" "1761906565"
 		}
 		"ghost-exorcism-inc-legacy-2021"
 		{
@@ -394,6 +395,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31658671"
-"_sha" "ab2adcb750e89a5d45ab456b5b35a88dae5f4047"
-"_size" "6930"
+"_change_number" "32009224"
+"_sha" "2f51fe0c120133a823a9009611839b7646dc0872"
+"_size" "6959"
