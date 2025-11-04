@@ -33,6 +33,7 @@
 	"releasestatesteamchina" "released"
 	"timeline_marker_updated" "1759466267"
 	"timeline_marker_svg" "c9e9902151b7e9049145921c09a1aa4e6744530b/markers.svg"
+	"market_presence" "1"
 	"type" "game"
 	"content_descriptors"
 	{
@@ -112,7 +113,6 @@
 			"hdr_support" "0"
 		}
 	}
-	"market_presence" "1"
 	"metacritic_name" "Dota 2"
 	"small_capsule"
 	{
@@ -554,9 +554,9 @@
 		{
 			"public"
 			{
-				"gid" "9017251831056252461"
-				"size" "4106788660"
-				"download" "2459672736"
+				"gid" "4118574812867346107"
+				"size" "4177237879"
+				"download" "2502015616"
 			}
 		}
 	}
@@ -614,9 +614,9 @@
 		{
 			"public"
 			{
-				"gid" "6754683169603015137"
-				"size" "49376781407"
-				"download" "23094520144"
+				"gid" "547926377574446765"
+				"size" "49266915980"
+				"download" "23042412288"
 			}
 		}
 	}
@@ -647,9 +647,9 @@
 		{
 			"public"
 			{
-				"gid" "5167763779327494890"
+				"gid" "188957461598507031"
 				"size" "568311304"
-				"download" "160435152"
+				"download" "160404640"
 			}
 		}
 	}
@@ -663,9 +663,9 @@
 		{
 			"public"
 			{
-				"gid" "3002803108627240662"
+				"gid" "5958520871859604384"
 				"size" "887596481"
-				"download" "341844880"
+				"download" "341844384"
 			}
 		}
 	}
@@ -691,9 +691,9 @@
 		{
 			"public"
 			{
-				"gid" "56362169733164543"
-				"size" "996326695"
-				"download" "360863088"
+				"gid" "8188902525869944278"
+				"size" "996326631"
+				"download" "360862704"
 			}
 		}
 	}
@@ -774,9 +774,9 @@
 		{
 			"public"
 			{
-				"gid" "455526380483179340"
+				"gid" "8453922173642984775"
 				"size" "5741239609"
-				"download" "1589457808"
+				"download" "1589457840"
 			}
 		}
 	}
@@ -838,8 +838,8 @@
 	{
 		"public"
 		{
-			"buildid" "20503303"
-			"timeupdated" "1761170151"
+			"buildid" "20658809"
+			"timeupdated" "1762230428"
 		}
 	}
 	"privatebranches" "1"
@@ -851,6 +851,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "31846973"
-"_sha" "f76709fa37c6a9838fafbbb2808354449228d6a6"
-"_size" "14692"
+"_change_number" "32062344"
+"_sha" "9d8e8ea56b2d7e1aebb2cfe128479ac864304c3d"
+"_size" "14693"
