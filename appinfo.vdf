@@ -268,6 +268,7 @@
 		"7" "4182"
 		"8" "7481"
 		"9" "3859"
+		"10" "1721"
 	}
 	"review_score" "8"
 	"review_percentage" "92"
@@ -330,21 +331,9 @@
 		{
 			"public"
 			{
-				"gid" "4502153775908439404"
-				"size" "7195453025"
-				"download" "2335529264"
-			}
-			"3.0.4"
-			{
-				"gid" "302923237395014793"
-				"size" "6050879088"
-				"download" "2022817984"
-			}
-			"3.3.1"
-			{
-				"gid" "8469599415877031733"
-				"size" "6589785072"
-				"download" "2164287136"
+				"gid" "7569370424723233902"
+				"size" "7210487642"
+				"download" "2345138592"
 			}
 			"3.4.2"
 			{
@@ -366,9 +355,9 @@
 			}
 			"beta"
 			{
-				"gid" "4502153775908439404"
-				"size" "7195453025"
-				"download" "2335529264"
+				"gid" "7569370424723233902"
+				"size" "7210487642"
+				"download" "2345138592"
 			}
 		}
 	}
@@ -395,20 +384,8 @@
 	{
 		"public"
 		{
-			"buildid" "19434698"
-			"timeupdated" "1754342550"
-		}
-		"3.0.4"
-		{
-			"buildid" "8802228"
-			"description" "Patch from May 24, 2022"
-			"timeupdated" "1660089679"
-		}
-		"3.3.1"
-		{
-			"buildid" "12368570"
-			"description" "Patch from Oct 5, 2023"
-			"timeupdated" "1708879941"
+			"buildid" "20490843"
+			"timeupdated" "1762283015"
 		}
 		"3.4.2"
 		{
@@ -430,9 +407,9 @@
 		}
 		"beta"
 		{
-			"buildid" "19434698"
+			"buildid" "20490843"
 			"description" "Public Beta Branch"
-			"timeupdated" "1753994590"
+			"timeupdated" "1761105829"
 		}
 	}
 	"privatebranches" "1"
@@ -443,6 +420,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "30415010"
-"_sha" "bf79b5164bd253619779bcd5ee132d35ee048557"
-"_size" "7597"
+"_change_number" "32079813"
+"_sha" "2a08b40ecbf71715af185908978511e23a0f1de2"
+"_size" "7140"
