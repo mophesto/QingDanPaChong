@@ -28,6 +28,7 @@
 		"schinese" "饥荒联机版"
 		"tchinese" "饑荒聯機版"
 	}
+	"market_presence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -92,7 +93,6 @@
 			"hdr_support" "0"
 		}
 	}
-	"market_presence" "1"
 	"metacritic_name" "Don\'t Starve Together"
 	"controller_support" "full"
 	"small_capsule"
@@ -500,9 +500,9 @@
 		{
 			"public"
 			{
-				"gid" "2385342733971113148"
-				"size" "4242477067"
-				"download" "2953472880"
+				"gid" "2991250207206103871"
+				"size" "4242558214"
+				"download" "2953609008"
 			}
 			"beforemacoschanges"
 			{
@@ -522,9 +522,9 @@
 		{
 			"public"
 			{
-				"gid" "2315259223707798287"
-				"size" "4122902657"
-				"download" "2840004624"
+				"gid" "4856595016547064799"
+				"size" "4122983805"
+				"download" "2840130880"
 			}
 			"beforemacoschanges"
 			{
@@ -544,9 +544,9 @@
 		{
 			"public"
 			{
-				"gid" "935489901918022557"
-				"size" "4101691126"
-				"download" "2833958352"
+				"gid" "859995978526580012"
+				"size" "4101772274"
+				"download" "2834094400"
 			}
 			"beforemacoschanges"
 			{
@@ -561,8 +561,8 @@
 	{
 		"public"
 		{
-			"buildid" "20581978"
-			"timeupdated" "1761696515"
+			"buildid" "20687064"
+			"timeupdated" "1762392159"
 		}
 		"beforemacoschanges"
 		{
@@ -623,6 +623,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31956919"
-"_sha" "7c3eaa77d4315d397e6ffaf3743ef1cf61bbe1fd"
+"_change_number" "32102249"
+"_sha" "5dea4f7217fb81d3c65016f4bfe92beb58e89fbe"
 "_size" "12548"
