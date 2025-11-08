@@ -12,13 +12,11 @@
 	"osextended" ""
 	"name_localized"
 	{
-		"sc_schinese" "铁骑少女"
 		"schinese" "  铁骑少女"
 		"english" "Cavalry Girls"
 		"japanese" "鉄騎の少女 Cavalry Girls"
 		"tchinese" "Cavalry Girls"
 	}
-	"releasestatesteamchina" "prerelease"
 	"languages"
 	{
 		"english" "1"
@@ -93,13 +91,11 @@
 	"small_capsule"
 	{
 		"schinese" "capsule_231x87_schinese.jpg"
-		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
 		"english" "capsule_231x87.jpg"
 		"japanese" "capsule_231x87_japanese.jpg"
 	}
 	"header_image"
 	{
-		"sc_schinese" "header_sc_schinese.jpg"
 		"english" "header.jpg"
 		"schinese" "header_schinese.jpg"
 		"japanese" "header_japanese.jpg"
@@ -125,14 +121,12 @@
 			{
 				"schinese" "library_600x900_schinese.jpg"
 				"english" "library_600x900.jpg"
-				"sc_schinese" "library_600x900_sc_schinese.jpg"
 				"japanese" "library_600x900_japanese.jpg"
 			}
 			"image2x"
 			{
 				"schinese" "library_600x900_schinese_2x.jpg"
 				"english" "library_600x900_2x.jpg"
-				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
 				"japanese" "library_600x900_japanese_2x.jpg"
 			}
 		}
@@ -141,12 +135,10 @@
 			"image"
 			{
 				"english" "library_hero.jpg"
-				"sc_schinese" "library_hero_sc_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_hero_2x.jpg"
-				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
 			}
 		}
 		"library_logo"
@@ -160,7 +152,6 @@
 			"image"
 			{
 				"schinese" "logo_schinese.png"
-				"sc_schinese" "logo_sc_schinese.png"
 				"english" "logo.png"
 				"japanese" "logo_japanese.png"
 			}
@@ -308,10 +299,6 @@
 			}
 		}
 	}
-	"steam_china_only"
-	{
-		"steam_china_enable_duration_control" "1"
-	}
 }
 "depots"
 {
@@ -321,9 +308,9 @@
 		{
 			"public"
 			{
-				"gid" "4241111730333586826"
-				"size" "4358591046"
-				"download" "1378772592"
+				"gid" "4045572200512402899"
+				"size" "6207446032"
+				"download" "2861580352"
 			}
 		}
 	}
@@ -333,8 +320,8 @@
 	{
 		"public"
 		{
-			"buildid" "20153859"
-			"timeupdated" "1758968634"
+			"buildid" "20720670"
+			"timeupdated" "1762590744"
 		}
 	}
 	"privatebranches" "1"
@@ -354,6 +341,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31343652"
-"_sha" "1ea78d6bcf998a0768088da43f49e7ab5a726889"
-"_size" "7107"
+"_change_number" "32147758"
+"_sha" "cdea673eadcde2b20bae06c733cddbd035e3bd55"
+"_size" "6605"
