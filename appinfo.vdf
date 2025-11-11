@@ -300,21 +300,21 @@
 		{
 			"public"
 			{
-				"gid" "3410414476529021149"
-				"size" "570240253"
-				"download" "377104160"
+				"gid" "9157929814980926790"
+				"size" "570277202"
+				"download" "377139664"
 			}
 			"beta"
 			{
-				"gid" "3410414476529021149"
-				"size" "570240253"
-				"download" "377104160"
+				"gid" "9157929814980926790"
+				"size" "570277202"
+				"download" "377139664"
 			}
 			"localisation"
 			{
-				"gid" "3410414476529021149"
-				"size" "570240253"
-				"download" "377104160"
+				"gid" "9157929814980926790"
+				"size" "570277202"
+				"download" "377139664"
 			}
 			"win7"
 			{
@@ -334,21 +334,21 @@
 		{
 			"public"
 			{
-				"gid" "5269749904336827823"
-				"size" "610493234"
-				"download" "390372976"
+				"gid" "8523383096130521885"
+				"size" "610535732"
+				"download" "390392544"
 			}
 			"beta"
 			{
-				"gid" "5269749904336827823"
-				"size" "610493234"
-				"download" "390372976"
+				"gid" "8523383096130521885"
+				"size" "610535732"
+				"download" "390392544"
 			}
 			"localisation"
 			{
-				"gid" "5269749904336827823"
-				"size" "610493234"
-				"download" "390372976"
+				"gid" "8523383096130521885"
+				"size" "610535732"
+				"download" "390392544"
 			}
 			"win7"
 			{
@@ -396,19 +396,19 @@
 	{
 		"public"
 		{
-			"buildid" "20654572"
-			"timeupdated" "1762203571"
+			"buildid" "20739277"
+			"timeupdated" "1762824096"
 		}
 		"beta"
 		{
-			"buildid" "20654572"
-			"timeupdated" "1762203538"
+			"buildid" "20739277"
+			"timeupdated" "1762782438"
 		}
 		"localisation"
 		{
-			"buildid" "20654572"
+			"buildid" "20739277"
 			"description" "Branch for testing Vault of the Voids Localisation"
-			"timeupdated" "1762203552"
+			"timeupdated" "1762782453"
 		}
 		"win7"
 		{
@@ -476,6 +476,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "32056872"
-"_sha" "2e287ac320a42e85bdf04233f6ca93a07aa6e7a7"
+"_change_number" "32184638"
+"_sha" "0305b64dcab4cb3bf25a4845c870cd00c0924241"
 "_size" "8458"
