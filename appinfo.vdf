@@ -260,7 +260,7 @@
 		"19" "492"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -311,9 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "4003621578448086447"
-				"size" "13379346331"
-				"download" "2658789248"
+				"gid" "6522602538925832611"
+				"size" "13267761565"
+				"download" "2697387008"
 			}
 		}
 	}
@@ -327,9 +327,9 @@
 		{
 			"public"
 			{
-				"gid" "6664352641363926094"
-				"size" "13454595139"
-				"download" "2675580672"
+				"gid" "7891715622802210656"
+				"size" "13344283833"
+				"download" "2713376208"
 			}
 		}
 	}
@@ -353,8 +353,8 @@
 	{
 		"public"
 		{
-			"buildid" "20175297"
-			"timeupdated" "1759160208"
+			"buildid" "20743461"
+			"timeupdated" "1762803608"
 		}
 	}
 }
@@ -400,6 +400,6 @@
 	"appidredirect" "1320100"
 }
 "_missing_token" "False"
-"_change_number" "31374693"
-"_sha" "e2064aecd60063816eed501c05623abe4e274367"
+"_change_number" "32180208"
+"_sha" "bdb97a9a3704442e4253ca79f339b5ab8a573eaa"
 "_size" "6867"
