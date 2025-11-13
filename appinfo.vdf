@@ -29,6 +29,7 @@
 		"french" "1"
 		"spanish" "1"
 		"schinese" "1"
+		"tchinese" "1"
 		"russian" "1"
 	}
 	"openvr_action_manifest_path" "EscapeTheBackrooms/Config/SteamVRBindings/steamvr_manifest.json"
@@ -102,6 +103,7 @@
 		}
 	}
 	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "afc284c9431338d8a56960fe943e17dcd50b812d/capsule_231x87.jpg"
@@ -176,7 +178,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1761041938"
+	"store_asset_mtime" "1761247136"
 	"associations"
 	{
 		"0"
@@ -186,10 +188,15 @@
 		}
 		"1"
 		{
+			"type" "developer"
+			"name" "Blackbird Interactive"
+		}
+		"2"
+		{
 			"type" "publisher"
 			"name" "Secret Mode"
 		}
-		"2"
+		"3"
 		{
 			"type" "franchise"
 			"name" "Secret Mode"
@@ -217,6 +224,7 @@
 		"category_74" "1"
 		"category_78" "1"
 		"category_61" "1"
+		"category_18" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -280,10 +288,10 @@
 		"12" "4182"
 		"13" "492"
 		"14" "4106"
-		"15" "597"
-		"16" "1687"
-		"17" "493"
-		"18" "1720"
+		"15" "1687"
+		"16" "597"
+		"17" "1720"
+		"18" "493"
 		"19" "12095"
 	}
 	"review_score" "8"
@@ -343,9 +351,9 @@
 		{
 			"public"
 			{
-				"gid" "4870301221252778277"
-				"size" "27452366801"
-				"download" "26053280000"
+				"gid" "7706594313410005634"
+				"size" "27472109657"
+				"download" "26071246560"
 			}
 		}
 	}
@@ -353,8 +361,8 @@
 	{
 		"public"
 		{
-			"buildid" "20470431"
-			"timeupdated" "1761217151"
+			"buildid" "20687328"
+			"timeupdated" "1763036217"
 		}
 	}
 	"privatebranches" "1"
@@ -378,6 +386,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31858863"
-"_sha" "aff101ab4b99df7462e962e67a5ea429020f24c9"
-"_size" "6783"
+"_change_number" "32233621"
+"_sha" "0e3663548bd508c9d1bcc665486a574a026da0dd"
+"_size" "6935"
