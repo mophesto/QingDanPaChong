@@ -194,7 +194,7 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "89f09783bf60e77dc3012cafa0cfaed1101efa3b/library_header.jpg"
 				"schinese" "77759270e8c71630a2a3c54971a3abfacddb9253/library_header_schinese.jpg"
 				"tchinese" "dd783b40fe53d09b41c170a991d24aaa0e3d6a0d/library_header_tchinese.jpg"
 			}
@@ -202,10 +202,11 @@
 			{
 				"schinese" "77759270e8c71630a2a3c54971a3abfacddb9253/library_header_schinese_2x.jpg"
 				"tchinese" "dd783b40fe53d09b41c170a991d24aaa0e3d6a0d/library_header_tchinese_2x.jpg"
+				"english" "89f09783bf60e77dc3012cafa0cfaed1101efa3b/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1755528151"
+	"store_asset_mtime" "1763392154"
 	"associations"
 	{
 		"0"
@@ -324,8 +325,8 @@
 		"5" "1695"
 		"6" "1702"
 		"7" "21"
-		"8" "19"
-		"9" "1100689"
+		"8" "1100689"
+		"9" "19"
 		"10" "4166"
 		"11" "3859"
 		"12" "1643"
@@ -337,8 +338,8 @@
 		"18" "8945"
 		"19" "5794"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -417,15 +418,15 @@
 		{
 			"public"
 			{
-				"gid" "1760527634556220740"
-				"size" "21599912558"
-				"download" "8517391728"
+				"gid" "3412390893825750144"
+				"size" "22885485010"
+				"download" "9268440192"
 			}
 			"beta_flight"
 			{
-				"gid" "6025741273930508998"
-				"size" "21757219459"
-				"download" "8543563088"
+				"gid" "3412390893825750144"
+				"size" "22885485010"
+				"download" "9268440192"
 			}
 			"legacy"
 			{
@@ -442,14 +443,14 @@
 	{
 		"public"
 		{
-			"buildid" "20015248"
-			"timeupdated" "1758204716"
+			"buildid" "20781056"
+			"timeupdated" "1763395278"
 		}
 		"beta_flight"
 		{
-			"buildid" "19223649"
+			"buildid" "20781056"
 			"description" "Public test beta for an even earlier access to future game updates"
-			"timeupdated" "1752582981"
+			"timeupdated" "1763039627"
 		}
 		"legacy"
 		{
@@ -475,6 +476,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31183530"
-"_sha" "bf702dfba0114187fcc1770c0e331c35f31c2882"
-"_size" "9647"
+"_change_number" "32298289"
+"_sha" "a2d5227ec461c6288d28790690aba3ddce75124b"
+"_size" "9769"
