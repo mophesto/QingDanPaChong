@@ -28,6 +28,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1681171200"
 		"tested_build_id" "10874911"
 		"tests"
@@ -53,6 +54,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -65,7 +74,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "1"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Wildfrost"
@@ -92,6 +103,7 @@
 		"library_capsule" "en,zh-cn,zh-tw,ja,ko"
 		"library_hero" "en"
 		"library_logo" "en,zh-cn,zh-tw,ja,ko"
+		"library_header" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -136,8 +148,19 @@
 				"height_pct" "97.720256471147"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "3a7b21978b77eea47d91214ce3bc7f7e861fe986/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "3a7b21978b77eea47d91214ce3bc7f7e861fe986/library_header_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1730826819"
+	"store_asset_mtime" "1753370780"
 	"associations"
 	{
 		"0"
@@ -153,6 +176,11 @@
 		"2"
 		{
 			"type" "publisher"
+			"name" "Chucklefish"
+		}
+		"3"
+		{
+			"type" "franchise"
 			"name" "Chucklefish"
 		}
 	}
@@ -227,8 +255,8 @@
 		"11" "1759"
 		"12" "4711"
 		"13" "1741"
-		"14" "5125"
-		"15" "9"
+		"14" "9"
+		"15" "5125"
 		"16" "4305"
 		"17" "7481"
 		"18" "1684"
@@ -294,9 +322,9 @@
 		{
 			"public"
 			{
-				"gid" "6450434692660463538"
-				"size" "1017424886"
-				"download" "382410992"
+				"gid" "7877717137747359191"
+				"size" "1017425686"
+				"download" "383425184"
 			}
 		}
 	}
@@ -304,8 +332,8 @@
 	{
 		"public"
 		{
-			"buildid" "17266590"
-			"timeupdated" "1738849748"
+			"buildid" "20695254"
+			"timeupdated" "1763563617"
 		}
 	}
 	"privatebranches" "1"
@@ -363,6 +391,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "27345764"
-"_sha" "40a2d271facdf727630b123880b9629b1d9a6a25"
-"_size" "6918"
+"_change_number" "32338724"
+"_sha" "c2bb76697dd3ca9f6739c0339131b6813c3edb99"
+"_size" "7464"
