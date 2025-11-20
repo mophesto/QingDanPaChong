@@ -41,6 +41,7 @@
 	"clienticns" "19eac3925fb82e60835dc8d1c41c284c1fff3bff"
 	"osarch" ""
 	"osextended" "macos64,macosnotarized"
+	"market_presence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -90,7 +91,6 @@
 			"hdr_support" "0"
 		}
 	}
-	"market_presence" "1"
 	"metacritic_name" "Euro Truck Simulator 2"
 	"controllertagwizard" "1"
 	"controller_support" "partial"
@@ -211,6 +211,14 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_59" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_70" "1"
+		"category_74" "1"
+		"category_75" "1"
+		"category_78" "1"
+		"category_79" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -516,21 +524,21 @@
 		{
 			"public"
 			{
-				"gid" "9935962701843502"
-				"size" "34241918091"
-				"download" "31552594304"
+				"gid" "2761970785495280144"
+				"size" "36246151878"
+				"download" "33599834512"
 			}
 			"public_beta"
 			{
-				"gid" "9935962701843502"
-				"size" "34241918091"
-				"download" "31552594304"
+				"gid" "2761970785495280144"
+				"size" "36246151878"
+				"download" "33599834512"
 			}
 			"oculus"
 			{
-				"gid" "4883908941167475626"
-				"size" "34241883090"
-				"download" "31552576064"
+				"gid" "3700024218088888107"
+				"size" "34241918070"
+				"download" "31552610976"
 			}
 			"oculus_previous"
 			{
@@ -538,11 +546,17 @@
 				"size" "32752736670"
 				"download" "30134506000"
 			}
+			"temporary_1_57"
+			{
+				"gid" "2761970785495280144"
+				"size" "36246151878"
+				"download" "33599834512"
+			}
 			"temporary_1_56"
 			{
-				"gid" "2745318469699106807"
-				"size" "33944858865"
-				"download" "31308961360"
+				"gid" "9935962701843502"
+				"size" "34241918091"
+				"download" "31552594304"
 			}
 			"temporary_1_55"
 			{
@@ -701,21 +715,21 @@
 		{
 			"public"
 			{
-				"gid" "7539337393595007398"
-				"size" "56721992"
-				"download" "19435744"
+				"gid" "1662643110415218628"
+				"size" "57928776"
+				"download" "19604096"
 			}
 			"public_beta"
 			{
-				"gid" "7539337393595007398"
-				"size" "56721992"
-				"download" "19435744"
+				"gid" "1662643110415218628"
+				"size" "57928776"
+				"download" "19604096"
 			}
 			"oculus"
 			{
-				"gid" "858361999181089244"
-				"size" "57545240"
-				"download" "19750880"
+				"gid" "5594948611163117358"
+				"size" "57545752"
+				"download" "19749632"
 			}
 			"oculus_previous"
 			{
@@ -723,11 +737,17 @@
 				"size" "56922648"
 				"download" "19226272"
 			}
+			"temporary_1_57"
+			{
+				"gid" "1662643110415218628"
+				"size" "57928776"
+				"download" "19604096"
+			}
 			"temporary_1_56"
 			{
-				"gid" "8823683723171040585"
-				"size" "56714312"
-				"download" "19431840"
+				"gid" "7539337393595007398"
+				"size" "56721992"
+				"download" "19435744"
 			}
 			"temporary_1_55"
 			{
@@ -886,15 +906,15 @@
 		{
 			"public"
 			{
-				"gid" "6127441207916075494"
-				"size" "52786416"
-				"download" "19899312"
+				"gid" "2371426869026760972"
+				"size" "53309744"
+				"download" "20119120"
 			}
 			"public_beta"
 			{
-				"gid" "6127441207916075494"
-				"size" "52786416"
-				"download" "19899312"
+				"gid" "2371426869026760972"
+				"size" "53309744"
+				"download" "20119120"
 			}
 			"oculus"
 			{
@@ -908,11 +928,17 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "2371426869026760972"
+				"size" "53309744"
+				"download" "20119120"
+			}
 			"temporary_1_56"
 			{
-				"gid" "6680552239666154870"
-				"size" "52761584"
-				"download" "19891664"
+				"gid" "6127441207916075494"
+				"size" "52786416"
+				"download" "19899312"
 			}
 			"temporary_1_55"
 			{
@@ -1070,15 +1096,15 @@
 		{
 			"public"
 			{
-				"gid" "1869042292369045296"
-				"size" "64757018"
-				"download" "22909872"
+				"gid" "3008380319840309335"
+				"size" "65213050"
+				"download" "23105664"
 			}
 			"public_beta"
 			{
-				"gid" "1869042292369045296"
-				"size" "64757018"
-				"download" "22909872"
+				"gid" "3008380319840309335"
+				"size" "65213050"
+				"download" "23105664"
 			}
 			"oculus"
 			{
@@ -1092,11 +1118,17 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "3008380319840309335"
+				"size" "65213050"
+				"download" "23105664"
+			}
 			"temporary_1_56"
 			{
-				"gid" "2370811556091179230"
-				"size" "64744586"
-				"download" "22911472"
+				"gid" "1869042292369045296"
+				"size" "64757018"
+				"download" "22909872"
 			}
 			"temporary_1_55"
 			{
@@ -1251,15 +1283,15 @@
 		{
 			"public"
 			{
-				"gid" "8859589139873172659"
-				"size" "37811196"
-				"download" "37826144"
+				"gid" "29252533301610345"
+				"size" "37816690"
+				"download" "37772848"
 			}
 			"public_beta"
 			{
-				"gid" "8859589139873172659"
-				"size" "37811196"
-				"download" "37826144"
+				"gid" "29252533301610345"
+				"size" "37816690"
+				"download" "37772848"
 			}
 			"oculus"
 			{
@@ -1272,6 +1304,12 @@
 				"gid" "6028673762143282368"
 				"size" "37810931"
 				"download" "37878400"
+			}
+			"temporary_1_57"
+			{
+				"gid" "29252533301610345"
+				"size" "37816690"
+				"download" "37772848"
 			}
 			"temporary_1_56"
 			{
@@ -1449,6 +1487,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7921356351300426751"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "7921356351300426751"
 				"size" "0"
@@ -1635,6 +1679,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "3283532009505007756"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "3283532009505007756"
@@ -1811,6 +1861,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6527425934994182475"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "6527425934994182475"
 				"size" "0"
@@ -1997,6 +2053,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "8979825731496411430"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "8979825731496411430"
@@ -2173,6 +2235,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7907072597469392319"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "7907072597469392319"
 				"size" "0"
@@ -2359,6 +2427,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "2957245413978440635"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "2957245413978440635"
@@ -2535,6 +2609,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "2905133123341935477"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "2905133123341935477"
 				"size" "0"
@@ -2721,6 +2801,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "380357946844704080"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "380357946844704080"
@@ -2897,6 +2983,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7623190349550009080"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "7623190349550009080"
 				"size" "0"
@@ -3083,6 +3175,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "8467607110335293908"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "8467607110335293908"
@@ -3259,6 +3357,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4860658739016211282"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "4860658739016211282"
 				"size" "0"
@@ -3445,6 +3549,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "4371874931215817064"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "4371874931215817064"
@@ -3621,6 +3731,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5999359468502785165"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "5999359468502785165"
 				"size" "0"
@@ -3807,6 +3923,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "5664607073299318301"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "5664607073299318301"
@@ -3983,6 +4105,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7202789966674546018"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "7202789966674546018"
 				"size" "0"
@@ -4169,6 +4297,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7992617693705249682"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "7992617693705249682"
@@ -4345,6 +4479,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4628475804235513753"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "4628475804235513753"
 				"size" "0"
@@ -4531,6 +4671,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "5568977514805005034"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "5568977514805005034"
@@ -4712,6 +4858,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "483676476628106674"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "483676476628106674"
@@ -4871,15 +5023,15 @@
 		{
 			"public"
 			{
-				"gid" "6331050504358367223"
-				"size" "62127212"
-				"download" "60184720"
+				"gid" "4281128872512681874"
+				"size" "180819753"
+				"download" "179132704"
 			}
 			"public_beta"
 			{
-				"gid" "6331050504358367223"
-				"size" "62127212"
-				"download" "60184720"
+				"gid" "4281128872512681874"
+				"size" "180819753"
+				"download" "179132704"
 			}
 			"oculus"
 			{
@@ -4893,11 +5045,17 @@
 				"size" "62171468"
 				"download" "59987664"
 			}
+			"temporary_1_57"
+			{
+				"gid" "4281128872512681874"
+				"size" "180819753"
+				"download" "179132704"
+			}
 			"temporary_1_56"
 			{
-				"gid" "8066769525173661381"
-				"size" "62125488"
-				"download" "60184144"
+				"gid" "6331050504358367223"
+				"size" "62127212"
+				"download" "60184720"
 			}
 			"temporary_1_55"
 			{
@@ -5069,6 +5227,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8538423298506949843"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "8538423298506949843"
 				"size" "0"
@@ -5255,6 +5419,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "2376290245923035824"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "2376290245923035824"
@@ -5431,6 +5601,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8493126685151868489"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "8493126685151868489"
 				"size" "0"
@@ -5617,6 +5793,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "280180584531605044"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "280180584531605044"
@@ -5793,6 +5975,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1648858371444446407"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "1648858371444446407"
 				"size" "0"
@@ -5979,6 +6167,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "4309460561061129218"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "4309460561061129218"
@@ -6155,6 +6349,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "4716220128845186726"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "4716220128845186726"
 				"size" "0"
@@ -6341,6 +6541,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "763490717740367964"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "763490717740367964"
@@ -6517,6 +6723,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5261877216088621057"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "5261877216088621057"
 				"size" "0"
@@ -6703,6 +6915,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7958922419590227872"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "7958922419590227872"
@@ -6879,6 +7097,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7023847166734251609"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "7023847166734251609"
 				"size" "0"
@@ -7065,6 +7289,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "5508406148406286721"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "5508406148406286721"
@@ -7241,6 +7471,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6769909265061195710"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "6769909265061195710"
 				"size" "0"
@@ -7427,6 +7663,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "318719124303882667"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "318719124303882667"
@@ -7603,6 +7845,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "614205605403850615"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "614205605403850615"
 				"size" "0"
@@ -7789,6 +8037,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "8043778932844749102"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "8043778932844749102"
@@ -7965,6 +8219,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7432566952650997396"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "7432566952650997396"
 				"size" "0"
@@ -8151,6 +8411,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "4905364748903397876"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "4905364748903397876"
@@ -8327,6 +8593,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7217290017793550202"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "7217290017793550202"
 				"size" "0"
@@ -8513,6 +8785,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "5400260333145696346"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "5400260333145696346"
@@ -8689,6 +8967,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8722492570923931470"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "8722492570923931470"
 				"size" "0"
@@ -8875,6 +9159,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "627390679225060384"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "627390679225060384"
@@ -9051,6 +9341,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "6215803422112305490"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "6215803422112305490"
 				"size" "0"
@@ -9237,6 +9533,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "2564821458389052219"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "2564821458389052219"
@@ -9413,6 +9715,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "9211433779081099616"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "9211433779081099616"
 				"size" "0"
@@ -9599,6 +9907,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "1714236825747095403"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "1714236825747095403"
@@ -9775,6 +10089,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "2333631855110248746"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "2333631855110248746"
 				"size" "0"
@@ -9961,6 +10281,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "620015009428909093"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "620015009428909093"
@@ -10120,15 +10446,15 @@
 		{
 			"public"
 			{
-				"gid" "7349238410769308543"
-				"size" "94860754"
-				"download" "90771024"
+				"gid" "7354225618649407392"
+				"size" "94869155"
+				"download" "90682896"
 			}
 			"public_beta"
 			{
-				"gid" "7349238410769308543"
-				"size" "94860754"
-				"download" "90771024"
+				"gid" "7354225618649407392"
+				"size" "94869155"
+				"download" "90682896"
 			}
 			"oculus"
 			{
@@ -10142,11 +10468,17 @@
 				"size" "94850003"
 				"download" "90803200"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7354225618649407392"
+				"size" "94869155"
+				"download" "90682896"
+			}
 			"temporary_1_56"
 			{
-				"gid" "5914807526892461965"
-				"size" "94856975"
-				"download" "90772112"
+				"gid" "7349238410769308543"
+				"size" "94860754"
+				"download" "90771024"
 			}
 			"temporary_1_55"
 			{
@@ -10318,6 +10650,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5995400305895737089"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "5995400305895737089"
 				"size" "0"
@@ -10504,6 +10842,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "1646764676298902558"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "1646764676298902558"
@@ -10680,6 +11024,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "702960128756830977"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "702960128756830977"
 				"size" "0"
@@ -10866,6 +11216,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7516040781686027632"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "7516040781686027632"
@@ -11042,6 +11398,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5361107034067998893"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "5361107034067998893"
 				"size" "0"
@@ -11228,6 +11590,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7485045655295992031"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "7485045655295992031"
@@ -11387,15 +11755,15 @@
 		{
 			"public"
 			{
-				"gid" "5396207092936346662"
-				"size" "84363967"
-				"download" "83365344"
+				"gid" "6929579049970219413"
+				"size" "84231038"
+				"download" "83301776"
 			}
 			"public_beta"
 			{
-				"gid" "5396207092936346662"
-				"size" "84363967"
-				"download" "83365344"
+				"gid" "6929579049970219413"
+				"size" "84231038"
+				"download" "83301776"
 			}
 			"oculus"
 			{
@@ -11409,11 +11777,17 @@
 				"size" "84356840"
 				"download" "83400448"
 			}
+			"temporary_1_57"
+			{
+				"gid" "6929579049970219413"
+				"size" "84231038"
+				"download" "83301776"
+			}
 			"temporary_1_56"
 			{
-				"gid" "8487037765015190587"
-				"size" "84360604"
-				"download" "83364400"
+				"gid" "5396207092936346662"
+				"size" "84363967"
+				"download" "83365344"
 			}
 			"temporary_1_55"
 			{
@@ -11585,6 +11959,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "553771190614744972"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "553771190614744972"
 				"size" "0"
@@ -11771,6 +12151,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "6406937035159279794"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "6406937035159279794"
@@ -11947,6 +12333,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1919550032765055462"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "1919550032765055462"
 				"size" "0"
@@ -12133,6 +12525,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "4945826575397812199"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "4945826575397812199"
@@ -12314,6 +12712,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "5991883449228130297"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "5991883449228130297"
@@ -12467,15 +12871,15 @@
 		{
 			"public"
 			{
-				"gid" "6317916756351448215"
-				"size" "97437810"
-				"download" "94831696"
+				"gid" "7309263809710202857"
+				"size" "100621728"
+				"download" "98294864"
 			}
 			"public_beta"
 			{
-				"gid" "6317916756351448215"
-				"size" "97437810"
-				"download" "94831696"
+				"gid" "7309263809710202857"
+				"size" "100621728"
+				"download" "98294864"
 			}
 			"oculus"
 			{
@@ -12489,11 +12893,17 @@
 				"size" "97414745"
 				"download" "94877088"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7309263809710202857"
+				"size" "100621728"
+				"download" "98294864"
+			}
 			"temporary_1_56"
 			{
-				"gid" "5844744271405393201"
-				"size" "97425586"
-				"download" "94829040"
+				"gid" "6317916756351448215"
+				"size" "97437810"
+				"download" "94831696"
 			}
 			"temporary_1_55"
 			{
@@ -12659,6 +13069,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "3931725649050572730"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "3931725649050572730"
 				"size" "0"
@@ -12839,6 +13255,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "3465626021269207986"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "3465626021269207986"
@@ -13009,6 +13431,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7545485906113247155"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "7545485906113247155"
 				"size" "0"
@@ -13189,6 +13617,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7178260226727326542"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "7178260226727326542"
@@ -13364,6 +13798,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "4671341810091804714"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "4671341810091804714"
@@ -13517,15 +13957,15 @@
 		{
 			"public"
 			{
-				"gid" "6767223258650687767"
-				"size" "209174597"
-				"download" "204893504"
+				"gid" "4574300503825038798"
+				"size" "209249013"
+				"download" "205293056"
 			}
 			"public_beta"
 			{
-				"gid" "6767223258650687767"
-				"size" "209174597"
-				"download" "204893504"
+				"gid" "4574300503825038798"
+				"size" "209249013"
+				"download" "205293056"
 			}
 			"oculus"
 			{
@@ -13539,11 +13979,17 @@
 				"size" "209106513"
 				"download" "204838928"
 			}
+			"temporary_1_57"
+			{
+				"gid" "4574300503825038798"
+				"size" "209249013"
+				"download" "205293056"
+			}
 			"temporary_1_56"
 			{
-				"gid" "3352656193805379501"
-				"size" "209166904"
-				"download" "204891600"
+				"gid" "6767223258650687767"
+				"size" "209174597"
+				"download" "204893504"
 			}
 			"temporary_1_55"
 			{
@@ -13703,6 +14149,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1067637122708666818"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "1067637122708666818"
 				"size" "0"
@@ -13883,6 +14335,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "1121503996381158582"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "1121503996381158582"
@@ -14047,6 +14505,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "3324815250320656782"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "3324815250320656782"
 				"size" "0"
@@ -14221,6 +14685,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "2379835362999603702"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "2379835362999603702"
@@ -14384,6 +14854,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "4489366073136472613"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "4489366073136472613"
@@ -14541,6 +15017,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "8627600342676627930"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "8627600342676627930"
@@ -14562,15 +15044,15 @@
 		{
 			"public"
 			{
-				"gid" "5901637052608202885"
-				"size" "345106101"
-				"download" "342029984"
+				"gid" "7822126233446433406"
+				"size" "344208034"
+				"download" "341287072"
 			}
 			"public_beta"
 			{
-				"gid" "5901637052608202885"
-				"size" "345106101"
-				"download" "342029984"
+				"gid" "7822126233446433406"
+				"size" "344208034"
+				"download" "341287072"
 			}
 			"oculus"
 			{
@@ -14584,11 +15066,17 @@
 				"size" "345084692"
 				"download" "342444176"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7822126233446433406"
+				"size" "344208034"
+				"download" "341287072"
+			}
 			"temporary_1_56"
 			{
-				"gid" "2510239528016867959"
-				"size" "345093453"
-				"download" "342026656"
+				"gid" "5901637052608202885"
+				"size" "345106101"
+				"download" "342029984"
 			}
 			"temporary_1_55"
 			{
@@ -14724,6 +15212,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "1383614172783786394"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "1383614172783786394"
 				"size" "0"
@@ -14874,6 +15368,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "8323549460675734992"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "8323549460675734992"
@@ -15013,6 +15513,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "6888770779331421318"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "6888770779331421318"
@@ -15140,6 +15646,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "8368596210107716972"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "8368596210107716972"
@@ -15239,15 +15751,15 @@
 		{
 			"public"
 			{
-				"gid" "998840297201695795"
-				"size" "433669970"
-				"download" "427385680"
+				"gid" "7503697873675437983"
+				"size" "428976903"
+				"download" "422655360"
 			}
 			"public_beta"
 			{
-				"gid" "998840297201695795"
-				"size" "433669970"
-				"download" "427385680"
+				"gid" "7503697873675437983"
+				"size" "428976903"
+				"download" "422655360"
 			}
 			"oculus"
 			{
@@ -15261,11 +15773,17 @@
 				"size" "434384217"
 				"download" "428365360"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7503697873675437983"
+				"size" "428976903"
+				"download" "422655360"
+			}
 			"temporary_1_56"
 			{
-				"gid" "4903737420458287731"
-				"size" "433662743"
-				"download" "427383200"
+				"gid" "998840297201695795"
+				"size" "433669970"
+				"download" "427385680"
 			}
 			"temporary_1_55"
 			{
@@ -15353,6 +15871,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8615273824501394788"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "8615273824501394788"
 				"size" "0"
@@ -15473,6 +15997,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "3225902090318410395"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "3225902090318410395"
@@ -15582,6 +16112,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7809383020142126541"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "7809383020142126541"
@@ -15680,6 +16216,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "7895863578875893287"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "7895863578875893287"
 				"size" "0"
@@ -15788,6 +16330,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7245421719166789535"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "7245421719166789535"
@@ -15874,6 +16422,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8804192099694682025"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "8804192099694682025"
 				"size" "0"
@@ -15976,6 +16530,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "5009768597697504470"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "5009768597697504470"
@@ -16067,6 +16627,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "6125692916729941617"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "6125692916729941617"
@@ -16152,6 +16718,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "8987986584070519860"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "8987986584070519860"
@@ -16226,6 +16798,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8290080232077515320"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "8290080232077515320"
 				"size" "0"
@@ -16310,6 +16888,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "6665593843249505581"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "6665593843249505581"
@@ -16361,15 +16945,15 @@
 		{
 			"public"
 			{
-				"gid" "6820615791946686439"
-				"size" "529306375"
-				"download" "517864544"
+				"gid" "5809888046185331505"
+				"size" "498293761"
+				"download" "487847952"
 			}
 			"public_beta"
 			{
-				"gid" "6820615791946686439"
-				"size" "529306375"
-				"download" "517864544"
+				"gid" "5809888046185331505"
+				"size" "498293761"
+				"download" "487847952"
 			}
 			"oculus"
 			{
@@ -16383,11 +16967,17 @@
 				"size" "526982619"
 				"download" "515652288"
 			}
+			"temporary_1_57"
+			{
+				"gid" "5809888046185331505"
+				"size" "498293761"
+				"download" "487847952"
+			}
 			"temporary_1_56"
 			{
-				"gid" "1678894318527896848"
-				"size" "529303757"
-				"download" "517863872"
+				"gid" "6820615791946686439"
+				"size" "529306375"
+				"download" "517864544"
 			}
 			"temporary_1_55"
 			{
@@ -16444,6 +17034,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "6024978619739322674"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "6024978619739322674"
@@ -16495,21 +17091,27 @@
 		{
 			"public"
 			{
-				"gid" "8645794699738831419"
-				"size" "0"
-				"download" "0"
+				"gid" "8013490502919158605"
+				"size" "570154944"
+				"download" "568591504"
 			}
 			"public_beta"
 			{
-				"gid" "8645794699738831419"
-				"size" "0"
-				"download" "0"
+				"gid" "8013490502919158605"
+				"size" "570154944"
+				"download" "568591504"
 			}
 			"oculus"
 			{
 				"gid" "8645794699738831419"
 				"size" "0"
 				"download" "0"
+			}
+			"temporary_1_57"
+			{
+				"gid" "8013490502919158605"
+				"size" "570154944"
+				"download" "568591504"
 			}
 			"temporary_1_56"
 			{
@@ -16543,6 +17145,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "3942582452463801047"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "3942582452463801047"
 				"size" "0"
@@ -16615,6 +17223,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "8695049842862174770"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "8695049842862174770"
@@ -16676,6 +17290,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "6312086033646729789"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "6312086033646729789"
@@ -16726,6 +17346,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "5730712882518993272"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "5730712882518993272"
 				"size" "0"
@@ -16786,6 +17412,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "6789632481762577527"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "6789632481762577527"
@@ -16839,6 +17471,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "7408828465166967332"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "7408828465166967332"
@@ -16871,6 +17509,12 @@
 				"download" "0"
 			}
 			"oculus_previous"
+			{
+				"gid" "8921517554927394570"
+				"size" "0"
+				"download" "0"
+			}
+			"temporary_1_57"
 			{
 				"gid" "8921517554927394570"
 				"size" "0"
@@ -16971,6 +17615,12 @@
 				"size" "0"
 				"download" "0"
 			}
+			"temporary_1_57"
+			{
+				"gid" "1123451156927013286"
+				"size" "0"
+				"download" "0"
+			}
 			"temporary_1_56"
 			{
 				"gid" "1123451156927013286"
@@ -16983,25 +17633,50 @@
 	{
 		"dlcappid" "2386540"
 	}
+	"4159240"
+	{
+		"dlcappid" "4159240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5218674887418235929"
+				"size" "37006153"
+				"download" "35228192"
+			}
+			"public_beta"
+			{
+				"gid" "5218674887418235929"
+				"size" "37006153"
+				"download" "35228192"
+			}
+			"temporary_1_57"
+			{
+				"gid" "5218674887418235929"
+				"size" "37006153"
+				"download" "35228192"
+			}
+		}
+	}
 	"hasdepotsindlc" "1"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "20463792"
-			"timeupdated" "1761118389"
+			"buildid" "20856016"
+			"timeupdated" "1763625683"
 		}
 		"public_beta"
 		{
-			"buildid" "20463792"
-			"description" "Open Beta for game version 1.56"
-			"timeupdated" "1761117498"
+			"buildid" "20856016"
+			"description" "Open Beta for game version 1.57"
+			"timeupdated" "1763625612"
 		}
 		"oculus"
 		{
-			"buildid" "20417068"
+			"buildid" "20493265"
 			"description" "Oculus+OpenVR+OpenXR - 1.56"
-			"timeupdated" "1760656111"
+			"timeupdated" "1761130501"
 		}
 		"oculus_previous"
 		{
@@ -17009,11 +17684,17 @@
 			"description" "Oculus+OpenVR+OpenXR - 1.55"
 			"timeupdated" "1758179731"
 		}
+		"temporary_1_57"
+		{
+			"buildid" "20856016"
+			"description" "1.57.x for incompatible mods"
+			"timeupdated" "1763626096"
+		}
 		"temporary_1_56"
 		{
-			"buildid" "20387679"
+			"buildid" "20463792"
 			"description" "1.56.x for incompatible mods\t"
-			"timeupdated" "1760529371"
+			"timeupdated" "1763625645"
 		}
 		"temporary_1_55"
 		{
@@ -17168,6 +17849,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "31831580"
-"_sha" "fa5cc4524bbfd8deb50bfae3eae75e22d21a45ff"
-"_size" "304986"
+"_change_number" "32354042"
+"_sha" "d483a51b1e31c94736dcd0fdcf217db8b855d70f"
+"_size" "317193"
