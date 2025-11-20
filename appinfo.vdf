@@ -119,6 +119,12 @@
 				"size" "95930"
 				"download" "17808"
 			}
+			"157_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
 			"legacy_compatibility_branch"
 			{
 				"gid" "2462896452508972077"
@@ -263,9 +269,9 @@
 		{
 			"public"
 			{
-				"gid" "1961364145751652414"
-				"size" "44167928"
-				"download" "14306816"
+				"gid" "2597690116203205981"
+				"size" "45212408"
+				"download" "14402400"
 			}
 			"155_compatibility_branch"
 			{
@@ -278,6 +284,12 @@
 				"gid" "1961364145751652414"
 				"size" "44167928"
 				"download" "14306816"
+			}
+			"157_compatibility_branch"
+			{
+				"gid" "2597690116203205981"
+				"size" "45212408"
+				"download" "14402400"
 			}
 			"legacy_compatibility_branch"
 			{
@@ -407,9 +419,9 @@
 			}
 			"public_beta"
 			{
-				"gid" "1961364145751652414"
-				"size" "44167928"
-				"download" "14306816"
+				"gid" "2597690116203205981"
+				"size" "45212408"
+				"download" "14402400"
 			}
 		}
 	}
@@ -417,8 +429,8 @@
 	{
 		"public"
 		{
-			"buildid" "19810082"
-			"timeupdated" "1758180217"
+			"buildid" "20663470"
+			"timeupdated" "1763626496"
 		}
 		"155_compatibility_branch"
 		{
@@ -431,6 +443,12 @@
 			"buildid" "19810082"
 			"description" "1.56 compatibility branch"
 			"timeupdated" "1756720135"
+		}
+		"157_compatibility_branch"
+		{
+			"buildid" "20663470"
+			"description" "1.57 compatibility branch"
+			"timeupdated" "1762424333"
 		}
 		"legacy_compatibility_branch"
 		{
@@ -560,9 +578,9 @@
 		}
 		"public_beta"
 		{
-			"buildid" "19810082"
-			"description" "1.56 support branch (beta)"
-			"timeupdated" "1756720147"
+			"buildid" "20663470"
+			"description" "1.57 support branch (beta)"
+			"timeupdated" "1762424309"
 		}
 	}
 	"privatebranches" "1"
@@ -573,6 +591,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "31174468"
-"_sha" "9706811924eb7dccbf483e77cf98859098f6121d"
-"_size" "12521"
+"_change_number" "32354112"
+"_sha" "ee8c28af7772885d269924afda67fac863b2ec6f"
+"_size" "12918"
