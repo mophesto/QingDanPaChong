@@ -206,12 +206,14 @@
 		"19" "6650"
 	}
 	"review_score" "5"
-	"review_percentage" "58"
+	"review_percentage" "59"
 }
 "extended"
 {
 	"developer" "AURORA Games"
 	"publisher" "AURORA Games"
+	"listofdlc" "4030120"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -256,9 +258,9 @@
 		{
 			"public"
 			{
-				"gid" "1331945697233191866"
-				"size" "30173791101"
-				"download" "29503450240"
+				"gid" "6853100639360143262"
+				"size" "30345728296"
+				"download" "29701539056"
 			}
 		}
 	}
@@ -273,19 +275,25 @@
 		"dlcappid" "4030120"
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "744975212470020523"
+				"size" "299834496"
+				"download" "296194496"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "20513005"
-			"timeupdated" "1761226945"
+			"buildid" "20950870"
+			"timeupdated" "1764172596"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "31860357"
-"_sha" "d1cdac27f574b08c5035e15bfc14ae4f291e7459"
-"_size" "4686"
+"_change_number" "32465572"
+"_sha" "80dd0266b2484a061ea5fbb1bff8a5d09361e431"
+"_size" "4852"
