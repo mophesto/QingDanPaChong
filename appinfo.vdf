@@ -23,15 +23,18 @@
 		"german" "1"
 		"french" "1"
 		"koreana" "1"
+		"spanish" "1"
 		"schinese" "1"
 		"tchinese" "1"
 		"russian" "1"
 		"japanese" "1"
 		"brazilian" "1"
+		"latam" "1"
 	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1660867200"
 		"tested_build_id" "9301361"
 		"tests"
@@ -62,6 +65,19 @@
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -74,7 +90,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-7.0-4"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controller_support" "partial"
@@ -143,7 +161,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1699333681"
+	"store_asset_mtime" "1750665131"
 	"associations"
 	{
 		"0"
@@ -231,16 +249,16 @@
 	"store_tags"
 	{
 		"0" "3964"
-		"1" "19"
-		"2" "1742"
+		"1" "1742"
+		"2" "19"
 		"3" "4115"
 		"4" "21"
 		"5" "5379"
-		"6" "4106"
+		"6" "3871"
 		"7" "4182"
-		"8" "3871"
-		"9" "1625"
-		"10" "492"
+		"8" "492"
+		"9" "4106"
+		"10" "1625"
 		"11" "4004"
 		"12" "4026"
 		"13" "3798"
@@ -248,8 +266,8 @@
 		"15" "1756"
 		"16" "3877"
 		"17" "7250"
-		"18" "3942"
-		"19" "5030"
+		"18" "5030"
+		"19" "3942"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -259,6 +277,8 @@
 	"developer" "WONDER POTION"
 	"publisher" "NEOWIZ"
 	"homepage" "https://playneowiz.com/sanabi"
+	"listofdlc" "3996620"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -279,30 +299,9 @@
 		{
 			"public"
 			{
-				"gid" "6606449148201361340"
-				"size" "3197916288"
-				"download" "1891171888"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"ea_1_0_1"
-			{
-				"gid" "751FA68EBAEA1AC5F34621DC8B51FC6E"
-				"size" "7D4CF3735856E661D80361855AAAA400"
-				"download" "46BEC6F6D9B9793D2A31B482F3B8DD1C"
-			}
-			"regression_build"
-			{
-				"gid" "B60139D2D1AF552E6B01286C15CDD22D"
-				"size" "FCD603349EDF10A4BD204FF407FAA3E5"
-				"download" "0D62B4C3563726E25C69F737FB329518"
-			}
-			"test"
-			{
-				"gid" "8BF13718269668551554F0EE94229837"
-				"size" "DADD69E06EE53539C6A074D2C5B4A443"
-				"download" "C696054436A56FB438AF065EABABF1F5"
+				"gid" "5431662647643821231"
+				"size" "3948469706"
+				"download" "2317494144"
 			}
 		}
 	}
@@ -310,28 +309,11 @@
 	{
 		"public"
 		{
-			"buildid" "15803670"
-			"timeupdated" "1727236783"
-		}
-		"ea_1_0_1"
-		{
-			"buildid" "8983773"
-			"pwdrequired" "1"
-			"timeupdated" "1655879341"
-		}
-		"regression_build"
-		{
-			"buildid" "15502303"
-			"pwdrequired" "1"
-			"timeupdated" "1724744934"
-		}
-		"test"
-		{
-			"buildid" "15803672"
-			"pwdrequired" "1"
-			"timeupdated" "1727157894"
+			"buildid" "20752549"
+			"timeupdated" "1764201745"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -348,6 +330,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25379836"
-"_sha" "eb984610823355d9b116953c2649b90fe122cfbe"
-"_size" "6317"
+"_change_number" "32473245"
+"_sha" "89e3054c0b6fc33a46d76631bc3bedd771beae30"
+"_size" "5887"
