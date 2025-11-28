@@ -12,6 +12,12 @@
 	"releasestate" "released"
 	"clienticns" "bfed77d176b9b695af85c3e10e0a64d5f9102322"
 	"linuxclienticon" "0d4f864cbdd9e5dddf0bcda2b0b5f06afba8be50"
+	"languages"
+	{
+		"english" "1"
+		"spanish" "1"
+		"czech" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -325,9 +331,9 @@
 		{
 			"public"
 			{
-				"gid" "6277838718511932830"
-				"size" "644133571"
-				"download" "537033840"
+				"gid" "6505649386721705991"
+				"size" "653335657"
+				"download" "540087424"
 			}
 		}
 	}
@@ -341,9 +347,9 @@
 		{
 			"public"
 			{
-				"gid" "4187464600922819004"
-				"size" "746243470"
-				"download" "564278224"
+				"gid" "5490278189208490475"
+				"size" "746241642"
+				"download" "564296992"
 			}
 		}
 	}
@@ -357,9 +363,9 @@
 		{
 			"public"
 			{
-				"gid" "7799263934179729584"
-				"size" "682464466"
-				"download" "540243392"
+				"gid" "2335753445091788115"
+				"size" "696587537"
+				"download" "545078512"
 			}
 		}
 	}
@@ -370,9 +376,9 @@
 		{
 			"public"
 			{
-				"gid" "3476854364480595768"
-				"size" "162777475"
-				"download" "140908912"
+				"gid" "515509976132042656"
+				"size" "162392933"
+				"download" "143665312"
 			}
 		}
 	}
@@ -482,8 +488,8 @@
 	{
 		"public"
 		{
-			"buildid" "20405471"
-			"timeupdated" "1760546436"
+			"buildid" "20861507"
+			"timeupdated" "1764264474"
 		}
 	}
 	"privatebranches" "1"
@@ -536,6 +542,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31688684"
-"_sha" "4d4f739f826dfd5d1e5a40d6ad2c27e08dd3fefe"
-"_size" "8579"
+"_change_number" "32489541"
+"_sha" "21f01d87a81880a2a9d562b1d92e5d439f70a25e"
+"_size" "8652"
