@@ -289,18 +289,26 @@
 		{
 			"public"
 			{
-				"gid" "6806243406836893924"
-				"size" "10568384175"
-				"download" "3688099408"
+				"gid" "445793194149014770"
+				"size" "10515403649"
+				"download" "3703792704"
 			}
+		}
+	}
+	"1578392"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "20784443"
-			"timeupdated" "1763042583"
+			"buildid" "20982328"
+			"timeupdated" "1764400068"
 		}
 	}
 	"privatebranches" "1"
@@ -311,6 +319,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "32235276"
-"_sha" "87d77fb0a100f5395dc91fb43ff046753ad79c6b"
-"_size" "5318"
+"_change_number" "32516669"
+"_sha" "3d48e91a0c588f09de14fc773eda0731c38a10d2"
+"_size" "5402"
