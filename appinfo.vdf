@@ -387,9 +387,15 @@
 		{
 			"public"
 			{
-				"gid" "7218921359277521885"
-				"size" "98445649601"
-				"download" "31465354096"
+				"gid" "814727576168197635"
+				"size" "98484918794"
+				"download" "31607126768"
+			}
+			"pterelease"
+			{
+				"gid" "6454889706863152355"
+				"size" "98445657094"
+				"download" "31477483408"
 			}
 		}
 	}
@@ -404,6 +410,12 @@
 		"manifests"
 		{
 			"public"
+			{
+				"gid" "6252294094855435400"
+				"size" "37896840"
+				"download" "25373104"
+			}
+			"pterelease"
 			{
 				"gid" "6252294094855435400"
 				"size" "37896840"
@@ -427,6 +439,12 @@
 				"size" "96504739"
 				"download" "94680896"
 			}
+			"pterelease"
+			{
+				"gid" "8526987047835682522"
+				"size" "96504739"
+				"download" "94680896"
+			}
 		}
 	}
 	"3596770"
@@ -445,19 +463,31 @@
 				"size" "66059451"
 				"download" "59134144"
 			}
+			"pterelease"
+			{
+				"gid" "4482977239842637557"
+				"size" "66059451"
+				"download" "59134144"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "20737364"
-			"timeupdated" "1762779558"
+			"buildid" "21005454"
+			"timeupdated" "1764597586"
+		}
+		"pterelease"
+		{
+			"buildid" "21006074"
+			"description" "PTE release branch"
+			"timeupdated" "1764594731"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "32173035"
-"_sha" "1386bcdfc9ba6926a08e45c46fd98688a990d82e"
-"_size" "8295"
+"_change_number" "32544302"
+"_sha" "3492174eef8f184ac2a91d77b3b9f5749ef5bc33"
+"_size" "8884"
