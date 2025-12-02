@@ -275,7 +275,7 @@
 		"19" "1742"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -310,9 +310,9 @@
 		{
 			"public"
 			{
-				"gid" "3459492665507797866"
-				"size" "616768558"
-				"download" "494236784"
+				"gid" "90091844755805913"
+				"size" "616751285"
+				"download" "494313888"
 			}
 			"crossblitz_beta"
 			{
@@ -326,8 +326,8 @@
 	{
 		"public"
 		{
-			"buildid" "20822946"
-			"timeupdated" "1763999730"
+			"buildid" "20944832"
+			"timeupdated" "1764691340"
 		}
 		"crossblitz_beta"
 		{
@@ -372,6 +372,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "32423373"
-"_sha" "0aefb9f66b43803290eb58b7334d51e6fcdad70b"
-"_size" "8244"
+"_change_number" "32567670"
+"_sha" "702f472cee46835db26875ce8cbce3ceb0edc181"
+"_size" "8242"
