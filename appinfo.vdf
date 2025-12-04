@@ -26,6 +26,7 @@
 	}
 	"osarch" ""
 	"osextended" "macos64"
+	"market_presence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -95,7 +96,6 @@
 			"hdr_support" "0"
 		}
 	}
-	"market_presence" "1"
 	"metacritic_name" "Unturned"
 	"small_capsule"
 	{
@@ -114,9 +114,9 @@
 		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
+			"pinned_position" "BottomCenter"
 			"width_pct" "49"
-			"height_pct" "60"
+			"height_pct" "68.7369420702754"
 		}
 	}
 	"library_assets_full"
@@ -125,61 +125,61 @@
 		{
 			"image"
 			{
-				"english" "f9e3f725d8155943c91a338a860cdfd011bfe2a0/library_capsule.jpg"
+				"english" "dd10c2c5dde22c3044c3cf1dcc17df8739e83dff/library_capsule.jpg"
 			}
 			"image2x"
 			{
-				"english" "f9e3f725d8155943c91a338a860cdfd011bfe2a0/library_capsule_2x.jpg"
+				"english" "dd10c2c5dde22c3044c3cf1dcc17df8739e83dff/library_capsule_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "8f97910162ccf536e3be8f394e40b1e287be37cb/library_hero.jpg"
+				"english" "057572b732954853cd64c45a9c82daece27e2b29/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "8f97910162ccf536e3be8f394e40b1e287be37cb/library_hero_2x.jpg"
+				"english" "057572b732954853cd64c45a9c82daece27e2b29/library_hero_2x.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "8f97910162ccf536e3be8f394e40b1e287be37cb/library_hero_blur.jpg"
+				"english" "057572b732954853cd64c45a9c82daece27e2b29/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"image"
 			{
-				"english" "b612251cc0fd1d3e66aa22f5bb0509d7dbe1f0c7/logo.png"
+				"english" "4cf389631ca09e88477f124c51afb971f8d252d2/logo.png"
 			}
 			"image2x"
 			{
-				"english" "b612251cc0fd1d3e66aa22f5bb0509d7dbe1f0c7/logo_2x.png"
+				"english" "4cf389631ca09e88477f124c51afb971f8d252d2/logo_2x.png"
 			}
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
+				"pinned_position" "BottomCenter"
 				"width_pct" "49"
-				"height_pct" "60"
+				"height_pct" "68.7369420702754"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "c65874b74d1d002162a3082263df5dfdda44281a/library_header.jpg"
+				"english" "7d9519f2ad084b5f3bf4955bd0e0ab49cf648928/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "c65874b74d1d002162a3082263df5dfdda44281a/library_header_2x.jpg"
+				"english" "7d9519f2ad084b5f3bf4955bd0e0ab49cf648928/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1758562575"
+	"store_asset_mtime" "1761681593"
 	"associations"
 	{
 		"0"
@@ -258,8 +258,8 @@
 		"6" "3810"
 		"7" "1702"
 		"8" "1774"
-		"9" "21"
-		"10" "3835"
+		"9" "3835"
+		"10" "21"
 		"11" "3839"
 		"12" "4182"
 		"13" "353880"
@@ -267,8 +267,8 @@
 		"15" "19"
 		"16" "128"
 		"17" "492"
-		"18" "4166"
-		"19" "597"
+		"18" "597"
+		"19" "4166"
 	}
 	"review_score" "8"
 	"review_percentage" "91"
@@ -290,7 +290,7 @@
 	}
 	"developer" "Smartly Dressed Games"
 	"publisher" "Smartly Dressed Games"
-	"homepage" "http://smartlydressedgames.com/"
+	"homepage" "https://smartlydressedgames.com/"
 	"isfreeapp" "1"
 	"listofdlc" "306460,392250,429880,429881,1651820,2087620"
 	"dlcavailableonstore" "1"
@@ -402,9 +402,9 @@
 		{
 			"public"
 			{
-				"gid" "5089529009351027698"
-				"size" "566612636"
-				"download" "223544528"
+				"gid" "3653587511059366330"
+				"size" "549178769"
+				"download" "224621584"
 			}
 			"32bit-windows"
 			{
@@ -462,15 +462,15 @@
 			}
 			"preview"
 			{
-				"gid" "5089529009351027698"
-				"size" "566612636"
-				"download" "223544528"
+				"gid" "3653587511059366330"
+				"size" "549178769"
+				"download" "224621584"
 			}
 			"unity-2022-preview"
 			{
-				"gid" "19199088448398411"
-				"size" "535539542"
-				"download" "210309952"
+				"gid" "909680827886345900"
+				"size" "572110339"
+				"download" "228738768"
 			}
 		}
 	}
@@ -486,9 +486,9 @@
 		{
 			"public"
 			{
-				"gid" "7732356313147355932"
-				"size" "590443711"
-				"download" "240428880"
+				"gid" "8976625446791642087"
+				"size" "574798701"
+				"download" "242200448"
 			}
 			"32bit-windows"
 			{
@@ -546,15 +546,15 @@
 			}
 			"preview"
 			{
-				"gid" "7732356313147355932"
-				"size" "590443711"
-				"download" "240428880"
+				"gid" "8976625446791642087"
+				"size" "574798701"
+				"download" "242200448"
 			}
 			"unity-2022-preview"
 			{
-				"gid" "1738526867029912269"
-				"size" "561013329"
-				"download" "226868272"
+				"gid" "4776888035775518092"
+				"size" "597719269"
+				"download" "246316256"
 			}
 		}
 	}
@@ -570,9 +570,9 @@
 		{
 			"public"
 			{
-				"gid" "1581623481696360101"
-				"size" "511132490"
-				"download" "188393696"
+				"gid" "5803539067229160867"
+				"size" "499490822"
+				"download" "188551680"
 			}
 			"32bit-windows"
 			{
@@ -630,15 +630,15 @@
 			}
 			"preview"
 			{
-				"gid" "1581623481696360101"
-				"size" "511132490"
-				"download" "188393696"
+				"gid" "5803539067229160867"
+				"size" "499490822"
+				"download" "188551680"
 			}
 			"unity-2022-preview"
 			{
-				"gid" "5070021736458981069"
-				"size" "486320888"
-				"download" "179386544"
+				"gid" "3596967070275948862"
+				"size" "518194874"
+				"download" "190730576"
 			}
 		}
 	}
@@ -654,9 +654,9 @@
 		{
 			"public"
 			{
-				"gid" "423113375443878460"
-				"size" "560186464"
-				"download" "214363712"
+				"gid" "44368090371940197"
+				"size" "543925122"
+				"download" "214706432"
 			}
 			"32bit-windows"
 			{
@@ -708,15 +708,15 @@
 			}
 			"preview"
 			{
-				"gid" "423113375443878460"
-				"size" "560186464"
-				"download" "214363712"
+				"gid" "44368090371940197"
+				"size" "543925122"
+				"download" "214706432"
 			}
 			"unity-2022-preview"
 			{
-				"gid" "4403095567486085351"
-				"size" "464116252"
-				"download" "133905792"
+				"gid" "772562367054667044"
+				"size" "499213935"
+				"download" "151941248"
 			}
 		}
 	}
@@ -730,9 +730,9 @@
 		{
 			"public"
 			{
-				"gid" "8042776930843761668"
-				"size" "1649496220"
-				"download" "1123790176"
+				"gid" "5441915876424808937"
+				"size" "1649500993"
+				"download" "1123799712"
 			}
 			"32bit-windows"
 			{
@@ -784,15 +784,15 @@
 			}
 			"preview"
 			{
-				"gid" "8042776930843761668"
-				"size" "1649496220"
-				"download" "1123790176"
+				"gid" "5441915876424808937"
+				"size" "1649500993"
+				"download" "1123799712"
 			}
 			"unity-2022-preview"
 			{
-				"gid" "7033388386406648199"
-				"size" "1678087372"
-				"download" "1157554320"
+				"gid" "8351749541655842344"
+				"size" "1649497452"
+				"download" "1123791392"
 			}
 		}
 	}
@@ -806,9 +806,9 @@
 		{
 			"public"
 			{
-				"gid" "2405415749559683097"
-				"size" "4833467"
-				"download" "292000"
+				"gid" "7659887847722712561"
+				"size" "4833455"
+				"download" "291984"
 			}
 			"32bit-windows"
 			{
@@ -860,15 +860,15 @@
 			}
 			"preview"
 			{
-				"gid" "2405415749559683097"
-				"size" "4833467"
-				"download" "292000"
+				"gid" "7659887847722712561"
+				"size" "4833455"
+				"download" "291984"
 			}
 			"unity-2022-preview"
 			{
-				"gid" "5432853820581698473"
-				"size" "4431599"
-				"download" "244800"
+				"gid" "2405415749559683097"
+				"size" "4833467"
+				"download" "292000"
 			}
 		}
 	}
@@ -876,8 +876,8 @@
 	{
 		"public"
 		{
-			"buildid" "20242991"
-			"timeupdated" "1759524597"
+			"buildid" "21056615"
+			"timeupdated" "1764866888"
 		}
 		"32bit-windows"
 		{
@@ -934,15 +934,15 @@
 		}
 		"preview"
 		{
-			"buildid" "20242991"
+			"buildid" "21056615"
 			"description" "Public test branch"
-			"timeupdated" "1759511627"
+			"timeupdated" "1764865596"
 		}
 		"unity-2022-preview"
 		{
-			"buildid" "18363784"
+			"buildid" "20408927"
 			"description" "Testing upgrade to Unity 2022 LTS"
-			"timeupdated" "1746557542"
+			"timeupdated" "1760560921"
 		}
 	}
 	"privatebranches" "1"
@@ -970,6 +970,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31471522"
-"_sha" "44f9be05f78c4a910f4817480579d29576ab142f"
-"_size" "18304"
+"_change_number" "32612275"
+"_sha" "40d957b13a7758f5f0e7d6d4789760829f4378a9"
+"_size" "18335"
