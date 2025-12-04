@@ -23,13 +23,13 @@
 		"schinese" "c6677ce5aa2c25d5b607a6fb9e1655ca4e02d0bd/header_schinese.jpg"
 	}
 	"store_screenshot" "cd5dd83d68b65d53dccbbdcf1001b33f770e8d10/ss_cd5dd83d68b65d53dccbbdcf1001b33f770e8d10.jpg"
-	"store_asset_mtime" "1761760703"
+	"store_asset_mtime" "1764084009"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "Colossal Order Ltd."
+			"name" "Colossal Order"
 		}
 		"1"
 		{
@@ -125,13 +125,13 @@
 		"19" "12095"
 	}
 	"review_score" "5"
-	"review_percentage" "67"
+	"review_percentage" "54"
 }
 "extended"
 {
 	"dlcforappid" "949230"
 	"mustownapptopurchase" "949230"
-	"developer" "Colossal Order Ltd."
+	"developer" "Colossal Order"
 	"publisher" "Paradox Interactive"
 	"dlcavailableonstore" "1"
 }
@@ -148,9 +148,9 @@
 		{
 			"public"
 			{
-				"gid" "4116830031482094902"
-				"size" "7374217317"
-				"download" "6541183760"
+				"gid" "4116766632511709907"
+				"size" "7384423882"
+				"download" "6554456768"
 			}
 		}
 		"dlcappid" "2427743"
@@ -159,13 +159,13 @@
 	{
 		"public"
 		{
-			"buildid" "19947074"
-			"timeupdated" "1761731692"
+			"buildid" "20838391"
+			"timeupdated" "1764838615"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "31977414"
-"_sha" "77f50610fad6a1b503dba832d884e822070e362b"
-"_size" "2757"
+"_change_number" "32603427"
+"_sha" "460b6d7c8d9c2991515c0ca37c40240e9e673eaf"
+"_size" "2747"
