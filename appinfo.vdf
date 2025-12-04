@@ -27,7 +27,7 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "Colossal Order Ltd."
+			"name" "Paradox Interactive"
 		}
 		"1"
 		{
@@ -122,12 +122,14 @@
 		"18" "1756"
 		"19" "12095"
 	}
+	"review_score" "6"
+	"review_percentage" "74"
 }
 "extended"
 {
 	"dlcforappid" "949230"
 	"mustownapptopurchase" "949230"
-	"developer" "Colossal Order Ltd."
+	"developer" "Paradox Interactive"
 	"publisher" "Paradox Interactive"
 	"dlcavailableonstore" "1"
 }
@@ -144,9 +146,9 @@
 		{
 			"public"
 			{
-				"gid" "7095579933877427936"
-				"size" "218189531"
-				"download" "219135008"
+				"gid" "3599726097608043890"
+				"size" "218189928"
+				"download" "219135104"
 			}
 		}
 		"dlcappid" "2427746"
@@ -155,13 +157,13 @@
 	{
 		"public"
 		{
-			"buildid" "17387152"
-			"timeupdated" "1761731869"
+			"buildid" "20837462"
+			"timeupdated" "1764838684"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "31972275"
-"_sha" "841221fdd2a06e4e31e974c1b673de137f7f4a5d"
-"_size" "2542"
+"_change_number" "32603448"
+"_sha" "df7588596c6fd761fe840c6ef41f7af9ac62cb50"
+"_size" "2592"
