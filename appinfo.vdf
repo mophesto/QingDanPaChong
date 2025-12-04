@@ -87,7 +87,7 @@
 	"steam_release_date" "1561136400"
 	"gameid" "1110390"
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 }
 "config"
 {
@@ -178,9 +178,9 @@
 		{
 			"public"
 			{
-				"gid" "8214312218889421489"
-				"size" "298156345"
-				"download" "193019920"
+				"gid" "4222459000333949915"
+				"size" "232312935"
+				"download" "160081024"
 			}
 			"32bit-windows"
 			{
@@ -220,15 +220,15 @@
 			}
 			"preview"
 			{
-				"gid" "8214312218889421489"
-				"size" "298156345"
-				"download" "193019920"
+				"gid" "4222459000333949915"
+				"size" "232312935"
+				"download" "160081024"
 			}
 			"unity-2022-preview"
 			{
-				"gid" "3316101053300052474"
-				"size" "229943227"
-				"download" "154561056"
+				"gid" "4326979370255259119"
+				"size" "234440959"
+				"download" "160527664"
 			}
 		}
 	}
@@ -243,9 +243,9 @@
 		{
 			"public"
 			{
-				"gid" "7776208074588633365"
-				"size" "286382908"
-				"download" "185052112"
+				"gid" "3383440211730803290"
+				"size" "227482750"
+				"download" "154889344"
 			}
 			"32bit-windows"
 			{
@@ -285,15 +285,15 @@
 			}
 			"preview"
 			{
-				"gid" "7776208074588633365"
-				"size" "286382908"
-				"download" "185052112"
+				"gid" "3383440211730803290"
+				"size" "227482750"
+				"download" "154889344"
 			}
 			"unity-2022-preview"
 			{
-				"gid" "3853984192965048568"
-				"size" "159130236"
-				"download" "83156432"
+				"gid" "4792801250364750801"
+				"size" "162601747"
+				"download" "88321888"
 			}
 		}
 	}
@@ -303,9 +303,9 @@
 		{
 			"public"
 			{
-				"gid" "7759427552703177179"
-				"size" "1555519237"
-				"download" "1029060960"
+				"gid" "9216167599297550748"
+				"size" "1555520798"
+				"download" "1029067376"
 			}
 			"32bit-windows"
 			{
@@ -345,15 +345,15 @@
 			}
 			"preview"
 			{
-				"gid" "7759427552703177179"
-				"size" "1555519237"
-				"download" "1029060960"
+				"gid" "9216167599297550748"
+				"size" "1555520798"
+				"download" "1029067376"
 			}
 			"unity-2022-preview"
 			{
-				"gid" "5850467888648686921"
-				"size" "1584501445"
-				"download" "1062306128"
+				"gid" "7981538196024900051"
+				"size" "1555519397"
+				"download" "1029061200"
 			}
 		}
 	}
@@ -363,9 +363,9 @@
 		{
 			"public"
 			{
-				"gid" "9159270404898516530"
-				"size" "4833467"
-				"download" "292000"
+				"gid" "4844539024439834253"
+				"size" "4833455"
+				"download" "291984"
 			}
 			"32bit-windows"
 			{
@@ -405,15 +405,15 @@
 			}
 			"preview"
 			{
-				"gid" "9159270404898516530"
-				"size" "4833467"
-				"download" "292000"
+				"gid" "4844539024439834253"
+				"size" "4833455"
+				"download" "291984"
 			}
 			"unity-2022-preview"
 			{
-				"gid" "4338553137742515742"
-				"size" "4431599"
-				"download" "244800"
+				"gid" "9159270404898516530"
+				"size" "4833467"
+				"download" "292000"
 			}
 		}
 	}
@@ -421,8 +421,8 @@
 	{
 		"public"
 		{
-			"buildid" "20243005"
-			"timeupdated" "1759524600"
+			"buildid" "21056629"
+			"timeupdated" "1764866890"
 		}
 		"32bit-windows"
 		{
@@ -462,20 +462,20 @@
 		}
 		"preview"
 		{
-			"buildid" "20243005"
+			"buildid" "21056629"
 			"description" "Public test branch"
-			"timeupdated" "1759511695"
+			"timeupdated" "1764865651"
 		}
 		"unity-2022-preview"
 		{
-			"buildid" "18363799"
+			"buildid" "20408931"
 			"description" " Testing upgrade to Unity 2022 LTS"
-			"timeupdated" "1746557598"
+			"timeupdated" "1760560985"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "31471523"
-"_sha" "55ae1c8c1b6801f0a1d64c321ec3c9c5ac4456e6"
+"_change_number" "32612276"
+"_sha" "73fd19ccab1de39f251fa1c971f2d9e082c71b6e"
 "_size" "8494"
