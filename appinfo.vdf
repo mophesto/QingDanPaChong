@@ -125,8 +125,8 @@
 		"18" "1756"
 		"19" "5348"
 	}
-	"review_score" "4"
-	"review_percentage" "30"
+	"review_score" "5"
+	"review_percentage" "42"
 }
 "extended"
 {
@@ -149,9 +149,9 @@
 		{
 			"public"
 			{
-				"gid" "1929751801805090413"
-				"size" "2035352711"
-				"download" "1638905648"
+				"gid" "2993533374734752647"
+				"size" "2035532506"
+				"download" "1638955568"
 			}
 		}
 		"dlcappid" "2945610"
@@ -160,13 +160,13 @@
 	{
 		"public"
 		{
-			"buildid" "17387343"
-			"timeupdated" "1742285521"
+			"buildid" "20837868"
+			"timeupdated" "1764838729"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "28016422"
-"_sha" "07340f21f5597e23372572bd2546b822997bf72c"
+"_change_number" "32603466"
+"_sha" "7802f94f7075a01f106d9f70b12f7ad844413ccd"
 "_size" "2652"
