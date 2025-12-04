@@ -23,7 +23,7 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "Colossal Order Ltd."
+			"name" "Paradox Interactive"
 		}
 		"1"
 		{
@@ -41,6 +41,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_23" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -119,13 +120,13 @@
 		"19" "12095"
 	}
 	"review_score" "2"
-	"review_percentage" "14"
+	"review_percentage" "13"
 }
 "extended"
 {
 	"dlcforappid" "949230"
 	"mustownapptopurchase" "949230"
-	"developer" "Colossal Order Ltd."
+	"developer" "Paradox Interactive"
 	"publisher" "Paradox Interactive"
 	"dlcavailableonstore" "1"
 }
@@ -142,9 +143,9 @@
 		{
 			"public"
 			{
-				"gid" "6418448975241735791"
-				"size" "198315312"
-				"download" "197767744"
+				"gid" "3710823592724179000"
+				"size" "198315651"
+				"download" "197767872"
 			}
 		}
 		"dlcappid" "2427745"
@@ -153,13 +154,13 @@
 	{
 		"public"
 		{
-			"buildid" "17387099"
-			"timeupdated" "1742288381"
+			"buildid" "20837304"
+			"timeupdated" "1764838668"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "28009629"
-"_sha" "aa77a014028dd13f023b36cfd8a2a25cfb630270"
-"_size" "2413"
+"_change_number" "32603445"
+"_sha" "ff0d82780389657666628767954fa63435e750ad"
+"_size" "2435"
