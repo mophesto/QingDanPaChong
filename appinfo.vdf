@@ -32,7 +32,7 @@
 	{
 		"0"
 		{
-			"executable" "PostScriptum.exe"
+			"executable" "squad44_launcher.exe"
 			"arguments" "-NotInstalled"
 			"type" "default"
 			"config"
@@ -91,9 +91,9 @@
 		{
 			"public"
 			{
-				"gid" "7421762900834842407"
-				"size" "96562822021"
-				"download" "39041931152"
+				"gid" "3870253233020320937"
+				"size" "101214630461"
+				"download" "43203863776"
 			}
 		}
 	}
@@ -102,13 +102,13 @@
 	{
 		"public"
 		{
-			"buildid" "19361619"
-			"timeupdated" "1753472329"
+			"buildid" "21126835"
+			"timeupdated" "1765382929"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "30255010"
-"_sha" "b902be180148599d79e91dc083a68ec18e4c9309"
-"_size" "1751"
+"_change_number" "32717455"
+"_sha" "ac4a116f706266bebc8e59272008b0b34074f56a"
+"_size" "1756"
