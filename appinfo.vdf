@@ -16,9 +16,9 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
-	"clienticon" "8494e0016b82752883d382036ca6885ed29830b2"
-	"clienttga" "9d93eb42636cee7cf9e00d7707c4f508ea2b6fa3"
-	"icon" "7469a2453e09ac8f18a9645aac274142f4ea6b14"
+	"clienticon" "75ef78caede8243f8711bd37bafcfbfb44ccdbf3"
+	"clienttga" "619961897362b69f60f955fafed4eadef5686fe5"
+	"icon" "a4a269761e68189fd1ec1d9b07da80b19c9175c1"
 	"name_localized"
 	{
 		"english" "Rune Factory 5"
@@ -33,6 +33,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1679011200"
 		"tested_build_id" "8769758"
 		"tests"
@@ -68,6 +69,24 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_LauncherInteractionIssues"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -80,7 +99,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-experimental"
 			"requires_h264" "1"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controllertagwizard" "1"
@@ -105,6 +126,40 @@
 			"height_pct" "55.29801324503312"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "52.31267348315319"
+				"height_pct" "55.29801324503312"
+			}
+		}
+	}
 	"store_asset_mtime" "1683330574"
 	"associations"
 	{
@@ -126,7 +181,7 @@
 		"3"
 		{
 			"type" "publisher"
-			"name" "Marvelous"
+			"name" "Marvelous Europe"
 		}
 		"4"
 		{
@@ -153,6 +208,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_59" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -218,11 +274,11 @@
 		"15" "1742"
 		"16" "4182"
 		"17" "9551"
-		"18" "4520"
-		"19" "4434"
+		"18" "4434"
+		"19" "4520"
 	}
 	"review_score" "6"
-	"review_percentage" "79"
+	"review_percentage" "77"
 }
 "extended"
 {
@@ -416,36 +472,9 @@
 		{
 			"public"
 			{
-				"gid" "6580132214016269972"
-				"size" "9265592236"
-				"download" "7882963712"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"develop_release"
-			{
-				"gid" "5F84E14E7984F94127152C15C07ADFF5"
-				"size" "D6740987CFC961D2906A10E128A99FB8"
-				"download" "C128897C856975190DE7E9183847DD0C"
-			}
-			"development"
-			{
-				"gid" "7CCDD0CDFD166012DE339E5042B1A1E2"
-				"size" "CF906EC840C3FC2659763EB5D4D1DE40"
-				"download" "7E588BE9F8A39951F65080CE8932C300"
-			}
-			"test_debug"
-			{
-				"gid" "5578D159C79615E6AE25CE4D9AF87EEF"
-				"size" "914CDB4BEA13CA12AD0FCBED49ADBC66"
-				"download" "36CF3D4278CEEDC08F9AF013EA7DD4FA"
-			}
-			"test_release"
-			{
-				"gid" "ED7FA98276DA703AAD8F7872456C7EE8"
-				"size" "218E8B82DD95B33EDB06D97C28C657EE"
-				"download" "8EBF7D6356477C4A1C430CDA12086972"
+				"gid" "8213346348286548499"
+				"size" "9265596812"
+				"download" "7883419968"
 			}
 		}
 	}
@@ -453,34 +482,11 @@
 	{
 		"public"
 		{
-			"buildid" "8769758"
-			"timeupdated" "1653026667"
-		}
-		"develop_release"
-		{
-			"buildid" "9243804"
-			"pwdrequired" "1"
-			"timeupdated" "1659521159"
-		}
-		"development"
-		{
-			"buildid" "9243769"
-			"pwdrequired" "1"
-			"timeupdated" "1659521144"
-		}
-		"test_debug"
-		{
-			"buildid" "9243769"
-			"pwdrequired" "1"
-			"timeupdated" "1659592821"
-		}
-		"test_release"
-		{
-			"buildid" "9243804"
-			"pwdrequired" "1"
-			"timeupdated" "1659592798"
+			"buildid" "20333604"
+			"timeupdated" "1765562257"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -497,6 +503,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22048925"
-"_sha" "d4e9d291659a701be43be8b305ed16ee1b7b6622"
-"_size" "9909"
+"_change_number" "32764632"
+"_sha" "e493a4ace8921383a22e29310d8eefcc5bf64d34"
+"_size" "9727"
