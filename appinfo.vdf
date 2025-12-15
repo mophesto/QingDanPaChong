@@ -25,6 +25,16 @@
 			"workingdir" "bin"
 			"type" "default"
 		}
+		"1"
+		{
+			"executable" "bin/DedicatedServer.exe"
+			"workingdir" "bin"
+			"type" "server"
+			"config"
+			{
+				"betakey" "beta_dev"
+			}
+		}
 	}
 	"uselaunchcommandline" "1"
 }
@@ -105,9 +115,9 @@
 		{
 			"public"
 			{
-				"gid" "7614349523222595184"
-				"size" "706537676"
-				"download" "255326768"
+				"gid" "9103791066140380629"
+				"size" "706552952"
+				"download" "255538640"
 			}
 		}
 	}
@@ -115,13 +125,13 @@
 	{
 		"public"
 		{
-			"buildid" "21148512"
-			"timeupdated" "1765465569"
+			"buildid" "21189545"
+			"timeupdated" "1765815334"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "32738509"
-"_sha" "0af2edc4321beef87c0210645322aaf8366e3639"
-"_size" "1824"
+"_change_number" "32802661"
+"_sha" "d0ba589a3056d5b39443b7d5e71f824f2dea227a"
+"_size" "1982"
