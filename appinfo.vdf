@@ -206,7 +206,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1763568210"
+	"store_asset_mtime" "1765815072"
 	"associations"
 	{
 		"0"
@@ -331,8 +331,8 @@
 		"11" "3859"
 		"12" "1643"
 		"13" "3835"
-		"14" "4191"
-		"15" "3839"
+		"14" "3839"
+		"15" "4191"
 		"16" "4295"
 		"17" "3942"
 		"18" "8945"
@@ -346,7 +346,7 @@
 	"developer" "Far From Home"
 	"publisher" "Far From Home"
 	"homepage" "https://www.farfromhomegames.com/en/foreverskies"
-	"listofdlc" "2635800,3625790"
+	"listofdlc" "2635800,3625790,4196930"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -418,15 +418,15 @@
 		{
 			"public"
 			{
-				"gid" "870948205148331234"
-				"size" "22885357851"
-				"download" "9270121216"
+				"gid" "1959249365926973255"
+				"size" "24545486908"
+				"download" "9884566096"
 			}
 			"beta_flight"
 			{
-				"gid" "3412390893825750144"
-				"size" "22885485010"
-				"download" "9268440192"
+				"gid" "1959249365926973255"
+				"size" "24545486908"
+				"download" "9884566096"
 			}
 			"legacy"
 			{
@@ -443,14 +443,14 @@
 	{
 		"public"
 		{
-			"buildid" "20912738"
-			"timeupdated" "1764000301"
+			"buildid" "21134937"
+			"timeupdated" "1765810829"
 		}
 		"beta_flight"
 		{
-			"buildid" "20781056"
+			"buildid" "21134937"
 			"description" "Public test beta for an even earlier access to future game updates"
-			"timeupdated" "1763039627"
+			"timeupdated" "1765526868"
 		}
 		"legacy"
 		{
@@ -476,6 +476,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "32423468"
-"_sha" "e37fbe207c0152068d79587794322933e38e3d8b"
-"_size" "9768"
+"_change_number" "32802588"
+"_sha" "374b09c686e9b6746dd720a34f56432adac751cb"
+"_size" "9777"
