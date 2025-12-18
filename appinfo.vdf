@@ -33,6 +33,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1697760000"
 		"tested_build_id" "12465575"
 		"tests"
@@ -58,6 +59,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -70,7 +79,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "native"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Dungeon Drafters"
@@ -158,7 +169,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1717483896"
+	"store_asset_mtime" "1745453465"
 	"associations"
 	{
 		"0"
@@ -196,6 +207,11 @@
 		"category_58" "1"
 		"category_29" "1"
 		"category_43" "1"
+		"category_66" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_74" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -260,28 +276,28 @@
 	"store_tags"
 	{
 		"0" "21725"
-		"1" "32322"
-		"2" "198631"
-		"3" "4325"
-		"4" "1720"
-		"5" "3959"
-		"6" "1666"
-		"7" "5125"
-		"8" "4434"
-		"9" "9"
-		"10" "122"
-		"11" "7569"
-		"12" "6971"
-		"13" "3916"
-		"14" "3964"
-		"15" "4085"
-		"16" "4305"
-		"17" "1684"
-		"18" "7208"
+		"1" "198631"
+		"2" "1720"
+		"3" "3959"
+		"4" "1666"
+		"5" "4434"
+		"6" "7208"
+		"7" "9"
+		"8" "122"
+		"9" "4325"
+		"10" "492"
+		"11" "5125"
+		"12" "32322"
+		"13" "3964"
+		"14" "4085"
+		"15" "1684"
+		"16" "4236"
+		"17" "3916"
+		"18" "7569"
 		"19" "4182"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -338,9 +354,9 @@
 		{
 			"public"
 			{
-				"gid" "5205548125626197987"
-				"size" "1293202924"
-				"download" "320159280"
+				"gid" "3315234624415064286"
+				"size" "1311950852"
+				"download" "332522672"
 			}
 		}
 	}
@@ -355,9 +371,9 @@
 		{
 			"public"
 			{
-				"gid" "2132978369827356476"
-				"size" "1312749192"
-				"download" "319086864"
+				"gid" "1598830810511683559"
+				"size" "1333131382"
+				"download" "332266640"
 			}
 		}
 	}
@@ -378,8 +394,8 @@
 	{
 		"public"
 		{
-			"buildid" "16976881"
-			"timeupdated" "1736636538"
+			"buildid" "21211329"
+			"timeupdated" "1766029367"
 		}
 	}
 	"privatebranches" "1"
@@ -425,6 +441,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26958135"
-"_sha" "e56cacde0a88074c961cafc53c1fe06c4e8def43"
-"_size" "7812"
+"_change_number" "32857366"
+"_sha" "95f4b27ad50c7f490d07bd0913dc46f07b259b3b"
+"_size" "8135"
