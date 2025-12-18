@@ -58,6 +58,7 @@
 		}
 	}
 	"openvrsupport" "1"
+	"market_presence" "1"
 	"content_descriptors"
 	{
 		"0" "2"
@@ -117,7 +118,6 @@
 			"hdr_support" "0"
 		}
 	}
-	"market_presence" "1"
 	"metacritic_name" "PAYDAY 2"
 	"controllertagwizard" "1"
 	"controller_support" "full"
@@ -183,7 +183,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1754316732"
+	"store_asset_mtime" "1765269169"
 	"associations"
 	{
 		"0"
@@ -194,7 +194,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Starbreeze Publishing AB"
+			"name" "Starbreeze Entertainment"
 		}
 		"2"
 		{
@@ -347,7 +347,7 @@
 	"thirdpartycdkey" "1"
 	"visibleonlywhensubscribed" "1"
 	"vrheadsetstreaming" "1"
-	"publisher" "Starbreeze Publishing AB"
+	"publisher" "Starbreeze Entertainment"
 	"listofdlc" "218630,247450,254260,259380,259381,264610,267380,267381,267382,271110,274160,274161,275590,284430,288900,306110,306690,311050,318720,320030,323500,328860,328861,330010,330490,330491,331040,331900,337660,337661,338950,338951,339480,344140,348090,348091,349830,351890,358150,366660,368870,374300,374301,375380,375381,375382,375383,375384,375385,384020,384021,401650,422400,433730,441600,450660,468410,486610,487210,518760,532810,545100,548420,548421"
 	"dlcavailableonstore" "1"
 }
@@ -507,9 +507,9 @@
 		{
 			"public"
 			{
-				"gid" "8143478931584369056"
-				"size" "88619479301"
-				"download" "35743823040"
+				"gid" "2104839555809854622"
+				"size" "88672299832"
+				"download" "35767720880"
 			}
 			"local"
 			{
@@ -800,9 +800,9 @@
 		{
 			"public"
 			{
-				"gid" "3298806867159969651"
-				"size" "305404591"
-				"download" "296481488"
+				"gid" "7190612300832133696"
+				"size" "305404939"
+				"download" "296481648"
 			}
 			"local"
 			{
@@ -850,9 +850,9 @@
 		{
 			"public"
 			{
-				"gid" "5245040824892464413"
-				"size" "525357826"
-				"download" "528609888"
+				"gid" "5811614798887510953"
+				"size" "525363046"
+				"download" "528610048"
 			}
 		}
 	}
@@ -910,8 +910,8 @@
 	{
 		"public"
 		{
-			"buildid" "20468472"
-			"timeupdated" "1761222619"
+			"buildid" "21211761"
+			"timeupdated" "1766066185"
 		}
 		"local"
 		{
@@ -935,6 +935,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "31858914"
-"_sha" "6bb17fb51b3f52709471cd422085534af8fd45bb"
+"_change_number" "32867399"
+"_sha" "fbdc3acf7a498066b3f96ef5584759a8a07658dd"
 "_size" "15678"
