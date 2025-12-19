@@ -30,10 +30,11 @@
 		"3" "4"
 		"4" "5"
 	}
-	"restricted_countries" "CN,DE"
+	"restricted_countries" "CN,DE,SA"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1654732800"
 		"tested_build_id" "8352401"
 		"tests"
@@ -64,6 +65,24 @@
 				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -76,7 +95,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Subverse"
@@ -183,6 +204,14 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1034140"
+	"content_descriptors_including_dlc"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "3"
+		"3" "4"
+		"4" "5"
+	}
 	"store_tags"
 	{
 		"0" "12095"
@@ -196,27 +225,27 @@
 		"8" "3942"
 		"9" "9"
 		"10" "21"
-		"11" "1719"
-		"12" "1742"
+		"11" "1742"
+		"12" "1719"
 		"13" "19"
 		"14" "4255"
 		"15" "597"
 		"16" "10397"
 		"17" "1663"
-		"18" "493"
-		"19" "492"
+		"18" "492"
+		"19" "493"
 	}
 	"review_score" "5"
 	"review_percentage" "55"
-	"review_score_bombs" "6"
-	"review_percentage_bombs" "71"
+	"review_score_bombs" "5"
+	"review_percentage_bombs" "67"
 }
 "extended"
 {
 	"developer" "Studio FOW Interactive"
 	"publisher" "Streembit Ltd"
 	"homepage" "http://www.studiofow.com/subverse"
-	"listofdlc" "3342820"
+	"listofdlc" "3342820,4245650"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -233,6 +262,7 @@
 }
 "depots"
 {
+	"hasdepotsindlc" "0"
 	"228986"
 	{
 		"config"
@@ -266,9 +296,9 @@
 		{
 			"public"
 			{
-				"gid" "3412397381233758881"
-				"size" "39675861159"
-				"download" "37967928256"
+				"gid" "1524480088404768998"
+				"size" "41229784100"
+				"download" "39323679840"
 			}
 		}
 	}
@@ -320,12 +350,29 @@
 			}
 		}
 	}
+	"4245650"
+	{
+		"dlcappid" "4245650"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3640776520325014738"
+				"size" "726095189"
+				"download" "719874784"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "17901400"
-			"timeupdated" "1743181393"
+			"buildid" "21244224"
+			"timeupdated" "1766081588"
 		}
 	}
 	"privatebranches" "1"
@@ -336,6 +383,6 @@
 	"maxnumfiles" "15"
 }
 "_missing_token" "False"
-"_change_number" "28195940"
-"_sha" "953f8ed6ae03e7ae0e4ed859d0ffca9cc55618c2"
-"_size" "5718"
+"_change_number" "32880343"
+"_sha" "b8258e996bf34852336fa144e76aad67f2531ea4"
+"_size" "6532"
