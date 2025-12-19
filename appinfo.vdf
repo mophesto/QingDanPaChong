@@ -201,9 +201,9 @@
 		{
 			"public"
 			{
-				"gid" "8517491656194688596"
-				"size" "4273770182"
-				"download" "2962124272"
+				"gid" "3036128386594291746"
+				"size" "4320592773"
+				"download" "2992731968"
 			}
 			"beforemacoschanges"
 			{
@@ -213,9 +213,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "8099338206839155993"
-				"size" "4284672791"
-				"download" "2972869136"
+				"gid" "1215353266572128006"
+				"size" "4299237291"
+				"download" "2974558048"
 			}
 		}
 	}
@@ -229,9 +229,9 @@
 		{
 			"public"
 			{
-				"gid" "7905484862886341421"
-				"size" "4202848028"
-				"download" "2865307088"
+				"gid" "2546848737512674771"
+				"size" "4249670134"
+				"download" "2895958944"
 			}
 			"beforemacoschanges"
 			{
@@ -241,9 +241,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "5859346806201371158"
-				"size" "4213750638"
-				"download" "2876058224"
+				"gid" "5444995926888748203"
+				"size" "4228315199"
+				"download" "2877768752"
 			}
 		}
 	}
@@ -257,9 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "2372863139265477871"
-				"size" "4094842015"
-				"download" "2831574448"
+				"gid" "2929173073618653229"
+				"size" "4141696531"
+				"download" "2862232736"
 			}
 			"beforemacoschanges"
 			{
@@ -269,9 +269,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "8611769040208381257"
-				"size" "4105750496"
-				"download" "2842390784"
+				"gid" "1619220402723040166"
+				"size" "4120316972"
+				"download" "2844050896"
 			}
 		}
 	}
@@ -279,8 +279,8 @@
 	{
 		"public"
 		{
-			"buildid" "20806804"
-			"timeupdated" "1763417109"
+			"buildid" "21249698"
+			"timeupdated" "1766105025"
 		}
 		"beforemacoschanges"
 		{
@@ -290,14 +290,14 @@
 		}
 		"updatebeta"
 		{
-			"buildid" "21079224"
+			"buildid" "21139109"
 			"description" "Public Beta"
-			"timeupdated" "1764994384"
+			"timeupdated" "1765411657"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "32690304"
-"_sha" "f6c2d5cf1019d70d4d5f44c9ea7fee7cee08f1c0"
+"_change_number" "32880907"
+"_sha" "451e2342753fa86f9f90e0752adb884531e9061e"
 "_size" "5482"
