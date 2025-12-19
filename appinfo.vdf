@@ -31,7 +31,7 @@
 		"sc_schinese" "Dota 2 刀塔"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1759466267"
+	"timeline_marker_updated" "1766079903"
 	"timeline_marker_svg" "c9e9902151b7e9049145921c09a1aa4e6744530b/markers.svg"
 	"market_presence" "1"
 	"type" "game"
@@ -554,9 +554,9 @@
 		{
 			"public"
 			{
-				"gid" "4845651587836444021"
-				"size" "4320935084"
-				"download" "2595414976"
+				"gid" "2273000992865411928"
+				"size" "4317745720"
+				"download" "2569363760"
 			}
 		}
 	}
@@ -614,9 +614,9 @@
 		{
 			"public"
 			{
-				"gid" "3977775888896185813"
-				"size" "57983566824"
-				"download" "24593287552"
+				"gid" "1494596777039263635"
+				"size" "57995937876"
+				"download" "24619727936"
 			}
 		}
 	}
@@ -647,9 +647,9 @@
 		{
 			"public"
 			{
-				"gid" "5135116430469147809"
-				"size" "616820456"
-				"download" "178742416"
+				"gid" "299230744146838178"
+				"size" "616851176"
+				"download" "178734784"
 			}
 		}
 	}
@@ -663,9 +663,9 @@
 		{
 			"public"
 			{
-				"gid" "2323793584251638392"
-				"size" "625160055"
-				"download" "299978272"
+				"gid" "3971303086273839742"
+				"size" "625176495"
+				"download" "299977264"
 			}
 		}
 	}
@@ -691,9 +691,9 @@
 		{
 			"public"
 			{
-				"gid" "1571755618975716306"
-				"size" "735276221"
-				"download" "319530496"
+				"gid" "7641414290804691900"
+				"size" "735367037"
+				"download" "319487168"
 			}
 		}
 	}
@@ -774,7 +774,7 @@
 		{
 			"public"
 			{
-				"gid" "2995439350108653162"
+				"gid" "4383701904285289518"
 				"size" "5815150693"
 				"download" "1611706016"
 			}
@@ -838,8 +838,8 @@
 	{
 		"public"
 		{
-			"buildid" "21234674"
-			"timeupdated" "1766031188"
+			"buildid" "21248950"
+			"timeupdated" "1766101285"
 		}
 	}
 	"privatebranches" "1"
@@ -851,6 +851,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "32857696"
-"_sha" "9c25547f8ba48717726b6788fdcdeecf2e964f62"
-"_size" "14693"
+"_change_number" "32879898"
+"_sha" "8043fb67a92cc610b3fb4418050edd67a78f1eb4"
+"_size" "14692"
