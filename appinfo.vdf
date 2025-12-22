@@ -387,15 +387,21 @@
 		{
 			"public"
 			{
-				"gid" "814727576168197635"
-				"size" "98484918794"
-				"download" "31607126768"
+				"gid" "5296944622489602602"
+				"size" "99073018668"
+				"download" "33155497904"
 			}
 			"pterelease"
 			{
 				"gid" "6454889706863152355"
 				"size" "98445657094"
 				"download" "31477483408"
+			}
+			"public_alpha"
+			{
+				"gid" "6603617353192912549"
+				"size" "99070465463"
+				"download" "33131725568"
 			}
 		}
 	}
@@ -416,6 +422,12 @@
 				"download" "25373104"
 			}
 			"pterelease"
+			{
+				"gid" "6252294094855435400"
+				"size" "37896840"
+				"download" "25373104"
+			}
+			"public_alpha"
 			{
 				"gid" "6252294094855435400"
 				"size" "37896840"
@@ -445,6 +457,12 @@
 				"size" "96504739"
 				"download" "94680896"
 			}
+			"public_alpha"
+			{
+				"gid" "8526987047835682522"
+				"size" "96504739"
+				"download" "94680896"
+			}
 		}
 	}
 	"3596770"
@@ -469,14 +487,20 @@
 				"size" "66059451"
 				"download" "59134144"
 			}
+			"public_alpha"
+			{
+				"gid" "4482977239842637557"
+				"size" "66059451"
+				"download" "59134144"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "21005454"
-			"timeupdated" "1764597586"
+			"buildid" "21284195"
+			"timeupdated" "1766416779"
 		}
 		"pterelease"
 		{
@@ -484,10 +508,16 @@
 			"description" "PTE release branch"
 			"timeupdated" "1764594731"
 		}
+		"public_alpha"
+		{
+			"buildid" "21276153"
+			"description" "Public alpha branch"
+			"timeupdated" "1766340026"
+		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "32544302"
-"_sha" "3492174eef8f184ac2a91d77b3b9f5749ef5bc33"
-"_size" "8884"
+"_change_number" "32931329"
+"_sha" "56a4d01210d89bf51c3bdff5a86d1184fb2eb9ae"
+"_size" "9486"
