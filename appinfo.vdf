@@ -304,7 +304,7 @@
 	"developer" "Gamepires"
 	"publisher" "Gamepires"
 	"homepage" "http://scum.game"
-	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840,3596770,4062860"
+	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840,3596770,4062860,4139450"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -387,15 +387,15 @@
 		{
 			"public"
 			{
-				"gid" "5296944622489602602"
-				"size" "99073018668"
-				"download" "33155497904"
+				"gid" "2229101009862875603"
+				"size" "99088273348"
+				"download" "33156519168"
 			}
 			"pterelease"
 			{
-				"gid" "6454889706863152355"
-				"size" "98445657094"
-				"download" "31477483408"
+				"gid" "5296944622489602602"
+				"size" "99073018668"
+				"download" "33155497904"
 			}
 			"public_alpha"
 			{
@@ -499,14 +499,14 @@
 	{
 		"public"
 		{
-			"buildid" "21284195"
-			"timeupdated" "1766416779"
+			"buildid" "21295380"
+			"timeupdated" "1766500221"
 		}
 		"pterelease"
 		{
-			"buildid" "21006074"
+			"buildid" "21284195"
 			"description" "PTE release branch"
-			"timeupdated" "1764594731"
+			"timeupdated" "1766424722"
 		}
 		"public_alpha"
 		{
@@ -518,6 +518,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "32931329"
-"_sha" "56a4d01210d89bf51c3bdff5a86d1184fb2eb9ae"
-"_size" "9486"
+"_change_number" "32946092"
+"_sha" "8c538f8b04966ed3a8196dda286b55b53a445753"
+"_size" "9494"
