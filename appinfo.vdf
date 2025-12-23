@@ -201,21 +201,15 @@
 		{
 			"public"
 			{
-				"gid" "3036128386594291746"
-				"size" "4320592773"
-				"download" "2992731968"
+				"gid" "6255604407669310331"
+				"size" "4320989518"
+				"download" "2993106000"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "4534454870854554447"
 				"size" "3390131066"
 				"download" "2380486432"
-			}
-			"updatebeta"
-			{
-				"gid" "1215353266572128006"
-				"size" "4299237291"
-				"download" "2974558048"
 			}
 		}
 	}
@@ -229,21 +223,15 @@
 		{
 			"public"
 			{
-				"gid" "2546848737512674771"
-				"size" "4249670134"
-				"download" "2895958944"
+				"gid" "197095605866469347"
+				"size" "4250066877"
+				"download" "2896318272"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "4555268090536644559"
 				"size" "3295530575"
 				"download" "2274945136"
-			}
-			"updatebeta"
-			{
-				"gid" "5444995926888748203"
-				"size" "4228315199"
-				"download" "2877768752"
 			}
 		}
 	}
@@ -257,9 +245,9 @@
 		{
 			"public"
 			{
-				"gid" "2929173073618653229"
-				"size" "4141696531"
-				"download" "2862232736"
+				"gid" "5413120278714103939"
+				"size" "4142093274"
+				"download" "2862646112"
 			}
 			"beforemacoschanges"
 			{
@@ -267,20 +255,14 @@
 				"size" "3225653113"
 				"download" "2257541728"
 			}
-			"updatebeta"
-			{
-				"gid" "1619220402723040166"
-				"size" "4120316972"
-				"download" "2844050896"
-			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "21249698"
-			"timeupdated" "1766105025"
+			"buildid" "21289963"
+			"timeupdated" "1766456652"
 		}
 		"beforemacoschanges"
 		{
@@ -288,16 +270,10 @@
 			"description" "r579121"
 			"timeupdated" "1698883395"
 		}
-		"updatebeta"
-		{
-			"buildid" "21139109"
-			"description" "Public Beta"
-			"timeupdated" "1765411657"
-		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "32880907"
-"_sha" "451e2342753fa86f9f90e0752adb884531e9061e"
-"_size" "5482"
+"_change_number" "32938522"
+"_sha" "88a394bbd02a18cea0b6f9dc1038dfaf24112020"
+"_size" "5007"
