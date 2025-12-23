@@ -14,6 +14,7 @@
 	{
 		"schinese" "犹格索托斯的庭院"
 		"japanese" "ヨグ=ソトースの庭"
+		"tchinese" "猶格索托斯的庭院"
 	}
 	"languages"
 	{
@@ -145,11 +146,15 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "a774f6eb55bf841d4a0b2ffa7e892bc799ddc6b6/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "a774f6eb55bf841d4a0b2ffa7e892bc799ddc6b6/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1752546956"
+	"store_asset_mtime" "1766478948"
 	"associations"
 	{
 		"0"
@@ -178,6 +183,9 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -192,6 +200,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1697784621"
 	"community_visible_stats" "1"
@@ -202,14 +215,14 @@
 		"0" "599"
 		"1" "9551"
 		"2" "3799"
-		"3" "122"
-		"4" "7332"
+		"3" "7332"
+		"4" "122"
 		"5" "4726"
 		"6" "1667"
 		"7" "4434"
 		"8" "4085"
-		"9" "4328"
-		"10" "16094"
+		"9" "16094"
+		"10" "4328"
 		"11" "1643"
 		"12" "1742"
 		"13" "11014"
@@ -255,9 +268,9 @@
 		{
 			"public"
 			{
-				"gid" "2063061904150178695"
-				"size" "2435803132"
-				"download" "579112848"
+				"gid" "2008616658324178964"
+				"size" "2437433388"
+				"download" "579594464"
 			}
 		}
 	}
@@ -285,8 +298,8 @@
 	{
 		"public"
 		{
-			"buildid" "20492490"
-			"timeupdated" "1761540129"
+			"buildid" "21293065"
+			"timeupdated" "1766481435"
 		}
 	}
 	"privatebranches" "1"
@@ -311,6 +324,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31916957"
-"_sha" "910340260a224e5906496f19bd6f6e7d086584cd"
-"_size" "5284"
+"_change_number" "32942603"
+"_sha" "441e77ed2097c5349417b0c1b0856b7bc7a63477"
+"_size" "5612"
