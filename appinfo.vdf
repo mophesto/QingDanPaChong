@@ -18,22 +18,10 @@
 	"installdir" "The Riftbreaker - Dedicated Server"
 	"launch"
 	{
-		"0"
+		"2"
 		{
-			"executable" "bin/DedicatedServer.exe"
-			"arguments" "disable_steam=1"
-			"workingdir" "bin"
-			"type" "default"
-		}
-		"1"
-		{
-			"executable" "bin/DedicatedServer.exe"
-			"workingdir" "bin"
+			"executable" "DedicatedServer.bat"
 			"type" "server"
-			"config"
-			{
-				"betakey" "beta_dev"
-			}
 		}
 	}
 	"uselaunchcommandline" "1"
@@ -115,9 +103,9 @@
 		{
 			"public"
 			{
-				"gid" "5210701865798940183"
-				"size" "706552951"
-				"download" "255541136"
+				"gid" "2748718532612307715"
+				"size" "628976342"
+				"download" "255541264"
 			}
 		}
 	}
@@ -125,13 +113,13 @@
 	{
 		"public"
 		{
-			"buildid" "21225509"
-			"timeupdated" "1765987602"
+			"buildid" "21422899"
+			"timeupdated" "1767874023"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "32846993"
-"_sha" "e8a12217422270ce20d210891a7eb02ba28d1101"
-"_size" "1982"
+"_change_number" "33129596"
+"_sha" "b4302f895a6b59c178a434a009d4f760fefd61e9"
+"_size" "1760"
