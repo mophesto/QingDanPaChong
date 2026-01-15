@@ -10,12 +10,10 @@
 	"name_localized"
 	{
 		"schinese" "寓言之地 (Fabledom)"
-		"sc_schinese" "寓言之地(Fabledom)"
 	}
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
-	"releasestatesteamchina" "prerelease"
 	"languages"
 	{
 		"english" "1"
@@ -27,7 +25,6 @@
 		"russian" "1"
 		"japanese" "1"
 		"brazilian" "1"
-		"sc_schinese" "1"
 	}
 	"steam_deck_compatibility"
 	{
@@ -130,13 +127,11 @@
 			{
 				"english" "library_600x900.jpg"
 				"schinese" "library_600x900_schinese.jpg"
-				"sc_schinese" "library_600x900_sc_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
 				"schinese" "library_600x900_schinese_2x.jpg"
-				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -162,12 +157,10 @@
 			{
 				"english" "logo.png"
 				"schinese" "logo_schinese.png"
-				"sc_schinese" "logo_sc_schinese.png"
 			}
 			"image2x"
 			{
 				"schinese" "logo_schinese_2x.png"
-				"sc_schinese" "logo_sc_schinese_2x.png"
 			}
 		}
 		"library_header"
@@ -319,10 +312,6 @@
 			}
 		}
 	}
-	"steam_china_only"
-	{
-		"steam_china_enable_duration_control" "1"
-	}
 }
 "depots"
 {
@@ -332,9 +321,9 @@
 		{
 			"public"
 			{
-				"gid" "1477018260550984650"
-				"size" "4001887564"
-				"download" "1477778336"
+				"gid" "5650678717683981821"
+				"size" "4002936532"
+				"download" "1477857744"
 			}
 			"fabledom_1.07_update"
 			{
@@ -354,8 +343,8 @@
 	{
 		"public"
 		{
-			"buildid" "20253021"
-			"timeupdated" "1760618874"
+			"buildid" "21255527"
+			"timeupdated" "1768485753"
 		}
 		"fabledom_1.07_update"
 		{
@@ -420,6 +409,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31705458"
-"_sha" "d2d298a79d1fb4a7aeae895a5270d4ae10d6c3e6"
-"_size" "7866"
+"_change_number" "33253882"
+"_sha" "c799b87b6e353675b177c4038ea292a901d3f5c5"
+"_size" "7485"
