@@ -227,7 +227,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "NetEase Games Global"
+			"name" "NetEase Games "
 		}
 	}
 	"primary_genre" "1"
@@ -363,7 +363,7 @@
 "extended"
 {
 	"developer" "24 Entertainment"
-	"publisher" "NetEase Games Global"
+	"publisher" "NetEase Games "
 	"homepage" "https://www.narakathegame.com"
 	"isfreeapp" "1"
 	"listofdlc" "1637170,1637171,1643990,2593020,2701570,2731960,2731970,2731980,2732000,2732010,3371820,3371830,3588860,3610450,3610460,3610470,3610480,3610490,3659600,3659610,3659650,3659670,3659680"
@@ -422,9 +422,9 @@
 		{
 			"public"
 			{
-				"gid" "1433064831207149249"
-				"size" "83112010174"
-				"download" "69850352224"
+				"gid" "2918631275597817216"
+				"size" "84080643783"
+				"download" "70698776800"
 			}
 		}
 	}
@@ -434,9 +434,9 @@
 		{
 			"public"
 			{
-				"gid" "8440400326306086244"
-				"size" "83112010174"
-				"download" "69834217056"
+				"gid" "2657772284323482987"
+				"size" "84080643783"
+				"download" "70683424848"
 			}
 		}
 	}
@@ -448,12 +448,12 @@
 	{
 		"public"
 		{
-			"buildid" "21405087"
-			"timeupdated" "1767759618"
+			"buildid" "21577112"
+			"timeupdated" "1768950011"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "33104089"
-"_sha" "ff832dc3bbbbbeac14bd25cc95e2a0c4af8e10f8"
-"_size" "10162"
+"_change_number" "33349250"
+"_sha" "15367307e99eec9e54e220cf2493ab18cfa04d39"
+"_size" "10150"
