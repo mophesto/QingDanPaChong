@@ -28,6 +28,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1661990400"
 		"tested_build_id" "5905321"
 		"tests"
@@ -58,6 +59,19 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -70,7 +84,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "They Are Billions"
@@ -92,6 +108,48 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "50"
 			"height_pct" "83.33333333333331"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "50"
+				"height_pct" "83.33333333333331"
+			}
 		}
 	}
 	"store_asset_mtime" "1568808640"
@@ -126,6 +184,7 @@
 		"category_45" "1"
 		"category_46" "1"
 		"category_42" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -218,8 +277,8 @@
 		"15" "1708"
 		"16" "12472"
 		"17" "492"
-		"18" "493"
-		"19" "5851"
+		"18" "5851"
+		"19" "3859"
 	}
 	"review_score" "8"
 	"review_percentage" "85"
@@ -296,36 +355,15 @@
 		{
 			"public"
 			{
-				"gid" "5324599310992417746"
-				"size" "5512796985"
-				"download" "2197585600"
+				"gid" "8644553349467774858"
+				"size" "5512797915"
+				"download" "2197836448"
 			}
 			"test"
 			{
 				"gid" "5324599310992417746"
 				"size" "5512796985"
 				"download" "2197585600"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "15BDE5E5D2015F77E9D5276E473D6AF5"
-				"size" "2BB2A3573A576EE4E1E022A0644A7BE4"
-				"download" "053C11EA73B2C99A678961CAB2809ADB"
-			}
-			"development"
-			{
-				"gid" "A07DFCB842F122BB7C3DD42AEF16DDA4"
-				"size" "636C7DC3E888437A02A5DB1C6B11DD56"
-				"download" "E0F63F3168938E0BE427184B0DEED996"
-			}
-			"public_hidden"
-			{
-				"gid" "FBE0797408D9A9DFC3662A5799968DC6"
-				"size" "33766F71E309B905F0DC70CD76EC7A87"
-				"download" "BFE1694E7A5050469B7D9D53E7D4CEA5"
 			}
 		}
 	}
@@ -335,7 +373,7 @@
 		{
 			"public"
 			{
-				"gid" "287668829472044349"
+				"gid" "3000532913243472563"
 				"size" "613415580"
 				"download" "524273904"
 			}
@@ -346,47 +384,14 @@
 				"download" "524273904"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"beta"
-			{
-				"gid" "39C9E09CA64A84FF96BAE1C806BDF3E5"
-				"size" "7003CB370DC4BCFE59C01D91EF1EF0FB"
-				"download" "FC3DE40FD424B6DAD56BBA8BCA58F3C8"
-			}
-			"public_hidden"
-			{
-				"gid" "8624517A8E881F28156AA81DF6F7165E"
-				"size" "E91AAAE1CB410C5786A743710FC43A9B"
-				"download" "5BA7ED9E0FDAFDBAA5B0A361CCEDECED"
-			}
-		}
 		"dlcappid" "1100130"
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "5905321"
-			"timeupdated" "1606899249"
-		}
-		"beta"
-		{
-			"buildid" "5904679"
-			"pwdrequired" "1"
-			"timeupdated" "1606816841"
-		}
-		"development"
-		{
-			"buildid" "3407643"
-			"pwdrequired" "1"
-			"timeupdated" "1545120594"
-		}
-		"public_hidden"
-		{
-			"buildid" "5905321"
-			"pwdrequired" "1"
-			"timeupdated" "1606825191"
+			"buildid" "21522877"
+			"timeupdated" "1769094275"
 		}
 		"test"
 		{
@@ -395,6 +400,7 @@
 			"timeupdated" "1606899155"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -445,6 +451,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "20890818"
-"_sha" "c48d6793b60dbb71d0648806555ec1b5e431736f"
-"_size" "8230"
+"_change_number" "33386813"
+"_sha" "6a3f1643c054798590a5bd9298635e2e7c58d333"
+"_size" "7967"
