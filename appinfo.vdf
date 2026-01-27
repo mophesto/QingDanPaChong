@@ -14,6 +14,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1645747200"
 		"tested_build_id" "8202013"
 		"tests"
@@ -44,6 +45,19 @@
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -56,6 +70,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "native"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Terraria"
@@ -78,6 +95,44 @@
 			"pinned_position" "CenterCenter"
 			"width_pct" "89.6242707117853"
 			"height_pct" "92.82978427366197"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "89.6242707117853"
+				"height_pct" "92.82978427366197"
+			}
 		}
 	}
 	"store_asset_mtime" "1666290502"
@@ -119,6 +174,7 @@
 		"category_42" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -311,72 +367,33 @@
 		{
 			"public"
 			{
-				"gid" "8046724853517638985"
-				"size" "687925078"
-				"download" "518166256"
+				"gid" "2276312979028605664"
+				"size" "802484629"
+				"download" "607094528"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"balance-beta"
+			"v1.3.0.8"
 			{
-				"gid" "BC4E1A0F2924B2C4D9919186EF9D869F"
-				"size" "B71ADAD1DF66247F7A938AEDAD249FAD"
-				"download" "41A4B69DDC88E320A271AB74EF923ECC"
+				"gid" "1296230003369412504"
+				"size" "104130628"
+				"download" "84033024"
 			}
-			"beta-2"
+			"v1.2.4.1"
 			{
-				"gid" "6A8CC661D03CB822B0C96B32E7D84161"
-				"size" "39E8F7C7EF1398F8FEA1AEF8E969880B"
-				"download" "18034215FD1AEC10919518E6EDADA627"
+				"gid" "2034308533183502914"
+				"size" "67103340"
+				"download" "56252944"
 			}
-			"fix-release"
+			"v1.1.2"
 			{
-				"gid" "62F74458F9DF95B8CC213471D7C5CE0C"
-				"size" "818F303240CBFFBE1928B3E6F7C53C1C"
-				"download" "9740DDB112BF6F6E980771A58F6FC047"
+				"gid" "2490511446857312955"
+				"size" "31197530"
+				"download" "25528304"
 			}
-			"internal-beta"
+			"v1.0.6.1"
 			{
-				"gid" "C39340DA81C56945E7623E5F2C1EE392"
-				"size" "D6581CA124363AE473B6F4AB8142FBB7"
-				"download" "C92E18F7B8918289BEB3E6D02D204E1A"
-			}
-			"internal-beta-2"
-			{
-				"gid" "A92E147B2D4FA37F2965EF36E701ED95"
-				"size" "06F10C525BBE74220AB0BC3DD0C06CCE"
-				"download" "8D7B2BC0EDBC8DB82EE44ADDEB6C1C3C"
-			}
-			"specificbugtesting"
-			{
-				"gid" "8366555C5FC6CF58E41D55D40CE687E2"
-				"size" "1B62066ABCE7BA3239AEE6A7FB8993CF"
-				"download" "21AFA2D9C4D37D643CBD130787F9DAE5"
-			}
-			"steam-deck-beta"
-			{
-				"gid" "A8DF23A0FEC872FF935EB8FAEBA70C3A"
-				"size" "4C6C34A7D84BD1BD8D81BACD91155638"
-				"download" "747CD2C42888A49A6AC501649EF85D0A"
-			}
-			"steamdeckreleasetest"
-			{
-				"gid" "0EA61D5C0E0BEE6632E9C0BB02593F66"
-				"size" "DF6478B38E23AE6AF6AD16ADF03C8CA1"
-				"download" "BA3C6043F09946B5B59E5F076A25A5F7"
-			}
-			"temp-branch-2"
-			{
-				"gid" "E3BE7B36DFE98824EF569CDDC212DCD0"
-				"size" "50A0C41C1B80755AE4C5331C9BD63301"
-				"download" "8FC76BDD24104826178660AE1BB96908"
-			}
-			"trendy"
-			{
-				"gid" "BA20D707E3B9B04E41B992EF5F641301"
-				"size" "C5EDEE4F484FDB7C6D21455105944845"
-				"download" "9064232987F4D30B75ADF4011AEEFD54"
+				"gid" "201933454557533956"
+				"size" "21076176"
+				"download" "17542960"
 			}
 		}
 	}
@@ -390,72 +407,33 @@
 		{
 			"public"
 			{
-				"gid" "6844625161744350207"
-				"size" "715107635"
-				"download" "515624672"
+				"gid" "3675097418059055348"
+				"size" "828929883"
+				"download" "606710272"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"balance-beta"
+			"v1.3.0.8"
 			{
-				"gid" "415958D76A97EC740D73CF416FB54C12"
-				"size" "4166F0C1E1A58C34E7068907D8A181BE"
-				"download" "CC7BAD244C166C78C7C501251F10EF8C"
+				"gid" "3079311233970098597"
+				"size" "32323934"
+				"download" "9475504"
 			}
-			"beta-2"
+			"v1.2.4.1"
 			{
-				"gid" "4AEC71C6345944003BD59FD4DB066192"
-				"size" "300137364948B93386F517B9F6B685D3"
-				"download" "BCA70FD7B67ACB8612F8065602EABD2D"
+				"gid" "7873550022567577070"
+				"size" "31867655"
+				"download" "9371552"
 			}
-			"fix-release"
+			"v1.1.2"
 			{
-				"gid" "D9451F3BB1C94728582F6DF6A44C6917"
-				"size" "B4D13137C91E440631DA8DFBD111EC20"
-				"download" "2BAB50C9218286D16309692132D14251"
+				"gid" "6254853773995939722"
+				"size" "31806263"
+				"download" "9353392"
 			}
-			"internal-beta"
+			"v1.0.6.1"
 			{
-				"gid" "8305A44D105891326D1CD82D70C07849"
-				"size" "0C97114C4DC503F739CE1B232BE0D50D"
-				"download" "64D6FA96668442EC4B4C3E50C7537342"
-			}
-			"internal-beta-2"
-			{
-				"gid" "0852B20BAA93367F41F8D7CD8D18940C"
-				"size" "F359EEFE0FDC3D13BCAE4C6BD3DF9491"
-				"download" "9F7ED1B6C7EBB2261DAAB82B4CE4269B"
-			}
-			"specificbugtesting"
-			{
-				"gid" "1DD5CAFB2DA56C5B21B7052EBF370F3C"
-				"size" "21E880E14C3DA725AE792222C345F4BA"
-				"download" "85F16107EB14F166D7D57B58F3427443"
-			}
-			"steam-deck-beta"
-			{
-				"gid" "990753D2D10DFF0EF529A607BFEFCDBA"
-				"size" "F4FA727F9307824C1ECF97FD04E9214F"
-				"download" "0FE390971E8BCB579ECD24E92A4998E3"
-			}
-			"steamdeckreleasetest"
-			{
-				"gid" "2191CAE6FB0E65DE6D9BFBC2EB83FC07"
-				"size" "2AF17CB4C59500440C183C2F5236EDA3"
-				"download" "28CBCC3E2A66230FA3C805684B022C0C"
-			}
-			"temp-branch-2"
-			{
-				"gid" "19CDC41D4E8E59028E2B6C34F42588CE"
-				"size" "3555513C7A9F0AAA286ADAFFF7E8E2EE"
-				"download" "62A0352E639E63D194FD368B1C8139D5"
-			}
-			"trendy"
-			{
-				"gid" "AF6FBC844A27D3F34A2E333EC8232286"
-				"size" "D64882E3A4A7DFEF751BDFE12D7D3139"
-				"download" "3595346000481B6EE5F0E8F80BE40B83"
+				"gid" "5929434764804426547"
+				"size" "31796408"
+				"download" "9350576"
 			}
 		}
 	}
@@ -470,72 +448,33 @@
 		{
 			"public"
 			{
-				"gid" "5312595479056093124"
-				"size" "730332452"
-				"download" "519095600"
+				"gid" "4465273709173240187"
+				"size" "854372484"
+				"download" "609711840"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"balance-beta"
+			"v1.3.0.8"
 			{
-				"gid" "617034291FD4D69E3CE5CE95565DEDCB"
-				"size" "145B7C85FAC5F2E0A92F56265A5A392E"
-				"download" "A7A77C8A8E07B0D39C7B0451F16BEAF9"
+				"gid" "2775861018446701598"
+				"size" "47286615"
+				"download" "12798320"
 			}
-			"beta-2"
+			"v1.2.4.1"
 			{
-				"gid" "30F24D2B902C754F8C1A853C7C43A1A6"
-				"size" "B07745AC2431AC74E90E6869322C87AF"
-				"download" "E46128442537625274EF9A95F7FABF15"
+				"gid" "2350030076826558214"
+				"size" "46637494"
+				"download" "12700400"
 			}
-			"fix-release"
+			"v1.1.2"
 			{
-				"gid" "C3566211012172BAA715C09E3593DC80"
-				"size" "0033CDA4B91789367172356194B766A0"
-				"download" "52C6D33ECEF082EB980B9FC7655444E9"
+				"gid" "2652580937757022222"
+				"size" "46576102"
+				"download" "12682256"
 			}
-			"internal-beta"
+			"v1.0.6.1"
 			{
-				"gid" "BFED859DC049D8D4A7C35BF8B9499858"
-				"size" "C3B274F2BDBDCAB538E9DB2206D256DF"
-				"download" "6FAB6B55EBA790E693C2C6AEEDD2472C"
-			}
-			"internal-beta-2"
-			{
-				"gid" "B9DAF71F36CEFC508D8E8CD73569BB02"
-				"size" "271BAD695BF550E1274503398A32E368"
-				"download" "A6A878760974DE8215658EDE3A940481"
-			}
-			"specificbugtesting"
-			{
-				"gid" "1C5D6D543226EEDC370046553FEC2B3F"
-				"size" "1979E22B82A8CCC4F2BE67FA33256134"
-				"download" "718C9B2E83335E245CAB63ACBB6D7591"
-			}
-			"steam-deck-beta"
-			{
-				"gid" "AB7569BD1755155CA63586F46D615581"
-				"size" "5B2190EB340AB8A949E638C4EEE5156A"
-				"download" "7A3E98C02CA681248CC9BFB67F61D07E"
-			}
-			"steamdeckreleasetest"
-			{
-				"gid" "10F68DD4E24C1F8770FFFA9AC5B0B88B"
-				"size" "A3C27168ECFC49F352D414F25111C9EE"
-				"download" "0BD2442636590A7A4901AEB6E656B30F"
-			}
-			"temp-branch-2"
-			{
-				"gid" "FF3A814C4817D3A2AEE0CE482FD79901"
-				"size" "3A3BEE6C808E7F91C8575300B996C201"
-				"download" "F070AA7E146402ADA30910B0C3295837"
-			}
-			"trendy"
-			{
-				"gid" "99F8A51C0B2C7A141A7769B6AADB46DA"
-				"size" "AEB1F36686A93BF1B7331E45318130E9"
-				"download" "D997118A589BAC17DFB972A93DA9F4D0"
+				"gid" "4110875674701335789"
+				"size" "46566220"
+				"download" "12679424"
 			}
 		}
 	}
@@ -545,70 +484,35 @@
 	{
 		"public"
 		{
-			"buildid" "9965506"
-			"timeupdated" "1668752523"
+			"buildid" "21658386"
+			"timeupdated" "1769526044"
 		}
-		"balance-beta"
+		"v1.3.0.8"
 		{
-			"buildid" "9965506"
-			"pwdrequired" "1"
-			"timeupdated" "1668752537"
+			"buildid" "18467854"
+			"description" "Lunacy!"
+			"timeupdated" "1747345500"
 		}
-		"beta-2"
+		"v1.2.4.1"
 		{
-			"buildid" "1342302"
-			"pwdrequired" "1"
-			"timeupdated" "1476800694"
+			"buildid" "16547892"
+			"description" "Angler\'s Delight"
+			"timeupdated" "1735142912"
 		}
-		"fix-release"
+		"v1.1.2"
 		{
-			"buildid" "9646252"
-			"pwdrequired" "1"
-			"timeupdated" "1664837429"
+			"buildid" "14381510"
+			"description" "First Final Update"
+			"timeupdated" "1715872245"
 		}
-		"internal-beta"
+		"v1.0.6.1"
 		{
-			"buildid" "13372241"
-			"pwdrequired" "1"
-			"timeupdated" "1707155695"
-		}
-		"internal-beta-2"
-		{
-			"buildid" "2704580"
-			"pwdrequired" "1"
-			"timeupdated" "1528747149"
-		}
-		"specificbugtesting"
-		{
-			"buildid" "9594011"
-			"pwdrequired" "1"
-			"timeupdated" "1664217377"
-		}
-		"steam-deck-beta"
-		{
-			"buildid" "8202013"
-			"pwdrequired" "1"
-			"timeupdated" "1644869757"
-		}
-		"steamdeckreleasetest"
-		{
-			"buildid" "8290638"
-			"pwdrequired" "1"
-			"timeupdated" "1646100149"
-		}
-		"temp-branch-2"
-		{
-			"buildid" "1783167"
-			"pwdrequired" "1"
-			"timeupdated" "1501783938"
-		}
-		"trendy"
-		{
-			"buildid" "1458175"
-			"pwdrequired" "1"
-			"timeupdated" "1479155818"
+			"buildid" "14381608"
+			"description" "Undeluxe Edition"
+			"timeupdated" "1715880177"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -616,6 +520,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "22213202"
-"_sha" "585977a5c84eec2c51a838ebbfd4e06ac4804da4"
-"_size" "13529"
+"_change_number" "33477420"
+"_sha" "da9cb9a40f9add61b4b9113aff04c18efcdb5ce5"
+"_size" "9780"
