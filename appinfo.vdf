@@ -17,11 +17,10 @@
 		"japanese" "ANNO: Mutationem アノー：ミューテーショネム"
 		"tchinese" "紀元: 變異"
 		"koreana" "기원: 변이"
-		"sc_schinese" "纪元：变异"
 	}
-	"oslist" "windows"
+	"oslist" "windows,macos"
 	"osarch" "64"
-	"osextended" ""
+	"osextended" "macosapplesilicon,macosnotarized"
 	"languages"
 	{
 		"english" "1"
@@ -35,7 +34,6 @@
 		"portuguese" "1"
 		"brazilian" "1"
 	}
-	"releasestatesteamchina" "prerelease"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -90,6 +88,7 @@
 			"hdr_support" "0"
 		}
 	}
+	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
@@ -169,7 +168,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1742195078"
+	"store_asset_mtime" "1763212367"
 	"associations"
 	{
 		"0"
@@ -204,6 +203,10 @@
 		"category_23" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -270,21 +273,21 @@
 	"store_tags"
 	{
 		"0" "122"
-		"1" "3964"
-		"2" "7208"
-		"3" "4115"
-		"4" "4106"
-		"5" "4975"
+		"1" "4115"
+		"2" "3964"
+		"3" "7208"
+		"4" "4975"
+		"5" "4085"
 		"6" "1742"
-		"7" "4085"
+		"7" "4106"
 		"8" "492"
 		"9" "19"
 		"10" "21"
 		"11" "4182"
 		"12" "5379"
 		"13" "4252"
-		"14" "3834"
-		"15" "4231"
+		"14" "4231"
+		"15" "3834"
 		"16" "4295"
 		"17" "3854"
 		"18" "3942"
@@ -316,13 +319,21 @@
 				"osarch" "64"
 			}
 		}
+		"1"
+		{
+			"executable" "Anno.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "internaltesting"
+			}
+		}
 	}
 	"steamcontrollertemplateindex" "4"
-	"steamconfigurator3rdpartynative" "65524"
-	"steam_china_only"
-	{
-		"steam_china_enable_duration_control" "1"
-	}
+	"steamconfigurator3rdpartynative" "15"
+	"steamdecktouchscreen" "1"
+	"uselaunchcommandline" "1"
 }
 "depots"
 {
@@ -332,27 +343,22 @@
 	{
 		"config"
 		{
-			"oslist" "windows,macos"
+			"oslist" "windows"
 			"osarch" "64"
 		}
 		"manifests"
 		{
 			"public"
 			{
-				"gid" "7341772540941002527"
-				"size" "9999170372"
-				"download" "8887171392"
+				"gid" "3235412914610912606"
+				"size" "9908569667"
+				"download" "8890606544"
 			}
 		}
 	}
 	"1909960"
 	{
 		"dlcappid" "1909960"
-		"config"
-		{
-			"oslist" "windows"
-			"osarch" "64"
-		}
 		"manifests"
 		{
 			"public"
@@ -363,12 +369,28 @@
 			}
 		}
 	}
+	"1368032"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1831179858285847043"
+				"size" "9889050084"
+				"download" "8989310592"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "19271999"
-			"timeupdated" "1752827653"
+			"buildid" "21518853"
+			"timeupdated" "1769504143"
 		}
 	}
 	"privatebranches" "1"
@@ -407,6 +429,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "30127572"
-"_sha" "6a6bc6afdf293aa376706ac22b1df6d9c32bbabb"
-"_size" "7707"
+"_change_number" "33470126"
+"_sha" "d6b4d4d9bd5730cb8fc533127ca808a43314f89e"
+"_size" "8050"
