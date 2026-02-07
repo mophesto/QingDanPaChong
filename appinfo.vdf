@@ -321,21 +321,9 @@
 		{
 			"public"
 			{
-				"gid" "5650678717683981821"
-				"size" "4002936532"
-				"download" "1477857744"
-			}
-			"fabledom_1.07_update"
-			{
-				"gid" "2661599579044441318"
-				"size" "4029864651"
-				"download" "1450702752"
-			}
-			"fabledom_1.08_update"
-			{
-				"gid" "758879077057706920"
-				"size" "4002888747"
-				"download" "1472993952"
+				"gid" "1652247544136243138"
+				"size" "4001887841"
+				"download" "1477862304"
 			}
 		}
 	}
@@ -343,20 +331,8 @@
 	{
 		"public"
 		{
-			"buildid" "21255527"
-			"timeupdated" "1768485753"
-		}
-		"fabledom_1.07_update"
-		{
-			"buildid" "18069119"
-			"description" "Beta branch for 1.07 update of Fabledom"
-			"timeupdated" "1744362967"
-		}
-		"fabledom_1.08_update"
-		{
-			"buildid" "20111086"
-			"description" "Beta branch for 1.08 update of Fabledom"
-			"timeupdated" "1759408448"
+			"buildid" "21830376"
+			"timeupdated" "1770478243"
 		}
 	}
 	"privatebranches" "1"
@@ -409,6 +385,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "33253882"
-"_sha" "c799b87b6e353675b177c4038ea292a901d3f5c5"
-"_size" "7485"
+"_change_number" "33709226"
+"_sha" "c65c59d7c53c49e579443f230c5f20119fff9047"
+"_size" "6918"
