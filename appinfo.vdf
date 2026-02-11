@@ -173,7 +173,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1761842746"
+	"store_asset_mtime" "1769525592"
 	"associations"
 	{
 		"0"
@@ -317,13 +317,15 @@
 		"19" "7481"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "83"
 }
 "extended"
 {
 	"developer" "Kumi Souls Games"
 	"publisher" "Playstack"
 	"homepage" "https://www.thelastfaithgame.com/"
+	"listofdlc" "3905110"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -356,9 +358,9 @@
 		{
 			"public"
 			{
-				"gid" "6422484413030578087"
-				"size" "2484610658"
-				"download" "2100025264"
+				"gid" "823198632880819497"
+				"size" "2485684708"
+				"download" "2101132208"
 			}
 		}
 	}
@@ -384,8 +386,8 @@
 	{
 		"public"
 		{
-			"buildid" "21516736"
-			"timeupdated" "1768827888"
+			"buildid" "21782638"
+			"timeupdated" "1770800301"
 		}
 	}
 	"privatebranches" "1"
@@ -405,6 +407,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "33317792"
-"_sha" "41074aba86bc25d94f9f8904feef8af40c21ecc5"
-"_size" "7335"
+"_change_number" "33779963"
+"_sha" "2b295790018a09fd329625c010d8f683a0ac3990"
+"_size" "7388"
