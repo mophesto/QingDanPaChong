@@ -358,9 +358,9 @@
 		{
 			"public"
 			{
-				"gid" "823198632880819497"
-				"size" "2485684708"
-				"download" "2101132208"
+				"gid" "4258909689477352322"
+				"size" "2484610651"
+				"download" "2100025200"
 			}
 		}
 	}
@@ -369,7 +369,6 @@
 		"dlcappid" "3905110"
 		"config"
 		{
-			"language" "english"
 			"oslist" "windows"
 		}
 		"manifests"
@@ -386,8 +385,8 @@
 	{
 		"public"
 		{
-			"buildid" "21782638"
-			"timeupdated" "1770800301"
+			"buildid" "21883307"
+			"timeupdated" "1770817116"
 		}
 	}
 	"privatebranches" "1"
@@ -407,6 +406,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "33779963"
-"_sha" "2b295790018a09fd329625c010d8f683a0ac3990"
-"_size" "7388"
+"_change_number" "33789156"
+"_sha" "900e95a758dc690c4671ab3d630fbb1c73b2cd6c"
+"_size" "7363"
