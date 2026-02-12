@@ -69,9 +69,9 @@
 		{
 			"public"
 			{
-				"gid" "8904491048620934740"
-				"size" "68697032"
-				"download" "20552544"
+				"gid" "5612541580377302256"
+				"size" "64647928"
+				"download" "22986368"
 			}
 		}
 		"depotfromapp" "1007"
@@ -103,9 +103,9 @@
 		{
 			"public"
 			{
-				"gid" "5587033981095108078"
-				"size" "107476144"
-				"download" "29272144"
+				"gid" "6403079453713498174"
+				"size" "107911652"
+				"download" "35551408"
 			}
 		}
 		"depotfromapp" "1007"
@@ -116,11 +116,17 @@
 		{
 			"public"
 			{
-				"gid" "4054845620686055037"
-				"size" "662644510"
-				"download" "638794496"
+				"gid" "3820870533814446423"
+				"size" "679192301"
+				"download" "655281936"
 			}
 			"public_beta"
+			{
+				"gid" "3820870533814446423"
+				"size" "679192301"
+				"download" "655281936"
+			}
+			"temporary_1_57"
 			{
 				"gid" "4054845620686055037"
 				"size" "662644510"
@@ -205,11 +211,17 @@
 		{
 			"public"
 			{
-				"gid" "3961912095010581913"
-				"size" "39054512"
-				"download" "11940144"
+				"gid" "3665000393382227473"
+				"size" "39938736"
+				"download" "12117408"
 			}
 			"public_beta"
+			{
+				"gid" "3665000393382227473"
+				"size" "39938736"
+				"download" "12117408"
+			}
+			"temporary_1_57"
 			{
 				"gid" "3961912095010581913"
 				"size" "39054512"
@@ -294,11 +306,17 @@
 		{
 			"public"
 			{
-				"gid" "5888911878936796548"
-				"size" "46817120"
-				"download" "17519872"
+				"gid" "319261535681831038"
+				"size" "47386080"
+				"download" "17715072"
 			}
 			"public_beta"
+			{
+				"gid" "319261535681831038"
+				"size" "47386080"
+				"download" "17715072"
+			}
+			"temporary_1_57"
 			{
 				"gid" "5888911878936796548"
 				"size" "46817120"
@@ -383,11 +401,17 @@
 		{
 			"public"
 			{
-				"gid" "5926950499267513554"
-				"size" "42239924"
-				"download" "16474848"
+				"gid" "866724598468911738"
+				"size" "43495604"
+				"download" "16830880"
 			}
 			"public_beta"
+			{
+				"gid" "866724598468911738"
+				"size" "43495604"
+				"download" "16830880"
+			}
+			"temporary_1_57"
 			{
 				"gid" "5926950499267513554"
 				"size" "42239924"
@@ -465,14 +489,20 @@
 	{
 		"public"
 		{
-			"buildid" "20757000"
-			"timeupdated" "1763625990"
+			"buildid" "21780249"
+			"timeupdated" "1770883410"
 		}
 		"public_beta"
 		{
-			"buildid" "20757000"
+			"buildid" "21780249"
 			"description" "Public Beta 1.57"
-			"timeupdated" "1762980875"
+			"timeupdated" "1770278829"
+		}
+		"temporary_1_57"
+		{
+			"buildid" "20757000"
+			"description" "1.57.x"
+			"timeupdated" "1770278901"
 		}
 		"temporary_1_56"
 		{
@@ -544,6 +574,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "32353987"
-"_sha" "256f88205689f5d21f40e2d45ebb95fb16fa1c73"
-"_size" "9856"
+"_change_number" "33804470"
+"_sha" "7e86dadb116a9fdf234e83e0713766a367fa5fd6"
+"_size" "10446"
