@@ -102,8 +102,8 @@
 	}
 	"header_image"
 	{
-		"english" "f0620dadd4666d8fe9e588cfbaba5fbaea4722b5/header.jpg"
-		"schinese" "22aa99418c3e4337aa023bd43ea3d9fe1cdc34e4/header_schinese.jpg"
+		"english" "51e5f44e4e38ce02a985687df4fdc8feb678219b/header.jpg"
+		"schinese" "3c25c3f7c3b73bdcca62ca9a2479cd0b5b0fac2b/header_schinese.jpg"
 	}
 	"library_assets"
 	{
@@ -169,12 +169,17 @@
 		{
 			"image"
 			{
-				"schinese" "library_header_schinese.jpg"
-				"english" "library_header.jpg"
+				"schinese" "3c25c3f7c3b73bdcca62ca9a2479cd0b5b0fac2b/library_header_schinese.jpg"
+				"english" "51e5f44e4e38ce02a985687df4fdc8feb678219b/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "51e5f44e4e38ce02a985687df4fdc8feb678219b/library_header_2x.jpg"
+				"schinese" "3c25c3f7c3b73bdcca62ca9a2479cd0b5b0fac2b/library_header_schinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1766018276"
+	"store_asset_mtime" "1770915203"
 	"associations"
 	{
 		"0"
@@ -515,9 +520,9 @@
 		{
 			"public"
 			{
-				"gid" "2618188829319951472"
-				"size" "4290198247"
-				"download" "2985155168"
+				"gid" "7739842961179694697"
+				"size" "4315860632"
+				"download" "3006823472"
 			}
 			"beforemacoschanges"
 			{
@@ -537,9 +542,9 @@
 		{
 			"public"
 			{
-				"gid" "7319903374738053789"
-				"size" "4170622348"
-				"download" "2871608144"
+				"gid" "459951174430027078"
+				"size" "4196280957"
+				"download" "2893270560"
 			}
 			"beforemacoschanges"
 			{
@@ -559,9 +564,9 @@
 		{
 			"public"
 			{
-				"gid" "57388705285127548"
-				"size" "4149443612"
-				"download" "2865580080"
+				"gid" "5408903692948800026"
+				"size" "4175069721"
+				"download" "2887273856"
 			}
 			"beforemacoschanges"
 			{
@@ -576,8 +581,8 @@
 	{
 		"public"
 		{
-			"buildid" "21416666"
-			"timeupdated" "1767833513"
+			"buildid" "21896114"
+			"timeupdated" "1770919222"
 		}
 		"beforemacoschanges"
 		{
@@ -638,6 +643,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "33121288"
-"_sha" "e14b012d2f951f991a84ad47e39339e3fd35b06c"
-"_size" "12843"
+"_change_number" "33824944"
+"_sha" "70967ca27bf6c948fb2fb3452fb87a750b622a7e"
+"_size" "13124"
