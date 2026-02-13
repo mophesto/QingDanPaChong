@@ -524,15 +524,15 @@
 		{
 			"public"
 			{
-				"gid" "2119656527536528973"
-				"size" "36391060521"
-				"download" "33770610720"
+				"gid" "5221335197223899909"
+				"size" "36391060612"
+				"download" "33770610976"
 			}
 			"public_beta"
 			{
-				"gid" "2119656527536528973"
-				"size" "36391060521"
-				"download" "33770610720"
+				"gid" "5221335197223899909"
+				"size" "36391060612"
+				"download" "33770610976"
 			}
 			"oculus"
 			{
@@ -721,15 +721,15 @@
 		{
 			"public"
 			{
-				"gid" "975215823489125375"
-				"size" "58809416"
-				"download" "19781104"
+				"gid" "2518562866311015744"
+				"size" "58818120"
+				"download" "19782448"
 			}
 			"public_beta"
 			{
-				"gid" "975215823489125375"
-				"size" "58809416"
-				"download" "19781104"
+				"gid" "2518562866311015744"
+				"size" "58818120"
+				"download" "19782448"
 			}
 			"oculus"
 			{
@@ -918,15 +918,15 @@
 		{
 			"public"
 			{
-				"gid" "2104953734068155926"
-				"size" "53878576"
-				"download" "20304560"
+				"gid" "4497151726017519926"
+				"size" "53882672"
+				"download" "20305392"
 			}
 			"public_beta"
 			{
-				"gid" "2104953734068155926"
-				"size" "53878576"
-				"download" "20304560"
+				"gid" "4497151726017519926"
+				"size" "53882672"
+				"download" "20305392"
 			}
 			"oculus"
 			{
@@ -1114,15 +1114,15 @@
 		{
 			"public"
 			{
-				"gid" "8370206600781013072"
-				"size" "66489418"
-				"download" "23474512"
+				"gid" "7733974066440479770"
+				"size" "66493626"
+				"download" "23476432"
 			}
 			"public_beta"
 			{
-				"gid" "8370206600781013072"
-				"size" "66489418"
-				"download" "23474512"
+				"gid" "7733974066440479770"
+				"size" "66493626"
+				"download" "23476432"
 			}
 			"oculus"
 			{
@@ -18350,13 +18350,13 @@
 		{
 			"public"
 			{
-				"gid" "2408843351738800483"
+				"gid" "388865599517779866"
 				"size" "41610769"
 				"download" "41445760"
 			}
 			"public_beta"
 			{
-				"gid" "2408843351738800483"
+				"gid" "388865599517779866"
 				"size" "41610769"
 				"download" "41445760"
 			}
@@ -18377,19 +18377,19 @@
 	{
 		"public"
 		{
-			"buildid" "21892609"
-			"timeupdated" "1770882895"
+			"buildid" "21909325"
+			"timeupdated" "1770978032"
 		}
 		"public_beta"
 		{
-			"buildid" "21892609"
+			"buildid" "21909325"
 			"description" "Open Beta for game version 1.58"
-			"timeupdated" "1770882750"
+			"timeupdated" "1770978003"
 		}
 		"oculus"
 		{
 			"buildid" "21893152"
-			"description" "Oculus+OpenVR+OpenXR - 1.57"
+			"description" "Oculus+OpenVR+OpenXR - 1.58"
 			"timeupdated" "1770886945"
 		}
 		"oculus_previous"
@@ -18569,6 +18569,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "33805537"
-"_sha" "225b8a430fd9347115d67c9f819d9794f6d65baf"
+"_change_number" "33838650"
+"_sha" "cc5f6f4de6260cbc004f1f4010f062920f3235df"
 "_size" "329930"
