@@ -304,7 +304,7 @@
 	"developer" "Gamepires"
 	"publisher" "Gamepires"
 	"homepage" "http://scum.game"
-	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840,3596770,4062860,4139450"
+	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840,3596770,4062860,4139450,4369750"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -387,9 +387,9 @@
 		{
 			"public"
 			{
-				"gid" "9149160997234551476"
-				"size" "98873872263"
-				"download" "33064442752"
+				"gid" "3048182930014262055"
+				"size" "106543796153"
+				"download" "33856616096"
 			}
 			"pterelease"
 			{
@@ -499,8 +499,8 @@
 	{
 		"public"
 		{
-			"buildid" "21779706"
-			"timeupdated" "1770217087"
+			"buildid" "22001354"
+			"timeupdated" "1771513146"
 		}
 		"pterelease"
 		{
@@ -518,6 +518,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "33643100"
-"_sha" "59cb8f6ac3db5b6ffb409f69c5bd45d47392d854"
-"_size" "9494"
+"_change_number" "33952137"
+"_sha" "860a4c158b8b886dcc8e5f91d26eec965c629fe1"
+"_size" "9503"
