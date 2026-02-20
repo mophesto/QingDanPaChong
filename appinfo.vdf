@@ -280,7 +280,7 @@
 		"19" "5794"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "74"
 }
 "extended"
 {
@@ -290,7 +290,7 @@
 	"publisher" "RocketWerkz"
 	"homepage" "https://SurviveIcarus.com"
 	"gamemanualurl" "https://store.steampowered.com/manual/1149460/"
-	"listofdlc" "1648532,1648533,1648540,1648541,1995690,2445280,2536360,2536370,2536380,2536390,2679990,2686540,2790990,2923820,2923830,3052290,3315290,3364360,3984230"
+	"listofdlc" "1648532,1648533,1648540,1648541,1995690,2445280,2536360,2536370,2536380,2536390,2679990,2686540,2790990,2791000,2923820,2923830,3052290,3315290,3364360,3984230"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -347,9 +347,9 @@
 		{
 			"public"
 			{
-				"gid" "1530145060593723864"
-				"size" "48966249973"
-				"download" "38900690720"
+				"gid" "1552865022559697642"
+				"size" "49020883886"
+				"download" "38971910400"
 			}
 			"2.2.57"
 			{
@@ -359,9 +359,9 @@
 			}
 			"experimental"
 			{
-				"gid" "1530145060593723864"
-				"size" "48966249973"
-				"download" "38900690720"
+				"gid" "1552865022559697642"
+				"size" "49020883886"
+				"download" "38971910400"
 			}
 		}
 	}
@@ -369,8 +369,8 @@
 	{
 		"public"
 		{
-			"buildid" "21843972"
-			"timeupdated" "1770938972"
+			"buildid" "22010286"
+			"timeupdated" "1771555023"
 		}
 		"2.2.57"
 		{
@@ -380,9 +380,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "21843972"
+			"buildid" "22010286"
 			"description" "Predeployment Testing"
-			"timeupdated" "1770633064"
+			"timeupdated" "1771544797"
 		}
 	}
 	"privatebranches" "1"
@@ -437,6 +437,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "33822897"
-"_sha" "a7422a4e4617a1de22e147babe89363381fe471e"
-"_size" "7898"
+"_change_number" "33963899"
+"_sha" "a61f923c721ed07349e3d413c05459a2f159c9b0"
+"_size" "7906"
