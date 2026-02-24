@@ -111,7 +111,7 @@
 	}
 	"header_image"
 	{
-		"english" "8819b355515f18e6f27f4b2208d93f8082dd1349/header.jpg"
+		"english" "0ba4367d339b83896e9c8938af1db9cdc63e8b04/header.jpg"
 	}
 	"library_assets"
 	{
@@ -133,11 +133,11 @@
 		{
 			"image"
 			{
-				"english" "430d76009f2ea66ff34c471d3dd86d952b2f613d/library_600x900.jpg"
+				"english" "29f2f4d0f4e5ca234ef8ad3c5151c69745174059/library_capsule.jpg"
 			}
 			"image2x"
 			{
-				"english" "430d76009f2ea66ff34c471d3dd86d952b2f613d/library_600x900_2x.jpg"
+				"english" "29f2f4d0f4e5ca234ef8ad3c5151c69745174059/library_capsule_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -179,15 +179,15 @@
 		{
 			"image"
 			{
-				"english" "c979e1da15df0b5ad5c8c0d91b1caf38355a6d9c/library_header.jpg"
+				"english" "c930436747290ba14286a45a599fa83f24a52660/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "c979e1da15df0b5ad5c8c0d91b1caf38355a6d9c/library_header_2x.jpg"
+				"english" "c930436747290ba14286a45a599fa83f24a52660/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1751109254"
+	"store_asset_mtime" "1769570884"
 	"associations"
 	{
 		"0"
@@ -208,23 +208,21 @@
 		"1" "25"
 		"2" "4"
 		"3" "23"
-		"4" "3"
+		"4" "29"
+		"5" "3"
 	}
 	"category"
 	{
 		"category_22" "1"
 		"category_23" "1"
 		"category_13" "1"
-		"category_14" "1"
 		"category_45" "1"
 		"category_46" "1"
 		"category_28" "1"
 		"category_49" "1"
 		"category_36" "1"
-		"category_37" "1"
-		"category_24" "1"
-		"category_44" "1"
 		"category_1" "1"
+		"category_2" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -253,13 +251,26 @@
 	"gameid" "986680"
 	"store_tags"
 	{
-		"0" "19"
-		"1" "21"
+		"0" "1775"
+		"1" "4106"
 		"2" "122"
-		"3" "492"
-		"4" "1667"
-		"5" "597"
-		"6" "1697"
+		"3" "1667"
+		"4" "4136"
+		"5" "1742"
+		"6" "19"
+		"7" "16094"
+		"8" "5984"
+		"9" "4166"
+		"10" "8369"
+		"11" "21"
+		"12" "51306"
+		"13" "10808"
+		"14" "1697"
+		"15" "3859"
+		"16" "492"
+		"17" "4182"
+		"18" "4191"
+		"19" "128"
 	}
 	"review_score" "8"
 	"review_percentage" "83"
@@ -349,9 +360,9 @@
 		{
 			"public"
 			{
-				"gid" "5756930082392274926"
-				"size" "13062163754"
-				"download" "9343095808"
+				"gid" "3051320278741619253"
+				"size" "13471596598"
+				"download" "9511299984"
 			}
 		}
 	}
@@ -367,8 +378,8 @@
 	{
 		"public"
 		{
-			"buildid" "20428484"
-			"timeupdated" "1760687289"
+			"buildid" "22065759"
+			"timeupdated" "1771912565"
 		}
 	}
 	"privatebranches" "1"
@@ -392,6 +403,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "31721960"
-"_sha" "6327497db6f07c3f1dc0437aca62bfc4c6b2622e"
-"_size" "7192"
+"_change_number" "34042860"
+"_sha" "4d1c8103d8e39fcae061d0ff8ec849467f4807df"
+"_size" "7346"
