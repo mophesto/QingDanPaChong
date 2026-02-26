@@ -159,14 +159,19 @@
 		"0"
 		{
 			"type" "developer"
-			"name" "Colossal Order"
+			"name" "Iceflake Studios"
 		}
 		"1"
+		{
+			"type" "developer"
+			"name" "Colossal Order"
+		}
+		"2"
 		{
 			"type" "publisher"
 			"name" "Paradox Interactive"
 		}
-		"2"
+		"3"
 		{
 			"type" "franchise"
 			"name" "Cities: Skylines"
@@ -258,19 +263,19 @@
 		"11" "1654"
 		"12" "10383"
 		"13" "597"
-		"14" "4166"
-		"15" "3859"
+		"14" "3859"
+		"15" "4166"
 		"16" "493"
 		"17" "1695"
 		"18" "5348"
 		"19" "1756"
 	}
 	"review_score" "5"
-	"review_percentage" "52"
+	"review_percentage" "53"
 }
 "extended"
 {
-	"developer" "Colossal Order"
+	"developer" "Iceflake Studios"
 	"publisher" "Paradox Interactive"
 	"listofdlc" "2427730,2427731,2427740,2427741,2427742,2427743,2427744,2427745,2427746,2887600,2945610,2945630,2945640,3054840,3055040,3055080,3350700,3535990,3579760,3579790,3579800,3579810,3740440,4156790"
 	"dlcavailableonstore" "1"
@@ -398,9 +403,9 @@
 		{
 			"public"
 			{
-				"gid" "1341480123603876800"
-				"size" "77963991596"
-				"download" "69898159632"
+				"gid" "6966657428018823642"
+				"size" "77963994383"
+				"download" "69898027648"
 			}
 		}
 	}
@@ -409,8 +414,8 @@
 	{
 		"public"
 		{
-			"buildid" "21818238"
-			"timeupdated" "1771405172"
+			"buildid" "22055778"
+			"timeupdated" "1772096374"
 		}
 	}
 	"privatebranches" "1"
@@ -421,6 +426,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "33920236"
-"_sha" "351654d36659a90e8007a8ecb8da4b1f28bab971"
-"_size" "7412"
+"_change_number" "34096506"
+"_sha" "4f82cd7dabb524543afac361a928ffae210c7e35"
+"_size" "7486"
