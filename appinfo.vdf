@@ -241,6 +241,13 @@
 		"category_9" "1"
 		"category_38" "1"
 		"category_48" "1"
+		"category_67" "1"
+		"category_68" "1"
+		"category_69" "1"
+		"category_70" "1"
+		"category_74" "1"
+		"category_78" "1"
+		"category_79" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -297,7 +304,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1634198446"
+	"steam_release_date" "1634198400"
 	"metacritic_score" "83"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-riftbreaker\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
@@ -309,18 +316,18 @@
 		"0" "3843"
 		"1" "7332"
 		"2" "3859"
-		"3" "1662"
-		"4" "1645"
-		"5" "4231"
-		"6" "1646"
+		"3" "1645"
+		"4" "1662"
+		"5" "1646"
+		"6" "4231"
 		"7" "3834"
 		"8" "3810"
 		"9" "1643"
 		"10" "1702"
 		"11" "5851"
 		"12" "4182"
-		"13" "4695"
-		"14" "1676"
+		"13" "1676"
+		"14" "4695"
 		"15" "9"
 		"16" "5125"
 		"17" "17305"
@@ -411,9 +418,9 @@
 		{
 			"public"
 			{
-				"gid" "8840440253772912905"
-				"size" "10458518563"
-				"download" "9843618448"
+				"gid" "6088601864135822821"
+				"size" "10796142178"
+				"download" "10259948160"
 			}
 			"legacy"
 			{
@@ -430,9 +437,9 @@
 		{
 			"public"
 			{
-				"gid" "6857983664384344137"
-				"size" "877257330"
-				"download" "863099024"
+				"gid" "4259891272425148847"
+				"size" "877286914"
+				"download" "863126960"
 			}
 			"legacy"
 			{
@@ -449,9 +456,9 @@
 		{
 			"public"
 			{
-				"gid" "8506343413069028418"
-				"size" "1305568777"
-				"download" "1289038192"
+				"gid" "3119244128268470919"
+				"size" "1305571859"
+				"download" "1289041056"
 			}
 			"legacy"
 			{
@@ -468,9 +475,9 @@
 		{
 			"public"
 			{
-				"gid" "2343080998379975619"
-				"size" "958045743"
-				"download" "942565424"
+				"gid" "9197126548732391335"
+				"size" "958059547"
+				"download" "942577696"
 			}
 			"legacy"
 			{
@@ -484,8 +491,8 @@
 	{
 		"public"
 		{
-			"buildid" "21225501"
-			"timeupdated" "1765987644"
+			"buildid" "22193983"
+			"timeupdated" "1772713974"
 		}
 		"legacy"
 		{
@@ -524,6 +531,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "32847074"
-"_sha" "ee50201897ce6ddb3611d1c907db5095b29a8d0e"
-"_size" "10177"
+"_change_number" "34255892"
+"_sha" "b930c20c167f7b89e701e18f32d5444fb245df19"
+"_size" "10332"
