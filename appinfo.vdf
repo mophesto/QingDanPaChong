@@ -15,7 +15,7 @@
 	{
 	}
 	"osextended" ""
-	"restricted_countries" "DE"
+	"restricted_countries" "DE,BR"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -246,9 +246,9 @@
 		{
 			"public"
 			{
-				"gid" "993185958259040887"
-				"size" "293093006"
-				"download" "162954768"
+				"gid" "4433099238893717419"
+				"size" "293092985"
+				"download" "162954816"
 			}
 		}
 	}
@@ -257,8 +257,8 @@
 	{
 		"public"
 		{
-			"buildid" "22148743"
-			"timeupdated" "1772362471"
+			"buildid" "22271685"
+			"timeupdated" "1773110043"
 		}
 	}
 	"privatebranches" "1"
@@ -283,6 +283,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "34158542"
-"_sha" "5a6a583e737c8f73d525cc9bcb51634fa9b5bfa0"
-"_size" "4920"
+"_change_number" "34332329"
+"_sha" "6afc4595e1e2161a119e36e8e97598b44f8c1b3f"
+"_size" "4924"
