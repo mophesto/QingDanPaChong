@@ -24,6 +24,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1644278400"
 		"tested_build_id" "6925537"
 		"tests"
@@ -54,6 +55,24 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -66,6 +85,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Raft"
@@ -89,6 +111,48 @@
 			"height_pct" "100"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "33"
+				"height_pct" "100"
+			}
+		}
+	}
 	"store_asset_mtime" "1655469311"
 	"associations"
 	{
@@ -100,6 +164,11 @@
 		"1"
 		{
 			"type" "publisher"
+			"name" "Axolot Games"
+		}
+		"2"
+		{
+			"type" "franchise"
 			"name" "Axolot Games"
 		}
 	}
@@ -120,6 +189,7 @@
 		"category_9" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -204,9 +274,9 @@
 		"10" "3810"
 		"11" "3839"
 		"12" "4182"
-		"13" "493"
-		"14" "9157"
-		"15" "599"
+		"13" "9157"
+		"14" "599"
+		"15" "493"
 		"16" "19"
 		"17" "492"
 		"18" "9"
@@ -270,18 +340,21 @@
 		{
 			"public"
 			{
+				"gid" "2587655236832033183"
+				"size" "7773453490"
+				"download" "2241579680"
+			}
+			"1.09_precrossplayupdate"
+			{
 				"gid" "577422474383592005"
 				"size" "7116122279"
 				"download" "2100173680"
 			}
-		}
-		"encryptedmanifests"
-		{
-			"inhouse"
+			"beta"
 			{
-				"gid" "097951CA8EB806E54311FF8D335C64BC"
-				"size" "CF65B09C8E2FA2051547415532935DB8"
-				"download" "7087CA5606D851F6D902EF7B1F6A25C1"
+				"gid" "2587655236832033183"
+				"size" "7773453490"
+				"download" "2241579680"
 			}
 		}
 	}
@@ -289,16 +362,23 @@
 	{
 		"public"
 		{
-			"buildid" "10199006"
-			"timeupdated" "1671713087"
+			"buildid" "22157851"
+			"timeupdated" "1773137019"
 		}
-		"inhouse"
+		"1.09_precrossplayupdate"
 		{
 			"buildid" "10199006"
-			"pwdrequired" "1"
-			"timeupdated" "1671706524"
+			"description" "Stable version before updating the game to support crossplay"
+			"timeupdated" "1773136985"
+		}
+		"beta"
+		{
+			"buildid" "22157851"
+			"description" "beta"
+			"timeupdated" "1772465202"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -320,6 +400,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21668982"
-"_sha" "541452e0f326dc7695e701324014671f8a02eef8"
-"_size" "5628"
+"_change_number" "34338625"
+"_sha" "d55efe6fd93956e08819edd7d57a308d1ab658dc"
+"_size" "7059"
