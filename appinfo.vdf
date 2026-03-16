@@ -22,6 +22,75 @@
 		"english" "1"
 		"schinese" "1"
 	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1747872000"
+		"tested_build_id" "15044702"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -44,6 +113,48 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "32.31411465129325"
 			"height_pct" "67.6370410392913"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "32.31411465129325"
+				"height_pct" "67.6370410392913"
+			}
 		}
 	}
 	"store_asset_mtime" "1719728752"
@@ -115,7 +226,7 @@
 		"19" "17305"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -152,18 +263,9 @@
 		{
 			"public"
 			{
-				"gid" "6437921913498509700"
-				"size" "673690124"
-				"download" "253952272"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testbranch"
-			{
-				"gid" "6EAC690BD6C87FCF36FEC84DFAFD25D6"
-				"size" "48801082A679F0845806B638DE643C9A"
-				"download" "50FF40EE9DA0C39CD9EA43F2B8661D3F"
+				"gid" "4850392897561236342"
+				"size" "672052022"
+				"download" "255473104"
 			}
 		}
 	}
@@ -178,18 +280,9 @@
 		{
 			"public"
 			{
-				"gid" "3337473438325824389"
-				"size" "655217132"
-				"download" "247185696"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"testbranch"
-			{
-				"gid" "9417026A4E931F93BBB40A6736FCFD68"
-				"size" "D0378DC1779CA042EFAA37CC4D0C94CC"
-				"download" "F6812CA3BB5E6A2AB6E5CDF3D620229D"
+				"gid" "4166247214370333734"
+				"size" "661584662"
+				"download" "251358464"
 			}
 		}
 	}
@@ -197,16 +290,12 @@
 	{
 		"public"
 		{
-			"buildid" "15044702"
-			"timeupdated" "1721102122"
-		}
-		"testbranch"
-		{
-			"buildid" "7475049"
-			"pwdrequired" "1"
-			"timeupdated" "1633360305"
+			"buildid" "22364463"
+			"timeupdated" "1773676113"
+			"timebuildupdated" "1773676073"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -227,6 +316,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24376918"
-"_sha" "9439a68603a8514aba3c0a214d448dcf0e9e1cd0"
-"_size" "3916"
+"_change_number" "34460219"
+"_sha" "140b97b4c3f1b3ae49848cbd67c247c8597cdef7"
+"_size" "5877"
