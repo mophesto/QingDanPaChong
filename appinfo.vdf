@@ -108,12 +108,10 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "16bbdb9ee38ec91433522604828fdbbbf2fae9ea/capsule_231x87.jpg"
+		"english" "32c71374d9617534661fbfac0ac9fa6849f62215/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"japanese" "header_japanese.jpg"
-		"koreana" "header_koreana.jpg"
 		"english" "header.jpg"
 	}
 	"library_assets"
@@ -147,18 +145,18 @@
 		{
 			"image"
 			{
-				"english" "affd970e872ca6300a1f425c7dc279d44cb0d388/library_hero.jpg"
+				"english" "72e801b06fe78ee7885e831d23dfe19f480d5074/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "affd970e872ca6300a1f425c7dc279d44cb0d388/library_hero_2x.jpg"
+				"english" "72e801b06fe78ee7885e831d23dfe19f480d5074/library_hero_2x.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "affd970e872ca6300a1f425c7dc279d44cb0d388/library_hero_blur.jpg"
+				"english" "72e801b06fe78ee7885e831d23dfe19f480d5074/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -190,7 +188,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1763039175"
+	"store_asset_mtime" "1768919764"
 	"associations"
 	{
 		"0"
@@ -512,21 +510,33 @@
 		{
 			"public"
 			{
-				"gid" "130984018769600782"
-				"size" "26956236385"
-				"download" "12212554672"
+				"gid" "5638977475231642157"
+				"size" "26957207633"
+				"download" "12212749344"
 			}
 			"cetus_open_beta"
 			{
-				"gid" "1250104736617477256"
-				"size" "26956192750"
-				"download" "12212526944"
+				"gid" "5638977475231642157"
+				"size" "26957207633"
+				"download" "12212749344"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
 			{
-				"gid" "1250104736617477256"
-				"size" "26956192750"
-				"download" "12212526944"
+				"gid" "3942684528165219303"
+				"size" "26956414562"
+				"download" "12212566032"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "3942684528165219303"
+				"size" "26956414562"
+				"download" "12212566032"
+			}
+			"cetus_open_beta_broken_factions"
+			{
+				"gid" "5164992983410765130"
+				"size" "26956387239"
+				"download" "12212566688"
 			}
 			"2.1.3"
 			{
@@ -696,6 +706,12 @@
 				"size" "26956216265"
 				"download" "12212476544"
 			}
+			"4.2.4"
+			{
+				"gid" "130984018769600782"
+				"size" "26956236385"
+				"download" "12212554672"
+			}
 		}
 	}
 	"281992"
@@ -708,21 +724,33 @@
 		{
 			"public"
 			{
-				"gid" "1273570171647170085"
-				"size" "229775398"
-				"download" "179539504"
+				"gid" "698158633845313971"
+				"size" "224548901"
+				"download" "178031536"
 			}
 			"cetus_open_beta"
 			{
-				"gid" "1376177856051085268"
-				"size" "227287599"
-				"download" "178414880"
+				"gid" "698158633845313971"
+				"size" "224548901"
+				"download" "178031536"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
 			{
-				"gid" "1376177856051085268"
-				"size" "227287599"
-				"download" "178414880"
+				"gid" "1895541000376037265"
+				"size" "225652271"
+				"download" "178354816"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "4319602111719461948"
+				"size" "225653807"
+				"download" "178356192"
+			}
+			"cetus_open_beta_broken_factions"
+			{
+				"gid" "5239594741672110391"
+				"size" "225711663"
+				"download" "178382688"
 			}
 			"2.1.3"
 			{
@@ -892,6 +920,12 @@
 				"size" "229786662"
 				"download" "179540832"
 			}
+			"4.2.4"
+			{
+				"gid" "1273570171647170085"
+				"size" "229775398"
+				"download" "179539504"
+			}
 		}
 	}
 	"281993"
@@ -904,21 +938,33 @@
 		{
 			"public"
 			{
-				"gid" "8824487584515576392"
-				"size" "456884111"
-				"download" "363196224"
+				"gid" "1246302820404814132"
+				"size" "512038488"
+				"download" "368388544"
 			}
 			"cetus_open_beta"
 			{
-				"gid" "4636096137104472163"
-				"size" "504675682"
-				"download" "367291040"
+				"gid" "1246302820404814132"
+				"size" "512038488"
+				"download" "368388544"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
 			{
-				"gid" "4636096137104472163"
-				"size" "504675682"
-				"download" "367291040"
+				"gid" "3007037131125762694"
+				"size" "512117786"
+				"download" "368409248"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "402652841419203432"
+				"size" "512115050"
+				"download" "368410160"
+			}
+			"cetus_open_beta_broken_factions"
+			{
+				"gid" "6092631123570565872"
+				"size" "512172898"
+				"download" "368410528"
 			}
 			"2.1.3"
 			{
@@ -1088,6 +1134,12 @@
 				"size" "456905599"
 				"download" "363205312"
 			}
+			"4.2.4"
+			{
+				"gid" "8824487584515576392"
+				"size" "456884111"
+				"download" "363196224"
+			}
 		}
 	}
 	"281994"
@@ -1100,21 +1152,33 @@
 		{
 			"public"
 			{
-				"gid" "1585104981201181737"
-				"size" "310097422"
-				"download" "199918736"
+				"gid" "7604094968161405711"
+				"size" "313011906"
+				"download" "201071152"
 			}
 			"cetus_open_beta"
 			{
-				"gid" "2292406316485677138"
-				"size" "321459764"
-				"download" "200636432"
+				"gid" "7604094968161405711"
+				"size" "313011906"
+				"download" "201071152"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
 			{
-				"gid" "2292406316485677138"
-				"size" "321459764"
-				"download" "200636432"
+				"gid" "8238360663036741869"
+				"size" "313123868"
+				"download" "201122608"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "2345279855735593298"
+				"size" "313117836"
+				"download" "201122576"
+			}
+			"cetus_open_beta_broken_factions"
+			{
+				"gid" "5591207543801268669"
+				"size" "313208956"
+				"download" "201161024"
 			}
 			"2.1.3"
 			{
@@ -1284,6 +1348,12 @@
 				"size" "310128430"
 				"download" "199925712"
 			}
+			"4.2.4"
+			{
+				"gid" "1585104981201181737"
+				"size" "310097422"
+				"download" "199918736"
+			}
 		}
 	}
 	"447680"
@@ -1303,7 +1373,19 @@
 				"size" "77011"
 				"download" "77872"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "3796462871416536945"
+				"size" "77011"
+				"download" "77872"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "3796462871416536945"
+				"size" "77011"
+				"download" "77872"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "3796462871416536945"
 				"size" "77011"
@@ -1472,6 +1554,12 @@
 				"download" "77872"
 			}
 			"4.2.3"
+			{
+				"gid" "3796462871416536945"
+				"size" "77011"
+				"download" "77872"
+			}
+			"4.2.4"
 			{
 				"gid" "3796462871416536945"
 				"size" "77011"
@@ -1496,7 +1584,19 @@
 				"size" "77001"
 				"download" "77872"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "4635516424234970299"
+				"size" "77001"
+				"download" "77872"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "4635516424234970299"
+				"size" "77001"
+				"download" "77872"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "4635516424234970299"
 				"size" "77001"
@@ -1665,6 +1765,12 @@
 				"download" "77872"
 			}
 			"4.2.3"
+			{
+				"gid" "4635516424234970299"
+				"size" "77001"
+				"download" "77872"
+			}
+			"4.2.4"
 			{
 				"gid" "4635516424234970299"
 				"size" "77001"
@@ -1689,7 +1795,19 @@
 				"size" "119359244"
 				"download" "105718688"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "8126759959369925319"
+				"size" "119359244"
+				"download" "105718688"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "8126759959369925319"
+				"size" "119359244"
+				"download" "105718688"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "8126759959369925319"
 				"size" "119359244"
@@ -1858,6 +1976,12 @@
 				"download" "105718688"
 			}
 			"4.2.3"
+			{
+				"gid" "8126759959369925319"
+				"size" "119359244"
+				"download" "105718688"
+			}
+			"4.2.4"
 			{
 				"gid" "8126759959369925319"
 				"size" "119359244"
@@ -1882,7 +2006,19 @@
 				"size" "77003"
 				"download" "77872"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "6115058309987442461"
+				"size" "77003"
+				"download" "77872"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "6115058309987442461"
+				"size" "77003"
+				"download" "77872"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "6115058309987442461"
 				"size" "77003"
@@ -2051,6 +2187,12 @@
 				"download" "77872"
 			}
 			"4.2.3"
+			{
+				"gid" "6115058309987442461"
+				"size" "77003"
+				"download" "77872"
+			}
+			"4.2.4"
 			{
 				"gid" "6115058309987442461"
 				"size" "77003"
@@ -2075,7 +2217,19 @@
 				"size" "1161285479"
 				"download" "1143479312"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "4984318181401498898"
+				"size" "1161285479"
+				"download" "1143479312"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "4984318181401498898"
+				"size" "1161285479"
+				"download" "1143479312"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "4984318181401498898"
 				"size" "1161285479"
@@ -2244,6 +2398,12 @@
 				"download" "1143479312"
 			}
 			"4.2.3"
+			{
+				"gid" "4984318181401498898"
+				"size" "1161285479"
+				"download" "1143479312"
+			}
+			"4.2.4"
 			{
 				"gid" "4984318181401498898"
 				"size" "1161285479"
@@ -2268,7 +2428,19 @@
 				"size" "5084430"
 				"download" "4683728"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "5616497098841117414"
+				"size" "5084430"
+				"download" "4683728"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "5616497098841117414"
+				"size" "5084430"
+				"download" "4683728"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "5616497098841117414"
 				"size" "5084430"
@@ -2437,6 +2609,12 @@
 				"download" "4683728"
 			}
 			"4.2.3"
+			{
+				"gid" "5616497098841117414"
+				"size" "5084430"
+				"download" "4683728"
+			}
+			"4.2.4"
 			{
 				"gid" "5616497098841117414"
 				"size" "5084430"
@@ -2461,7 +2639,19 @@
 				"size" "2398034"
 				"download" "2147392"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "380104706699965241"
+				"size" "2398034"
+				"download" "2147392"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "380104706699965241"
+				"size" "2398034"
+				"download" "2147392"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "380104706699965241"
 				"size" "2398034"
@@ -2630,6 +2820,12 @@
 				"download" "2147392"
 			}
 			"4.2.3"
+			{
+				"gid" "380104706699965241"
+				"size" "2398034"
+				"download" "2147392"
+			}
+			"4.2.4"
 			{
 				"gid" "380104706699965241"
 				"size" "2398034"
@@ -2654,7 +2850,19 @@
 				"size" "1302880"
 				"download" "1257056"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "8750895669882452148"
+				"size" "1302880"
+				"download" "1257056"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "8750895669882452148"
+				"size" "1302880"
+				"download" "1257056"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "8750895669882452148"
 				"size" "1302880"
@@ -2823,6 +3031,12 @@
 				"download" "1257056"
 			}
 			"4.2.3"
+			{
+				"gid" "8750895669882452148"
+				"size" "1302880"
+				"download" "1257056"
+			}
+			"4.2.4"
 			{
 				"gid" "8750895669882452148"
 				"size" "1302880"
@@ -2851,7 +3065,19 @@
 				"size" "0"
 				"download" "0"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "5298150507268136665"
+				"size" "0"
+				"download" "0"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "5298150507268136665"
+				"size" "0"
+				"download" "0"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "5298150507268136665"
 				"size" "0"
@@ -3020,6 +3246,12 @@
 				"download" "0"
 			}
 			"4.2.3"
+			{
+				"gid" "5298150507268136665"
+				"size" "0"
+				"download" "0"
+			}
+			"4.2.4"
 			{
 				"gid" "5298150507268136665"
 				"size" "0"
@@ -3044,7 +3276,19 @@
 				"size" "77025"
 				"download" "77872"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "5938010814972666580"
+				"size" "77025"
+				"download" "77872"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "5938010814972666580"
+				"size" "77025"
+				"download" "77872"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "5938010814972666580"
 				"size" "77025"
@@ -3213,6 +3457,12 @@
 				"download" "77872"
 			}
 			"4.2.3"
+			{
+				"gid" "5938010814972666580"
+				"size" "77025"
+				"download" "77872"
+			}
+			"4.2.4"
 			{
 				"gid" "5938010814972666580"
 				"size" "77025"
@@ -3237,7 +3487,19 @@
 				"size" "2321437"
 				"download" "2069904"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "8675625826638210993"
+				"size" "2321437"
+				"download" "2069904"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "8675625826638210993"
+				"size" "2321437"
+				"download" "2069904"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "8675625826638210993"
 				"size" "2321437"
@@ -3406,6 +3668,12 @@
 				"download" "2069904"
 			}
 			"4.2.3"
+			{
+				"gid" "8675625826638210993"
+				"size" "2321437"
+				"download" "2069904"
+			}
+			"4.2.4"
 			{
 				"gid" "8675625826638210993"
 				"size" "2321437"
@@ -3430,7 +3698,19 @@
 				"size" "97319"
 				"download" "98064"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "5289062830139194176"
+				"size" "97319"
+				"download" "98064"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "5289062830139194176"
+				"size" "97319"
+				"download" "98064"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "5289062830139194176"
 				"size" "97319"
@@ -3599,6 +3879,12 @@
 				"download" "98064"
 			}
 			"4.2.3"
+			{
+				"gid" "5289062830139194176"
+				"size" "97319"
+				"download" "98064"
+			}
+			"4.2.4"
 			{
 				"gid" "5289062830139194176"
 				"size" "97319"
@@ -3623,7 +3909,19 @@
 				"size" "59068563"
 				"download" "59824816"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "2771826165032019499"
+				"size" "59068563"
+				"download" "59824816"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "2771826165032019499"
+				"size" "59068563"
+				"download" "59824816"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "2771826165032019499"
 				"size" "59068563"
@@ -3797,6 +4095,12 @@
 				"size" "59068563"
 				"download" "59824816"
 			}
+			"4.2.4"
+			{
+				"gid" "2771826165032019499"
+				"size" "59068563"
+				"download" "59824816"
+			}
 		}
 	}
 	"553280"
@@ -3816,7 +4120,19 @@
 				"size" "76047634"
 				"download" "77042480"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "94231584423973538"
+				"size" "76047634"
+				"download" "77042480"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "94231584423973538"
+				"size" "76047634"
+				"download" "77042480"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "94231584423973538"
 				"size" "76047634"
@@ -3990,6 +4306,12 @@
 				"size" "76047634"
 				"download" "77042480"
 			}
+			"4.2.4"
+			{
+				"gid" "94231584423973538"
+				"size" "76047634"
+				"download" "77042480"
+			}
 		}
 	}
 	"554350"
@@ -4009,7 +4331,19 @@
 				"size" "76984"
 				"download" "77856"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "6329361971126473517"
+				"size" "76984"
+				"download" "77856"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "6329361971126473517"
+				"size" "76984"
+				"download" "77856"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "6329361971126473517"
 				"size" "76984"
@@ -4183,6 +4517,12 @@
 				"size" "76984"
 				"download" "77856"
 			}
+			"4.2.4"
+			{
+				"gid" "6329361971126473517"
+				"size" "76984"
+				"download" "77856"
+			}
 		}
 	}
 	"633310"
@@ -4202,7 +4542,19 @@
 				"size" "104543"
 				"download" "105632"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "3345875144006097969"
+				"size" "104543"
+				"download" "105632"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "3345875144006097969"
+				"size" "104543"
+				"download" "105632"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "3345875144006097969"
 				"size" "104543"
@@ -4376,6 +4728,12 @@
 				"size" "104543"
 				"download" "105632"
 			}
+			"4.2.4"
+			{
+				"gid" "3345875144006097969"
+				"size" "104543"
+				"download" "105632"
+			}
 		}
 	}
 	"642750"
@@ -4395,7 +4753,19 @@
 				"size" "48642898"
 				"download" "49267408"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "8487770189849309225"
+				"size" "48642898"
+				"download" "49267408"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "8487770189849309225"
+				"size" "48642898"
+				"download" "49267408"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "8487770189849309225"
 				"size" "48642898"
@@ -4569,6 +4939,12 @@
 				"size" "48642898"
 				"download" "49267408"
 			}
+			"4.2.4"
+			{
+				"gid" "8487770189849309225"
+				"size" "48642898"
+				"download" "49267408"
+			}
 		}
 	}
 	"716670"
@@ -4588,7 +4964,19 @@
 				"size" "38026555"
 				"download" "38416464"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "2874777228579213431"
+				"size" "38026555"
+				"download" "38416464"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "2874777228579213431"
+				"size" "38026555"
+				"download" "38416464"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "2874777228579213431"
 				"size" "38026555"
@@ -4762,6 +5150,12 @@
 				"size" "38026555"
 				"download" "38416464"
 			}
+			"4.2.4"
+			{
+				"gid" "2874777228579213431"
+				"size" "38026555"
+				"download" "38416464"
+			}
 		}
 	}
 	"756010"
@@ -4781,7 +5175,19 @@
 				"size" "85948196"
 				"download" "86874064"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "7057785433501895820"
+				"size" "85948196"
+				"download" "86874064"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "7057785433501895820"
+				"size" "85948196"
+				"download" "86874064"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "7057785433501895820"
 				"size" "85948196"
@@ -4955,6 +5361,12 @@
 				"size" "85948196"
 				"download" "86874064"
 			}
+			"4.2.4"
+			{
+				"gid" "7057785433501895820"
+				"size" "85948196"
+				"download" "86874064"
+			}
 		}
 	}
 	"844810"
@@ -4974,7 +5386,19 @@
 				"size" "20572316"
 				"download" "20828912"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "265938213461916546"
+				"size" "20572316"
+				"download" "20828912"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "265938213461916546"
+				"size" "20572316"
+				"download" "20828912"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "265938213461916546"
 				"size" "20572316"
@@ -5148,6 +5572,12 @@
 				"size" "20572316"
 				"download" "20828912"
 			}
+			"4.2.4"
+			{
+				"gid" "265938213461916546"
+				"size" "20572316"
+				"download" "20828912"
+			}
 		}
 	}
 	"944290"
@@ -5167,7 +5597,19 @@
 				"size" "91814524"
 				"download" "92795600"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "5027959061154273567"
+				"size" "91814524"
+				"download" "92795600"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "5027959061154273567"
+				"size" "91814524"
+				"download" "92795600"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "5027959061154273567"
 				"size" "91814524"
@@ -5335,6 +5777,12 @@
 				"size" "91814524"
 				"download" "92795600"
 			}
+			"4.2.4"
+			{
+				"gid" "5027959061154273567"
+				"size" "91814524"
+				"download" "92795600"
+			}
 		}
 	}
 	"1045980"
@@ -5354,7 +5802,19 @@
 				"size" "32765539"
 				"download" "33179920"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "6196140321844137812"
+				"size" "32765539"
+				"download" "33179920"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "6196140321844137812"
+				"size" "32765539"
+				"download" "33179920"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "6196140321844137812"
 				"size" "32765539"
@@ -5516,6 +5976,12 @@
 				"size" "32765539"
 				"download" "33179920"
 			}
+			"4.2.4"
+			{
+				"gid" "6196140321844137812"
+				"size" "32765539"
+				"download" "33179920"
+			}
 		}
 	}
 	"1140000"
@@ -5535,7 +6001,19 @@
 				"size" "25466841"
 				"download" "25740864"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "1707277670014098752"
+				"size" "25466841"
+				"download" "25740864"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "1707277670014098752"
+				"size" "25466841"
+				"download" "25740864"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "1707277670014098752"
 				"size" "25466841"
@@ -5685,6 +6163,12 @@
 				"size" "25466841"
 				"download" "25740864"
 			}
+			"4.2.4"
+			{
+				"gid" "1707277670014098752"
+				"size" "25466841"
+				"download" "25740864"
+			}
 		}
 	}
 	"1140001"
@@ -5704,7 +6188,19 @@
 				"size" "14019696"
 				"download" "14199280"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "6552287492865536968"
+				"size" "14019696"
+				"download" "14199280"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "6552287492865536968"
+				"size" "14019696"
+				"download" "14199280"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "6552287492865536968"
 				"size" "14019696"
@@ -5854,6 +6350,12 @@
 				"size" "14019696"
 				"download" "14199280"
 			}
+			"4.2.4"
+			{
+				"gid" "6552287492865536968"
+				"size" "14019696"
+				"download" "14199280"
+			}
 		}
 	}
 	"1341520"
@@ -5873,7 +6375,19 @@
 				"size" "24718985"
 				"download" "24979312"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "3322127761481394644"
+				"size" "24718985"
+				"download" "24979312"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "3322127761481394644"
+				"size" "24718985"
+				"download" "24979312"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "3322127761481394644"
 				"size" "24718985"
@@ -6005,6 +6519,12 @@
 				"size" "24718985"
 				"download" "24979312"
 			}
+			"4.2.4"
+			{
+				"gid" "3322127761481394644"
+				"size" "24718985"
+				"download" "24979312"
+			}
 		}
 	}
 	"1522090"
@@ -6024,7 +6544,19 @@
 				"size" "38704237"
 				"download" "39142144"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "1464825983963181123"
+				"size" "38704237"
+				"download" "39142144"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "1464825983963181123"
+				"size" "38704237"
+				"download" "39142144"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "1464825983963181123"
 				"size" "38704237"
@@ -6150,6 +6682,12 @@
 				"size" "38704237"
 				"download" "39142144"
 			}
+			"4.2.4"
+			{
+				"gid" "1464825983963181123"
+				"size" "38704237"
+				"download" "39142144"
+			}
 		}
 	}
 	"1749080"
@@ -6169,7 +6707,19 @@
 				"size" "29840672"
 				"download" "30168112"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "2352410094773288579"
+				"size" "29840672"
+				"download" "30168112"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "2352410094773288579"
+				"size" "29840672"
+				"download" "30168112"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "2352410094773288579"
 				"size" "29840672"
@@ -6283,6 +6833,12 @@
 				"size" "29840672"
 				"download" "30168112"
 			}
+			"4.2.4"
+			{
+				"gid" "2352410094773288579"
+				"size" "29840672"
+				"download" "30168112"
+			}
 		}
 	}
 	"1889490"
@@ -6302,7 +6858,19 @@
 				"size" "101497613"
 				"download" "102807936"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "1949988533210430480"
+				"size" "101497613"
+				"download" "102807936"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "1949988533210430480"
+				"size" "101497613"
+				"download" "102807936"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "1949988533210430480"
 				"size" "101497613"
@@ -6398,6 +6966,12 @@
 				"size" "101497613"
 				"download" "102807936"
 			}
+			"4.2.4"
+			{
+				"gid" "1949988533210430480"
+				"size" "101497613"
+				"download" "102807936"
+			}
 		}
 	}
 	"2115770"
@@ -6417,7 +6991,19 @@
 				"size" "21759572"
 				"download" "21976496"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "5845045787060089827"
+				"size" "21759572"
+				"download" "21976496"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "5845045787060089827"
+				"size" "21759572"
+				"download" "21976496"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "5845045787060089827"
 				"size" "21759572"
@@ -6507,6 +7093,12 @@
 				"size" "21759572"
 				"download" "21976496"
 			}
+			"4.2.4"
+			{
+				"gid" "5845045787060089827"
+				"size" "21759572"
+				"download" "21976496"
+			}
 		}
 	}
 	"2277860"
@@ -6526,7 +7118,19 @@
 				"size" "92214"
 				"download" "93040"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "8807460982713286018"
+				"size" "92214"
+				"download" "93040"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "8807460982713286018"
+				"size" "92214"
+				"download" "93040"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "8807460982713286018"
 				"size" "92214"
@@ -6604,6 +7208,12 @@
 				"size" "92214"
 				"download" "93040"
 			}
+			"4.2.4"
+			{
+				"gid" "8807460982713286018"
+				"size" "92214"
+				"download" "93040"
+			}
 		}
 	}
 	"2380030"
@@ -6623,7 +7233,19 @@
 				"size" "92029"
 				"download" "92720"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "4766501690478595027"
+				"size" "92029"
+				"download" "92720"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "4766501690478595027"
+				"size" "92029"
+				"download" "92720"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "4766501690478595027"
 				"size" "92029"
@@ -6695,6 +7317,12 @@
 				"size" "92029"
 				"download" "92720"
 			}
+			"4.2.4"
+			{
+				"gid" "4766501690478595027"
+				"size" "92029"
+				"download" "92720"
+			}
 		}
 	}
 	"2534090"
@@ -6714,7 +7342,19 @@
 				"size" "47152429"
 				"download" "47667808"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "9097052916041541638"
+				"size" "47152429"
+				"download" "47667808"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "9097052916041541638"
+				"size" "47152429"
+				"download" "47667808"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "9097052916041541638"
 				"size" "47152429"
@@ -6774,6 +7414,12 @@
 				"size" "47152429"
 				"download" "47667808"
 			}
+			"4.2.4"
+			{
+				"gid" "9097052916041541638"
+				"size" "47152429"
+				"download" "47667808"
+			}
 		}
 	}
 	"2863180"
@@ -6793,7 +7439,19 @@
 				"size" "77991"
 				"download" "78640"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "250128670918320202"
+				"size" "77991"
+				"download" "78640"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "250128670918320202"
+				"size" "77991"
+				"download" "78640"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "250128670918320202"
 				"size" "77991"
@@ -6847,6 +7505,12 @@
 				"size" "77991"
 				"download" "78640"
 			}
+			"4.2.4"
+			{
+				"gid" "250128670918320202"
+				"size" "77991"
+				"download" "78640"
+			}
 		}
 	}
 	"2840100"
@@ -6866,7 +7530,19 @@
 				"size" "102039534"
 				"download" "103314592"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "5013502338098449837"
+				"size" "102039534"
+				"download" "103314592"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "5013502338098449837"
+				"size" "102039534"
+				"download" "103314592"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "5013502338098449837"
 				"size" "102039534"
@@ -6914,6 +7590,12 @@
 				"size" "102039534"
 				"download" "103314592"
 			}
+			"4.2.4"
+			{
+				"gid" "5013502338098449837"
+				"size" "102039534"
+				"download" "103314592"
+			}
 		}
 	}
 	"2863060"
@@ -6933,7 +7615,19 @@
 				"size" "89148"
 				"download" "89552"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "8797712741214948916"
+				"size" "89148"
+				"download" "89552"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "8797712741214948916"
+				"size" "89148"
+				"download" "89552"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "8797712741214948916"
 				"size" "89148"
@@ -6975,6 +7669,12 @@
 				"size" "89148"
 				"download" "89552"
 			}
+			"4.2.4"
+			{
+				"gid" "8797712741214948916"
+				"size" "89148"
+				"download" "89552"
+			}
 		}
 	}
 	"2863080"
@@ -6994,7 +7694,19 @@
 				"size" "32768318"
 				"download" "33094400"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
+			{
+				"gid" "8947542081300706521"
+				"size" "32768318"
+				"download" "33094400"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "8947542081300706521"
+				"size" "32768318"
+				"download" "33094400"
+			}
+			"cetus_open_beta_broken_factions"
 			{
 				"gid" "8947542081300706521"
 				"size" "32768318"
@@ -7030,6 +7742,12 @@
 				"size" "32768318"
 				"download" "33094400"
 			}
+			"4.2.4"
+			{
+				"gid" "8947542081300706521"
+				"size" "32768318"
+				"download" "33094400"
+			}
 		}
 	}
 	"3417860"
@@ -7049,9 +7767,21 @@
 				"size" "54456"
 				"download" "52064"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
 			{
-				"gid" "8608330779581799106"
+				"gid" "2607828054005613117"
+				"size" "54456"
+				"download" "52064"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "2607828054005613117"
+				"size" "54456"
+				"download" "52064"
+			}
+			"cetus_open_beta_broken_factions"
+			{
+				"gid" "2607828054005613117"
 				"size" "54456"
 				"download" "52064"
 			}
@@ -7085,6 +7815,12 @@
 				"size" "54456"
 				"download" "52064"
 			}
+			"4.2.4"
+			{
+				"gid" "8608330779581799106"
+				"size" "54456"
+				"download" "52064"
+			}
 		}
 	}
 	"3417840"
@@ -7104,9 +7840,21 @@
 				"size" "89871310"
 				"download" "90969856"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
 			{
-				"gid" "8847940846705079912"
+				"gid" "8331750570302919154"
+				"size" "89871310"
+				"download" "90969856"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "8331750570302919154"
+				"size" "89871310"
+				"download" "90969856"
+			}
+			"cetus_open_beta_broken_factions"
+			{
+				"gid" "8331750570302919154"
 				"size" "89871310"
 				"download" "90969856"
 			}
@@ -7140,6 +7888,12 @@
 				"size" "89871310"
 				"download" "90969856"
 			}
+			"4.2.4"
+			{
+				"gid" "8847940846705079912"
+				"size" "89871310"
+				"download" "90969856"
+			}
 		}
 	}
 	"3417850"
@@ -7159,9 +7913,21 @@
 				"size" "75555373"
 				"download" "75550144"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
 			{
-				"gid" "8225444766399856605"
+				"gid" "8092327340853379843"
+				"size" "75555373"
+				"download" "75550144"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "8092327340853379843"
+				"size" "75555373"
+				"download" "75550144"
+			}
+			"cetus_open_beta_broken_factions"
+			{
+				"gid" "8092327340853379843"
 				"size" "75555373"
 				"download" "75550144"
 			}
@@ -7189,6 +7955,12 @@
 				"size" "75555373"
 				"download" "75550144"
 			}
+			"4.2.4"
+			{
+				"gid" "8225444766399856605"
+				"size" "75555373"
+				"download" "75550144"
+			}
 		}
 	}
 	"3283220"
@@ -7204,13 +7976,25 @@
 			}
 			"cetus_open_beta"
 			{
-				"gid" "6624645557738539232"
+				"gid" "5343734606003291680"
 				"size" "39485462"
 				"download" "39485424"
 			}
-			"stellaris_test"
+			"cetus_open_beta_yolo"
 			{
-				"gid" "6624645557738539232"
+				"gid" "3812273696098868351"
+				"size" "39485462"
+				"download" "39485424"
+			}
+			"cetus_open_beta_rollback"
+			{
+				"gid" "3812273696098868351"
+				"size" "39485462"
+				"download" "39485424"
+			}
+			"cetus_open_beta_broken_factions"
+			{
+				"gid" "3812273696098868351"
 				"size" "39485462"
 				"download" "39485424"
 			}
@@ -7232,194 +8016,252 @@
 				"size" "39485462"
 				"download" "39485424"
 			}
+			"4.2.4"
+			{
+				"gid" "5343734606003291680"
+				"size" "39485462"
+				"download" "39485424"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "21132326"
-			"timeupdated" "1765447214"
+			"buildid" "22314366"
+			"timeupdated" "1773741583"
+			"timebuildupdated" "1773325797"
 		}
 		"cetus_open_beta"
 		{
-			"buildid" "21147037"
+			"buildid" "22314366"
 			"description" "Cetus Open Beta"
-			"timeupdated" "1765463557"
+			"timeupdated" "1773329071"
+			"timebuildupdated" "1773325797"
 		}
-		"stellaris_test"
+		"cetus_open_beta_yolo"
 		{
-			"buildid" "21147037"
-			"description" "Open Beta"
-			"timeupdated" "1765460814"
+			"buildid" "22292430"
+			"description" "Cetus Open Beta with altered automigration"
+			"timeupdated" "1773219748"
+			"timebuildupdated" "1773219748"
+		}
+		"cetus_open_beta_rollback"
+		{
+			"buildid" "22213721"
+			"description" "Cetus Open Beta Rollback"
+			"timeupdated" "1773243383"
+			"timebuildupdated" "1772719097"
+		}
+		"cetus_open_beta_broken_factions"
+		{
+			"buildid" "22190066"
+			"description" "Cetus Open Beta Rollback with the revoked factions change"
+			"timeupdated" "1772789000"
+			"timebuildupdated" "1772604070"
 		}
 		"2.1.3"
 		{
 			"buildid" "3117422"
 			"description" "Niven version"
 			"timeupdated" "1544115279"
+			"timebuildupdated" "1536823081"
 		}
 		"2.2.7"
 		{
 			"buildid" "3702453"
 			"description" "Le Guin version"
 			"timeupdated" "1559663212"
+			"timebuildupdated" "1554222623"
 		}
 		"2.3.3"
 		{
 			"buildid" "3996163"
 			"description" "Wolfe version"
 			"timeupdated" "1570633041"
+			"timebuildupdated" "1562694072"
 		}
 		"2.4.1"
 		{
 			"buildid" "4274787"
 			"description" "Lee version"
 			"timeupdated" "1571932092"
+			"timebuildupdated" "1570710454"
 		}
 		"2.5.1"
 		{
 			"buildid" "4786539"
 			"description" "Shelley Version"
 			"timeupdated" "1584437757"
+			"timebuildupdated" "1584437756"
 		}
 		"2.6.3"
 		{
 			"buildid" "4878808"
 			"description" "Verne Version"
 			"timeupdated" "1589269733"
+			"timebuildupdated" "1586436587"
 		}
 		"2.7.2"
 		{
 			"buildid" "5047322"
 			"description" "Wells Version"
 			"timeupdated" "1603986692"
+			"timebuildupdated" "1589869975"
 		}
 		"2.8.1"
 		{
 			"buildid" "5827747"
 			"description" "Butler Version"
 			"timeupdated" "1618477993"
+			"timebuildupdated" "1605286760"
 		}
 		"3.0.2"
 		{
 			"buildid" "6563896"
 			"description" "Dick Version rollback"
 			"timeupdated" "1621517846"
+			"timebuildupdated" "1618833080"
 		}
 		"3.0.4"
 		{
 			"buildid" "7167181"
 			"description" "Dick Version (Nakama) rollback"
 			"timeupdated" "1631631465"
+			"timebuildupdated" "1628604776"
 		}
 		"3.1.2"
 		{
 			"buildid" "7756277"
 			"description" "Lem Version rollback"
 			"timeupdated" "1637596964"
+			"timebuildupdated" "1637596964"
 		}
 		"3.2.2"
 		{
 			"buildid" "7783125"
 			"description" "Herbert Version rollback"
 			"timeupdated" "1645610641"
+			"timebuildupdated" "1637928504"
 		}
 		"3.3.4"
 		{
 			"buildid" "8381018"
 			"description" "Libra Version rollback"
 			"timeupdated" "1652369048"
+			"timebuildupdated" "1647420917"
 		}
 		"3.4.5"
 		{
 			"buildid" "9012152"
 			"description" "Cepheus Version rollback"
 			"timeupdated" "1663659719"
+			"timebuildupdated" "1656313766"
 		}
 		"3.5.3"
 		{
 			"buildid" "9675975"
 			"description" "Fornax Version rollback"
 			"timeupdated" "1669723351"
+			"timebuildupdated" "1665150834"
 		}
 		"3.6.1"
 		{
 			"buildid" "10063376"
 			"description" "Orion Version rollback"
 			"timeupdated" "1678789074"
+			"timebuildupdated" "1669970889"
 		}
 		"3.7.4"
 		{
 			"buildid" "10881049"
 			"description" "Canis Minor rollback"
 			"timeupdated" "1683128278"
+			"timebuildupdated" "1680076396"
 		}
 		"3.8.4"
 		{
 			"buildid" "11447203"
 			"description" "Gemini Version rollback"
 			"timeupdated" "1693487618"
+			"timebuildupdated" "1686558586"
 		}
 		"3.9.3"
 		{
 			"buildid" "12401104"
 			"description" "Caelum Version rollback"
 			"timeupdated" "1699976465"
+			"timebuildupdated" "1696925613"
 		}
 		"3.10.4"
 		{
 			"buildid" "12931226"
 			"description" "Pyxis Version rollback"
 			"timeupdated" "1708952633"
+			"timebuildupdated" "1702312204"
 		}
 		"3.11.3"
 		{
 			"buildid" "13985673"
 			"description" " Eridanus Version Rollback"
 			"timeupdated" "1715080476"
+			"timebuildupdated" "1712579351"
 		}
 		"3.12.5"
 		{
 			"buildid" "14708161"
 			"description" " Andromeda Version Rollback"
 			"timeupdated" "1725870313"
+			"timebuildupdated" "1718296566"
 		}
 		"3.13.2"
 		{
 			"buildid" "15832831"
 			"description" "Vela Version Rollback"
 			"timeupdated" "1730197896"
+			"timebuildupdated" "1727333581"
 		}
 		"3.14.1592653"
 		{
 			"buildid" "18343742"
 			"description" " Circinus Version Rollback"
 			"timeupdated" "1746432539"
+			"timebuildupdated" "1746432538"
 		}
 		"4.0.23"
 		{
 			"buildid" "20077492"
 			"description" "Phoenix Version Rollback"
 			"timeupdated" "1758550260"
+			"timebuildupdated" "1758550260"
 		}
 		"4.1.7"
 		{
 			"buildid" "20936600"
 			"description" "Lyra Version Rollback"
 			"timeupdated" "1764085751"
+			"timebuildupdated" "1764085751"
 		}
 		"4.2.1"
 		{
 			"buildid" "20872899"
 			"description" "Corvus"
 			"timeupdated" "1764238001"
+			"timebuildupdated" "1763633359"
 		}
 		"4.2.3"
 		{
 			"buildid" "21019320"
 			"description" "Corvus Version Rollback"
 			"timeupdated" "1765341339"
+			"timebuildupdated" "1764668457"
+		}
+		"4.2.4"
+		{
+			"buildid" "21132326"
+			"description" "Corvus Version Rollback"
+			"timeupdated" "1773746773"
+			"timebuildupdated" "1765376194"
 		}
 	}
 	"privatebranches" "1"
@@ -7430,6 +8272,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "32737785"
-"_sha" "a00ec02037d800aa96dbf82d9aa1306ba913cf99"
-"_size" "134888"
+"_change_number" "34478442"
+"_sha" "a4e4491a29ea7fbacc1a71ab4fe499a65021ef82"
+"_size" "153101"
