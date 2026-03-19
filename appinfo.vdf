@@ -19,7 +19,7 @@
 			"id" "513710_eula_1"
 			"name" "SCUM EULA"
 			"url" "https://store.steampowered.com//eula/513710_eula_1"
-			"version" "11"
+			"version" "12"
 		}
 	}
 	"languages"
@@ -387,9 +387,9 @@
 		{
 			"public"
 			{
-				"gid" "7413520456134407660"
-				"size" "106549246121"
-				"download" "33851038800"
+				"gid" "3356589783736097545"
+				"size" "106327086326"
+				"download" "33764019376"
 			}
 			"pterelease"
 			{
@@ -499,25 +499,28 @@
 	{
 		"public"
 		{
-			"buildid" "22072777"
-			"timeupdated" "1771945148"
+			"buildid" "22416196"
+			"timeupdated" "1773932415"
+			"timebuildupdated" "1773928194"
 		}
 		"pterelease"
 		{
 			"buildid" "21284195"
 			"description" "PTE release branch"
 			"timeupdated" "1766424722"
+			"timebuildupdated" "1766412030"
 		}
 		"public_alpha"
 		{
 			"buildid" "21276153"
 			"description" "Public alpha branch"
 			"timeupdated" "1766340026"
+			"timebuildupdated" "1766334056"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "34053975"
-"_sha" "a0aaeb047e3e45182a2a569b9fb2423df18393e9"
-"_size" "9503"
+"_change_number" "34530580"
+"_sha" "8ecd6c172b7db6b4c8f3cc7e47c1e380d744ce4b"
+"_size" "9614"
