@@ -520,15 +520,21 @@
 		{
 			"public"
 			{
-				"gid" "2244454705301290593"
-				"size" "4319940290"
-				"download" "3009205696"
+				"gid" "2481479798229925548"
+				"size" "4319940811"
+				"download" "3009208704"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "5978996668591746072"
 				"size" "3362828099"
 				"download" "2375034304"
+			}
+			"updatebeta"
+			{
+				"gid" "1503423997768218544"
+				"size" "4327654557"
+				"download" "3016911808"
 			}
 		}
 	}
@@ -542,15 +548,21 @@
 		{
 			"public"
 			{
-				"gid" "8375915923708768211"
-				"size" "4200361176"
-				"download" "2895765824"
+				"gid" "5223488698471349560"
+				"size" "4200361185"
+				"download" "2895726720"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "8093978131067739771"
 				"size" "3243206087"
 				"download" "2261774192"
+			}
+			"updatebeta"
+			{
+				"gid" "2300079457690433685"
+				"size" "4208067862"
+				"download" "2903381552"
 			}
 		}
 	}
@@ -564,15 +576,21 @@
 		{
 			"public"
 			{
-				"gid" "5171992338527418055"
-				"size" "4179153540"
-				"download" "2889662352"
+				"gid" "9041733252718773349"
+				"size" "4179153549"
+				"download" "2889670528"
 			}
 			"beforemacoschanges"
 			{
 				"gid" "824314026433670095"
 				"size" "3242738771"
 				"download" "2262919680"
+			}
+			"updatebeta"
+			{
+				"gid" "2415611616837579596"
+				"size" "4186864503"
+				"download" "2897353328"
 			}
 		}
 	}
@@ -581,9 +599,9 @@
 	{
 		"public"
 		{
-			"buildid" "22406528"
-			"timeupdated" "1773940789"
-			"timebuildupdated" "1773879123"
+			"buildid" "22422209"
+			"timeupdated" "1773953352"
+			"timebuildupdated" "1773952433"
 		}
 		"beforemacoschanges"
 		{
@@ -591,6 +609,13 @@
 			"description" "r579121"
 			"timeupdated" "1698883383"
 			"timebuildupdated" "1698702973"
+		}
+		"updatebeta"
+		{
+			"buildid" "22424376"
+			"description" "Public Beta"
+			"timeupdated" "1773963672"
+			"timebuildupdated" "1773962571"
 		}
 	}
 	"privatebranches" "1"
@@ -645,6 +670,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "34534730"
-"_sha" "0765115ddc6e01bfe46f3ddaa592b89d49f24f97"
-"_size" "13199"
+"_change_number" "34541873"
+"_sha" "a2a4586b9d9d2fecee866bccacd632b97a5ac873"
+"_size" "13710"
