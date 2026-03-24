@@ -184,7 +184,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1755108799"
+	"store_asset_mtime" "1766572373"
 	"associations"
 	{
 		"0"
@@ -244,6 +244,8 @@
 		"category_78" "1"
 		"category_79" "1"
 		"category_76" "1"
+		"category_81" "1"
+		"category_82" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -351,7 +353,7 @@
 	"developer" "COWCAT"
 	"publisher" "COWCAT"
 	"homepage" "https://www.brokgame.com"
-	"listofdlc" "2156870,2931330"
+	"listofdlc" "2156870,2931330,4309650"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -419,6 +421,7 @@
 "depots"
 {
 	"baselanguages" "english"
+	"workshopdepot" "949480"
 	"228990"
 	{
 		"config"
@@ -438,9 +441,9 @@
 		{
 			"public"
 			{
-				"gid" "5291661286639945100"
-				"size" "2451089518"
-				"download" "2185519792"
+				"gid" "7143425224536789637"
+				"size" "2468043631"
+				"download" "2201344768"
 			}
 			"1.4.8"
 			{
@@ -466,9 +469,9 @@
 		{
 			"public"
 			{
-				"gid" "2563974591501185044"
-				"size" "3102551489"
-				"download" "2730575552"
+				"gid" "342117007815336277"
+				"size" "3105245427"
+				"download" "2733092832"
 			}
 			"1.4.8"
 			{
@@ -520,25 +523,61 @@
 			}
 		}
 	}
-	"workshopdepot" "949480"
+	"4309650"
+	{
+		"dlcappid" "4309650"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7568480311435803492"
+				"size" "783357546"
+				"download" "719908672"
+			}
+		}
+	}
+	"4309651"
+	{
+		"dlcappid" "4309650"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2059647670013820352"
+				"size" "808293025"
+				"download" "737044336"
+			}
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "21331535"
-			"timeupdated" "1766960169"
+			"buildid" "22449088"
+			"timeupdated" "1774287499"
+			"timebuildupdated" "1774134629"
 		}
 		"1.4.8"
 		{
 			"buildid" "19292642"
 			"description" "Last version before The Brawl Bar update. Use this in case you encounter a blocking issue."
 			"timeupdated" "1753036037"
+			"timebuildupdated" "1753036037"
 		}
 		"32bit"
 		{
 			"buildid" "9514517"
 			"description" "Last 32 bit compatible version for BROK (1.0.13)"
 			"timeupdated" "1663192740"
+			"timebuildupdated" "1663158954"
 		}
 	}
 	"privatebranches" "1"
@@ -549,6 +588,6 @@
 	"maxnumfiles" "5000"
 }
 "_missing_token" "False"
-"_change_number" "32997309"
-"_sha" "642c838fdcdef9a040f4bd6d269a37d350c9459c"
-"_size" "10958"
+"_change_number" "34602772"
+"_sha" "16134faf0e95ae11cefa57429333042c1fb91d1b"
+"_size" "11576"
