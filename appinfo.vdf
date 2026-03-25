@@ -391,7 +391,7 @@
 		"36"
 		{
 			"executable" "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-Test.exe"
-			"arguments" "-NakamaEndpoint=MFGExternal -MatchmakingGroup=external-nvidia -noeac -noanybrain"
+			"arguments" "-NakamaEndpoint=MFGExperimental -MatchmakingGroup=external-nvidia -noeac -noanybrain"
 			"type" "default"
 			"config"
 			{
@@ -508,9 +508,9 @@
 		{
 			"public"
 			{
-				"gid" "8875462436778172420"
-				"size" "22107592526"
-				"download" "17668075568"
+				"gid" "4416322630550940746"
+				"size" "22107602278"
+				"download" "17662186992"
 			}
 		}
 	}
@@ -519,13 +519,14 @@
 	{
 		"public"
 		{
-			"buildid" "22200160"
-			"timeupdated" "1772720586"
+			"buildid" "22445217"
+			"timeupdated" "1774432796"
+			"timebuildupdated" "1774092416"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "34275711"
-"_sha" "f08b9ae29decbbb9fbcbda917fd8b5595e80b18a"
-"_size" "11987"
+"_change_number" "34646199"
+"_sha" "e3907707586a6128a570068bf9aa928a1974db3c"
+"_size" "12028"
