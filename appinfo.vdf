@@ -87,7 +87,8 @@
 			"hdr_support" "0"
 		}
 	}
-	"controller_support" "partial"
+	"controllertagwizard" "1"
+	"controller_support" "full"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -184,9 +185,15 @@
 		"category_1" "1"
 		"category_38" "1"
 		"category_9" "1"
-		"category_18" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_27" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -259,9 +266,9 @@
 		"2" "3942"
 		"3" "3839"
 		"4" "1663"
-		"5" "3859"
-		"6" "3993"
-		"7" "1685"
+		"5" "1685"
+		"6" "3859"
+		"7" "3993"
 		"8" "1673"
 		"9" "6730"
 		"10" "1773"
@@ -269,11 +276,11 @@
 		"12" "1774"
 		"13" "1755"
 		"14" "7332"
-		"15" "5547"
-		"16" "4155"
-		"17" "4175"
-		"18" "4191"
-		"19" "493"
+		"15" "4155"
+		"16" "5547"
+		"17" "4191"
+		"18" "4175"
+		"19" "4182"
 	}
 	"review_score" "6"
 	"review_percentage" "79"
@@ -283,7 +290,7 @@
 	"developer" "Offworld"
 	"publisher" "Offworld"
 	"homepage" "https://starshiptroopersextermination.com/"
-	"listofdlc" "3205210,3205220,3205230,3205240,3353190,3353210,3842930"
+	"listofdlc" "3205210,3205220,3205230,3205240,3353190,3353210,3353220,3842930,4319560"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -350,9 +357,9 @@
 		{
 			"public"
 			{
-				"gid" "7507296327528608979"
-				"size" "13722558059"
-				"download" "13045288928"
+				"gid" "3203705254785462425"
+				"size" "14017895115"
+				"download" "13335963264"
 			}
 		}
 	}
@@ -360,13 +367,14 @@
 	{
 		"public"
 		{
-			"buildid" "21750040"
-			"timeupdated" "1770227889"
+			"buildid" "22438392"
+			"timeupdated" "1774544268"
+			"timebuildupdated" "1774035994"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "33650611"
-"_sha" "6107362e7b58e48b0f42c90c1fabe168384fd3d5"
-"_size" "6424"
+"_change_number" "34672905"
+"_sha" "3a6e286ac5a6df043f5b7c25194d177a668e55e2"
+"_size" "6636"
