@@ -281,7 +281,7 @@
 	"developer" "中子星游戏研究所"
 	"publisher" "OKJOY"
 	"homepage" "https://space.bilibili.com/679684537"
-	"listofdlc" "2747070,3909630"
+	"listofdlc" "2747070,3909630,3912980"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -309,9 +309,9 @@
 		{
 			"public"
 			{
-				"gid" "8933525058100145822"
-				"size" "7008270249"
-				"download" "3458267072"
+				"gid" "2730690671662091732"
+				"size" "7008270233"
+				"download" "3458271040"
 			}
 		}
 	}
@@ -321,9 +321,9 @@
 	{
 		"public"
 		{
-			"buildid" "22475184"
-			"timeupdated" "1774349646"
-			"timebuildupdated" "1774328710"
+			"buildid" "22526957"
+			"timeupdated" "1774592806"
+			"timebuildupdated" "1774581147"
 		}
 	}
 	"privatebranches" "1"
@@ -343,6 +343,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "34617853"
-"_sha" "f60fc6c1b644ffe6a308dedcbf3beed9e89fdb09"
-"_size" "6665"
+"_change_number" "34685567"
+"_sha" "90dfab866670af4c750c30747b4ed776734b867f"
+"_size" "6673"
