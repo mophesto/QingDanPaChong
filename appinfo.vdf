@@ -355,9 +355,9 @@
 		{
 			"public"
 			{
-				"gid" "4310342335039223879"
-				"size" "865217712"
-				"download" "403655392"
+				"gid" "8173298630894466231"
+				"size" "865218229"
+				"download" "403657536"
 			}
 			"legacy_syzygy"
 			{
@@ -373,9 +373,9 @@
 			}
 			"beta"
 			{
-				"gid" "4310342335039223879"
-				"size" "865217712"
-				"download" "403655392"
+				"gid" "8173298630894466231"
+				"size" "865218229"
+				"download" "403657536"
 			}
 			"experimental"
 			{
@@ -389,9 +389,9 @@
 	{
 		"public"
 		{
-			"buildid" "22555866"
-			"timeupdated" "1774793205"
-			"timebuildupdated" "1774792731"
+			"buildid" "22569821"
+			"timeupdated" "1774884806"
+			"timebuildupdated" "1774884806"
 		}
 		"legacy_syzygy"
 		{
@@ -408,10 +408,10 @@
 		}
 		"beta"
 		{
-			"buildid" "22555866"
+			"buildid" "22569752"
 			"description" "Open beta testing"
-			"timeupdated" "1774792731"
-			"timebuildupdated" "1774792731"
+			"timeupdated" "1774884508"
+			"timebuildupdated" "1774884508"
 		}
 		"experimental"
 		{
@@ -452,6 +452,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "34725541"
-"_sha" "1e55fa59976adedc70bc7cc9257ccb577982f1f1"
+"_change_number" "34745162"
+"_sha" "1ff945c28a4b2d838a4a4506cb6fe75d9c030d37"
 "_size" "7976"
