@@ -47,36 +47,16 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "3"
+		"category" "1"
 		"steamos_compatibility" "2"
-		"test_timestamp" "1710288000"
-		"tested_build_id" "13672666"
+		"test_timestamp" "1774569600"
+		"tested_build_id" "22330280"
 		"tests"
 		{
 			"0"
 			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
-			}
-			"1"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-			}
-			"2"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
-			}
-			"3"
-			{
-				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-			}
-			"4"
-			{
-				"display" "1"
-				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
 			}
 		}
 		"steamos_tests"
@@ -102,11 +82,11 @@
 			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-1RC"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "1"
 			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
-			"hdr_support" "0"
+			"hdr_support" "2"
 		}
 	}
 	"metacritic_name" "Lords of the Fallen"
@@ -333,16 +313,16 @@
 		"1" "3834"
 		"2" "3993"
 		"3" "4604"
-		"4" "19"
-		"5" "3843"
+		"4" "3843"
+		"5" "19"
 		"6" "122"
 		"7" "1742"
 		"8" "4046"
 		"9" "4182"
 		"10" "4231"
 		"11" "4172"
-		"12" "21"
-		"13" "4106"
+		"12" "4106"
+		"13" "21"
 		"14" "3854"
 		"15" "3859"
 		"16" "4747"
@@ -408,9 +388,9 @@
 		{
 			"public"
 			{
-				"gid" "8598960977116873845"
-				"size" "35070355778"
-				"download" "34124366352"
+				"gid" "4052619383233615641"
+				"size" "35070961398"
+				"download" "34125032480"
 			}
 		}
 	}
@@ -419,9 +399,9 @@
 	{
 		"public"
 		{
-			"buildid" "22330280"
-			"timeupdated" "1773676857"
-			"timebuildupdated" "1773407636"
+			"buildid" "22627734"
+			"timeupdated" "1775211753"
+			"timebuildupdated" "1775167425"
 		}
 	}
 	"privatebranches" "1"
@@ -452,6 +432,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "34460505"
-"_sha" "5e11157bd0cd19492378a44e54350eb1c7f0aca6"
-"_size" "8966"
+"_change_number" "35001530"
+"_sha" "b2b3587e40bfca2bac301e316de0b7d4d0d9feb7"
+"_size" "8480"
