@@ -43,26 +43,26 @@
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
+		"category" "3"
 		"steamos_compatibility" "2"
-		"test_timestamp" "1746576000"
-		"tested_build_id" "18166811"
+		"test_timestamp" "1773273600"
+		"tested_build_id" "22280517"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
@@ -95,10 +95,10 @@
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "0"
-			"small_text" "1"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-4RC"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "1"
 			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
@@ -333,8 +333,8 @@
 		"13" "3835"
 		"14" "3839"
 		"15" "4191"
-		"16" "3942"
-		"17" "4295"
+		"16" "4295"
+		"17" "3942"
 		"18" "8945"
 		"19" "5794"
 	}
@@ -418,9 +418,9 @@
 		{
 			"public"
 			{
-				"gid" "5382691088200574964"
-				"size" "24242047194"
-				"download" "9762900240"
+				"gid" "6717661653380964801"
+				"size" "24486149792"
+				"download" "9795979232"
 			}
 			"beta_flight"
 			{
@@ -443,20 +443,23 @@
 	{
 		"public"
 		{
-			"buildid" "22082482"
-			"timeupdated" "1772636340"
+			"buildid" "22694734"
+			"timeupdated" "1775651184"
+			"timebuildupdated" "1775649120"
 		}
 		"beta_flight"
 		{
 			"buildid" "22082482"
 			"description" "Public test beta for an even earlier access to future game updates"
 			"timeupdated" "1772025743"
+			"timebuildupdated" "1771975909"
 		}
 		"legacy"
 		{
 			"buildid" "15740077"
 			"description" "Legacy Branch (1.6.0_)"
 			"timeupdated" "1733232121"
+			"timebuildupdated" "1726650641"
 		}
 	}
 	"privatebranches" "1"
@@ -476,6 +479,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "34224862"
-"_sha" "c2de41a9db10aca66587fcf2c8be8591eab3a5b5"
-"_size" "9777"
+"_change_number" "35097295"
+"_sha" "8f905a5317c54b669f894c820b149e135cc4728e"
+"_size" "9884"
