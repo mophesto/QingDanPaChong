@@ -431,9 +431,9 @@
 		{
 			"public"
 			{
-				"gid" "8103118664826681813"
-				"size" "1234493661"
-				"download" "1071701456"
+				"gid" "3730317573125716199"
+				"size" "1234990895"
+				"download" "1071861056"
 			}
 			"macos-compatibility"
 			{
@@ -443,15 +443,15 @@
 			}
 			"previous-version"
 			{
-				"gid" "7154574398157375739"
-				"size" "1233607032"
-				"download" "1071226112"
+				"gid" "8103118664826681813"
+				"size" "1234493661"
+				"download" "1071701456"
 			}
 			"unstable"
 			{
-				"gid" "7506716221615815636"
-				"size" "1234543093"
-				"download" "1071734784"
+				"gid" "3730317573125716199"
+				"size" "1234990895"
+				"download" "1071861056"
 			}
 		}
 	}
@@ -466,9 +466,9 @@
 		{
 			"public"
 			{
-				"gid" "7840295720040737389"
-				"size" "1252906365"
-				"download" "1073561360"
+				"gid" "2379137042746587344"
+				"size" "1253283599"
+				"download" "1073690016"
 			}
 			"macos-compatibility"
 			{
@@ -478,15 +478,15 @@
 			}
 			"previous-version"
 			{
-				"gid" "1227534316757988374"
-				"size" "1252371748"
-				"download" "1073106528"
+				"gid" "7840295720040737389"
+				"size" "1252906365"
+				"download" "1073561360"
 			}
 			"unstable"
 			{
-				"gid" "7262153541557208549"
-				"size" "1252940933"
-				"download" "1073584048"
+				"gid" "2379137042746587344"
+				"size" "1253283599"
+				"download" "1073690016"
 			}
 		}
 	}
@@ -501,9 +501,9 @@
 		{
 			"public"
 			{
-				"gid" "963281378927547178"
-				"size" "1242169796"
-				"download" "1075007200"
+				"gid" "3492818680145813320"
+				"size" "1242547022"
+				"download" "1075135120"
 			}
 			"macos-compatibility"
 			{
@@ -513,15 +513,15 @@
 			}
 			"previous-version"
 			{
-				"gid" "5188068524706598027"
-				"size" "1241634567"
-				"download" "1074550832"
+				"gid" "963281378927547178"
+				"size" "1242169796"
+				"download" "1075007200"
 			}
 			"unstable"
 			{
-				"gid" "5595608696948228373"
-				"size" "1242204376"
-				"download" "1075028384"
+				"gid" "3492818680145813320"
+				"size" "1242547022"
+				"download" "1075135120"
 			}
 		}
 	}
@@ -572,26 +572,30 @@
 	{
 		"public"
 		{
-			"buildid" "21222570"
-			"timeupdated" "1766052765"
+			"buildid" "22674983"
+			"timeupdated" "1775736331"
+			"timebuildupdated" "1775548072"
 		}
 		"macos-compatibility"
 		{
 			"buildid" "9659897"
 			"description" "Last build that supported macOS systems older than 10.15."
 			"timeupdated" "1664982730"
+			"timebuildupdated" "1664982730"
 		}
 		"previous-version"
 		{
-			"buildid" "21100347"
+			"buildid" "21222570"
 			"description" "Previous major version, provided for backwards compatibility purposes"
-			"timeupdated" "1765206864"
+			"timeupdated" "1766052765"
+			"timebuildupdated" "1765968102"
 		}
 		"unstable"
 		{
-			"buildid" "21239525"
+			"buildid" "22674983"
 			"description" "Public unstable version"
-			"timeupdated" "1766057357"
+			"timeupdated" "1775548118"
+			"timebuildupdated" "1775548072"
 		}
 	}
 	"privatebranches" "1"
@@ -642,6 +646,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "32864503"
-"_sha" "9fc22d0ebb925eecd633354f9a70672a44b31350"
-"_size" "11723"
+"_change_number" "35121587"
+"_sha" "e01f0212dbb4ba115bb927556d58398385bf1270"
+"_size" "11871"
