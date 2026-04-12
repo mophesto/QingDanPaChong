@@ -160,7 +160,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727717322"
+	"store_asset_mtime" "1775930880"
 	"associations"
 	{
 		"0"
@@ -197,6 +197,10 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_68" "1"
+		"category_74" "1"
+		"category_76" "1"
+		"category_80" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -266,6 +270,10 @@
 			"supported" "true"
 		}
 		"latam"
+		{
+			"supported" "true"
+		}
+		"galician"
 		{
 			"supported" "true"
 		}
@@ -354,16 +362,25 @@
 			}
 		}
 	}
-	"steamcontrollertemplateindex" "4"
+	"steamcontrollertemplateindex" "1"
 	"steamcontrollertouchtemplateindex" "8"
 	"steamdecktouchscreen" "1"
-	"steamconfigurator3rdpartynative" "65524"
 	"app_mappings"
 	{
 		"0"
 		{
 			"platform" "linux"
 			"tool" "SteamLinuxRuntime_scout"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65524"
+	"steamcontrollerconfigdetails"
+	{
+		"3704514005"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,public-beta"
+			"use_action_block" "false"
 		}
 	}
 }
@@ -380,9 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "1521320549101757899"
-				"size" "112118099"
-				"download" "103058880"
+				"gid" "5156897804130372827"
+				"size" "100360396"
+				"download" "89394096"
 			}
 			"v1.39"
 			{
@@ -392,9 +409,9 @@
 			}
 			"public-beta"
 			{
-				"gid" "1521320549101757899"
-				"size" "112118099"
-				"download" "103058880"
+				"gid" "5156897804130372827"
+				"size" "100360396"
+				"download" "89394096"
 			}
 			"v1.245c"
 			{
@@ -414,15 +431,15 @@
 		{
 			"public"
 			{
-				"gid" "8250305634673321548"
-				"size" "110520628"
-				"download" "101824640"
+				"gid" "8450199841663103148"
+				"size" "100029100"
+				"download" "88622128"
 			}
 			"public-beta"
 			{
-				"gid" "8250305634673321548"
-				"size" "110520628"
-				"download" "101824640"
+				"gid" "8450199841663103148"
+				"size" "100029100"
+				"download" "88622128"
 			}
 			"v1.245c"
 			{
@@ -442,15 +459,15 @@
 		{
 			"public"
 			{
-				"gid" "4638201726558912546"
-				"size" "113624729"
-				"download" "101982624"
+				"gid" "5415621319493761808"
+				"size" "109655924"
+				"download" "91171056"
 			}
 			"public-beta"
 			{
-				"gid" "4638201726558912546"
-				"size" "113624729"
-				"download" "101982624"
+				"gid" "5415621319493761808"
+				"size" "109655924"
+				"download" "91171056"
 			}
 			"v1.245c"
 			{
@@ -464,26 +481,30 @@
 	{
 		"public"
 		{
-			"buildid" "20667153"
-			"timeupdated" "1762276840"
+			"buildid" "22744976"
+			"timeupdated" "1775927069"
+			"timebuildupdated" "1775924744"
 		}
 		"v1.39"
 		{
 			"buildid" "12284753"
 			"description" "old art, pre modding update, pre-controller support"
 			"timeupdated" "1705939696"
+			"timebuildupdated" "1695724042"
 		}
 		"public-beta"
 		{
-			"buildid" "20667153"
-			"description" "v1.515h - join our discord to give feedback!"
-			"timeupdated" "1762276801"
+			"buildid" "22744976"
+			"description" "v1.6x - join our discord to give feedback!"
+			"timeupdated" "1775924746"
+			"timebuildupdated" "1775924744"
 		}
 		"v1.245c"
 		{
 			"buildid" "16191535"
 			"description" "really old version with the oldest mod support the game ever had (windows only)"
 			"timeupdated" "1729948875"
+			"timebuildupdated" "1729948875"
 		}
 	}
 }
@@ -541,6 +562,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "32074200"
-"_sha" "984f051b328ad6af6f81b188f8bdef519ffe04e3"
-"_size" "9295"
+"_change_number" "35168666"
+"_sha" "61bd848f6b4814a1a92c1101226a0eb8b66d6c5f"
+"_size" "9760"
