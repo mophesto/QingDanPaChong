@@ -431,15 +431,15 @@
 		{
 			"public"
 			{
-				"gid" "8450199841663103148"
-				"size" "100029100"
-				"download" "88622128"
+				"gid" "566180557762407443"
+				"size" "100029203"
+				"download" "88628128"
 			}
 			"public-beta"
 			{
-				"gid" "8450199841663103148"
-				"size" "100029100"
-				"download" "88622128"
+				"gid" "566180557762407443"
+				"size" "100029203"
+				"download" "88628128"
 			}
 			"v1.245c"
 			{
@@ -481,9 +481,9 @@
 	{
 		"public"
 		{
-			"buildid" "22744976"
-			"timeupdated" "1775927069"
-			"timebuildupdated" "1775924744"
+			"buildid" "22767391"
+			"timeupdated" "1776100458"
+			"timebuildupdated" "1776100402"
 		}
 		"v1.39"
 		{
@@ -494,10 +494,10 @@
 		}
 		"public-beta"
 		{
-			"buildid" "22744976"
+			"buildid" "22767391"
 			"description" "v1.6x - join our discord to give feedback!"
-			"timeupdated" "1775924746"
-			"timebuildupdated" "1775924744"
+			"timeupdated" "1776100402"
+			"timebuildupdated" "1776100402"
 		}
 		"v1.245c"
 		{
@@ -562,6 +562,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "35168666"
-"_sha" "61bd848f6b4814a1a92c1101226a0eb8b66d6c5f"
-"_size" "9760"
+"_change_number" "35197530"
+"_sha" "213ee5b904b3abffb96cc092a30c4eab42a25f44"
+"_size" "9758"
