@@ -419,6 +419,12 @@
 				"size" "53138645"
 				"download" "30573840"
 			}
+			"v1.5"
+			{
+				"gid" "1521320549101757899"
+				"size" "112118099"
+				"download" "103058880"
+			}
 		}
 	}
 	"1972442"
@@ -447,6 +453,12 @@
 				"size" "109784502"
 				"download" "102400576"
 			}
+			"v1.5"
+			{
+				"gid" "8250305634673321548"
+				"size" "110520628"
+				"download" "101824640"
+			}
 		}
 	}
 	"1972443"
@@ -459,15 +471,15 @@
 		{
 			"public"
 			{
-				"gid" "5415621319493761808"
-				"size" "109655924"
-				"download" "91171056"
+				"gid" "109929434261711739"
+				"size" "109659089"
+				"download" "91174272"
 			}
 			"public-beta"
 			{
-				"gid" "5415621319493761808"
-				"size" "109655924"
-				"download" "91171056"
+				"gid" "109929434261711739"
+				"size" "109659089"
+				"download" "91174272"
 			}
 			"v1.245c"
 			{
@@ -475,15 +487,21 @@
 				"size" "113330075"
 				"download" "102798688"
 			}
+			"v1.5"
+			{
+				"gid" "4638201726558912546"
+				"size" "113624729"
+				"download" "101982624"
+			}
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "22767391"
-			"timeupdated" "1776100458"
-			"timebuildupdated" "1776100402"
+			"buildid" "22783486"
+			"timeupdated" "1776182764"
+			"timebuildupdated" "1776180466"
 		}
 		"v1.39"
 		{
@@ -494,10 +512,10 @@
 		}
 		"public-beta"
 		{
-			"buildid" "22767391"
+			"buildid" "22783486"
 			"description" "v1.6x - join our discord to give feedback!"
-			"timeupdated" "1776100402"
-			"timebuildupdated" "1776100402"
+			"timeupdated" "1776180466"
+			"timebuildupdated" "1776180466"
 		}
 		"v1.245c"
 		{
@@ -505,6 +523,13 @@
 			"description" "really old version with the oldest mod support the game ever had (windows only)"
 			"timeupdated" "1729948875"
 			"timebuildupdated" "1729948875"
+		}
+		"v1.5"
+		{
+			"buildid" "20667153"
+			"description" "old version, provided for mod support"
+			"timeupdated" "1762276840"
+			"timebuildupdated" "1762276798"
 		}
 	}
 }
@@ -562,6 +587,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "35197530"
-"_sha" "213ee5b904b3abffb96cc092a30c4eab42a25f44"
-"_size" "9758"
+"_change_number" "35219381"
+"_sha" "98d4766124468547da0b202a483badd0f338a610"
+"_size" "10263"
