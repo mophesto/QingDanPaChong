@@ -12,6 +12,65 @@
 	"releasestate" "released"
 	"osarch" ""
 	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1773705600"
+		"tested_build_id" "20400485"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"3"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"metacritic_name" "klocki"
 	"small_capsule"
 	{
@@ -266,8 +325,8 @@
 	"gameid" "499440"
 	"store_tags"
 	{
-		"0" "1664"
-		"1" "1654"
+		"0" "1654"
+		"1" "1664"
 		"2" "597"
 		"3" "4094"
 		"4" "4182"
@@ -338,9 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "4214070384788794708"
-				"size" "157744933"
-				"download" "52873456"
+				"gid" "1748267196703792584"
+				"size" "157739876"
+				"download" "52871120"
 			}
 			"beta"
 			{
@@ -360,9 +419,9 @@
 		{
 			"public"
 			{
-				"gid" "8395346822097887463"
-				"size" "141407784"
-				"download" "44487440"
+				"gid" "119877934394121345"
+				"size" "141402568"
+				"download" "44484480"
 			}
 			"beta"
 			{
@@ -382,9 +441,9 @@
 		{
 			"public"
 			{
-				"gid" "4113147165216823509"
-				"size" "181597271"
-				"download" "43074336"
+				"gid" "6760512643052041547"
+				"size" "181592567"
+				"download" "43071296"
 			}
 			"beta"
 			{
@@ -398,14 +457,16 @@
 	{
 		"public"
 		{
-			"buildid" "20400485"
-			"timeupdated" "1760523438"
+			"buildid" "22812639"
+			"timeupdated" "1776328507"
+			"timebuildupdated" "1776328470"
 		}
 		"beta"
 		{
 			"buildid" "8623898"
 			"description" "beta"
 			"timeupdated" "1650955698"
+			"timebuildupdated" "1650955698"
 		}
 	}
 }
@@ -445,11 +506,18 @@
 			"os" "Linux"
 			"oscompare" "="
 			"useinstead" "LinuxHome"
-			"addpath" ".config/unity3d/Rainbow Train/klocki/{64BitSteamID}"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Rainbow Train/klocki/{64BitSteamID}"
+					"replace" ".config/unity3d/Rainbow Train/klocki/{64BitSteamID}"
+				}
+			}
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "31681589"
-"_sha" "788bb6c615df476e7784b44b6089dba007c8d242"
-"_size" "7429"
+"_change_number" "35260343"
+"_sha" "eb264ec3010baa721548a1731d93024ed7dfb273"
+"_size" "9014"
