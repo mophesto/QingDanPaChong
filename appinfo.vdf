@@ -4,14 +4,14 @@
 	"name" "Airborne Kingdom"
 	"type" "Game"
 	"releasestate" "released"
-	"oslist" "windows,macos"
+	"oslist" "windows"
 	"osarch" "64"
 	"logo" "421a57eeaf0c0aefbf4dda785a6634aa4e1974fb"
 	"logo_small" "421a57eeaf0c0aefbf4dda785a6634aa4e1974fb_thumb"
 	"icon" "9eb78b1f44a2dca842422deb9a675b51f37b93cc"
 	"clienttga" "a79bacb9ae7f453014e87703dac923238f9b66c5"
 	"clienticon" "539b45f3ac9fadad978b841f70151acc1eea505b"
-	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"osextended" ""
 	"languages"
 	{
 		"english" "1"
@@ -26,7 +26,8 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1698883200"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1713916800"
 		"tested_build_id" "11509648"
 		"tests"
 		{
@@ -51,6 +52,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -61,18 +70,23 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-experimental"
+			"recommended_runtime" "proton-9.0-1RC"
 			"requires_h264" "1"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
+	"metacritic_name" "Airborne Kingdom"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "a0ae27992426fe5d26e62e4f1689ff55b9866b21/header.jpg"
 	}
 	"library_assets"
 	{
@@ -87,23 +101,54 @@
 			"height_pct" "85.11538523363646"
 		}
 	}
-	"store_asset_mtime" "1706295844"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "57.08021056555614"
+				"height_pct" "85.11538523363646"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1766000733"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
 			"name" "The Wandering Band LLC"
-		}
-		"1"
-		{
-			"type" "publisher"
-			"name" "Freedom Games"
-		}
-		"2"
-		{
-			"type" "franchise"
-			"name" "Freedom Games"
 		}
 	}
 	"primary_genre" "28"
@@ -121,6 +166,9 @@
 		"category_29" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -167,22 +215,24 @@
 		}
 	}
 	"steam_release_date" "1646674932"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/airborne-kingdom\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "982290"
 	"store_tags"
 	{
 		"0" "4328"
-		"1" "3834"
-		"2" "7332"
+		"1" "7332"
+		"2" "3834"
 		"3" "1643"
 		"4" "4182"
 		"5" "8945"
 		"6" "3810"
 		"7" "1654"
-		"8" "4191"
-		"9" "9"
-		"10" "1777"
+		"8" "9"
+		"9" "1777"
+		"10" "4191"
 		"11" "4305"
 		"12" "4252"
 		"13" "4695"
@@ -194,12 +244,11 @@
 		"19" "21"
 	}
 	"review_score" "8"
-	"review_percentage" "87"
+	"review_percentage" "86"
 }
 "extended"
 {
 	"developer" "The Wandering Band LLC"
-	"publisher" "Freedom Games"
 	"homepage" "http://www.airbornekingdom.com"
 }
 "config"
@@ -238,9 +287,9 @@
 		{
 			"public"
 			{
-				"gid" "2790216981791586948"
-				"size" "1858696332"
-				"download" "1129535648"
+				"gid" "562480533752322391"
+				"size" "1477046525"
+				"download" "1045155216"
 			}
 		}
 	}
@@ -297,10 +346,12 @@
 	{
 		"public"
 		{
-			"buildid" "11509648"
-			"timeupdated" "1687210436"
+			"buildid" "22787173"
+			"timeupdated" "1776438211"
+			"timebuildupdated" "1776197041"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -328,6 +379,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22585444"
-"_sha" "0383fe4d5eb565d8fde896bd11f29a4fd9dc46b6"
-"_size" "5622"
+"_change_number" "35293685"
+"_sha" "bb375259b8bfe83383817d4c01e447f83c1a7e75"
+"_size" "6609"
