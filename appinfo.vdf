@@ -520,9 +520,9 @@
 		{
 			"public"
 			{
-				"gid" "4425638079230146524"
-				"size" "4342059815"
-				"download" "3026059600"
+				"gid" "4858294562106187762"
+				"size" "4342059982"
+				"download" "3026010800"
 			}
 			"beforemacoschanges"
 			{
@@ -532,9 +532,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "5355692291015803479"
-				"size" "4329963222"
-				"download" "3019179664"
+				"gid" "5420110144284684134"
+				"size" "4342059902"
+				"download" "3026025040"
 			}
 		}
 	}
@@ -548,9 +548,9 @@
 		{
 			"public"
 			{
-				"gid" "826928703606696834"
-				"size" "4222484948"
-				"download" "2912529088"
+				"gid" "3745943866106596169"
+				"size" "4222485115"
+				"download" "2912523824"
 			}
 			"beforemacoschanges"
 			{
@@ -560,9 +560,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "656013433339164163"
-				"size" "4210388365"
-				"download" "2905694832"
+				"gid" "6575123596131089463"
+				"size" "4222485035"
+				"download" "2912543712"
 			}
 		}
 	}
@@ -576,9 +576,9 @@
 		{
 			"public"
 			{
-				"gid" "7522642890307034716"
-				"size" "4201272837"
-				"download" "2906526000"
+				"gid" "7768891002826491077"
+				"size" "4201273004"
+				"download" "2906581232"
 			}
 			"beforemacoschanges"
 			{
@@ -588,9 +588,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "3161607287949273144"
-				"size" "4189171711"
-				"download" "2899697168"
+				"gid" "6376314013654585184"
+				"size" "4201272924"
+				"download" "2906566832"
 			}
 		}
 	}
@@ -599,9 +599,9 @@
 	{
 		"public"
 		{
-			"buildid" "22809029"
-			"timeupdated" "1776359037"
-			"timebuildupdated" "1776307540"
+			"buildid" "22822347"
+			"timeupdated" "1776371749"
+			"timebuildupdated" "1776369309"
 		}
 		"beforemacoschanges"
 		{
@@ -612,10 +612,10 @@
 		}
 		"updatebeta"
 		{
-			"buildid" "22807770"
+			"buildid" "22823655"
 			"description" "Public Beta"
-			"timeupdated" "1776301445"
-			"timebuildupdated" "1776300386"
+			"timeupdated" "1776376948"
+			"timebuildupdated" "1776375628"
 		}
 	}
 	"privatebranches" "1"
@@ -670,6 +670,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "35271313"
-"_sha" "319fd4dd037ecd5bf6a97d35b47d91a222083c04"
-"_size" "13708"
+"_change_number" "35276656"
+"_sha" "8a1e59c2146c41512eb77a4da1d67116d65cb2ff"
+"_size" "13710"
