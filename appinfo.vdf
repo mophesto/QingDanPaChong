@@ -49,8 +49,8 @@
 	{
 		"category" "1"
 		"steamos_compatibility" "2"
-		"test_timestamp" "1774569600"
-		"tested_build_id" "22330280"
+		"test_timestamp" "1775692800"
+		"tested_build_id" "22627734"
 		"tests"
 		{
 			"0"
@@ -69,13 +69,18 @@
 			"1"
 			{
 				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "1"
 				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
-			"requires_manual_keyboard_invoke" "0"
+			"requires_manual_keyboard_invoke" "1"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "1"
 			"non_deck_display_glyphs" "0"
@@ -388,9 +393,9 @@
 		{
 			"public"
 			{
-				"gid" "8230744914274126659"
-				"size" "35069182106"
-				"download" "34123294224"
+				"gid" "5574135290911581046"
+				"size" "35069886688"
+				"download" "34123638960"
 			}
 		}
 	}
@@ -399,9 +404,9 @@
 	{
 		"public"
 		{
-			"buildid" "22717617"
-			"timeupdated" "1775822406"
-			"timebuildupdated" "1775757920"
+			"buildid" "22833197"
+			"timeupdated" "1776453582"
+			"timebuildupdated" "1776425292"
 		}
 	}
 	"privatebranches" "1"
@@ -432,6 +437,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "35146414"
-"_sha" "ab9f314349421058af769ca1ead61b291066ec87"
-"_size" "8480"
+"_change_number" "35303158"
+"_sha" "7ad030b6adba1d8c494f4f4d7b3517ec5fa39c84"
+"_size" "8601"
