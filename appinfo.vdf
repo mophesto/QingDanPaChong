@@ -10,6 +10,12 @@
 	"clienttga" "7b3039710817c15d407c9b3801872c149dc04d12"
 	"clienticon" "dd9c5e6e4687fe7a9ed7cc4b55bb3110940c8b29"
 	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "轮回修仙路"
+		"sc_schinese" "轮回修仙路"
+	}
+	"releasestatesteamchina" "prerelease"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -86,19 +92,23 @@
 	}
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"english" "592f859a1aa4ce3a2344b0bcf471d1a95d661bfa/capsule_231x87.jpg"
+		"sc_schinese" "592f859a1aa4ce3a2344b0bcf471d1a95d661bfa/capsule_231x87_sc_schinese.jpg"
+		"schinese" "592f859a1aa4ce3a2344b0bcf471d1a95d661bfa/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
-		"sc_schinese" "header_sc_schinese.jpg"
+		"english" "e4fe1e11943f4a1d7de5239011c34c8f1d398322/header.jpg"
+		"sc_schinese" "e4fe1e11943f4a1d7de5239011c34c8f1d398322/header_sc_schinese.jpg"
+		"schinese" "e4fe1e11943f4a1d7de5239011c34c8f1d398322/header_schinese.jpg"
 	}
 	"library_assets"
 	{
 		"library_capsule" "en,zh-xc"
-		"library_hero" "en"
-		"library_logo" "en"
+		"library_hero" "en,zh-xc"
+		"library_hero_blur" "zh-xc"
+		"library_logo" "en,zh-xc"
+		"library_header" "en,zh-xc"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -126,10 +136,19 @@
 			"image"
 			{
 				"english" "library_hero.jpg"
+				"sc_schinese" "e9eb2ebddc33846cbe4123daa2fb05da3211008b/library_hero_sc_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_hero_2x.jpg"
+				"sc_schinese" "e9eb2ebddc33846cbe4123daa2fb05da3211008b/library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"sc_schinese" "e9eb2ebddc33846cbe4123daa2fb05da3211008b/library_hero_blur_sc_schinese.jpg"
 			}
 		}
 		"library_logo"
@@ -137,10 +156,12 @@
 			"image"
 			{
 				"english" "logo.png"
+				"sc_schinese" "21ba8c0d4ee3c1cbe1e989c7b0e70997b969fd9c/logo_sc_schinese.png"
 			}
 			"image2x"
 			{
 				"english" "logo_2x.png"
+				"sc_schinese" "21ba8c0d4ee3c1cbe1e989c7b0e70997b969fd9c/logo_sc_schinese_2x.png"
 			}
 			"logo_position"
 			{
@@ -149,8 +170,21 @@
 				"height_pct" "55.71597574270067"
 			}
 		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "e4fe1e11943f4a1d7de5239011c34c8f1d398322/library_header.jpg"
+				"sc_schinese" "e4fe1e11943f4a1d7de5239011c34c8f1d398322/library_header_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "e4fe1e11943f4a1d7de5239011c34c8f1d398322/library_header_2x.jpg"
+				"sc_schinese" "e4fe1e11943f4a1d7de5239011c34c8f1d398322/library_header_sc_schinese_2x.jpg"
+			}
+		}
 	}
-	"store_asset_mtime" "1687688830"
+	"store_asset_mtime" "1776748893"
 	"associations"
 	{
 		"0"
@@ -164,11 +198,6 @@
 			"name" "烟水寒工作室"
 		}
 		"2"
-		{
-			"type" "publisher"
-			"name" "Paras Games"
-		}
-		"3"
 		{
 			"type" "franchise"
 			"name" "Paras Games"
@@ -186,6 +215,7 @@
 	{
 		"category_2" "1"
 		"category_22" "1"
+		"category_30" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -211,8 +241,8 @@
 		"0" "122"
 		"1" "1695"
 		"2" "4191"
-		"3" "3959"
-		"4" "1759"
+		"3" "1759"
+		"4" "3959"
 		"5" "3834"
 		"6" "4486"
 		"7" "492"
@@ -230,7 +260,7 @@
 		"19" "1662"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -254,10 +284,16 @@
 		}
 	}
 	"steamdecktouchscreen" "1"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
 }
 "depots"
 {
 	"baselanguages" "schinese"
+	"hasdepotsindlc" "1"
+	"workshopdepot" "1993150"
 	"1993151"
 	{
 		"config"
@@ -268,15 +304,19 @@
 		{
 			"public"
 			{
-				"gid" "6324251699745817660"
-				"size" "13192486213"
-				"download" "6640578928"
+				"gid" "3577156580997513940"
+				"size" "13181040972"
+				"download" "7228572672"
 			}
 		}
 	}
 	"2329850"
 	{
 		"dlcappid" "2329850"
+		"config"
+		{
+			"realm" "steamglobal"
+		}
 		"manifests"
 		{
 			"public"
@@ -287,13 +327,20 @@
 			}
 		}
 	}
-	"hasdepotsindlc" "1"
+	"1993152"
+	{
+		"config"
+		{
+			"realm" "steamchina"
+		}
+	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "19737135"
-			"timeupdated" "1756197591"
+			"buildid" "22881083"
+			"timeupdated" "1776761278"
+			"timebuildupdated" "1776753762"
 		}
 	}
 	"privatebranches" "1"
@@ -318,6 +365,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "30784161"
-"_sha" "ad9177292168a0d22b63479330d19254ae0fd5a2"
-"_size" "5758"
+"_change_number" "35359946"
+"_sha" "81aeb31d22ea93c7064b29b9c665e4c6ef47a798"
+"_size" "7454"
