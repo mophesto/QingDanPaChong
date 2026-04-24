@@ -28,6 +28,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1643846400"
 		"tested_build_id" "5727607"
 		"tests"
@@ -53,6 +54,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "other"
@@ -64,6 +73,10 @@
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"small_capsule"
@@ -157,7 +170,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1739448219"
+	"store_asset_mtime" "1772824622"
 	"associations"
 	{
 		"0"
@@ -376,9 +389,9 @@
 		{
 			"public"
 			{
-				"gid" "4241670942432370517"
-				"size" "1420990426"
-				"download" "1022654064"
+				"gid" "7310910698135492566"
+				"size" "1419637072"
+				"download" "1021711632"
 			}
 			"open_beta"
 			{
@@ -399,9 +412,9 @@
 		{
 			"public"
 			{
-				"gid" "6990443660423986918"
-				"size" "1425323994"
-				"download" "1012674160"
+				"gid" "5769910467325357242"
+				"size" "1423991120"
+				"download" "1011953168"
 			}
 			"open_beta"
 			{
@@ -421,9 +434,9 @@
 		{
 			"public"
 			{
-				"gid" "322320552110294668"
-				"size" "1462009024"
-				"download" "1024570544"
+				"gid" "2066225008821124255"
+				"size" "1458927945"
+				"download" "1024784640"
 			}
 			"open_beta"
 			{
@@ -440,14 +453,16 @@
 	{
 		"public"
 		{
-			"buildid" "18285135"
-			"timeupdated" "1746010638"
+			"buildid" "22944017"
+			"timeupdated" "1777046956"
+			"timebuildupdated" "1777045457"
 		}
 		"open_beta"
 		{
 			"buildid" "9651219"
 			"description" "Public beta testing branch"
 			"timeupdated" "1702578003"
+			"timebuildupdated" "1664893281"
 		}
 	}
 	"privatebranches" "1"
@@ -485,6 +500,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "28747144"
-"_sha" "e28023318cc5005f1f306b1d91bed29f1837b816"
-"_size" "9194"
+"_change_number" "35446593"
+"_sha" "726967a57a22b56167c272aaea8a090b1f2ab277"
+"_size" "9557"
