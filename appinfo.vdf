@@ -188,7 +188,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1773948537"
+	"store_asset_mtime" "1777026670"
 	"associations"
 	{
 		"0"
@@ -310,7 +310,7 @@
 	"developer" "Paradox Development Studio"
 	"publisher" "Paradox Interactive"
 	"homepage" "https://www.stellaris.com/"
-	"listofdlc" "447680,447681,447682,447683,447684,447685,447686,447687,461071,461073,461461,462720,497660,498870,518910,553280,554350,616190,616191,633310,642750,716670,756010,844810,944290,1045980,1140000,1140001,1341520,1522090,1749080,1889490,2115770,2277860,2380030,2534090,2729490,2840100,2863060,2863080,2863180,2863190,3283220,3417840,3417850,3417860,3417870"
+	"listofdlc" "447680,447681,447682,447683,447684,447685,447686,447687,461071,461073,461461,462720,497660,498870,518910,553280,554350,616190,616191,633310,642750,716670,756010,844810,944290,1045980,1140000,1140001,1341520,1522090,1749080,1889490,2115770,2277860,2380030,2534090,2729490,2840100,2863060,2863080,2863180,2863190,3283220,3417840,3417850,3417860,3417870,4241400,4241410,4241420,4241440,4241450,4355700"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -510,15 +510,15 @@
 		{
 			"public"
 			{
-				"gid" "3603768181010401080"
-				"size" "27057879111"
-				"download" "12255861728"
+				"gid" "8367681894465347775"
+				"size" "27060508671"
+				"download" "12256645920"
 			}
 			"stellaris_test_job_assignment"
 			{
-				"gid" "2639245492621318378"
-				"size" "27057800786"
-				"download" "12255854080"
+				"gid" "3003594362041926582"
+				"size" "27060442131"
+				"download" "12256641184"
 			}
 			"stellaris_test"
 			{
@@ -736,15 +736,15 @@
 		{
 			"public"
 			{
-				"gid" "3625064400226865592"
-				"size" "224817189"
-				"download" "178100656"
+				"gid" "2802009025955344505"
+				"size" "224817701"
+				"download" "178098512"
 			}
 			"stellaris_test_job_assignment"
 			{
-				"gid" "2121987031568783867"
-				"size" "224796197"
-				"download" "178091728"
+				"gid" "6727279769897520145"
+				"size" "224826917"
+				"download" "178103456"
 			}
 			"stellaris_test"
 			{
@@ -962,15 +962,15 @@
 		{
 			"public"
 			{
-				"gid" "292882631526419971"
-				"size" "512487056"
-				"download" "368480736"
+				"gid" "4477330058758271752"
+				"size" "512487096"
+				"download" "368483008"
 			}
 			"stellaris_test_job_assignment"
 			{
-				"gid" "2868993769061481511"
-				"size" "512437736"
-				"download" "368466896"
+				"gid" "3725129346132202537"
+				"size" "512580504"
+				"download" "368491136"
 			}
 			"stellaris_test"
 			{
@@ -1188,15 +1188,15 @@
 		{
 			"public"
 			{
-				"gid" "8848145088436354707"
+				"gid" "7386283737143765450"
 				"size" "313579594"
-				"download" "201250176"
+				"download" "201250448"
 			}
 			"stellaris_test_job_assignment"
 			{
-				"gid" "6516407735984239070"
-				"size" "313514194"
-				"download" "201222000"
+				"gid" "280621972418366284"
+				"size" "313596618"
+				"download" "201249008"
 			}
 			"stellaris_test"
 			{
@@ -8555,21 +8555,36 @@
 	"4241410"
 	{
 		"dlcappid" "4241410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5231651801551995827"
+				"size" "85895"
+				"download" "85952"
+			}
+			"stellaris_test_job_assignment"
+			{
+				"gid" "5231651801551995827"
+				"size" "85895"
+				"download" "85952"
+			}
+		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "22799478"
-			"timeupdated" "1776329959"
-			"timebuildupdated" "1776260700"
+			"buildid" "22897798"
+			"timeupdated" "1777468052"
+			"timebuildupdated" "1776830238"
 		}
 		"stellaris_test_job_assignment"
 		{
-			"buildid" "22809917"
+			"buildid" "23012879"
 			"description" "Cetus Open Beta with experimental job assignment"
-			"timeupdated" "1776331176"
-			"timebuildupdated" "1776313397"
+			"timeupdated" "1777475543"
+			"timebuildupdated" "1777473396"
 		}
 		"stellaris_test"
 		{
@@ -8818,6 +8833,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "35260774"
-"_sha" "cf4ab59d2337f24c5136aef49c856500d0ffbe41"
-"_size" "161294"
+"_change_number" "35547217"
+"_sha" "ce46b56832b4f3ad4d6d154c83579b34772733cc"
+"_size" "161600"
