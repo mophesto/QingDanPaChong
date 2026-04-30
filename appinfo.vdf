@@ -15,7 +15,7 @@
 		"schinese" "轮回修仙路"
 		"sc_schinese" "轮回修仙路"
 	}
-	"releasestatesteamchina" "prerelease"
+	"releasestatesteamchina" "released"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -304,9 +304,9 @@
 		{
 			"public"
 			{
-				"gid" "9063843319670898571"
-				"size" "13203146283"
-				"download" "7239150128"
+				"gid" "601743429059358682"
+				"size" "13203095530"
+				"download" "7239128688"
 			}
 		}
 	}
@@ -338,9 +338,9 @@
 	{
 		"public"
 		{
-			"buildid" "22996604"
-			"timeupdated" "1777393813"
-			"timebuildupdated" "1777393700"
+			"buildid" "23028205"
+			"timeupdated" "1777555254"
+			"timebuildupdated" "1777547145"
 		}
 	}
 	"privatebranches" "1"
@@ -365,6 +365,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "35523245"
-"_sha" "7d782646d13d0eca2799c2fda20f35a54cbcb23c"
-"_size" "7454"
+"_change_number" "35572894"
+"_sha" "012238b9ca27884c457705e4dccc2760cfce08e3"
+"_size" "7451"
