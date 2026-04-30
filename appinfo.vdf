@@ -91,13 +91,13 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "d635e2a80aef4345c2b4f3fb20550038edba7e8e/capsule_231x87.jpg"
+		"schinese" "61360dec19a27208c214c2417fc7406bfd7c7059/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
-		"schinese" "header_schinese.jpg"
+		"english" "d4498733d941656ba78d67c82eddd1e62d55840f/header.jpg"
+		"schinese" "08a276ebb7f3cda8915196bf70f46cd7b749d73a/header_schinese.jpg"
 	}
 	"library_assets"
 	{
@@ -169,12 +169,17 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
-				"schinese" "library_header_schinese.jpg"
+				"english" "d4498733d941656ba78d67c82eddd1e62d55840f/library_header.jpg"
+				"schinese" "08a276ebb7f3cda8915196bf70f46cd7b749d73a/library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "d4498733d941656ba78d67c82eddd1e62d55840f/library_header_2x.jpg"
+				"schinese" "08a276ebb7f3cda8915196bf70f46cd7b749d73a/library_header_schinese_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1777482573"
+	"store_asset_mtime" "1777568076"
 	"associations"
 	{
 		"0"
@@ -360,9 +365,9 @@
 		{
 			"public"
 			{
-				"gid" "8808851298323602405"
-				"size" "1914117429"
-				"download" "872156048"
+				"gid" "2849330720226952911"
+				"size" "1914120861"
+				"download" "872161536"
 			}
 			"public_beta"
 			{
@@ -382,9 +387,9 @@
 		{
 			"public"
 			{
-				"gid" "5729188660122626557"
-				"size" "2046227284"
-				"download" "936125680"
+				"gid" "504329552575142841"
+				"size" "2046231140"
+				"download" "936130816"
 			}
 			"public_beta"
 			{
@@ -404,9 +409,9 @@
 		{
 			"public"
 			{
-				"gid" "7826284100681437820"
-				"size" "1945508896"
-				"download" "884659888"
+				"gid" "8686357661602989065"
+				"size" "1945512328"
+				"download" "884665552"
 			}
 			"public_beta"
 			{
@@ -420,9 +425,9 @@
 	{
 		"public"
 		{
-			"buildid" "23020936"
-			"timeupdated" "1777510410"
-			"timebuildupdated" "1777510364"
+			"buildid" "23033113"
+			"timeupdated" "1777566160"
+			"timebuildupdated" "1777565290"
 		}
 		"public_beta"
 		{
@@ -483,6 +488,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "35559326"
-"_sha" "eb451319e149199d40ff073da2390c7c60f876df"
-"_size" "8891"
+"_change_number" "35578119"
+"_sha" "8039b82deca9a88e579f96fca772e66b313059ae"
+"_size" "9334"
