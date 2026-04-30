@@ -133,12 +133,13 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
-			"width_pct" "68.07674319568069"
-			"height_pct" "75.34802972294946"
+			"width_pct" "41.31406096204849"
+			"height_pct" "24.348032635214665"
 		}
 	}
 	"library_assets_full"
@@ -158,11 +159,18 @@
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "ad09eaaf912c84214ba732961d29b10131256ae4/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "ad09eaaf912c84214ba732961d29b10131256ae4/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "ad09eaaf912c84214ba732961d29b10131256ae4/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -170,20 +178,20 @@
 			"logo_position"
 			{
 				"pinned_position" "BottomLeft"
-				"width_pct" "68.07674319568069"
-				"height_pct" "75.34802972294946"
+				"width_pct" "41.31406096204849"
+				"height_pct" "24.348032635214665"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "30844eb97096f3d8d100704737fda8c00bc2d0e1/logo_2x.png"
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "30844eb97096f3d8d100704737fda8c00bc2d0e1/logo.png"
 			}
 		}
 	}
-	"store_asset_mtime" "1766135112"
+	"store_asset_mtime" "1777554941"
 	"associations"
 	{
 		"0"
@@ -507,9 +515,9 @@
 		{
 			"public"
 			{
-				"gid" "4751618640321614271"
-				"size" "90185892803"
-				"download" "36937361728"
+				"gid" "6176284532206760122"
+				"size" "90303261210"
+				"download" "36996275296"
 			}
 			"local"
 			{
@@ -897,9 +905,9 @@
 	{
 		"public"
 		{
-			"buildid" "22650069"
-			"timeupdated" "1775399698"
-			"timebuildupdated" "1775329302"
+			"buildid" "23012903"
+			"timeupdated" "1777553855"
+			"timebuildupdated" "1777473493"
 		}
 		"local"
 		{
@@ -925,6 +933,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "35040160"
-"_sha" "1f11b4baff7623516ef27c4b6dde53c9bccc9aaa"
-"_size" "15606"
+"_change_number" "35572810"
+"_sha" "f9b8c5d4e42d828a11f02aa04b425c51e956b806"
+"_size" "15939"
