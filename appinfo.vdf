@@ -290,7 +290,7 @@
 	"developer" "Offworld"
 	"publisher" "Offworld"
 	"homepage" "https://starshiptroopersextermination.com/"
-	"listofdlc" "3205210,3205220,3205230,3205240,3353190,3353210,3353220,3842930,4319560"
+	"listofdlc" "3205210,3205220,3205230,3205240,3353190,3353210,3353220,3714670,3842930,4319560"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -357,9 +357,9 @@
 		{
 			"public"
 			{
-				"gid" "9008352726799912606"
-				"size" "14060642113"
-				"download" "13380743920"
+				"gid" "8619202495448549627"
+				"size" "14060490564"
+				"download" "13381052944"
 			}
 		}
 	}
@@ -367,14 +367,14 @@
 	{
 		"public"
 		{
-			"buildid" "23017892"
-			"timeupdated" "1777499974"
-			"timebuildupdated" "1777493838"
+			"buildid" "23021376"
+			"timeupdated" "1778086715"
+			"timebuildupdated" "1777512833"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "35559891"
-"_sha" "3c816222e9e084bbf8cce1bf3ed66cf246d6e195"
-"_size" "6636"
+"_change_number" "35695455"
+"_sha" "8afe9abcbe254957a321b27c69d9f602cddeace0"
+"_size" "6644"
