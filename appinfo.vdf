@@ -74,10 +74,10 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "db6f54dbbf7e354e339396df2717419bd108f5bb/capsule_231x87.jpg"
-		"schinese" "64b412b6e2afb188113c157ec0d90b082877aa36/capsule_231x87_schinese.jpg"
-		"japanese" "343bf323ee7e708812259ba2f7947628a245fd5e/capsule_231x87_japanese.jpg"
-		"koreana" "8cb385fa4aa562a1c99f3286a50255a0f6d8d482/capsule_231x87_koreana.jpg"
+		"english" "98a7afd24071040c96f6010b798b88ccacb62038/capsule_231x87.jpg"
+		"schinese" "ffd00474064ffe033f48117a3fbbb2b765fc846e/capsule_231x87_schinese.jpg"
+		"japanese" "f2757ec262f3f0c5ad2c711497c1effd96147b42/capsule_231x87_japanese.jpg"
+		"koreana" "ef8a1d605ff8e4fe520729463aec852d7258a107/capsule_231x87_koreana.jpg"
 	}
 	"header_image"
 	{
@@ -178,7 +178,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1775217216"
+	"store_asset_mtime" "1776944323"
 	"associations"
 	{
 		"0"
@@ -507,9 +507,9 @@
 		{
 			"public"
 			{
-				"gid" "2010272712422234435"
-				"size" "25119215205"
-				"download" "20570896160"
+				"gid" "8191860642280851670"
+				"size" "24931666703"
+				"download" "20411209952"
 			}
 		}
 	}
@@ -518,14 +518,14 @@
 	{
 		"public"
 		{
-			"buildid" "22809198"
-			"timeupdated" "1776328963"
-			"timebuildupdated" "1776308360"
+			"buildid" "23212699"
+			"timeupdated" "1778758981"
+			"timebuildupdated" "1778663995"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "35259973"
-"_sha" "a789f9b40213d039545d54c2c76ea3395b6032eb"
+"_change_number" "35864675"
+"_sha" "9aa857929376c2e3615e0f364878f023e60fc5ef"
 "_size" "12079"
