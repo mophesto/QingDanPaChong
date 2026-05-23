@@ -53,7 +53,7 @@
 		"sc_schinese" "反恐精英：全球攻势"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1779410412"
+	"timeline_marker_updated" "1779484904"
 	"timeline_marker_svg" "0eeacc724c77e1f5abeeba4fb542f45bad894470/markers.svg"
 	"market_presence" "1"
 	"content_descriptors"
@@ -673,7 +673,7 @@
 		{
 			"public"
 			{
-				"gid" "9178719645114030163"
+				"gid" "9165244700369913874"
 				"size" "8"
 				"download" "64"
 			}
@@ -792,7 +792,7 @@
 		{
 			"public"
 			{
-				"gid" "5724775594149564635"
+				"gid" "1995741003814443321"
 				"size" "8"
 				"download" "64"
 			}
@@ -907,7 +907,7 @@
 		{
 			"public"
 			{
-				"gid" "4842654327439862817"
+				"gid" "4907428274774048903"
 				"size" "8"
 				"download" "64"
 			}
@@ -1025,7 +1025,7 @@
 		{
 			"public"
 			{
-				"gid" "4253434660070909801"
+				"gid" "968286802776363246"
 				"size" "8"
 				"download" "64"
 			}
@@ -1133,7 +1133,7 @@
 		{
 			"public"
 			{
-				"gid" "4612069477225064335"
+				"gid" "8259176797599099027"
 				"size" "8"
 				"download" "64"
 			}
@@ -1241,7 +1241,7 @@
 		{
 			"public"
 			{
-				"gid" "5129630663683804923"
+				"gid" "2901721707492941191"
 				"size" "8"
 				"download" "64"
 			}
@@ -1349,7 +1349,7 @@
 		{
 			"public"
 			{
-				"gid" "5377468159169644479"
+				"gid" "6286428708158177967"
 				"size" "8"
 				"download" "64"
 			}
@@ -1457,7 +1457,7 @@
 		{
 			"public"
 			{
-				"gid" "5431070198932128965"
+				"gid" "9103531775260462431"
 				"size" "8"
 				"download" "64"
 			}
@@ -1569,9 +1569,9 @@
 		{
 			"public"
 			{
-				"gid" "1936087852547613802"
-				"size" "59293569726"
-				"download" "50713904016"
+				"gid" "2228861118498014425"
+				"size" "59298831523"
+				"download" "50698810592"
 			}
 			"1.40.8.8"
 			{
@@ -2165,9 +2165,9 @@
 		{
 			"public"
 			{
-				"gid" "3325533873720218791"
+				"gid" "1132214427895574843"
 				"size" "2087846211"
-				"download" "564249552"
+				"download" "564249536"
 			}
 			"1.40.8.8"
 			{
@@ -2260,9 +2260,9 @@
 	{
 		"public"
 		{
-			"buildid" "23355497"
-			"timeupdated" "1779417322"
-			"timebuildupdated" "1779416169"
+			"buildid" "23371447"
+			"timeupdated" "1779489106"
+			"timebuildupdated" "1779487899"
 		}
 		"csgo_legacy"
 		{
@@ -2392,6 +2392,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "36031555"
-"_sha" "fb9a62a94638868675674d7e0ab7a1c4a29094fd"
-"_size" "44027"
+"_change_number" "36053620"
+"_sha" "6dba2efa8139da3cd61311cf8d648755d824f1e3"
+"_size" "44026"
