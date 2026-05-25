@@ -108,12 +108,12 @@
 		{
 			"image"
 			{
-				"english" "a9f25857357380574155a43c58fe3384b8787020/library_600x900.jpg"
+				"english" "d4834881e7d678f8191c70498369fb4b45009419/library_capsule.jpg"
 				"schinese" "library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "a9f25857357380574155a43c58fe3384b8787020/library_600x900_2x.jpg"
+				"english" "d4834881e7d678f8191c70498369fb4b45009419/library_capsule_2x.jpg"
 				"schinese" "library_600x900_schinese_2x.jpg"
 			}
 		}
@@ -121,18 +121,18 @@
 		{
 			"image"
 			{
-				"english" "90b3e7de17ba3773bf62f4aa1d1188051cc92bd6/library_hero.jpg"
+				"english" "aec734a6377b945f3f46a048984b67b2d2f74148/library_hero.jpg"
 			}
 			"image2x"
 			{
-				"english" "90b3e7de17ba3773bf62f4aa1d1188051cc92bd6/library_hero_2x.jpg"
+				"english" "aec734a6377b945f3f46a048984b67b2d2f74148/library_hero_2x.jpg"
 			}
 		}
 		"library_hero_blur"
 		{
 			"image"
 			{
-				"english" "90b3e7de17ba3773bf62f4aa1d1188051cc92bd6/library_hero_blur.jpg"
+				"english" "aec734a6377b945f3f46a048984b67b2d2f74148/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
@@ -145,22 +145,26 @@
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "ab3789d7ab43a84357c9fea9d2f0c5e257387356/logo.png"
+			}
+			"image2x"
+			{
+				"english" "ab3789d7ab43a84357c9fea9d2f0c5e257387356/logo_2x.png"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "0f23a77c8b106ee5ccd052da37c5fd7003462064/library_header.jpg"
+				"english" "7a3e517e418d8d12e0a16fb524c2cf1dbf6ee018/library_header.jpg"
 			}
 			"image2x"
 			{
-				"english" "0f23a77c8b106ee5ccd052da37c5fd7003462064/library_header_2x.jpg"
+				"english" "7a3e517e418d8d12e0a16fb524c2cf1dbf6ee018/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1774000313"
+	"store_asset_mtime" "1779356770"
 	"associations"
 	{
 		"0"
@@ -274,8 +278,8 @@
 	"store_tags"
 	{
 		"0" "1100689"
-		"1" "1695"
-		"2" "1662"
+		"1" "1662"
+		"2" "1695"
 		"3" "128"
 		"4" "6650"
 		"5" "1659"
@@ -304,7 +308,7 @@
 	"developer" "Gamepires"
 	"publisher" "Gamepires"
 	"homepage" "http://scum.game"
-	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840,3596770,4062860,4139450,4369750"
+	"listofdlc" "919680,1643210,1990860,2321800,2371620,2517160,2517170,2651720,2651740,2651750,2841840,3596770,4062860,4139450,4369750,4529160,4635190"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -387,9 +391,9 @@
 		{
 			"public"
 			{
-				"gid" "3015368584675496350"
-				"size" "91365619723"
-				"download" "32981569520"
+				"gid" "7037169066663345298"
+				"size" "93158075988"
+				"download" "33872530016"
 			}
 			"pterelease"
 			{
@@ -499,9 +503,9 @@
 	{
 		"public"
 		{
-			"buildid" "23128448"
-			"timeupdated" "1778162479"
-			"timebuildupdated" "1778157706"
+			"buildid" "23396999"
+			"timeupdated" "1779713946"
+			"timebuildupdated" "1779712416"
 		}
 		"pterelease"
 		{
@@ -521,6 +525,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "35716550"
-"_sha" "aa85d35997258b678153a8ba88f9931d429c4f34"
-"_size" "9617"
+"_change_number" "36090750"
+"_sha" "ca1cef7dd657c3017e13ed508eba6e73a6498226"
+"_size" "9771"
