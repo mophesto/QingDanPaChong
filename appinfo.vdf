@@ -35,6 +35,7 @@
 			"version" "3"
 		}
 	}
+	"market_presence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "1"
@@ -74,7 +75,6 @@
 			"hdr_support" "0"
 		}
 	}
-	"market_presence" "1"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -275,26 +275,26 @@
 	"exfgls" "6"
 	"store_tags"
 	{
-		"0" "5611"
-		"1" "87"
-		"2" "4085"
-		"3" "8013"
-		"4" "84"
-		"5" "872"
-		"6" "3839"
-		"7" "24904"
-		"8" "492"
-		"9" "10397"
-		"10" "4726"
-		"11" "19"
-		"12" "4182"
-		"13" "4136"
-		"14" "493"
-		"15" "809"
-		"16" "3810"
-		"17" "150626"
-		"18" "1667"
-		"19" "13906"
+		"0" "87"
+		"1" "4085"
+		"2" "8013"
+		"3" "84"
+		"4" "872"
+		"5" "3839"
+		"6" "492"
+		"7" "4726"
+		"8" "10397"
+		"9" "19"
+		"10" "4182"
+		"11" "4136"
+		"12" "493"
+		"13" "809"
+		"14" "3810"
+		"15" "150626"
+		"16" "1667"
+		"17" "13906"
+		"18" "29482"
+		"19" "113"
 	}
 	"review_score" "9"
 	"review_percentage" "98"
@@ -460,21 +460,21 @@
 		{
 			"public"
 			{
-				"gid" "5641376293592905073"
-				"size" "660149815"
-				"download" "300581664"
+				"gid" "5589496536954093177"
+				"size" "828262504"
+				"download" "377473552"
 			}
 			"beta"
 			{
-				"gid" "5641376293592905073"
-				"size" "660149815"
-				"download" "300581664"
+				"gid" "7462073662290044352"
+				"size" "828343413"
+				"download" "377476256"
 			}
 			"previous"
 			{
-				"gid" "3123617359715496904"
-				"size" "628724854"
-				"download" "271191248"
+				"gid" "5641376293592905073"
+				"size" "660149815"
+				"download" "300581664"
 			}
 			"windows_7_support"
 			{
@@ -494,21 +494,21 @@
 		{
 			"public"
 			{
-				"gid" "2667361956895452971"
-				"size" "8030666"
-				"download" "1711808"
+				"gid" "4546806719158011606"
+				"size" "8181602"
+				"download" "1735456"
 			}
 			"beta"
 			{
-				"gid" "2667361956895452971"
-				"size" "8030666"
-				"download" "1711808"
+				"gid" "4546806719158011606"
+				"size" "8181602"
+				"download" "1735456"
 			}
 			"previous"
 			{
-				"gid" "1004714038687551688"
-				"size" "7163688"
-				"download" "1417712"
+				"gid" "2667361956895452971"
+				"size" "8030666"
+				"download" "1711808"
 			}
 			"windows_7_support"
 			{
@@ -522,20 +522,23 @@
 	{
 		"public"
 		{
-			"buildid" "19812784"
-			"timeupdated" "1756996303"
+			"buildid" "23455151"
+			"timeupdated" "1779985018"
+			"timebuildupdated" "1779984908"
 		}
 		"beta"
 		{
-			"buildid" "19812784"
+			"buildid" "23456862"
 			"description" "public beta testing, preview for next update"
-			"timeupdated" "1756734257"
+			"timeupdated" "1779991519"
+			"timebuildupdated" "1779991519"
 		}
 		"previous"
 		{
-			"buildid" "17411184"
+			"buildid" "19812784"
 			"description" "old release, always the preceding version"
-			"timeupdated" "1756996247"
+			"timeupdated" "1756996303"
+			"timebuildupdated" "1756734257"
 		}
 		"windows_7_support"
 		{
@@ -543,6 +546,7 @@
 			"buildid" "13565722"
 			"description" "Windows 7 support"
 			"timeupdated" "1714943971"
+			"timebuildupdated" "1708962001"
 		}
 	}
 	"privatebranches" "1"
@@ -553,6 +557,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "30943806"
-"_sha" "dbb19090a383989940b23714d03222981996a856"
-"_size" "12449"
+"_change_number" "36174114"
+"_sha" "ecd940491bcc60bd4dcd1a00af54a64c83145c49"
+"_size" "12596"
