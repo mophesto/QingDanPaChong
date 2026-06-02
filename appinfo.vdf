@@ -31,7 +31,7 @@
 		"sc_schinese" "Dota 2 刀塔"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1776440523"
+	"timeline_marker_updated" "1780095964"
 	"timeline_marker_svg" "c9e9902151b7e9049145921c09a1aa4e6744530b/markers.svg"
 	"market_presence" "1"
 	"type" "game"
@@ -508,9 +508,10 @@
 	"steamconfigurator3rdpartynative" "65535"
 	"externalarguments"
 	{
-		"whitelisted"
+		"blacklisted"
 		{
-			"0" "invite"
+			"0" "con_logfile_suffix"
+			"1" "con_logfile"
 		}
 	}
 	"cegpublickey" "30819D300D06092A864886F70D010101050003818B003081870281810088E3D4C8D5B4123219EF624EAE9D20A654B877E362A74F299DA57C8FF50B2352F909218EF814377CD004AE679183721AD2D28D1A2A3D9794221F83E791F1BE8809ABF655B807C265CEB213D581CA54A3D00D2DEB50DEE43657D16F8BE040723720131A28042AC4AF5BDD9C3B51072F4675A5C7E761FDA2A7FADA810CEBD5CC0F020111"
@@ -554,9 +555,9 @@
 		{
 			"public"
 			{
-				"gid" "7437412862288072558"
-				"size" "4308881807"
-				"download" "2644270528"
+				"gid" "736028226349489042"
+				"size" "4314502291"
+				"download" "2643472976"
 			}
 		}
 	}
@@ -614,9 +615,9 @@
 		{
 			"public"
 			{
-				"gid" "8720370245797965858"
-				"size" "58479571853"
-				"download" "24887777168"
+				"gid" "3645070618076981780"
+				"size" "58485859998"
+				"download" "24890702560"
 			}
 		}
 	}
@@ -647,9 +648,9 @@
 		{
 			"public"
 			{
-				"gid" "1797256207065920526"
-				"size" "616874936"
-				"download" "179523184"
+				"gid" "9050780111096826201"
+				"size" "616875960"
+				"download" "179523440"
 			}
 		}
 	}
@@ -663,9 +664,9 @@
 		{
 			"public"
 			{
-				"gid" "1073578518430211863"
+				"gid" "5794027131566900522"
 				"size" "636654283"
-				"download" "302652480"
+				"download" "302648432"
 			}
 		}
 	}
@@ -691,9 +692,9 @@
 		{
 			"public"
 			{
-				"gid" "8594693229314618695"
-				"size" "745544833"
-				"download" "321690384"
+				"gid" "1655423317384289714"
+				"size" "745544897"
+				"download" "321674992"
 			}
 		}
 	}
@@ -774,9 +775,9 @@
 		{
 			"public"
 			{
-				"gid" "6968612047946330260"
+				"gid" "6908685306730362749"
 				"size" "5876818564"
-				"download" "1624679456"
+				"download" "1624679440"
 			}
 		}
 	}
@@ -838,9 +839,9 @@
 	{
 		"public"
 		{
-			"buildid" "23459171"
-			"timeupdated" "1780001999"
-			"timebuildupdated" "1780001739"
+			"buildid" "23514965"
+			"timeupdated" "1780348328"
+			"timebuildupdated" "1780348137"
 		}
 	}
 	"privatebranches" "1"
@@ -852,6 +853,6 @@
 	"maxnumfiles" "2000"
 }
 "_missing_token" "False"
-"_change_number" "36177413"
-"_sha" "ba90701c94a7917d91a325f813b6133a97d6d167"
-"_size" "14730"
+"_change_number" "36259244"
+"_sha" "000063002135efc6096c3d486452728d5b6fbf13"
+"_size" "14764"
