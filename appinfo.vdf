@@ -158,7 +158,6 @@
 		"0" "23"
 		"1" "9"
 		"2" "28"
-		"3" "70"
 	}
 	"category"
 	{
@@ -225,7 +224,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1628583714"
+	"steam_release_date" "1780394149"
 	"community_hub_visible" "1"
 	"gameid" "1578390"
 	"store_tags"
@@ -289,9 +288,9 @@
 		{
 			"public"
 			{
-				"gid" "7228411727982438514"
-				"size" "10533417890"
-				"download" "3718338304"
+				"gid" "5052225957734678746"
+				"size" "11896044151"
+				"download" "4332887088"
 			}
 		}
 	}
@@ -303,22 +302,24 @@
 			"osarch" "64"
 		}
 	}
+	"workshopdepot" "1578390"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "21629839"
-			"timeupdated" "1769415313"
+			"buildid" "23523569"
+			"timeupdated" "1780393241"
+			"timebuildupdated" "1780393181"
 		}
 	}
 	"privatebranches" "1"
 }
 "ufs"
 {
-	"quota" "100000000000"
+	"quota" "10000000000"
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "33447260"
-"_sha" "caf0666066138adfc53d4ae53de3592bd766302b"
-"_size" "5403"
+"_change_number" "36271980"
+"_sha" "1d1061f5a54438794c12a4c95eaecdbe5f20f337"
+"_size" "5455"
