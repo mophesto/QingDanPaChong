@@ -41,8 +41,8 @@
 	{
 		"category" "1"
 		"steamos_compatibility" "1"
-		"test_timestamp" "1646697600"
-		"tested_build_id" "8131979"
+		"test_timestamp" "1779408000"
+		"tested_build_id" "23128448"
 		"tests"
 		{
 			"0"
@@ -69,7 +69,7 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-7.0-1"
+			"recommended_runtime" "proton-11.0-beta"
 			"requires_h264" "0"
 			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "0"
@@ -284,18 +284,18 @@
 		"4" "6650"
 		"5" "1659"
 		"6" "1702"
-		"7" "19"
-		"8" "4175"
-		"9" "4182"
+		"7" "4182"
+		"8" "19"
+		"9" "4175"
 		"10" "9564"
 		"11" "4667"
-		"12" "1663"
-		"13" "1775"
+		"12" "1775"
+		"13" "1663"
 		"14" "1697"
 		"15" "4345"
 		"16" "122"
-		"17" "3810"
-		"18" "3843"
+		"17" "3843"
+		"18" "3810"
 		"19" "4747"
 	}
 	"review_score" "6"
@@ -391,9 +391,9 @@
 		{
 			"public"
 			{
-				"gid" "7516285520121631438"
-				"size" "92682487880"
-				"download" "33464111760"
+				"gid" "4160324240819295598"
+				"size" "92696486831"
+				"download" "33467440224"
 			}
 			"pterelease"
 			{
@@ -503,9 +503,9 @@
 	{
 		"public"
 		{
-			"buildid" "23451703"
-			"timeupdated" "1779976745"
-			"timebuildupdated" "1779973218"
+			"buildid" "23623039"
+			"timeupdated" "1780930755"
+			"timebuildupdated" "1780926184"
 		}
 		"pterelease"
 		{
@@ -525,6 +525,6 @@
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "36167764"
-"_sha" "b65908959f3d3a7426e551d639be3b31944ac694"
-"_size" "9771"
+"_change_number" "36418335"
+"_sha" "db2951253787fef8fbf9f5174c65db656eb9b49d"
+"_size" "9776"
