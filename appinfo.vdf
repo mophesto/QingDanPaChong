@@ -53,7 +53,7 @@
 		"sc_schinese" "反恐精英：全球攻势"
 	}
 	"releasestatesteamchina" "released"
-	"timeline_marker_updated" "1780013778"
+	"timeline_marker_updated" "1780528120"
 	"timeline_marker_svg" "0eeacc724c77e1f5abeeba4fb542f45bad894470/markers.svg"
 	"market_presence" "1"
 	"content_descriptors"
@@ -118,13 +118,13 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg"
 		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
 		"schinese" "capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
-		"english" "header.jpg"
+		"english" "162664aa5da85f418105350c5d67ca565f6c3713/header.jpg"
 		"sc_schinese" "header_sc_schinese.jpg"
 		"schinese" "header_schinese.jpg"
 	}
@@ -188,7 +188,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1749053858"
+	"store_asset_mtime" "1780435164"
 	"associations"
 	{
 		"0"
@@ -673,7 +673,7 @@
 		{
 			"public"
 			{
-				"gid" "4023299831586762666"
+				"gid" "9028130147561961954"
 				"size" "8"
 				"download" "64"
 			}
@@ -744,7 +744,7 @@
 		{
 			"public"
 			{
-				"gid" "8931284354732305113"
+				"gid" "5364571208936872950"
 				"size" "8"
 				"download" "64"
 			}
@@ -811,7 +811,7 @@
 		{
 			"public"
 			{
-				"gid" "7058925346836853811"
+				"gid" "7694825801825316243"
 				"size" "8"
 				"download" "64"
 			}
@@ -881,7 +881,7 @@
 		{
 			"public"
 			{
-				"gid" "9067244387494684232"
+				"gid" "887075787591502333"
 				"size" "8"
 				"download" "64"
 			}
@@ -941,7 +941,7 @@
 		{
 			"public"
 			{
-				"gid" "5467389511131467920"
+				"gid" "7177334340202572198"
 				"size" "8"
 				"download" "64"
 			}
@@ -1001,7 +1001,7 @@
 		{
 			"public"
 			{
-				"gid" "2091606638871411507"
+				"gid" "590685301862540999"
 				"size" "8"
 				"download" "64"
 			}
@@ -1061,7 +1061,7 @@
 		{
 			"public"
 			{
-				"gid" "2504074117989773775"
+				"gid" "3550757328056956973"
 				"size" "8"
 				"download" "64"
 			}
@@ -1121,7 +1121,7 @@
 		{
 			"public"
 			{
-				"gid" "3800718868779621064"
+				"gid" "2570158845592750746"
 				"size" "8"
 				"download" "64"
 			}
@@ -1185,9 +1185,9 @@
 		{
 			"public"
 			{
-				"gid" "32787317784354335"
-				"size" "59279073951"
-				"download" "50682424928"
+				"gid" "5146470907583764090"
+				"size" "59274592393"
+				"download" "50673336096"
 			}
 			"1.40.8.8"
 			{
@@ -1237,9 +1237,9 @@
 		{
 			"public"
 			{
-				"gid" "7770553761225942394"
-				"size" "8156640244"
-				"download" "5874615392"
+				"gid" "8287382081622299196"
+				"size" "8156646388"
+				"download" "5874615552"
 			}
 			"1.40.8.8"
 			{
@@ -1342,9 +1342,9 @@
 		{
 			"public"
 			{
-				"gid" "3695111963241036921"
-				"size" "7661692546"
-				"download" "5484730384"
+				"gid" "2155969443043729044"
+				"size" "7661700674"
+				"download" "5484732320"
 			}
 			"1.40.8.8"
 			{
@@ -1448,9 +1448,9 @@
 		{
 			"public"
 			{
-				"gid" "9182507643108911406"
-				"size" "86186120"
-				"download" "26434336"
+				"gid" "3531870681635614157"
+				"size" "86194440"
+				"download" "26443264"
 			}
 			"1.41.4.1"
 			{
@@ -1493,9 +1493,9 @@
 		{
 			"public"
 			{
-				"gid" "4819484659780633792"
-				"size" "2087847699"
-				"download" "564249120"
+				"gid" "7303365699249040807"
+				"size" "2087845799"
+				"download" "564247056"
 			}
 			"1.40.8.8"
 			{
@@ -1540,9 +1540,9 @@
 	{
 		"public"
 		{
-			"buildid" "23517234"
-			"timeupdated" "1780362582"
-			"timebuildupdated" "1780359761"
+			"buildid" "23669931"
+			"timeupdated" "1781129223"
+			"timebuildupdated" "1781129142"
 		}
 		"csgo_legacy"
 		{
@@ -1616,6 +1616,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "36263081"
-"_sha" "cf796b7a17dc53c836ed44623b3c66218143ce1a"
-"_size" "30022"
+"_change_number" "36481865"
+"_sha" "ab8b427a82c9e031e600898d7de98f08739590ff"
+"_size" "30104"
