@@ -201,9 +201,9 @@
 		{
 			"public"
 			{
-				"gid" "1125829132299721924"
-				"size" "4375447005"
-				"download" "3035523232"
+				"gid" "3073702282464534856"
+				"size" "4430759750"
+				"download" "3079707328"
 			}
 			"beforemacoschanges"
 			{
@@ -213,9 +213,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "7823066624449250825"
-				"size" "4373582163"
-				"download" "3034802640"
+				"gid" "985403530547895178"
+				"size" "4398859870"
+				"download" "3059014096"
 			}
 		}
 	}
@@ -229,9 +229,9 @@
 		{
 			"public"
 			{
-				"gid" "2334955445349509271"
-				"size" "4304337162"
-				"download" "2938589024"
+				"gid" "2879472013509740716"
+				"size" "4361675330"
+				"download" "2983578720"
 			}
 			"beforemacoschanges"
 			{
@@ -241,9 +241,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "6514345726118590402"
-				"size" "4302659285"
-				"download" "2938061632"
+				"gid" "3350537799878777467"
+				"size" "4329776986"
+				"download" "2962890960"
 			}
 		}
 	}
@@ -257,9 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "7540814621915077986"
-				"size" "4196548470"
-				"download" "2905027344"
+				"gid" "2072443749390322035"
+				"size" "4251917621"
+				"download" "2949312864"
 			}
 			"beforemacoschanges"
 			{
@@ -269,9 +269,9 @@
 			}
 			"updatebeta"
 			{
-				"gid" "7636498149570408654"
-				"size" "4194683604"
-				"download" "2904326480"
+				"gid" "5908289085817347515"
+				"size" "4220003705"
+				"download" "2928632880"
 			}
 		}
 	}
@@ -279,9 +279,9 @@
 	{
 		"public"
 		{
-			"buildid" "23206748"
-			"timeupdated" "1778638905"
-			"timebuildupdated" "1778630342"
+			"buildid" "23672902"
+			"timeupdated" "1781196377"
+			"timebuildupdated" "1781144912"
 		}
 		"beforemacoschanges"
 		{
@@ -292,15 +292,15 @@
 		}
 		"updatebeta"
 		{
-			"buildid" "23001980"
+			"buildid" "23604590"
 			"description" "Public Beta"
-			"timeupdated" "1777422090"
-			"timebuildupdated" "1777420067"
+			"timeupdated" "1780800521"
+			"timebuildupdated" "1780785087"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "35826563"
-"_sha" "037c145abdfa2e516e8163e05a97a9a29285d55a"
-"_size" "5593"
+"_change_number" "36506363"
+"_sha" "58f337e21711b4a9b68ff96a7580b5869a103ed4"
+"_size" "5592"
