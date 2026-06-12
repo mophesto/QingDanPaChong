@@ -229,6 +229,7 @@
 	}
 	"steam_release_date" "1687223964"
 	"community_visible_stats" "1"
+	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "1993150"
 	"content_descriptors_including_dlc"
@@ -304,9 +305,9 @@
 		{
 			"public"
 			{
-				"gid" "8591227203680538891"
-				"size" "13239583099"
-				"download" "7269417776"
+				"gid" "3999055189504589641"
+				"size" "13239622565"
+				"download" "7267594800"
 			}
 		}
 	}
@@ -338,9 +339,9 @@
 	{
 		"public"
 		{
-			"buildid" "23683971"
-			"timeupdated" "1781191757"
-			"timebuildupdated" "1781191159"
+			"buildid" "23701542"
+			"timeupdated" "1781269399"
+			"timebuildupdated" "1781267717"
 		}
 	}
 	"privatebranches" "1"
@@ -365,6 +366,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "36504227"
-"_sha" "2b1ee67e5fe6e548766b939a066aaee53e4004ef"
-"_size" "7455"
+"_change_number" "36533934"
+"_sha" "c27c649309488f7b08d5045a5b34624663e7824a"
+"_size" "7481"
