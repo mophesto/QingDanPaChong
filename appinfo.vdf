@@ -36,6 +36,7 @@
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1645747200"
 		"tested_build_id" "8173571"
 		"tests"
@@ -61,6 +62,14 @@
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -73,6 +82,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "native"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "Dead Cells"
@@ -97,7 +109,49 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1678187996"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "64.15607362158426"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1752025837"
 	"associations"
 	{
 		"0"
@@ -218,6 +272,18 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1533592560"
 	"steam_deck_blog_url" "https://steamcommunity.com/games/588650/announcements/detail/3191371430384129459"
@@ -227,28 +293,33 @@
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
 	"gameid" "588650"
+	"content_descriptors_including_dlc"
+	{
+		"0" "2"
+		"1" "5"
+	}
 	"store_tags"
 	{
 		"0" "21"
-		"1" "42804"
+		"1" "1716"
 		"2" "1628"
 		"3" "3964"
-		"4" "3871"
-		"5" "1716"
+		"4" "42804"
+		"5" "3871"
 		"6" "29482"
 		"7" "3959"
-		"8" "4711"
-		"9" "1646"
-		"10" "4026"
-		"11" "1625"
-		"12" "4182"
-		"13" "922563"
-		"14" "19"
-		"15" "4604"
-		"16" "5125"
-		"17" "4166"
-		"18" "4136"
-		"19" "492"
+		"8" "1646"
+		"9" "4711"
+		"10" "1625"
+		"11" "4182"
+		"12" "19"
+		"13" "4604"
+		"14" "4166"
+		"15" "5125"
+		"16" "4136"
+		"17" "4026"
+		"18" "492"
+		"19" "493"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -329,9 +400,9 @@
 		{
 			"public"
 			{
-				"gid" "1424459526839357792"
-				"size" "2119693708"
-				"download" "1947285424"
+				"gid" "1267891275479148898"
+				"size" "2119432810"
+				"download" "1950381216"
 			}
 			"public_alpha"
 			{
@@ -556,27 +627,6 @@
 				"download" "1941059984"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"press"
-			{
-				"gid" "17856E49CB2265FF5ED252ABF0DB6EA3"
-				"size" "298A3DE1FF1CB8DB5918CBF88E2BE78F"
-				"download" "9B4A5B3CC66234B3D6DF01C3385D1473"
-			}
-			"private_alpha"
-			{
-				"gid" "AA64563466B00CE8616D1E768161B400"
-				"size" "13461FE568D22A567A22C20A153FCA06"
-				"download" "3F32F8196A77486DF272310CDE64DA98"
-			}
-			"internal"
-			{
-				"gid" "61858B3D64EF4C85643B1CDC5F0C3EFF"
-				"size" "30FFC4F446C13DFC22A63C821AC0E29F"
-				"download" "86F88ECE55D7DC40A227AD817D9CD118"
-			}
-		}
 	}
 	"588653"
 	{
@@ -588,9 +638,9 @@
 		{
 			"public"
 			{
-				"gid" "5814907161645516281"
-				"size" "2106531096"
-				"download" "1951554704"
+				"gid" "4305840217031610249"
+				"size" "2107314027"
+				"download" "1960647440"
 			}
 			"public_alpha"
 			{
@@ -815,27 +865,6 @@
 				"download" "1945129136"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"press"
-			{
-				"gid" "3BC47FE77F7D60CD1A53F872B70922C5"
-				"size" "E50BDC70C3A9E40D6DB6C866FD06407E"
-				"download" "74B08E948242833C43D61DD4804BB2BE"
-			}
-			"private_alpha"
-			{
-				"gid" "44A865441649A22C8478379832144638"
-				"size" "1961BFAEC6AA437C0821CFCDFB3B0AC6"
-				"download" "69E86817AD738BC8F9FC991B3B079CC2"
-			}
-			"internal"
-			{
-				"gid" "90B734F3B695D2017F2DCCBAC1A8C1F9"
-				"size" "47BB58D9640DB264CDF299DE415353D1"
-				"download" "73B8B9663D33841ACD7D232A085C148A"
-			}
-		}
 	}
 	"588652"
 	{
@@ -847,9 +876,9 @@
 		{
 			"public"
 			{
-				"gid" "2808220399414699720"
-				"size" "2107405984"
-				"download" "1953098864"
+				"gid" "5890754424221259294"
+				"size" "2106988563"
+				"download" "1954494160"
 			}
 			"public_alpha"
 			{
@@ -1072,27 +1101,6 @@
 				"gid" "1325020898577676558"
 				"size" "2098731485"
 				"download" "1946617360"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"press"
-			{
-				"gid" "1210C851A598415D628CBE5AA0148312"
-				"size" "70DF094F199D9CB5FCEF98481DEF3FF5"
-				"download" "2CB473068E6D8061AE806E4B3490DCDA"
-			}
-			"private_alpha"
-			{
-				"gid" "D9084AC1F736858C67E95B056B9B8A14"
-				"size" "60775F20CABE9381EFF905ADD0122B37"
-				"download" "46914C3D145B6E16BB65A754113AB8D6"
-			}
-			"internal"
-			{
-				"gid" "86B3F4F2F18FFEBA3B8C93CA4D74F00D"
-				"size" "B54BBE596D50827F6F46F3804C68B826"
-				"download" "826EDD8743FF04C568C3F0AC073BC114"
 			}
 		}
 	}
@@ -1333,27 +1341,6 @@
 				"download" "15614016"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"press"
-			{
-				"gid" "348C10D3E4790D6049A98FC1FF7953D4"
-				"size" "B970117485C3EFAFAA831C7C0BBB9288"
-				"download" "CEF8AD9D501E8B33AACAC03CFA5FA79C"
-			}
-			"private_alpha"
-			{
-				"gid" "756ECF15A43BBDF1CE29D1C5AA3D2EE9"
-				"size" "737BB196A8DCE4E6D461981454D31344"
-				"download" "68CF267E93C8F1C99D3F0C3A7602B730"
-			}
-			"internal"
-			{
-				"gid" "8E418EE95E163850379146D430F0909D"
-				"size" "F7ECAD87F84302154587DF9B7A6F5140"
-				"download" "8385B00ED7D9E213D6C5E70E805A8511"
-			}
-		}
 	}
 	"1046441"
 	{
@@ -1434,27 +1421,6 @@
 				"gid" "5312714623313642557"
 				"size" "2088571210"
 				"download" "1936868288"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"press"
-			{
-				"gid" "3641614E842B20B0AA6D509CBF930FDE"
-				"size" "309EE7E23063DF79DD2F8D484B0A692F"
-				"download" "7F182DBB6C1E0D7A02B780A79D4376E8"
-			}
-			"private_alpha"
-			{
-				"gid" "713B7F5FC6090414299142ABBAEC6D76"
-				"size" "00EF6948C0633D9EC91A2D9617FD43A1"
-				"download" "408FE529EAE817BC27549BC41F166461"
-			}
-			"internal"
-			{
-				"gid" "5EF18C7D10AE29BE474D1495837B7FD2"
-				"size" "09813B51B38B6B0EE5667E9376DBEC47"
-				"download" "B4677BB64F6BBB417593A9DF54E576D2"
 			}
 		}
 	}
@@ -1539,27 +1505,6 @@
 				"download" "1120878256"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"press"
-			{
-				"gid" "EB4764BB03CEFEABA2804BA87798C9FB"
-				"size" "29F6F2A3077EC1EEA21A0F81E9D2F2A8"
-				"download" "14DC9A5672BDD11D01C635E122B11EC7"
-			}
-			"private_alpha"
-			{
-				"gid" "A4521C77A6146FC475EE3D7624CF7555"
-				"size" "6DFC6F57FF76AB33D7BD61236C3FC855"
-				"download" "3390E7ABE6892121FA218927DE0F92DC"
-			}
-			"internal"
-			{
-				"gid" "E59A7FCC969A3B59E22896BE1FD64DC4"
-				"size" "CF8BA62FB1056CC98A83324A2A4B1DAA"
-				"download" "8B7098AD59E0EBD8AE1E8DA1B90F4C1A"
-			}
-		}
 	}
 	"1046443"
 	{
@@ -1642,276 +1587,276 @@
 				"download" "1122279568"
 			}
 		}
-		"encryptedmanifests"
-		{
-			"press"
-			{
-				"gid" "B8484DF58BCED7252890E8A713DD4851"
-				"size" "C02648C8354A03EEF0D0308E48DA7A75"
-				"download" "CD5B9FCD85CB55C8894220DE706FAE19"
-			}
-			"private_alpha"
-			{
-				"gid" "1C726D6B414EC24990D48EE2654CC666"
-				"size" "20B3AC9F6A1C3D25E68C011351B16695"
-				"download" "CF5AD387C534F73535867639B4704A93"
-			}
-			"internal"
-			{
-				"gid" "628406057202697A72C4513229F3ED3E"
-				"size" "71A4CA5E40C9ED5D335213C4219CF12B"
-				"download" "CB2A4B6D422D2D35077513068C5C0074"
-			}
-		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "15492902"
-			"timeupdated" "1724746499"
-		}
-		"press"
-		{
-			"buildid" "9862438"
-			"pwdrequired" "1"
-			"timeupdated" "1667485966"
-		}
-		"private_alpha"
-		{
-			"buildid" "12047410"
-			"pwdrequired" "1"
-			"timeupdated" "1693208844"
+			"buildid" "23473434"
+			"timeupdated" "1781534745"
+			"timebuildupdated" "1780066678"
 		}
 		"public_alpha"
 		{
 			"buildid" "12234566"
 			"description" "alpha - Not for the faint hearted..."
 			"timeupdated" "1695211054"
+			"timebuildupdated" "1695202181"
 		}
 		"public_beta"
 		{
 			"buildid" "12335292"
 			"description" "Beta - Your progress will be saved."
 			"timeupdated" "1696259764"
+			"timebuildupdated" "1696255316"
 		}
 		"v0.0"
 		{
 			"buildid" "4522338"
 			"description" "U0 - Early Access Vanilla"
 			"timeupdated" "1577117478"
+			"timebuildupdated" "1577117478"
 		}
 		"v0.1"
 		{
 			"buildid" "4522335"
 			"description" "U1 - Elemental Update"
 			"timeupdated" "1577117379"
+			"timebuildupdated" "1577117379"
 		}
 		"v0.2"
 		{
 			"buildid" "4522343"
 			"description" "U2 - Hello Darkness My Old Friend"
 			"timeupdated" "1577117612"
+			"timebuildupdated" "1577117612"
 		}
 		"v0.3"
 		{
 			"buildid" "4522346"
 			"description" "U3 - Who\'s your daily\?"
 			"timeupdated" "1577117681"
+			"timebuildupdated" "1577117680"
 		}
 		"v0.4"
 		{
 			"buildid" "4522347"
 			"description" "U4 - Brutal Update"
 			"timeupdated" "1577117750"
+			"timebuildupdated" "1577117750"
 		}
 		"v0.5"
 		{
 			"buildid" "4522351"
 			"description" "U5 - The Foundry Update"
 			"timeupdated" "1577117821"
+			"timebuildupdated" "1577117821"
 		}
 		"v0.6"
 		{
 			"buildid" "4522362"
 			"description" "U6 - The Hand of the King Update"
 			"timeupdated" "1577118177"
+			"timebuildupdated" "1577118177"
 		}
 		"v0.7"
 		{
 			"buildid" "4522364"
 			"description" "U7 - Baguette Update"
 			"timeupdated" "1577118231"
+			"timebuildupdated" "1577118231"
 		}
 		"v0.8"
 		{
 			"buildid" "4522370"
 			"description" "U8 - Babel Update"
 			"timeupdated" "1577118323"
+			"timebuildupdated" "1577118322"
 		}
 		"v0.9"
 		{
 			"buildid" "3009090"
 			"description" "U9 - Mac & Linux Update"
 			"timeupdated" "1577118457"
+			"timebuildupdated" "1533554590"
 		}
 		"v1.0"
 		{
 			"buildid" "3074308"
 			"description" "U10 - Release"
 			"timeupdated" "1577118553"
+			"timebuildupdated" "1535549318"
 		}
 		"v1.1"
 		{
 			"buildid" "3533483"
 			"description" "U11 - Pimp my Run Update"
 			"timeupdated" "1577118595"
+			"timebuildupdated" "1549377499"
 		}
 		"v1.2"
 		{
 			"buildid" "3688695"
 			"description" "U12 - Rise of the Giant"
 			"timeupdated" "1577118695"
+			"timebuildupdated" "1553787227"
 		}
 		"v1.3"
 		{
 			"buildid" "3999152"
 			"description" "U13 - Update the 13th"
 			"timeupdated" "1577118800"
+			"timebuildupdated" "1562766958"
 		}
 		"v1.4"
 		{
 			"buildid" "4267690"
 			"description" "U14 - Who\'s the Boss Update"
 			"timeupdated" "1577118854"
+			"timebuildupdated" "1570542669"
 		}
 		"v1.5"
 		{
 			"buildid" "4521989"
 			"description" "U15 - The Corrupted Update"
 			"timeupdated" "1577121595"
+			"timebuildupdated" "1577105892"
 		}
 		"v1.6"
 		{
 			"buildid" "4896485"
 			"description" "U16 - The Legacy Update"
 			"timeupdated" "1586877727"
+			"timebuildupdated" "1586877727"
 		}
 		"v1.7"
 		{
 			"buildid" "4823497"
 			"description" "U17 - The Bad Seed"
 			"timeupdated" "1590565040"
+			"timebuildupdated" "1585239561"
 		}
 		"v1.8"
 		{
 			"buildid" "5291508"
 			"description" "U18 - The Bestiary Update"
 			"timeupdated" "1594813329"
+			"timebuildupdated" "1594813329"
 		}
 		"v1.9"
 		{
 			"buildid" "5256468"
 			"description" "U19 - Update of Plenty"
 			"timeupdated" "1597154289"
+			"timebuildupdated" "1594050517"
 		}
 		"v2.0"
 		{
 			"buildid" "5432088"
 			"description" "U20 - The Barrels o\' Fun Update"
 			"timeupdated" "1609943630"
+			"timebuildupdated" "1597844436"
 		}
 		"v2.1"
 		{
 			"buildid" "6040395"
 			"description" "U21 - Malaise Update"
 			"timeupdated" "1617025294"
+			"timebuildupdated" "1609843823"
 		}
 		"v2.2"
 		{
 			"buildid" "6147412"
 			"description" "U22 - Fatal Falls"
 			"timeupdated" "1617025511"
+			"timebuildupdated" "1611770573"
 		}
 		"v2.3"
 		{
 			"buildid" "6614857"
 			"description" "U23 - Whack-a-mole Update"
 			"timeupdated" "1623326753"
+			"timebuildupdated" "1619622388"
 		}
 		"v2.4"
 		{
 			"buildid" "6853880"
 			"description" "U24 - What\'s the Damage Update"
 			"timeupdated" "1637056973"
+			"timebuildupdated" "1623421786"
 		}
 		"v2.5"
 		{
 			"buildid" "7416367"
 			"description" "U25 - Practice Makes Perfect Update"
 			"timeupdated" "1637595417"
+			"timebuildupdated" "1632468341"
 		}
 		"v2.6"
 		{
 			"buildid" "7980550"
 			"description" "U26 - Everyone is Here! Update"
 			"timeupdated" "1641490338"
+			"timebuildupdated" "1641490338"
 		}
 		"v2.7"
 		{
 			"buildid" "8173571"
 			"description" "U27 - The Queen and the Sea Update"
 			"timeupdated" "1648649931"
+			"timebuildupdated" "1644421980"
 		}
 		"v2.8"
 		{
 			"buildid" "8581038"
 			"description" "U28 - Break the Bank"
 			"timeupdated" "1655997256"
+			"timebuildupdated" "1650356495"
 		}
 		"v2.9"
 		{
 			"buildid" "9077786"
 			"description" "U29 - Breaking Barriers"
 			"timeupdated" "1659535409"
+			"timebuildupdated" "1657189852"
 		}
 		"v3.0"
 		{
 			"buildid" "9504577"
 			"description" "U30 - Enter the Panchaku"
 			"timeupdated" "1664976092"
+			"timebuildupdated" "1663053740"
 		}
 		"v3.1"
 		{
 			"buildid" "9704282"
 			"description" "U31 - Boss Rush"
 			"timeupdated" "1667825468"
+			"timebuildupdated" "1665567387"
 		}
 		"v3.2"
 		{
 			"buildid" "10031131"
 			"description" "U32 - Everyone is Here Vol. 2"
 			"timeupdated" "1678114459"
+			"timebuildupdated" "1669649482"
 		}
 		"v3.3"
 		{
 			"buildid" "11019997"
 			"description" "U33 - Return to Castlevania Update"
 			"timeupdated" "1682597932"
-		}
-		"internal"
-		{
-			"buildid" "15492902"
-			"pwdrequired" "1"
-			"timeupdated" "1724673932"
+			"timebuildupdated" "1681731228"
 		}
 		"v3.4"
 		{
 			"buildid" "11516441"
 			"description" "U34 - Clean Cut"
 			"timeupdated" "1724159940"
+			"timebuildupdated" "1687274871"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -1920,6 +1865,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "24954735"
-"_sha" "67c59cf7b8f321770624cf3040113234f9058098"
-"_size" "36722"
+"_change_number" "36592106"
+"_sha" "220d931ec0201efb126e33c7006b8e78002ed3d0"
+"_size" "35060"
