@@ -19,9 +19,20 @@
 	"icon" "d7a0929698ca92db48dd0d4f47794b1e32bbc9e4"
 	"clienticon" "6477d54ef733290a94a62c7b76897a07bbfe2229"
 	"clienttga" "56f8d6f9ff6a9616b92c169c0dee4335751496bb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "357190_eula_0"
+			"name" "Ultimate Marvel vs. Capcom 3 EULA"
+			"url" "https://store.steampowered.com//eula/357190_eula_0"
+			"version" "1"
+		}
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
+		"steamos_compatibility" "2"
 		"test_timestamp" "1671062400"
 		"tested_build_id" "1736002"
 		"tests"
@@ -52,6 +63,19 @@
 				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 			}
 		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
 		"configuration"
 		{
 			"supported_input" "gamepad"
@@ -64,7 +88,9 @@
 			"requires_internet_for_singleplayer" "0"
 			"recommended_runtime" "proton-7.0-5"
 			"requires_h264" "0"
+			"requires_voice_files" "0"
 			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
 		}
 	}
 	"metacritic_name" "ULTIMATE MARVEL VS. CAPCOM 3"
@@ -87,6 +113,44 @@
 			"pinned_position" "BottomLeft"
 			"width_pct" "12.358320436988208"
 			"height_pct" "35.8887176560883"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "12.358320436988208"
+				"height_pct" "35.8887176560883"
+			}
 		}
 	}
 	"store_asset_mtime" "1581666936"
@@ -121,6 +185,7 @@
 		"category_49" "1"
 		"category_44" "1"
 		"category_43" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -168,20 +233,21 @@
 		"2" "19"
 		"3" "1671"
 		"4" "3859"
-		"5" "1751"
-		"6" "1773"
+		"5" "1773"
+		"6" "1751"
 		"7" "3878"
-		"8" "1756"
-		"9" "4975"
-		"10" "7368"
-		"11" "4182"
-		"12" "7481"
-		"13" "4136"
-		"14" "1721"
-		"15" "10397"
+		"8" "7368"
+		"9" "1756"
+		"10" "4975"
+		"11" "7481"
+		"12" "4182"
+		"13" "4085"
+		"14" "4136"
+		"15" "3871"
+		"16" "10397"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -228,36 +294,9 @@
 		{
 			"public"
 			{
-				"gid" "7549865494669531118"
-				"size" "3783602430"
-				"download" "3385497136"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"master"
-			{
-				"gid" "E781B235DD1D3CCABCB83452E33D75F6"
-				"size" "75765DE572915E440BD46867B8CC05DD"
-				"download" "08FD5231D274B34B5A181D76EFC7DA39"
-			}
-			"master_20170403"
-			{
-				"gid" "E08270CBDE92A2C77EA69F2D8DA03D94"
-				"size" "C6982B56CAF620BD22A50837502D06AA"
-				"download" "800E586532111CBCF4AFDD3B7A19EAB2"
-			}
-			"qa_m_ex"
-			{
-				"gid" "E60339811996E11B446957314CACF7DE"
-				"size" "4E85AA4A13862C1ABDB9D7F38F669F7D"
-				"download" "A7B2D7E82A27F381752036AF483FABC0"
-			}
-			"rkcahwzgnmib1"
-			{
-				"gid" "4CF3AADA0E1C826FB4355A0CFEEE9484"
-				"size" "AF1AEB819E9EF02AE59146AF15D4BB89"
-				"download" "D755B18F71CE17A611DD610EFD870DF3"
+				"gid" "7121790127950441936"
+				"size" "3783561614"
+				"download" "3385495808"
 			}
 		}
 	}
@@ -265,34 +304,12 @@
 	{
 		"public"
 		{
-			"buildid" "11420782"
-			"timeupdated" "1690248121"
-		}
-		"master"
-		{
-			"buildid" "1650129"
-			"pwdrequired" "1"
-			"timeupdated" "1487810929"
-		}
-		"master_20170403"
-		{
-			"buildid" "1736002"
-			"pwdrequired" "1"
-			"timeupdated" "1491373572"
-		}
-		"qa_m_ex"
-		{
-			"buildid" "11420782"
-			"pwdrequired" "1"
-			"timeupdated" "1686203525"
-		}
-		"rkcahwzgnmib1"
-		{
-			"buildid" "13366209"
-			"pwdrequired" "1"
-			"timeupdated" "1707113915"
+			"buildid" "23359652"
+			"timeupdated" "1781488945"
+			"timebuildupdated" "1779439101"
 		}
 	}
+	"privatebranches" "1"
 }
 "ufs"
 {
@@ -300,6 +317,6 @@
 	"maxnumfiles" "4"
 }
 "_missing_token" "False"
-"_change_number" "22203293"
-"_sha" "ee292612016b43cf2873d7baf9817c4ec99316b5"
-"_size" "5771"
+"_change_number" "36575939"
+"_sha" "af2bcc8bbf0bd37a79bb2946f9195fa59b822358"
+"_size" "5792"
