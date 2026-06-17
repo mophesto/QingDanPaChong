@@ -86,6 +86,8 @@
 			"hdr_support" "0"
 		}
 	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "14f42ab797699a9c9f137fda66582d8776da4330/capsule_231x87.jpg"
@@ -201,6 +203,8 @@
 		"category_68" "1"
 		"category_69" "1"
 		"category_70" "1"
+		"category_18" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -277,7 +281,6 @@
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "578080"
-	"exfgls" "3"
 	"content_descriptors_including_dlc"
 	{
 		"0" "1"
@@ -438,9 +441,9 @@
 		{
 			"public"
 			{
-				"gid" "5995526131314481665"
-				"size" "52088048727"
-				"download" "50406524336"
+				"gid" "2898654354143392078"
+				"size" "55368003051"
+				"download" "52626071440"
 			}
 		}
 	}
@@ -450,9 +453,9 @@
 		{
 			"public"
 			{
-				"gid" "5606249817540734721"
-				"size" "740281729"
-				"download" "404332720"
+				"gid" "4884589506135123968"
+				"size" "744193970"
+				"download" "409900352"
 			}
 		}
 	}
@@ -460,14 +463,14 @@
 	{
 		"public"
 		{
-			"buildid" "23615494"
-			"timeupdated" "1781056924"
-			"timebuildupdated" "1780886799"
+			"buildid" "23754755"
+			"timeupdated" "1781654510"
+			"timebuildupdated" "1781578453"
 		}
 	}
 	"privatebranches" "1"
 }
 "_missing_token" "False"
-"_change_number" "36457640"
-"_sha" "abd1eb2f5261a8f6589b7cd81ea98496fa892fa3"
-"_size" "8438"
+"_change_number" "36634723"
+"_sha" "2684a8c6219b7b8e0b8eab044ae7178ffc8ba681"
+"_size" "8529"
