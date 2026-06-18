@@ -42,7 +42,7 @@
 			{
 				"oslist" "windows"
 				"osarch" "64"
-				"betakey" "public devbuilds 155_compatibility_branch public_beta"
+				"betakey" "public devbuilds public_beta 155_compatibility_branch 156_compatibility_branch  157_compatibility_branch  158_compatibility_branch 159_compatibility_branch  160_compatibility_branch"
 			}
 			"description_loc"
 			{
@@ -132,6 +132,12 @@
 				"download" "17808"
 			}
 			"159_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"160_compatibility_branch"
 			{
 				"gid" "8821057416756267898"
 				"size" "95930"
@@ -281,9 +287,9 @@
 		{
 			"public"
 			{
-				"gid" "2169245348016546719"
-				"size" "46470904"
-				"download" "14771616"
+				"gid" "5722070603085783220"
+				"size" "47879928"
+				"download" "15287072"
 			}
 			"155_compatibility_branch"
 			{
@@ -314,6 +320,12 @@
 				"gid" "2169245348016546719"
 				"size" "46470904"
 				"download" "14771616"
+			}
+			"160_compatibility_branch"
+			{
+				"gid" "5722070603085783220"
+				"size" "47879928"
+				"download" "15287072"
 			}
 			"legacy_compatibility_branch"
 			{
@@ -443,9 +455,9 @@
 			}
 			"public_beta"
 			{
-				"gid" "2169245348016546719"
-				"size" "46470904"
-				"download" "14771616"
+				"gid" "5722070603085783220"
+				"size" "47879928"
+				"download" "15287072"
 			}
 		}
 	}
@@ -453,9 +465,9 @@
 	{
 		"public"
 		{
-			"buildid" "22783971"
-			"timeupdated" "1778051812"
-			"timebuildupdated" "1776182411"
+			"buildid" "23525813"
+			"timeupdated" "1781765293"
+			"timebuildupdated" "1780401524"
 		}
 		"155_compatibility_branch"
 		{
@@ -491,6 +503,13 @@
 			"description" "1.59 compatibility branch"
 			"timeupdated" "1776183841"
 			"timebuildupdated" "1776182411"
+		}
+		"160_compatibility_branch"
+		{
+			"buildid" "23525813"
+			"description" "1.60 compatibility branch"
+			"timeupdated" "1780564138"
+			"timebuildupdated" "1780401524"
 		}
 		"legacy_compatibility_branch"
 		{
@@ -641,10 +660,10 @@
 		}
 		"public_beta"
 		{
-			"buildid" "22783971"
-			"description" "1.58 support branch (beta)"
-			"timeupdated" "1776183785"
-			"timebuildupdated" "1776182411"
+			"buildid" "23525813"
+			"description" "1.60 support branch (beta)"
+			"timeupdated" "1780564127"
+			"timebuildupdated" "1780401524"
 		}
 	}
 	"privatebranches" "1"
@@ -655,6 +674,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "35682075"
-"_sha" "e1cc55fd94a97cdcc95af3bd81c5791843009920"
-"_size" "14748"
+"_change_number" "36667411"
+"_sha" "9fb3428f0174812de553161bd3a35418dd342428"
+"_size" "15310"
