@@ -37,6 +37,7 @@
 		"spanish" "DAVE THE DIVER"
 		"german" "DAVE THE DIVER"
 	}
+	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -176,7 +177,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1755599732"
+	"store_asset_mtime" "1781763192"
 	"associations"
 	{
 		"0"
@@ -272,7 +273,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1687942826"
+	"steam_release_date" "1687942800"
 	"metacritic_score" "90"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dave-the-diver\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
@@ -287,15 +288,15 @@
 		"4" "1654"
 		"5" "3834"
 		"6" "15564"
-		"7" "122"
-		"8" "4182"
+		"7" "4182"
+		"8" "122"
 		"9" "9157"
 		"10" "599"
 		"11" "87918"
 		"12" "1742"
 		"13" "3959"
-		"14" "1702"
-		"15" "3871"
+		"14" "3871"
+		"15" "1702"
 		"16" "4136"
 		"17" "22602"
 		"18" "19"
@@ -309,7 +310,7 @@
 	"developer" "MINTROCKET"
 	"publisher" "MINTROCKET"
 	"homepage" "https://mintrock.et/"
-	"listofdlc" "2492320,2677020,2841140,3543180"
+	"listofdlc" "2492320,2677020,2841140,3543180,4394810"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -551,9 +552,9 @@
 		{
 			"public"
 			{
-				"gid" "4667272369299107337"
-				"size" "3316950865"
-				"download" "2487479360"
+				"gid" "1178354621983473539"
+				"size" "6010814618"
+				"download" "4593994672"
 			}
 		}
 	}
@@ -567,9 +568,9 @@
 		{
 			"public"
 			{
-				"gid" "2867823458894057217"
-				"size" "3423797057"
-				"download" "2458553264"
+				"gid" "5230355115971953747"
+				"size" "5899858800"
+				"download" "4418948192"
 			}
 		}
 	}
@@ -584,9 +585,9 @@
 		{
 			"public"
 			{
-				"gid" "8303250180391868718"
-				"size" "489736911"
-				"download" "394029888"
+				"gid" "3349027412596079707"
+				"size" "726119606"
+				"download" "573707776"
 			}
 		}
 	}
@@ -601,9 +602,9 @@
 		{
 			"public"
 			{
-				"gid" "3523098559722946035"
-				"size" "28577912"
-				"download" "23224032"
+				"gid" "1640036140298738282"
+				"size" "27270157"
+				"download" "22173664"
 			}
 		}
 	}
@@ -618,9 +619,9 @@
 		{
 			"public"
 			{
-				"gid" "2579806968208051974"
-				"size" "28583529"
-				"download" "23254592"
+				"gid" "4629321012438313755"
+				"size" "27277403"
+				"download" "22149632"
 			}
 		}
 	}
@@ -635,9 +636,9 @@
 		{
 			"public"
 			{
-				"gid" "5969075150231517220"
-				"size" "76176283"
-				"download" "70984320"
+				"gid" "4277352553098425670"
+				"size" "71790521"
+				"download" "66864480"
 			}
 		}
 	}
@@ -652,9 +653,9 @@
 		{
 			"public"
 			{
-				"gid" "1811376077504623732"
-				"size" "76174325"
-				"download" "70841488"
+				"gid" "415104347584392154"
+				"size" "71937165"
+				"download" "66792208"
 			}
 		}
 	}
@@ -669,9 +670,9 @@
 		{
 			"public"
 			{
-				"gid" "8491586211128714786"
-				"size" "209872951"
-				"download" "195724544"
+				"gid" "7053194086829219553"
+				"size" "210383241"
+				"download" "195537120"
 			}
 		}
 	}
@@ -686,9 +687,9 @@
 		{
 			"public"
 			{
-				"gid" "1623285286579638098"
-				"size" "208115072"
-				"download" "193987264"
+				"gid" "6888995605330603482"
+				"size" "206894045"
+				"download" "192970032"
 			}
 		}
 	}
@@ -703,9 +704,9 @@
 		{
 			"public"
 			{
-				"gid" "4147139220239033605"
-				"size" "167505013"
-				"download" "159592032"
+				"gid" "5509228382471746180"
+				"size" "167535024"
+				"download" "159639520"
 			}
 		}
 	}
@@ -720,9 +721,43 @@
 		{
 			"public"
 			{
-				"gid" "6576173497187422279"
-				"size" "168669044"
-				"download" "161931168"
+				"gid" "3013302774473378272"
+				"size" "168592098"
+				"download" "161906752"
+			}
+		}
+	}
+	"4394810"
+	{
+		"dlcappid" "4394810"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2262200023810515512"
+				"size" "0"
+				"download" "0"
+			}
+		}
+	}
+	"4394811"
+	{
+		"dlcappid" "4394810"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2071559694774481152"
+				"size" "794745894"
+				"download" "664637152"
 			}
 		}
 	}
@@ -730,8 +765,9 @@
 	{
 		"public"
 		{
-			"buildid" "21917203"
-			"timeupdated" "1771488065"
+			"buildid" "23798121"
+			"timeupdated" "1781772094"
+			"timebuildupdated" "1781768757"
 		}
 	}
 	"privatebranches" "1"
@@ -743,6 +779,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "33942888"
-"_sha" "926feff150becc8234576091441cf962002191aa"
-"_size" "12768"
+"_change_number" "36669691"
+"_sha" "ac095cacb13f6c111fcfeebceb2c9ff0b80195b9"
+"_size" "13275"
