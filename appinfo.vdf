@@ -397,9 +397,9 @@
 		{
 			"public"
 			{
-				"gid" "8310695377913438252"
-				"size" "100381148"
-				"download" "89408848"
+				"gid" "3350944096484718972"
+				"size" "100386528"
+				"download" "89414224"
 			}
 			"v1.39"
 			{
@@ -409,9 +409,9 @@
 			}
 			"public-beta"
 			{
-				"gid" "8310695377913438252"
-				"size" "100381148"
-				"download" "89408848"
+				"gid" "3350944096484718972"
+				"size" "100386528"
+				"download" "89414224"
 			}
 			"v1.245c"
 			{
@@ -437,15 +437,15 @@
 		{
 			"public"
 			{
-				"gid" "3912070691121237147"
-				"size" "100062198"
-				"download" "88650880"
+				"gid" "1286604431800772501"
+				"size" "100067594"
+				"download" "88656256"
 			}
 			"public-beta"
 			{
-				"gid" "3912070691121237147"
-				"size" "100062198"
-				"download" "88650880"
+				"gid" "1286604431800772501"
+				"size" "100067594"
+				"download" "88656256"
 			}
 			"v1.245c"
 			{
@@ -471,15 +471,15 @@
 		{
 			"public"
 			{
-				"gid" "7119265158306490462"
-				"size" "109701732"
-				"download" "91197536"
+				"gid" "3145099862922761442"
+				"size" "109707112"
+				"download" "91202912"
 			}
 			"public-beta"
 			{
-				"gid" "7119265158306490462"
-				"size" "109701732"
-				"download" "91197536"
+				"gid" "3145099862922761442"
+				"size" "109707112"
+				"download" "91202912"
 			}
 			"v1.245c"
 			{
@@ -499,9 +499,9 @@
 	{
 		"public"
 		{
-			"buildid" "23016835"
-			"timeupdated" "1777489538"
-			"timebuildupdated" "1777489437"
+			"buildid" "23818668"
+			"timeupdated" "1781860571"
+			"timebuildupdated" "1781860532"
 		}
 		"v1.39"
 		{
@@ -512,10 +512,10 @@
 		}
 		"public-beta"
 		{
-			"buildid" "23016835"
+			"buildid" "23818668"
 			"description" "v1.6x - join our discord to give feedback!"
-			"timeupdated" "1777489455"
-			"timebuildupdated" "1777489437"
+			"timeupdated" "1781860534"
+			"timebuildupdated" "1781860532"
 		}
 		"v1.245c"
 		{
@@ -587,6 +587,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "35552213"
-"_sha" "6dcb01e396543d5a7dc3c8bf85931845f6e539e3"
+"_change_number" "36696934"
+"_sha" "1d6a390b53b67c73d314a8664f70010159ea86d7"
 "_size" "10267"
